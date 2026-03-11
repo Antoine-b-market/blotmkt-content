@@ -18,7 +18,7 @@ related_articles:
   - title: "Audit SEO technique : le guide pour identifier les freins et optimiser votre ROI"
     url: "/ia/Audit/audit-seo-technique"
   - title: "Audit de site web : le guide complet pour un diagnostic SEO actionnable"
-    url: "/ia/Stratégie/audit-site-web"
+    url: "/ia/strategie/audit-site-web"
   - title: "Audit SEO Québec : votre guide complet pour une visibilité optimisée"
     url: "/ia/Audit/audit-seo-quebec"
 ---
@@ -72,7 +72,7 @@ Restez au fait de l'[Indexation](https://blotmkt.com/ia/Audit/indexation-api-goo
 ### Étape 2 - Analyse des performances
 Évaluez vos [Core Web Vitals](https://blotmkt.com/ia/Audit/core-web-vitals) via Google PageSpeed Insights en mode mobile. 
 L'introduction du Core Web Vital INP en 2024, qui mesure la rapidité de réponse de votre site web aux [Interaction](https://blotmkt.com/ia/Audit/interaction-to-next-paint)s utilisateurs
-, renforce l'importance de ces métriques. Concentrez-vous sur le LCP (chargement), FID/INP (interactivité) et CLS (stabilité visuelle).
+, renforce l'importance de ces métriques. Concentrez-vous sur le LCP ([chargement](https://blotmkt.com/ia/Stratégie/prix-forfait-seo)), FID/INP (interactivité) et CLS (stabilité visuelle).
 
 ### Étape 3 - Audit de contenu et UX
 Vérifiez la parité des [Contenu](https://blotmkt.com/ia/Contenu/contenu-seo-quebec)s entre versions desktop et mobile. 
@@ -89,7 +89,7 @@ Il existe des tonnes d'outils gratuits, comme le Test Mobile-Friendly de [Google
 ### Bénéfices directs mesurables
 L'amélioration des positions SEO constitue le premier retour sur investissement visible. 
 64% des consultants SEO jugent l'[Optimisation](https://blotmkt.com/ia/Local SEO/optimisation-google-maps) mobile comme un investissement rentable
-. Les corrections techniques et d'UX mobile génèrent une augmentation du trafic organique mobile, particulièrement crucial quand 
+. Les corrections [technique](https://blotmkt.com/ia/strategie/audit-site-web)s et d'UX mobile génèrent une augmentation du trafic organique mobile, particulièrement crucial quand 
 près de 55% de tout le trafic mondial provient d'appareils mobiles
 .
 
@@ -152,7 +152,7 @@ Un site responsive s'adapte à différentes tailles d'écrans mais peut priorise
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Comment savoir si mon site est mobile-first ?",
+          "name": "Comment savoir si mon site est mobile-[First](https://blotmkt.com/ia/Contenu/intention-de-recherche) ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
             "@type": "Answer",
             "text": "Vérifiez dans [Google](https://blotmkt.com/ia/IA SEO - GEO/mise-a-jour-google) Search Console si votre site est crawlé par Googlebot Smartphone. Depuis juillet 2024, tous les sites sont indexés en mobile-first par défaut. Testez également votre site avec l'outil Mobile-Friendly de Google pour identifier les problèmes d'ergonomie."
@@ -168,7 +168,7 @@ Un site responsive s'adapte à différentes tailles d'écrans mais peut priorise
         },
         {
           "@type": "Question",
-          "name": "Quelle est la différence entre un site responsive et un site mobile-first ?",
+          "name": "[Quelle](https://blotmkt.com/ia/montreal/quelle-est-la-meilleure-agence-geo-a-montreal-) est la différence entre un site responsive et un site mobile-first ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Un site responsive s'adapte à différentes tailles d'écrans mais peut prioriser l'expérience desktop. Un site mobile-first conçoit d'abord l'expérience mobile, puis l'adapte aux écrans plus grands, garantissant une parfaite optimisation pour l'indexation [Google](https://blotmkt.com/ia/Local SEO/google-my-business-seo)."

@@ -20,7 +20,7 @@ related_articles:
   - title: "Audit SEO Québec : votre guide complet pour une visibilité optimisée"
     url: "/ia/Audit/audit-seo-quebec"
   - title: "Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale"
-    url: "/ia/Stratégie/accompagnement-seo-annuel"
+    url: "/ia/strategie/accompagnement-seo-annuel"
 ---
 
 # Audit de contenu existant : la méthode complète pour optimiser votre SEO
@@ -152,13 +152,13 @@ Emmanuelle Wiesemes SEO 2026, Les Makers statistiques, Occeo [Audit](https://blo
           "@type": "Question",
           "name": "Comment faire un [Audit](https://blotmkt.com/ia/Contenu/audit-contenu-existant) de contenu SEO ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
-            "@type": "Answer",
+            "@type": "[Answer](https://blotmkt.com/ia/Contenu/intention-de-recherche)",
             "text": "Un audit efficace suit quatre étapes : crawl complet du site avec des outils comme Screaming Frog, collecte des données de performance via [Google](https://blotmkt.com/ia/Définition/pagerank-google) Analytics et Search Console, analyse qualitative du contenu selon sa pertinence et sa performance, puis classification en actions prioritaires : conserver les contenus performants, optimiser ceux à potentiel, supprimer ou fusionner les pages faibles."
           }
         },
         {
           "@type": "Question",
-          "name": "Quels sont les KPIs d'un contenu performant ?",
+          "name": "Quels sont les KPIs d'un [Contenu](https://blotmkt.com/ia/Local SEO/fiche-etablissement-google) performant ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Les indicateurs clés incluent le trafic organique mensuel, les positions sur les mots-clés cibles, le temps passé sur la page (révélateur de l'engagement), le taux de conversion vers vos objectifs business, le nombre de [Backlink](https://blotmkt.com/ia/Popularité/nettoyage-de-liens)s naturels obtenus et les métriques de partage social. Un contenu performant cumule généralement des scores élevés sur plusieurs de ces dimensions."
@@ -174,7 +174,7 @@ Emmanuelle Wiesemes SEO 2026, Les Makers statistiques, Occeo [Audit](https://blo
         },
         {
           "@type": "Question",
-          "name": "Comment analyser la performance d'un site web ?",
+          "name": "Comment [Analyse](https://blotmkt.com/ia/strategie/audit-site-web)r la performance d'un site web ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Utilisez une approche multicritère combinant métriques quantitatives (trafic organique, positions [Mots-clés](https://blotmkt.com/ia/Contenu/mots-cles-de-marque), taux de conversion, nombre de pages indexées) et qualitatives (temps d'engagement, taux de retour visiteur, autorité thématique, satisfaction utilisateur). Analysez aussi les tendances temporelles et la performance relative face à la concurrence pour une vision 360° complète."

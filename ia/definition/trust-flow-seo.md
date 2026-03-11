@@ -16,11 +16,11 @@ slug: "trust-flow-seo"
 url: "/ia/definition/trust-flow-seo"
 related_articles:
   - title: "SEO YMYL : le guide pratique pour maîtriser l'E-E-A-T et sécuriser vos classements"
-    url: "/ia/Définition/ymyl-seo"
+    url: "/ia/definition/ymyl-seo"
   - title: "Facteurs de classement google : le guide basé sur la documentation officielle"
-    url: "/ia/Popularité/facteurs-de-classement-google"
+    url: "/ia/popularite/facteurs-de-classement-google"
   - title: "Backlink de qualité : le guide pour acquérir des liens qui renforcent votre E-E-A-T"
-    url: "/ia/Définition/backlink-de-qualite"
+    url: "/ia/definition/backlink-de-qualite"
 ---
 
 # Trust flow SEO : le guide pour aligner votre métrique avec l'E-E-A-T de Google
@@ -51,7 +51,7 @@ Le Trust Flow (TF) est une métrique développée par l'outil Majestic SEO pour 
 
 Contrairement au Citation Flow (CF) qui mesure la quantité de [liens](https://blotmkt.com/ia/Définition/ancre-de-lien), le Trust Flow se concentre sur leur qualité
 . (Source : Majestic, 2024) 
-Un ratio TF/CF proche de 1:1 est idéal, indiquant que chaque backlink est de qualité
+Un ratio TF/CF proche de 1:1 est idéal, indiquant que chaque [Backlink](https://blotmkt.com/ia/Stratégie/prix-forfait-seo) est de qualité
 .
 
 Le calcul repose sur 
@@ -69,7 +69,7 @@ Une étude SEMrush de 2024 révèle que les pages avec de forts signaux [E-E-A-T
 . Le Trust Flow devient ainsi un indicateur externe précieux pour mesurer cette confiance que [Google](https://blotmkt.com/ia/Définition/discover-google-seo) valorise.
 
 Un TF élevé suggère que votre [contenu](https://blotmkt.com/ia/Contenu/audit-contenu-existant) est validé par des sources expertes et faisant autorité — un signal direct de confiance pour Google. 
-Les backlinks sont un indicateur de site autoritaire. Si quelqu'un fait un lien vers votre site en référençant des informations que vous avez publiées, c'est un signe que vous pouvez être approuvé. Obtenir des backlinks de sites autoritaires indique également que votre site est digne de confiance
+Les [Backlink](https://blotmkt.com/ia/strategie/prix-forfait-seo)s sont un indicateur de site autoritaire. Si quelqu'un fait un lien vers votre site en référençant des informations que vous avez publiées, c'est un signe que vous pouvez être approuvé. Obtenir des backlinks de sites autoritaires indique également que votre site est digne de confiance
 . (Source : Search [Engine](https://blotmkt.com/ia/IA SEO - GEO/generative-engine-optimization-(geo)) Land, 2025)
 
 ## Méthode : 5 étapes pour améliorer votre Trust Flow
@@ -113,7 +113,7 @@ Ahrefs utilise Domain Ranking (DR) et URL Ranking (UR)
 - **Moz Domain Authority (DA)** : 
 Moz utilise Domain Authority (DA) et Page Authority (PA)
   
-- **SEMrush Authority Score** : 
+- **SEMrush Authority [score](https://blotmkt.com/ia/ia-seo-geo/search-engine-over-optimization)** : 
 SEMrush propose un trust score appelé Authority Score (AS)
 
 Chacune a des similitudes mais aussi des différences majeures avec le Trust Flow de Majestic
@@ -132,7 +132,7 @@ considérez le Trust Flow comme une mesure relative. Utilisez Majestic pour comp
 
 Il est important de noter que [Google](https://blotmkt.com/ia/Contenu/structure-hn-seo) n'utilise pas DR, DA ou Trust Flow pour classer les pages
 . 
-Cependant, les métriques de fournisseurs SEO rapportent l'impact des liens sur votre site web et celui de vos concurrents, faisant des métriques vendor comme Trust Flow des outils importants entre de bonnes mains
+Cependant, les métriques de fournisseurs SEO rapportent l'impact des [liens](https://blotmkt.com/ia/Stratégie/audit-site-web) sur votre site web et celui de vos concurrents, faisant des métriques vendor comme Trust Flow des outils importants entre de bonnes mains
 .
 
 ### Comment augmenter rapidement son Trust Flow ?
@@ -180,7 +180,7 @@ Les métriques TF et CF répondent positivement aux efforts d'amélioration. Cr�
           "@type": "Question",
           "name": "Quel est un bon score de Trust Flow ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
-            "@type": "Answer",
+            "@type": "[Answer](https://blotmkt.com/ia/Contenu/intention-de-recherche)",
             "text": "Pour des sites visant une grande audience, un Trust Flow supérieur à 60 est excellent, entre 40 et 50 est moyen. Cependant, l'important est de comparer votre score avec celui de vos concurrents directs plutôt que viser un chiffre absolu."
           }
         },

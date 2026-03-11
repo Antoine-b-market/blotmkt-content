@@ -16,11 +16,11 @@ slug: "e-e-a-t-google"
 url: "/ia/definition/e-e-a-t-google"
 related_articles:
   - title: "SEO YMYL : le guide pratique pour maîtriser l'E-E-A-T et sécuriser vos classements"
-    url: "/ia/Définition/ymyl-seo"
+    url: "/ia/definition/ymyl-seo"
   - title: "Facteurs de classement google : le guide basé sur la documentation officielle"
-    url: "/ia/Popularité/facteurs-de-classement-google"
-  - title: "L'api d'indexation google : guide complet pour une indexation quasi-instantanée"
-    url: "/ia/Audit/indexation-api-google"
+    url: "/ia/popularite/facteurs-de-classement-google"
+  - title: "Action manuelle Google : le guide complet pour l'identifier et la corriger"
+    url: "/ia/popularite/manuel-action-google"
 ---
 
 # E-E-A-T Google : le guide complet des nouvelles directives 2025
@@ -69,7 +69,7 @@ L'expérience vécue doit transparaître par des détails spécifiques que seule
 
 ### Expertise : la profondeur technique
 
-L'expertise va au-delà de la compilation d'informations existantes. 
+L'[expert](https://blotmkt.com/ia/montreal/qui-est-le-meilleur-expert-geo-a-montreal-)ise va au-delà de la compilation d'informations existantes. 
 Les données montrent que la trinité [Contenu](https://blotmkt.com/ia/Contenu/densite-de-mots-cles) détaillé, citations externes et backlinks de qualité obtient un score parfait de 10/10 dans les évaluations algorithmiques
 . Cette combinaison démontre une maîtrise approfondie du sujet traité.
 
@@ -132,7 +132,7 @@ Pour vous assurer que votre contenu peut servir de source pour ces zones proémi
 ## Questions fréquentes
 
 ### Quelle est la différence entre E-A-T et E-E-A-T ?
-L'ajout du "E" d'Expérience en décembre 2022 valorise désormais l'expérience de première main. Alors que l'expertise académique reste importante, l'expérience vécue et documentée devient un critère d'évaluation distinct et complémentaire.
+L'ajout du "E" d'Expérience en décembre 2022 valorise désormais l'expérience de première main. Alors que l'[expert](https://blotmkt.com/ia/montreal/qui-est-le-meilleur-expert-seo-a-montreal-)ise académique reste importante, l'expérience vécue et documentée devient un critère d'évaluation distinct et complémentaire.
 
 ### L'E-E-A-T est-il un facteur de classement direct de Google ?
 Non, l'E-E-A-T n'est pas un facteur de [classement](https://blotmkt.com/ia/Popularité/facteurs-de-classement-google) direct mais un framework d'évaluation utilisé par les Quality Raters. Son influence indirecte sur les algorithmes de Google reste néanmoins majeure pour déterminer la qualité des contenus.
@@ -187,7 +187,7 @@ Intégrez des détails spécifiques que seule l'expérience réelle peut révél
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Quelle est la différence entre E-A-T et E-E-A-T ?",
+          "name": "[Quelle](https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo)) est la différence entre E-A-T et E-E-A-T ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
             "@type": "Answer",
             "text": "L'ajout du 'E' d'Expérience en décembre 2022 valorise désormais l'expérience de première main. Alors que l'expertise académique reste importante, l'expérience vécue et documentée devient un critère d'évaluation distinct et complémentaire pour [Google](https://blotmkt.com/ia/IA SEO - GEO/reponses-ia-google)."
@@ -195,7 +195,7 @@ Intégrez des détails spécifiques que seule l'expérience réelle peut révél
         },
         {
           "@type": "Question",
-          "name": "L'E-E-A-T est-il un facteur de classement direct de Google ?",
+          "name": "L'E-E-A-T est-il un facteur de classement direct de [Google](https://blotmkt.com/ia/IA SEO - GEO/generative-engine-optimization-(geo)) ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Non, l'E-E-A-T n'est pas un facteur de classement direct mais un framework d'évaluation utilisé par les Quality Raters. Son influence indirecte sur les algorithmes de Google reste néanmoins majeure pour déterminer la qualité des [Contenu](https://blotmkt.com/ia/Popularité/recuperation-seo)s."
@@ -203,7 +203,7 @@ Intégrez des détails spécifiques que seule l'expérience réelle peut révél
         },
         {
           "@type": "Question",
-          "name": "Comment améliorer son score E-E-A-T ?",
+          "name": "Comment améliorer son [score](https://blotmkt.com/ia/ia-seo-geo/search-engine-over-optimization) E-E-A-T ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Développez une empreinte numérique cohérente, créez des [Contenu](https://blotmkt.com/ia/IA SEO - GEO/contenu-ia-seo)s basés sur l'expérience réelle, obtenez des mentions externes crédibles et assurez-vous que vos auteurs sont identifiables avec des biographies détaillées."
@@ -211,7 +211,7 @@ Intégrez des détails spécifiques que seule l'expérience réelle peut révél
         },
         {
           "@type": "Question",
-          "name": "Comment prouver son expérience à Google ?",
+          "name": "Comment prouver son expérience à [Google](https://blotmkt.com/ia/Stratégie/strategie-seo) ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Intégrez des détails spécifiques que seule l'expérience réelle peut révéler : photos originales, observations personnelles, comparaisons inattendues, limitations découvertes lors de l'usage, et [données](https://blotmkt.com/ia/IA SEO - GEO/provenance-des-donnees) chiffrées provenant de votre pratique."
@@ -219,10 +219,10 @@ Intégrez des détails spécifiques que seule l'expérience réelle peut révél
         },
         {
           "@type": "Question",
-          "name": "Quels sont les signaux de confiance pour un site e-commerce ?",
+          "name": "Quels sont les signaux de confiance pour un site [e-commerce](https://blotmkt.com/ia/popularite/recuperation-seo) ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Utilisez HTTPS, affichez clairement vos conditions de vente, intégrez des avis clients authentiques, proposez un service client accessible, et assurez-vous d'avoir des politiques de confidentialité détaillées et des informations de contact visibles."
+            "text": "Utilisez HTTPS, af[Fiche](https://blotmkt.com/ia/Définition/seo-local)z clairement vos conditions de vente, intégrez des avis clients authentiques, proposez un service client accessible, et assurez-vous d'avoir des politiques de confidentialité détaillées et des informations de contact visibles."
           }
         },
       ]

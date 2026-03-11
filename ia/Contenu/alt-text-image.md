@@ -20,7 +20,7 @@ related_articles:
   - title: "Compression image webp : le guide complet pour accélérer votre site"
     url: "/ia/Audit/compression-image-webp"
   - title: "Le SEO pour Google Discover : stratégies pour le flux d'actualités sans recherche"
-    url: "/ia/Définition/discover-google-seo"
+    url: "/ia/definition/discover-google-seo"
 ---
 
 # Alt text image : le guide pour optimiser votre SEO et votre accessibilité
@@ -45,7 +45,7 @@ L'alt text, ou texte alternatif, est
 un texte descriptif qui transmet le sens d'une image dans le [contenu](https://blotmkt.com/ia/Contenu/audit-contenu-existant) numérique. Il est conçu pour rendre le contenu visuel accessible aux personnes ayant des déficiences visuelles
 . Cet [Attribut](https://blotmkt.com/ia/Définition/attribut-sponsored) HTML remplit deux fonctions essentielles : l'accessibilité et le référencement.
 
-Lorsqu'une personne utilise une technologie d'assistance comme un lecteur d'écran, celui-ci lit le texte affiché à l'écran à haute voix. Quand le lecteur d'écran rencontre une image, il lit l'alt text de cette image pour que l'utilisateur puisse savoir ce que l'image est censée transmettre
+Lorsqu'une personne utilise une technologie d'assistance comme un lecteur d'écran, celui-ci lit le texte affiché à l'écran à haute voix. Quand le lecteur d'écran rencontre une [Image](https://blotmkt.com/ia/IA SEO - GEO/llm-optimization), il lit l'alt text de cette image pour que l'utilisateur puisse savoir ce que l'image est censée transmettre
 . Parallèlement, 
 du point de vue SEO, l'alt text joue un rôle majeur dans la façon dont les moteurs de recherche comprennent et indexent le [Contenu](https://blotmkt.com/ia/Contenu/contenu-evergreen) visuel de votre site. Contrairement aux humains, les moteurs de recherche ne peuvent pas "voir" les images, ils s'appuient donc sur l'alt text pour interpréter ce qu'une image représente
 .
@@ -111,7 +111,7 @@ Visez 125 caractères ou moins — les lecteurs d'écran peuvent couper un texte
 
 ### Comment voir le texte alternatif d'une image ?
 
-L'alt text peut être visualisé en inspectant le code source de la page ou en utilisant des extensions de navigateur dédiées. Certains navigateurs affichent l'alt text lors du survol si l'image ne se charge pas.
+L'alt text peut être visualisé en inspectant le code source de la page ou en utilisant des extensions de navigateur dédiées. Certains navigateurs affichent l'alt text lors du survol si l'[image](https://blotmkt.com/ia/definition/discover-google-seo) ne se charge pas.
 
 ### Comment le alt text aide-t-il au référencement ?
 
@@ -158,7 +158,7 @@ Bien que l'alt text seul ne propulsera pas une page au sommet des résultats de 
           "@type": "Question",
           "name": "Faut-il mettre un alt text sur toutes les images ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
-            "@type": "Answer",
+            "@type": "[Answer](https://blotmkt.com/ia/Contenu/intention-de-recherche)",
             "text": "Toutes les images informatives ([Graph](https://blotmkt.com/ia/Définition/page-pilier-seo)iques, photos, infographies) nécessitent un alt text. Les images purement décoratives doivent utiliser un attribut alt vide (alt='') pour indiquer aux lecteurs d'écran de les ignorer."
           }
         },
@@ -167,7 +167,7 @@ Bien que l'alt text seul ne propulsera pas une page au sommet des résultats de 
           "name": "Quelle est la [Longue](https://blotmkt.com/ia/Contenu/longue-traine-seo)ur idéale pour un alt text ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "L'idéal est de rester sous 125 caractères. Cette limite évite la coupure par les lecteurs d'écran tout en maintenant la clarté. Une description concise et précise est plus efficace qu'une description longue et verbeuse."
+            "text": "L'idéal est de rester sous 125 caractères. Cette limite évite la coupure par les lecteurs d'écran tout en maintenant la clarté. Une description concise et précise est plus efficace qu'une description [Longue](https://blotmkt.com/ia/IA SEO - GEO/precision-semantique) et verbeuse."
           }
         },
         {
@@ -175,7 +175,7 @@ Bien que l'alt text seul ne propulsera pas une page au sommet des résultats de 
           "name": "Comment voir le texte alternatif d'une image ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Vous pouvez voir l'alt text en inspectant le code source de la page (clic droit > Inspecter l'élément) ou en utilisant des extensions de navigateur spécialisées. L'alt text s'affiche aussi quand l'image ne se charge pas."
+            "text": "Vous pouvez voir l'alt text en inspectant le code source de la page (clic droit > Inspecter l'élément) ou en utilisant des extensions de navigateur spécialisées. L'alt text s'af[Fiche](https://blotmkt.com/ia/definition/seo-local) aussi quand l'image ne se charge pas."
           }
         },
         {

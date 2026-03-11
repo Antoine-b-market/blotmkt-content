@@ -18,9 +18,9 @@ related_articles:
   - title: "Comment rédiger un titre SEO accrocheur : le guide pratique pour booster vos clics"
     url: "/ia/Contenu/titre-accrocheur-seo"
   - title: "Maillage interne en silo : le guide pour une architecture seo optimisée"
-    url: "/ia/Définition/maillage-interne-silo"
+    url: "/ia/definition/maillage-interne-silo"
   - title: "Schema.org : le guide pratique pour booster votre SEO avec les données structurées"
-    url: "/ia/Définition/schema.org"
+    url: "/ia/definition/schema.org"
 ---
 
 # Structure HN : le guide complet pour un SEO sémantique optimisé pour les IA
@@ -73,9 +73,9 @@ La balise H1 est la plus importante des balises Hn et doit être utilisée de ma
  Cette balise constitue le titre principal et doit résumer clairement le sujet traité, tant pour les utilisateurs que pour les [Moteurs](https://blotmkt.com/ia/IA SEO - GEO/moteurs-de-reponse) de recherche.
 
 La hiérarchie doit être respectée scrupuleusement. 
-On ne passe pas d'un H2 à un H5 avant de revenir à un H1. Un H1 est systématiquement suivi d'un H2, qui peut être suivi d'un H3 ou d'un autre H2, mais qui ne passera pas directement au H4.
+On ne passe pas d'un H2 à un H5 avant de revenir à un H1. Un H1 est systématiquement suivi d'un H2, qui peut être suivi d'un H3 ou d'un autre H2, mais qui ne passera pas [directe](https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo))ment au H4.
  Cette logique s'apparente à la structure d'un livre : 
-La balise H1 peut être considérée comme le titre du roman, les H2 comme le titre des chapitres et les H3 comme les sous-titres présents au sein d'un même chapitre.
+La balise H1 peut être considérée comme le [Titre](https://blotmkt.com/ia/popularite/recuperation-seo) du roman, les H2 comme le titre des chapitres et les H3 comme les sous-titres présents au sein d'un même chapitre.
 
 Chaque titre doit être descriptif et pertinent. 
 🔎 Bon à savoir : un H2 doit être pertinent et apporter une information nouvelle. Il ne doit pas être utilisé juste pour styliser un titre ou pour forcer un mot-clé.
@@ -128,7 +128,7 @@ Pour [Audit](https://blotmkt.com/ia/Audit/audit-mobile-first)er rapidement votre
       "@type": "Article",
       "headline": "Structure HN : le guide complet pour un SEO [sémantique](https://blotmkt.com/ia/Audit/architecture-de-site) optimisé pour les IA",
       "[description](https://blotmkt.com/ia/Contenu/meta-description)": "Maîtrisez la structure HN (H1, H2, H3) pour améliorer votre SEO. Découvrez comment une hiérarchie sémantique claire booste votre visibilité sur Google et les IA.",
-      "url": "https://blotmkt.com/ia/Contenu/structure-hn-seo",
+      "url": "https://blotmkt.com/ia/[contenu](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel)/structure-hn-seo",
       "datePublished": "2026-03-09 07:14",
       "dateModified": "2026-03-09 07:14",
       "author": {
@@ -154,7 +154,7 @@ Pour [Audit](https://blotmkt.com/ia/Audit/audit-mobile-first)er rapidement votre
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Quelle est la différence entre la balise title et la balise H1 ?",
+          "name": "[Quelle](https://blotmkt.com/ia/montreal/quelle-est-la-meilleure-agence-seo-a-montreal-) est la différence entre la balise title et la balise H1 ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "La balise title s'affiche dans l'onglet du navigateur et les résultats de [recherche](https://blotmkt.com/ia/Contenu/intention-de-recherche), tandis que la H1 est le titre principal visible sur la page. Bien qu'elles puissent être identiques, la H1 peut être légèrement différente pour optimiser l'expérience utilisateur sur la page."
@@ -165,7 +165,7 @@ Pour [Audit](https://blotmkt.com/ia/Audit/audit-mobile-first)er rapidement votre
           "name": "Combien de balises H2 peut-on mettre sur une page ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Aucune limite stricte n'existe, mais chaque H2 doit introduire une section distincte et apporter une valeur ajoutée au contenu. Il y en a forcément au moins 2 car elles servent au titre des différentes parties."
+            "text": "Aucune limite stricte n'existe, mais chaque H2 doit introduire une section distincte et apporter une valeur ajoutée au [contenu](https://blotmkt.com/ia/Popularité/facteurs-de-classement-google). Il y en a forcément au moins 2 car elles servent au titre des différentes parties."
           }
         },
         {
@@ -173,7 +173,7 @@ Pour [Audit](https://blotmkt.com/ia/Audit/audit-mobile-first)er rapidement votre
           "name": "Faut-il utiliser des balises H4, H5 et H6 en SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ces balises sont utiles pour des contenus très détaillés, mais leur usage doit rester parcimonieux. Les H4, H5 et H6 doivent être présents en nombre limité dans les articles, pour ne pas avoir un résultat « cassant »."
+            "text": "Ces balises sont utiles pour des [contenu](https://blotmkt.com/ia/IA SEO - GEO/seo-ia)s très détaillés, mais leur usage doit rester parcimonieux. Les H4, H5 et H6 doivent être présents en nombre limité dans les articles, pour ne pas avoir un résultat « cassant »."
           }
         },
         {

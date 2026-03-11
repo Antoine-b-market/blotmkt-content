@@ -15,12 +15,12 @@ date_modified: "2026-03-09 06:02"
 slug: "cumulative-layout-shift"
 url: "/ia/Audit/cumulative-layout-shift"
 related_articles:
+  - title: "Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité"
+    url: "/ia/popularite/filtre-google"
   - title: "Stratégie SEO : le guide pour aligner contenu, ROI et IA générative"
-    url: "/ia/Stratégie/strategie-seo"
+    url: "/ia/strategie/strategie-seo"
   - title: "Optimisation llm (llmo) : le guide pratique pour adapter votre seo à l'ère de l'ia"
-    url: "/ia/IA SEO - GEO/llm-optimization"
-  - title: "Page pilier SEO : le guide pour structurer votre autorité thématique"
-    url: "/ia/Définition/page-pilier-seo"
+    url: "/ia/ia-seo-geo/llm-optimization"
 ---
 
 Je vais d'abord [recherche](https://blotmkt.com/ia/Contenu/intention-de-recherche)r des sources récentes et crédibles sur le Cumulative Layout Shift pour enrichir cet article.
@@ -53,7 +53,7 @@ la fr[action](https://blotmkt.com/ia/Popularité/manuel-action-google) d'impact 
 
 [Google](https://blotmkt.com/ia/Audit/indexation-api-google) définit trois seuils critiques pour le CLS : 
 un bon score CLS est 0.1 ou inférieur. [Google](https://blotmkt.com/ia/Définition/algorithme-google) catégorise cette plage de score comme 'Bon', ce qui signifie qu'il atteint le seuil idéal pour la stabilité visuelle dans l'évaluation des Core Web Vitals
-. Les scores entre 0.1 et 0.25 nécessitent une amélioration, tandis que ceux supérieurs à 0.25 sont considérés comme problématiques (Source : Infidigit, 2025).
+. Les [score](https://blotmkt.com/ia/IA SEO - GEO/search-engine-over-optimization)s entre 0.1 et 0.25 nécessitent une amélioration, tandis que ceux supérieurs à 0.25 sont considérés comme problématiques (Source : Infidigit, 2025).
 
 ## Comment mesurer et diagnostiquer précisément votre score CLS ?
 
@@ -123,7 +123,7 @@ Le CLS fait partie des [Core Web Vitals](https://blotmkt.com/ia/Définition/e-e-
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Cumulative Layout Shift (CLS) : le guide pour atteindre un score inférieur à 0.1",
+      "headline": "Cumulative Layout Shift (CLS) : le guide pour atteindre un [score](https://blotmkt.com/ia/ia-seo-geo/search-engine-over-optimization) inférieur à 0.1",
       "[description](https://blotmkt.com/ia/Contenu/meta-description)": "Comprenez le Cumulative Layout Shift (CLS), un Core Web Vital essentiel. Apprenez à mesurer et corriger les décalages de mise en page pour le SEO.",
       "url": "https://blotmkt.com/ia/[Audit](https://blotmkt.com/ia/Audit/audit-mobile-first)/cumulative-layout-shift",
       "datePublished": "2026-03-09 06:02",

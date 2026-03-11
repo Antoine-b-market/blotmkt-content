@@ -71,7 +71,7 @@ Les heatmaps permettent de "livrer des rapports visuels faciles à comprendre po
 . Cette clarté visuelle facilite les présentations aux décideurs marketing ou direction générale.
 
 Le gain de temps opérationnel représente un bénéfice substantiel. 
-Les outils modernes "retournent un score SEO global, une liste de tâches priorisée et un rapport détaillé" permettant d'"implémenter d'abord les corrections à fort impact et suivre les victoires rapides"
+Les outils modernes "retournent un [score](https://blotmkt.com/ia/ia-seo-geo/search-engine-over-optimization) SEO global, une liste de tâches priorisée et un rapport détaillé" permettant d'"implémenter d'abord les corrections à fort impact et suivre les victoires rapides"
 . Cette approche structurée optimise l'allocation des ressources techniques et éditoriales.
 
 L'alignement des équipes devient naturel grâce au support visuel partagé, permettant aux équipes techniques, [Contenu](https://blotmkt.com/ia/Contenu/contenu-seo-quebec) et marketing de travailler sur les mêmes priorités clairement identifiées.
@@ -147,22 +147,22 @@ Traitez d'abord le rouge (critiques : [Indexation](https://blotmkt.com/ia/Audit/
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "visual SEO report, SEO audit dashboard, SEO scoring, rapport d'audit SEO visuel, outil audit SEO, checklist audit technique, priorisation SEO"
+      "keywords": "visual SEO report, SEO [audit](https://blotmkt.com/ia/Définition/maillage-interne-silo) dashboard, SEO scoring, rapport d'audit SEO visuel, outil audit SEO, checklist audit technique, priorisation SEO"
     },
     {
       "@type": "FAQPage",
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Qu'est-ce qu'un audit SEO par heatmap et en quoi diffère-t-il d'un audit classique ?",
+          "name": "Qu'est-ce qu'un [Audit](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel) SEO par heatmap et en quoi diffère-t-il d'un audit classique ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
-            "@type": "Answer",
-            "text": "Un audit SEO par heatmap transforme les données complexes d'un audit traditionnel en représentation visuelle avec un code couleur rouge/orange/vert, remplaçant les tableaux Excel de centaines de lignes par un dashboard où les priorités apparaissent immédiatement."
+            "@type": "[Answer](https://blotmkt.com/ia/Contenu/intention-de-recherche)",
+            "text": "Un [Audit](https://blotmkt.com/ia/strategie/audit-site-web) SEO par heatmap transforme les données complexes d'un audit traditionnel en représentation visuelle avec un code couleur rouge/orange/vert, remplaçant les tableaux Excel de centaines de lignes par un dashboard où les priorités apparaissent immédiatement."
           }
         },
         {
           "@type": "Question",
-          "name": "Comment une heatmap visuelle peut-elle représenter les données d'un audit SEO ?",
+          "name": "Comment une heatmap visuelle peut-elle représenter les données d'un [audit](https://blotmkt.com/ia/definition/maillage-interne-silo) SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "La heatmap agrège les scores pondérés de différentes catégories SEO (technique 25%, [contenu](https://blotmkt.com/ia/Contenu/mise-a-jour-contenu) 25%, performance 10%) pour créer des zones colorées où chaque couleur indique un niveau de criticité spécifique et actionnable."
@@ -170,7 +170,7 @@ Traitez d'abord le rouge (critiques : [Indexation](https://blotmkt.com/ia/Audit/
         },
         {
           "@type": "Question",
-          "name": "Quels sont les avantages concrets d'un rapport d'audit SEO sous forme de heatmap ?",
+          "name": "Quels sont les avantages concrets d'un rapport d'[Audit](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) SEO sous forme de heatmap ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Priorisation immédiate des actions critiques, communication simplifiée avec les non-experts SEO, gain de temps d'[Analyse](https://blotmkt.com/ia/Audit/fichier-robots.txt), et alignement des équipes techniques et marketing sur les mêmes priorités visuellement identifiées."

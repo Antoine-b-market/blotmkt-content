@@ -18,9 +18,9 @@ related_articles:
   - title: "Audit de contenu existant : la méthode complète pour optimiser votre SEO"
     url: "/ia/Contenu/audit-contenu-existant"
   - title: "Mise à jour Google : le guide complet pour comprendre et s'adapter"
-    url: "/ia/IA SEO - GEO/mise-a-jour-google"
+    url: "/ia/ia-seo-geo/mise-a-jour-google"
   - title: "Facteurs de classement google : le guide basé sur la documentation officielle"
-    url: "/ia/Popularité/facteurs-de-classement-google"
+    url: "/ia/popularite/facteurs-de-classement-google"
 ---
 
 # Mise à jour de contenu : la méthode pour un SEO durable et centré sur l'utilisateur
@@ -148,7 +148,7 @@ SEOptimer, 2024
           "@type": "Question",
           "name": "Quand faut-il mettre à jour un article de blog ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
-            "@type": "Answer",
+            "@type": "[Answer](https://blotmkt.com/ia/Contenu/intention-de-recherche)",
             "text": "Un article doit être mis à jour lorsque ses performances déclinent (baisse de trafic, positions perdues), que les informations deviennent obsolètes, ou quand de nouveaux développements dans le domaine permettent d'enrichir significativement le [Contenu](https://blotmkt.com/ia/IA SEO - GEO/contenu-ia-seo) existant."
           }
         },
@@ -162,7 +162,7 @@ SEOptimer, 2024
         },
         {
           "@type": "Question",
-          "name": "Comment savoir si un contenu est obsolète ?",
+          "name": "Comment savoir si un [contenu](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel) est obsolète ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Un contenu est considéré comme obsolète quand il présente des informations dépassées, des statistiques anciennes, des [liens](https://blotmkt.com/ia/Popularité/nettoyage-de-liens) brisés, ou quand il ne répond plus aux attentes actuelles des utilisateurs. Les métriques de la Search Console révèlent souvent cette obsolescence par une baisse progressive des performances."

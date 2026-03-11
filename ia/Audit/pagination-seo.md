@@ -18,9 +18,9 @@ related_articles:
   - title: "Exploration Googlebot : le guide complet pour optimiser votre budget de crawl"
     url: "/ia/Audit/exploration-googlebot"
   - title: "Récupération SEO : Stratégies avancées pour regagner votre visibilité à l'ère de l'IA"
-    url: "/ia/Popularité/recuperation-seo"
+    url: "/ia/popularite/recuperation-seo"
   - title: "Optimisation llm (llmo) : le guide pratique pour adapter votre seo à l'ère de l'ia"
-    url: "/ia/IA SEO - GEO/llm-optimization"
+    url: "/ia/ia-seo-geo/llm-optimization"
 ---
 
 # Pagination SEO : le guide complet pour optimiser votre crawl après rel=prev/next
@@ -45,7 +45,7 @@ Depuis l'abandon des balises `rel=prev/next` par Google en 2019, les SEOs peinen
 
 In SEO, pagination is a way to split your [Content](https://blotmkt.com/ia/Contenu/content-gap-seo) across multiple pages to help speed up your site and ensure users can easily click through long lists of products, blog posts, or search results.
  Cette méthode de division du [Contenu](https://blotmkt.com/ia/Contenu/densite-de-mots-cles) en une série de pages séquentielles poursuit un double objectif : 
-Breaking up large content sets reduces page load time. A single page with 1,000 products will probably load much slower than a page with just 20 products.
+Breaking up large [Content](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo) sets reduces page load time. A single page with 1,000 products will probably load much slower than a page with just 20 products.
  tout en permettant aux robots d'[Exploration](https://blotmkt.com/ia/Audit/fichier-robots.txt) de découvrir l'ensemble des URLs d'une catégorie.
 
 Cependant, 
@@ -78,16 +78,16 @@ Each page in your pagination sequence should include a canonical tag (an HTML sn
 It quite literally does not matter which UX solution you select, so long as the way it's implemented in HTML meets SEO pagination requirements. In all three cases, the goal is ultimately the same: make sure that all the different elements of your listings are in HTML that crawlers can access — especially links!
 
 La pagination classique reste la solution la plus sûre pour l'exploration par les robots car elle repose sur des liens HTML standards accessibles immédiatement. 
-Google primarily indexes URLs in `<a>` tags and doesn't trigger JavaScript actions for content updates.
- Cette approche garantit une découvrabilité optimale du contenu.
+Google primarily indexes URLs in `<a>` tags and doesn't trigger JavaScript [action](https://blotmkt.com/ia/Définition/intention-informative)s for content updates.
+ Cette approche garantit une découvrabilité optimale du [contenu](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel).
 
 Le scroll infini présente des défis majeurs : 
 Although the load more approach is a user-friendly solution, there is an SEO risk involved. Often, this solution only works with Javascript. Search engine crawlers don't use Javascript or only execute it at a later stage, so they can't find the internal links to deeper content.
- Sans version paginée accessible via l'API History, le contenu chargé dynamiquement reste invisible pour Googlebot.
+ Sans version paginée accessible via l'API History, le [contenu](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) chargé dynamiquement reste invisible pour Googlebot.
 
 Le bouton "Charger plus" souffre des mêmes limitations : 
 Google's John Mueller confirmed that Google doesn't click the load more button.
- Le contenu n'étant accessible qu'après une action utilisateur, il demeure souvent indétectable pour les robots d'exploration. La pagination traditionnelle conserve donc le meilleur ROI en termes de découvrabilité SEO.
+ Le contenu n'étant accessible qu'après une [action](https://blotmkt.com/ia/Contenu/intention-de-recherche) utilisateur, il demeure souvent indétectable pour les robots d'exploration. La pagination traditionnelle conserve donc le meilleur ROI en termes de découvrabilité SEO.
 
 ## Cas d'usage : optimiser son budget de crawl sur un site e-commerce ou un blog
 
@@ -130,7 +130,7 @@ Give each page a unique URL. For example, include a ?page=n query parameter, as 
     {
       "@type": "Article",
       "headline": "Pagination SEO : le guide complet pour optimiser votre crawl après rel=prev/next",
-      "description": "Maîtrisez la pagination SEO avec nos meilleures pratiques. Optimisez votre budget de crawl, évitez le duplicate content et améliorez votre indexation. Guide 2024.",
+      "description": "Maîtrisez la pagination SEO avec nos meilleures pratiques. Optimisez votre [Budget de crawl](https://blotmkt.com/ia/Audit/audit-seo-technique), évitez le duplicate content et améliorez votre indexation. Guide 2024.",
       "url": "https://blotmkt.com/ia/[Audit](https://blotmkt.com/ia/Contenu/audit-contenu-existant)/pagination-seo",
       "datePublished": "2026-03-09 19:10",
       "dateModified": "2026-03-09 19:10",
@@ -150,7 +150,7 @@ Give each page a unique URL. For example, include a ?page=n query parameter, as 
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "budget de crawl, maillage interne, duplicate content, rel=prev/next, scroll infini seo, indexation google, balise canonique"
+      "keywords": "budget de crawl, maillage interne, duplicate content, rel=prev/next, scroll infini seo, [Indexation](https://blotmkt.com/ia/definition/ymyl-seo) google, balise canonique"
     },
     {
       "@type": "FAQPage",
@@ -160,7 +160,7 @@ Give each page a unique URL. For example, include a ?page=n query parameter, as 
           "name": "Faut-il mettre les pages paginées en noindex ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Non, évitez de bloquer les contenus paginés via robots.txt ou canonical. Cela empêche Google d'explorer ces pages et de comprendre la structure complète de votre site, créant potentiellement des pages orphelines."
+            "text": "Non, évitez de bloquer les [Contenu](https://blotmkt.com/ia/Contenu/mise-a-jour-contenu)s paginés via robots.txt ou canonical. Cela empêche Google d'explorer ces pages et de comprendre la structure complète de votre site, créant potentiellement des pages orphelines."
           }
         },
         {
@@ -184,7 +184,7 @@ Give each page a unique URL. For example, include a ?page=n query parameter, as 
           "name": "Le scroll infini est-il compatible avec le SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Le scroll infini présente des risques SEO majeurs car il repose souvent sur JavaScript. Les robots ne 'scrollent' pas et ne découvrent pas le contenu chargé dynamiquement sans version paginée accessible."
+            "text": "Le scroll infini présente des risques SEO majeurs car il repose souvent sur JavaScript. Les robots ne 'scrollent' pas et ne découvrent pas le [Contenu](https://blotmkt.com/ia/local-seo/fiche-etablissement-google) chargé dynamiquement sans version paginée accessible."
           }
         },
       ]

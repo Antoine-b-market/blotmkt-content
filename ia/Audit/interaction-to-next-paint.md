@@ -42,11 +42,11 @@ l'INP évalue chaque inter[action](https://blotmkt.com/ia/Popularité/manuel-act
 
 L'INP mesure le temps total entre le moment de l'interaction utilisateur et le moment où la prochaine [image](https://blotmkt.com/ia/Audit/compression-image-webp) est peinte à l'écran
 . Cette métrique révolutionnaire 
-élimine les limitations fondamentales du FID : alors que FID ne mesurait que la première interaction, l'INP considère toutes les interactions tout au long de la session
+élimine les limitations fondamentales du FID : alors que FID ne mesurait que la première inter[action](https://blotmkt.com/ia/Définition/intention-informative), l'INP considère toutes les interactions tout au long de la session
 .
 
 L'INP se compose de trois phases cruciales : l'[Input](https://blotmkt.com/ia/Audit/first-input-delay) delay (délai d'entrée), le processing time (temps de traitement) et le presentation delay (délai de présentation). 
-Contrairement au FID qui ignorait complètement le temps d'exécution des gestionnaires d'événements et le temps de peinture visuelle, l'INP capture ces trois phases pour une vue complète de la latence d'interaction
+Contrairement au FID qui ignorait complètement le temps d'exécution des gestionnaires d'événements et le temps de peinture visuelle, l'INP capture ces trois phases pour une vue complète de la latence d'inter[action](https://blotmkt.com/ia/popularite/algorithme-penalite)
 .
 
 Un bon [score](https://blotmkt.com/ia/Popularité/spam-score) INP est de 200 millisecondes ou moins au 75e percentile, tandis qu'un INP supérieur à 500 millisecondes est considéré comme mauvais
@@ -108,7 +108,7 @@ L'INP est une métrique Core Web Vitals plus complète car elle mesure toutes le
 
 ### Comment corriger un mauvais INP ?
 
-Fractionnez les tâches JavaScript longues, optimisez les gestionnaires d'événements, réduisez la complexité du DOM et implémentez un feedback visuel immédiat pour améliorer la perception de la réactivité.
+Fractionnez les tâches JavaScript [Longue](https://blotmkt.com/ia/IA SEO - GEO/precision-semantique)s, optimisez les gestionnaires d'événements, réduisez la complexité du DOM et implémentez un feedback visuel immédiat pour améliorer la perception de la réactivité.
 
 ### Quel est un bon score INP ?
 
@@ -155,13 +155,13 @@ Un bon score INP est de 200ms ou moins, avec un LCP ≤2.5s et un CLS <0.1 pour 
           "@type": "Question",
           "name": "Qu'est-ce que l'Interaction to Next Paint (INP) et pourquoi remplace-t-il le FID ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
-            "@type": "Answer",
-            "text": "L'INP est une métrique Core Web Vitals plus complète qui mesure toutes les interactions durant la visite d'une page et capture l'intégralité du cycle de vie de l'interaction, contrairement au FID qui ne mesurait que la première interaction et ignorait le temps de traitement."
+            "@type": "[Answer](https://blotmkt.com/ia/Contenu/intention-de-recherche)",
+            "text": "L'INP est une métrique [Core Web Vitals](https://blotmkt.com/ia/definition/amp-google-seo) plus complète qui mesure toutes les interactions durant la visite d'une page et capture l'intégralité du cycle de vie de l'interaction, contrairement au FID qui ne mesurait que la première interaction et ignorait le temps de traitement."
           }
         },
         {
           "@type": "Question",
-          "name": "Comment mesurer et identifier les causes d'un mauvais score INP ?",
+          "name": "Comment mesurer et identifier les causes d'un mauvais [score](https://blotmkt.com/ia/ia-seo-geo/search-engine-over-optimization) INP ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Utilisez les données CrUX dans [Google](https://blotmkt.com/ia/Définition/e-e-a-t-google) Search Console ou PageSpeed Insights pour les données de terrain, puis Chrome DevTools Performance pour identifier les interactions problématiques et les Long Tasks qui bloquent le thread principal."

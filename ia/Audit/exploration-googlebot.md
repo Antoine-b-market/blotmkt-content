@@ -134,7 +134,7 @@ Même si la limite de capacité d'exploration n'est pas atteinte, si la demande 
 
 ### Comment demander à Google d'explorer une URL ?
 Utilisez l'outil d'inspection d'URL dans Google Search Console pour demander une ré[Indexation](https://blotmkt.com/ia/Définition/ymyl-seo) d'une page spécifique. 
-Vous pouvez également accélérer la réindexation en soumettant un sitemap ou en utilisant l'outil d'inspection d'URL
+Vous pouvez également accélérer la réindexation en soumettant un [Sitemap](https://blotmkt.com/ia/Définition/maillage-interne-silo) ou en utilisant l'outil d'inspection d'URL
 .
 
 ### Quelle est la différence entre exploration et indexation ?
@@ -158,7 +158,7 @@ Medium - Tomas Laurinavicius, 2024
 [{"question": "Comment savoir si Googlebot a exploré mon site ?", "[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": "Vous pouvez consulter le rapport Statistiques d'exploration dans Google Search Console qui montre l'activité récente de Googlebot. Pour des URL spécifiques, inspectez les logs de votre serveur où chaque requête de Googlebot est enregistrée, bien que Search Console ne fournisse pas d'historique d'exploration filtrable par URL."},
 {"question": "Pourquoi Googlebot n'explore-t-il pas toutes mes pages ?", "answer": "Le budget de crawl de Googlebot dépend de deux facteurs : la capacité d'exploration (pour éviter de surcharger votre serveur) et la demande d'exploration (basée sur la popularité, qualité et fréquence de mise à jour de votre site). Si la demande est faible, Google explorera moins votre site même si les limites [technique](https://blotmkt.com/ia/Audit/audit-seo-quebec)s ne sont pas atteintes."},
 {"question": "Comment demander à [Google](https://blotmkt.com/ia/Popularité/penalite-google) d'explorer une URL ?", "answer": "Utilisez l'outil d'inspection d'URL dans Google Search Console pour demander l'indexation d'une page spécifique. Vous pouvez également soumettre un sitemap XML mis à jour ou utiliser l'API Search Console pour accélérer le processus de découverte, bien que cela puisse prendre plusieurs jours pour les sites non sensibles au temps."},
-{"question": "Quelle est la différence entre exploration et indexation ?", "answer": "L'exploration (crawling) est le processus par lequel Googlebot découvre et télécharge les pages web, tandis
+{"question": "Quelle est la différence entre exploration et indexation ?", "answer": "L'exploration (crawling) est le processus par lequel [Google](https://blotmkt.com/ia/IA SEO - GEO/generative-engine-optimization-(geo))bot découvre et télécharge les pages web, tandis
 
 ```json
 {
@@ -166,7 +166,7 @@ Medium - Tomas Laurinavicius, 2024
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Exploration Googlebot : le guide complet pour optimiser votre budget de crawl",
+      "headline": "Exploration [Google](https://blotmkt.com/ia/Stratégie/strategie-seo)bot : le guide complet pour optimiser votre budget de crawl",
       "[description](https://blotmkt.com/ia/Contenu/meta-description)": "Découvrez le processus d'exploration de Googlebot. Apprenez à gérer votre budget de crawl, utiliser robots.txt et sitemaps pour une indexation SEO optimale.",
       "url": "https://blotmkt.com/ia/[Audit](https://blotmkt.com/ia/Audit/audit-mobile-first)/exploration-googlebot",
       "datePublished": "2026-03-09 06:15",
@@ -187,14 +187,14 @@ Medium - Tomas Laurinavicius, 2024
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "budget de crawl, robots.txt, sitemap xml, Google Search Console, erreurs d'exploration"
+      "keywords": "budget de crawl, robots.txt, [Sitemap](https://blotmkt.com/ia/definition/maillage-interne-silo) xml, Google Search Console, erreurs d'exploration"
     },
     {
       "@type": "FAQPage",
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Comment savoir si Googlebot a exploré mon site ?",
+          "name": "Comment savoir si [Google](https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo))bot a exploré mon site ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Voir la section correspondante."
@@ -202,7 +202,7 @@ Medium - Tomas Laurinavicius, 2024
         },
         {
           "@type": "Question",
-          "name": "Pourquoi Googlebot n'explore pas toutes mes pages ?",
+          "name": "Pourquoi [Google](https://blotmkt.com/ia/strategie/prix-forfait-seo)bot n'explore pas toutes mes pages ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Voir la section correspondante."
@@ -210,7 +210,7 @@ Medium - Tomas Laurinavicius, 2024
         },
         {
           "@type": "Question",
-          "name": "Comment demander à Google d'explorer une URL ?",
+          "name": "Comment demander à [Google](https://blotmkt.com/ia/strategie/mandat-seo-entreprise) d'explorer une URL ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Voir la section correspondante."
@@ -218,7 +218,7 @@ Medium - Tomas Laurinavicius, 2024
         },
         {
           "@type": "Question",
-          "name": "Quelle est la différence entre exploration et indexation ?",
+          "name": "Quelle est la différence entre exploration et [Indexation](https://blotmkt.com/ia/definition/ymyl-seo) ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Voir la section correspondante."

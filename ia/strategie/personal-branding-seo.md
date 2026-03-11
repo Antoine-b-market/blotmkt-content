@@ -16,9 +16,9 @@ slug: "personal-branding-seo"
 url: "/ia/strategie/personal-branding-seo"
 related_articles:
   - title: "NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA"
-    url: "/ia/Local SEO/nap-seo-local"
+    url: "/ia/local-seo/nap-seo-local"
   - title: "Entité nommée SEO : le guide pour devenir une référence aux yeux de Google"
-    url: "/ia/IA SEO - GEO/entite-nommee-seo"
+    url: "/ia/ia-seo-geo/entite-nommee-seo"
   - title: "Audit SEO technique : le guide pour identifier les freins et optimiser votre ROI"
     url: "/ia/Audit/audit-seo-technique"
 ---
@@ -37,7 +37,7 @@ Une [marque](https://blotmkt.com/ia/Contenu/mots-cles-de-marque) personnelle for
 
 Vous optimisez votre site pour [Google](https://blotmkt.com/ia/Définition/ux-design-seo), mais qui optimise *votre nom* ? 
 44% des recherches [Google](https://blotmkt.com/ia/Contenu/titre-accrocheur-seo) aux États-Unis concernent des termes de marque
-, révélant une réalité cruciale : les internautes cherchent des *personnes*, pas seulement des entreprises. Pourtant, 80% des professionnels négligent leur présence personnelle en ligne, laissant leur réputation au hasard des algorithmes. Le Personal branding SEO transforme cette faiblesse en avantage stratégique, vous positionnant comme l'autorité incontournable dans votre domaine.
+, révélant une réalité cruciale : les internautes cherchent des *personnes*, pas seulement des entreprises. Pourtant, 80% des professionnels négligent leur présence personnelle en ligne, laissant leur réputation au hasard des [Algorithme](https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo))s. Le Personal branding SEO transforme cette faiblesse en avantage stratégique, vous positionnant comme l'autorité incontournable dans votre domaine.
 
 ---
 
@@ -57,7 +57,7 @@ Cette stratégie optimise votre présence en ligne pour que votre nom apparaisse
 
 ### Étape 1 : Audit de l'e-réputation et analyse SERP
 
-Pour comprendre votre empreinte numérique, vous devez effectuer une recherche approfondie sur vous-même. Il est important de savoir ce qui apparaît quand quelqu'un vous cherche. Commencez par rechercher votre nom complet entre guillemets sur Google et Bing
+Pour comprendre votre empreinte numérique, vous devez effectuer une [recherche](https://blotmkt.com/ia/Définition/intention-informative) approfondie sur vous-même. Il est important de savoir ce qui apparaît quand quelqu'un vous cherche. Commencez par rechercher votre nom complet entre guillemets sur Google et Bing
 .
 
 Cette [Analyse](https://blotmkt.com/ia/Audit/fichier-robots.txt) révèle vos "actifs numériques" actuels et identifie les menaces potentielles. 
@@ -67,7 +67,7 @@ Testez les variations de votre nom, surnoms et [Titre](https://blotmkt.com/ia/Co
 ### Étapes 2-5 : Construction stratégique de l'autorité
 
 L'étape 2 définit vos [mots-clés](https://blotmkt.com/ia/Définition/page-pilier-seo) de compétence (expertise) et de marque (votre nom). L'étape 3 optimise vos "hubs de confiance" : 
-site personnel avec section "À propos" détaillée, incluant liens vers vos profils, références, histoires personnelles et médias prouvant votre expertise. Cette approche globale aide les moteurs de recherche à vous percevoir comme une autorité
+site personnel avec section "À propos" détaillée, incluant liens vers vos profils, références, histoires personnelles et médias prouvant votre expertise. Cette approche globale aide les moteurs de [recherche](https://blotmkt.com/ia/definition/intention-informative) à vous percevoir comme une autorité
 .
 
 Les étapes 4 et 5 créent le [contenu](https://blotmkt.com/ia/Audit/audit-seo-montreal) d'autorité et développent une stratégie de Digital PR pour obtenir mentions et citations depuis des sources fiables, permettant aux IA de vous citer naturellement.
@@ -78,7 +78,7 @@ Une campagne SEO de thought leadership, qui investit dans la création de [Conte
 . Cependant, les métriques traditionnelles (trafic, classements) ne suffisent plus pour mesurer l'impact du Personal branding SEO.
 
 Les indicateurs prioritaires incluent l'augmentation du volume de recherche sur votre nom (branded search), votre part de voix sur vos thématiques d'expertise, et l'obtention d'éléments SERP enrichis. 
-Quand vous recherchez une personne et voyez cette boîte propre à droite (le Knowledge Panel), c'est Google qui reconnaît une entité
+Quand vous recherchez une personne et voyez cette boîte propre à droite (le Knowledge Panel), c'est [Google](https://blotmkt.com/ia/definition/ymyl-seo) qui reconnaît une entité
 .
 
 Le KPI ultime reste les mentions dans les réponses générées par l'IA. 
@@ -90,7 +90,7 @@ Les AI Overviews apparaissent dans jusqu'à 47% de tous les résultats de recher
 Les moteurs de recherche privilégient le [Contenu](https://blotmkt.com/ia/Popularité/recuperation-seo) de haute qualité et de valeur. Rédiger des blogs informatifs satisfait non seulement vos lecteurs mais s'align avec les bonnes pratiques SEO
 , contrairement aux réseaux sociaux qui génèrent un engagement éphémère.
 
-Une mention dans un média reconnu ou une publication d'expert constitue un signal de confiance bien plus fort pour Google et les LLMs qu'un post viral. 
+Une mention dans un média reconnu ou une publication d'expert constitue un signal de confiance bien plus fort pour [Google](https://blotmkt.com/ia/strategie/prix-forfait-seo) et les LLMs qu'un post viral. 
 Cela se produit grâce à un balisage Schema cohérent, des citations dans des publications faisant autorité, et une empreinte numérique forte et cohérente sur plusieurs plateformes
 .
 
@@ -105,7 +105,7 @@ Les campagnes SEO obtiennent un retour sur investissement positif dans les 6 à 
 
 ### Comment le SEO personnel influence-t-il les résultats de recherche sur mon nom ?
 
-Quand les gens connaissent votre marque et la recherchent activement, ils cliquent davantage sur votre site web. Cela génère des taux de clic plus élevés pour les recherches de marque. Google considère le CTR comme un signal de classement
+Quand les gens connaissent votre [marque](https://blotmkt.com/ia/Stratégie/tarif-horaire-seo) et la recherchent activement, ils cliquent davantage sur votre site web. Cela génère des taux de clic plus élevés pour les recherches de marque. Google considère le CTR comme un signal de classement
 , améliorant vos positions sur tous types de requêtes.
 
 ### Dois-je avoir un blog pour mon personal branding ?
@@ -131,7 +131,7 @@ Search Engine Land Personal SEO Guide, 2025
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Personal branding SEO : comment construire votre autorité pour Google et l'IA",
+      "headline": "Personal branding SEO : comment construire votre autorité pour [Google](https://blotmkt.com/ia/Contenu/structure-hn-seo) et l'IA",
       "[description](https://blotmkt.com/ia/Contenu/balise-h1-seo)": "Apprenez à maîtriser le Personal branding SEO. Bâtissez une marque personnelle forte, reconnue par Google et citée par l'IA. Devenez une autorité.",
       "url": "https://blotmkt.com/ia/Stratégie/personal-branding-seo",
       "datePublished": "2026-03-09 16:52",
@@ -152,7 +152,7 @@ Search Engine Land Personal SEO Guide, 2025
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "branded search, stratégie de marque SEO, e-réputation Google, devenir une autorité en ligne, optimisation pour les LLM, Knowledge Graph personnel"
+      "keywords": "branded search, stratégie de [marque](https://blotmkt.com/ia/strategie/tarif-horaire-seo) SEO, e-réputation Google, devenir une autorité en ligne, optimisation pour les LLM, Knowledge Graph personnel"
     },
     {
       "@type": "FAQPage",
@@ -178,7 +178,7 @@ Search Engine Land Personal SEO Guide, 2025
           "name": "Dois-je avoir un blog pour mon personal branding ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pas obligatoirement. Votre site personnel n'a pas besoin de dizaines de pages. Vous pouvez même commencer avec une page bien structurée. L'essentiel est la cohérence : contenu d'expertise régulier, mentions dans des médias fiables, et optimisation de tous vos points de contact numériques."
+            "text": "Pas obligatoirement. Votre site personnel n'a pas besoin de dizaines de pages. Vous pouvez même commencer avec une page bien structurée. L'essentiel est la cohérence : [contenu](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel) d'expertise régulier, mentions dans des médias fiables, et optimisation de tous vos points de contact numériques."
           }
         },
       ]

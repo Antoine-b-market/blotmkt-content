@@ -16,11 +16,11 @@ slug: "ux-design-seo"
 url: "/ia/definition/ux-design-seo"
 related_articles:
   - title: "Refonte site SEO : le guide pour moderniser votre site sans perdre votre trafic"
-    url: "/ia/Stratégie/refonte-site-seo"
+    url: "/ia/strategie/refonte-site-seo"
+  - title: "Expertise SEO technique : le levier stratégique pour votre performance digitale"
+    url: "/ia/strategie/expertise-seo-technique"
   - title: "Facteurs de classement google : le guide basé sur la documentation officielle"
-    url: "/ia/Popularité/facteurs-de-classement-google"
-  - title: "SEO YMYL : le guide pratique pour maîtriser l'E-E-A-T et sécuriser vos classements"
-    url: "/ia/Définition/ymyl-seo"
+    url: "/ia/popularite/facteurs-de-classement-google"
 ---
 
 # UX design SEO : le guide pour fusionner expérience utilisateur et référencement
@@ -53,7 +53,7 @@ les moteurs de recherche comme [Google](https://blotmkt.com/ia/Contenu/structure
 .
 
 Le SXO (Search Experience Optimization) émerge comme l'évolution naturelle de cette fusion, combinant SEO et UX pour améliorer non seulement la visibilité mais aussi la [qualité](https://blotmkt.com/ia/Définition/page-pilier-seo) de l'interaction utilisateur
-. Cette approche holistique transforme votre site en un outil commercial performant où chaque visiteur a de meilleures chances de conversion.
+. Cette approche holistique transforme votre site en un outil commercial performant où chaque visiteur a de [meilleure](https://blotmkt.com/ia/montreal/quelle-est-la-meilleure-agence-geo-a-montreal-)s chances de conversion.
 
 ## Comment une bonne UX influence directement les classements SEO
 
@@ -164,7 +164,7 @@ L'UI (User Interface) concerne l'aspect visuel et l'interface graphique, tandis 
           "@type": "Question",
           "name": "Comment l'UX affecte-t-elle le SEO ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
-            "@type": "Answer",
+            "@type": "[Answer](https://blotmkt.com/ia/Contenu/intention-de-recherche)",
             "text": "L'UX affecte le SEO car Google privilégie les sites offrant une expérience exceptionnelle. Les signaux d'engagement comme le temps passé sur page et le [Taux de rebond](https://blotmkt.com/ia/Définition/discover-google-seo) influencent directement les classements."
           }
         },
@@ -178,7 +178,7 @@ L'UI (User Interface) concerne l'aspect visuel et l'interface graphique, tandis 
         },
         {
           "@type": "Question",
-          "name": "Quel est l'impact des Core Web Vitals sur le mobile ?",
+          "name": "Quel est l'impact des [Core Web Vitals](https://blotmkt.com/ia/definition/amp-google-seo) sur le mobile ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Les Core Web Vitals sont intégrés dans l'[Algorithme](https://blotmkt.com/ia/Définition/pagerank-google) de classement mobile de Google. Les sites excellant dans ces métriques ont plus de chances de bien se classer dans les résultats mobiles."

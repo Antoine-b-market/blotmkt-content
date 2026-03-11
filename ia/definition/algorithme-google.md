@@ -17,10 +17,10 @@ url: "/ia/definition/algorithme-google"
 related_articles:
   - title: "Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne"
     url: "/ia/Contenu/clustering-de-mots-cles"
+  - title: "Search Generative Experience (SGE) : le guide complet pour l'optimisation SEO à l'ère de l'IA"
+    url: "/ia/ia-seo-geo/search-generative-experience-(sge)"
   - title: "Optimisation SGE : Maîtriser le nouveau paradigme de la recherche IA"
-    url: "/ia/IA SEO - GEO/sge-optimization"
-  - title: "Generative Engine Optimization (GEO) : le guide complet pour l'ère de l'IA"
-    url: "/ia/IA SEO - GEO/generative-engine-optimization-(geo)"
+    url: "/ia/ia-seo-geo/sge-optimization"
 ---
 
 # Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative

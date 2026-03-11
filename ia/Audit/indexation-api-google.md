@@ -16,11 +16,11 @@ slug: "indexation-api-google"
 url: "/ia/Audit/indexation-api-google"
 related_articles:
   - title: "Désindexation google: guide pratique pour contrôler votre visibilité en ligne"
-    url: "/ia/Popularité/desindexation-google"
+    url: "/ia/popularite/desindexation-google"
   - title: "Budget de crawl : le guide pour l'optimiser et accélérer votre indexation"
     url: "/ia/Audit/budget-de-crawl"
   - title: "SEO YMYL : le guide pratique pour maîtriser l'E-E-A-T et sécuriser vos classements"
-    url: "/ia/Définition/ymyl-seo"
+    url: "/ia/definition/ymyl-seo"
 ---
 
 # L'API d'indexation Google : guide complet pour une indexation quasi-instantanée
@@ -96,7 +96,7 @@ Pour notifier Google d'une nouvelle URL à explorer ou qu'un [contenu](https://b
 
 ## API vs Sitemap : quelle stratégie pour un meilleur ROI SEO ?
 
-La question de l'opposition entre API et sitemap révèle une incompréhension fondamentale : ces outils sont complémentaires, non concurrents. 
+La question de l'opposition entre API et [Sitemap](https://blotmkt.com/ia/definition/maillage-interne-silo) révèle une incompréhension fondamentale : ces outils sont complémentaires, non concurrents. 
 Ces APIs sont encore expérimentales et ne remplacent pas vos sitemaps XML.
 
 ### L'approche stratégique hybride
@@ -177,7 +177,7 @@ Les sitemaps XML restent la méthode standard et recommandée. L'API IndexNow de
           "@type": "Question",
           "name": "Comment savoir si une page est indexée par [Google](https://blotmkt.com/ia/Local SEO/optimisation-google-maps) ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
-            "@type": "Answer",
+            "@type": "[Answer](https://blotmkt.com/ia/Contenu/intention-de-recherche)",
             "text": "Utilisez l'opérateur 'site:' dans Google ou l'outil d'inspection d'URL dans Search Console. L'API d'indexation ne garantit pas l'indexation, elle demande seulement une exploration prioritaire. La [Réponse](https://blotmkt.com/ia/IA SEO - GEO/reponse-directe-ia) HTTP 200 confirme la réception de la demande, pas l'indexation effective."
           }
         },
@@ -199,7 +199,7 @@ Les sitemaps XML restent la méthode standard et recommandée. L'API IndexNow de
         },
         {
           "@type": "Question",
-          "name": "Quelles sont les alternatives à l'API d'indexation ?",
+          "name": "[Quelle](https://blotmkt.com/ia/montreal/quelle-est-la-meilleure-agence-geo-a-montreal-)s sont les alternatives à l'API d'indexation ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Les sitemaps XML restent la méthode standard recommandée. L'API IndexNow de Microsoft/Bing offre une alternative multi-[Moteurs](https://blotmkt.com/ia/IA SEO - GEO/moteurs-de-reponse) avec 200 requêtes/jour pour Google et 10 000 pour Bing. Les signaux de découverte naturels demeurent fondamentaux."

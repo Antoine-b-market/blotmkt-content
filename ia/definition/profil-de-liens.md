@@ -16,11 +16,11 @@ slug: "profil-de-liens"
 url: "/ia/definition/profil-de-liens"
 related_articles:
   - title: "Nettoyage de liens : le guide pour assainir votre profil de backlinks"
-    url: "/ia/Popularité/nettoyage-de-liens"
+    url: "/ia/popularite/nettoyage-de-liens"
   - title: "Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité"
-    url: "/ia/Définition/ancre-de-lien"
+    url: "/ia/definition/ancre-de-lien"
   - title: "Audit de site web : le guide complet pour un diagnostic SEO actionnable"
-    url: "/ia/Stratégie/audit-site-web"
+    url: "/ia/strategie/audit-site-web"
 ---
 
 # Profil de liens : le guide complet pour analyser et optimiser votre autorité SEO
@@ -83,7 +83,7 @@ Ces outils offrent des exports et [score](https://blotmkt.com/ia/Popularité/spa
 
 Les liens toxiques proviennent typiquement de fermes de liens, annuaires automatiques, PBN mal gérés ou sites spammy de mauvaise qualité non pertinents pouvant nuire au [classement](https://blotmkt.com/ia/Popularité/facteurs-de-classement-google)
 . 
-Les outils identifient ces liens via des scores de toxicité élevés (supérieur à 60 sur SEMrush), en vérifiant qu'ils n'apportent aucune valeur réelle (pas de trafic, pas de lien éditorial, pas de contexte)
+Les outils identifient ces [liens](https://blotmkt.com/ia/Stratégie/audit-site-web) via des scores de toxicité élevés (supérieur à 60 sur SEMrush), en vérifiant qu'ils n'apportent aucune valeur réelle (pas de trafic, pas de lien éditorial, pas de contexte)
 .
 
 Depuis la mise à jour SpamBrain (2023), [Google](https://blotmkt.com/ia/IA SEO - GEO/mise-a-jour-google) utilise l'intelligence artificielle pour repérer les schémas de liens non naturels, avec des milliers de sites ayant subi des chutes de trafic de plus de 40 % après détection de profils douteux
@@ -120,7 +120,7 @@ Les interviews fournissent visibilité et liens depuis des sites d'autorité, ta
 
 Selon Moz (2024), les domaines adoptant une [Stratégie](https://blotmkt.com/ia/Stratégie/strategie-seo) de liens progressive et contrôlée connaissent une croissance organique 2,3 fois supérieure à ceux misant sur des campagnes ponctuelles
 . 
-Une stratégie efficace combine création de valeur et relationnel actif, la seule prospection à froid ne suffisant plus
+Une [Stratégie](https://blotmkt.com/ia/ia-seo-geo/llm-optimization) efficace combine création de valeur et relationnel actif, la seule prospection à froid ne suffisant plus
 . (Source : Heroic Impulsion, 2025 ; Blogueur Pro, 2025)
 
 ---
@@ -134,7 +134,7 @@ Utilisez Google Search Console pour télécharger la liste de vos liens ou les o
 
 ### C'est quoi un lien toxique en SEO ?
 
-Un lien toxique provient d'un site de mauvaise qualité considéré comme spam, ferme de liens ou réseaux artificiels, pouvant avoir un impact négatif sur le classement dans les résultats de recherche
+Un lien toxique provient d'un site de mauvaise qualité considéré comme spam, ferme de liens ou réseaux artificiels, pouvant avoir un impact négatif sur le classement dans les résultats de [recherche](https://blotmkt.com/ia/Définition/intention-informative)
 .
 
 ### Comment obtenir des backlinks de qualité gratuitement ?
@@ -185,7 +185,7 @@ Les backlinks DoFollow augmentent effectivement le classement d'un site web, tan
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Comment vérifier les backlinks d'un site ?",
+          "name": "Comment vérifier les [Backlink](https://blotmkt.com/ia/strategie/prix-forfait-seo)s d'un site ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
             "@type": "Answer",
             "text": "Utilisez Google Search Console pour télécharger la liste officielle de vos liens, ou des outils comme SEMrush et Ahrefs qui offrent des analyses approfondies avec leurs bases de données étendues permettant un [audit](https://blotmkt.com/ia/Audit/sitemap-xml-audit) complet en moins d'une heure."
@@ -209,7 +209,7 @@ Les backlinks DoFollow augmentent effectivement le classement d'un site web, tan
         },
         {
           "@type": "Question",
-          "name": "Quelle est la différence entre un lien nofollow et dofollow ?",
+          "name": "Quelle est la différence entre un lien [Nofollow](https://blotmkt.com/ia/Stratégie/prix-forfait-seo) et dofollow ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Les liens dofollow transmettent l'autorité et améliorent le classement SEO. Les liens nofollow portent l'[Attribut](https://blotmkt.com/ia/Définition/profil-de-liens) rel='nofollow' indiquant aux moteurs de ne pas transmettre leur pouvoir de référencement, bien que Google les considère comme indices depuis 2019."

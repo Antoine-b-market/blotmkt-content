@@ -20,7 +20,7 @@ related_articles:
   - title: "Mots-clés transactionnels : le guide pour cibler l'intention d'achat avec l'IA"
     url: "/ia/Contenu/mots-cles-transactionnels"
   - title: "Intention informative : le guide SEO complet à l'ère de l'ia (SGE)"
-    url: "/ia/Définition/intention-informative"
+    url: "/ia/definition/intention-informative"
 ---
 
 # L'intention navigationnelle : le signal client à intégrer dans votre tracking omnicanal
@@ -53,7 +53,7 @@ Les requêtes typiques incluent "site agence Poush", "Fnac ordinateurs portables
 
 Cette [Intention](https://blotmkt.com/ia/Contenu/optimisation-de-contenu) révèle un niveau de familiarité avancé avec la marque. 
 Elle démontre la notoriété de la [marque](https://blotmkt.com/ia/Contenu/mots-cles-de-marque) et l'existence d'une relation client préétablie
- (Source : Abondance, 2023). Contrairement aux recherches informationnelles, l'utilisateur a déjà identifié sa destination et cherche simplement le chemin le plus rapide pour y accéder.
+ (Source : Abondance, 2023). Contrairement aux [Recherche](https://blotmkt.com/ia/IA SEO - GEO/llm-seo)s informationnelles, l'utilisateur a déjà identifié sa destination et cherche simplement le chemin le plus rapide pour y accéder.
 
 ## Navigationnelle vs Informationnelle vs Transactionnelle : le jeu des 3 intentions
 
@@ -61,7 +61,7 @@ Les intentions de recherche se regroupent en 4 catégories : navigationnelle, in
 . La différenciation repose sur l'objectif final de l'utilisateur. L'intention navigationnelle vise l'accès (aller vers), l'informationnelle recherche la connaissance (savoir), la commerciale compare (évaluer), tandis que la trans[action](https://blotmkt.com/ia/Popularité/manuel-action-google)nelle pousse à l'action (faire/acheter).
 
 Point critique : 
-une requête comme "Amazon" relève de l'intention navigationnelle, tandis qu'"Amazon avis" bascule vers l'intention commerciale
+une requête comme "Amazon" relève de l'[Intention](https://blotmkt.com/ia/Audit/audit-semantique) navigationnelle, tandis qu'"Amazon avis" bascule vers l'intention commerciale
 . Cette nuance impacte directement votre stratégie de [contenu](https://blotmkt.com/ia/Contenu/audit-contenu-existant). 
 Les [mots-clés](https://blotmkt.com/ia/Contenu/clustering-de-mots-cles) de navigation génèrent du trafic de marque et révèlent l'efficacité de vos actions de notoriété
  (Source : Net Offensive, 2020).
@@ -77,7 +77,7 @@ Le taux de conversion reste l'indicateur le plus direct, suivi du coût d'acquis
 ### Calcul du ROI navigationnel
 
 Le ROI permet de comparer ce que chaque euro investi rapporte en corrélant l'augmentation du trafic navigationnel avec les métriques de rétention client comme la LTV
-. Mesurez l'évolution des recherches de marque suite à vos campagnes offline (TV, radio, affichage). 
+. Mesurez l'évolution des recherches de [marque](https://blotmkt.com/ia/Stratégie/tarif-horaire-seo) suite à vos campagnes offline (TV, radio, affichage). 
 La personnalisation de l'expérience client génère un ROI important en termes d'évolution des ventes
  (Source : Sogec Marketing, 2025).
 
@@ -85,7 +85,7 @@ La personnalisation de l'expérience client génère un ROI important en termes 
 
 ### Le parcours client moderne décodé
 
-Le prospect moderne est agnostique au canal : il commence sa recherche dans le métro, compare sur son bureau et finalise l'achat en boutique
+Le prospect moderne est agnostique au canal : il commence sa [Recherche](https://blotmkt.com/ia/strategie/expert-seo-quebec) dans le métro, compare sur son bureau et finalise l'achat en boutique
 . 
 Un parcours type : recherche produit sur mobile le lundi, email personnalisé le mardi, publicité Facebook le mercredi, visite en magasin avec accès vendeur à l'historique complet
 .
@@ -111,7 +111,7 @@ Une requête navigationnelle survient quand l'internaute connaît la page qu'il 
 
 ### Pourquoi le trafic de marque est-il important en SEO ?
 
-L'intention navigationnelle démontre la notoriété de la marque et constitue un indicateur de la relation client préexistante
+L'[Intention](https://blotmkt.com/ia/definition/intention-informative) navigationnelle démontre la notoriété de la marque et constitue un indicateur de la relation client préexistante
 .
 
 ### Quels sont les 4 types d'intention de recherche ?
@@ -170,10 +170,10 @@ Les [entreprise](https://blotmkt.com/ia/Stratégie/mandat-seo-entreprise)s doive
         },
         {
           "@type": "Question",
-          "name": "Pourquoi le trafic de marque est-il important en SEO ?",
+          "name": "Pourquoi le trafic de [marque](https://blotmkt.com/ia/strategie/tarif-horaire-seo) est-il important en SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "L'intention navigationnelle révèle la notoriété de la marque et constitue un indicateur de fidélité client. Elle génère du trafic qualifié avec un fort potentiel de conversion puisque l'utilisateur connaît déjà l'entreprise."
+            "text": "L'intention navigationnelle révèle la notoriété de la marque et constitue un indicateur de fidélité client. Elle génère du trafic qualifié avec un fort potentiel de conversion puisque l'utilisateur connaît déjà l'[entreprise](https://blotmkt.com/ia/montreal/qui-est-le-meilleur-expert-seo-a-montreal-)."
           }
         },
         {
@@ -181,7 +181,7 @@ Les [entreprise](https://blotmkt.com/ia/Stratégie/mandat-seo-entreprise)s doive
           "name": "Quels sont les 4 types d'[Intention de recherche](https://blotmkt.com/ia/Contenu/intention-de-recherche) ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Les quatre intentions principales sont : informationnelle (recherche d'informations), navigationnelle (accès à un site connu), commerciale (comparaison avant achat) et transactionnelle (action d'achat immédiate)."
+            "text": "Les quatre intentions principales sont : informationnelle (recherche d'informations), navigationnelle (accès à un site connu), commerciale (comparaison avant achat) et trans[action](https://blotmkt.com/ia/popularite/algorithme-penalite)nelle (action d'achat immédiate)."
           }
         },
         {

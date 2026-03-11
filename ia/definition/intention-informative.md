@@ -44,7 +44,7 @@ L'avènement de l'intelligence artificielle dans la recherche révolutionne la f
 L'intention informative caractérise les requêtes où l'utilisateur cherche à apprendre, comprendre ou obtenir une réponse à une question spécifique sans objectif commercial immédiat. Elle se manifeste typiquement par des [mots-clés](https://blotmkt.com/ia/Contenu/clustering-de-mots-cles) introductifs comme "comment", "pourquoi", "qu'est-ce que", "définition" ou "guide". Cette intention se positionne stratégiquement au sommet du tunnel de conversion, dans la phase de découverte ou "Awareness".
 
 Dans l'écosystème numérique actuel, 
-le trafic organique est considéré comme plus qualifié car les utilisateurs recherchent activement des informations ou des produits liés à votre domaine
+le trafic organique est considéré comme plus qualifié car les utilisateurs [recherche](https://blotmkt.com/ia/definition/intention-informative)nt activement des informations ou des produits liés à votre domaine
 . L'intention informative répond précisément à ce besoin d'acquisition de connaissances préalables à toute décision d'achat ou d'[action](https://blotmkt.com/ia/Audit/first-input-delay).
 
 ### Les signaux d'identification
@@ -67,7 +67,7 @@ Avec l'émergence des moteurs génératifs, le parcours s'enrichit d'une étape 
 
 [Google](https://blotmkt.com/ia/Audit/indexation-api-google) a déployé les AI Overviews (anciennement SGE) aux États-Unis le 14 mai 2024
 , transformant fondamentalement l'approche du [Contenu](https://blotmkt.com/ia/Contenu/redaction-seo) informatif. 
-Les AI Overviews couvrent plus de 80% des requêtes de recherche dans la plupart des secteurs, et seulement 47% des 10 premiers résultats web traditionnels apparaissent comme sources alimentant la génération de l'aperçu
+Les AI Overviews couvrent plus de 80% des requêtes de [Recherche](https://blotmkt.com/ia/strategie/expert-seo-quebec) dans la plupart des secteurs, et seulement 47% des 10 premiers résultats web traditionnels apparaissent comme sources alimentant la génération de l'aperçu
 .
 
 Cette révolution impose une nouvelle logique : devenir une source citée dans la [Réponse](https://blotmkt.com/ia/IA SEO - GEO/reponse-directe-ia) de l'IA plutôt qu'un simple lien bleu. 
@@ -76,7 +76,7 @@ Le GEO ([Generative](https://blotmkt.com/ia/IA SEO - GEO/generative-engine-optim
 
 ### Les nouveaux défis techniques
 
-Avec plus d'informations disponibles directement dans les résultats de recherche, on s'attend à une diminution des taux de clic vers les listings organiques, et l'immobilier principal sur les SERP devient encore plus compétitif
+Avec plus d'informations disponibles [directe](https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo))ment dans les résultats de recherche, on s'attend à une diminution des taux de clic vers les listings organiques, et l'immobilier principal sur les SERP devient encore plus compétitif
 . Les créateurs de contenu doivent désormais optimiser pour la compréhension contextuelle des LLM, privilégiant la structuration [sémantique](https://blotmkt.com/ia/Audit/audit-semantique) et l'autorité démontrée.
 
 ## Méthode : optimiser un contenu pour l'intention informative
@@ -95,7 +95,7 @@ Les méthodes GEO impliquant des améliorations textuelles bien conçues sont ca
 ## Le ROI caché du contenu informatif : confiance et autorité
 
 Le véritable ROI du [contenu](https://blotmkt.com/ia/Audit/audit-seo-technique) informatif ne réside pas dans la conversion directe mais dans la construction de l'autorité thématique et de la confiance. 
-Pour 49% des spécialistes du marketing, la recherche organique a le ROI le plus élevé de tous les canaux
+Pour 49% des [Spécialiste](https://blotmkt.com/ia/strategie/offre-emploi-seo)s du marketing, la recherche organique a le ROI le plus élevé de tous les canaux
 . Cette autorité se traduit par des signaux de confiance durables : [Backlink](https://blotmkt.com/ia/Définition/page-pilier-seo)s naturels, mentions de marque, reconnaissance d'expertise.
 
 L'opportunité de capture de leads reste significative via newsletters, webinaires ou télé[chargement](https://blotmkt.com/ia/Audit/vitesse-de-chargement)s de ressources. Le contenu informatif de qualité génère des backlinks naturels qui améliorent le SEO global du site, créant un cercle vertueux d'autorité. Dans l'écosystème SGE, cette autorité devient déterminante pour l'inclusion dans les réponses génératives.
@@ -107,7 +107,7 @@ Une fois qu'un LLM sélectionne une source de confiance, il renforce ce choix à
 
 ## Formats gagnants : quels contenus pour une audience curieuse ?
 
-Les guides complets ("pillar pages") dominent pour couvrir un sujet en profondeur et démontrer l'expertise. 
+Les guides complets ("pillar pages") dominent pour couvrir un sujet en profondeur et démontrer l'[expert](https://blotmkt.com/ia/montreal/qui-est-le-meilleur-expert-geo-a-montreal-)ise. 
 43% des internautes recherchent activement du contenu [vidéo](https://blotmkt.com/ia/Contenu/transcription-video-seo) avant de faire un achat, et créer du contenu vidéo pertinent et informatif peut influencer directement les décisions d'achat tout en boostant le SEO
 .
 
@@ -116,7 +116,7 @@ Les tutoriels et contenus "how-to" répondent à un besoin pratique immédiat, p
 ### L'adaptation aux nouveaux formats
 
 Les formats émergents incluent les FAQ structurées, les [contenu](https://blotmkt.com/ia/Définition/recherche-vocale-seo)s conversationnels et les réponses graduées (simple/détaillé) qui s'alignent sur les capacités des SGE. L'intégration multimédia devient essentielle : 
-D'ici 2024, on estime que la vidéo représentera plus de 80% de tout le trafic Internet
+D'ici 2024, on estime que la [vidéo](https://blotmkt.com/ia/IA SEO - GEO/llm-seo) représentera plus de 80% de tout le trafic Internet
 .
 
 ## Questions fréquentes
@@ -140,7 +140,7 @@ La stratégie optimale combine les deux approches. Le [contenu](https://blotmkt.
   "@[Graph](https://blotmkt.com/ia/Contenu/structure-hn-seo)": [
     {
       "@type": "Article",
-      "headline": "Intention informative : le guide SEO complet à l'ère de l'ia (SGE)",
+      "headline": "[Intention](https://blotmkt.com/ia/Définition/intention-informative) informative : le guide SEO complet à l'ère de l'ia (SGE)",
       "[description](https://blotmkt.com/ia/Contenu/meta-description)": "Découvrez ce qu'est l'intention informative et comment l'IA la transforme. Optimisez votre contenu pour SGE et capturez un trafic qualifié au sommet du tunnel.",
       "url": "https://blotmkt.com/ia/[définition](https://blotmkt.com/ia/Définition/ymyl-seo)/intention-informative",
       "datePublished": "2026-03-09 09:13",

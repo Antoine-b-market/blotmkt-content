@@ -74,7 +74,7 @@ Vous verrez directement des suggestions comme "Preload Largest Contentful Paint 
 L'onglet Performance des DevTools [Offre](https://blotmkt.com/ia/Stratégie/offre-emploi-seo) deux approches : les outils de laboratoire pour des simulations algorithmiques, et le monitoring d'utilisateurs réels basé sur le trafic en direct
 .
 
-Pour identifier rapidement votre élément LCP, utilisez l'extension Web Vitals ou inspectez le timeline de chargement dans l'onglet Performance.
+Pour identifier rapidement votre élément LCP, utilisez l'extension Web Vitals ou inspectez le timeline de [chargement](https://blotmkt.com/ia/Stratégie/prix-forfait-seo) dans l'onglet Performance.
 
 ### Google Search Console pour le suivi global
 
@@ -90,7 +90,7 @@ Les images LCP préchargées atteignent 100% de scores "bons" avec un 75e percen
 
 Utilisez des formats modernes comme AVIF ou WebP, implémentez des images responsives avec srcset, et servez vos assets via un CDN avec [Compression](https://blotmkt.com/ia/Audit/compression-image-webp) appropriée
 . 
-Les CDN d'images réduisent non seulement la distance de transfert mais aussi la taille des ressources automatiquement
+Les CDN d'[Image](https://blotmkt.com/ia/IA SEO - GEO/llm-optimization)s réduisent non seulement la distance de transfert mais aussi la taille des ressources automatiquement
 .
 
 ### Stratégie 2 : Améliorer le temps de réponse serveur (TTFB)
@@ -116,7 +116,7 @@ Les éléments LCP ne doivent jamais être en lazy loading car cela provoque des
 Le délai de rendu est presque toujours causé par le blocage du thread principal par d'autres tâches, notamment le traitement [JavaScript](https://blotmkt.com/ia/Audit/exploration-googlebot). Les CSS bloquant le rendu et les scripts synchrones sont les coupables les plus courants
 .
 
-Les fonctionnalités Remove Unused CSS, Optimize critical images et Preload fonts aident à réduire la priorité donnée aux autres éléments de la page
+Les fonctionnalités Remove Unused CSS, Optimize critical [image](https://blotmkt.com/ia/definition/discover-google-seo)s et Preload fonts aident à réduire la priorité donnée aux autres éléments de la page
 . Différez le JavaScript non essentiel avec les [Attribut](https://blotmkt.com/ia/Définition/lien-ugc)s 'defer' et 'async'.
 
 ## L'impact business d'un LCP rapide : au-delà du score technique
@@ -162,7 +162,7 @@ Le FCP mesure le temps d'apparition du premier élément visuel dans la zone d'a
 
 ---
 
-*Sources : Web.dev (2025), CoreWebVitals.io (2024), DebugBear (2024), Blue Triangle (2024)*
+*Sources : Web.dev (2025), CoreWeb[Vitals](https://blotmkt.com/ia/definition/amp-google-seo).io (2024), DebugBear (2024), Blue Triangle (2024)*
 
 ```json
 {
@@ -198,9 +198,9 @@ Le FCP mesure le temps d'apparition du premier élément visuel dans la zone d'a
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Qu'est-ce qu'un bon score LCP ?",
+          "name": "Qu'est-ce qu'un bon [score](https://blotmkt.com/ia/ia-seo-geo/search-engine-over-optimization) LCP ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
-            "@type": "Answer",
+            "@type": "[Answer](https://blotmkt.com/ia/Contenu/intention-de-recherche)",
             "text": "Un bon score LCP est de 2,5 secondes ou moins. Les scores entre 2,5 et 4 secondes nécessitent une amélioration, et tout dépassement de 4 secondes est considéré comme insuffisant selon les standards [Google](https://blotmkt.com/ia/Définition/amp-google-seo) Core Web Vitals."
           }
         },
@@ -214,7 +214,7 @@ Le FCP mesure le temps d'apparition du premier élément visuel dans la zone d'a
         },
         {
           "@type": "Question",
-          "name": "Quelle est la différence entre le LCP et le FCP ?",
+          "name": "[Quelle](https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo)) est la différence entre le LCP et le FCP ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Le [First](https://blotmkt.com/ia/Audit/first-input-delay) Contentful Paint (FCP) mesure l'apparition du premier élément visuel, tandis que le Largest Contentful Paint (LCP) se concentre sur le plus grand élément de contenu. Le LCP reflète mieux l'expérience utilisateur perçue car il indique quand le contenu principal est chargé."

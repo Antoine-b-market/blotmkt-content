@@ -17,10 +17,10 @@ url: "/ia/Audit/fichier-robots.txt"
 related_articles:
   - title: "Exploration Googlebot : le guide complet pour optimiser votre budget de crawl"
     url: "/ia/Audit/exploration-googlebot"
-  - title: "Désindexation google: guide pratique pour contrôler votre visibilité en ligne"
-    url: "/ia/Popularité/desindexation-google"
   - title: "Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl"
     url: "/ia/Audit/analyse-de-logs-seo"
+  - title: "Désindexation google: guide pratique pour contrôler votre visibilité en ligne"
+    url: "/ia/popularite/desindexation-google"
 ---
 
 # Fichier robots.txt : le guide pour maîtriser l'exploration de votre site
@@ -39,7 +39,7 @@ il s'agit de faciliter l'[Exploration](https://blotmkt.com/ia/Audit/fichier-robo
 
 ## Définition et rôle du fichier robots.txt pour le SEO
 
-Le robots.txt file est un fichier texte placé dans le répertoire racine de votre site web. Il agit comme un ensemble d'instructions pour les robots web (crawlers) concernant les parties de votre site auxquelles ils sont autorisés à accéder
+Le robots.txt file est un fichier texte placé dans le répertoire racine de votre site web. Il agit comme un ensemble d'instructions pour les robots web (crawlers) concernant les parties de votre site aux[Quelle](https://blotmkt.com/ia/montreal/quelle-est-la-meilleure-agence-geo-a-montreal-)s ils sont autorisés à accéder
 . Son rôle principal n'est pas d'empêcher l'[Indexation](https://blotmkt.com/ia/Contenu/structure-hn-seo), mais bien de gérer l'exploration : 
 il va pouvoir autoriser ou interdire des accès à des pages, ou à des dossiers, qui ne sont pas pertinents pour le SEO, et qui, de ce fait, vont consommer inutilement du [Budget](https://blotmkt.com/ia/Stratégie/budget-seo-mensuel) crawl. Les robots ne vont alors pas perdre de temps sur vos pages sans intérêt, et concentrer toute leur attention sur vos pages importantes
 .
@@ -52,7 +52,7 @@ Le budget de crawl fait référence au nombre de pages que [Google](https://blot
 
 ### Comprendre l'impact sur le budget de crawl
 
-La rapidité de son site web est, de plus en plus, un enjeu SEO. L'impact de la lenteur du site est énorme, y compris dans le calcul de votre budget de crawl
+La rapidité de son site web est, de plus en plus, un enjeu SEO. L'impact de la lenteur du site est énorme, y compris dans le calcul de votre [Budget](https://blotmkt.com/ia/strategie/prix-forfait-seo) de crawl
 . 
 Empêchez donc les robots de charger via un fichier robots.txt : pas la peine de les faire [Analyse](https://blotmkt.com/ia/Audit/analyse-de-logs-seo)r quelque chose qu'ils ne pourraient pas comprendre !
  (Source : Semrush, 2021)
@@ -94,7 +94,7 @@ Il vous suffira d'aller dans l'onglet "exploration", puis sur "outil de test du 
 
 ### Configuration par type de site
 
-Pour WordPress, indiquez d'enlever notamment l'indexation et le crawl des fichiers de connexion et répertoires avancés
+Pour WordPress, indiquez d'enlever notamment l'[Indexation](https://blotmkt.com/ia/definition/ymyl-seo) et le crawl des fichiers de connexion et répertoires avancés
 . 
 Si vous avez un Prestashop, vous verrez le robots.txt généré plus fourni que pour les autres CMS. Surtout des éléments [interne](https://blotmkt.com/ia/Définition/maillage-interne-silo)s sont listés : empêcher leur visite aidera à améliorer votre budget crawl
 . (Source : Hugo Domeur, 2024)
@@ -179,7 +179,7 @@ L'intérêt, c'est que l'on peut définir quel robot de moteur de [recherche](ht
           "name": "Où placer le fichier robots.txt ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
             "@type": "Answer",
-            "text": "Le fichier robots.txt doit être placé à la racine de votre site web, accessible via www.votredomaine.com/robots.txt. C'est obligatoire pour que les moteurs de recherche le reconnaissent et appliquent ses directives."
+            "text": "Le fichier robots.txt doit être placé à la racine de votre site web, accessible via www.votredomaine.com/robots.txt. C'est obligatoire pour que les moteurs de [recherche](https://blotmkt.com/ia/Définition/intention-informative) le reconnaissent et appliquent ses directives."
           }
         },
         {
@@ -192,7 +192,7 @@ L'intérêt, c'est que l'on peut définir quel robot de moteur de [recherche](ht
         },
         {
           "@type": "Question",
-          "name": "Quelle est la différence entre Disallow et noindex ?",
+          "name": "[Quelle](https://blotmkt.com/ia/montreal/quelle-est-la-meilleure-agence-seo-a-montreal-) est la différence entre Disallow et noindex ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Disallow (robots.txt) empêche l'exploration des pages par les robots, tandis que noindex (balise meta) empêche l'indexation après crawl. Ils agissent à des moments différents du processus et n'ont pas le même objectif."

@@ -16,11 +16,11 @@ slug: "manuel-action-google"
 url: "/ia/popularite/manuel-action-google"
 related_articles:
   - title: "Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité"
-    url: "/ia/Popularité/filtre-google"
+    url: "/ia/popularite/filtre-google"
   - title: "Pénalité Google : le guide pour la détecter, la comprendre et la corriger"
-    url: "/ia/Popularité/penalite-google"
-  - title: "Récupération pénalité Google : le guide pour nettoyer votre site et retrouver votre trafic"
-    url: "/ia/Popularité/recuperation-penalite-google"
+    url: "/ia/popularite/penalite-google"
+  - title: "Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO"
+    url: "/ia/popularite/algorithme-penalite"
 ---
 
 # Action manuelle Google : le guide complet pour l'identifier et la corriger
@@ -30,15 +30,15 @@ related_articles:
 Une [action](https://blotmkt.com/ia/Audit/first-input-delay) manuelle est une sanction appliquée par un examinateur humain de Google lorsque des pages d'un site ne respectent pas les Règles Google concernant le spam
 
 > - 
-Contrairement aux pénalités automatiques déclenchées par les algorithmes de Google, les actions manuelles sont prises par des évaluateurs humains spécialement formés : la Search Quality Team
+Contrairement aux pénalités automatiques déclenchées par les algorithmes de Google, les [action](https://blotmkt.com/ia/Définition/intention-informative)s manuelles sont prises par des évaluateurs humains spécialement formés : la Search Quality Team
 
 > - 
-Si votre site fait l'objet d'une action manuelle, Google vous en informe dans le rapport sur les actions manuelles et dans le centre de messagerie de la Search Console
+Si votre site fait l'objet d'une action manuelle, [Google](https://blotmkt.com/ia/definition/ymyl-seo) vous en informe dans le rapport sur les actions manuelles et dans le centre de messagerie de la Search Console
 
 > - 
 Le traitement de la plupart des demandes de réexamen peut prendre plusieurs jours, voire plusieurs semaines. Toutefois, dans certains cas, tels que pour les demandes de réexamen liées à des liens, cela peut prendre plus de temps
 
-Une action manuelle Google peut faire chuter drastiquement votre trafic organique du jour au lendemain. 
+Une [action](https://blotmkt.com/ia/Contenu/intention-de-recherche) manuelle Google peut faire chuter drastiquement votre trafic organique du jour au lendemain. 
 Si un site fait l'objet d'une action manuelle, il ne s'affichera pas (en totalité ou en partie) dans les résultats de recherche Google
 . Heureusement, contrairement aux pénalités algorithmiques, une action manuelle se diagnostique facilement et peut être levée par une demande de réexamen. Ce guide vous accompagne étape par étape pour identifier, corriger et soumettre une demande de réexamen efficace.
 
@@ -111,19 +111,19 @@ Une bonne demande de réexamen fait trois choses : explique le problème de qual
 Pénalités pour spam de liens : appliquées aux sites qui utilisent des [technique](https://blotmkt.com/ia/Définition/ymyl-seo)s de création de liens artificiels
 . 
 Cette action manuelle est prise quand Google trouve des liens suspects ou non naturels pointant vers votre site
-. Pour l'éviter, privilégiez une stratégie de netlinking naturel basée sur la qualité du contenu et les relations thématiques.
+. Pour l'éviter, privilégiez une stratégie de netlinking naturel basée sur la qualité du [contenu](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel) et les relations thématiques.
 
 ### Contenu de faible qualité (Thin Content)
 
 Pénalités pour contenu de faible qualité : concernent les pages contenant un bourrage de [mots-clés](https://blotmkt.com/ia/Définition/page-pilier-seo) ou présentant un texte peu pertinent pour les utilisateurs
 . 
-Cette action est prise quand le contenu de votre site est considéré de faible qualité selon les standards de Google
-. Chaque page doit offrir une valeur ajoutée claire et répondre à une intention de recherche spécifique.
+Cette action est prise quand le [contenu](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) de votre site est considéré de faible qualité selon les standards de Google
+. Chaque page doit offrir une valeur ajoutée claire et répondre à une [Intention de recherche](https://blotmkt.com/ia/definition/intention-informative) spécifique.
 
 ### Texte masqué et bourrage de mots-clés
 
-Cette action concerne les tactiques utilisées pour tromper les moteurs de recherche, comme utiliser du texte blanc sur fond blanc ou bourrer vos pages de mots-clés rendant le contenu non naturel et difficile à lire
-. La règle d'or : rédiger pour les utilisateurs avant tout, avec une intégration naturelle des mots-clés.
+Cette action concerne les tactiques utilisées pour tromper les moteurs de recherche, comme utiliser du texte blanc sur fond blanc ou bourrer vos pages de [mots-clés](https://blotmkt.com/ia/definition/page-pilier-seo) rendant le contenu non naturel et difficile à lire
+. La règle d'or : rédiger pour les utilisateurs avant tout, avec une intégration naturelle des [mots-clés](https://blotmkt.com/ia/Contenu/structure-hn-seo).
 
 ### Spam généré par l'utilisateur
 
@@ -186,7 +186,7 @@ Expliquez les mesures correctives que vous avez prises et fournissez des preuves
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "pénalité Google, Google Search Console, demande de réexamen, liens artificiels, thin content, consignes aux webmasters"
+      "keywords": "pénalité Google, Google Search Console, demande de réexamen, liens artificiels, thin [Content](https://blotmkt.com/ia/IA SEO - GEO/contextualisation-seo), consignes aux webmasters"
     },
     {
       "@type": "FAQPage",

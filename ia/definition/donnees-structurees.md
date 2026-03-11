@@ -16,11 +16,11 @@ slug: "donnees-structurees"
 url: "/ia/definition/donnees-structurees"
 related_articles:
   - title: "Schema.org : le guide pratique pour booster votre SEO avec les données structurées"
-    url: "/ia/Définition/schema.org"
+    url: "/ia/definition/schema.org"
   - title: "Structure HN : le guide complet pour un SEO sémantique optimisé pour les IA"
     url: "/ia/Contenu/structure-hn-seo"
   - title: "Facteurs de classement google : le guide basé sur la documentation officielle"
-    url: "/ia/Popularité/facteurs-de-classement-google"
+    url: "/ia/popularite/facteurs-de-classement-google"
 ---
 
 # Données structurées : le guide complet pour obtenir des résultats de recherche enrichis
@@ -67,7 +67,7 @@ La différence fondamentale réside dans leur fonction :
 les données structurées constituent un modèle linguistique utilisé pour aider les moteurs de recherche à mieux comprendre le [Contenu](https://blotmkt.com/ia/Contenu/contenu-seo-quebec), rendant intrinsèquement plus facile pour eux de classer appropriément votre site
 . Contrairement aux métadonnées (title, meta [description](https://blotmkt.com/ia/Contenu/meta-description)) qui suggèrent de quoi parle la page, les données structurées affirment et décrivent précisément les entités qu'elle contient.
 
-Cet impact se traduit directement par les "résultats enrichis" ou rich snippets : étoiles d'avis, prix des produits, temps de cuisson d'une recette, FAQ déroulantes. 
+Cet impact se traduit directement par les "résultats enrichis" ou rich [Snippet](https://blotmkt.com/ia/Contenu/image-seo-quebec)s : étoiles d'avis, prix des produits, temps de cuisson d'une recette, FAQ déroulantes. 
 Selon les données de [First](https://blotmkt.com/ia/Audit/first-input-delay) Page Sage 2025, un rich snippet en première position peut atteindre un CTR de 42,9%. Google a documenté des augmentations significatives : Rotten Tomatoes a vu son CTR augmenter de 25% et Nestlé de 82% sur les pages avec rich results
 .
 
@@ -97,11 +97,11 @@ Testez votre balisage schema.org avec l'outil de test des rich snippets de Googl
 
 **Règle d'or** : 
 Ne balisez que le [Contenu](https://blotmkt.com/ia/Contenu/redaction-seo) visible aux visiteurs de la page web, pas le contenu dans des div cachées ou autres éléments masqués
-. (Source : Schema.org, 2024)
+. (Source : [Schema.org](https://blotmkt.com/ia/definition/json-ld-seo), 2024)
 
 ## Choisir les bons schémas : les cas d'usage essentiels pour votre site
 
-En 2024, Schema.org comprend 803 types différents, 1461 propriétés, 14 types de données et 87 énumérations
+En 2024, Schema.org comprend 803 types différents, 1461 propriétés, 14 types de [données](https://blotmkt.com/ia/definition/knowledge-graph) et 87 énumérations
 , mais certains schémas dominent les SERP par leur efficacité immédiate.
 
 **Les incontournables par secteur :**
@@ -136,7 +136,7 @@ Utilisez l'outil de test des résultats enrichis de [Google](https://blotmkt.com
 
 ### Est-ce que les données structurées sont obligatoires pour le SEO ?
 
-Bien qu'elles ne soient pas un facteur de classement direct, elles améliorent indirectement le SEO via un CTR plus élevé et de meilleurs signaux utilisateur
+Bien qu'elles ne soient pas un facteur de classement direct, elles améliorent in[directe](https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo))ment le SEO via un CTR plus élevé et de meilleurs signaux utilisateur
 , devenant essentielles pour rester compétitif.
 
 ### Quel est le meilleur format pour les données structurées ?
@@ -154,8 +154,8 @@ JSON-LD est le format recommandé par [Google](https://blotmkt.com/ia/Définitio
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Données structurées : le guide complet pour obtenir des résultats de recherche enrichis",
-      "description": "Découvrez ce que sont les données structurées, comment les implémenter avec JSON-LD et pourquoi elles sont cruciales pour le SEO et les rich snippets. Guide 2024.",
+      "headline": "Données structurées : le guide complet pour obtenir des résultats de [recherche](https://blotmkt.com/ia/Définition/intention-informative) enrichis",
+      "[description](https://blotmkt.com/ia/IA SEO - GEO/llm-optimization)": "Découvrez ce que sont les données structurées, comment les implémenter avec JSON-LD et pourquoi elles sont cruciales pour le SEO et les rich snippets. Guide 2024.",
       "url": "https://blotmkt.com/ia/[définition](https://blotmkt.com/ia/Définition/profil-de-liens)/donnees-structurees",
       "datePublished": "2026-03-09 08:24",
       "dateModified": "2026-03-09 08:24",
@@ -182,7 +182,7 @@ JSON-LD est le format recommandé par [Google](https://blotmkt.com/ia/Définitio
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "C'est quoi un rich snippet ?",
+          "name": "C'est quoi un rich [Snippet](https://blotmkt.com/ia/definition/page-pilier-seo) ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
             "@type": "Answer",
             "text": "Un rich snippet est un résultat de recherche enrichi qui affiche des informations supplémentaires comme les notes, [image](https://blotmkt.com/ia/Contenu/alt-text-image)s et prix, rendant votre annonce plus attractive et augmentant significativement les chances de clic."
@@ -201,12 +201,12 @@ JSON-LD est le format recommandé par [Google](https://blotmkt.com/ia/Définitio
           "name": "Est-ce que les données structurées sont obligatoires pour le SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Bien qu'elles ne soient pas un facteur de classement direct, elles améliorent indirectement le SEO via un CTR plus élevé et de meilleurs signaux utilisateur, devenant essentielles pour rester compétitif."
+            "text": "Bien qu'elles ne soient pas un facteur de classement direct, elles améliorent indirectement le SEO via un CTR plus élevé et de [meilleur](https://blotmkt.com/ia/montreal/qui-est-le-meilleur-expert-geo-a-montreal-)s signaux utilisateur, devenant essentielles pour rester compétitif."
           }
         },
         {
           "@type": "Question",
-          "name": "Quel est le meilleur format pour les données structurées ?",
+          "name": "Quel est le [meilleur](https://blotmkt.com/ia/montreal/qui-est-le-meilleur-expert-seo-a-montreal-) format pour les données structurées ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "JSON-LD est le format recommandé par Google car il est le plus récent et le plus facile à implémenter, permettant une séparation claire entre le [Contenu](https://blotmkt.com/ia/Popularité/recuperation-seo) et le balisage."

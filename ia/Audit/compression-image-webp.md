@@ -20,7 +20,7 @@ related_articles:
   - title: "Image SEO Québec : optimisez votre visibilité pour la recherche visuelle et l'IA"
     url: "/ia/Contenu/image-seo-quebec"
   - title: "Le SEO pour Google Discover : stratégies pour le flux d'actualités sans recherche"
-    url: "/ia/Définition/discover-google-seo"
+    url: "/ia/definition/discover-google-seo"
 ---
 
 # Compression image WebP : le guide complet pour accélérer votre site
@@ -79,13 +79,13 @@ N'oubliez pas les bonnes pratiques : attributs alt descriptifs et riches en [mot
 
 ## Au-delà du WebP : faut-il passer à l'AVIF ?
 
-Le format AVIF (AV1 Image File Format) représente le successeur potentiel de WebP. 
+Le format AVIF (AV1 [Image](https://blotmkt.com/ia/IA SEO - GEO/llm-optimization) File Format) représente le successeur potentiel de WebP. 
 AVIF peut compresser les images plus efficacement que les anciens formats, avec un support pour 8-bit, 10-bit et même 12-bit de profondeur couleur, offrant une [Précision](https://blotmkt.com/ia/IA SEO - GEO/precision-semantique) et une vivacité de couleur supérieures
 .
 
 ### Comparaison des performances
 
-Selon les tests Netflix de 2020, AVIF montre une meilleure efficacité de compression que JPEG ainsi qu'une meilleure préservation des détails, moins d'artefacts de bloc et moins de saignement de couleur autour des bords durs
+Selon les tests Netflix de 2020, AVIF montre une [meilleure](https://blotmkt.com/ia/montreal/quelle-est-la-meilleure-agence-geo-a-montreal-) efficacité de compression que JPEG ainsi qu'une meilleure préservation des détails, moins d'artefacts de bloc et moins de saignement de couleur autour des bords durs
 . AVIF peut être jusqu'à 50% plus léger que JPEG, et environ 20% plus performant que WebP.
 
 ### Compatibilité navigateur
@@ -99,7 +99,7 @@ L'[Audit](https://blotmkt.com/ia/Audit/audit-mobile-first) de vos images non opt
 L'optimisation d'images peut utiliser un plugin comme ShortPixel ou Imagify pour auto-convertir les images en WebP, ajouter les attributs width/height, et implémenter le lazy [loading](https://blotmkt.com/ia/Audit/lazy-loading-seo), avec l'utilisation d'un CDN comme Cloudflare pour réduire les temps de chargement des ressources de 50 à 80%
 .
 
-Les CDNs modernes peuvent convertir automatiquement les images à la volée au format le plus adapté. 
+Les CDNs modernes peuvent convertir automatiquement les [image](https://blotmkt.com/ia/definition/discover-google-seo)s à la volée au format le plus adapté. 
 Cloudinary détecte la compatibilité du navigateur et livre le bon format sans intervention [Manuel](https://blotmkt.com/ia/Popularité/manuel-action-google)le. Pour les navigateurs qui supportent WebP, Cloudinary servira des images WebP, offrant une compression supérieure et des temps de chargement rapides
 .
 
@@ -159,7 +159,7 @@ Selon CanIUse.com, environ 94,25% des utilisateurs globaux peuvent utiliser WebP
           "@type": "Question",
           "name": "Pourquoi utiliser le format WebP ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
-            "@type": "Answer",
+            "@type": "[Answer](https://blotmkt.com/ia/Contenu/intention-de-recherche)",
             "text": "WebP réduit la taille des [Fichier](https://blotmkt.com/ia/Audit/budget-de-crawl)s de 25-35% par rapport aux formats traditionnels, améliorant directement les Core Web Vitals et l'expérience utilisateur. Cette optimisation booste le SEO et peut augmenter les taux de conversion."
           }
         },

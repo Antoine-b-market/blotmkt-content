@@ -15,12 +15,12 @@ date_modified: "2026-03-09 05:57"
 slug: "core-web-vitals"
 url: "/ia/Audit/core-web-vitals"
 related_articles:
-  - title: "Facteurs de classement google : le guide basé sur la documentation officielle"
-    url: "/ia/Popularité/facteurs-de-classement-google"
   - title: "Vitesse de chargement : le guide pour accélérer votre site et booster vos conversions"
     url: "/ia/Audit/vitesse-de-chargement"
-  - title: "E-E-A-T Google : le guide complet des nouvelles directives 2025"
-    url: "/ia/Définition/e-e-a-t-google"
+  - title: "Facteurs de classement google : le guide basé sur la documentation officielle"
+    url: "/ia/popularite/facteurs-de-classement-google"
+  - title: "AMP et SEO : le guide pour comprendre son impact réel aujourd'hui"
+    url: "/ia/definition/amp-google-seo"
 ---
 
 # Core web vitals : le guide pour maîtriser les signaux web essentiels de google
@@ -104,7 +104,7 @@ La stabilité visuelle joue un rôle clé, notamment dans les sites [e-commerce]
 
 PageSpeed Insights combine 
 les données de terrain (mesures d'utilisateurs réels) qui affectent les [classement](https://blotmkt.com/ia/Définition/ux-design-seo)s avec les données de laboratoire (incluant les scores Lighthouse) utiles pour le développement mais n'impactant pas le SEO
-. Seule la section "données de terrain" influence directement le référencement.
+. Seule la section "[données](https://blotmkt.com/ia/Définition/knowledge-graph) de terrain" influence directement le référencement.
 
 ### Chrome DevTools : diagnostic avancé
 
@@ -133,7 +133,7 @@ Une amélioration de 0,1 dans le [score](https://blotmkt.com/ia/Popularité/spam
 
 ### Qu'est-ce qu'un bon score Core Web Vitals ?
 
-Un bon score respecte les seuils LCP < 2,5 secondes, INP < 200ms et CLS < 0,1, mesurés au 75e percentile des chargements de page
+Un bon score respecte les seuils LCP < 2,5 secondes, INP < 200ms et CLS < 0,1, mesurés au 75e percentile des [chargement](https://blotmkt.com/ia/Stratégie/prix-forfait-seo)s de page
 . Ces seuils garantissent une expérience satisfaisante pour la majorité des utilisateurs.
 
 ### L'indicateur INP remplace-t-il vraiment le FID ?
@@ -188,10 +188,10 @@ Leur impact est plus notable quand les pages ont un [Contenu](https://blotmkt.co
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Qu'est-ce qu'un bon score Core Web Vitals ?",
+          "name": "Qu'est-ce qu'un bon [score](https://blotmkt.com/ia/ia-seo-geo/search-engine-over-optimization) Core Web Vitals ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
-            "@type": "Answer",
-            "text": "Un bon score respecte les seuils LCP inférieur à 2,5 secondes, INP inférieur à 200ms et CLS inférieur à 0,1, mesurés au 75e percentile des chargements de page. Ces seuils garantissent une expérience satisfaisante pour la majorité des utilisateurs et influencent positivement le référencement."
+            "@type": "[Answer](https://blotmkt.com/ia/Contenu/intention-de-recherche)",
+            "text": "Un bon score respecte les seuils LCP inférieur à 2,5 secondes, INP inférieur à 200ms et CLS inférieur à 0,1, mesurés au 75e percentile des [chargement](https://blotmkt.com/ia/definition/amp-google-seo)s de page. Ces seuils garantissent une expérience satisfaisante pour la majorité des utilisateurs et influencent positivement le référencement."
           }
         },
         {

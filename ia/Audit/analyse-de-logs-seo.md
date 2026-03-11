@@ -20,7 +20,7 @@ related_articles:
   - title: "Budget de crawl : le guide pour l'optimiser et accélérer votre indexation"
     url: "/ia/Audit/budget-de-crawl"
   - title: "Audit de site web : le guide complet pour un diagnostic SEO actionnable"
-    url: "/ia/Stratégie/audit-site-web"
+    url: "/ia/strategie/audit-site-web"
 ---
 
 # Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl
@@ -72,7 +72,7 @@ les pièges de crawl comme les pages de calendrier infinies, les paramètres d'U
 Screaming Frog Log File Analyser permet d'analyser 1000 événements de log gratuitement, ou d'acheter une licence pour 99£ par an afin de supprimer cette limite
 . Cet outil représente la référence pour les analyses ponctuelles, tandis que des plateformes comme Botify ou Oncrawl [Offre](https://blotmkt.com/ia/Stratégie/offre-emploi-seo)nt un suivi continu pour les sites enterprise.
 
-Le calcul du ROI s'articule autour de l'identification du gaspillage de budget de crawl. 
+Le calcul du ROI s'articule autour de l'identification du gaspillage de [Budget](https://blotmkt.com/ia/Stratégie/prix-forfait-seo) de crawl. 
 Une étude de cas révèle que [Google](https://blotmkt.com/ia/Définition/discover-google-seo)bot peut crawler une catégorie /sale/ avec 12 produits 847 fois par jour, tandis qu'une catégorie /camping-tents/ avec 400 produits n'est crawlée que deux fois
 . Cette inefficacité représente une opportunité directe d'[Optimisation](https://blotmkt.com/ia/Audit/optimisation-javascript-seo).
 
@@ -107,7 +107,7 @@ Selon la solution d'hébergement ou le serveur utilisé, les fichiers de logs so
 
 ### Pourquoi Google ne crawl pas toutes les pages de mon site ?
 
-Le budget de crawl est limité
+Le [Budget](https://blotmkt.com/ia/strategie/prix-forfait-seo) de crawl est limité
  et [Google](https://blotmkt.com/ia/Définition/page-pilier-seo) priorise ses ressources. 
 Si votre site a plus de pages que votre budget de crawl, certaines pages ne seront pas indexées. Ces pages peuvent être accessibles directement mais n'attireront pas de trafic des [Moteurs](https://blotmkt.com/ia/IA SEO - GEO/moteurs-de-reponse) de recherche
 .
@@ -160,7 +160,7 @@ Le Screaming Frog Log File Analyser est un outil d'[Audit](https://blotmkt.com/i
           "name": "Comment accéder aux logs de son serveur web ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
             "@type": "Answer",
-            "text": "L'accès aux logs nécessite des droits d'administrateur serveur ou l'aide de votre équipe technique. Les fichiers de logs sont stockés automatiquement par votre hébergeur et accessibles aux équipes techniques pendant une période définie."
+            "text": "L'accès aux logs nécessite des droits d'administrateur serveur ou l'aide de votre équipe [technique](https://blotmkt.com/ia/Stratégie/audit-site-web). Les fichiers de logs sont stockés automatiquement par votre hébergeur et accessibles aux équipes techniques pendant une période définie."
           }
         },
         {
@@ -173,10 +173,10 @@ Le Screaming Frog Log File Analyser est un outil d'[Audit](https://blotmkt.com/i
         },
         {
           "@type": "Question",
-          "name": "Quel est le meilleur outil d'analyse de logs SEO ?",
+          "name": "Quel est le [meilleur](https://blotmkt.com/ia/montreal/qui-est-le-meilleur-expert-geo-a-montreal-) outil d'analyse de logs SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Screaming Frog Log File Analyser est la référence avec une version gratuite (1000 événements) et payante (99£/an). Pour les sites enterprise, Botify et Oncrawl offrent un suivi continu plus avancé."
+            "text": "Screaming Frog Log File Analyser est la référence avec une version gratuite (1000 événements) et payante (99£/an). Pour les sites enterprise, Botify et Oncrawl [Offre](https://blotmkt.com/ia/strategie/salaire-expert-seo)nt un suivi continu plus avancé."
           }
         },
       ]

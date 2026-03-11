@@ -16,11 +16,11 @@ slug: "google-my-business-seo"
 url: "/ia/local-seo/google-my-business-seo"
 related_articles:
   - title: "Optimiser votre seo local : le guide complet pour attirer des clients de proximité"
-    url: "/ia/Définition/seo-local"
+    url: "/ia/definition/seo-local"
   - title: "NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA"
-    url: "/ia/Local SEO/nap-seo-local"
-  - title: "Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA"
-    url: "/ia/Local SEO/fiche-etablissement-google"
+    url: "/ia/local-seo/nap-seo-local"
+  - title: "Maîtriser l'optimisation google maps pour propulser votre visibilité locale"
+    url: "/ia/local-seo/optimisation-google-maps"
 ---
 
 # SEO pour Google Business Profile : le guide complet pour dominer la recherche locale
@@ -28,26 +28,26 @@ related_articles:
 > ## L'essentiel à retenir
 > - Le SEO pour [Google](https://blotmkt.com/ia/Définition/ymyl-seo) Business Profile optimise votre visibilité dans le Local Pack, Google Maps et les résultats géolocalisés par rapport au SEO traditionnel centré sur la pertinence thématique.
 > - Les [Optimisation](https://blotmkt.com/ia/Audit/exploration-googlebot)s fondamentales incluent la cohérence NAP, le choix stratégique des catégories, une description complète et des Google Posts réguliers.
-> - Les horaires d'ouverture constituent un facteur de classement top 5, tandis que les avis détaillés alimentent le nouveau format Stories sur Google Maps mobile.
+> - Les horaires d'ouverture constituent un facteur de classement top 5, tandis que les avis détaillés alimentent le nouveau format Stories sur [Google](https://blotmkt.com/ia/definition/ymyl-seo) Maps mobile.
 > - L'[Optimisation](https://blotmkt.com/ia/Définition/recherche-vocale-seo) GBP devient cruciale pour les AI Overviews car Google utilise ces données structurées comme source privilégiée pour ses réponses génératives.
 
 Le marketing local se transforme radicalement. Votre fiche Google Business Profile n'est plus une simple présence passive : elle détermine votre visibilité face à des clients potentiels qui [recherche](https://blotmkt.com/ia/Contenu/intention-de-recherche)nt activement vos services. Avec 
-61% d'augmentation des appels téléphoniques via Google Business Profile
+61% d'augmentation des appels téléphoniques via [Google](https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo)) Business Profile
  depuis 2020 et l'émergence des AI Overviews, maîtriser le SEO pour votre fiche d'établissement devient un avantage concurrentiel décisif.
 
 ---
 
 ## Comprendre le SEO pour Google Business Profile (GBP) : bien plus qu'une simple fiche
 
-Les résultats locaux sont principalement basés sur la pertinence, la distance et la popularité. Ensemble, ces facteurs aident Google à trouver la meilleure correspondance pour les recherches des clients.
+Les résultats locaux sont principalement basés sur la pertinence, la distance et la popularité. Ensemble, ces facteurs aident Google à trouver la meilleure correspondance pour les [recherche](https://blotmkt.com/ia/Définition/intention-informative)s des clients.
  Le SEO pour Google Business Profile englobe l'ensemble des [technique](https://blotmkt.com/ia/Définition/ymyl-seo)s visant à maximiser votre visibilité dans le Local Pack, Google Maps et les résultats de recherche géolocalisés.
 
 Contrairement au SEO traditionnel qui se concentre sur la pertinence thématique à large échelle, 
 l'[Algorithme](https://blotmkt.com/ia/Définition/pagerank-google) de recherche locale de Google utilise trois composants clés pour déterminer quelles entreprises apparaissent : la proximité, la pertinence et la proéminence. La proximité fait référence à la distance physique entre la requête de recherche de l'utilisateur et l'entreprise.
 
 Votre fiche GBP agit comme une vitrine numérique et constitue souvent le premier point de contact avec vos clients potentiels. 
-Votre Google Business Profile est le facteur le plus important pour classer dans le pack Google Maps. En fait, les données de l'industrie montrent que les signaux GBP peuvent représenter jusqu'à 32% de tous les facteurs de classement du pack maps.
- Cette importance directe sur le ROI des entreprises locales justifie l'investissement dans une optimisation systématique de votre profil.
+Votre [Google](https://blotmkt.com/ia/strategie/prix-forfait-seo) Business Profile est le facteur le plus important pour classer dans le pack Google Maps. En fait, les données de l'industrie montrent que les signaux GBP peuvent représenter jusqu'à 32% de tous les facteurs de classement du pack maps.
+ Cette importance directe sur le ROI des entreprises locales justifie l'investissement dans une [Optimisation](https://blotmkt.com/ia/ia-seo-geo/seo-ia) systématique de votre profil.
 
 ## Les optimisations fondamentales de votre fiche d'établissement
 
@@ -64,7 +64,7 @@ Les Google Posts démontrent une activité constante et un engagement. Utilisez-
 
 ## Facteurs de classement clés : avis, médias et horaires
 
-Les heures d'ouverture sont un autre champ Google Business Profile qui impacte les classements. Nous avons vu de première main, en testant les heures d'ouverture comme facteur de classement, que les classements Google Business Profile changent souvent drastiquement selon quelles entreprises sont ouvertes ou fermées au moment d'une recherche. Quand une entreprise est ouverte, elle est plus susceptible de classer dans les recherches pertinentes, alors qu'une entreprise peut complètement disparaître des classements quand elle est fermée.
+Les heures d'ouverture sont un autre champ Google Business Profile qui impacte les classements. Nous avons vu de première main, en testant les heures d'ouverture comme facteur de classement, que les classements Google Business Profile changent souvent drastiquement selon quelles entreprises sont ouvertes ou fermées au moment d'une [recherche](https://blotmkt.com/ia/definition/intention-informative). Quand une entreprise est ouverte, elle est plus susceptible de classer dans les recherches pertinentes, alors qu'une entreprise peut complètement disparaître des classements quand elle est fermée.
  Les horaires d'ouverture représentent un facteur de classement top 5 selon le rapport Whitespark. Maintenez une précision absolue et envisagez des horaires étendus si possible.
 
 Les avis qui incluent des photos sont maintenant affichés dans un format story. Cela rend les avis plus dynamiques et visuellement engageants, permettant aux clients potentiels de voir l'expérience du point de vue d'autres acheteurs.
@@ -84,7 +84,7 @@ Brad explique que les fonctionnalités IA de Google, comme AI Overview et le mod
 Les données structurées et factuelles d'une fiche GBP bien optimisée constituent une source d'information privilégiée pour les LLM qui génèrent les AI Overviews. 
 Cette [Analyse](https://blotmkt.com/ia/Audit/fichier-robots.txt) d'hyperlocal confirme que les Google AI Overviews représentent un changement significatif par rapport au système de classement traditionnel basé sur la localisation de Google, avec beaucoup plus d'accent sur la pertinence du contenu et l'intention de requête que la proximité géographique. Pour les entreprises locales, cela signifie qu'optimiser pour la pertinence locale reste important, la qualité et l'autorité du contenu a un impact beaucoup plus grand sur la visibilité Google AI Overviews que la proximité physique du chercheur.
 
-Une description claire, des services bien définis et une section Q&R active permettent de répondre directement aux requêtes complexes traitées par l'IA de Google. 
+Une [description](https://blotmkt.com/ia/IA SEO - GEO/llm-optimization) claire, des services bien définis et une section Q&R active permettent de répondre directement aux requêtes complexes traitées par l'IA de Google. 
 Pour gagner dans cette ère "Answer Engine", vous devez passer du SEO traditionnel à l'Optimisation de Moteur Génératif (GEO). Votre objectif est de fournir à l'IA le meilleur "matériau source" possible.
  Formulez votre [contenu](https://blotmkt.com/ia/Audit/audit-seo-montreal) de manière conversationnelle et informative pour qu'il soit facilement ingérable par les moteurs génératifs.
 
@@ -121,7 +121,7 @@ En 2026, le "Taux de Décroissance" de la visibilité est plus rapide que jamais
     {
       "@type": "Article",
       "headline": "SEO pour Google Business Profile : le guide complet pour dominer la recherche locale",
-      "description": "Optimisez votre fiche Google Business Profile (ex-GMB) pour le SEO local. Suivez notre guide pratique pour améliorer votre classement et performer dans les AI Overviews.",
+      "[description](https://blotmkt.com/ia/ia-seo-geo/llm-optimization)": "Optimisez votre fiche Google Business Profile (ex-GMB) pour le SEO local. Suivez notre guide pratique pour améliorer votre classement et performer dans les AI Overviews.",
       "url": "https://blotmkt.com/ia/Local SEO/google-my-business-seo",
       "datePublished": "2026-03-09 19:05",
       "dateModified": "2026-03-09 19:05",
@@ -167,7 +167,7 @@ En 2026, le "Taux de Décroissance" de la visibilité est plus rapide que jamais
           "name": "Comment améliorer son référencement sur Google Maps ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Optimisez complètement votre GBP, publiez des pages spécifiques à votre localisation, ajoutez du schema local, collectez des avis clients, maintenez des informations NAP cohérentes et publiez du contenu frais régulièrement."
+            "text": "Optimisez complètement votre GBP, publiez des pages spécifiques à votre localisation, ajoutez du schema local, collectez des avis clients, maintenez des informations NAP cohérentes et publiez du [contenu](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel) frais régulièrement."
           }
         },
         {

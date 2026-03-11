@@ -16,7 +16,7 @@ slug: "ymyl-seo"
 url: "/ia/definition/ymyl-seo"
 related_articles:
   - title: "Audit de site web : le guide complet pour un diagnostic SEO actionnable"
-    url: "/ia/Stratégie/audit-site-web"
+    url: "/ia/strategie/audit-site-web"
   - title: "Audit SEO technique : le guide pour identifier les freins et optimiser votre ROI"
     url: "/ia/Audit/audit-seo-technique"
   - title: "Structure HN : le guide complet pour un SEO sémantique optimisé pour les IA"

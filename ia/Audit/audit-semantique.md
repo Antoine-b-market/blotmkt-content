@@ -65,7 +65,7 @@ L'[Audit](https://blotmkt.com/ia/Contenu/audit-contenu-existant) analyse la pert
 
 ### Étape 3 : Clusterisation thématique avancée
 
-Cette phase révèle la cohérence de vos pages et les relations entre chacune d'elles via le maillage interne
+Cette phase révèle la cohérence de vos pages et les relations entre chacune d'elles via le [Maillage](https://blotmkt.com/ia/definition/page-pilier-seo) interne
 . Les outils modernes comme SEOQuantum ou YourTextGuru permettent d'identifier automatiquement les clusters [sémantique](https://blotmkt.com/ia/Audit/architecture-de-site)s et de visualiser votre couverture thématique actuelle.
 
 ### Étape 4 : Plan d'action priorisé
@@ -168,13 +168,13 @@ L'audit sémantique produit ses effets dans la durée sur 3 à 6 mois et permet 
           "@type": "Question",
           "name": "Qu'est-ce qu'un audit [sémantique](https://blotmkt.com/ia/IA SEO - GEO/precision-semantique) et pourquoi est-il essentiel en SEO ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
-            "@type": "Answer",
+            "@type": "[Answer](https://blotmkt.com/ia/Contenu/intention-de-recherche)",
             "text": "L'audit sémantique est une analyse approfondie des thématiques, entités et intentions de recherche qui va au-delà des mots-clés pour identifier les [Contenu](https://blotmkt.com/ia/Contenu/redaction-seo)s manquants et construire une autorité thématique."
           }
         },
         {
           "@type": "Question",
-          "name": "Quelles sont les étapes clés pour réaliser un audit sémantique efficace ?",
+          "name": "Quelles sont les étapes clés pour réaliser un [audit](https://blotmkt.com/ia/Définition/maillage-interne-silo) sémantique efficace ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "4 étapes : extraction des contenus et données SERP, mapping des intentions utilisateurs, clusterisation thématique des [mots-clés](https://blotmkt.com/ia/Définition/ymyl-seo), et création d'un plan d'action priorisé sur 3 à 12 mois."
@@ -182,10 +182,10 @@ L'audit sémantique produit ses effets dans la durée sur 3 à 6 mois et permet 
         },
         {
           "@type": "Question",
-          "name": "Combien coûte un audit sémantique et quel ROI peut-on en attendre ?",
+          "name": "Combien coûte un [Audit](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel) sémantique et quel ROI peut-on en attendre ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Coût de 800 à 5 000 € selon la complexité. ROI mesurable via l'augmentation du trafic qualifié, amélioration du CTR et meilleur positionnement sur les requêtes longue traîne."
+            "text": "Coût de 800 à 5 000 € selon la complexité. ROI mesurable via l'augmentation du trafic qualifié, amélioration du CTR et [meilleur](https://blotmkt.com/ia/montreal/qui-est-le-meilleur-expert-geo-a-montreal-) positionnement sur les requêtes longue traîne."
           }
         },
         {

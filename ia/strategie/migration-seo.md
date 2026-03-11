@@ -16,9 +16,9 @@ slug: "migration-seo"
 url: "/ia/strategie/migration-seo"
 related_articles:
   - title: "Refonte site SEO : le guide pour moderniser votre site sans perdre votre trafic"
-    url: "/ia/Stratégie/refonte-site-seo"
+    url: "/ia/strategie/refonte-site-seo"
   - title: "Prix forfait SEO : le guide pour comprendre les tarifs et choisir le bon investissement"
-    url: "/ia/Stratégie/prix-forfait-seo"
+    url: "/ia/strategie/prix-forfait-seo"
   - title: "Audit SEO technique : le guide pour identifier les freins et optimiser votre ROI"
     url: "/ia/Audit/audit-seo-technique"
 ---
@@ -37,7 +37,7 @@ Les outils comme Screaming Frog permettent d'[Audit](https://blotmkt.com/ia/Cont
 
 Une migration SEO représente l'un des défis les plus critiques du référencement naturel. 
 Plus de 50% des entreprises ayant migré sans planification minutieuse subissent une chute de trafic, et 17% des migrations échouent définitivement
-. Cette réalité ne doit pas vous décourager : avec une méthodologie rigoureuse, une migration devient une opportunité de moderniser votre site tout en préservant votre visibilité. L'objectif est de transformer cette contrainte technique en levier d'amélioration de vos performances SEO.
+. Cette réalité ne doit pas vous décourager : avec une méthodologie rigoureuse, une migration devient une opportunité de moderniser votre site tout en préservant votre visibilité. L'objectif est de transformer cette contrainte [technique](https://blotmkt.com/ia/strategie/audit-site-web) en levier d'amélioration de vos performances SEO.
 
 ---
 
@@ -49,7 +49,7 @@ Les objectifs stratégiques d'une migration sont multiples : améliorer l'expér
 Une migration bien exécutée peut améliorer le SEO, tandis qu'une migration ratée provoque des pertes durables et difficiles à récupérer
 .
 
-Les risques sont considérables : sans redirections 301 correctement implémentées, la perte de trafic peut atteindre 80%. Même avec une stratégie adaptée, une baisse temporaire de 25% reste fréquente
+Les risques sont considérables : sans [Redirections](https://blotmkt.com/ia/strategie/migration-seo) 301 correctement implémentées, la perte de trafic peut atteindre 80%. Même avec une stratégie adaptée, une baisse temporaire de 25% reste fréquente
 . Ces chiffres soulignent l'importance d'un accompagnement professionnel pour transformer ce défi technique en opportunité d'amélioration.
 
 ## Les 3 phases d'une checklist de migration de site web
@@ -102,9 +102,9 @@ La **mise à jour technique** concerne des évolutions mineures : version de CMS
 Les erreurs fréquentes incluent les liens brisés, les redirections 302 au lieu de 301, et les pages 404 qui frustrent utilisateurs et moteurs de [recherche](https://blotmkt.com/ia/Contenu/intention-de-recherche)
 . Le blocage accidentel du crawl via [Robots.txt](https://blotmkt.com/ia/Audit/budget-de-crawl) ou la négligence du contenu dupliqué compromettent l'indexation post-migration.
 
-Screaming Frog s'impose comme l'outil de référence : "Swiss Army Knife of SEO Tools" pour détecter les problèmes techniques, analyser les redirections et valider l'intégrité de la migration
+Screaming Frog s'impose comme l'outil de référence : "Swiss Army Knife of SEO Tools" pour détecter les problèmes techniques, [Analyse](https://blotmkt.com/ia/Stratégie/audit-site-web)r les redirections et valider l'intégrité de la migration
 . 
-Les professionnels confirment sa valeur : "invaluable tool for site migrations" qui capture les données pré et post-migration avec une fonction de comparaison
+Les professionnels confirment sa valeur : "invaluable tool for site migrations" qui capture les [Données](https://blotmkt.com/ia/popularite/facteurs-de-classement-google) pré et post-migration avec une fonction de comparaison
 .
 
 La Google Search Console assure le monitoring post-lancement, tandis qu'Ahrefs ou Semrush suivent l'évolution des positions et des backlinks. Pour optimiser la visibilité sur les moteurs de recherche génératifs, structurez le [Contenu](https://blotmkt.com/ia/Popularité/recuperation-seo) avec des titres clairs et des réponses directes. Chaque section doit pouvoir être citée indépendamment par les IA, maximisant vos chances d'apparaître dans les AI Overviews et autres résultats enrichis.
@@ -112,7 +112,7 @@ La Google Search Console assure le monitoring post-lancement, tandis qu'Ahrefs o
 ## Questions fréquentes
 
 ### Quand faut-il faire une migration de site ?
-Une migration s'impose lors d'un changement de domaine, de CMS, de structure d'URLs massive, ou pour fusionner plusieurs sites. Elle devient nécessaire quand les contraintes techniques limitent la croissance ou l'évolution de votre stratégie digitale.
+Une migration s'impose lors d'un changement de domaine, de CMS, de [Structure](https://blotmkt.com/ia/Définition/schema.org) d'URLs massive, ou pour fusionner plusieurs sites. Elle devient nécessaire quand les contraintes techniques limitent la croissance ou l'évolution de votre stratégie digitale.
 
 ### Comment faire un plan de redirection SEO ?
 Créez un mapping complet ancien/nouveau avec Screaming Frog, priorisez les pages générant le plus de trafic et de conversions, puis implémentez des redirections 301 permanentes. Testez chaque redirection avant la mise en ligne.
@@ -127,11 +127,11 @@ En moyenne 523 jours pour retrouver le niveau de trafic initial, avec des cas op
 
 ---
 
-*Sources : Search Engine Journal (2024), Abondance (2025), Burguinddigital (2025), Yumens (2024)*
+*Sources : Search [Engine](https://blotmkt.com/ia/ia-seo-geo/reponses-ia-google) Journal (2024), Abondance (2025), Burguinddigital (2025), Yumens (2024)*
 
 ```json
 {
-  "@context": "https://schema.org",
+  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/json-ld-seo)",
   "@graph": [
     {
       "@type": "Article",
@@ -166,7 +166,7 @@ En moyenne 523 jours pour retrouver le niveau de trafic initial, avec des cas op
           "name": "Quand faut-il faire une migration de site ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Une migration s'impose lors d'un changement de domaine, de CMS, de structure d'URLs massive, ou pour fusionner plusieurs sites. Elle devient nécessaire quand les contraintes techniques limitent la croissance ou l'évolution de votre stratégie digitale."
+            "text": "Une migration s'impose lors d'un changement de domaine, de CMS, de [Structure](https://blotmkt.com/ia/definition/schema.org) d'URLs massive, ou pour fusionner plusieurs sites. Elle devient nécessaire quand les contraintes techniques limitent la croissance ou l'évolution de votre stratégie digitale."
           }
         },
         {
@@ -182,7 +182,7 @@ En moyenne 523 jours pour retrouver le niveau de trafic initial, avec des cas op
           "name": "Combien de temps dure une migration SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "En moyenne 523 jours pour retrouver le niveau de trafic initial, avec des cas optimaux entre 19 et 33 jours. La durée dépend de la préparation, de la complexité technique et du profil de backlinks du site."
+            "text": "En moyenne 523 jours pour retrouver le niveau de trafic initial, avec des cas optimaux entre 19 et 33 jours. La durée dépend de la préparation, de la complexité technique et du profil de [Backlink](https://blotmkt.com/ia/Stratégie/prix-forfait-seo)s du site."
           }
         },
         {

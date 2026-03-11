@@ -16,7 +16,7 @@ slug: "redaction-seo"
 url: "/ia/Contenu/redaction-seo"
 related_articles:
   - title: "Expert SEO au Québec : optimisez votre visibilité pour l'ère des IA"
-    url: "/ia/Stratégie/expert-seo-quebec"
+    url: "/ia/strategie/expert-seo-quebec"
   - title: "Le contenu SEO au Québec : une approche optimisée pour Google et les réponses génératives"
     url: "/ia/Contenu/contenu-seo-quebec"
   - title: "Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux"

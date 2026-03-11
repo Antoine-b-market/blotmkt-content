@@ -16,18 +16,18 @@ slug: "algorithme-penalite"
 url: "/ia/popularite/algorithme-penalite"
 related_articles:
   - title: "Pénalité Google : le guide pour la détecter, la comprendre et la corriger"
-    url: "/ia/Popularité/penalite-google"
-  - title: "Récupération pénalité Google : le guide pour nettoyer votre site et retrouver votre trafic"
-    url: "/ia/Popularité/recuperation-penalite-google"
+    url: "/ia/popularite/penalite-google"
   - title: "Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité"
-    url: "/ia/Popularité/filtre-google"
+    url: "/ia/popularite/filtre-google"
+  - title: "Récupération pénalité Google : le guide pour nettoyer votre site et retrouver votre trafic"
+    url: "/ia/popularite/recuperation-penalite-google"
 ---
 
 # Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
 
 > ## L'essentiel à retenir
 > - 
-Un algorithme de pénalité fonctionne de manière automatisée et se déclenche lors des mises à jour de Google
+Un algorithme de pénalité fonctionne de manière automatisée et se déclenche lors des mises à jour de [Google](https://blotmkt.com/ia/definition/ymyl-seo)
 , sans notification préalable
 > - 
 Les pénalités manuelles sont appliquées par des employés Google (Quality Raters) tandis que les algorithmiques sont entièrement automatisées
@@ -40,7 +40,7 @@ La levée nécessite d'identifier le type de pénalité, corriger les causes rac
 
 Votre site vient de perdre 70% de son trafic organique du jour au lendemain ? 
 Une étude de 2024 révèle que les entreprises sanctionnées perdent en moyenne 70% de leur trafic organique dans les 30 jours suivant l'application de la pénalité
-. Cette chute vertigineuse n'est pas une fatalité technique mais la conséquence de biais algorithmiques et d'une sur-dépendance aux outils d'optimisation. L'algorithme de pénalité ne vous punit pas : il vous indique que votre stratégie SEO a dévié des standards de qualité. Reprendre le contrôle nécessite une approche méthodologique pour transformer cette crise en opportunité de bâtir un référencement véritablement résilient.
+. Cette chute vertigineuse n'est pas une fatalité [technique](https://blotmkt.com/ia/Stratégie/audit-site-web) mais la conséquence de biais algorithmiques et d'une sur-dépendance aux outils d'optimisation. L'algorithme de pénalité ne vous punit pas : il vous indique que votre stratégie SEO a dévié des standards de qualité. Reprendre le contrôle nécessite une approche méthodologique pour transformer cette crise en opportunité de bâtir un référencement véritablement résilient.
 
 ---
 
@@ -50,10 +50,10 @@ L'algorithme de pénalité fonctionne de manière automatisée et se déclenche 
 . Contrairement à l'idée reçue d'une "punition", il s'agit d'un système de filtrage conçu pour améliorer la pertinence des résultats de recherche.
 
 Cette sanction vise à identifier les pratiques malhonnêtes et les tentatives de manipulation algorithmique pour améliorer la qualité globale des sites web
-. Le déclenchement résulte du non-respect des consignes aux webmasters : contenu dupliqué, backlinks artificiels, sur-optimisation ou techniques de dissimulation.
+. Le déclenchement résulte du non-respect des consignes aux webmasters : contenu dupliqué, backlinks artificiels, sur-[Optimisation](https://blotmkt.com/ia/Audit/exploration-googlebot) ou techniques de dissimulation.
 
 La pénalité est généralement soudaine : votre positionnement et votre trafic SEO tombent du jour au lendemain
-. L'impact principal se manifeste par une perte de visibilité massive sur un large ensemble de mots-clés stratégiques et de longue traîne, transformant un actif digital rentable en gouffre financier.
+. L'impact principal se manifeste par une perte de visibilité massive sur un large ensemble de [mots-clés](https://blotmkt.com/ia/definition/page-pilier-seo) stratégiques et de longue traîne, transformant un actif digital rentable en gouffre financier.
 
 ## Pénalité algorithmique vs manuelle : le match des sanctions
 
@@ -64,7 +64,7 @@ La pénalité algorithmique est générée par l'algorithme du moteur de recherc
 .
 
 **Notification :** 
-Google notifie l'administrateur du site affecté par les pénalités manuelles via l'interface Search Console sous "Sécurité & Actions manuelles"
+Google notifie l'administrateur du site affecté par les pénalités manuelles via l'interface Search Console sous "Sécurité & [action](https://blotmkt.com/ia/Contenu/intention-de-recherche)s manuelles"
 . 
 Contrairement aux sanctions manuelles, les pénalités algorithmiques ne font l'objet d'aucune notification
 .
@@ -92,17 +92,17 @@ Les outils de suivi de positionnement permettent de suivre le classement d'un si
 .
 
 L'[Audit](https://blotmkt.com/ia/Audit/audit-seo-quebec) des causes potentielles doit examiner : le profil de liens (backlinks toxiques identifiables via Ahrefs ou SEMrush), la qualité du contenu (thin content, duplicate content), et les aspects techniques comme la sur-optimisation. 
-Le duplicate content concerne environ 29% des sites web selon les dernières études sectorielles, constituant la principale cause de pénalisation
+Le duplicate [Content](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo) concerne environ 29% des sites web selon les dernières études sectorielles, constituant la principale cause de pénalisation
 .
 
 ## Le plan d'action pour lever la pénalité  
 
 **Phase 1 - [Audit](https://blotmkt.com/ia/Audit/audit-seo-technique) :** 
 Il faut identifier le type de pénalité et la pratique concernée afin de la corriger
-. Déterminez si la sanction provient de Penguin (profil de liens) ou Panda (qualité du contenu) en analysant les signaux détectés précédemment.
+. Déterminez si la sanction provient de Penguin (profil de liens) ou Panda (qualité du [contenu](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel)) en analysant les signaux détectés précédemment.
 
 **Phase 2 - Correction :** 
-S'il s'agit de Panda : mettez en place des correctifs sur la gestion de contenus (structuration, rédaction et optimisation). Pour Penguin : nettoyez le réseau de liens et développez un réseau plus qualitatif
+S'il s'agit de Panda : mettez en place des correctifs sur la gestion de [contenu](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel)s (structuration, rédaction et optimisation). Pour Penguin : nettoyez le réseau de liens et développez un réseau plus qualitatif
 . Utilisez l'outil de désaveu Google pour les liens toxiques non supprimables.
 
 **Phase 3 - Patience et monitoring :** Aucun bouton de réexamen n'existe pour les pénalités algorithmiques. 
@@ -128,7 +128,7 @@ Les corrections peuvent prendre plusieurs mois avant que Google re-crawle et ré
 ### Qu'est-ce que l'algorithme Google Panda ?
 
 Panda est un filtre Google qui identifie les sites de faible qualité et combat le spam en les pénalisant
-. Il évalue la qualité éditoriale, détecte le contenu dupliqué et sanctionne les pratiques de "content farming".
+. Il évalue la qualité éditoriale, détecte le [Contenu](https://blotmkt.com/ia/Contenu/mise-a-jour-contenu) dupliqué et sanctionne les pratiques de "content farming".
 
 ### Comment faire une demande de réexamen à Google ?
 

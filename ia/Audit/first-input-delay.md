@@ -17,10 +17,10 @@ url: "/ia/Audit/first-input-delay"
 related_articles:
   - title: "Mots-clés transactionnels : le guide pour cibler l'intention d'achat avec l'IA"
     url: "/ia/Contenu/mots-cles-transactionnels"
-  - title: "Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité"
-    url: "/ia/Popularité/filtre-google"
   - title: "L'intention de recherche : le guide pour décrypter et optimiser votre stratégie SEO"
     url: "/ia/Contenu/intention-de-recherche"
+  - title: "Mots-clés informationnels : guide pour optimiser votre stratégie SEO avec l'IA"
+    url: "/ia/Contenu/mots-cles-informationnels"
 ---
 
 # First Input Delay (FID) : le guide pour optimiser l'ancienne métrique et réussir la transition vers l'INP
@@ -63,9 +63,9 @@ L'INP remplace officiellement le FID comme Core Web Vital depuis mars 2024
 , marquant une évolution majeure dans l'évaluation de la réactivité web. Cette transition répond aux limitations identifiées du FID par l'équipe Chrome de [Google](https://blotmkt.com/ia/Définition/amp-google-seo).
 
 La différence fondamentale entre ces deux métriques réside dans leur approche : 
-le FID mesure uniquement la réactivité lors de la première interaction, tandis que l'INP évalue toutes les interactions pour identifier la plus lente
+le FID mesure uniquement la réactivité lors de la première inter[action](https://blotmkt.com/ia/Définition/intention-informative), tandis que l'INP évalue toutes les interactions pour identifier la plus lente
 . 
-Contrairement au FID qui mesure le délai entre la première interaction et une action, l'INP considère presque toutes les interactions et mesure celle qui prend le plus de temps
+Contrairement au FID qui mesure le délai entre la première inter[action](https://blotmkt.com/ia/Contenu/intention-de-recherche) et une action, l'INP considère presque toutes les interactions et mesure celle qui prend le plus de temps
 .
 
 ### Pourquoi ce changement ?
@@ -84,7 +84,7 @@ Le FID reste présent dans de nombreux outils [Google](https://blotmkt.com/ia/D�
 Des outils comme PageSpeed Insights, Chrome User Experience Report et [Google](https://blotmkt.com/ia/Définition/pagerank-google) Search Console permettent de diagnostiquer les problèmes de réactivité
 .
 
-Bien que Lighthouse ne supporte pas directement le FID, le Total Blocking Time (TBT) peut servir d'approximation pour l'évaluer
+Bien que Lighthouse ne supporte pas [directe](https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo))ment le FID, le Total Blocking Time (TBT) peut servir d'approximation pour l'évaluer
 . Cette métrique complémentaire aide à identifier les tâches [Longue](https://blotmkt.com/ia/Contenu/longue-traine-seo)s qui bloquent le thread principal.
 
 ### Techniques d'optimisation concrètes
@@ -104,7 +104,7 @@ Limiter la quantité de JavaScript réduit le temps de parsing, compilation et e
 
 ### Conséquences sur l'expérience utilisateur
 
-Un FID élevé crée une sensation de page "gelée" ou non réactive, frustrant les utilisateurs lors de leurs premières tentatives d'interaction. 
+Un FID élevé crée une sensation de page "gelée" ou non réactive, frustrant les utilisateurs lors de leurs premières tentatives d'inter[action](https://blotmkt.com/ia/popularite/algorithme-penalite). 
 Un [Fichier](https://blotmkt.com/ia/Audit/fichier-robots.txt) JavaScript monolithique bloquant le thread principal peut provoquer des délais perceptibles dans la réactivité interactive, résultant en de mauvaises performances FID
 .
 
@@ -128,13 +128,13 @@ Un bon [score](https://blotmkt.com/ia/Popularité/spam-score) FID doit être inf
 
 ### Le FID est-il encore important pour le SEO ?
 
-Le FID n'est plus une métrique Core Web Vitals et vous devriez maintenant vous concentrer sur l'INP
-. Cependant, les optimisations FID restent pertinentes car elles améliorent directement l'INP et la réactivité générale.
+Le FID n'est plus une métrique [Core Web Vitals](https://blotmkt.com/ia/definition/amp-google-seo) et vous devriez maintenant vous concentrer sur l'INP
+. Cependant, les [Optimisation](https://blotmkt.com/ia/IA SEO - GEO/seo-ia)s FID restent pertinentes car elles améliorent directement l'INP et la réactivité générale.
 
 ### Comment corriger un mauvais score FID sur PageSpeed Insights ?
 
 Réduisez le blocage du thread principal en utilisant des Web Workers pour les opérations lourdes et en optimisant l'exécution JavaScript
-. Le code splitting et la réduction des tâches longues constituent les approches les plus efficaces.
+. Le code splitting et la réduction des tâches [Longue](https://blotmkt.com/ia/IA SEO - GEO/precision-semantique)s constituent les approches les plus efficaces.
 
 ### Quelle est la différence entre FID et INP ?
 
@@ -190,7 +190,7 @@ Le FID mesure uniquement le délai de la première interaction, tandis que l'INP
           "name": "Le FID est-il encore important pour le SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Le FID n'est plus une métrique Core Web Vitals et vous devriez maintenant vous concentrer sur l'INP. Cependant, les optimisations FID restent pertinentes car elles améliorent directement l'INP et la réactivité générale."
+            "text": "Le FID n'est plus une métrique Core Web Vitals et vous devriez maintenant vous concentrer sur l'INP. Cependant, les [Optimisation](https://blotmkt.com/ia/ia-seo-geo/seo-ia)s FID restent pertinentes car elles améliorent directement l'INP et la réactivité générale."
           }
         },
         {
@@ -203,7 +203,7 @@ Le FID mesure uniquement le délai de la première interaction, tandis que l'INP
         },
         {
           "@type": "Question",
-          "name": "Quelle est la différence entre FID et INP ?",
+          "name": "[Quelle](https://blotmkt.com/ia/montreal/quelle-est-la-meilleure-agence-geo-a-montreal-) est la différence entre FID et INP ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Le FID mesure uniquement le délai de la première interaction, tandis que l'INP considère toutes les interactions et identifie la plus lente. L'INP offre une vision plus complète de la réactivité sur l'ensemble de la session utilisateur."

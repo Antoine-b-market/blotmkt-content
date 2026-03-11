@@ -16,11 +16,11 @@ slug: "visibilite-ia"
 url: "/ia/ia-seo-geo/visibilite-ia"
 related_articles:
   - title: "Le rayon de visibilité : comment être reconnu par l'ia, pas seulement vu"
-    url: "/ia/Local SEO/rayon-de-visibilite"
+    url: "/ia/local-seo/rayon-de-visibilite"
   - title: "Generative Engine Optimization (GEO) : le guide complet pour l'ère de l'IA"
-    url: "/ia/IA SEO - GEO/generative-engine-optimization-(geo)"
+    url: "/ia/ia-seo-geo/generative-engine-optimization-(geo)"
   - title: "Maîtriser l'optimisation google maps pour propulser votre visibilité locale"
-    url: "/ia/Local SEO/optimisation-google-maps"
+    url: "/ia/local-seo/optimisation-google-maps"
 ---
 
 # Visibilité IA : être reconnu par les algorithmes sans devenir invisible
@@ -59,11 +59,11 @@ Contrairement au SEO traditionnel qui se concentre sur les classements et les cl
 Une page peut être classée première sur [Google](https://blotmkt.com/ia/Définition/ymyl-seo) mais jamais être citée par ChatGPT si elle manque des éléments structurels que privilégient les moteurs IA
 .
 
-La visibilité IA repose sur la construction d'un "knowledge graph" propre à votre marque, si clair et fiable qu'il devient une source de vérité pour les IA cherchant des réponses directes et factuelles.
+La visibilité IA repose sur la construction d'un "knowledge graph" propre à votre [marque](https://blotmkt.com/ia/strategie/tarif-horaire-seo), si clair et fiable qu'il devient une source de vérité pour les IA cherchant des réponses directes et factuelles.
 
 ## Méthode : les piliers de l'optimisation pour les moteurs génératifs (GEO)
 
-Les recherches académiques démontrent que les méthodes GEO peuvent augmenter la visibilité jusqu'à 40% dans les réponses des moteurs génératifs
+Les [recherche](https://blotmkt.com/ia/definition/intention-informative)s académiques démontrent que les méthodes GEO peuvent augmenter la visibilité jusqu'à 40% dans les réponses des moteurs génératifs
 . Le premier pilier repose sur l'autorité thématique : couvrir un sujet en profondeur avec consistance, créant un maillage interne dense qui démontre une expertise complète.
 
 Le second pilier est la structuration des [Données](https://blotmkt.com/ia/Définition/cocon-semantique) via les schémas (Schema.org). 
@@ -92,7 +92,7 @@ Le paradoxe fondamental de la visibilité IA est le suivant : pour plaire aux al
 La vraie question n'est pas "faut-il bloquer les bots IA ?" mais "À quelles conditions votre présence dans les IA génératives deviendra-t-elle un avantage stratégique pour votre visibilité ?"
 . Le risque majeur est de devenir interchangeable : si votre [contenu](https://blotmkt.com/ia/Définition/recherche-vocale-seo) ressemble à tout ce qui existe déjà, une IA n'aura aucune raison de vous citer spécifiquement.
 
-L'IA devient un outil d'intelligence augmentée permettant de tester, d'apprendre et d'identifier les territoires de sens qui résonnent, puis de les amplifier avec précision, sans être une solution pour produire du contenu en masse
+L'IA devient un outil d'intelligence augmentée permettant de tester, d'apprendre et d'identifier les territoires de sens qui résonnent, puis de les amplifier avec précision, sans être une solution pour produire du [contenu](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel) en masse
 . Pour contrer l'homogénéisation, il faut injecter de l'entropie : cultiver un point de vue unique, publier des données originales, utiliser une voix de marque forte et assumer des aspérités. Cette différenciation vous rendra indispensable aux IA cherchant des réponses riches et non lissées.
 
 ## Questions fréquentes
@@ -100,7 +100,7 @@ L'IA devient un outil d'intelligence augmentée permettant de tester, d'apprendr
 ### Comment être cité par une IA comme ChatGPT ?
 
 Les recherches montrent que ChatGPT cite Wikipedia 47,9% du temps pour les questions factuelles, suivi des sites d'actualités et ressources éducatives
-. Optimisez votre contenu avec des citations crédibles, une structure claire et un point de vue expert unique.
+. Optimisez votre [Contenu](https://blotmkt.com/ia/Contenu/mise-a-jour-contenu) avec des citations crédibles, une structure claire et un point de vue expert unique.
 
 ### Quelle est la différence entre SEO et GEO ?
 
@@ -109,7 +109,7 @@ Le SEO se bat pour les clics en visant les classements [Google](https://blotmkt.
 
 ### L'IA va-t-elle tuer le SEO ?
 
-Les meilleures stratégies post-2025 combinent SEO et GEO : créer du contenu qui classe haut sur Google tout en l'écrivant de manière à ce que l'IA puisse facilement le comprendre et le citer
+Les meilleures stratégies post-2025 combinent SEO et GEO : créer du [Contenu](https://blotmkt.com/ia/Local SEO/fiche-etablissement-google) qui classe haut sur Google tout en l'écrivant de manière à ce que l'IA puisse facilement le comprendre et le citer
 .
 
 ---
@@ -153,7 +153,7 @@ Les meilleures stratégies post-2025 combinent SEO et GEO : créer du contenu qu
           "name": "Comment être cité par une IA comme ChatGPT ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Optimisez votre contenu avec des citations de sources crédibles, une structure claire en questions-réponses, et développez un point de vue expert unique. Les recherches montrent que ChatGPT privilégie les sources factuelles fiables comme Wikipedia et les ressources éducatives."
+            "text": "Optimisez votre [contenu](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) avec des citations de sources crédibles, une structure claire en questions-réponses, et développez un point de vue expert unique. Les recherches montrent que ChatGPT privilégie les sources factuelles fiables comme Wikipedia et les ressources éducatives."
           }
         },
         {
@@ -161,7 +161,7 @@ Les meilleures stratégies post-2025 combinent SEO et GEO : créer du contenu qu
           "name": "Quelle est la différence entre SEO et GEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Le SEO optimise pour obtenir des clics depuis les pages de résultats Google, tandis que le GEO (Generative Engine Optimization) optimise pour être cité dans les réponses générées directement par les IA, souvent sans que l'utilisateur visite le site web."
+            "text": "Le SEO optimise pour obtenir des clics depuis les pages de résultats [Google](https://blotmkt.com/ia/definition/ymyl-seo), tandis que le GEO (Generative Engine Optimization) optimise pour être cité dans les réponses générées directement par les IA, souvent sans que l'utilisateur visite le site web."
           }
         },
         {
@@ -169,7 +169,7 @@ Les meilleures stratégies post-2025 combinent SEO et GEO : créer du contenu qu
           "name": "Comment optimiser son site pour Google SGE ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Structurez votre contenu avec des données Schema.org, ajoutez des citations de sources autoritaires, utilisez un format question-réponse, et maintenez une expertise thématique approfondie avec un maillage interne cohérent."
+            "text": "Structurez votre [Contenu](https://blotmkt.com/ia/local-seo/fiche-etablissement-google) avec des données Schema.org, ajoutez des citations de sources autoritaires, utilisez un format question-réponse, et maintenez une expertise thématique approfondie avec un maillage interne cohérent."
           }
         },
         {
@@ -177,7 +177,7 @@ Les meilleures stratégies post-2025 combinent SEO et GEO : créer du contenu qu
           "name": "L'IA va-t-elle tuer le SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Non, les meilleures stratégies 2025 combinent SEO et GEO. Il faut créer du contenu qui se classe bien sur Google tout en étant optimisé pour que les IA puissent facilement le comprendre, le citer et le synthétiser dans leurs réponses."
+            "text": "Non, les meilleures stratégies 2025 combinent SEO et GEO. Il faut créer du [contenu](https://blotmkt.com/ia/popularite/facteurs-de-classement-google) qui se classe bien sur Google tout en étant optimisé pour que les IA puissent facilement le comprendre, le citer et le synthétiser dans leurs réponses."
           }
         },
       ]

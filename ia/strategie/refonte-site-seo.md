@@ -16,9 +16,9 @@ slug: "refonte-site-seo"
 url: "/ia/strategie/refonte-site-seo"
 related_articles:
   - title: "Prix forfait SEO : le guide pour comprendre les tarifs et choisir le bon investissement"
-    url: "/ia/Stratégie/prix-forfait-seo"
+    url: "/ia/strategie/prix-forfait-seo"
   - title: "Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale"
-    url: "/ia/Stratégie/accompagnement-seo-annuel"
+    url: "/ia/strategie/accompagnement-seo-annuel"
   - title: "Audit SEO technique : le guide pour identifier les freins et optimiser votre ROI"
     url: "/ia/Audit/audit-seo-technique"
 ---
@@ -61,7 +61,7 @@ Ce coût de production est en général à amortir sur 3/5 ans
 
 ### Le coût de l'inaction
 
-Une architecture obsolète, des temps de chargement dégradés ou une expérience utilisateur défaillante constituent une "dette technique" qui s'aggrave avec le temps. Le maintien du statu quo coûte plus cher qu'une refonte bien planifiée, car il prive l'entreprise des opportunités de croissance organique.
+Une architecture obsolète, des temps de chargement dégradés ou une expérience utilisateur défaillante constituent une "dette [technique](https://blotmkt.com/ia/Stratégie/audit-site-web)" qui s'aggrave avec le temps. Le maintien du statu quo coûte plus cher qu'une refonte bien planifiée, car il prive l'entreprise des opportunités de croissance organique.
 
 ## La méthodologie infaillible pour une migration SEO sans perte de trafic
 
@@ -72,7 +72,7 @@ Avec la search console de [Google](https://blotmkt.com/ia/Définition/pagerank-g
 **Phase 2 - Conception et Développement :** 
 Pour un projet de refonte réussi, le SEO et l'UX doivent travailler de pair
 . La création des wireframes intègre les contraintes d'optimisation ([Balise](https://blotmkt.com/ia/Contenu/meta-description)s H1-H3, maillage interne, temps de chargement) tout en préservant une expérience utilisateur fluide. 
-Il est fondamental de définir clairement cette nouvelle taxonomie avant même de lancer les modifications techniques
+Il est fondamental de définir clairement cette nouvelle taxonomie avant même de lancer les modifications [technique](https://blotmkt.com/ia/strategie/audit-site-web)s
 .
 
 **Phase 3 - Lancement et Suivi :** 
@@ -82,15 +82,15 @@ Les redirections permettent de dire aux moteurs de recherche où les [Contenu](h
 ## Refonte complète vs. optimisation continue : quand faut-il tout changer ?
 
 Les signaux d'alerte justifiant une refonte complète incluent 
-une baisse de visibilité organique, de trafic et de conversions
+une baisse de [Visibilité](https://blotmkt.com/ia/local-seo/optimisation-google-maps) organique, de trafic et de conversions
 , l'obsolescence technique (site non responsive), ou un changement majeur de positionnement commercial. 
 Si ces repères changent sans accompagnement (redirections, maillage, signaux techniques), [Google](https://blotmkt.com/ia/Contenu/titre-accrocheur-seo) perd la trace de certaines pages et les classements reculent
 .
 
-L'optimisation continue convient aux sites techniquement sains nécessitant des ajustements de contenu ou d'expérience utilisateur. Cette approche incrémentale maintient la performance tout en affinant progressivement les éléments perfectibles.
+L'optimisation continue convient aux sites techniquement sains nécessitant des ajustements de [contenu](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel) ou d'expérience utilisateur. Cette approche incrémentale maintient la performance tout en affinant progressivement les éléments perfectibles.
 
 Une migration bien préparée permet non seulement d'éviter la chute, mais aussi de gagner en visibilité
-. La refonte complète devient indispensable quand la structure existante constitue un frein insurmontable aux objectifs business, et que des optimisations partielles ne suffisent plus à débloquer le potentiel de croissance.
+. La refonte complète devient indispensable quand la structure existante constitue un frein insurmontable aux objectifs business, et que des [Optimisation](https://blotmkt.com/ia/ia-seo-geo/seo-ia)s partielles ne suffisent plus à débloquer le potentiel de croissance.
 
 ## Questions fréquentes
 
@@ -106,7 +106,7 @@ Une faible baisse pendant quelques jours est possible, due aux perturbations cau
 
 ### Comment faire une redirection 301 lors d'une refonte ?
 
-Établir le plan de redirections 301 (ancienne URL → nouvelle URL) et le faire tester
+Établir le plan de [Redirections](https://blotmkt.com/ia/Stratégie/migration-seo) 301 (ancienne URL → nouvelle URL) et le faire tester
  en pré-production s'avère essentiel. Chaque ancienne URL génératrice de trafic doit rediriger vers une page équivalente ou thématiquement proche pour préserver la valeur SEO accumulée.
 
 ---
@@ -148,9 +148,9 @@ Une faible baisse pendant quelques jours est possible, due aux perturbations cau
         {
           "@type": "Question",
           "name": "Qu'est-ce qu'une refonte de site SEO et en quoi diffère-t-elle d'une simple refonte graphique ?",
-          "acceptedAnswer": {
+          "accepted[Answer](https://blotmkt.com/ia/Contenu/intention-de-recherche)": {
             "@type": "Answer",
-            "text": "Une refonte SEO intègre l'optimisation technique, la structure, le contenu et l'UX dès la conception, tandis qu'une refonte graphique se concentre uniquement sur l'interface utilisateur et l'esthétique. La première préserve et améliore la visibilité organique, la seconde peut la compromettre."
+            "text": "Une refonte SEO intègre l'optimisation technique, la structure, le [contenu](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) et l'UX dès la conception, tandis qu'une refonte graphique se concentre uniquement sur l'interface utilisateur et l'esthétique. La première préserve et améliore la visibilité organique, la seconde peut la compromettre."
           }
         },
         {
@@ -174,7 +174,7 @@ Une faible baisse pendant quelques jours est possible, due aux perturbations cau
           "name": "Quand faut-il privilégier une refonte SEO complète plutôt qu'une optimisation ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Une refonte complète s'impose en cas de baisse durable de visibilité, obsolescence technique (non-responsive), changement d'offre majeur, ou quand la structure existante devient un frein insurmontable aux objectifs business. L'optimisation continue suffit pour les ajustements ponctuels."
+            "text": "Une refonte complète s'impose en cas de baisse durable de visibilité, obsolescence technique (non-responsive), changement d'offre majeur, ou quand la [Structure](https://blotmkt.com/ia/definition/schema.org) existante devient un frein insurmontable aux objectifs business. L'optimisation continue suffit pour les ajustements ponctuels."
           }
         },
       ]

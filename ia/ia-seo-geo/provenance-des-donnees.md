@@ -16,11 +16,11 @@ slug: "provenance-des-donnees"
 url: "/ia/ia-seo-geo/provenance-des-donnees"
 related_articles:
   - title: "Données structurées : le guide complet pour obtenir des résultats de recherche enrichis"
-    url: "/ia/Définition/donnees-structurees"
+    url: "/ia/definition/donnees-structurees"
   - title: "Facteurs de classement google : le guide basé sur la documentation officielle"
-    url: "/ia/Popularité/facteurs-de-classement-google"
+    url: "/ia/popularite/facteurs-de-classement-google"
   - title: "Knowledge Graph : le guide complet pour le SEO et la recherche sémantique"
-    url: "/ia/Définition/knowledge-graph"
+    url: "/ia/definition/knowledge-graph"
 ---
 
 # Provenance des données : le signal de confiance pour l'E-E-A-T et les IA génératives
@@ -83,7 +83,7 @@ Les données internes Trustpilot montrent une corrélation positive entre signau
 
 ### Données et études
 
-Pour la publication de recherches, utilisez le type `Dataset` et citez les sources de données brutes. Mentionner l'auteur via son identifiant Zenodo ou ORCID renforce la crédibilité scientifique et facilite l'intégration automatique dans les profils de recherche.
+Pour la publication de [recherche](https://blotmkt.com/ia/definition/intention-informative)s, utilisez le type `Dataset` et citez les sources de données brutes. Mentionner l'auteur via son identifiant Zenodo ou ORCID renforce la crédibilité scientifique et facilite l'intégration automatique dans les profils de recherche.
 
 ## L'impact de la provenance sur l'E-E-A-T et la lutte anti-spam
 
@@ -105,13 +105,13 @@ L'IA peut compiler de l'expertise à partir de sources existantes, mais elle ne 
 ## Questions fréquentes
 
 ### Comment Google vérifie-t-il la source d'une information ?
-Google utilise les données structurées schema.org et les signaux E-E-A-T pour évaluer la provenance. Les propriétés comme `author`, `publisher` et `citation` créent une chaîne de confiance algorithmique vérifiable.
+[Google](https://blotmkt.com/ia/definition/ymyl-seo) utilise les données structurées schema.org et les signaux E-E-A-T pour évaluer la provenance. Les propriétés comme `author`, `publisher` et `citation` créent une chaîne de confiance algorithmique vérifiable.
 
 ### Est-ce que les LLMs tiennent compte de la provenance des données ?
-Oui, les IA génératives puisent massivement dans les contenus structurés. Une provenance claire via les données structurées améliore les chances d'être citée correctement par ChatGPT Search, Perplexity et les AI Overviews de Google.
+Oui, les IA génératives puisent massivement dans les [contenu](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel)s structurés. Une provenance claire via les données structurées améliore les chances d'être citée correctement par ChatGPT Search, Perplexity et les AI Overviews de Google.
 
 ### Comment prouver son expertise à Google ?
-Liez vos contenus à des identifiants d'autorité (ORCID, Zenodo), citez vos sources via la propriété `citation`, et documentez votre expérience réelle avec des preuves tangibles (photos originales, données propriétaires, retours d'usage concrets).
+Liez vos [Contenu](https://blotmkt.com/ia/Contenu/mise-a-jour-contenu)s à des identifiants d'autorité (ORCID, Zenodo), citez vos sources via la propriété `citation`, et documentez votre expérience réelle avec des preuves tangibles (photos originales, données propriétaires, retours d'usage concrets).
 
 ---
 
@@ -161,10 +161,10 @@ Iguane Media, 2026
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Comment Google vérifie-t-il la source d'une information ?",
+          "name": "Comment [Google](https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo)) vérifie-t-il la source d'une information ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Google utilise les données structurées schema.org et les signaux E-E-A-T pour évaluer la provenance. Les propriétés comme author, publisher et citation créent une chaîne de confiance algorithmique vérifiable par les moteurs de recherche."
+            "text": "[Google](https://blotmkt.com/ia/strategie/prix-forfait-seo) utilise les données structurées schema.org et les signaux E-E-A-T pour évaluer la provenance. Les propriétés comme author, publisher et citation créent une chaîne de confiance algorithmique vérifiable par les moteurs de recherche."
           }
         },
         {
@@ -172,15 +172,15 @@ Iguane Media, 2026
           "name": "Est-ce que les LLMs tiennent compte de la provenance des données ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Oui, les IA génératives puisent massivement dans les contenus structurés. Une provenance claire via les données structurées améliore les chances d'être citée correctement par ChatGPT Search, Perplexity et les AI Overviews de Google."
+            "text": "Oui, les IA génératives puisent massivement dans les [Contenu](https://blotmkt.com/ia/Local SEO/fiche-etablissement-google)s structurés. Une provenance claire via les données structurées améliore les chances d'être citée correctement par ChatGPT Search, Perplexity et les AI Overviews de Google."
           }
         },
         {
           "@type": "Question",
-          "name": "Comment prouver son expertise à Google ?",
+          "name": "Comment prouver son expertise à [Google](https://blotmkt.com/ia/Contenu/structure-hn-seo) ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Liez vos contenus à des identifiants d'autorité comme ORCID ou Zenodo, citez vos sources via la propriété citation, et documentez votre expérience réelle avec des preuves tangibles comme des photos originales et données propriétaires."
+            "text": "Liez vos [contenu](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel)s à des identifiants d'autorité comme ORCID ou Zenodo, citez vos sources via la propriété citation, et documentez votre expérience réelle avec des preuves tangibles comme des photos originales et données propriétaires."
           }
         },
         {

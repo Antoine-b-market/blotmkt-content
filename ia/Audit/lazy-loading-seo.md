@@ -18,7 +18,7 @@ related_articles:
   - title: "Budget de crawl : le guide pour l'optimiser et accélérer votre indexation"
     url: "/ia/Audit/budget-de-crawl"
   - title: "Prix forfait SEO : le guide pour comprendre les tarifs et choisir le bon investissement"
-    url: "/ia/Stratégie/prix-forfait-seo"
+    url: "/ia/strategie/prix-forfait-seo"
   - title: "Audit SEO technique : le guide pour identifier les freins et optimiser votre ROI"
     url: "/ia/Audit/audit-seo-technique"
 ---
@@ -92,9 +92,9 @@ pour le lazy loading basé sur JavaScript, assurez-vous que le [Contenu](https:/
 Si le contenu ne se charge que lors du scroll, et que [Googlebot](https://blotmkt.com/ia/Audit/exploration-googlebot) ne scrolle pas, il pourrait ne jamais être indexé
 . C'est pourquoi il faut éviter d'appliquer le lazy loading sur du [Contenu](https://blotmkt.com/ia/Contenu/redaction-seo) textuel essentiel ou des liens internes cruciaux pour la navigation.
 
-Vous devriez toujours éviter de lazy loader l'élément LCP. Si vous lazy loadez l'élément LCP, le lazy loading basé sur JavaScript est particulièrement mauvais pour la vitesse de page
+Vous devriez toujours éviter de lazy loader l'élément LCP. Si vous lazy loadez l'élément LCP, le lazy loading basé sur JavaScript est particulièrement mauvais pour la [Vitesse](https://blotmkt.com/ia/definition/amp-google-seo) de page
  ! Le problème est double : 
-le scanner de préchargement du navigateur ne reconnaît pas l'attribut data-src et ne déclenchera pas proactivement l'élément pour un téléchargement précoce
+le scanner de préchargement du navigateur ne reconnaît pas l'[Attribut](https://blotmkt.com/ia/strategie/prix-forfait-seo) data-src et ne déclenchera pas proactivement l'élément pour un téléchargement précoce
 .
 
 Pour vérifier l'[Indexation](https://blotmkt.com/ia/Contenu/structure-hn-seo), utilisez l'Outil d'Inspection d'URL de la Google Search Console. 
@@ -123,14 +123,14 @@ Le lazy loading peut impacter positivement le SEO en améliorant la [Vitesse de 
 ### Quand ne pas utiliser le lazy loading ?
 
 N'ajoutez pas de lazy-loading au [Contenu](https://blotmkt.com/ia/IA SEO - GEO/contenu-ia-seo) qui est susceptible d'être immédiatement visible lorsqu'un utilisateur ouvre une page
-. Évitez particulièrement de l'appliquer à l'élément LCP et aux contenus textuels essentiels.
+. Évitez particulièrement de l'appliquer à l'élément LCP et aux [contenu](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel)s textuels essentiels.
 
 ### Comment savoir si un site utilise le lazy loading ?
 Utilisez les outils de développement du navigateur pour inspecter les attributs `loading="lazy"` sur les images, ou [Analyse](https://blotmkt.com/ia/Audit/analyse-de-logs-seo)z le site avec PageSpeed Insights qui identifie les images lazy loadées.
 
 ### Quel est l'impact du lazy loading sur le LCP ?
 
-Le lazy loading uniquement des images below-the-fold résulte en une inversion complète de la régression LCP et possiblement même une légère amélioration par rapport à la désactivation complète du lazy loading
+Le lazy loading uniquement des [Image](https://blotmkt.com/ia/IA SEO - GEO/llm-optimization)s below-the-fold résulte en une inversion complète de la régression LCP et possiblement même une légère amélioration par rapport à la désactivation complète du lazy loading
 .
 
 ---
@@ -173,8 +173,8 @@ Le lazy loading uniquement des images below-the-fold résulte en une inversion c
           "@type": "Question",
           "name": "Est-ce que le lazy loading est bon pour le SEO ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
-            "@type": "Answer",
-            "text": "Oui, le lazy loading améliore la vitesse de chargement et l'expérience utilisateur, ce qui bénéficie au SEO. Cependant, il doit être implémenté correctement avec l'attribut natif loading='lazy' et ne jamais être appliqué au contenu above-the-fold ou à l'élément LCP pour éviter les problèmes d'indexation."
+            "@type": "[Answer](https://blotmkt.com/ia/Contenu/intention-de-recherche)",
+            "text": "Oui, le lazy loading améliore la [Vitesse de chargement](https://blotmkt.com/ia/Stratégie/prix-forfait-seo) et l'expérience utilisateur, ce qui bénéficie au SEO. Cependant, il doit être implémenté correctement avec l'attribut natif loading='lazy' et ne jamais être appliqué au contenu above-the-fold ou à l'élément LCP pour éviter les problèmes d'indexation."
           }
         },
         {
@@ -190,7 +190,7 @@ Le lazy loading uniquement des images below-the-fold résulte en une inversion c
           "name": "Quel est l'impact du lazy loading sur le LCP ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Le lazy loading peut améliorer le LCP en réduisant la concurrence réseau, mais uniquement s'il est appliqué aux images below-the-fold. Lazy loader l'élément LCP lui-même dégrade significativement les performances et peut retarder son affichage de plusieurs secondes."
+            "text": "Le lazy loading peut améliorer le LCP en réduisant la concurrence réseau, mais uniquement s'il est appliqué aux [image](https://blotmkt.com/ia/definition/discover-google-seo)s below-the-fold. Lazy loader l'élément LCP lui-même dégrade significativement les performances et peut retarder son affichage de plusieurs secondes."
           }
         },
         {

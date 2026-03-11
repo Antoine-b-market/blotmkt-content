@@ -16,11 +16,11 @@ slug: "attribut-nofollow"
 url: "/ia/definition/attribut-nofollow"
 related_articles:
   - title: "Lien ugc : le guide complet de l'attribut rel="ugc" pour le seo"
-    url: "/ia/Définition/lien-ugc"
+    url: "/ia/definition/lien-ugc"
   - title: "Attribut sponsored : le guide complet pour vos liens payants en seo"
-    url: "/ia/Définition/attribut-sponsored"
+    url: "/ia/definition/attribut-sponsored"
   - title: "Prix forfait SEO : le guide pour comprendre les tarifs et choisir le bon investissement"
-    url: "/ia/Stratégie/prix-forfait-seo"
+    url: "/ia/strategie/prix-forfait-seo"
 ---
 
 # L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
@@ -32,7 +32,7 @@ related_articles:
 Tous les [Attribut](https://blotmkt.com/ia/Définition/lien-ugc)s de liens sont désormais traités comme des "indices" plutôt que des directives strictes
 
 > - 
-Le PageRank "sculpté" via nofollow est simplement perdu et non redistribué
+Le [PageRank](https://blotmkt.com/ia/Stratégie/mandat-seo-entreprise) "sculpté" via nofollow est simplement perdu et non redistribué
 , rendant cette pratique inefficace
 > - L'attribut nofollow reste utile pour les liens externes non cautionnés, le [Contenu](https://blotmkt.com/ia/Contenu/contenu-evergreen) généré par les utilisateurs et éviter les pénalités sur les liens payants
 
@@ -62,16 +62,16 @@ En septembre 2019, [Google](https://blotmkt.com/ia/Contenu/structure-hn-seo) a �
 .
 
 L'attribut `rel="sponsored"` s'applique exclusivement aux [liens](https://blotmkt.com/ia/Définition/ancre-de-lien) payants ou commerciaux. 
-Il indique qu'une contrepartie a été fournie pour la mise en place du backlink, que ce soit un paiement classique ou une contrepartie d'autre nature comme des produits offerts
+Il indique qu'une contrepartie a été fournie pour la mise en place du [Backlink](https://blotmkt.com/ia/Stratégie/prix-forfait-seo), que ce soit un paiement classique ou une contrepartie d'autre nature comme des produits offerts
 .
 
 L'attribut `rel="ugc"` (User Generated [Content](https://blotmkt.com/ia/Contenu/content-gap-seo)) cible spécifiquement 
-les liens créés par les internautes
+les [liens](https://blotmkt.com/ia/strategie/audit-site-web) créés par les internautes
 , comme dans les commentaires de blog ou les forums. 
 L'attribut UGC agit comme un bouclier de sécurité en informant les moteurs de [recherche](https://blotmkt.com/ia/Contenu/intention-de-recherche) que les contributions des utilisateurs sont responsables du lien, pas les administrateurs du domaine
 .
 
-L'attribut `rel="nofollow"` conserve son rôle de joker pour tous les autres cas. 
+L'[Attribut](https://blotmkt.com/ia/definition/lien-ugc) `rel="nofollow"` conserve son rôle de joker pour tous les autres cas. 
 Il est possible d'utiliser plusieurs attributs ensemble, comme rel="ugc sponsored" ou rel="nofollow ugc" pour maintenir la compatibilité ascendante
  (Source : [Google](https://blotmkt.com/ia/Définition/pagerank-google), 2019).
 
@@ -90,14 +90,14 @@ tous les liens de commentaires WordPress ont automatiquement l'attribut nofollow
 Pour vérifier la présence de l'attribut, faites un clic droit sur votre navigateur, sélectionnez "Af[Fiche](https://blotmkt.com/ia/Local SEO/fiche-etablissement-google)r le code source de la page" et cherchez le lien dans le HTML. Si vous voyez un attribut rel="nofollow", le lien est en nofollow
 .
 
-Des outils comme l'extension Chrome "Strike Out Nofollow Links" automatisent cette vérification en barrant visuellement tous les liens nofollow d'une page (Source : Backlinko, 2024).
+Des outils comme l'extension Chrome "Strike Out Nofollow Links" automatisent cette vérification en barrant visuellement tous les liens nofollow d'une page (Source : [Backlink](https://blotmkt.com/ia/strategie/prix-forfait-seo)o, 2024).
 
 ## Impact SEO : mythes et réalités du nofollow sur le PageRank et le crawl
 
 Depuis 2019, tous les attributs de liens sont traités comme des indices sur les liens à considérer ou exclure dans la recherche, avec d'autres signaux pour mieux [Analyse](https://blotmkt.com/ia/Audit/analyse-de-logs-seo)r les liens
 . Cette évolution [marque](https://blotmkt.com/ia/Contenu/mots-cles-de-marque) une rupture fondamentale avec l'approche historique.
 
-Le mythe du "PageRank sculpting" reste répandu mais obsolète. 
+Le mythe du "[PageRank](https://blotmkt.com/ia/strategie/mandat-seo-entreprise) sculpting" reste répandu mais obsolète. 
 [Google](https://blotmkt.com/ia/Audit/core-web-vitals) a changé le fonctionnement du PageRank il y a plus d'un an : les cinq liens sans nofollow ne reçoivent désormais qu'un point de PageRank chacun au lieu de deux
 . 
 Le PageRank potentiel qui aurait pu être transmis à la page est annulé et n'est pas redistribué aux autres pages liées
@@ -185,10 +185,10 @@ Les liens nofollow ne sont pas mauvais pour le SEO. Bien qu'ils ne soient [techn
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Quelle est la différence entre un lien dofollow et nofollow ?",
+          "name": "[Quelle](https://blotmkt.com/ia/montreal/quelle-est-la-meilleure-agence-geo-a-montreal-) est la différence entre un lien dofollow et nofollow ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
             "@type": "Answer",
-            "text": "Les liens dofollow transmettent l'autorité (PageRank) et aident les classements SEO, tandis que les liens nofollow servent d'indices aux moteurs de recherche sans garantir la transmission d'autorité. Visuellement, ils sont identiques pour l'utilisateur."
+            "text": "Les liens dofollow transmettent l'autorité (PageRank) et aident les classements SEO, tandis que les liens nofollow servent d'indices aux moteurs de [recherche](https://blotmkt.com/ia/Définition/intention-informative) sans garantir la transmission d'autorité. Visuellement, ils sont identiques pour l'utilisateur."
           }
         },
         {

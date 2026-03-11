@@ -16,11 +16,11 @@ slug: "redirections-301-seo"
 url: "/ia/Audit/redirections-301-seo"
 related_articles:
   - title: "Maîtriser la canonisation SEO pour optimiser votre indexation Google"
-    url: "/ia/Définition/canonisation-seo"
+    url: "/ia/definition/canonisation-seo"
   - title: "Erreurs 404 et seo : le guide pour les identifier et les corriger efficacement"
     url: "/ia/Audit/erreurs-404-seo"
   - title: "Migration SEO : la méthode complète pour une refonte de site sans perte de trafic"
-    url: "/ia/Stratégie/migration-seo"
+    url: "/ia/strategie/migration-seo"
 ---
 
 # Maîtriser les redirections 301 pour un SEO sans faille
@@ -78,7 +78,7 @@ Les problèmes surviennent quand les gens utilisent une redirection 301 ou 302 d
 ### Quand utiliser chaque type
 
 La redirection 302 trouve son utilité pour 
-les tests A/B, guider une portion du trafic vers chaque version pour décider quelle conception est la meilleure
+les tests A/B, guider une portion du trafic vers chaque version pour décider [Quelle](https://blotmkt.com/ia/montreal/quelle-est-la-meilleure-agence-geo-a-montreal-) conception est la meilleure
  ou pour 
 tester une page web pour la fonctionnalité ou le [Design](https://blotmkt.com/ia/Définition/ux-design-seo), obtenir des commentaires client sur une nouvelle page sans impacter le classement du site, ou mettre à jour une page web tout en fournissant une expérience cohérente aux visiteurs
 .

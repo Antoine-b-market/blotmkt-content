@@ -16,11 +16,11 @@ slug: "llm-optimization"
 url: "/ia/ia-seo-geo/llm-optimization"
 related_articles:
   - title: "Optimisation SGE : Maîtriser le nouveau paradigme de la recherche IA"
-    url: "/ia/IA SEO - GEO/sge-optimization"
+    url: "/ia/ia-seo-geo/sge-optimization"
   - title: "LLM SEO : le guide pratique pour optimiser votre contenu pour les AI Overviews"
-    url: "/ia/IA SEO - GEO/llm-seo"
+    url: "/ia/ia-seo-geo/llm-seo"
   - title: "Réponse directe IA : la nouvelle frontière du SEO face à SGE"
-    url: "/ia/IA SEO - GEO/reponse-directe-ia"
+    url: "/ia/ia-seo-geo/reponse-directe-ia"
 ---
 
 # Optimisation llm (llmo) : le guide pratique pour adapter votre seo à l'ère de l'ia
@@ -55,7 +55,7 @@ Contrairement au SEO traditionnel qui optimise pour le ranking, les liens et les
 
 ## Méthode : stratégies concrètes pour optimiser pour les LLMs et AI Overviews
 
-L'optimisation pour les grands modèles de langage repose sur quatre piliers essentiels qui transforment radicalement l'approche traditionnelle du référencement.
+L'[Optimisation](https://blotmkt.com/ia/ia-seo-geo/seo-ia) pour les grands modèles de langage repose sur quatre piliers essentiels qui transforment radicalement l'approche traditionnelle du référencement.
 
 ### Structuration impeccable du contenu
 
@@ -70,7 +70,7 @@ Cette approche nécessite de créer un [contenu](https://blotmkt.com/ia/Audit/au
 
 Les données structurées Schema.org, notamment FAQPage, HowTo et Person, fournissent un contexte explicite et non ambigu aux IA. Ces balises permettent aux modèles de comprendre précisément le type d'information présenté et son contexte d'utilisation.
 
-Le concept E-E-A-T de Google joue un rôle important dans l'identification des sources fiables et des marques dignes de confiance, au moins pour Gemini et les AI Overviews
+Le concept E-E-A-T de [Google](https://blotmkt.com/ia/definition/ymyl-seo) joue un rôle important dans l'identification des sources fiables et des marques dignes de confiance, au moins pour Gemini et les AI Overviews
 . Le renforcement de ces signaux passe par des profils d'auteurs clairs, des citations de sources fiables et des données factuelles vérifiables.
 
 ## Analyse : comment mesurer l'impact et le ROI du LLMO ?
@@ -79,8 +79,8 @@ La mesure de performance du LLMO nécessite de nouveaux indicateurs adaptés à 
 
 ### Nouveaux KPIs : au-delà du positionnement classique
 
-L'optimisation des grands modèles de langage constitue un antidote au déclin du trafic de recherche
-, mais sa mesure requiert des approches innovantes. Le suivi des mentions de marque et des liens de citation dans les réponses générées remplace en partie le tracking de positionnement classique.
+L'optimisation des grands modèles de langage constitue un antidote au déclin du trafic de [recherche](https://blotmkt.com/ia/definition/intention-informative)
+, mais sa mesure requiert des approches innovantes. Le suivi des mentions de [marque](https://blotmkt.com/ia/strategie/tarif-horaire-seo) et des liens de citation dans les réponses générées remplace en partie le tracking de positionnement classique.
 
 Pour mesurer ce trafic, créez un groupe de canaux personnalisé dans GA4 (Acquisition > Acquisition du trafic) qui regroupe les sources identifiées comme ChatGPT, Perplexity et autres outils IA
 . Cette approche permet de suivre les conversions via un segment spécifique et de comparer les performances avec les sources traditionnelles.
@@ -88,7 +88,7 @@ Pour mesurer ce trafic, créez un groupe de canaux personnalisé dans GA4 (Acqui
 ### Outils émergents et analyse des crawlers IA
 
 Des outils spécialisés comme Keyword.com AI Visibility Tracker proposent une mesure fine multi-LLM, tandis qu'Ahrefs Brand Radar se concentre sur les AI Overviews avec une extension prévue vers ChatGPT et Perplexity
-. L'analyse des logs serveur permet d'identifier les user-agents spécifiques aux crawlers IA (Google-Extended, ChatGPT-User) et de mesurer leur activité.
+. L'[Analyse](https://blotmkt.com/ia/Stratégie/audit-site-web) des logs serveur permet d'identifier les user-agents spécifiques aux crawlers IA (Google-Extended, ChatGPT-User) et de mesurer leur activité.
 
 Le calcul du ROI doit corréler les efforts LLMO avec la visibilité de marque, même en cas de baisse du trafic "zéro-clic" sur certaines requêtes informationnelles. 
 Les canaux de trafic LLM sont projetés pour générer autant de valeur business que la recherche traditionnelle d'ici 2027
@@ -98,8 +98,8 @@ Les canaux de trafic LLM sont projetés pour générer autant de valeur business
 
 ### Risques stratégiques majeurs
 
-Les éditeurs rapportent des pertes de trafic significatives, avec certains observant des chutes de taux de clic allant jusqu'à 89%, soulevant la question de l'ampleur des dégâts selon les types de contenu
-. L'inaction face au LLMO expose les entreprises à une perte totale de visibilité sur les requêtes informationnelles et à une dilution de l'autorité de marque si les concurrents deviennent les sources de référence de l'IA.
+Les éditeurs rapportent des pertes de trafic significatives, avec certains observant des chutes de taux de clic allant jusqu'à 89%, soulevant la question de l'ampleur des dégâts selon les types de [contenu](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel)
+. L'in[action](https://blotmkt.com/ia/Définition/intention-informative) face au LLMO expose les entreprises à une perte totale de visibilité sur les requêtes informationnelles et à une dilution de l'autorité de marque si les concurrents deviennent les sources de référence de l'IA.
 
 ### Cas d'usage concrets par secteur
 
@@ -109,7 +109,7 @@ Les éditeurs rapportent des pertes de trafic significatives, avec certains obse
 Les entreprises B2B bénéficient énormément de répondre aux questions de niche et de contribuer avec des commentaires d'experts là où leurs audiences s'engagent
 .
 
-**SEO local** : Un plombier optimise son profil Google Business et son site avec des données structurées LocalBusiness pour être cité par l'IA en réponse à "meilleur plombier à Lyon". La cohérence des informations NAP (Name, Address, Phone) sur tous les annuaires devient cruciale pour la reconnaissance par les LLMs.
+**SEO local** : Un plombier optimise son profil [Google](https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo)) Business et son site avec des données structurées LocalBusiness pour être cité par l'IA en réponse à "meilleur plombier à Lyon". La cohérence des informations NAP (Name, Address, Phone) sur tous les annuaires devient cruciale pour la reconnaissance par les LLMs.
 
 ## Questions fréquentes
 
@@ -159,7 +159,7 @@ Des outils comme Qwairy mesurent l'impact des actions GEO en suivant l'évolutio
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "Generative Engine Optimization, GEO, Answer Engine Optimization, AEO, optimisation AI Overviews, SEO pour SGE, contenu pour IA"
+      "keywords": "Generative Engine Optimization, GEO, Answer Engine Optimization, AEO, optimisation AI Overviews, SEO pour SGE, [contenu](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) pour IA"
     },
     {
       "@type": "FAQPage",

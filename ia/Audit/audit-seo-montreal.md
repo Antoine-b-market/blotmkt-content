@@ -20,7 +20,7 @@ related_articles:
   - title: "Audit de contenu existant : la méthode complète pour optimiser votre SEO"
     url: "/ia/Contenu/audit-contenu-existant"
   - title: "Audit de site web : le guide complet pour un diagnostic SEO actionnable"
-    url: "/ia/Stratégie/audit-site-web"
+    url: "/ia/strategie/audit-site-web"
 ---
 
 # Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
@@ -61,7 +61,7 @@ Une PME [Montréal](https://blotmkt.com/ia/Stratégie/emploi-seo-montreal)aise i
 |-------------|------------|------------------|
 | Site vitrine | 500-2000 $ | Moins de 50 pages |
 | PME standard | 2000-5000 $ | 50 à 500 pages |
-| E-commerce complexe | 5000-10000 $ | Milliers de références |
+| [e-commerce](https://blotmkt.com/ia/popularite/recuperation-seo) complexe | 5000-10000 $ | Milliers de références |
 
 ### Calcul du retour sur investissement
 
@@ -69,7 +69,7 @@ Un [audit](https://blotmkt.com/ia/Audit/heatmap-seo-audit) bien exécuté peut m
 . Sur le marché montréalais concurrentiel, cette amélioration se traduit [directe](https://blotmkt.com/ia/IA SEO - GEO/reponse-directe-ia)ment par une acquisition de parts de marché local et une augmentation des conversions qualifiées.
 
 Les [Facteurs](https://blotmkt.com/ia/Popularité/facteurs-de-classement-google) influençant le prix incluent la taille du site, 
-la concurrence sectorielle (services juridiques, restauration, plomberie exigent plus d'efforts à Montréal)
+la concurrence sectorielle (services juridiques, restauration, plomberie exigent plus d'efforts à [Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal))
 , et l'[Expert](https://blotmkt.com/ia/Stratégie/expert-seo-quebec)ise du prestataire choisi.
 
 ## Les étapes clés de notre méthodologie d'audit
@@ -124,11 +124,11 @@ Les audits gratuits automatisés ont une valeur limitée : seul un expert humain
 ### Pourquoi faire un audit de site web à Montréal ?
 
 L'audit SEO est la première étape de toute stratégie d'[Optimisation](https://blotmkt.com/ia/Contenu/optimisation-de-contenu) efficace, identifiant les problèmes nuisant à votre classement organique. Sans diagnostic préalable, toute stratégie SEO repose sur des suppositions
-. Sur le marché montréalais compétitif, cette analyse devient cruciale pour identifier vos leviers de croissance.
+. Sur le marché montréalais compétitif, cette [Analyse](https://blotmkt.com/ia/strategie/audit-site-web) devient cruciale pour identifier vos leviers de croissance.
 
 ---
 
-*Sources : Cyberperformance.ca (2026), Agence SEO Zenith (2025), SeoMontreal.io (2025), Rablab.ca (2025)*
+*Sources : Cyberperformance.ca (2026), [Agence](https://blotmkt.com/ia/local-seo/avis-clients-seo) SEO Zenith (2025), SeoMontreal.io (2025), Rablab.ca (2025)*
 
 ```json
 {
@@ -166,13 +166,13 @@ L'audit SEO est la première étape de toute stratégie d'[Optimisation](https:/
           "@type": "Question",
           "name": "Quel est le prix d'un [Audit](https://blotmkt.com/ia/Audit/audit-seo-montreal) SEO à Montréal ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
-            "@type": "Answer",
+            "@type": "[Answer](https://blotmkt.com/ia/Contenu/intention-de-recherche)",
             "text": "Le prix varie de 500 $ à 10 000 $ selon la complexité du site. Pour une PME montréalaise standard, comptez entre 1 500 $ et 3 000 $ pour un audit complet incluant l'analyse technique, [sémantique](https://blotmkt.com/ia/Définition/cocon-semantique) et de popularité avec recommandations priorisées."
           }
         },
         {
           "@type": "Question",
-          "name": "Qu'est-ce qui rend un audit SEO spécifique au marché montréalais ?",
+          "name": "Qu'est-ce qui rend un [audit](https://blotmkt.com/ia/Définition/maillage-interne-silo) SEO spécifique au marché montréalais ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "L'audit SEO à Montréal intègre l'analyse de votre performance sur [Google](https://blotmkt.com/ia/Définition/amp-google-seo).ca, les spécificités linguistiques québécoises, votre positionnement dans le pack local Google Maps, et l'évaluation de votre visibilité dans les annuaires et citations locales montréalaises."
@@ -180,7 +180,7 @@ L'audit SEO est la première étape de toute stratégie d'[Optimisation](https:/
         },
         {
           "@type": "Question",
-          "name": "Combien de temps dure un audit SEO complet ?",
+          "name": "Combien de temps dure un [Audit](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel) SEO complet ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Un audit SEO professionnel nécessite entre 10 et 30 heures selon la taille et la complexité du site. L'analyse complète des aspects techniques, sémantiques et de popularité demande généralement 2 à 3 semaines pour livrer un rapport détaillé avec plan d'[action](https://blotmkt.com/ia/Audit/first-input-delay)."

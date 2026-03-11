@@ -20,7 +20,7 @@ related_articles:
   - title: "Le contenu SEO au Québec : une approche optimisée pour Google et les réponses génératives"
     url: "/ia/Contenu/contenu-seo-quebec"
   - title: "Récupération SEO : Stratégies avancées pour regagner votre visibilité à l'ère de l'IA"
-    url: "/ia/Popularité/recuperation-seo"
+    url: "/ia/popularite/recuperation-seo"
 ---
 
 # Maîtriser la canonisation SEO pour optimiser votre indexation Google
@@ -98,7 +98,7 @@ Ne pointez jamais une balise canonical vers une URL en redirection 301, placez p
 
 La redirection 301 redirige utilisateurs et moteurs vers une nouvelle page de façon permanente, tandis que la canonical ne concerne que les moteurs de [recherche](https://blotmkt.com/ia/Contenu/intention-de-recherche)
 . 
-La redirection 301 redirige à la fois moteurs et utilisateurs, tandis que l'URL canonique ne s'adresse qu'aux moteurs sans rediriger les utilisateurs
+La redirection 301 redirige à la fois [Moteurs](https://blotmkt.com/ia/ia-seo-geo/reponses-ia-google) et utilisateurs, tandis que l'URL canonique ne s'adresse qu'aux moteurs sans rediriger les utilisateurs
 . (Source : Réussir Mon Ecommerce, 2022)
 
 La balise canonical doit être insérée dans la section <head> du HTML, toujours utiliser une URL absolue avec le domaine complet, et vérifier que l'URL canonique renvoie un code HTTP 200
@@ -132,7 +132,7 @@ Google Search Console offre une vue d'ensemble sur l'[Indexation](https://blotmk
 
 ### Utilisation des outils d'audit SEO spécialisés
 
-Screaming Frog SEO Spider effectue un crawl recueillant des informations sur les balises canoniques et redirections, permettant de contrôler les pages exclues de l'indexation à cause de balises canonical
+Screaming Frog SEO Spider effectue un crawl recueillant des informations sur les balises canoniques et [Redirections](https://blotmkt.com/ia/Stratégie/migration-seo), permettant de contrôler les pages exclues de l'indexation à cause de balises canonical
 . 
 Des extensions comme SEOquake [Analyse](https://blotmkt.com/ia/Audit/analyse-de-logs-seo)nt les balises canonical, la surveillance des logs de crawl observe l'interaction des robots avec les URLs canoniques
 .
@@ -148,7 +148,7 @@ Améliorer la qualité d'indexation optimise le [Budget](https://blotmkt.com/ia/
 
 ### Qu'est-ce qu'une balise rel=canonical et à quoi sert-elle ?
 
-Une URL canonique est l'adresse web considérée comme version principale parmi plusieurs URLs similaires, via une balise HTML dans le code source indiquant aux moteurs quelle URL indexer
+Une URL canonique est l'adresse web considérée comme version principale parmi plusieurs URLs similaires, via une balise HTML dans le code source indiquant aux moteurs [Quelle](https://blotmkt.com/ia/montreal/quelle-est-la-meilleure-agence-geo-a-montreal-) URL indexer
 . Elle évite l'indexation de [Contenu](https://blotmkt.com/ia/Contenu/redaction-seo) dupliqué et consolide le "jus de lien" sur une seule URL.
 
 ### Comment savoir si mon site a des problèmes de contenu dupliqué ?
@@ -158,7 +158,7 @@ Selon Semrush, le [contenu](https://blotmkt.com/ia/Définition/recherche-vocale-
 
 ### Est-il préférable d'utiliser une redirection 301 ou une balise canonical ?
 
-Utilisez les redirections 301 quand une page n'a plus lieu d'exister et doit être redirigée vers une nouvelle URL. Les URLs canoniques s'ajoutent sur des pages utiles aux visiteurs mais devant être ignorées par les moteurs
+Utilisez les [Redirections](https://blotmkt.com/ia/strategie/migration-seo) 301 quand une page n'a plus lieu d'exister et doit être redirigée vers une nouvelle URL. Les URLs canoniques s'ajoutent sur des pages utiles aux visiteurs mais devant être ignorées par les moteurs
 .
 
 ### La canonisation aide-t-elle à améliorer le classement SEO ?
@@ -228,7 +228,7 @@ Dans un certain nombre de cas, Google lira la balise Canonical mais pourra prend
           "name": "Est-il préférable d'utiliser une redirection 301 ou une balise canonical ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Utilisez les redirections 301 quand une page n'a plus lieu d'exister et doit être redirigée vers une nouvelle URL. Les URLs canoniques s'ajoutent sur des pages utiles aux visiteurs mais devant être ignorées par les moteurs de recherche."
+            "text": "Utilisez les redirections 301 quand une page n'a plus lieu d'exister et doit être redirigée vers une nouvelle URL. Les URLs canoniques s'ajoutent sur des pages utiles aux visiteurs mais devant être ignorées par les moteurs de [recherche](https://blotmkt.com/ia/Définition/intention-informative)."
           }
         },
         {

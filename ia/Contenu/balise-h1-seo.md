@@ -77,7 +77,7 @@ Les avantages d'utiliser une balise title différente de la balise H1 permettent
 
 Chaque page ne doit comporter qu'une seule et unique balise H1 et nous vous [Conseil](https://blotmkt.com/ia/Stratégie/conseil-seo-quebec)lons d'insérer un seul et unique H1 par page
 . 
-Logiquement une page traite d'un seul et même sujet, une page évoque une seule idée et elle n'a donc besoin que d'un seul titre principal
+Logiquement une page traite d'un seul et même sujet, une page évoque une seule idée et elle n'a donc besoin que d'un seul [Titre](https://blotmkt.com/ia/Popularité/recuperation-seo) principal
 .
 
 ### Règle 2 : Intégration naturelle du mot-clé
@@ -130,7 +130,7 @@ Le plus efficace peut être de rédiger deux variantes de votre titre, l'une uti
 
 Il n'y a pas de règle officielle mais il est recommandé d'écrire moins de 70 caractères
 , idéalement entre 50 et 70 caractères. 
-Un titre de moins de 30 caractères n'est pas bon pour votre SEO, il faut reprendre toutes les balises H1 de moins de 30 caractères pour les étoffer
+Un [Titre](https://blotmkt.com/ia/popularite/recuperation-seo) de moins de 30 caractères n'est pas bon pour votre SEO, il faut reprendre toutes les balises H1 de moins de 30 caractères pour les étoffer
 .
 
 ### Peut-on mettre plusieurs H1 sur une page ?

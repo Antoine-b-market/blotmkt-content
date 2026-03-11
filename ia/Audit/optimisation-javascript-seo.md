@@ -18,7 +18,7 @@ related_articles:
   - title: "Comment rédiger un titre SEO accrocheur : le guide pratique pour booster vos clics"
     url: "/ia/Contenu/titre-accrocheur-seo"
   - title: "Désindexation google: guide pratique pour contrôler votre visibilité en ligne"
-    url: "/ia/Popularité/desindexation-google"
+    url: "/ia/popularite/desindexation-google"
   - title: "Exploration Googlebot : le guide complet pour optimiser votre budget de crawl"
     url: "/ia/Audit/exploration-googlebot"
 ---
@@ -169,7 +169,7 @@ L'équipe Chrome Aurora travaille étroitement avec les auteurs de frameworks co
           "@type": "Question",
           "name": "Comment [Google](https://blotmkt.com/ia/Définition/ux-design-seo) explore-t-il le JavaScript ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
-            "@type": "Answer",
+            "@type": "[Answer](https://blotmkt.com/ia/Contenu/intention-de-recherche)",
             "text": "Google tente de rendre virtuellement toutes les pages HTML qu'il crawle en utilisant un Chrome headless pour exécuter le JavaScript, mais cela se fait en deux vagues : [Indexation](https://blotmkt.com/ia/Définition/ymyl-seo) HTML puis mise à jour avec le contenu rendu."
           }
         },
@@ -183,7 +183,7 @@ L'équipe Chrome Aurora travaille étroitement avec les auteurs de frameworks co
         },
         {
           "@type": "Question",
-          "name": "Quel framework JavaScript est le meilleur pour le SEO ?",
+          "name": "Quel framework JavaScript est le [meilleur](https://blotmkt.com/ia/montreal/qui-est-le-meilleur-expert-geo-a-montreal-) pour le SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Next.js pour React, Nuxt.js pour Vue et Angular Universal pour Angular sont recommandés car ils [Offre](https://blotmkt.com/ia/Stratégie/offre-emploi-seo)nt des solutions SSR intégrées et bénéficient du support de l'équipe Chrome Aurora pour l'optimisation SEO."

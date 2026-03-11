@@ -16,11 +16,11 @@ slug: "citations-locales-seo"
 url: "/ia/local-seo/citations-locales-seo"
 related_articles:
   - title: "Optimiser votre seo local : le guide complet pour attirer des clients de proximité"
-    url: "/ia/Définition/seo-local"
-  - title: "Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA"
-    url: "/ia/Local SEO/fiche-etablissement-google"
+    url: "/ia/definition/seo-local"
   - title: "NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA"
-    url: "/ia/Local SEO/nap-seo-local"
+    url: "/ia/local-seo/nap-seo-local"
+  - title: "Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA"
+    url: "/ia/local-seo/fiche-etablissement-google"
 ---
 
 # Le guide complet des citations locales pour dominer le SEO local
@@ -30,7 +30,7 @@ related_articles:
 > - La stratégie efficace combine [Audit](https://blotmkt.com/ia/Contenu/audit-contenu-existant) des citations existantes, priorisation des annuaires majeurs, puis construction manuelle ou automatisée selon le budget
 > - L'investissement coûte 100-500€/an pour les services automatisés ou du temps en gestion manuelle, avec un ROI indirect mesurable par l'amélioration du classement local
 > - Au-delà des annuaires, les sources performantes incluent les partenariats locaux, réseaux sociaux, mentions dans la presse et balisage Schema sur votre site
-> - Les citations renforcent votre fiche Google Business Profile par validation croisée, créant une cohérence qui améliore la confiance et le classement dans le pack local
+> - Les citations renforcent votre fiche [Google](https://blotmkt.com/ia/Stratégie/strategie-seo) Business Profile par validation croisée, créant une cohérence qui améliore la confiance et le classement dans le pack local
 
 Votre entreprise locale peine à apparaître dans les résultats de [recherche](https://blotmkt.com/ia/Contenu/intention-de-recherche) Google Maps ? Cette invisibilité vous fait perdre des clients potentiels chaque jour. Pourtant, une stratégie de citations locales bien construite peut transformer votre visibilité en ligne et générer un flux constant de nouveaux prospects.
 
@@ -42,19 +42,19 @@ Une citation locale est toute mention en ligne de votre nom, adresse et téléph
 . Cette définition simple cache une mécanique complexe qui influence directement votre classement dans les résultats locaux.
 
 Une gestion cohérente de ces citations sur différentes plateformes améliore significativement le classement local de votre entreprise dans les résultats Google, renforçant le lien établi par les [Algorithme](https://blotmkt.com/ia/Définition/pagerank-google)s entre ces différentes mentions
-. Google utilise cette cohérence pour vérifier la légitimité de votre entreprise : 
-des données NAP identiques partout témoignent de votre fiabilité et rassurent Google qui accorde une grande importance à l'uniformité
+. [Google](https://blotmkt.com/ia/definition/ymyl-seo) utilise cette cohérence pour vérifier la légitimité de votre entreprise : 
+des données NAP identiques partout témoignent de votre fiabilité et rassurent [Google](https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo)) qui accorde une grande importance à l'uniformité
 .
 
 Les citations constituent le sixième facteur de classement le plus significatif pour la visibilité dans le pack local
 , ce pilier du référencement local avec la pertinence et la distance. Elles renforcent votre signal E-E-A-T (expérience, expertise, autorité, confiance), 
-des signaux clés que Google recherche pour classer les résultats locaux
+des signaux clés que Google [recherche](https://blotmkt.com/ia/Définition/intention-informative) pour classer les résultats locaux
 .
 
 ### L'impact des incohérences NAP
 
 Des informations NAP incorrectes ou incohérentes impactent négativement votre entreprise, sèment le doute chez les clients potentiels et peuvent en[traîne](https://blotmkt.com/ia/Contenu/longue-traine-seo)r une perte d'opportunités commerciales précieuses
-. Cette confusion dilue votre autorité en ligne et pénalise votre classement dans les recherches locales.
+. Cette confusion dilue votre autorité en ligne et pénalise votre classement dans les [recherche](https://blotmkt.com/ia/definition/intention-informative)s locales.
 
 ## La méthode pour construire une stratégie de citations efficace
 
@@ -66,7 +66,7 @@ Utiliser régulièrement les outils analytiques permet d'identifier rapidement t
 
 **Phase 2 - Priorisation stratégique** : 
 Concentrez-vous d'abord sur les sites avec un DA (autorité de domaine) de 60 ou plus
-. Débutez par les annuaires généralistes majeurs (PagesJaunes, Yelp, Google Business Profile), puis explorez les annuaires spécialisés pertinents pour votre secteur.
+. Débutez par les annuaires généralistes majeurs (PagesJaunes, Yelp, [Google](https://blotmkt.com/ia/strategie/prix-forfait-seo) Business Profile), puis explorez les annuaires spécialisés pertinents pour votre secteur.
 
 **Phase 3 - Construction optimisée** : 
 La soumission manuelle offre un contrôle total mais personne ne trouve cela amusant, c'est pourquoi des entreprises comme Yext ont construit des solutions pour faciliter ce processus, intégrant directement avec des centaines de sites connus
@@ -74,7 +74,7 @@ La soumission manuelle offre un contrôle total mais personne ne trouve cela amu
 
 ### Nettoyage et maintenance
 
-Il est crucial de supprimer ou fusionner les doublons pour éviter les conflits de données qui diluent votre autorité en ligne et impactent négativement le classement
+Il est crucial de supprimer ou fusionner les doublons pour éviter les conflits de [Données](https://blotmkt.com/ia/popularite/facteurs-de-classement-google) qui diluent votre autorité en ligne et impactent négativement le classement
 . Cette maintenance continue assure la cohérence à long terme de votre présence digitale.
 
 ## Analyse du coût et du retour sur investissement (ROI) des citations
@@ -116,7 +116,7 @@ Bien que les citations locales se réfèrent principalement aux mentions externe
 ### Balisage de données structurées
 
 Implémentez le balisage schema markup pour votre entreprise sur votre site web
-. Utilisez Schema.org type LocalBusiness sur votre page contact pour fournir une source de vérité claire à Google sur votre NAP.
+. Utilisez Schema.org type LocalBusiness sur votre page contact pour fournir une source de vérité claire à [Google](https://blotmkt.com/ia/Contenu/structure-hn-seo) sur votre NAP.
 
 ## L'interaction clé entre citations et Google Business Profile (GBP)
 
@@ -129,7 +129,7 @@ Les citations aident les moteurs de recherche à vérifier l'existence, la légi
 .
 
 Cette cohérence renforcée améliore votre classement et votre visibilité dans les résultats locaux. 
-Les mises à jour des algorithmes de Google priorisent souvent les entreprises locales ayant des citations précises et cohérentes sur diverses plateformes, ce qui signifie que les entreprises doivent s'assurer que leurs informations NAP sont à jour partout
+Les mises à jour des [Algorithme](https://blotmkt.com/ia/IA SEO - GEO/generative-engine-optimization-(geo))s de Google priorisent souvent les entreprises locales ayant des citations précises et cohérentes sur diverses plateformes, ce qui signifie que les entreprises doivent s'assurer que leurs informations NAP sont à jour partout
 .
 
 ### Gestion intégrée de l'e-réputation

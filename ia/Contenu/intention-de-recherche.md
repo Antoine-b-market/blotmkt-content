@@ -18,9 +18,9 @@ related_articles:
   - title: "Mots-clés informationnels : guide pour optimiser votre stratégie SEO avec l'IA"
     url: "/ia/Contenu/mots-cles-informationnels"
   - title: "Recherche vocale SEO : décrypter les enjeux et optimiser sa stratégie"
-    url: "/ia/Définition/recherche-vocale-seo"
+    url: "/ia/definition/recherche-vocale-seo"
   - title: "Intention informative : le guide SEO complet à l'ère de l'ia (SGE)"
-    url: "/ia/Définition/intention-informative"
+    url: "/ia/definition/intention-informative"
 ---
 
 # L'intention de recherche : le guide pour décrypter et optimiser votre stratégie SEO
@@ -51,7 +51,7 @@ L'intention de recherche représente le véritable objectif de l'internaute lors
 ### Les quatre types d'intentions principales
 
 **L'intention informationnelle** domine largement le paysage digital. 
-Selon une étude sur 332 millions de requêtes Google, 51,8% des recherches sont informationnelles
+Selon une étude sur 332 millions de requêtes [Google](https://blotmkt.com/ia/definition/ymyl-seo), 51,8% des recherches sont informationnelles
 , où l'utilisateur cherche à obtenir des informations sur un sujet précis. Ces requêtes prennent souvent la forme de questions : "comment", "pourquoi", "qu'est-ce que".
 
 **L'intention navigationnelle** représente 
@@ -62,18 +62,18 @@ Selon une étude sur 332 millions de requêtes Google, 51,8% des recherches sont
 14,5% des recherches
 ) se situe en phase de pré-achat. L'utilisateur compare, lit des avis, évalue des options avant de prendre sa décision. Les [mots-clés](https://blotmkt.com/ia/Définition/page-pilier-seo) incluent souvent "avis", "comparatif", "meilleur", "vs".
 
-**L'intention transactionnelle** vise l'action immédiate : acheter, télécharger, s'inscrire. Les modificateurs révélateurs incluent "acheter", "commander", "prix", "tarif", "devis".
+**L'intention trans[action](https://blotmkt.com/ia/Définition/intention-informative)nelle** vise l'action immédiate : acheter, télécharger, s'inscrire. Les modificateurs révélateurs incluent "acheter", "commander", "prix", "tarif", "devis".
 
 ## L'impact de l'intention sur la performance et le retour sur investissement (ROI)
 
 Les leads provenant du SEO convertissent en moyenne à 14,6%, tandis que ceux de l'outbound marketing convertissent à 1,7%, soit 9 fois moins
-. Cette différence spectaculaire s'explique par la qualité du trafic attiré lorsque le contenu répond précisément à l'intention de recherche.
+. Cette différence spectaculaire s'explique par la qualité du trafic attiré lorsque le [contenu](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel) répond précisément à l'intention de recherche.
 
 L'alignement sur l'intention améliore considérablement les métriques de performance. 
-Google évalue la pertinence du contenu par rapport à l'intention, et un contenu parfaitement aligné génère des signaux de satisfaction utilisateur positifs valorisés par l'algorithme
+Google évalue la pertinence du [contenu](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) par rapport à l'intention, et un contenu parfaitement aligné génère des signaux de satisfaction utilisateur positifs valorisés par l'algorithme
 . Concrètement, cela se traduit par un temps de session plus long, un [Taux de rebond](https://blotmkt.com/ia/Définition/discover-google-seo) réduit et un meilleur taux de clics.
 
-Le concept de trafic qualifié prend ici tout son sens. Plutôt que de viser des mots-clés à fort volume mais inadaptés, cibler des termes à plus faible recherche mais avec une intention commerciale ou transactionnelle forte génère un ROI supérieur. 
+Le concept de trafic qualifié prend ici tout son sens. Plutôt que de viser des [mots-clés](https://blotmkt.com/ia/definition/page-pilier-seo) à fort volume mais inadaptés, cibler des termes à plus faible recherche mais avec une intention commerciale ou transactionnelle forte génère un ROI supérieur. 
 94,74% des mots-clés font 10 recherches mensuelles ou moins, mais l'important est de se focaliser sur les bons ratios volume/concurrence
 .
 
@@ -81,12 +81,12 @@ Le concept de trafic qualifié prend ici tout son sens. Plutôt que de viser des
 
 ### Étape 1 - Analyse manuelle des SERP
 
-La méthode la plus fiable reste l'analyse manuelle des résultats de recherche (SERP)
+La méthode la plus fiable reste l'[Analyse](https://blotmkt.com/ia/Stratégie/audit-site-web) manuelle des résultats de recherche (SERP)
 . Saisissez votre mot-clé cible dans Google et observez attentivement la page de résultats. 
 Si Google affiche des guides et des blocs "Autres questions posées", l'intention est informationnelle. S'il affiche des fiches produits, l'intention est transactionnelle. S'il affiche une carte (Local Pack), l'intention est locale
 .
 
-Cette analyse révèle également les formats de contenu privilégiés : articles longs, vidéos, infographies, pages produits. 
+Cette [Analyse](https://blotmkt.com/ia/strategie/audit-site-web) révèle également les formats de contenu privilégiés : articles longs, vidéos, infographies, pages produits. 
 Les pages classées dans les premières positions comptent en moyenne 1890 mots
 , mais ce chiffre varie selon l'intention identifiée.
 
@@ -101,12 +101,12 @@ Depuis 2023, on observe une augmentation significative des requêtes longue tra�
 
 ### Étape 3 - Utiliser des outils SEO avancés
 
-Les outils comme Semrush identifient automatiquement l'intention derrière un mot-clé et permettent de créer du contenu aligné sur les attentes utilisateur
+Les outils comme Semrush identifient automatiquement l'intention derrière un mot-clé et permettent de créer du [Contenu](https://blotmkt.com/ia/Contenu/mise-a-jour-contenu) aligné sur les attentes utilisateur
 . 
 Le Keyword Magic Tool de SEMrush filtre par intention, volume, difficulté et CPC
 , accélérant considérablement l'analyse.
 
-D'autres outils comme AlsoAsked révèlent les questions des internautes sous forme de carte mentale, idéal pour structurer vos contenus autour de l'intention de recherche
+D'autres outils comme AlsoAsked révèlent les questions des internautes sous forme de carte mentale, idéal pour structurer vos [Contenu](https://blotmkt.com/ia/local-seo/fiche-etablissement-google)s autour de l'intention de recherche
 .
 
 ## Optimisation pratique : adapter votre contenu pour chaque intention

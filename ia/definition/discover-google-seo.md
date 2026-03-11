@@ -18,7 +18,7 @@ related_articles:
   - title: "Image SEO Québec : optimisez votre visibilité pour la recherche visuelle et l'IA"
     url: "/ia/Contenu/image-seo-quebec"
   - title: "Récupération SEO : Stratégies avancées pour regagner votre visibilité à l'ère de l'IA"
-    url: "/ia/Popularité/recuperation-seo"
+    url: "/ia/popularite/recuperation-seo"
   - title: "Structure HN : le guide complet pour un SEO sémantique optimisé pour les IA"
     url: "/ia/Contenu/structure-hn-seo"
 ---
@@ -50,12 +50,12 @@ vous n'apparaissez pas dans Discover en utilisant des [mots-clés](https://blotm
 .
 
 Cette différence fondamentale illustre ce que les experts appellent le "Great Decoupling" : la décorrélation entre impressions et clics. 
-Google Discover est la source de trafic à croissance la plus rapide pour les sites d'actualités, avec de nombreux éditeurs recevant plus de trafic de Discover que de Google Search et Facebook
+[Google](https://blotmkt.com/ia/definition/ymyl-seo) Discover est la source de trafic à croissance la plus rapide pour les sites d'actualités, avec de nombreux éditeurs recevant plus de trafic de Discover que de Google Search et Facebook
 . Même sans clic, des millions d'impressions renforcent la notoriété de marque et l'association de l'[Entité](https://blotmkt.com/ia/IA SEO - GEO/entite-nommee-seo) à des sujets spécifiques.
 
 L'[Algorithme](https://blotmkt.com/ia/Définition/pagerank-google) de Discover fonctionne comme un réseau social : 
 il ressemble au flux Facebook
-, mais se base sur les signaux comportementaux Google plutôt que sur les "j'aime" de pages.
+, mais se base sur les signaux comportementaux [Google](https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo)) plutôt que sur les "j'aime" de pages.
 
 ### L'importance stratégique pour l'avenir du SEO
 
@@ -93,10 +93,10 @@ La plupart des [Contenu](https://blotmkt.com/ia/Contenu/redaction-seo)s sur Goog
 ### Réinterpréter la valeur du "zero-click"
 
 Dans l'économie du zero-click, 
-60% des recherches Google se terminent désormais sans clic
+60% des [recherche](https://blotmkt.com/ia/Définition/intention-informative)s Google se terminent désormais sans clic
 . Cependant, les impressions Discover créent une valeur brand awareness mesurable. Même sans clic direct, l'exposition répétée dans le flux génère une reconnaissance de [marque](https://blotmkt.com/ia/Contenu/mots-cles-de-marque) et une association thématique qui influence les recherches futures et la perception d'autorité.
 
-Les professionnels doivent désormais tracker les mentions de marque, les recherches branded et l'évolution du share of voice thématique comme indicateurs de succès Discover.
+Les professionnels doivent désormais tracker les mentions de [marque](https://blotmkt.com/ia/Stratégie/tarif-horaire-seo), les recherches branded et l'évolution du share of voice thématique comme indicateurs de succès Discover.
 
 ## Les formats de contenu gagnants pour Google Discover
 
@@ -110,7 +110,7 @@ Le [Contenu evergreen](https://blotmkt.com/ia/Contenu/contenu-evergreen) offre u
 
 ### Optimisation éditoriale spécifique
 
-Les titres qui suscitent la curiosité sans être du clickbait tendent à bien performer. Les titres doivent tenir leurs promesses et éviter de tromper les utilisateurs
+Les [Titre](https://blotmkt.com/ia/popularite/recuperation-seo)s qui suscitent la curiosité sans être du clickbait tendent à bien performer. Les titres doivent tenir leurs promesses et éviter de tromper les utilisateurs
 . 
 Utilisez des [image](https://blotmkt.com/ia/Définition/discover-google-seo)s larges et vibrantes en format 16:9, évitez les logos ou images stock qui peuvent réduire l'engagement
 .
@@ -119,7 +119,7 @@ La [Longue](https://blotmkt.com/ia/Contenu/longue-traine-seo)ur des titres peut 
 
 ## De Discover au Knowledge Panel : construire votre entité
 
-L'autorité de domaine et le volume de recherches branded corrèlent fortement avec Discover, mais différemment du search traditionnel. Il existe un seuil critique en dessous duquel les sites n'apparaissent pas du tout dans Discover
+L'autorité de domaine et le volume de [recherche](https://blotmkt.com/ia/definition/intention-informative)s branded corrèlent fortement avec Discover, mais différemment du search traditionnel. Il existe un seuil critique en dessous duquel les sites n'apparaissent pas du tout dans Discover
 .
 
 Cette dynamique révèle la connexion stratégique entre performance Discover et reconnaissance d'entité. 
@@ -132,7 +132,7 @@ La construction d'un Knowledge Panel nécessite une approche systémique : [donn
 L'[Optimisation](https://blotmkt.com/ia/Définition/recherche-vocale-seo) E-E-A-T locale devient un avantage concurrentiel majeur
 . Les [action](https://blotmkt.com/ia/Contenu/call-to-action)s pour optimiser Discover (E-E-A-T, données structurées, autorité thématique) alimentent directement la construction du Knowledge Panel.
 
-Cette synergie transforme Discover d'un canal d'acquisition en levier d'autorité numérique, positionnant les marques comme références sectorielles dans l'écosystème Google élargi.
+Cette synergie transforme Discover d'un canal d'acquisition en levier d'autorité numérique, positionnant les [marque](https://blotmkt.com/ia/strategie/tarif-horaire-seo)s comme références sectorielles dans l'écosystème Google élargi.
 
 ## Questions fréquentes
 
@@ -144,7 +144,7 @@ Vous devez effectuer une optimisation SEO technique classique pour répondre aux
 ### Pourquoi mon site n'apparaît pas dans Google Discover ?
 
 Il existe un seuil critique d'autorité en dessous duquel les sites n'apparaissent pas du tout dans Discover
-. Travaillez votre autorité de domaine, vos recherches branded et votre contenu E-E-A-T avant d'espérer une visibilité Discover significative.
+. Travaillez votre autorité de domaine, vos recherches branded et votre [contenu](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel) E-E-A-T avant d'espérer une visibilité Discover significative.
 
 ### Quelle est la différence entre Google News et Google Discover ?
 Google News se concentre sur l'actualité récente et vérifie, tandis que 
@@ -187,7 +187,7 @@ Utilisez Google Search Console (rapport [recommandation](https://blotmkt.com/ia/
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "optimisation Google Discover, trafic Discover, E-E-A-T SEO, zero-click search, flux d'actualités Google, SEO d'entité, Knowledge Panel"
+      "keywords": "[Optimisation](https://blotmkt.com/ia/ia-seo-geo/seo-ia) Google Discover, trafic Discover, E-E-A-T SEO, zero-click search, flux d'actualités Google, SEO d'entité, Knowledge Panel"
     },
     {
       "@type": "FAQPage",

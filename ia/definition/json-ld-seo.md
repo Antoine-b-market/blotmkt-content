@@ -16,7 +16,7 @@ slug: "json-ld-seo"
 url: "/ia/definition/json-ld-seo"
 related_articles:
   - title: "Schema.org : le guide pratique pour booster votre SEO avec les données structurées"
-    url: "/ia/Définition/schema.org"
+    url: "/ia/definition/schema.org"
   - title: "Structure HN : le guide complet pour un SEO sémantique optimisé pour les IA"
     url: "/ia/Contenu/structure-hn-seo"
   - title: "Mise à jour de contenu : la méthode pour un SEO durable et centré sur l'utilisateur"
@@ -147,7 +147,7 @@ Non [directe](https://blotmkt.com/ia/IA SEO - GEO/reponse-directe-ia)ment. Le sc
 ### Quels sont les meilleurs outils gratuits pour tester la validité du JSON-LD ?
 
 Utilisez l'outil Test de résultats enrichis de Google ([Search](https://blotmkt.com/ia/IA SEO - GEO/search-engine-over-optimization).google.com/test/rich-results) pour valider votre balisage avant déploiement
-. Le validateur Schema.org offre également une vérification complète contre les standards.
+. Le validateur Schema.org [Offre](https://blotmkt.com/ia/Stratégie/salaire-expert-seo) également une vérification complète contre les standards.
 
 ### Est-ce que toutes les pages de mon site ont besoin de balisage JSON-LD ?
 
@@ -165,7 +165,7 @@ Non. Priorisez les pages susceptibles de bénéficier le plus des rich results :
 
 ```json
 {
-  "@context": "https://schema.org",
+  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/json-ld-seo)",
   "@graph": [
     {
       "@type": "Article",
@@ -199,7 +199,7 @@ Non. Priorisez les pages susceptibles de bénéficier le plus des rich results :
           "@type": "Question",
           "name": "Comment ajouter du JSON-LD à mon site WordPress sans coder ?",
           "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
-            "@type": "Answer",
+            "@type": "[Answer](https://blotmkt.com/ia/Contenu/intention-de-recherche)",
             "text": "Utilisez des plugins SEO comme Yoast, RankMath ou Schema Pro qui génèrent automatiquement le JSON-LD avec des interfaces graphiques intuitives, sans nécessiter de connaissances [technique](https://blotmkt.com/ia/Définition/ymyl-seo)s en programmation."
           }
         },
@@ -208,7 +208,7 @@ Non. Priorisez les pages susceptibles de bénéficier le plus des rich results :
           "name": "Le JSON-LD améliore-t-il directement mon classement [Google](https://blotmkt.com/ia/Local SEO/optimisation-google-maps) ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Non directement, mais les rich results générés augmentent les taux de clic de 20-50%, créant des signaux d'engagement positifs qui influencent indirectement le positionnement à long terme."
+            "text": "Non [directe](https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo))ment, mais les rich results générés augmentent les taux de clic de 20-50%, créant des signaux d'engagement positifs qui influencent indirectement le positionnement à long terme."
           }
         },
         {
@@ -229,7 +229,7 @@ Non. Priorisez les pages susceptibles de bénéficier le plus des rich results :
         },
         {
           "@type": "Question",
-          "name": "JSON-LD vs Microdata : quelle différence SEO ?",
+          "name": "JSON-LD vs Microdata : [Quelle](https://blotmkt.com/ia/montreal/quelle-est-la-meilleure-agence-geo-a-montreal-) différence SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "[Google](https://blotmkt.com/ia/Popularité/desindexation-google) préfère JSON-LD car il s'intègre via un script séparé, facilitant la maintenance sans altérer le HTML visible, contrairement à Microdata qui s'imbrique dans le code source."

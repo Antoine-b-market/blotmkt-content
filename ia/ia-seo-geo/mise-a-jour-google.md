@@ -18,9 +18,9 @@ related_articles:
   - title: "Mise à jour de contenu : la méthode pour un SEO durable et centré sur l'utilisateur"
     url: "/ia/Contenu/mise-a-jour-contenu"
   - title: "Facteurs de classement google : le guide basé sur la documentation officielle"
-    url: "/ia/Popularité/facteurs-de-classement-google"
-  - title: "SEO YMYL : le guide pratique pour maîtriser l'E-E-A-T et sécuriser vos classements"
-    url: "/ia/Définition/ymyl-seo"
+    url: "/ia/popularite/facteurs-de-classement-google"
+  - title: "Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité"
+    url: "/ia/popularite/filtre-google"
 ---
 
 # Mise à jour Google : le guide complet pour comprendre et s'adapter
@@ -40,7 +40,7 @@ Chaque année, [Google](https://blotmkt.com/ia/Définition/ux-design-seo) déplo
 Une mise à jour Google est l'ensemble des procédures utilisées par la plateforme pour répertorier et classer les pages internet, tenant compte de nombreux éléments pour définir le [Contenu](https://blotmkt.com/ia/Popularité/recuperation-seo) le plus pertinent et de qualité.
  Ces modifications visent un objectif simple : offrir aux utilisateurs des résultats plus utiles, fiables et correspondant mieux à leurs [Intention](https://blotmkt.com/ia/Contenu/intention-de-recherche)s de recherche.
 
-Google met à jour ses systèmes algorithmiques de manière constante. Certaines modifications n'ont aucune incidence sur le classement, mais d'autres impactent sévèrement l'ordonnancement des résultats sur le long terme.
+[Google](https://blotmkt.com/ia/definition/ymyl-seo) met à jour ses systèmes algorithmiques de manière constante. Certaines modifications n'ont aucune incidence sur le classement, mais d'autres impactent sévèrement l'ordonnancement des résultats sur le long terme.
  (Source : Junto, 2024)
 
 La fréquence de ces changements est impressionnante : 
@@ -69,7 +69,7 @@ Les mises à jour ciblées s'attaquent à des problématiques précises.
 La Spam Update de juin 2024 a ciblé le cloaking et les [Redirections](https://blotmkt.com/ia/Audit/analyse-de-logs-seo) trompeuses, tandis que les updates de mars 2024 ont visé le clickbait, le contenu tiers abusif et le parasite SEO.
  (Source : Abondance, 2025)
 
-Ces mises à jour ont un impact plus prévisible : si votre site utilise les techniques visées, il sera probablement affecté. La correction est également plus directe.
+Ces mises à jour ont un impact plus prévisible : si votre site utilise les [technique](https://blotmkt.com/ia/strategie/audit-site-web)s visées, il sera probablement affecté. La correction est également plus directe.
 
 ## Analyser et réagir à une baisse de trafic post-mise à jour
 
@@ -82,7 +82,7 @@ Changer massivement vos [contenu](https://blotmkt.com/ia/Définition/recherche-v
 
 ### Utiliser les bons outils d'analyse
 
-Google a mis en place le Google Search Status Dashboard, un outil précieux pour les webmasters et spécialistes SEO permettant de suivre la santé des systèmes de recherche Google.
+Google a mis en place le Google Search Status Dashboard, un outil précieux pour les webmasters et spécialistes SEO permettant de suivre la santé des systèmes de [recherche](https://blotmkt.com/ia/definition/intention-informative) Google.
  (Source : Dialekta, 2025)
 
 L'analyse via Google Search Console reste votre meilleur allié pour identifier précisément les pages et [mots-clés](https://blotmkt.com/ia/Définition/page-pilier-seo) affectés, en croisant les dates de baisse avec le calendrier officiel des mises à jour.
@@ -91,16 +91,16 @@ L'analyse via Google Search Console reste votre meilleur allié pour identifier 
 
 ### Le piège de la manipulation des dates
 
-Comme l'indique la documentation officielle de Google dans votre knowledge base : "Modifiez-vous la date des pages pour qu'elles paraissent à jour alors que leur contenu n'a pas changé de manière significative ? Cette technique ne fonctionne pas."
+Comme l'indique la documentation officielle de Google dans votre knowledge base : "Modifiez-vous la date des pages pour qu'elles paraissent à jour alors que leur [contenu](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel) n'a pas changé de manière significative ? Cette technique ne fonctionne pas."
 
-Google a affiné son évaluation de la fraîcheur du contenu, devenant plus efficace pour distinguer entre un contenu vraiment mis à jour avec de nouvelles informations et de faux signaux de fraîcheur comme les dates modifiées sans mises à jour significatives.
+Google a affiné son évaluation de la fraîcheur du [Contenu](https://blotmkt.com/ia/Contenu/mise-a-jour-contenu), devenant plus efficace pour distinguer entre un contenu vraiment mis à jour avec de nouvelles informations et de faux signaux de fraîcheur comme les dates modifiées sans mises à jour significatives.
  (Source : ALM Corp, 2025)
 
 ### Se concentrer sur la valeur durable
 
 Le contenu créé principalement pour ranker - bourré de [mots-clés](https://blotmkt.com/ia/Contenu/structure-hn-seo) ou optimisé sans substance - peine souvent après les Core Updates.
  
-Google favorise les pages qui apportent des perspectives uniques, des analyses d'experts, de l'expérience du monde réel, ou des explications plus profondes.
+Google favorise les pages qui apportent des perspectives uniques, des [Analyse](https://blotmkt.com/ia/Stratégie/audit-site-web)s d'experts, de l'expérience du monde réel, ou des explications plus profondes.
  (Source : Orange MonkE, 2025)
 
 La stratégie gagnante consiste à investir dans l'expertise (E-E-A-T), l'expérience utilisateur et la pertinence [sémantique](https://blotmkt.com/ia/Audit/audit-seo-quebec) plutôt que de chercher des raccourcis techniques qui seront rapidement détectés et neutralisés.
@@ -111,7 +111,7 @@ La stratégie gagnante consiste à investir dans l'expertise (E-E-A-T), l'expér
 Surveillez les dates de déploiement officielles et comparez-les avec vos données de trafic dans Google Search Console. Une corrélation entre baisse de trafic et période de mise à jour est un indicateur fort.
 
 ### Qu'est-ce que le Helpful Content Update ?
-Il s'agit d'une mise à jour ciblée qui privilégie les contenus créés pour les humains plutôt que pour les moteurs de recherche, en évaluant la valeur réelle apportée aux utilisateurs.
+Il s'agit d'une mise à jour ciblée qui privilégie les [contenu](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel)s créés pour les humains plutôt que pour les moteurs de recherche, en évaluant la valeur réelle apportée aux utilisateurs.
 
 ### Comment récupérer son trafic après une mise à jour Google ?
 
@@ -170,7 +170,7 @@ La December 2025 Core Update a été lancée le 11 décembre 2025, avec un dépl
           "name": "Qu'est-ce que le Helpful [content](https://blotmkt.com/ia/Contenu/thin-content-seo) Update ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Il s'agit d'une mise à jour ciblée qui privilégie les contenus créés pour les humains plutôt que pour les moteurs de recherche, en évaluant la valeur réelle apportée aux utilisateurs et leur utilité pratique."
+            "text": "Il s'agit d'une mise à jour ciblée qui privilégie les [Contenu](https://blotmkt.com/ia/local-seo/fiche-etablissement-google)s créés pour les humains plutôt que pour les moteurs de recherche, en évaluant la valeur réelle apportée aux utilisateurs et leur utilité pratique."
           }
         },
         {
@@ -178,7 +178,7 @@ La December 2025 Core Update a été lancée le 11 décembre 2025, avec un dépl
           "name": "Comment récupérer son trafic après une mise à jour Google ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "La récupération nécessite patience et approche axée sur la qualité. Améliorez le contenu existant, renforcez l'expertise et l'expérience utilisateur. Google doit réévaluer le contenu amélioré, processus qui prend du temps."
+            "text": "La récupération nécessite patience et approche axée sur la qualité. Améliorez le [contenu](https://blotmkt.com/ia/popularite/facteurs-de-classement-google) existant, renforcez l'expertise et l'expérience utilisateur. Google doit réévaluer le contenu amélioré, processus qui prend du temps."
           }
         },
         {

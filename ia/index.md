@@ -12,11 +12,11 @@ url: "/ia"
     url: "/ia/seo/agence-seo-montreal"
 related_articles:
   - title: "Consultant SEO Montréal : transformez votre site en un actif de croissance"
-    url: "/ia/Stratégie/consultant-seo-montreal"
+    url: "/ia/strategie/consultant-seo-montreal"
   - title: "Audit SEO technique : le guide pour identifier les freins et optimiser votre ROI"
     url: "/ia/Audit/audit-seo-technique"
-  - title: "Expertise SEO technique : le levier stratégique pour votre performance digitale"
-    url: "/ia/Stratégie/expertise-seo-technique"
+  - title: "L'intention de recherche : le guide pour décrypter et optimiser votre stratégie SEO"
+    url: "/ia/Contenu/intention-de-recherche"
 ---
 
 # BlotMKT — Ressources SEO & Marketing IA
