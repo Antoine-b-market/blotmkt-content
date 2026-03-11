@@ -1,0 +1,65 @@
+{
+  "keyword": "Balise H1 SEO",
+  "intention": "informationnelle",
+  "titre_h1": "Balise h1 SEO : le guide pratique pour optimiser votre titre principal",
+  "meta_description": "Qu'est-ce qu'une balise H1 en SEO ? Apprenez à l'optimiser pour Google, à la différencier de la balise title et à structurer vos contenus pour un meilleur classement.",
+  "angle_editorial": "Guide pratique et dense : focus sur l'essentiel pour maîtriser la balise H1 sans superflu, en clarifiant la confusion critique avec la balise title et en fournissant des actions concrètes.",
+  "query_fanout": [
+    "Quelle est la définition et l'importance d'une balise H1 pour le SEO ?",
+    "Quelle est la différence fondamentale entre la balise H1 et la balise title ?",
+    "Comment rédiger une balise H1 parfaitement optimisée pour les moteurs de recherche ?",
+    "Quels outils utiliser pour analyser et corriger les balises H1 d'un site web ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce qu'une balise H1 et pourquoi est-elle cruciale en SEO ?",
+      "points_cles": [
+        "Définition : la balise H1 est le titre principal visible sur une page, structurant le contenu pour les utilisateurs et les robots.",
+        "Rôle SEO : elle envoie le signal de pertinence le plus fort à Google sur le sujet principal de la page.",
+        "Impact direct : une bonne H1 améliore la compréhension du sujet par Google, l'expérience utilisateur et l'accessibilité."
+      ]
+    },
+    {
+      "h2": "Balise H1 vs Balise Title : la différence à ne plus jamais ignorer",
+      "points_cles": [
+        "Position : le H1 se trouve dans le `<body>` du code HTML (visible sur la page), tandis que le title est dans le `<head>` (invisible).",
+        "Affichage : le H1 est le titre que vous lisez sur la page. Le title s'affiche dans les résultats de recherche (SERP) et l'onglet du navigateur.",
+        "Stratégie : ils doivent être cohérents sémantiquement mais peuvent être formulés différemment pour optimiser à la fois le clic (title) et la lecture (H1)."
+      ]
+    },
+    {
+      "h2": "Comment rédiger une balise H1 parfaite : 4 règles d'or",
+      "points_cles": [
+        "Unicité : utilisez une seule et unique balise H1 par page pour éviter de diluer son poids sémantique.",
+        "Intégration du mot-clé : incluez votre mot-clé cible principal de manière naturelle, idéalement au début.",
+        "Concision et clarté : visez une longueur de 50 à 70 caractères pour décrire précisément le contenu de la page.",
+        "Alignement avec l'intention : la H1 doit répondre directement à la promesse faite dans la balise title et correspondre à l'intention de recherche."
+      ]
+    },
+    {
+      "h2": "Les outils indispensables pour auditer et optimiser vos H1",
+      "points_cles": [
+        "Audit de masse : utilisez Screaming Frog SEO Spider pour crawler votre site et identifier les H1 manquantes, dupliquées ou trop longues en quelques minutes.",
+        "Optimisation sur WordPress : modifiez facilement vos H1 page par page directement depuis l'éditeur grâce à des plugins comme Yoast SEO ou Rank Math.",
+        "Vérification rapide : utilisez l'outil d'inspection de votre navigateur (clic droit > Inspecter) pour vérifier la présence et le contenu de la balise `<h1>` sur n'importe quelle page."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "titre h1",
+    "optimisation SEO",
+    "structure html",
+    "balise titre",
+    "sémantique web",
+    "heading 1"
+  ],
+  "questions_paa": [
+    "Faut-il que la balise H1 et la balise title soient identiques ?",
+    "Quelle est la longueur idéale pour une balise H1 en SEO ?",
+    "Peut-on mettre plusieurs H1 sur une page ?",
+    "Comment trouver les balises H1 d'un site ?"
+  ],
+  "ton": "pratique",
+  "longueur_cible": 900,
+  "category": "Contenu"
+}

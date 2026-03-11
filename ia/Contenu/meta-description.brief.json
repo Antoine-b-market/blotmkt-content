@@ -1,0 +1,87 @@
+{
+  "keyword": "Méta description",
+  "intention": "informationnelle",
+  "titre_h1": "Méta description SEO: Guide complet pour optimiser votre visibilité et votre CTR",
+  "meta_description": "Maîtrisez la méta description SEO. Découvrez son rôle clé, nos astuces pour une rédaction percutante, et boostez votre CTR pour plus de visibilité Google.",
+  "angle_editorial": "Approche pratique et basée sur l'expérience pour maîtriser les méta descriptions, incluant les dernières évolutions des SERP, l'impact sur l'engagement utilisateur et l'intégration des outils SEO modernes.",
+  "query_fanout": [
+    "Qu'est-ce qu'une méta description et quelle est son importance pour le SEO ?",
+    "Comment rédiger une méta description efficace qui incite au clic ?",
+    "Quel est l'impact réel de la méta description sur le taux de clics (CTR) et le référencement ?",
+    "Quels sont les meilleurs outils et pratiques pour gérer et optimiser les méta descriptions ?",
+    "Quelles sont les erreurs courantes à éviter et les bonnes pratiques avancées en matière de méta description ?"
+  ],
+  "structure": [
+    {
+      "h2": "La méta description : définition, rôle et enjeux SEO actuels",
+      "points_cles": [
+        "Définition technique : une balise HTML non visible sur la page, mais cruciale dans les résultats de recherche.",
+        "Son rôle indirect sur le classement : signal d'engagement utilisateur via le CTR.",
+        "Importance pour la visibilité en SERP : présentation concise du contenu, incitant à la visite.",
+        "Comprendre comment Google l'utilise ou la réécrit en fonction de la requête."
+      ]
+    },
+    {
+      "h2": "Rédaction optimisée : les clés d'une méta description performante",
+      "points_cles": [
+        "Longueur recommandée et adaptation aux affichages mobiles et desktop (entre 120 et 155 caractères).",
+        "Intégration stratégique des mots-clés cibles, sans sur-optimisation.",
+        "Formulation d'un appel à l'action (CTA) clair et engageant.",
+        "Mise en avant de la proposition de valeur unique et des bénéfices pour l'utilisateur.",
+        "Importance de la lisibilité, de la clarté et de la pertinence par rapport au contenu de la page."
+      ]
+    },
+    {
+      "h2": "Mesurer l'impact : CTR, positionnement et analyse de performance",
+      "points_cles": [
+        "Utilisation de Google Search Console pour suivre le taux de clics (CTR) de vos méta descriptions.",
+        "Mise en place de tests A/B pour identifier les formulations les plus efficaces.",
+        "Corrélation entre un bon CTR et une amélioration potentielle du positionnement à long terme.",
+        "Importance de l'expérience utilisateur et de la cohérence entre la méta description et le contenu réel.",
+        "Analyse des données pour une optimisation continue et itérative."
+      ]
+    },
+    {
+      "h2": "Outils et méthodes : maîtrisez la gestion de vos méta descriptions",
+      "points_cles": [
+        "Présentation des plugins WordPress : Yoast SEO et Rank Math pour une gestion facile.",
+        "Utilisation d'outils SEO comme SEMrush ou Ahrefs pour l'audit et l'analyse concurrentielle.",
+        "L'importance des outils de prévisualisation pour visualiser l'affichage en SERP.",
+        "Méthodes pour auditer les méta descriptions existantes (ex: Screaming Frog).",
+        "Stratégies pour la gestion des pages à fort volume (e-commerce, blogs techniques)."
+      ]
+    },
+    {
+      "h2": "Bonnes pratiques et pièges à éviter pour une stratégie durable",
+      "points_cles": [
+        "Éviter absolument le contenu dupliqué ou générique pour vos méta descriptions.",
+        "Assurer une pertinence contextuelle forte avec le contenu de la page.",
+        "Attention aux mises à jour de l'algorithme de Google et leur impact sur les affichages.",
+        "Exploiter les balises structurées (schema.org) pour enrichir les snippets.",
+        "Préparer ses méta descriptions pour la recherche vocale et les nouvelles interfaces."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "référencement naturel",
+    "balise méta",
+    "optimisation SEO",
+    "taux de clic",
+    "snippets Google",
+    "longueur méta description",
+    "Yoast SEO",
+    "Rank Math",
+    "Google Search Console",
+    "SERP"
+  ],
+  "questions_paa": [
+    "La méta description influence-t-elle directement le classement SEO ?",
+    "Quelle est la longueur idéale d'une méta description en 2024 ?",
+    "Faut-il rédiger une méta description unique pour chaque page ?",
+    "Comment Google choisit-il la méta description à afficher ?",
+    "Peut-on utiliser des emojis ou caractères spéciaux dans les méta descriptions ?"
+  ],
+  "ton": "expert et pratique",
+  "longueur_cible": 900,
+  "category": "Contenu"
+}

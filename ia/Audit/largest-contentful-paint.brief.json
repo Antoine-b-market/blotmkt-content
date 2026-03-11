@@ -1,0 +1,62 @@
+{
+  "keyword": "Largest Contentful Paint",
+  "intention": "informationnelle",
+  "titre_h1": "Largest Contentful Paint (LCP) : le guide complet pour optimiser la vitesse de votre site",
+  "meta_description": "Découvrez ce qu'est le Largest Contentful Paint (LCP), pourquoi il est crucial pour votre SEO et comment l'optimiser pour un meilleur score Core Web Vitals.",
+  "angle_editorial": "Approche pragmatique centrée sur le ROI : transformer une métrique technique (LCP) en un levier de conversion. Chaque conseil est lié à un impact business direct (baisse du taux de rebond, augmentation de l'engagement) avec des exemples concrets.",
+  "query_fanout": [
+    "Qu'est-ce que le Largest Contentful Paint (LCP) et pourquoi est-il un facteur de classement SEO crucial ?",
+    "Quels outils permettent de mesurer le LCP et d'identifier précisément l'élément qui le ralentit ?",
+    "Quelles sont les stratégies et les techniques les plus efficaces pour corriger un mauvais score LCP ?",
+    "Quel est l'impact réel d'un bon LCP sur le taux de conversion et l'expérience utilisateur globale ?"
+  ],
+  "structure": [
+    {
+      "h2": "Définition : qu'est-ce que le Largest Contentful Paint (LCP) ?",
+      "points_cles": [
+        "Le LCP mesure le temps de chargement perçu par l'utilisateur, en se focalisant sur le plus grand élément (image, vidéo, bloc de texte) visible dans la fenêtre d'affichage.",
+        "Il fait partie des Core Web Vitals de Google, un signal de classement direct lié à l'expérience utilisateur (UX).",
+        "Un bon score LCP (inférieur à 2,5 secondes) indique aux utilisateurs et aux moteurs que votre page est rapide et fonctionnelle."
+      ]
+    },
+    {
+      "h2": "Comment mesurer votre LCP et diagnostiquer les problèmes ?",
+      "points_cles": [
+        "Utiliser Google PageSpeed Insights pour obtenir les données de terrain (CrUX) et de laboratoire, avec des diagnostics clairs.",
+        "Analyser en temps réel avec l'onglet 'Performance' des Outils de développement Chrome pour visualiser la cascade de chargement et identifier l'élément LCP.",
+        "Exploiter la Google Search Console et son rapport 'Signaux Web essentiels' pour suivre les performances LCP de l'ensemble de votre site sur la durée."
+      ]
+    },
+    {
+      "h2": "4 stratégies pour optimiser et corriger un LCP lent",
+      "points_cles": [
+        "Optimiser les images : compresser sans perte de qualité, utiliser des formats modernes (WebP, AVIF) et implémenter les attributs 'srcset' pour le responsive.",
+        "Réduire le temps de réponse du serveur (TTFB) : choisir un hébergement performant, utiliser un CDN et optimiser la mise en cache.",
+        "Éliminer le code bloquant le rendu : différer le chargement du JavaScript non essentiel ('defer', 'async') et minifier CSS et JS.",
+        "Prioriser le chargement des ressources critiques : utiliser 'preload' pour les polices ou images importantes et optimiser le 'critical rendering path'."
+      ]
+    },
+    {
+      "h2": "L'impact business d'un LCP rapide : au-delà du score technique",
+      "points_cles": [
+        "Un LCP amélioré est directement corrélé à une baisse du taux de rebond, car les utilisateurs ne quittent pas le site par frustration.",
+        "Améliore le taux de conversion : une perception de vitesse accrue renforce la confiance et encourage les actions (achat, inscription).",
+        "Renforce l'image de marque en offrant une expérience fluide et professionnelle, ce qui favorise la fidélisation des utilisateurs."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "Core Web Vitals",
+    "optimisation vitesse site",
+    "temps de réponse serveur",
+    "PageSpeed Insights"
+  ],
+  "questions_paa": [
+    "Qu'est-ce qu'un bon score LCP ?",
+    "Comment corriger l'erreur 'L'élément LCP est une image chargée tardivement' ?",
+    "Quelle est la différence entre le LCP et le FCP (First Contentful Paint) ?"
+  ],
+  "ton": "pédagogique et pratique",
+  "longueur_cible": 900,
+  "category": "Audit"
+}

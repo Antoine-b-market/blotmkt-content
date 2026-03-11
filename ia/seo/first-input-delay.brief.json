@@ -1,0 +1,65 @@
+{
+  "keyword": "First Input Delay",
+  "intention": "informationnelle",
+  "titre_h1": "First Input Delay (FID) : le guide complet pour l'optimiser avant son remplacement par l'INP",
+  "meta_description": "Découvrez ce qu'est le First Input Delay (FID), pourquoi il est crucial pour le SEO et l'UX, et comment l'améliorer avec nos conseils pratiques. Préparez-vous à l'INP.",
+  "angle_editorial": "Un guide pratique et actionnable qui non seulement explique le FID, mais le positionne dans le contexte de son remplacement par l'Interaction to Next Paint (INP), offrant une perspective tournée vers l'avenir pour les développeurs et SEOs.",
+  "query_fanout": [
+    "Qu'est-ce que le First Input Delay (FID) et comment impacte-t-il l'expérience utilisateur ?",
+    "Quelle est la différence entre le FID et la nouvelle métrique Interaction to Next Paint (INP) ?",
+    "Quels outils utiliser pour mesurer et diagnostiquer un score FID insuffisant ?",
+    "Comment optimiser concrètement le First Input Delay en réduisant le JavaScript et les tâches longues ?"
+  ],
+  "structure": [
+    {
+      "h2": "Définition : qu'est-ce que le First Input Delay (FID) ?",
+      "points_cles": [
+        "Expliquer que le FID mesure le temps entre la première interaction d'un utilisateur (ex: un clic) et la réponse du navigateur.",
+        "Préciser que c'est une métrique de 'terrain' (Real User Monitoring) qui mesure la réactivité perçue et non le temps de chargement global.",
+        "Détailler les seuils officiels de Google : bon (< 100 ms), à améliorer (100-300 ms), et médiocre (> 300 ms)."
+      ]
+    },
+    {
+      "h2": "FID vs INP : pourquoi Google remplace cette métrique Core Web Vitals ?",
+      "points_cles": [
+        "Souligner la principale limite du FID : il ne mesure que le délai de la *première* interaction et ignore la réactivité ultérieure de la page.",
+        "Introduire l'Interaction to Next Paint (INP) comme une métrique plus complète qui évalue la latence de *toutes* les interactions durant la visite.",
+        "Rassurer sur le fait que les optimisations visant à améliorer le FID sont directement bénéfiques pour le score INP, car elles ciblent la même cause racine (le thread principal bloqué)."
+      ]
+    },
+    {
+      "h2": "Mesurer et diagnostiquer un mauvais score FID : les outils indispensables",
+      "points_cles": [
+        "Présenter Google PageSpeed Insights comme l'outil principal pour obtenir les données de terrain du rapport CrUX (Chrome User Experience Report).",
+        "Mentionner le rapport 'Signaux Web Essentiels' dans la Google Search Console pour un suivi de la performance de l'ensemble du site.",
+        "Expliquer comment utiliser l'onglet 'Performance' des outils de développement Chrome (DevTools) pour identifier les 'Long Tasks' (tâches longues) qui bloquent le thread principal et causent un FID élevé."
+      ]
+    },
+    {
+      "h2": "Comment optimiser le First Input Delay : 3 actions concrètes",
+      "points_cles": [
+        "Action 1 : Réduire et optimiser l'exécution JavaScript. Utiliser les attributs `async` et `defer` pour le JS non essentiel et supprimer le code inutilisé.",
+        "Action 2 : Fractionner les tâches longues (Long Tasks). Diviser les scripts qui monopolisent le thread principal pendant plus de 50ms en plus petites tâches asynchrones.",
+        "Action 3 : Utiliser les Web Workers. Déléguer les scripts complexes à un thread d'arrière-plan pour ne pas bloquer l'interface utilisateur et garantir une réactivité immédiate."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "Interaction to Next Paint",
+    "Core Web Vitals",
+    "PageSpeed Insights",
+    "optimisation JavaScript",
+    "expérience utilisateur",
+    "Signaux Web Essentiels",
+    "INP"
+  ],
+  "questions_paa": [
+    "Quel est un bon score FID ?",
+    "Comment le JavaScript affecte-t-il le First Input Delay ?",
+    "Le First Input Delay est-il toujours un Core Web Vital en 2024 ?",
+    "Comment corriger l'erreur 'réduire le temps d'exécution de JavaScript' ?"
+  ],
+  "ton": "pédagogique",
+  "longueur_cible": 900,
+  "category": "seo"
+}

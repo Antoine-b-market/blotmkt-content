@@ -1,0 +1,74 @@
+{
+  "keyword": "Audit contenu existant",
+  "intention": "informationnelle",
+  "titre_h1": "Audit de contenu existant : la méthode complète pour optimiser votre SEO",
+  "meta_description": "Découvrez comment réaliser un audit de contenu existant pour améliorer votre SEO. Notre guide vous explique les étapes, les métriques et les décisions à prendre.",
+  "angle_editorial": "Une approche pragmatique centrée sur la prise de décision (Conserver, Mettre à jour, Supprimer/Fusionner) en intégrant des métriques qualitatives d'engagement pour un ROI maximal.",
+  "query_fanout": [
+    "Qu'est-ce qu'un audit de contenu et pourquoi est-il crucial pour une stratégie SEO ?",
+    "Quelles sont les étapes concrètes pour mener un audit de contenu efficace ?",
+    "Combien coûte un audit de contenu et quel retour sur investissement peut-on en attendre ?",
+    "Quels outils sont indispensables et quelles alternatives existent à un audit complet ?",
+    "Comment interpréter les données pour décider de conserver, mettre à jour ou supprimer un contenu ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce qu'un audit de contenu et pourquoi est-il crucial ?",
+      "points_cles": [
+        "Définition : un inventaire systématique et une évaluation qualitative de tous les contenus d'un site web (pages, articles, fiches produits).",
+        "Objectifs stratégiques : identifier les contenus performants ('winners'), les faiblesses ('losers', contenu obsolète) et les opportunités cachées.",
+        "Impact SEO direct : amélioration du budget de crawl, résolution des problèmes de cannibalisation de mots-clés et augmentation de l'autorité thématique globale du site."
+      ]
+    },
+    {
+      "h2": "La méthode en 4 étapes pour un audit de contenu efficace",
+      "points_cles": [
+        "1. Inventaire des URLs : utiliser un crawler (ex: Screaming Frog) pour lister tout le contenu indexable.",
+        "2. Collecte des données : agréger les métriques quantitatives (trafic organique, backlinks, positions) et qualitatives (temps passé sur la page, taux de retour, partages).",
+        "3. Analyse et classification : évaluer chaque URL sur sa performance, sa pertinence et sa qualité pour lui attribuer un score ou une catégorie.",
+        "4. Plan d'action : définir une action précise pour chaque contenu (Conserver, Mettre à jour, Fusionner, Supprimer) dans une feuille de route claire."
+      ]
+    },
+    {
+      "h2": "Budget et retour sur investissement (ROI) d'un audit de contenu",
+      "points_cles": [
+        "Estimation des coûts : le prix varie de quelques centaines à plusieurs milliers d'euros en fonction de la taille du site et de la profondeur de l'analyse.",
+        "ROI tangible : augmentation du trafic qualifié en se concentrant sur les pages performantes, amélioration des taux de conversion grâce à un contenu plus pertinent.",
+        "Bénéfices indirects : optimisation des ressources internes (rédaction, développement), meilleure compréhension de son audience et clarification de la ligne éditoriale."
+      ]
+    },
+    {
+      "h2": "Outils indispensables et alternatives à l'audit complet",
+      "points_cles": [
+        "La boîte à outils essentielle : Google Analytics (trafic, engagement), Google Search Console (clics, impressions, positions), Screaming Frog (crawl), Ahrefs/Semrush (backlinks, mots-clés).",
+        "Intégrer le qualitatif : utiliser les métriques d'engagement (temps sur la page, taux de retour) pour comprendre la valeur perçue par l'utilisateur, au-delà des chiffres SEO bruts.",
+        "Alternatives agiles : le 'content pruning' (suppression rapide des pages 'zombies' sans trafic ni backlinks) ou l'audit thématique ciblé sur une seule catégorie du site pour un résultat plus rapide."
+      ]
+    },
+    {
+      "h2": "Interpréter les résultats : le framework 'Conserver, Mettre à jour, Supprimer'",
+      "points_cles": [
+        "Conserver (Keep) : contenu à fort trafic, générant des backlinks et des conversions. Action : ne rien toucher, promouvoir davantage.",
+        "Mettre à jour (Update) : contenu pertinent mais obsolète, ou avec un potentiel d'optimisation. Action : rafraîchir les informations, ajouter du multimédia, optimiser pour de nouveaux mots-clés.",
+        "Supprimer/Fusionner (Delete/Merge) : contenu dupliqué, 'thin content', ou pages sans valeur pour l'utilisateur. Action : supprimer avec une redirection 301 vers une page pertinente ou fusionner plusieurs articles faibles en un seul guide complet."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "inventaire de contenu",
+    "analyse de contenu web",
+    "content pruning",
+    "stratégie de contenu SEO",
+    "optimisation contenu existant",
+    "qualité du contenu"
+  ],
+  "questions_paa": [
+    "Comment faire un audit de contenu SEO ?",
+    "Quels sont les KPIs d'un contenu performant ?",
+    "Quand faut-il supprimer un article de blog ?",
+    "Comment analyser la performance d'un site web ?"
+  ],
+  "ton": "pédagogique",
+  "longueur_cible": 900,
+  "category": "Contenu"
+}

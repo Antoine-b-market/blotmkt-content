@@ -1,0 +1,72 @@
+{
+  "keyword": "Agence SEO Montréal",
+  "intention": "commerciale",
+  "titre_h1": "Agence SEO Montréal : votre partenaire stratégique pour une croissance durable",
+  "meta_description": "Notre agence SEO à Montréal transforme votre site en un actif financier performant. Audit, stratégie et optimisation ROIste pour dominer votre marché. Parlons-en.",
+  "angle_editorial": "Positionner l'agence non pas comme un simple prestataire de services techniques, mais comme un consultant et partenaire stratégique. L'accent est mis sur la transformation du site web en un actif financier mesurable, en se basant sur le diagnostic, l'identification d'opportunités et l'alignement avec les objectifs d'affaires du client.",
+  "query_fanout": [
+    "Qu'est-ce qu'une agence SEO à Montréal et quel est son rôle stratégique ?",
+    "Agence SEO vs consultant freelance à Montréal : quelle est la meilleure option ?",
+    "Quels sont les tarifs d'une agence SEO à Montréal et comment calculer le retour sur investissement ?",
+    "Comment une agence SEO de premier plan audite-t-elle un site web pour identifier les opportunités ?",
+    "Pourquoi une stratégie SEO locale est-elle cruciale pour les entreprises à Montréal ?"
+  ],
+  "structure": [
+    {
+      "h2": "Le rôle stratégique d'une agence SEO : au-delà de la technique",
+      "points_cles": [
+        "Définir le SEO non comme une série de tâches, mais comme un levier de croissance d'affaires.",
+        "Mettre l'accent sur l'alignement des objectifs SEO (trafic, positions) avec les objectifs business (leads, ventes, rentabilité).",
+        "Expliquer le rôle de l'agence en tant que partenaire analytique : diagnostic des freins et détection des opportunités de marché inexploitées."
+      ]
+    },
+    {
+      "h2": "Agence vs freelance SEO à Montréal : faire le bon choix pour votre projet",
+      "points_cles": [
+        "Comparer les avantages de l'agence : diversité des expertises (technique, contenu, netlinking), redondance des équipes, outils premium.",
+        "Comparer les avantages du freelance : contact direct, flexibilité, coûts potentiellement inférieurs pour des mandats simples.",
+        "Fournir des critères de décision : complexité du site, ambition de croissance, besoin d'un interlocuteur unique ou d'une équipe pluridisciplinaire."
+      ]
+    },
+    {
+      "h2": "Tarifs et ROI du SEO à Montréal : un investissement, pas une dépense",
+      "points_cles": [
+        "Démystifier les modèles de tarification courants : forfait mensuel (retainer), projet ponctuel (audit), modèle hybride.",
+        "Lister les facteurs qui influencent le coût : compétitivité du secteur, état de santé du site, envergure des objectifs.",
+        "Expliquer comment mesurer le ROI concrètement : suivi des conversions, coût d'acquisition par canal, augmentation de la valeur de la marque."
+      ]
+    },
+    {
+      "h2": "Notre méthodologie d'audit : le diagnostic avant la prescription",
+      "points_cles": [
+        "Décrire le processus d'analyse initiale comme un diagnostic de santé complet pour le site web.",
+        "Détailler les 3 piliers de l'audit : analyse technique (crawl, indexation), sémantique (contenu, mots-clés) et d'autorité (backlinks, réputation).",
+        "Insister sur le livrable : une feuille de route priorisée qui distingue les gains rapides ('quick wins') des chantiers de fond."
+      ]
+    },
+    {
+      "h2": "SEO Local : pourquoi Montréal exige une approche spécifique",
+      "points_cles": [
+        "Souligner l'importance de cibler les requêtes géolocalisées pour capter le trafic à plus forte intention de conversion.",
+        "Expliquer l'optimisation du Google Business Profile (GBP) comme pierre angulaire de la visibilité dans le 'Local Pack'.",
+        "Mentionner l'importance du contenu et des liens locaux (partenaires québécois, presse locale) pour renforcer la pertinence géographique."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "consultant SEO Montréal",
+    "référencement web Montréal",
+    "expert SEO Québec",
+    "stratégie SEO locale",
+    "meilleure agence SEO Montréal",
+    "audit SEO Montréal"
+  ],
+  "questions_paa": [
+    "Combien coûte une agence SEO à Montréal ?",
+    "Comment choisir la meilleure agence de référencement ?",
+    "Combien de temps faut-il pour voir des résultats en SEO ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 900,
+  "category": "Stratégie"
+}

@@ -1,0 +1,81 @@
+{
+  "keyword": "Attribut Nofollow",
+  "intention": "informationnelle",
+  "titre_h1": "L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024",
+  "meta_description": "Découvrez ce qu'est l'attribut nofollow, son impact sur le SEO et comment l'utiliser. Apprenez la différence avec sponsored et ugc pour une stratégie de liens efficace.",
+  "angle_editorial": "Approche stratégique et démystifiée. Ce guide va au-delà de la simple définition pour se concentrer sur l'impact réel du nofollow (et ses évolutions ugc/sponsored) sur le PageRank et le budget de crawl, avec des cas d'usage concrets et des conseils pratiques.",
+  "query_fanout": [
+    "Qu'est-ce que l'attribut rel=\"nofollow\" et quelle est sa fonction historique en SEO ?",
+    "Quelle est la différence fondamentale entre les attributs nofollow, sponsored et ugc ?",
+    "Comment implémenter techniquement un lien nofollow et comment le vérifier ?",
+    "Quel est l'impact réel d'un lien nofollow sur le PageRank et le budget de crawl aujourd'hui ?",
+    "Dans quels cas pratiques est-il stratégique d'utiliser l'attribut nofollow sur un site web ?"
+  ],
+  "structure": [
+    {
+      "h2": "Définition : qu'est-ce que l'attribut rel=\"nofollow\" et son rôle en SEO ?",
+      "points_cles": [
+        "Introduction de l'attribut comme une directive pour les moteurs de recherche.",
+        "Objectif initial : lutter contre le spam de commentaires et de forums (comment spam).",
+        "Signification principale : indiquer à Google de ne pas transmettre l'autorité (PageRank ou 'link juice') via ce lien.",
+        "Expliquer que cela n'empêche pas l'utilisateur de cliquer sur le lien."
+      ]
+    },
+    {
+      "h2": "Nofollow vs sponsored vs ugc : comprendre les nuances des attributs de lien",
+      "points_cles": [
+        "Présenter l'évolution : Google a introduit `sponsored` et `ugc` en 2019 pour plus de granularité.",
+        "`rel=\"sponsored\"` : À utiliser exclusivement pour les liens payants, publicitaires ou sponsorisés.",
+        "`rel=\"ugc\"` (User Generated Content) : Pour les liens ajoutés par les utilisateurs (commentaires, forums).",
+        "`rel=\"nofollow\"` : Sert de joker pour les autres cas où l'on ne souhaite pas endosser un lien, ou peut être combiné (ex: `rel=\"nofollow ugc\"`)."
+      ]
+    },
+    {
+      "h2": "Mise en pratique : comment implémenter un lien nofollow ?",
+      "points_cles": [
+        "Présenter la syntaxe HTML de base : `<a href=\"https://exemple.com\" rel=\"nofollow\">Texte du lien</a>`.",
+        "Montrer des exemples d'implémentation via les éditeurs de CMS courants comme WordPress (case à cocher).",
+        "Expliquer comment vérifier la présence de l'attribut : 'Inspecter l'élément' dans le navigateur.",
+        "Mentionner l'utilisation au niveau de la page avec la balise meta robots `nofollow` et ses implications."
+      ]
+    },
+    {
+      "h2": "Impact SEO : mythes et réalités du nofollow sur le PageRank et le crawl",
+      "points_cles": [
+        "Expliquer le changement majeur : le `nofollow` est désormais un 'indice' (hint) et non une directive stricte.",
+        "Mythe du 'PageRank sculpting' : clarifier que le jus n'est plus redistribué aux autres liens de la page mais simplement 'perdu'.",
+        "Impact sur le budget de crawl : Google peut choisir de suivre ou non un lien nofollow pour découvrir de nouvelles pages, mais sans y allouer de la valeur.",
+        "Conséquence : un lien nofollow a une valeur SEO quasi nulle en termes d'autorité, mais peut générer du trafic de référence."
+      ]
+    },
+    {
+      "h2": "Utilisation stratégique : quand faut-il utiliser l'attribut nofollow ?",
+      "points_cles": [
+        "Liens sortants vers des sites non fiables ou que vous ne souhaitez pas cautionner.",
+        "Contenus générés par les utilisateurs (si `ugc` n'est pas utilisé).",
+        "Liens payants ou sponsorisés (bien que `sponsored` soit maintenant la norme recommandée).",
+        "Gestion de liens internes (cas très rares et avancés) pour prioriser le crawl sur des pages stratégiques."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "rel=\"nofollow\"",
+    "lien nofollow",
+    "seo nofollow",
+    "attribut sponsored",
+    "attribut ugc",
+    "link juice",
+    "budget de crawl",
+    "netlinking",
+    "dofollow vs nofollow"
+  ],
+  "questions_paa": [
+    "Quelle est la différence entre un lien dofollow et nofollow ?",
+    "Comment savoir si un lien est en nofollow ?",
+    "Quand doit-on utiliser l'attribut nofollow ?",
+    "Est-ce que les liens nofollow sont bons pour le SEO ?"
+  ],
+  "ton": "expert|pedagogique|pratique",
+  "longueur_cible": 900,
+  "category": "Définition"
+}

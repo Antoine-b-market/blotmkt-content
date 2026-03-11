@@ -1,0 +1,65 @@
+{
+  "keyword": "SERP définition",
+  "intention": "informationnelle",
+  "titre_h1": "Serp : définition complète de la page de résultats de recherche",
+  "meta_description": "Qu'est-ce qu'une SERP ? Découvrez notre définition complète de la page de résultats Google, ses composants clés et comment l'analyser pour votre SEO.",
+  "angle_editorial": "Démystifier la SERP non pas comme une page statique, mais comme un écosystème dynamique et personnalisé par l'IA, en se concentrant sur les 'SERP Features' pour maximiser sa visibilité.",
+  "query_fanout": [
+    "Qu'est-ce qu'une SERP et pourquoi est-elle fondamentale en SEO ?",
+    "Quels sont les différents types de résultats (SERP Features) qui la composent ?",
+    "Comment l'intention de recherche de l'utilisateur transforme-t-elle la SERP ?",
+    "Quelles sont les étapes pour analyser une SERP et en tirer des insights stratégiques ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce qu'une SERP : définition fondamentale pour le SEO",
+      "points_cles": [
+        "Définition de l'acronyme SERP : Search Engine Results Page, ou page de résultats d'un moteur de recherche.",
+        "Rôle central : c'est le champ de bataille où les sites web se disputent la visibilité auprès des utilisateurs.",
+        "Distinction clé entre les résultats organiques (SEO), gagnés grâce à la pertinence, et les résultats payants (SEA), issus des enchères publicitaires."
+      ]
+    },
+    {
+      "h2": "Anatomie d'une SERP moderne : au-delà des 10 liens bleus",
+      "points_cles": [
+        "Présentation des 'SERP Features' : Featured Snippets (position zéro), People Also Ask (PAA), Local Pack, Knowledge Graph, etc.",
+        "Focus sur les résultats enrichis (Rich Snippets) : leur impact direct sur l'augmentation du taux de clic (CTR) grâce aux étoiles, prix, etc.",
+        "L'importance de la diversification des formats : résultats images, vidéos, shopping, et actualités qui capturent l'attention."
+      ]
+    },
+    {
+      "h2": "L'intention de recherche : le véritable moteur de la SERP",
+      "points_cles": [
+        "Explication des 4 types d'intentions : informationnelle (savoir), navigationnelle (aller), transactionnelle (acheter), et commerciale (investiguer avant d'acheter).",
+        "Analyse de la façon dont Google adapte la composition de la SERP à chaque intention (ex: comparateurs pour une intention transactionnelle).",
+        "L'alignement du contenu sur l'intention dominante de la SERP est une condition non négociable pour se classer."
+      ]
+    },
+    {
+      "h2": "Comment analyser une SERP pour optimiser votre stratégie de contenu",
+      "points_cles": [
+        "Méthodologie pratique : identifier les types de contenus qui rankent (articles de blog, pages produits, vidéos, guides).",
+        "Analyse concurrentielle : étudier les balises Title et Meta Description des pages les mieux classées pour comprendre les angles qui fonctionnent.",
+        "Utiliser les 'People Also Ask' (PAA) et les recherches associées comme une mine d'or pour structurer et enrichir son propre contenu."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "SERP Google",
+    "SERP features",
+    "analyse SERP",
+    "résultats de recherche",
+    "position zéro",
+    "featured snippet",
+    "page de résultats google"
+  ],
+  "questions_paa": [
+    "C'est quoi une SERP en SEO ?",
+    "Comment apparaître sur la SERP de Google ?",
+    "Quels sont les différents types de SERP ?",
+    "Comment analyser la SERP ?"
+  ],
+  "ton": "pédagogique",
+  "longueur_cible": 900,
+  "category": "Définition"
+}

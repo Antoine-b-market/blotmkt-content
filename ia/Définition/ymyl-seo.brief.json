@@ -1,0 +1,65 @@
+{
+  "keyword": "YMYL SEO",
+  "intention": "informationnelle",
+  "titre_h1": "SEO YMYL : le guide pratique pour maîtriser l'E-E-A-T et sécuriser vos classements",
+  "meta_description": "Découvrez comment optimiser votre site YMYL (Your Money or Your Life) avec notre guide SEO. Maîtrisez les signaux E-E-A-T pour renforcer la confiance et le ranking.",
+  "angle_editorial": "Aborder le SEO YMYL non pas comme une contrainte, mais comme une opportunité stratégique pour bâtir une autorité pérenne, en se concentrant sur les signaux E-E-A-T vérifiables par les algorithmes et les IA génératives (AI Overviews).",
+  "query_fanout": [
+    "Qu'est-ce que le SEO YMYL et quels types de contenus sont concernés ?",
+    "Pourquoi le concept E-E-A-T est-il le pilier central de toute stratégie YMYL ?",
+    "Quelles sont les actions concrètes pour optimiser les signaux E-E-A-T sur une page ?",
+    "Comment l'optimisation pour les moteurs génératifs (GEO) change-t-elle l'approche du SEO YMYL ?"
+  ],
+  "structure": [
+    {
+      "h2": "Définition : qu'est-ce qu'un site YMYL et pourquoi son SEO est-il unique ?",
+      "points_cles": [
+        "Définition des sujets 'Your Money or Your Life' : santé, finance, sécurité, droit, et leur impact direct sur le bien-être des utilisateurs.",
+        "Identification des sites concernés : blogs médicaux, plateformes de conseil financier, sites e-commerce vendant des produits de sécurité, etc.",
+        "Explication du standard de qualité plus élevé exigé par Google en raison du risque de préjudice pour l'internaute."
+      ]
+    },
+    {
+      "h2": "E-E-A-T : le framework indispensable pour gagner la confiance de Google",
+      "points_cles": [
+        "Décryptage de chaque composant : Experience (Expérience vécue), Expertise (Compétence avérée), Authoritativeness (Autorité reconnue), Trust (Confiance globale).",
+        "Analyse de la confiance (Trust) comme le facteur le plus critique, englobant les trois autres et validé par des signaux externes.",
+        "Illustration de la différence entre un signal d'autorité pour un site YMYL (ex: publication scientifique) et un site non-YMYL (ex: article viral)."
+      ]
+    },
+    {
+      "h2": "Checklist pratique : 5 actions pour optimiser vos signaux E-E-A-T",
+      "points_cles": [
+        "Créer des biographies d'auteurs détaillées avec des qualifications vérifiables (diplômes, certifications, liens vers des profils reconnus).",
+        "Citer systématiquement des sources externes de haute autorité (études, rapports officiels) pour étayer chaque affirmation.",
+        "Mettre en place et valider les données structurées Schema.org (Person, Organization, ReviewedBy) pour clarifier les entités à Google.",
+        "Faciliter la prise de contact et afficher clairement les informations sur l'entreprise (page 'À propos', 'Contact') pour renforcer la confiance.",
+        "Recueillir et afficher des avis authentiques et des témoignages qui valident l'expérience et la satisfaction des utilisateurs."
+      ]
+    },
+    {
+      "h2": "GEO : préparer son contenu YMYL pour les réponses des IA génératives",
+      "points_cles": [
+        "Analyse de la manière dont les LLM et les AI Overviews évaluent la fiabilité des sources pour construire leurs réponses.",
+        "Importance d'un contenu factuel, clairement structuré et attribuable pour devenir une source de citation privilégiée par l'IA.",
+        "Stratégies pour aligner son contenu avec les 'perspectives' de l'IA, en mettant l'accent sur l'expérience de première main (le 'E' de Experience)."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "E-E-A-T",
+    "qualité contenu google",
+    "signaux d'autorité SEO",
+    "optimisation site médical",
+    "SEO financier",
+    "Generative Engine Optimization"
+  ],
+  "questions_paa": [
+    "Comment savoir si mon site est considéré comme YMYL ?",
+    "Quels sont les signaux E-E-A-T les plus importants pour Google ?",
+    "Comment améliorer la biographie d'un auteur pour le SEO ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 900,
+  "category": "Définition"
+}

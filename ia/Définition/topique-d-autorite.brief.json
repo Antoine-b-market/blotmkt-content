@@ -1,0 +1,68 @@
+{
+  "keyword": "Topique d'autorité",
+  "intention": "informationnelle",
+  "titre_h1": "Topique d'autorité : comment transformer votre expertise en actif cognitif SEO",
+  "meta_description": "Découvrez comment construire un topique d'autorité. Allez au-delà du contenu classique et transformez votre savoir en un actif cognitif qui domine les SERPs.",
+  "angle_editorial": "Se différencier de la définition classique du topic cluster en se concentrant sur le concept d'« actif cognitif » (Knowledge Branding). L'objectif n'est pas de couvrir un sujet existant, mais de créer une nouvelle catégorie de pensée, de forger une autorité unique et propriétaire en opposant le contenu informationnel passif à la création d'actifs intellectuels stratégiques.",
+  "query_fanout": [
+    "Qu'est-ce qu'un topique d'autorité et en quoi diffère-t-il d'un topic cluster ?",
+    "Quel est le retour sur investissement (ROI) de la création d'un actif cognitif de ce type ?",
+    "Comment construire un topique d'autorité étape par étape ?",
+    "Quels sont des exemples concrets et cas d'usage d'un topique d'autorité réussi ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce qu'un topique d'autorité ? (Au-delà du topic cluster)",
+      "points_cles": [
+        "Définition : un écosystème de contenu qui crée et possède une narrative de marché, plutôt que de simplement y répondre.",
+        "Différence clé avec le topic cluster : passer de 'couvrir un sujet' à 'définir une nouvelle catégorie' (ex: Inbound Marketing).",
+        "Introduction au concept d'actif cognitif : un contenu qui décide d'une direction et façonne une opinion.",
+        "Objectif : devenir la source primaire et la référence incontournable sur un concept propriétaire, reconnu par les entités nommées."
+      ]
+    },
+    {
+      "h2": "Le ROI d'un topique d'autorité : pourquoi investir dans un actif cognitif ?",
+      "points_cles": [
+        "Construire un fossé concurrentiel (moat) : un actif intellectuel impossible à copier par l'IA ou les concurrents.",
+        "Impact sur l'E-E-A-T : démonstration d'une expertise de premier plan ('first-hand experience') en créant le savoir, pas seulement en le rapportant.",
+        "Avantages SEO à long terme : attraction de liens et de citations naturelles, domination sémantique de la SERP.",
+        "Valorisation de la marque (Knowledge Branding) : associer son nom à un concept clé de l'industrie."
+      ]
+    },
+    {
+      "h2": "La méthode en 4 étapes pour bâtir votre topique d'autorité",
+      "points_cles": [
+        "Étape 1 (Idéation) : Identifier un angle unique, une friction de marché ou un 'point de vue' propriétaire sur un problème.",
+        "Étape 2 (Modélisation) : Structurer le concept central, ses entités sémantiques et ses relations dans un knowledge graph.",
+        "Étape 3 (Création & Maillage) : Produire les contenus piliers et les relier avec un maillage interne conceptuel et des données structurées (JSON-LD).",
+        "Étape 4 (Amplification) : Diffuser l'actif via des publications (Zenodo, ORCID), des conférences et des partenariats pour asseoir l'autorité."
+      ]
+    },
+    {
+      "h2": "Exemples et cas d'usage : du concept à la réalité du Knowledge Branding",
+      "points_cles": [
+        "Cas HubSpot : comment ils ont créé et dominé le concept d' 'Inbound Marketing'.",
+        "Cas B2B SaaS : l'exemple d'une entreprise qui popularise le 'Generative Engine Optimization' (GEO) comme nouvelle discipline.",
+        "Analyse de la structure technique : page pilier, articles de fond, schémas personnalisés.",
+        "Mesurer le succès : suivi du positionnement sur le concept, des citations de marque (brand mentions) et des leads qualifiés."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "actif cognitif",
+    "knowledge branding",
+    "stratégie de contenu SEO",
+    "autorité thématique",
+    "E-E-A-T",
+    "topic cluster",
+    "maillage sémantique"
+  ],
+  "questions_paa": [
+    "Quelle est la différence entre autorité de domaine et autorité thématique ?",
+    "Comment Google évalue-t-il l'expertise sur un sujet ?",
+    "Est-ce que le topic cluster est toujours efficace ?"
+  ],
+  "ton": "expert, pédagogique, pratique",
+  "longueur_cible": 900,
+  "category": "Définition"
+}

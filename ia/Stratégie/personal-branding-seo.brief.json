@@ -1,0 +1,68 @@
+{
+  "keyword": "Personal branding SEO",
+  "intention": "informationnelle",
+  "titre_h1": "Personal branding SEO : comment construire votre autorité pour Google et l'IA",
+  "meta_description": "Apprenez à maîtriser le Personal branding SEO. Bâtissez une marque personnelle forte, reconnue par Google et citée par l'IA. Devenez une autorité.",
+  "angle_editorial": "Positionner le Personal Branding SEO non comme une simple tactique de visibilité, mais comme la création d'une 'entité' digitale reconnue. L'objectif est double : dominer les SERPs traditionnels et devenir une source citable pour les LLMs, en se concentrant sur l'autorité et la confiance plutôt que sur le volume de trafic.",
+  "query_fanout": [
+    "Qu'est-ce que le Personal Branding SEO et en quoi diffère-t-il du SEO traditionnel ?",
+    "Quelles sont les étapes clés pour construire une stratégie de Personal Branding SEO efficace ?",
+    "Quel est le ROI attendu d'une stratégie de Personal Branding SEO et comment le mesurer ?",
+    "Comment le digital PR et le content marketing renforcent-ils le Personal Branding SEO par rapport aux réseaux sociaux seuls ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce que le Personal Branding SEO : au-delà des mots-clés",
+      "points_cles": [
+        "Définir le concept comme l'optimisation de votre présence en ligne en tant qu'entité de marque, pas seulement un site web.",
+        "Différencier du SEO classique : l'objectif est de dominer les 'branded queries' (recherches sur votre nom) et de devenir une autorité sur des sujets non-brandés.",
+        "Expliquer que les moteurs de recherche et les LLMs cherchent à comprendre 'qui' vous êtes. Mentionner l'importance de construire un Knowledge Graph personnel cohérent (site, profils, publications).",
+        "Insister sur le passage d'une logique de trafic à une logique d'attraction d'une audience qualifiée qui vous fait confiance."
+      ]
+    },
+    {
+      "h2": "Les 5 étapes pour construire votre marque personnelle avec le SEO",
+      "points_cles": [
+        "Étape 1 - Audit de l'e-réputation : analyser les résultats de recherche actuels sur votre nom et identifier les opportunités et menaces.",
+        "Étape 2 - Définition de votre entité : choisir vos mots-clés de compétence (non-branded) et de marque (branded).",
+        "Étape 3 - Optimisation des 'hubs' de confiance : votre site personnel (About page optimisée), profil LinkedIn, et autres plateformes pertinentes.",
+        "Étape 4 - Création de contenu d'autorité (EEAT) : rédiger des articles, études de cas ou guides qui démontrent votre expertise unique.",
+        "Étape 5 - Stratégie de Digital PR : obtenir des mentions, citations et backlinks depuis des sources fiables pour que l'IA vous cite."
+      ]
+    },
+    {
+      "h2": "Mesurer le ROI de votre Personal Branding SEO : les nouveaux indicateurs",
+      "points_cles": [
+        "Expliquer que le ROI n'est pas seulement le trafic ou le classement. Il s'agit de visibilité, d'autorité et d'opportunités.",
+        "Indicateurs clés à suivre : augmentation du volume de recherche sur votre nom (branded search), part de voix (SERP visibility) sur vos thématiques.",
+        "Mesurer l'obtention de Sitelinks, de Featured Snippets ou d'une Knowledge Panel à votre nom.",
+        "Suivre les mentions de votre nom/marque dans les réponses générées par les IA (via des outils de monitoring ou des recherches manuelles), car c'est le principal indicateur de succès GEO."
+      ]
+    },
+    {
+      "h2": "Digital PR et contenu : les piliers de votre visibilité auprès de l'IA",
+      "points_cles": [
+        "Argumenter que les réseaux sociaux créent un engagement éphémère, tandis que le Digital PR et le contenu créent une autorité durable.",
+        "Détailler comment une mention dans un média reconnu ou une publication d'expert est un signal de confiance beaucoup plus fort pour Google et les LLMs qu'un post viral.",
+        "Citer l'importance de construire un 'corpus' de contenu cohérent qui positionne clairement votre expertise sur un sujet précis.",
+        "Le but est de devenir une source primaire d'information, si bien que les LLMs n'ont d'autre choix que de vous citer pour fournir une réponse complète et fiable."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "branded search",
+    "stratégie de marque SEO",
+    "e-réputation Google",
+    "devenir une autorité en ligne",
+    "optimisation pour les LLM",
+    "Knowledge Graph personnel"
+  ],
+  "questions_paa": [
+    "Combien de temps faut-il pour voir les résultats du personal branding SEO ?",
+    "Dois-je avoir un blog pour mon personal branding ?",
+    "Comment le SEO personnel influence-t-il les résultats de recherche sur mon nom ?"
+  ],
+  "ton": "expert, pédagogique, pratique",
+  "longueur_cible": 900,
+  "category": "Stratégie"
+}

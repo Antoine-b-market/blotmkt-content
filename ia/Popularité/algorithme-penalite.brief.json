@@ -1,0 +1,69 @@
+{
+  "keyword": "Algorithme pénalité",
+  "intention": "informationnelle",
+  "titre_h1": "Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO",
+  "meta_description": "Découvrez ce qu'est un algorithme de pénalité, comment il sanctionne votre site et les stratégies pour identifier la cause et lever la sanction. Protégez votre trafic.",
+  "angle_editorial": "Démystifier la pénalité algorithmique non comme une fatalité technique, mais comme la conséquence de biais et de sur-dépendance aux outils. L'article se concentre sur les actions proactives et correctives pour reprendre le contrôle et bâtir un SEO résilient.",
+  "query_fanout": [
+    "Qu'est-ce qu'un algorithme de pénalité et comment fonctionne-t-il ?",
+    "Quelle est la différence majeure entre une pénalité algorithmique et une pénalité manuelle ?",
+    "Comment diagnostiquer une pénalité algorithmique sur son site web ?",
+    "Quelles sont les étapes méthodologiques pour sortir d'une pénalité algorithmique ?"
+  ],
+  "structure": [
+    {
+      "h2": "Définition : qu'est-ce qu'un algorithme de pénalité ?",
+      "points_cles": [
+        "Système automatisé de Google qui ajuste le classement d'un site en réponse à des signaux de faible qualité.",
+        "Contrairement à une idée reçue, il ne s'agit pas d'une punition mais d'un filtre pour améliorer la pertinence des résultats.",
+        "Déclenchement lié au non-respect des 'Google Webmaster Guidelines' (contenu dupliqué, backlinks artificiels, etc.).",
+        "L'impact principal est une perte de visibilité soudaine et durable sur un large ensemble de mots-clés."
+      ]
+    },
+    {
+      "h2": "Pénalité algorithmique vs manuelle : le match des sanctions",
+      "points_cles": [
+        "Source : L'une est 100% automatisée (algorithmique), l'autre est appliquée par un employé de Google (manuelle).",
+        "Notification : Aucune alerte directe pour une pénalité algorithmique, contre un message clair dans la Google Search Console pour une manuelle.",
+        "Détection : La version algorithmique se devine par l'analyse de données (chute de trafic corrélée à une mise à jour), la manuelle est explicite.",
+        "Correction : La levée est automatique après correction pour l'algorithmique (peut prendre du temps), alors qu'une demande de réexamen est nécessaire pour la manuelle."
+      ]
+    },
+    {
+      "h2": "Diagnostic : les signaux qui ne trompent pas",
+      "points_cles": [
+        "Analyse de la courbe de trafic organique : une chute brutale, verticale et non saisonnière est le premier indicateur.",
+        "Corrélation temporelle : la date de la chute coïncide-t-elle avec une mise à jour confirmée ou suspectée de l'algorithme de Google ?",
+        "Perte de positionnement massive : suivi de la perte de visibilité sur vos mots-clés stratégiques et de longue traîne via des outils de suivi.",
+        "Audit des causes potentielles (biais) : analyse du profil de liens (backlinks toxiques), de la qualité du contenu (thin content, duplicate) et des aspects techniques (sur-optimisation)."
+      ]
+    },
+    {
+      "h2": "Le plan d'action pour lever la pénalité",
+      "points_cles": [
+        "Phase 1 - Audit : Identifier la cause racine en se basant sur les signaux détectés. Est-ce lié à Penguin (liens) ou Panda (contenu) ?",
+        "Phase 2 - Correction : Lancer des actions ciblées. Nettoyer le profil de liens (désaveu), améliorer ou supprimer le contenu de faible qualité, réduire la sur-optimisation.",
+        "Phase 3 - Patience et monitoring : Il n'y a pas de bouton de réexamen. Il faut attendre que Google re-crawle les pages corrigées lors d'une prochaine mise à jour de ses filtres.",
+        "Phase 4 - Prévention : Mettre en place des garde-fous pour éviter la sur-dépendance à une seule technique SEO et surveiller activement la qualité du site."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "sanction Google",
+    "Google Penguin",
+    "Google Panda",
+    "mise à jour algorithme",
+    "audit SEO",
+    "chute de trafic organique",
+    "désaveu de liens"
+  ],
+  "questions_paa": [
+    "Comment savoir si mon site est pénalisé par Google ?",
+    "Combien de temps faut-il pour se remettre d'une pénalité Google ?",
+    "Qu'est-ce que l'algorithme Google Panda ?",
+    "Comment faire une demande de réexamen à Google ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 900,
+  "category": "Popularité"
+}

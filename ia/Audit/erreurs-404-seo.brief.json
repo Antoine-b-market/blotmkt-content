@@ -1,0 +1,70 @@
+{
+  "keyword": "Erreurs 404 SEO",
+  "intention": "informationnelle",
+  "titre_h1": "Erreurs 404 et seo : le guide pour les identifier et les corriger efficacement",
+  "meta_description": "Découvrez l'impact réel des erreurs 404 sur votre SEO. Apprenez à les trouver via la Search Console et à décider quand utiliser une redirection 301 ou un code 410.",
+  "angle_editorial": "L'approche stratégique : toutes les erreurs 404 ne se valent pas. Apprendre à distinguer celles qui nécessitent une action immédiate (redirection 301) de celles qu'il est préférable de laisser en 404 ou de passer en 410 pour optimiser son budget de crawl et son SEO.",
+  "query_fanout": [
+    "Qu'est-ce qu'une erreur 404 et quel est son impact réel sur le SEO ?",
+    "Comment identifier les erreurs 404 qui pénalisent mon site web ?",
+    "Quelle est la différence stratégique entre une erreur 404, un code 410 et une redirection 301 ?",
+    "Quelles sont les meilleures pratiques pour corriger les erreurs 404 et préserver le 'jus de lien' ?"
+  ],
+  "structure": [
+    {
+      "h2": "Comprendre l'erreur 404 : mythes et réalités de son impact SEO",
+      "points_cles": [
+        "Définition d'un code HTTP 404 : une réponse standard indiquant que le serveur n'a pas trouvé la ressource demandée.",
+        "Impact indirect sur le SEO : une 404 isolée n'est pas pénalisante, mais un grand nombre peut signaler un site mal entretenu.",
+        "Conséquences sur l'expérience utilisateur (UX) : frustration, perte de confiance et augmentation du taux de rebond.",
+        "Effet sur le budget de crawl : Google peut gaspiller des ressources à crawler des URL sans issue, au détriment de vos pages importantes."
+      ]
+    },
+    {
+      "h2": "Comment trouver les erreurs 404 avec Google Search Console et d'autres outils",
+      "points_cles": [
+        "Utiliser le rapport 'Couverture' (section 'Exclues' ou 'Erreur') dans la Google Search Console pour lister les URL en 404 connues de Google.",
+        "Analyser le rapport 'Statistiques de crawl' pour voir la répartition des codes de réponse et détecter une augmentation anormale des 404.",
+        "Lancer un crawl complet de votre site avec des outils comme Screaming Frog SEO Spider pour identifier les liens internes brisés menant à des 404.",
+        "Utiliser des outils d'analyse de backlinks (ex: Ahrefs, Semrush) pour trouver des liens externes pointant vers des pages qui n'existent plus sur votre site (les 404 les plus importantes à corriger)."
+      ]
+    },
+    {
+      "h2": "404, 410 ou redirection 301 : choisir la bonne solution pour chaque cas",
+      "points_cles": [
+        "La redirection 301 (permanente) : à utiliser IMPÉRATIVEMENT si une page de remplacement très pertinente existe. Elle transfère l'essentiel de l'autorité (jus de lien).",
+        "Le code 404 (non trouvée) : la bonne réponse si la page n'a jamais existé ou si sa suppression est temporaire. C'est un signal neutre.",
+        "Le code 410 (définitivement supprimée) : un signal plus fort que la 404. Indique à Google que la page est partie pour de bon et ne doit plus être crawlée, ce qui peut accélérer sa désindexation.",
+        "La règle d'or : ne JAMAIS rediriger en masse toutes les 404 vers la page d'accueil. C'est considéré comme une 'soft 404' et nuit à l'UX."
+      ]
+    },
+    {
+      "h2": "Stratégies avancées : transformer les pages 404 en opportunités SEO",
+      "points_cles": [
+        "Créer une page 404 personnalisée : elle doit être utile, avec un moteur de recherche, des liens vers les sections populaires, et un message clair et humain.",
+        "Prioriser la correction : concentrez-vous d'abord sur les 404 qui reçoivent du trafic ou qui ont des backlinks de qualité.",
+        "Monitoring et proactivité : mettre en place des alertes pour être notifié des nouvelles erreurs 404 et les traiter rapidement, notamment après une migration de site.",
+        "Analyse des logs serveur : identifier les sources de trafic vers les pages 404 pour comprendre les parcours utilisateurs brisés et les corriger à la source."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "code 404",
+    "redirection 301",
+    "Google Search Console",
+    "page non trouvée",
+    "jus de lien",
+    "budget de crawl",
+    "code 410",
+    "lien brisé"
+  ],
+  "questions_paa": [
+    "Est-ce que les erreurs 404 sont mauvaises pour le SEO ?",
+    "Comment corriger une erreur 404 dans la Search Console ?",
+    "Faut-il rediriger toutes les pages 404 vers la page d'accueil ?",
+    "Quelle est la différence entre une erreur 404 et une erreur 500 ?"
+  ],
+  "ton": "expert|pedagogique|pratique",
+  "longueur_cible": 900,
+  "category": "Audit"
+}

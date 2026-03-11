@@ -1,0 +1,68 @@
+{
+  "keyword": "NAP SEO local",
+  "intention": "informationnelle",
+  "titre_h1": "NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA",
+  "meta_description": "Découvrez l'importance cruciale du NAP (Nom, Adresse, Téléphone) pour votre SEO local et le GEO. Apprenez à garantir sa cohérence pour dominer le pack local.",
+  "angle_editorial": "Présenter le NAP non seulement comme un pilier du SEO local traditionnel, mais aussi comme un facteur fondamental et prérequis pour le GEO (Generative Engine Optimization), en expliquant comment sa cohérence influence directement la visibilité dans les réponses des IA et les listes 'best of'.",
+  "query_fanout": [
+    "Qu'est-ce que le NAP en SEO local et pourquoi est-il fondamental pour la confiance ?",
+    "Comment auditer et corriger les incohérences de son NAP sur internet ?",
+    "Quel est l'impact du NAP sur la visibilité auprès des IA (GEO) et le classement dans les listes 'best of' ?",
+    "Au-delà du NAP, quels autres signaux locaux (schémas, avis, citations) faut-il intégrer ?"
+  ],
+  "structure": [
+    {
+      "h2": "Définition : qu'est-ce que le NAP et pourquoi est-il le pilier de votre SEO local ?",
+      "points_cles": [
+        "Acronyme pour Name, Address, Phone (Nom, Adresse, Téléphone), la carte d'identité numérique de votre entreprise locale.",
+        "Le NAP est le premier signal de confiance pour Google et les IA : la cohérence prouve que votre entreprise est légitime et opérationnelle.",
+        "Impact direct sur le classement dans le Pack Local de Google et sur Google Maps.",
+        "Illustrer la différence de perception entre un NAP 100% cohérent et un NAP avec des variations (ex: 'Rue' vs 'R.', 'Sarl' vs 'SARL')."
+      ]
+    },
+    {
+      "h2": "La méthode pratique pour auditer et garantir la cohérence de votre NAP",
+      "points_cles": [
+        "Étape 1 : Définir une version canonique unique de votre NAP et la documenter.",
+        "Étape 2 : Auditer les plateformes majeures (Google Business Profile, Yelp, Apple Maps, Pages Jaunes) et les annuaires spécialisés.",
+        "Utilisation d'outils de 'listing management' pour synchroniser les données en masse et éviter les erreurs manuelles.",
+        "Processus à mettre en place en cas de déménagement ou de changement de numéro pour une mise à jour rapide et universelle."
+      ]
+    },
+    {
+      "h2": "NAP et GEO : préparez votre visibilité pour les moteurs génératifs",
+      "points_cles": [
+        "Expliquer que les LLMs (IA) se basent sur des données structurées et consistantes pour générer des recommandations locales fiables.",
+        "Un NAP cohérent est le facteur n°1 pour être inclus dans les listes 'meilleurs de' générées par l'IA (selon le rapport Whitespark).",
+        "La cohérence du NAP renforce l'entité de votre entreprise, la rendant plus facilement identifiable et crédible pour les IA.",
+        "Lier directement un NAP fiable à un volume et une qualité d'avis plus élevés, un autre signal crucial pour le GEO."
+      ]
+    },
+    {
+      "h2": "Stratégie avancée : enrichir votre NAP avec schémas et signaux de confiance",
+      "points_cles": [
+        "Implémenter le schéma 'LocalBusiness' avec toutes les propriétés : geo (coordonnées GPS), openingHours, priceRange, areaServed.",
+        "Développer une stratégie de 'citations locales' : obtenir des mentions de votre NAP sur des sites d'autorité locaux (blogs, presse, associations).",
+        "Intégrer des photos originales et géolocalisées de vos locaux, de votre équipe et de vos réalisations pour ajouter des preuves visuelles.",
+        "Créer des pages 'Emplacement' uniques sur votre site, mentionnant des repères locaux, des témoignages spécifiques et des informations réglementaires locales."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "cohérence NAP",
+    "citations SEO local",
+    "optimisation Google Business Profile",
+    "schema LocalBusiness",
+    "référencement géolocalisé",
+    "GEO local"
+  ],
+  "questions_paa": [
+    "Comment corriger son NAP sur Google ?",
+    "Quels sont les meilleurs outils pour gérer son NAP ?",
+    "Est-ce que le NAP est important pour une entreprise de services à domicile ?",
+    "Une erreur dans le NAP peut-elle vraiment pénaliser mon référencement ?"
+  ],
+  "ton": "expert et pédagogique",
+  "longueur_cible": 900,
+  "category": "Local SEO"
+}

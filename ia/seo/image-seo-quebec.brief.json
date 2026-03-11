@@ -1,0 +1,63 @@
+{
+  "keyword": "Image SEO Québec",
+  "intention": "informationnelle",
+  "titre_h1": "Image SEO Québec : optimiser pour Google et les IA",
+  "meta_description": "Boostez votre visibilité au Québec grâce à l'Image SEO. Découvrez nos techniques pour que vos images soient comprises par Google et citées par les IA (GEO).",
+  "angle_editorial": "Une approche experte et personnalisée pour le Québec, qui traite l'Image SEO non seulement comme un levier de trafic traditionnel, mais aussi comme un actif stratégique pour être référencé et cité par les intelligences artificielles (GEO). L'accent est mis sur des actions concrètes et le ROI local.",
+  "query_fanout": [
+    "Qu'est-ce que l'Image SEO et pourquoi est-ce crucial pour une entreprise au Québec ?",
+    "Quelles sont les étapes concrètes pour optimiser ses images pour le SEO local et l'IA ?",
+    "Combien coûte une stratégie d'Image SEO au Québec et quel retour sur investissement (ROI) peut-on espérer ?",
+    "Comment l'optimisation d'images influence-t-elle la visibilité sur Google Lens et les réponses des IA ?"
+  ],
+  "structure": [
+    {
+      "h2": "L'Image SEO : un levier de visibilité essentiel au Québec",
+      "points_cles": [
+        "Définition de l'Image SEO : optimisation des attributs (alt, nom de fichier), de la taille et du contexte sémantique des images.",
+        "Importance pour le marché québécois : capturer le trafic de Google Images, améliorer le classement dans le pack local (Google Maps) pour les commerces de proximité (restaurants, boutiques).",
+        "Impact sur l'expérience utilisateur (UX) : des images rapides à charger réduisent le taux de rebond, un facteur de classement clé."
+      ]
+    },
+    {
+      "h2": "Méthode : optimiser vos images pour le SEO local et les IA",
+      "points_cles": [
+        "Processus étape par étape : recherche de mots-clés, nommage de fichiers descriptif (ex: 'poutine-fromagerie-victoria-quebec.jpg'), compression sans perte de qualité.",
+        "Rédaction de l'attribut 'alt' : doit être descriptif pour l'accessibilité et contenir le mot-clé principal de manière naturelle. C'est la source principale pour les IA.",
+        "Implémentation des données structurées (Schema.org) type 'ImageObject' pour donner un contexte maximal aux moteurs de recherche et aux LLMs."
+      ]
+    },
+    {
+      "h2": "Coûts et ROI d'une stratégie Image SEO au Québec",
+      "points_cles": [
+        "Modèles de tarification : audit ponctuel, optimisation par lot d'images, ou intégration dans une stratégie SEO mensuelle.",
+        "Facteurs influençant le coût : volume d'images à traiter, complexité technique du site (CMS), niveau de compétition sur les mots-clés visuels.",
+        "Mesure du ROI : suivi du trafic provenant de Google Images dans Google Analytics, amélioration des positions sur des requêtes locales, augmentation des conversions attribuables aux pages produits mieux illustrées."
+      ]
+    },
+    {
+      "h2": "Au-delà de Google : l'impact de l'Image SEO sur la recherche visuelle et l'IA (GEO)",
+      "points_cles": [
+        "Le rôle dans la recherche visuelle : optimisation pour Google Lens, permettant aux utilisateurs de rechercher à partir d'une image et de trouver vos produits ou services.",
+        "Préparer les actifs pour les IA (Generative Engine Optimization) : des images bien décrites et contextualisées deviennent des sources fiables citées dans les réponses des LLMs.",
+        "Avantage concurrentiel futur : structurer aujourd'hui vos actifs visuels vous assure une meilleure visibilité dans les écosystèmes de recherche de demain."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "optimisation image Montréal",
+    "référencement visuel Canada",
+    "agence SEO images Québec",
+    "attribut alt SEO",
+    "Google Lens optimisation",
+    "GEO Québec"
+  ],
+  "questions_paa": [
+    "Comment rédiger un texte alternatif (alt text) efficace ?",
+    "Quelle est la taille idéale d'une image pour un site web en 2024 ?",
+    "Faut-il utiliser le format WebP pour ses images au Québec ?"
+  ],
+  "ton": "expert|pédagogique|pratique",
+  "longueur_cible": 900,
+  "category": "seo"
+}

@@ -1,0 +1,65 @@
+{
+  "keyword": "Audit SEO Montréal",
+  "intention": "commerciale",
+  "titre_h1": "Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux",
+  "meta_description": "Besoin d'un audit SEO à Montréal ? Découvrez notre analyse complète (technique, contenu, backlinks) pour améliorer votre classement et attirer plus de clients.",
+  "angle_editorial": "Un audit SEO spécifiquement adapté aux réalités du marché montréalais, combinant expertise technique et connaissance locale pour un impact maximal sur votre visibilité.",
+  "query_fanout": [
+    "Qu'est-ce qu'un audit SEO et en quoi est-il spécifique au marché de Montréal ?",
+    "Combien coûte un audit SEO à Montréal et quel est son retour sur investissement ?",
+    "Quelles sont les étapes clés d'un audit de référencement efficace réalisé par un expert ?",
+    "Agence SEO vs consultant indépendant à Montréal : qui choisir pour mon audit ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce qu'un audit SEO et sa spécificité pour Montréal ?",
+      "points_cles": [
+        "Définition : un diagnostic complet sur 3 piliers (technique, sémantique, popularité) pour identifier les freins et opportunités.",
+        "Contexte local : analyse de la performance sur Google.ca, prise en compte des specificités linguistiques (français québécois).",
+        "Importance du GEO : évaluation de la stratégie de référencement local (Google Business Profile, citations locales, avis clients)."
+      ]
+    },
+    {
+      "h2": "Le coût et le ROI d'un audit SEO à Montréal",
+      "points_cles": [
+        "Facteurs de prix : taille et complexité du site, profondeur de l'analyse, niveau de concurrence sur le marché montréalais.",
+        "Fourchettes de prix : comparaison des tarifs entre un freelance, un consultant expert et une agence à Montréal.",
+        "Calcul du retour sur investissement (ROI) : projection des gains via l'augmentation du trafic qualifié, l'amélioration des taux de conversion et l'acquisition de parts de marché."
+      ]
+    },
+    {
+      "h2": "Les étapes clés de notre méthodologie d'audit",
+      "points_cles": [
+        "Phase 1 - Technique : crawl complet, analyse de l'indexabilité, vitesse de chargement, compatibilité mobile, données structurées.",
+        "Phase 2 - Sémantique : audit de mots-clés, analyse de l'architecture, optimisation du contenu et du maillage interne.",
+        "Phase 3 - Popularité : analyse du profil de backlinks (netlinking), évaluation de l'autorité du domaine et benchmark concurrentiel.",
+        "Livrable : un rapport d'audit clair avec un plan d'action concret et priorisé (quick wins, actions de fond)."
+      ]
+    },
+    {
+      "h2": "Pourquoi choisir un consultant SEO expert plutôt qu'une agence à Montréal ?",
+      "points_cles": [
+        "Accès direct à l'expertise : communication fluide et directe avec le spécialiste qui réalise l'audit, sans intermédiaire.",
+        "Stratégie sur-mesure : une approche personnalisée et flexible, adaptée à votre réalité d'affaires, loin des solutions standardisées.",
+        "Rapport qualité-prix optimisé : vous payez pour l'expertise et le temps passé, pas pour les frais de structure d'une grande agence."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "consultant SEO Montréal",
+    "agence SEO Montréal",
+    "analyse SEO site web",
+    "prix audit SEO",
+    "référencement local Montréal",
+    "expert SEO Montréal"
+  ],
+  "questions_paa": [
+    "Quel est le prix d'un audit SEO ?",
+    "Comment faire un bon audit SEO ?",
+    "Pourquoi faire un audit de site web ?",
+    "Comment savoir si mon site est bien référencé sur Google ?"
+  ],
+  "ton": "expert|pedagogique|pratique",
+  "longueur_cible": 900,
+  "category": "Audit"
+}

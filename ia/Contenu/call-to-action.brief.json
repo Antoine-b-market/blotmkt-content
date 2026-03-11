@@ -1,0 +1,60 @@
+{
+  "keyword": "Call to action",
+  "intention": "informationnelle",
+  "titre_h1": "Call to action : le guide complet pour créer des cta qui convertissent",
+  "meta_description": "Un call to action (CTA) efficace est la clé de la conversion. Apprenez à le rédiger grâce à nos exemples concrets et nos conseils d'experts. Lisez le guide !",
+  "angle_editorial": "Approche psychologique et orientée data : au-delà des exemples, comprendre pourquoi un CTA fonctionne et comment mesurer son impact réel sur la conversion.",
+  "query_fanout": [
+    "Qu'est-ce qu'un call to action et quel est son rôle dans le parcours client ?",
+    "Quels sont les éléments clés pour concevoir un CTA visuellement attractif et efficace (couleur, forme, texte) ?",
+    "Quels sont les meilleurs exemples de call to action par secteur d'activité (e-commerce, B2B, blog) ?",
+    "Comment A/B tester ses call to action pour améliorer le taux de conversion ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce qu'un call to action (CTA) ?",
+      "points_cles": [
+        "Définition : un bouton ou un lien incitant à une action immédiate.",
+        "Rôle dans l'entonnoir de conversion : guider l'utilisateur vers la prochaine étape.",
+        "Différence entre un simple lien hypertexte et un CTA optimisé."
+      ]
+    },
+    {
+      "h2": "Anatomie d'un CTA performant : design et copywriting",
+      "points_cles": [
+        "Le choix du verbe d'action : privilégier les verbes impératifs et engageants.",
+        "La psychologie des couleurs : impact du contraste et des émotions associées.",
+        "L'importance du placement et de la visibilité sur la page."
+      ]
+    },
+    {
+      "h2": "Exemples concrets de call to action qui convertissent",
+      "points_cles": [
+        "CTA pour l'e-commerce : 'Ajouter au panier', 'Acheter maintenant'.",
+        "CTA en B2B : 'Demander une démo', 'Télécharger le livre blanc'.",
+        "CTA pour la génération de leads : 'S'inscrire à notre newsletter', 'Obtenir mon devis gratuit'."
+      ]
+    },
+    {
+      "h2": "Mesurer et optimiser : l'A/B testing de vos CTA",
+      "points_cles": [
+        "Principes de l'A/B testing pour les call to action.",
+        "Indicateurs clés à suivre : taux de clic (CTR) et taux de conversion.",
+        "Outils simples pour mettre en place des tests et itérer en continu."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "bouton d'appel à l'action",
+    "exemple cta",
+    "cta marketing",
+    "optimiser son cta"
+  ],
+  "questions_paa": [
+    "Quels sont les meilleurs exemples de call to action ?",
+    "Comment rédiger un CTA qui incite au clic ?"
+  ],
+  "ton": "pédagogique",
+  "longueur_cible": 900,
+  "category": "Contenu"
+}

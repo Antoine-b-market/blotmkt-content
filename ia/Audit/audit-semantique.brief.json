@@ -1,0 +1,65 @@
+{
+  "keyword": "Audit sémantique",
+  "intention": "informationnelle",
+  "titre_h1": "Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche",
+  "meta_description": "Découvrez comment réaliser un audit sémantique efficace. Notre guide complet couvre la méthode, les outils, le coût et le ROI pour booster votre stratégie SEO.",
+  "angle_editorial": "L'approche hybride : combiner l'analyse data et l'intelligence artificielle (LLM) pour un audit sémantique qui identifie les opportunités de contenu et les intentions cachées derrière les requêtes.",
+  "query_fanout": [
+    "Qu'est-ce qu'un audit sémantique et pourquoi est-il essentiel en SEO ?",
+    "Quelles sont les étapes clés pour réaliser un audit sémantique efficace ?",
+    "Combien coûte un audit sémantique et quel retour sur investissement (ROI) peut-on en attendre ?",
+    "Quand faut-il privilégier un audit sémantique par rapport à un audit de contenu classique ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce qu'un audit sémantique : au-delà des mots-clés",
+      "points_cles": [
+        "Définition : analyse approfondie des thématiques, des entités et des intentions de recherche couvrant un domaine d'activité, et pas seulement des mots-clés.",
+        "Objectif principal : identifier les 'content gaps' (contenus manquants) et les opportunités pour aligner la stratégie de contenu sur les attentes des utilisateurs et les objectifs business.",
+        "Différence fondamentale avec l'audit de mots-clés : l'audit sémantique se concentre sur les concepts et les relations entre eux pour construire une autorité thématique."
+      ]
+    },
+    {
+      "h2": "La méthode en 4 étapes pour un audit sémantique performant",
+      "points_cles": [
+        "1. Extraction & Crawl : Collecte exhaustive des URLs, des contenus existants et des données de la SERP (Search Engine Results Page) sur votre périmètre.",
+        "2. Mapping des intentions : Classification de chaque requête ou groupe de requêtes selon l'intention de l'utilisateur (informationnelle, commerciale, transactionnelle, navigationnelle).",
+        "3. Clusterisation thématique : Regroupement des mots-clés et des contenus en 'clusters' thématiques pour visualiser la couverture actuelle et identifier les manques.",
+        "4. Plan d'action priorisé : Création d'une feuille de route claire listant les contenus à créer, optimiser, ou consolider pour maximiser l'impact SEO."
+      ]
+    },
+    {
+      "h2": "Coût et ROI : l'audit sémantique, un investissement stratégique",
+      "points_cles": [
+        "Facteurs influençant le prix : taille du site web, complexité du secteur d'activité, profondeur de l'analyse et outils spécialisés utilisés (ex: YourTextGuru, Semrush, Ahrefs).",
+        "Retour sur Investissement (ROI) mesurable : augmentation du trafic qualifié, amélioration du taux de clics (CTR) grâce à des titres pertinents, et meilleur positionnement sur un large éventail de requêtes longue traîne.",
+        "Impact business direct : capture de prospects à différents stades du tunnel de conversion en répondant précisément à leurs questions."
+      ]
+    },
+    {
+      "h2": "Audit sémantique vs audit de contenu : quand et pourquoi choisir ?",
+      "points_cles": [
+        "Complémentarité : l'audit de contenu évalue la performance de l'existant (qualité, maillage, cannibalisations), tandis que l'audit sémantique se concentre sur les opportunités et la stratégie future.",
+        "Cas d'usage pour l'audit sémantique : refonte de site, lancement d'une nouvelle offre, conquête d'un nouveau marché ou lorsque le trafic organique stagne.",
+        "Le signal pour agir : si votre contenu est techniquement parfait mais ne génère pas de trafic, un audit sémantique est probablement la clé pour débloquer la situation."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "analyse sémantique SEO",
+    "stratégie de contenu",
+    "intention de recherche",
+    "cocon sémantique",
+    "content gap",
+    "optimisation sémantique"
+  ],
+  "questions_paa": [
+    "Quels outils pour réaliser un audit sémantique ?",
+    "Comment analyser la sémantique d'un site web ?",
+    "C'est quoi un 'content gap' en SEO ?",
+    "Comment définir une stratégie de contenu SEO ?"
+  ],
+  "ton": "pratique",
+  "longueur_cible": 900,
+  "category": "Audit"
+}

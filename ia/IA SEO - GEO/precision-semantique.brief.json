@@ -1,0 +1,69 @@
+{
+  "keyword": "Précision sémantique",
+  "intention": "informationnelle",
+  "titre_h1": "Précision sémantique : le guide pour optimiser votre contenu pour les LLM et le GEO",
+  "meta_description": "Découvrez ce qu'est la précision sémantique et son rôle crucial en GEO. Allez au-delà des mots-clés pour atteindre la dominance sémantique.",
+  "angle_editorial": "Aborder la précision sémantique non comme une technique SEO de plus, mais comme le pilier fondamental du GEO (Generative Engine Optimization). L'objectif est de passer d'une logique de mots-clés à une logique de contextes et d'entités pour devenir une source d'autorité pour les IA génératives.",
+  "query_fanout": [
+    "Qu'est-ce que la précision sémantique et en quoi diffère-t-elle de la densité de mots-clés ?",
+    "Comment la précision sémantique impacte-t-elle le classement SEO et la visibilité dans les réponses génératives (GEO) ?",
+    "Quelles méthodes et outils utiliser pour analyser et améliorer la précision sémantique d'un contenu ?",
+    "Quel est le lien entre la précision sémantique et la stratégie de dominance sémantique ?"
+  ],
+  "structure": [
+    {
+      "h2": "Définition : au-delà du mot-clé, la pertinence du contexte",
+      "points_cles": [
+        "Expliquer la précision sémantique comme l'alignement parfait entre le contenu d'une page et l'intention de recherche complète et nuancée de l'utilisateur.",
+        "Contraster avec l'ancienne approche de la densité de mots-clés (quantitatif vs qualitatif).",
+        "Introduire le rôle des entités nommées, des attributs et des relations que les LLM utilisent pour comprendre le monde réel.",
+        "Souligner que c'est la capacité à répondre non seulement à la question posée, mais aussi aux questions implicites."
+      ]
+    },
+    {
+      "h2": "L'impact sur le SEO et le GEO : pourquoi est-ce crucial aujourd'hui ?",
+      "points_cles": [
+        "Bénéfices SEO directs : meilleur classement sur la longue traîne, augmentation du temps de session, signaux utilisateurs positifs (pogo sticking réduit).",
+        "Importance capitale pour le GEO : un contenu sémantiquement précis a plus de chances d'être utilisé comme source par les IA (SGE, Copilot, etc.).",
+        "Amélioration de l'autorité thématique : chaque page précise renforce la crédibilité du domaine entier.",
+        "Capacité à capturer les 'featured snippets' et autres positions zéro grâce à des réponses claires et contextuelles."
+      ]
+    },
+    {
+      "h2": "Méthodologie : auditer et optimiser votre précision sémantique",
+      "points_cles": [
+        "Présenter des outils d'analyse sémantique (ex: YourTextGuru, 1.fr, SurferSEO) pour identifier le champ lexical attendu et les lacunes.",
+        "Décrire le processus : analyse de la SERP pour comprendre l'intention, identification des entités clés, structuration du contenu autour de ces concepts.",
+        "Mentionner l'importance du maillage interne contextuel pour relier les concepts entre eux.",
+        "Insister sur l'utilisation des données structurées (Schema.org) pour expliciter les relations sémantiques aux moteurs de recherche."
+      ]
+    },
+    {
+      "h2": "De la précision à la dominance sémantique : une stratégie d'autorité",
+      "points_cles": [
+        "Connecter le concept de précision sémantique (niveau micro, par page) à la dominance sémantique (niveau macro, par thématique).",
+        "Définir la dominance sémantique comme la stratégie de couvrir intégralement un sujet, en traitant tous ses sous-thèmes avec une grande précision.",
+        "Illustrer avec un exemple : un site sur le vin qui traite non seulement des cépages, mais aussi des terroirs, des accords, de la vinification, etc.",
+        "Conclure que la précision sémantique est la brique élémentaire qui permet de construire une forteresse d'autorité et de devenir la référence incontournable."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "optimisation sémantique",
+    "intention de recherche",
+    "dominance sémantique",
+    "entités nommées",
+    "GEO",
+    "champ lexical",
+    "maillage sémantique"
+  ],
+  "questions_paa": [
+    "Comment savoir si mon contenu est sémantiquement riche ?",
+    "Quels outils pour l'analyse sémantique SEO ?",
+    "Quelle est la différence entre SEO sémantique et SEO classique ?",
+    "Comment Google utilise-t-il la sémantique pour le classement ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 900,
+  "category": "IA SEO - GEO"
+}

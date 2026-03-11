@@ -1,0 +1,69 @@
+{
+  "keyword": "Backlink de qualité",
+  "intention": "informationnelle",
+  "titre_h1": "Backlink de qualité : le guide pour acquérir des liens qui renforcent votre E-E-A-T",
+  "meta_description": "Découvrez ce qu'est un backlink de qualité, comment l'obtenir via des stratégies efficaces et son impact réel sur votre SEO. Boostez votre autorité en 2024.",
+  "angle_editorial": "Approche stratégique du netlinking axée non pas sur la quantité, mais sur la pertinence thématique et l'alignement avec les signaux E-E-A-T de Google. Démystifier le coût et le ROI pour une stratégie durable.",
+  "query_fanout": [
+    "Qu'est-ce qu'un backlink de qualité et comment le différencier d'un mauvais lien ?",
+    "Quelles sont les méthodes les plus efficaces pour obtenir des backlinks de qualité ?",
+    "Combien coûte un backlink de qualité et quel est le retour sur investissement (ROI) attendu ?",
+    "Comment les backlinks impactent-ils l'E-E-A-T d'un site et existent-ils des alternatives ?"
+  ],
+  "structure": [
+    {
+      "h2": "Définition : qu'est-ce qui caractérise un backlink de qualité ?",
+      "points_cles": [
+        "La pertinence thématique : le lien provient d'un site traitant d'un sujet similaire ou complémentaire.",
+        "L'autorité du domaine référent : le site source possède une forte crédibilité et un bon profil de liens (ex: score DR/DA élevé).",
+        "Le contexte du lien : il est intégré naturellement dans le contenu, entouré d'un texte sémantiquement riche.",
+        "L'alignement E-E-A-T : le site source démontre une expertise, une autorité et une fiabilité reconnues dans son domaine."
+      ]
+    },
+    {
+      "h2": "Stratégies éprouvées pour acquérir des liens puissants",
+      "points_cles": [
+        "Le guest-blogging ciblé : rédiger des articles invités sur des sites experts pour obtenir un lien contextuel.",
+        "Le link building sur liens cassés (broken link building) : identifier des liens morts sur des sites d'autorité et proposer votre contenu en remplacement.",
+        "Les relations presse digitales (Digital PR) : créer des contenus à forte valeur ajoutée (études, infographies) pour attirer l'attention des médias.",
+        "Le Skyscraper ou la création de contenu de référence : produire un contenu 10x meilleur que celui qui existe déjà et le promouvoir auprès des sites qui lient vers les anciennes versions."
+      ]
+    },
+    {
+      "h2": "Coût et ROI : investir intelligemment dans le netlinking",
+      "points_cles": [
+        "Analyse des facteurs de coût : l'autorité du site, la pertinence, la méthode d'obtention et le type de contenu influencent le prix.",
+        "Différence entre l'achat de liens (risqué) et l'investissement dans une stratégie de contenu et de diffusion (durable).",
+        "Mesurer le ROI : suivre l'évolution des classements sur les mots-clés cibles, l'augmentation du trafic référent et la croissance de l'autorité globale du domaine.",
+        "Un backlink de qualité n'est pas une dépense mais un investissement dans un actif digital qui prend de la valeur."
+      ]
+    },
+    {
+      "h2": "Au-delà du lien : synergie avec l'E-E-A-T et alternatives",
+      "points_cles": [
+        "Un backlink d'un site expert est un vote de confiance qui transfère une partie de son E-E-A-T à votre site.",
+        "Alternative n°1 : développer une marque forte. Les mentions de marque, même sans lien, sont des signaux de notoriété pour les moteurs de recherche.",
+        "Alternative n°2 : le SEO on-page irréprochable et la création d'un maillage interne puissant pour distribuer l'autorité à travers votre propre site.",
+        "La synergie est la clé : une excellente stratégie de contenu interne facilite l'acquisition de backlinks de qualité, créant un cercle vertueux."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "stratégie de netlinking",
+    "obtenir des backlinks",
+    "profil de liens",
+    "autorité de domaine",
+    "jus de lien",
+    "link building",
+    "backlink SEO"
+  ],
+  "questions_paa": [
+    "Comment vérifier la qualité d'un backlink ?",
+    "Est-ce que l'achat de backlinks est pénalisé par Google ?",
+    "Combien de backlinks faut-il pour être premier sur Google ?",
+    "Quelle est la différence entre un lien nofollow et dofollow ?"
+  ],
+  "ton": "expert|pedagogique|pratique",
+  "longueur_cible": 900,
+  "category": "Définition"
+}

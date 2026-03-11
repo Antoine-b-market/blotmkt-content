@@ -1,0 +1,69 @@
+{
+  "keyword": "Audit site Web",
+  "intention": "informationnelle",
+  "titre_h1": "Audit de site web : le guide complet pour un diagnostic SEO actionnable",
+  "meta_description": "Découvrez ce qu'est un audit de site web, ses piliers (technique, contenu) et comment il booste votre visibilité. Le point de départ de toute stratégie SEO.",
+  "angle_editorial": "Approche pragmatique et orientée ROI. L'article ne se contente pas de lister les points de contrôle, il explique comment transformer un diagnostic technique et sémantique en un plan d'action priorisé pour maximiser la performance et justifier l'investissement.",
+  "query_fanout": [
+    "Qu'est-ce qu'un audit de site web et pourquoi est-il crucial pour le SEO ?",
+    "Quels sont les piliers d'un audit de site web complet ?",
+    "Combien coûte un audit de site web et quel retour sur investissement espérer ?",
+    "Comment réaliser un audit de site web : outils ou agence spécialisée ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce qu'un audit de site web et pourquoi est-il crucial pour le SEO ?",
+      "points_cles": [
+        "Définition : un état des lieux complet de la santé d'un site web vis-à-vis des moteurs de recherche et des utilisateurs.",
+        "Objectif principal : identifier les freins à la performance (techniques, sémantiques, popularité) et les opportunités de croissance inexploitées.",
+        "Importance stratégique : c'est la fondation de toute stratégie SEO. Sans audit, les actions sont menées à l'aveugle, gaspillant temps et budget.",
+        "Bénéfices directs : amélioration de l'indexation, de l'expérience utilisateur (UX), des classements et, in fine, des conversions."
+      ]
+    },
+    {
+      "h2": "Les piliers d'un audit de site web complet",
+      "points_cles": [
+        "L'audit d'infrastructure technique : garantir une base saine pour les robots et les utilisateurs. Analyse des signaux web essentiels (LCP, INP, CLS), du budget de crawl, du rendu JavaScript et de l'adaptabilité mobile.",
+        "L'audit sémantique et de contenus : s'assurer que le contenu répond aux intentions de recherche. Mapping des intentions (information, achat), détection de 'content gaps' et optimisation du CTR dans les SERPs.",
+        "L'audit de popularité (Off-page) : évaluer l'autorité et la confiance perçue par Google. Analyse du profil de backlinks (qualité vs quantité), des ancres de liens et des opportunités de netlinking.",
+        "La synthèse : la véritable valeur réside dans la corrélation des données issues de ces trois piliers pour créer un plan d'action cohérent."
+      ]
+    },
+    {
+      "h2": "Combien coûte un audit de site web et quel retour sur investissement espérer ?",
+      "points_cles": [
+        "Facteurs influençant le prix : la taille du site (nombre d'URLs), la complexité technique (framework JS, multilingue), la profondeur de l'analyse requise et la réputation du prestataire.",
+        "Fourchettes de prix : de quelques centaines d'euros pour un audit automatisé à plusieurs milliers pour une analyse manuelle approfondie par un consultant senior ou une agence.",
+        "Calcul du ROI : le retour sur investissement se mesure par l'augmentation du trafic organique qualifié, la hausse du nombre de leads ou de ventes, et l'amélioration du taux de conversion.",
+        "Vision d'investissement : un audit n'est pas un coût, mais un investissement. Il permet d'éviter des erreurs coûteuses et de prioriser les actions générant le plus d'impact business."
+      ]
+    },
+    {
+      "h2": "Comment réaliser un audit de site web : outils ou agence spécialisée ?",
+      "points_cles": [
+        "L'approche DIY (Do It Yourself) : utilisation d'outils comme Google Search Console, Screaming Frog, ou Ahrefs/Semrush. Idéal pour les petits sites et pour acquérir une compréhension de base.",
+        "Avantages des outils : coût réduit (voire gratuit), contrôle total sur le processus, apprentissage continu.",
+        "Limites de l'approche outillée : nécessite du temps, une forte expertise pour interpréter les données et une capacité à prioriser les actions sans biais.",
+        "Faire appel à un expert/agence : recommandé pour les sites complexes, les environnements concurrentiels ou pour obtenir un regard extérieur et une feuille de route stratégique claire et rapide."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "analyse SEO complète",
+    "audit technique SEO",
+    "audit sémantique",
+    "performance site web",
+    "prix audit SEO",
+    "check-list audit SEO",
+    "consultant SEO"
+  ],
+  "questions_paa": [
+    "Quels sont les 3 types d'audit SEO ?",
+    "Comment faire un bon audit SEO ?",
+    "Quel outil pour faire un audit de site web ?",
+    "Pourquoi faire un audit de son site internet ?"
+  ],
+  "ton": "pédagogique",
+  "longueur_cible": 900,
+  "category": "Stratégie"
+}

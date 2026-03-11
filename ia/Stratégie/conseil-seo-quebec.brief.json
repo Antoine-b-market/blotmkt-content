@@ -1,0 +1,91 @@
+{
+  "keyword": "Conseil SEO Québec",
+  "intention": "commerciale",
+  "titre_h1": "Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA",
+  "meta_description": "Expert en conseil SEO au Québec, nous structurons vos actifs numériques pour une visibilité optimale sur Google et les IA. Découvrez notre approche personnalisée et innovante.",
+  "angle_editorial": "Mettre en lumière une expertise unique en conseil SEO au Québec, allant au-delà de l'optimisation technique traditionnelle. L'angle sera la préparation proactive des actifs numériques pour une compréhension optimale par les moteurs de recherche classiques et une citation pertinente par les intelligences artificielles (GEO), le tout avec une approche personnalisée et locale.",
+  "query_fanout": [
+    "Qu'est-ce que le conseil SEO au Québec et pourquoi est-il essentiel aujourd'hui ?",
+    "Comment une approche SEO moderne intègre-t-elle l'optimisation pour les moteurs de recherche et les intelligences artificielles (GEO) ?",
+    "Quelles sont les spécificités d'un consultant SEO local face aux agences ou outils génériques ?",
+    "Quel est le retour sur investissement attendu d'un accompagnement en conseil SEO au Québec ?",
+    "Dans quels cas spécifiques une entreprise québécoise devrait-elle solliciter un conseil SEO expert et personnalisé ?"
+  ],
+  "structure": [
+    {
+      "h2": "Comprendre le conseil SEO au Québec : un levier essentiel pour votre croissance",
+      "points_cles": [
+        "Définition et rôle du conseil SEO dans le contexte numérique actuel.",
+        "L'importance cruciale d'une stratégie SEO adaptée au marché québécois (langue, culture, concurrence locale).",
+        "Pourquoi le SEO est un investissement fondamental pour toute entreprise souhaitant pérenniser sa présence en ligne et capter une audience qualifiée.",
+        "L'évolution des moteurs de recherche et l'impératif de s'adapter aux nouvelles attentes des utilisateurs."
+      ]
+    },
+    {
+      "h2": "L'approche GEO : structurer vos actifs pour les moteurs et les intelligences artificielles",
+      "points_cles": [
+        "Présentation de l'optimisation pour les générateurs (GEO) : une perspective au-delà du SEO traditionnel.",
+        "Comment préparer vos contenus pour être non seulement bien classés, mais aussi cités et utilisés par les LLM et les assistants IA.",
+        "L'importance de la structuration sémantique des données et de l'alignement sur l'intention utilisateur complexe.",
+        "Renforcer la pertinence et l'autorité de vos actifs numériques pour une compréhension optimale par les systèmes d'IA."
+      ]
+    },
+    {
+      "h2": "Pourquoi choisir un expert SEO local à Québec : l'avantage d'une expertise personnalisée",
+      "points_cles": [
+        "La valeur ajoutée d'une connaissance approfondie du marché, des comportements de recherche et de la concurrence locale québécoise.",
+        "Une approche sur mesure, loin des solutions génériques, centrée sur les objectifs spécifiques de votre entreprise.",
+        "La disponibilité et la proximité pour un accompagnement régulier et des ajustements stratégiques réactifs.",
+        "Différenciation avec les grandes agences ou les outils SaaS, offrant une expertise humaine et un suivi dédié."
+      ]
+    },
+    {
+      "h2": "Mesurer l'impact : le ROI du conseil SEO et les indicateurs clés de succès",
+      "points_cles": [
+        "Comment évaluer le retour sur investissement (ROI) d'une stratégie de conseil SEO.",
+        "Les métriques essentielles à suivre : trafic organique, conversions, positionnement des mots-clés, part de voix et visibilité IA.",
+        "Comprendre la valeur à long terme du SEO : un investissement durable versus la publicité payante.",
+        "Exemples concrets de succès et d'amélioration des performances après un accompagnement SEO personnalisé."
+      ]
+    },
+    {
+      "h2": "Quand solliciter un conseil SEO expert : cas d'usage pour les entreprises québécoises",
+      "points_cles": [
+        "Lancement ou refonte de site web : intégrer le SEO dès les premières étapes pour une base solide.",
+        "Stagnation du trafic ou perte de positionnement : identifier les blocages et élaborer un plan d'action correctif.",
+        "Expansion ou conquête de nouveaux marchés : adapter sa stratégie pour cibler de nouvelles audiences au Québec et au Canada.",
+        "Analyse concurrentielle et veille technologique : rester à la pointe des pratiques SEO et anticiper les évolutions des moteurs et des IA."
+      ]
+    },
+    {
+      "h2": "Au-delà de l'audit : l'accompagnement stratégique et la formation continue",
+      "points_cles": [
+        "L'importance d'un suivi régulier et d'une adaptation constante de la stratégie SEO face aux changements d'algorithmes et aux tendances IA.",
+        "La transmission de connaissances et la formation de vos équipes internes pour une autonomie progressive.",
+        "Mise en place d'outils de suivi et de reporting pour une transparence totale sur les performances.",
+        "Construire une relation de partenariat durable pour une optimisation continue et une croissance soutenue."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "audit SEO Québec",
+    "stratégie SEO Québec",
+    "référencement naturel Québec",
+    "expert SEO Montréal",
+    "optimisation pour l'IA",
+    "visibilité Google Québec",
+    "consultant SEO personnalisé",
+    "services SEO Canada",
+    "approche SEO moderne"
+  ],
+  "questions_paa": [
+    "Combien coûte un consultant SEO au Québec ?",
+    "Comment choisir le meilleur consultant SEO à Québec ?",
+    "Quels sont les avantages du SEO pour une PME québécoise ?",
+    "Faut-il prioriser le SEO ou la publicité payante au Québec ?",
+    "Qu'est-ce que l'optimisation pour les intelligences artificielles (GEO) en SEO ?"
+  ],
+  "ton": "expert|pedagogique|pratique",
+  "longueur_cible": 900,
+  "category": "Stratégie"
+}

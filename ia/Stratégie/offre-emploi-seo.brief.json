@@ -1,0 +1,86 @@
+{
+  "keyword": "Offre emploi SEO",
+  "intention": "transactionnelle",
+  "titre_h1": "Offre d'emploi SEO : trouvez votre prochain défi en référencement naturel",
+  "meta_description": "Découvrez les meilleures offres d'emploi SEO. Maîtrisez les compétences clés, salaires, et perspectives pour évoluer dans le monde du référencement.",
+  "angle_editorial": "Guider les professionnels du SEO (débutants ou expérimentés) dans leur recherche d'emploi, en leur fournissant une analyse approfondie du marché, des compétences attendues, des salaires et des stratégies pour se démarquer. Mettre en avant la spécificité des rôles SEO et GEO, notamment à Montréal, comme indiqué dans le contexte.",
+  "query_fanout": [
+    "Quels sont les différents types d'offres d'emploi SEO et les compétences requises ?",
+    "Comment optimiser sa recherche d'emploi SEO et où trouver les meilleures opportunités ?",
+    "Quelles sont les tendances salariales et les évolutions de carrière dans le SEO ?",
+    "Comment se préparer et se démarquer pour réussir un entretien d'embauche SEO ?",
+    "Quelle est la place du GEO dans les offres d'emploi SEO actuelles et futures ?"
+  ],
+  "structure": [
+    {
+      "h2": "Les profils d'emploi SEO recherchés : de consultant à responsable GEO",
+      "points_cles": [
+        "Définition des rôles courants dans le SEO : consultant SEO, chef de projet SEO, spécialiste SEO in-house, responsable marketing digital (avec forte composante SEO). Distinction des missions selon le type de structure (agence, PME, grand compte).",
+        "Analyse des compétences techniques et soft skills essentielles : audit technique (crawl, indexation, performance), optimisation on-page/off-page, stratégie de contenu, analyse de données, maîtrise des outils (SEMrush, Ahrefs, GSC, GA4, Screaming Frog), capacité à communiquer et collaborer avec d'autres équipes.",
+        "Focus sur l'émergence et l'importance des profils GEO (Generative Engine Optimization) : compréhension des spécificités des moteurs de recherche conversationnels, optimisation pour les snippets enrichis, les recherches vocales, et la recherche locale (ex: les enjeux spécifiques à Montréal pour le GEO sont mis en avant)."
+      ]
+    },
+    {
+      "h2": "Stratégies efficaces pour trouver votre offre d'emploi SEO idéale",
+      "points_cles": [
+        "Les canaux de recherche d'emploi privilégiés dans le SEO : plateformes généralistes (LinkedIn, Indeed), job boards spécialisés en marketing digital, réseaux professionnels, agences de recrutement spécialisées dans les métiers du web et du SEO.",
+        "Optimisation de votre CV et lettre de motivation pour le secteur du SEO : utilisation de mots-clés pertinents issus des offres, mise en avant des réalisations concrètes (ROI, croissance de trafic, conversions), personnalisation pour chaque poste, inclure une section sur les outils maîtrisés.",
+        "L'importance d'un portfolio pertinent et d'études de cas : démontrer son expertise par des exemples concrets de projets SEO réussis, qu'ils soient personnels ou professionnels. Inclure des exemples de projets GEO si applicable pour illustrer une compétence avant-gardiste.",
+        "Développer votre réseau professionnel : participation active à des événements SEO (conférences, meetups, webinaires), contribution à des communautés en ligne et sur les réseaux sociaux professionnels pour identifier des opportunités cachées."
+      ]
+    },
+    {
+      "h2": "Salaires et évolutions de carrière dans le secteur du SEO",
+      "points_cles": [
+        "Analyse des grilles salariales moyennes par niveau d'expérience (junior, confirmé, senior) et type de poste (consultant, manager, directeur) en SEO. Facteurs de variation régionaux (ex: salaires à Montréal versus Paris ou d'autres grandes villes).",
+        "Facteurs influençant la rémunération : localisation géographique, taille de l'entreprise (agence vs. grand groupe), niveau de spécialisation (SEO technique, SEO local, e-commerce, international), maîtrise de compétences rares (comme le GEO).",
+        "Perspectives d'évolution de carrière : passage de spécialiste à manager d'équipe, consultant SEO indépendant, expertise approfondie en GEO, progression vers des postes de directeur marketing digital ou d'acquisition.",
+        "L'impact de la demande croissante pour des compétences spécifiques, notamment en optimisation pour les moteurs génératifs et l'IA, sur la valorisation des profils et l'augmentation des salaires pour les experts."
+      ]
+    },
+    {
+      "h2": "Préparer un entretien d'embauche SEO : de la technique à la stratégie",
+      "points_cles": [
+        "Questions techniques fréquentes en entretien SEO : audits techniques, optimisation de balises (titre, meta description, Hn), architecture de site, gestion des pénalités Google, stratégies de netlinking, utilisation de Google Search Console et Google Analytics 4, données structurées.",
+        "Questions stratégiques : élaboration d'une stratégie SEO complète pour différents types d'entreprises, gestion de projet, définition des KPIs, reporting des performances, intégration du SEO dans une stratégie marketing globale et omnicanale.",
+        "Démontrer sa veille et sa capacité d'adaptation : connaissance des dernières mises à jour d'algorithmes (Google, Bing, IA), tendances du marché, innovations en GEO, capacité à apprendre rapidement et à s'adapter aux changements.",
+        "Mettre en avant vos soft skills : esprit d'équipe, proactivité, capacité à communiquer des concepts techniques complexes de manière simple, résolution de problèmes, créativité et sens de l'initiative."
+      ]
+    },
+    {
+      "h2": "L'avenir des offres d'emploi SEO : le rôle clé du GEO et de l'IA",
+      "points_cles": [
+        "L'intégration croissante de l'intelligence artificielle dans les moteurs de recherche et son impact transformateur sur le métier de référenceur : optimisation pour les réponses génératives, le 'zero-click content' et la recherche conversationnelle.",
+        "Les opportunités spécifiques au GEO : développement de nouvelles fonctions comme 'consultant SEO et GEO', optimisation pour les assistants vocaux, les cartes (Google Maps et autres), la gestion de la réputation locale et la 'place de marché' des LLM.",
+        "Adaptation des compétences : nécessité d'une veille technologique constante, de la formation continue aux nouveaux outils et approches de l'optimisation pour les moteurs génératifs. Anticiper les besoins futurs du marché de l'emploi SEO et GEO.",
+        "Comment les entreprises recherchent activement des profils capables de naviguer et d'innover dans ce nouvel écosystème du référencement, alliant maîtrise du SEO classique et expertise avant-gardiste en GEO."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "emploi référencement naturel",
+    "consultant SEO",
+    "carrière SEO",
+    "salaire SEO",
+    "recrutement SEO",
+    "métier SEO",
+    "spécialiste SEO",
+    "offre marketing digital",
+    "expert GEO",
+    "job SEO Montréal",
+    "opportunités SEO",
+    "futur du SEO"
+  ],
+  "questions_paa": [
+    "Quel est le salaire moyen d'un consultant SEO en France ou au Canada ?",
+    "Quelles sont les compétences essentielles pour un poste de spécialiste SEO ?",
+    "Comment rédiger un bon CV pour un emploi en référencement ?",
+    "Faut-il des certifications spécifiques pour travailler en SEO ?",
+    "Quelles sont les différences entre SEO technique et SEO éditorial ?",
+    "Comment intégrer l'expérience GEO dans ma candidature SEO ?",
+    "Quels sont les avantages de travailler en agence ou en interne pour un SEO ?"
+  ],
+  "ton": "pratique",
+  "longueur_cible": 900,
+  "category": "Stratégie"
+}

@@ -1,0 +1,64 @@
+{
+  "keyword": "Filtre Google",
+  "intention": "informationnelle",
+  "titre_h1": "Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité",
+  "meta_description": "Votre trafic SEO a chuté ? Découvrez ce qu'est un filtre Google, la différence avec une pénalité manuelle et comment utiliser la Search Console pour le corriger.",
+  "angle_editorial": "Un guide pratique et démystificateur pour les propriétaires de sites web, axé sur le diagnostic via les outils officiels (Search Console) et la mise en place d'un plan d'action concret pour sortir d'une pénalité algorithmique ou manuelle.",
+  "query_fanout": [
+    "Qu'est-ce qu'un filtre Google en SEO et comment impacte-t-il le classement d'un site ?",
+    "Quelle est la différence fondamentale entre un filtre algorithmique et une pénalité manuelle ?",
+    "Comment utiliser la Google Search Console pour diagnostiquer avec certitude si un site est pénalisé ?",
+    "Quelles sont les étapes et actions correctives pour lever un filtre Google et prévenir de futures sanctions ?"
+  ],
+  "structure": [
+    {
+      "h2": "Comprendre le filtre Google : une dévaluation algorithmique de votre site",
+      "points_cles": [
+        "Définition : un filtre n'est pas une suppression de l'index, mais un ajustement algorithmique qui dévalue les pages ou un site entier ne respectant pas les consignes de qualité de Google.",
+        "Impact : la conséquence directe est une perte de positions significative sur des mots-clés stratégiques, entraînant une chute brutale du trafic organique.",
+        "Objectif de Google : proposer des résultats pertinents et de qualité aux utilisateurs en écartant les sites usant de techniques de spam, de contenu de faible valeur ou d'optimisations abusives."
+      ]
+    },
+    {
+      "h2": "Filtre algorithmique vs. pénalité manuelle : savoir identifier l'ennemi",
+      "points_cles": [
+        "Le filtre algorithmique : une action automatique, à grande échelle, déclenchée lors de mises à jour de l'algorithme (Core Updates, Helpful Content Update). Il n'y a aucune notification directe.",
+        "La pénalité manuelle : une action ciblée effectuée par un employé de Google suite à la détection d'une infraction spécifique. Elle est clairement notifiée dans la section 'Actions manuelles' de la Search Console.",
+        "Différence de résolution : un filtre algorithmique se lève en corrigeant les problèmes et en attendant la prochaine évaluation par les robots ; une pénalité manuelle nécessite une demande de réexamen après correction."
+      ]
+    },
+    {
+      "h2": "Diagnostiquer la sanction avec la Google Search Console",
+      "points_cles": [
+        "Le réflexe 'Actions manuelles' : le premier endroit à vérifier dans la Search Console. L'absence de message écarte la piste de la pénalité manuelle.",
+        "Analyse des performances : superposer la courbe de trafic organique avec les dates connues des mises à jour de l'algorithme Google. Une corrélation forte entre une chute et une update est un indice majeur.",
+        "Inspection d'URL et couverture : utiliser ces outils pour vérifier si des pages clés présentent des problèmes d'exploration ou d'indexation qui pourraient mimer les effets d'un filtre."
+      ]
+    },
+    {
+      "h2": "Plan d'action : lever le filtre et pérenniser votre SEO",
+      "points_cles": [
+        "Audit et correction : identifier la cause racine (liens artificiels, contenu de faible qualité, sur-optimisation, problèmes techniques) et corriger méticuleusement les points faibles.",
+        "Actions spécifiques : pour un problème de liens, utiliser l'outil de désaveu. Pour un problème de contenu, améliorer, fusionner ou supprimer les pages de faible qualité (content pruning).",
+        "Prévention : se concentrer sur la création de contenu utile et fiable centré sur l'utilisateur, l'obtention de liens naturels et le respect scrupuleux des consignes de Google pour éviter de futures sanctions."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "pénalité Google",
+    "action manuelle Google",
+    "filtre algorithmique",
+    "chute de trafic SEO",
+    "Google Search Console",
+    "référencement naturel"
+  ],
+  "questions_paa": [
+    "Comment savoir si mon site est pénalisé par Google ?",
+    "Combien de temps dure une pénalité Google ?",
+    "Qu'est-ce que l'outil de désaveu de liens de Google ?",
+    "Comment faire une demande de réexamen à Google ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 900,
+  "category": "Popularité"
+}

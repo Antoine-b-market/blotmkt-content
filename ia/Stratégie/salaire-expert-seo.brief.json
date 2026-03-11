@@ -1,0 +1,59 @@
+{
+  "keyword": "Salaire expert SEO",
+  "intention": "informationnelle",
+  "titre_h1": "Salaire expert SEO : le guide 2024 des rémunérations par niveau d'expérience",
+  "meta_description": "Découvrez le salaire moyen d'un expert SEO en 2024. Analyse des salaires par séniorité, des compétences clés et de l'impact du freelance vs. CDI.",
+  "angle_editorial": "Au-delà des chiffres : lier le salaire de l'expert SEO à la performance et au ROI direct, en se basant sur les compétences avancées (technique, data) qui justifient une rémunération élevée.",
+  "query_fanout": [
+    "Quels sont les salaires moyens pour un expert SEO selon son niveau d'expérience (junior, confirmé, senior) ?",
+    "Comment le statut (freelance vs. salarié) et la localisation influencent-ils la rémunération d'un expert SEO ?",
+    "Quelles compétences techniques et analytiques avancées justifient un salaire plus élevé pour un expert SEO ?",
+    "Comment évaluer le retour sur investissement (ROI) d'un expert SEO pour justifier son salaire ?"
+  ],
+  "structure": [
+    {
+      "h2": "Les grilles de salaire d'un expert SEO par niveau d'expérience",
+      "points_cles": [
+        "Définir les profils : junior (1-2 ans), confirmé (3-5 ans), et senior (>5 ans) avec leurs responsabilités distinctes.",
+        "Fournir des fourchettes de salaires bruts annuels précises pour chaque niveau en France (ex: Junior 35-42k€, Confirmé 42-55k€, Senior 55-70k€+).",
+        "Mentionner que la spécialisation (SEO technique, e-commerce, international) est un levier majeur pour atteindre le haut de la fourchette."
+      ]
+    },
+    {
+      "h2": "Freelance vs. salarié : l'impact du statut et de la géographie sur le salaire",
+      "points_cles": [
+        "Comparer le Taux Journalier Moyen (TJM) d'un freelance (ex: 400€ à 800€+) avec le salaire mensuel d'un employé, en incluant les charges et avantages.",
+        "Analyser l'influence de la localisation : détailler l'écart de rémunération notable entre Paris/IDF et les autres régions françaises.",
+        "Expliquer l'impact du type d'employeur : agence, annonceur (grand groupe vs. PME), et les variations de salaire associées."
+      ]
+    },
+    {
+      "h2": "Compétences avancées : les savoir-faire qui justifient un salaire premium",
+      "points_cles": [
+        "Mettre en avant la maîtrise technique : audit d'architecture de site, optimisation du crawl, gestion des signaux Web vitaux (Core Web Vitals).",
+        "Souligner l'importance de l'intelligence de données : interprétation experte de Google Analytics et Search Console pour transformer les insights en stratégie.",
+        "Citer des compétences rares et valorisées : maîtrise de Python pour l'automatisation, connaissance des LLM et de la GEO, management d'équipe."
+      ]
+    },
+    {
+      "h2": "Calculer le retour sur investissement (ROI) pour justifier le salaire",
+      "points_cles": [
+        "Présenter le salaire non comme un coût, mais comme un investissement stratégique dans la croissance organique de l'entreprise.",
+        "Fournir une méthode de calcul du ROI : (Gain de trafic x Taux de conversion x Valeur par conversion) / Coût de l'expert.",
+        "Illustrer avec un cas d'usage chiffré comment une optimisation technique par un expert senior peut générer un chiffre d'affaires qui couvre plusieurs fois son salaire annuel."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "rémunération spécialiste SEO",
+    "TJM consultant SEO",
+    "salaire SEO senior"
+  ],
+  "questions_paa": [
+    "Quel est le salaire d'un SEO débutant en France ?",
+    "Comment négocier son salaire en tant que consultant SEO ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 900,
+  "category": "Stratégie"
+}

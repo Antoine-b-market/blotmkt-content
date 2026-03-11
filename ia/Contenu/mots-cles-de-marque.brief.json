@@ -1,0 +1,67 @@
+{
+  "keyword": "Mots-clés de marque",
+  "intention": "informationnelle",
+  "titre_h1": "Mots-clés de marque : le guide stratégique pour protéger et monétiser votre notoriété",
+  "meta_description": "Découvrez ce que sont les mots-clés de marque, pourquoi ils sont vitaux pour votre SEO et SEA, et comment les transformer en un avantage concurrentiel.",
+  "angle_editorial": "Aborder les mots-clés de marque non pas comme une simple source de trafic, mais comme un actif stratégique central pour la défense de l'e-réputation, la maximisation du ROI publicitaire et le contrôle du parcours client.",
+  "query_fanout": [
+    "Qu'est-ce qu'un mot-clé de marque et pourquoi est-il crucial pour une stratégie digitale ?",
+    "Faut-il payer pour enchérir sur ses propres mots-clés de marque sur Google Ads ?",
+    "Comment les mots-clés de marque protègent-ils une entreprise de ses concurrents ?",
+    "Quelles sont les techniques SEO avancées pour dominer les résultats de recherche sur sa propre marque ?"
+  ],
+  "structure": [
+    {
+      "h2": "Définition : qu'est-ce qu'un mot-clé de marque et pourquoi est-il vital ?",
+      "points_cles": [
+        "Un mot-clé de marque (ou 'branded keyword') est une requête de recherche qui inclut explicitement votre nom de marque, de produit ou de service.",
+        "Il représente le trafic le plus qualifié, émanant d'utilisateurs qui vous connaissent déjà et ont une forte intention d'achat ou d'interaction.",
+        "C'est un indicateur clé de la notoriété de votre marque (brand awareness) et de la confiance que le marché vous accorde.",
+        "Maîtriser ces mots-clés est la première étape pour contrôler votre e-réputation et l'image que Google renvoie de votre entreprise."
+      ]
+    },
+    {
+      "h2": "Google Ads : faut-il vraiment enchérir sur sa propre marque ?",
+      "points_cles": [
+        "Oui, c'est une stratégie défensive et offensive. Cela empêche les concurrents de s'afficher au-dessus de vos résultats naturels et de détourner votre trafic.",
+        "Le coût par clic (CPC) est généralement très bas et le Quality Score très élevé, garantissant un excellent retour sur investissement (ROAS).",
+        "Vous obtenez un contrôle total sur le message, les extensions d'annonces (liens annexes, promotions) et la page de destination, ce qui n'est pas toujours le cas en SEO.",
+        "La synergie SEO + SEA permet d'occuper un maximum d'espace sur la page de résultats (SERP), renforçant la crédibilité et augmentant le taux de clics global."
+      ]
+    },
+    {
+      "h2": "Le mot-clé de marque comme bouclier concurrentiel",
+      "points_cles": [
+        "En occupant la première position en SEO et SEA sur votre marque, vous créez une barrière à l'entrée pour les concurrents qui voudraient capter vos clients.",
+        "Cette stratégie protège votre part de marché en interceptant les clients au moment où leur intention d'achat est la plus forte.",
+        "Elle permet de contrer les comparateurs ou les sites d'avis négatifs en les repoussant plus bas dans les résultats de recherche.",
+        "Le monitoring des enchères sur votre marque est un système d'alerte précoce sur les stratégies agressives de vos concurrents."
+      ]
+    },
+    {
+      "h2": "Stratégies SEO avancées pour les requêtes de marque",
+      "points_cles": [
+        "Au-delà de la page d'accueil, optimisez des pages spécifiques pour des requêtes transactionnelles comme '[marque] + avis', '[marque] + prix' ou '[marque] + support'.",
+        "Utilisez le balisage de données structurées (Schema.org) pour enrichir vos résultats avec des Sitelinks, des FAQ, et des informations sur l'entreprise (Knowledge Panel).",
+        "Développez une stratégie de contenu pour répondre aux questions que les utilisateurs se posent sur vous, afin de maîtriser l'ensemble du 'topic cluster' de votre marque.",
+        "Optimisez votre fiche Google Business Profile pour les recherches locales et pour contrôler les informations clés (horaires, adresse, avis)."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "requête de marque",
+    "brand bidding",
+    "enchérir sur sa marque",
+    "SEO de marque",
+    "notoriété de marque",
+    "stratégie de mots-clés"
+  ],
+  "questions_paa": [
+    "Est-ce que les concurrents ont le droit d'acheter mes mots-clés de marque ?",
+    "Comment savoir qui recherche ma marque sur Google ?",
+    "Quel est un bon taux de clics (CTR) pour un mot-clé de marque ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 900,
+  "category": "Contenu"
+}

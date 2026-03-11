@@ -1,0 +1,69 @@
+{
+  "keyword": "Topique cluster",
+  "intention": "informationnelle",
+  "titre_h1": "Topique cluster : la méthode pour structurer votre contenu et devenir une autorité thématique",
+  "meta_description": "Découvrez ce qu'est un topique cluster et comment cette stratégie SEO vous aide à organiser votre contenu, améliorer votre classement et devenir une autorité.",
+  "angle_editorial": "Démystifier le topique cluster non seulement pour les moteurs de recherche traditionnels (SEO) mais aussi pour les IA génératives (GEO). L'article positionne cette stratégie comme un moyen de rendre le contenu plus 'fiable' et 'compréhensible' pour les LLMs, augmentant sa visibilité dans les réponses générées (SGE, Copilot, etc.).",
+  "query_fanout": [
+    "Qu'est-ce qu'un modèle de topique cluster en SEO et GEO ?",
+    "Comment construire une stratégie de topique cluster efficace étape par étape ?",
+    "Quels sont les bénéfices mesurables d'un topique cluster sur l'autorité et le trafic ?",
+    "Pilier de contenu, cluster, mot-clé : quelles sont les différences fondamentales ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce qu'un modèle de topique cluster en SEO et GEO ?",
+      "points_cles": [
+        "Définition : un pilier de contenu central (pillar page) qui couvre un sujet large de manière exhaustive.",
+        "Pages satellites (cluster content) qui traitent de sous-sujets spécifiques et répondent à des questions précises.",
+        "Le rôle crucial du maillage interne : tous les clusters sont liés au pilier et le pilier est lié à chaque cluster.",
+        "Objectif : démontrer une expertise complète (autorité thématique) à Google et structurer la connaissance pour les IA."
+      ]
+    },
+    {
+      "h2": "Comment construire une stratégie de topique cluster efficace étape par étape ?",
+      "points_cles": [
+        "1. Identifier le sujet principal (le pilier) basé sur les objectifs business et le volume de recherche.",
+        "2. Rechercher les sous-sujets et questions connexes (les clusters) via des outils SEO, l'analyse des SERPs et les prompts LLM.",
+        "3. Créer le contenu pilier (long, complet) et les contenus clusters (spécifiques, ciblés).",
+        "4. Mettre en place un maillage interne stratégique en hyperliens contextuels pour distribuer l'autorité."
+      ]
+    },
+    {
+      "h2": "Quels sont les bénéfices mesurables d'un topique cluster sur l'autorité et le trafic ?",
+      "points_cles": [
+        "Amélioration du classement sur des mots-clés concurrentiels grâce à l'autorité accumulée par le pilier.",
+        "Augmentation du trafic organique qualifié en couvrant l'ensemble de l'intention de recherche d'un sujet.",
+        "Optimisation du 'crawl budget' de Google en guidant les robots vers vos contenus les plus importants.",
+        "Indicateurs à suivre : classement du pilier, nombre de mots-clés positionnés par cluster, temps passé sur la page."
+      ]
+    },
+    {
+      "h2": "Pilier de contenu, cluster, mot-clé : quelles sont les différences fondamentales ?",
+      "points_cles": [
+        "Le mot-clé est l'unité de base, la cible d'une page unique.",
+        "Le cluster est un ensemble de pages et de mots-clés sur des sujets connexes.",
+        "Le pilier de contenu est la page centrale qui synthétise et lie tous les clusters d'un même univers sémantique.",
+        "Le topique cluster est l'architecture globale (pilier + clusters + maillage), une vision stratégique et non un élément isolé."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "stratégie de contenu",
+    "pilier de contenu",
+    "maillage interne",
+    "autorité thématique",
+    "SEO sémantique",
+    "cluster sémantique",
+    "pillar page"
+  ],
+  "questions_paa": [
+    "Comment organiser son contenu en cluster ?",
+    "C'est quoi une page pilier en SEO ?",
+    "Quel outil pour créer des topic clusters ?",
+    "Combien de pages pour un topic cluster ?"
+  ],
+  "ton": "pédagogique",
+  "longueur_cible": 900,
+  "category": "Définition"
+}

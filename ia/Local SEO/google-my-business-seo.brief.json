@@ -1,0 +1,68 @@
+{
+  "keyword": "Google My Business SEO",
+  "intention": "informationnelle",
+  "titre_h1": "SEO pour Google Business Profile : le guide complet pour dominer la recherche locale",
+  "meta_description": "Optimisez votre fiche Google Business Profile (ex-GMB) pour le SEO local. Suivez notre guide pratique pour améliorer votre classement et performer dans les AI Overviews.",
+  "angle_editorial": "Approche pratique et orientée GEO (Generative Engine Optimization), axée sur les facteurs de classement 2024 (horaires, avis 'Stories') et l'impact sur les AI Overviews de Google, en évitant les tactiques obsolètes.",
+  "query_fanout": [
+    "Qu'est-ce que le SEO pour Google Business Profile et pourquoi est-ce un pilier du marketing local ?",
+    "Quelles sont les optimisations essentielles pour améliorer le classement d'une fiche d'établissement ?",
+    "Comment les avis, les photos et les horaires d'ouverture influencent-ils concrètement le référencement local ?",
+    "Quel est l'impact de l'optimisation GBP sur les résultats de recherche générative (AI Overviews) ?"
+  ],
+  "structure": [
+    {
+      "h2": "Comprendre le SEO pour Google Business Profile (GBP) : bien plus qu'une simple fiche",
+      "points_cles": [
+        "Définir le SEO pour GBP comme l'ensemble des techniques visant à maximiser la visibilité d'une entreprise dans le Local Pack, Google Maps et les résultats de recherche géolocalisés.",
+        "Expliquer que le GBP est souvent le premier point de contact entre un client potentiel et l'entreprise, agissant comme une vitrine numérique.",
+        "Mettre en avant son rôle crucial pour le trafic en magasin, les appels téléphoniques et les visites sur le site web, soulignant son ROI direct pour les entreprises locales.",
+        "Distinguer le SEO local (centré sur la proximité et la pertinence géographique) du SEO traditionnel (centré sur la pertinence thématique à plus large échelle)."
+      ]
+    },
+    {
+      "h2": "Les optimisations fondamentales de votre fiche d'établissement",
+      "points_cles": [
+        "Insister sur la complétude et la cohérence du NAP (Name, Address, Phone) sur toutes les plateformes.",
+        "Détailler le choix stratégique des catégories primaires et secondaires pour correspondre précisément aux services offerts et aux requêtes des utilisateurs.",
+        "Guider la rédaction de la description d'entreprise : utiliser des mots-clés pertinents, adopter un ton clair et informatif (inspiré du B.I.S.C.U.I.T. Framework pour être compris par les IA), et mettre en avant la proposition de valeur unique.",
+        "Expliquer l'utilité des Google Posts pour communiquer des actualités, des offres et des événements, ce qui démontre une activité et un engagement constants."
+      ]
+    },
+    {
+      "h2": "Facteurs de classement clés : avis, médias et horaires",
+      "points_cles": [
+        "Souligner l'importance critique des horaires d'ouverture : mentionner qu'il s'agit d'un facteur de classement top 5 (rapport Whitespark). Conseiller une précision absolue et l'utilisation d'horaires étendus si applicable.",
+        "Développer une stratégie pour encourager les avis clients. Insister sur l'importance des avis détaillés et descriptifs, accompagnés de photos, pour alimenter le nouveau format 'Stories' sur Google Maps mobile.",
+        "Mettre en avant le rôle de la preuve sociale et de l'engagement en répondant systématiquement à tous les avis (positifs comme négatifs) de manière professionnelle.",
+        "Valoriser l'ajout régulier de photos et vidéos de haute qualité (local, équipe, produits) pour augmenter l'attractivité et le temps d'interaction sur la fiche."
+      ]
+    },
+    {
+      "h2": "Optimiser pour le futur : le GBP et les AI Overviews",
+      "points_cles": [
+        "Expliquer que les données structurées et factuelles d'une fiche GBP bien optimisée sont une source d'information privilégiée pour les LLM qui génèrent les AI Overviews.",
+        "Montrer comment une description claire, des services bien définis et une section Q&R active permettent de répondre directement aux requêtes complexes traitées par l'IA de Google.",
+        "Conseiller de formuler le contenu (posts, descriptions, réponses aux avis) de manière conversationnelle et informative pour qu'il soit facilement ingérable et réutilisable par les moteurs génératifs.",
+        "Mentionner que la pertinence et l'autorité locale construites via le GBP sont des signaux de confiance forts, essentiels pour être mis en avant dans les synthèses IA."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "optimisation fiche établissement google",
+    "SEO local",
+    "référencement Google Maps",
+    "Google Business Profile",
+    "avis clients google",
+    "pack local"
+  ],
+  "questions_paa": [
+    "Comment apparaître dans le pack local de Google ?",
+    "Comment améliorer son référencement sur Google Maps ?",
+    "Est-ce que Google Business Profile est gratuit ?",
+    "Pourquoi ma fiche d'établissement n'apparaît pas ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 900,
+  "category": "Local SEO"
+}

@@ -1,0 +1,87 @@
+{
+  "keyword": "Récupération SEO",
+  "intention": "informationnelle",
+  "titre_h1": "Récupération SEO : Stratégies avancées pour regagner votre visibilité à l'ère de l'IA",
+  "meta_description": "Découvrez les stratégies de récupération SEO modernes, incluant l'IA et le SEO sémantique, pour restaurer votre visibilité et votre trafic après une baisse.",
+  "angle_editorial": "Démystifier la récupération SEO non plus comme une simple réaction à une pénalité, mais comme une stratégie proactive et sémantique, essentielle pour maintenir sa pertinence dans un paysage de recherche dominé par l'IA et les requêtes complexes. Mettre l'accent sur la transformation du 'comment récupérer' vers le 'comment optimiser durablement'.",
+  "query_fanout": [
+    "Qu'est-ce que la récupération SEO et pourquoi est-elle cruciale aujourd'hui ?",
+    "Comment la récupération SEO évolue-t-elle avec l'IA et le SEO sémantique ?",
+    "Quelles sont les étapes clés pour mettre en œuvre une stratégie de récupération SEO efficace ?",
+    "Quel est le coût et le retour sur investissement d'une récupération SEO avancée ?",
+    "Comment prévenir le besoin de récupération SEO grâce à une approche proactive ?",
+    "Quels sont les cas concrets de succès en récupération SEO par l'approche sémantique ?"
+  ],
+  "structure": [
+    {
+      "h2": "Comprendre la récupération SEO : Définition et enjeux actuels",
+      "points_cles": [
+        "Définition de la récupération SEO au-delà des pénalités : regagner du trafic et de la visibilité suite à une baisse.",
+        "Les différentes causes d'un déclin de performance : mises à jour algorithmiques, problèmes techniques, concurrence, contenu obsolète.",
+        "L'importance d'une analyse diagnostique rapide et précise pour identifier la cause racine."
+      ]
+    },
+    {
+      "h2": "Récupération SEO traditionnelle vs. sémantique à l'ère de l'IA",
+      "points_cles": [
+        "Comparaison des approches : correction technique et mots-clés vs. compréhension de l'intention et du contexte utilisateur.",
+        "Le rôle pivot de l'IA (NLP) : analyse des entités, compréhension des sujets, pertinence thématique.",
+        "Comment le SEO sémantique aide à surmonter les limites des approches traditionnelles face aux requêtes complexes."
+      ]
+    },
+    {
+      "h2": "Stratégies concrètes pour une récupération SEO réussie",
+      "points_cles": [
+        "Audit sémantique et technique approfondi : identification des lacunes de contenu, structure de site et performance.",
+        "Optimisation de l'intention utilisateur : adapter le contenu et les fonctionnalités pour répondre aux besoins implicites.",
+        "Reconstruction de l'autorité thématique et de la qualité du contenu : E-E-A-T et pertinence globale."
+      ]
+    },
+    {
+      "h2": "Coût et ROI de la récupération SEO : Investir dans la durabilité",
+      "points_cles": [
+        "Facteurs influençant le coût d'une stratégie de récupération : étendue de la baisse, complexité du site, ressources nécessaires.",
+        "Calculer le retour sur investissement (ROI) : impact sur le trafic organique, les conversions et la notoriété de marque.",
+        "La récupération comme un investissement à long terme pour la stabilité et la croissance future du trafic."
+      ]
+    },
+    {
+      "h2": "Prévenir le déclin : Une approche SEO proactive et sémantique",
+      "points_cles": [
+        "Maintenance continue et veille algorithmique : anticiper les changements et adapter sa stratégie en amont.",
+        "Construction d'un écosystème de contenu robuste et diversifié : couvrant un maximum d'intentions et d'entités.",
+        "L'importance d'une stratégie de maillage interne et externe cohérente pour renforcer l'autorité sémantique."
+      ]
+    },
+    {
+      "h2": "Cas pratiques de récupération : Quand l'approche sémantique fait la différence",
+      "points_cles": [
+        "Exemples concrets de sites ayant regagné de la visibilité grâce à une stratégie axée sur l'intention et le contexte.",
+        "Analyse des étapes clés et des résultats obtenus par l'application des principes de SEO sémantique.",
+        "Les leçons apprises et les meilleures pratiques pour inspirer votre propre démarche de récupération."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "SEO sémantique",
+    "impact IA SEO",
+    "pénalité Google",
+    "audit SEO avancé",
+    "visibilité organique",
+    "intention utilisateur",
+    "NLP SEO",
+    "baisse de trafic SEO",
+    "optimisation E-E-A-T",
+    "stratégie de contenu IA"
+  ],
+  "questions_paa": [
+    "Comment savoir si mon site a besoin d'une récupération SEO ?",
+    "Quelle est la différence entre une pénalité manuelle et une baisse algorithmique ?",
+    "Combien de temps faut-il pour voir les effets d'une récupération SEO ?",
+    "L'IA peut-elle automatiser entièrement le processus de récupération SEO ?",
+    "Quels outils sont essentiels pour diagnostiquer et mettre en œuvre une récupération SEO ?"
+  ],
+  "ton": "expert|pedagogique|pratique",
+  "longueur_cible": 900,
+  "category": "Popularité"
+}

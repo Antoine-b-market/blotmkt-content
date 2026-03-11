@@ -1,0 +1,65 @@
+{
+  "keyword": "Redirections 301 SEO",
+  "intention": "informationnelle",
+  "titre_h1": "Maîtriser les redirections 301 pour un SEO sans faille",
+  "meta_description": "Découvrez ce qu'est une redirection 301, comment l'implémenter correctement et pourquoi elle est cruciale pour votre SEO. Guide pratique et conseils d'expert.",
+  "angle_editorial": "Le guide pratique et stratégique. Au-delà de la technique, nous nous concentrons sur le *quand* et le *pourquoi* utiliser une 301 pour maximiser l'impact SEO, en évitant les erreurs courantes comme la redirection systématique des 404.",
+  "query_fanout": [
+    "Qu'est-ce qu'une redirection 301 et quel est son impact sur le SEO ?",
+    "Quelle est la différence fondamentale entre une redirection 301 et une 302 ?",
+    "Comment mettre en place une redirection 301 étape par étape ?",
+    "Dans quels cas utiliser une 301 au lieu de laisser une erreur 404 ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce qu'une redirection 301 et son rôle crucial en SEO ?",
+      "points_cles": [
+        "Définition : un signal de déménagement permanent envoyé aux navigateurs et aux moteurs de recherche.",
+        "Rôle principal : transférer intégralement l'autorité SEO (link juice) de l'ancienne URL vers la nouvelle.",
+        "Bénéfice utilisateur : assure une navigation fluide en évitant les pages d'erreur 404 et préserve les favoris.",
+        "Impact direct : maintien du classement et préservation du trafic organique lors d'un changement d'URL."
+      ]
+    },
+    {
+      "h2": "Redirection 301 vs 302 : choisir le bon signal pour Google",
+      "points_cles": [
+        "301 (Permanent) : indique que le changement est définitif. Google met à jour son index et transfère l'autorité.",
+        "302 (Temporaire) : signale un déplacement temporaire. Google conserve l'ancienne URL dans son index et ne transfère pas l'autorité.",
+        "L'erreur à éviter : utiliser une 302 pour une refonte de site, ce qui dilue la valeur SEO.",
+        "Le 302 est utile pour des tests A/B, des promotions à durée limitée ou des maintenances."
+      ]
+    },
+    {
+      "h2": "Mise en place d'une redirection 301 : la méthode pratique",
+      "points_cles": [
+        "Méthode technique : modifier le fichier .htaccess à la racine du serveur (pour serveurs Apache).",
+        "Exemple de code .htaccess : `RedirectPermanent /ancienne-page.html https://www.votre-site.com/nouvelle-page.html`",
+        "Méthode CMS : utiliser un plugin SEO dédié sur WordPress (ex: Redirection, Rank Math) pour une gestion simplifiée sans code.",
+        "Validation : toujours vérifier le statut HTTP de l'ancienne URL avec un outil en ligne pour confirmer que la redirection est bien en 301."
+      ]
+    },
+    {
+      "h2": "Gérer les erreurs 404 : quand la redirection 301 n'est pas la solution",
+      "points_cles": [
+        "Principe clé : ne jamais rediriger en masse toutes les erreurs 404 vers la page d'accueil.",
+        "Quand rediriger (301) : lors d'une refonte de site, d'un changement de structure d'URL ou de la fusion de deux articles sur un sujet similaire.",
+        "Quand ne pas rediriger (laisser en 404) : si une page est supprimée et n'a aucun équivalent pertinent. Cela informe Google que le contenu n'existe plus.",
+        "Alternative à la redirection : créer une page 404 personnalisée qui guide l'utilisateur vers des contenus populaires ou un moteur de recherche interne."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "redirection permanente",
+    "code http 301",
+    "transfert jus de lien",
+    "htaccess redirection",
+    "erreur 404 seo"
+  ],
+  "questions_paa": [
+    "Comment savoir si une redirection 301 fonctionne ?",
+    "Est-ce qu'une chaîne de redirections est mauvaise pour le SEO ?"
+  ],
+  "ton": "pédagogique",
+  "longueur_cible": 900,
+  "category": "Audit"
+}

@@ -1,0 +1,64 @@
+{
+  "keyword": "Cocon sémantique",
+  "intention": "informationnelle",
+  "titre_h1": "Cocon sémantique : le guide pour structurer votre site et améliorer votre SEO",
+  "meta_description": "Découvrez ce qu'est un cocon sémantique et comment cette stratégie SEO avancée peut booster votre trafic. Guide complet : définition, étapes et exemples.",
+  "angle_editorial": "Démystifier le concept de cocon sémantique en un guide pratique et actionnable, montrant pas à pas comment transformer la théorie en résultats SEO concrets.",
+  "query_fanout": [
+    "Qu'est-ce qu'un cocon sémantique et pourquoi est-ce crucial pour le SEO ?",
+    "Comment construire un cocon sémantique étape par étape ?",
+    "Cocon sémantique vs topic cluster : quelles sont les différences clés ?",
+    "Quels exemples et résultats attendre d'une stratégie de cocon sémantique ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce qu'un cocon sémantique : définition et principe fondamental",
+      "points_cles": [
+        "Définition : une architecture de site basée sur un maillage interne strict pour renforcer la pertinence thématique.",
+        "Objectif : isoler des groupes de pages par sujet pour prouver son expertise à Google et mieux se positionner sur une requête concurrentielle.",
+        "Principe du maillage : les pages 'filles' traitent des aspects spécifiques du sujet principal et ne sont liées qu'entre elles et vers la page 'mère', créant un silo étanche."
+      ]
+    },
+    {
+      "h2": "Comment construire votre cocon sémantique étape par étape",
+      "points_cles": [
+        "Étape 1 - Stratégie : définir le mot-clé cible de la page mère (requête commerciale/transactionnelle).",
+        "Étape 2 - Recherche : identifier les sous-thèmes et questions des utilisateurs (requêtes informationnelles) pour les pages filles.",
+        "Étape 3 - Création : rédiger le contenu en respectant la hiérarchie (page mère, pages filles, pages petites-filles).",
+        "Étape 4 - Maillage : implémenter le maillage interne strict, en évitant les liens sortants non pertinents qui 'diluent' l'autorité."
+      ]
+    },
+    {
+      "h2": "Cocon sémantique vs topic cluster : ne confondez plus",
+      "points_cles": [
+        "Similarité : les deux approches visent à organiser le contenu autour d'un sujet central (pillar page / page mère).",
+        "Différence clé : le cocon sémantique impose un maillage interne beaucoup plus rigide et 'étanche' que le topic cluster.",
+        "Application : le cocon est une stratégie offensive pour des requêtes très compétitives, tandis que le topic cluster est une méthode plus souple d'organisation de contenu."
+      ]
+    },
+    {
+      "h2": "Exemples et ROI : l'impact concret d'un cocon sémantique",
+      "points_cles": [
+        "Cas d'usage : utiliser les modèles fournis (ex: 'Audit SEO' avec ses pages filles 'Analyse technique', 'Crawl et indexation') pour illustrer la structure.",
+        "ROI attendu : augmentation de la pertinence thématique, meilleur positionnement de la page mère, amélioration du budget de crawl et de l'expérience utilisateur.",
+        "Indicateurs de succès : hausse du trafic sur la page mère, positionnement sur un champ lexical large, augmentation du temps de session."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "maillage interne",
+    "architecture de site",
+    "topic cluster",
+    "SEO sémantique",
+    "structure en silo",
+    "Laurent Bourrelly"
+  ],
+  "questions_paa": [
+    "C'est quoi un cocon sémantique ?",
+    "Pourquoi utiliser un cocon sémantique en SEO ?",
+    "Comment faire un bon maillage interne ?"
+  ],
+  "ton": "pratique",
+  "longueur_cible": 900,
+  "category": "Définition"
+}

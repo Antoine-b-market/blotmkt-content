@@ -1,0 +1,76 @@
+{
+  "keyword": "Lazy loading SEO",
+  "intention": "informationnelle",
+  "titre_h1": "Lazy loading et SEO : le guide pour accélérer votre site sans nuire au référencement",
+  "meta_description": "Découvrez comment implémenter le lazy loading pour améliorer la vitesse de votre site. Apprenez les meilleures pratiques SEO pour éviter les pièges d'indexation.",
+  "angle_editorial": "Traiter le lazy loading non pas comme une solution miracle, mais comme un outil technique à double tranchant. L'objectif est de fournir un guide pratique pour maximiser les bénéfices sur les Core Web Vitals tout en maîtrisant les risques liés à l'indexation du contenu par Googlebot.",
+  "query_fanout": [
+    "Qu'est-ce que le lazy loading et comment impacte-t-il la performance web ?",
+    "Quels sont les avantages et les risques du lazy loading pour le SEO ?",
+    "Comment implémenter techniquement un lazy loading SEO-friendly pour les images et iframes ?",
+    "Quels sont les pièges à éviter pour que Googlebot puisse crawler le contenu en lazy load ?",
+    "Quelles sont les alternatives ou compléments au lazy loading pour optimiser la vitesse ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce que le lazy loading : principe et fonctionnement",
+      "points_cles": [
+        "Définition : technique qui consiste à différer le chargement des ressources non visibles à l'écran (images, vidéos, iframes).",
+        "Principe : les éléments ne sont chargés que lorsque l'utilisateur s'apprête à les voir en scrollant sur la page.",
+        "Différence clé entre le lazy loading natif (attribut HTML `loading='lazy'`) et les solutions basées sur JavaScript (bibliothèques, Intersection Observer API)."
+      ]
+    },
+    {
+      "h2": "Lazy loading : un atout majeur pour les Core Web Vitals",
+      "points_cles": [
+        "Impact positif direct sur le LCP (Largest Contentful Paint) en ne chargeant pas les images lourdes hors de l'écran initial.",
+        "Amélioration du FID (First Input Delay) et du TBT (Total Blocking Time) en réduisant le nombre de requêtes initiales.",
+        "Le risque : un mauvais paramétrage peut dégrader le CLS (Cumulative Layout Shift) si les dimensions des images ne sont pas réservées."
+      ]
+    },
+    {
+      "h2": "Comment implémenter un lazy loading qui plaît à Google",
+      "points_cles": [
+        "La méthode native : utiliser `loading='lazy'` sur les balises `<img>` et `<iframe>`. C'est la solution la plus simple et la mieux supportée.",
+        "Règle d'or : ne jamais appliquer le lazy loading sur l'image principale (LCP) située au-dessus de la ligne de flottaison.",
+        "Utiliser des placeholders et spécifier les attributs `width` et `height` pour éviter les sauts de page (CLS) au moment du chargement.",
+        "Fournir une balise `<noscript>` comme fallback pour garantir que les crawlers moins avancés puissent voir le contenu."
+      ]
+    },
+    {
+      "h2": "Les pièges SEO à éviter absolument avec le lazy loading",
+      "points_cles": [
+        "Le contenu masqué : ne jamais appliquer de lazy loading sur du contenu textuel ou des liens internes essentiels.",
+        "Vérifier l'indexation : utiliser l'Outil d'Inspection d'URL de la Google Search Console pour s'assurer que Googlebot 'voit' et rend bien les images.",
+        "Problèmes avec le défilement infini : s'assurer que les liens vers les pages suivantes sont accessibles via des balises `<a>` pour le crawl."
+      ]
+    },
+    {
+      "h2": "Au-delà du lazy loading : stratégies complémentaires",
+      "points_cles": [
+        "L'optimisation des images reste prioritaire : compression, redimensionnement et utilisation de formats modernes (WebP, AVIF).",
+        "Mise en place d'un CDN (Content Delivery Network) pour servir les ressources depuis un serveur proche de l'utilisateur.",
+        "Stratégies de cache avancées (cache navigateur, cache serveur) pour réduire le temps de chargement lors des visites répétées."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "temps de chargement",
+    "Core Web Vitals",
+    "performance web",
+    "optimisation des images",
+    "attribut loading lazy",
+    "vitesse de site",
+    "LCP",
+    "CLS"
+  ],
+  "questions_paa": [
+    "Est-ce que le lazy loading est bon pour le SEO ?",
+    "Comment savoir si un site utilise le lazy loading ?",
+    "Quand ne pas utiliser le lazy loading ?",
+    "Quel est l'impact du lazy loading sur le LCP ?"
+  ],
+  "ton": "pédagogique",
+  "longueur_cible": 900,
+  "category": "Audit"
+}

@@ -1,0 +1,84 @@
+{
+  "keyword": "Prompt SEO",
+  "intention": "informationnelle",
+  "titre_h1": "Le prompt SEO : votre guide pour une visibilité accrue en ligne et sur l'IA",
+  "meta_description": "Découvrez le prompt SEO, une stratégie clé pour optimiser votre contenu pour les moteurs traditionnels et être cité par les IA. Maîtrisez l'optimisation générative.",
+  "angle_editorial": "Aborder le prompt SEO comme la prochaine évolution stratégique du SEO, indispensable pour capter la visibilité non seulement sur les moteurs de recherche traditionnels, mais surtout pour être reconnu et cité par les IA génératives (RAG, AI Overviews). L'accent sera mis sur la transformation de la rédaction de contenu pour satisfaire les algorithmes d'IA.",
+  "query_fanout": [
+    "Qu'est-ce que le prompt SEO et comment se distingue-t-il du SEO traditionnel ?",
+    "Comment le prompt SEO s'intègre-t-il dans l'optimisation pour les moteurs génératifs (GEO) ?",
+    "Quelles sont les méthodes clés pour créer des prompts SEO efficaces et favoriser la citation par l'IA ?",
+    "Comment évaluer l'impact et le retour sur investissement des stratégies de prompt SEO ?",
+    "Quels sont les défis actuels et les perspectives d'avenir pour le prompt SEO face aux LLMs ?"
+  ],
+  "structure": [
+    {
+      "h2": "Comprendre le prompt SEO : au-delà du référencement traditionnel",
+      "points_cles": [
+        "Définition du prompt SEO : fusion de l'ingénierie de prompt et de l'optimisation SEO.",
+        "Différences fondamentales avec le SEO classique : optimisation pour le clic vs. optimisation pour la citation par l'IA (RAG).",
+        "Objectifs du prompt SEO : améliorer la pertinence, l'autorité et la capacité de votre contenu à être synthétisé par les IA.",
+        "Le prompt SEO dans le parcours utilisateur de l'IA : répondre aux requêtes complexes et influencer les 'AI Overviews'."
+      ]
+    },
+    {
+      "h2": "Prompt SEO et GEO : optimiser pour l'ère des moteurs génératifs",
+      "points_cles": [
+        "Transition du SEO (Traditional Search Engine Optimization) au GEO (Generative Engine Optimization).",
+        "L'importance croissante de la citation par les IA : pourquoi votre contenu doit être une source fiable pour les LLMs.",
+        "Mécanismes de RAG (Retrieval Augmented Generation) : comment les IA sélectionnent les snippets et les sources.",
+        "Impact sur les SERP et les 'AI Overviews' : positionnement privilégié pour les contenus bien optimisés en prompt SEO."
+      ]
+    },
+    {
+      "h2": "Stratégies d'ingénierie de prompt pour la visibilité IA",
+      "points_cles": [
+        "Techniques de rédaction de contenu optimisé pour l'IA : clarté, concision, exhaustivité contextuelle.",
+        "Structuration sémantique : utiliser un langage précis, des entités nommées et des relations claires pour faciliter la compréhension des LLMs.",
+        "L'autorité et la crédibilité du contenu : facteurs clés pour être cité (E-E-A-T à l'ère de l'IA).",
+        "Types de prompts SEO : définition, comparaison, processus, synthèses, listes, études de cas pour nourrir les différents besoins des IA."
+      ]
+    },
+    {
+      "h2": "Mesurer l'efficacité et le retour sur investissement du prompt SEO",
+      "points_cles": [
+        "Indicateurs de performance spécifiques au prompt SEO : fréquence de citation par les IA, visibilité dans les 'AI Overviews'.",
+        "Analyse de la source de trafic : trafic direct/indirect généré par les mentions IA, brand search.",
+        "Outils et méthodes pour suivre l'impact : surveillance des mentions, analyse de la position dans les réponses génératives.",
+        "Ajustements stratégiques : comment itérer et améliorer continuellement sa stratégie de prompt SEO en fonction des résultats."
+      ]
+    },
+    {
+      "h2": "Les défis et l'avenir du prompt SEO face aux LLMs",
+      "points_cles": [
+        "L'évolution rapide des modèles d'IA : nécessité d'une adaptation constante des stratégies d'optimisation.",
+        "Le défi de la détection de contenu généré par l'IA et l'importance de l'authenticité et de l'expertise humaine.",
+        "Considérations éthiques et biais potentiels dans les réponses générées par l'IA.",
+        "Le rôle continu et évolutif de l'expert SEO humain dans un paysage dominé par l'IA."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "optimisation pour IA",
+    "GEO",
+    "ingénierie de prompt",
+    "citation IA",
+    "AI Overviews",
+    "RAG",
+    "SEO génératif",
+    "contenu optimisé IA",
+    "stratégie SEO AI",
+    "visibilité IA"
+  ],
+  "questions_paa": [
+    "Le prompt SEO remplace-t-il le SEO classique ?",
+    "Comment savoir si mon contenu est cité par les IA ?",
+    "Quels outils peuvent aider à la rédaction de prompts SEO ?",
+    "Faut-il adapter sa stratégie de netlinking pour le prompt SEO ?",
+    "Quel est le coût d'une stratégie de prompt SEO ?",
+    "Le prompt SEO est-il réservé aux grandes entreprises ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 900,
+  "category": "IA SEO - GEO"
+}

@@ -1,0 +1,68 @@
+{
+  "keyword": "Alt text image",
+  "intention": "informationnelle",
+  "titre_h1": "Alt text image : le guide pour optimiser votre SEO et votre accessibilité",
+  "meta_description": "Apprenez à rédiger un alt text image parfait pour booster votre SEO sur Google Images, améliorer l'accessibilité et préparer votre contenu pour l'IA. Guide pratique.",
+  "angle_editorial": "Traiter le alt text non seulement comme un outil SEO et d'accessibilité, mais aussi comme une donnée d'entraînement cruciale pour les IA (GEO), expliquant son double impact sur la compréhension par les machines et l'expérience humaine.",
+  "query_fanout": [
+    "Qu'est-ce qu'un alt text et à quoi sert-il concrètement ?",
+    "Quelle est la différence entre un alt text, un titre et une légende d'image, et quel est leur impact SEO respectif ?",
+    "Comment rédiger un alt text parfait : les bonnes pratiques et les erreurs à éviter ?",
+    "Comment automatiser la génération des alt text avec l'IA et quels sont les outils recommandés ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce qu'un texte alternatif (Alt Text) et quelle est sa double fonction ?",
+      "points_cles": [
+        "Définition : un attribut HTML qui fournit une description textuelle d'une image sur une page web.",
+        "Fonction 1 (Accessibilité) : il est lu à voix haute par les lecteurs d'écran pour les utilisateurs malvoyants, leur permettant de comprendre le contenu visuel.",
+        "Fonction 2 (SEO) : il aide les robots des moteurs de recherche (Google, Bing) à comprendre le sujet de l'image, améliorant ainsi son référencement dans les recherches d'images.",
+        "Il s'affiche également à la place de l'image si celle-ci ne parvient pas à se charger."
+      ]
+    },
+    {
+      "h2": "Alt text, titre, légende : quelles différences pour le SEO et l'utilisateur ?",
+      "points_cles": [
+        "Alt text : invisible pour la plupart des utilisateurs, il est crucial pour le SEO et l'accessibilité. Il décrit l'image pour les robots et les lecteurs d'écran.",
+        "Titre (attribut 'title') : apparaît dans une info-bulle au survol de la souris. Son impact SEO est très faible et il est souvent ignoré. Usage non recommandé pour les informations critiques.",
+        "Légende (balise 'figcaption') : texte visible sous l'image, fournissant un contexte ou un crédit. Elle est lue par les utilisateurs et les moteurs et contribue au contexte de la page.",
+        "Priorité pour le SEO : Alt text est le plus important, suivi de la légende qui contextualise, et enfin le titre qui est accessoire."
+      ]
+    },
+    {
+      "h2": "Comment rédiger le alt text parfait : méthode et bonnes pratiques",
+      "points_cles": [
+        "Soyez descriptif et concis : décrivez ce qui est sur l'image de manière précise, en visant idéalement entre 70 et 125 caractères.",
+        "Intégrez le mot-clé cible de la page de manière naturelle si l'image est pertinente, mais évitez le bourrage de mots-clés.",
+        "Omettez les expressions inutiles comme 'image de' ou 'photo de'. Les robots et lecteurs d'écran savent déjà que c'est une image.",
+        "Contextualisez : le texte alternatif doit être en accord avec le contenu qui l'entoure pour renforcer la pertinence thématique de la page."
+      ]
+    },
+    {
+      "h2": "Automatisation et IA : une alternative pour générer les alt text ?",
+      "points_cles": [
+        "Principe : utilisation de modèles d'IA (computer vision) pour analyser une image et générer automatiquement une description.",
+        "Outils : des services comme Google Vision AI, des plugins CMS (WordPress, Shopify) ou des plateformes SaaS proposent cette fonctionnalité.",
+        "Avantages et ROI : gain de temps considérable sur les sites e-commerce ou médias avec des milliers d'images. Réduit le coût de la mise en conformité.",
+        "Limites : l'IA peut manquer de contexte, de nuance ou faire des erreurs. Une supervision humaine est indispensable pour les images stratégiques afin d'assurer la qualité et la pertinence SEO."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "attribut alt",
+    "seo images",
+    "accessibilité web",
+    "texte alternatif",
+    "référencement google images",
+    "balise alt"
+  ],
+  "questions_paa": [
+    "Faut-il mettre un alt text sur toutes les images ?",
+    "Quelle est la longueur idéale pour un alt text ?",
+    "Comment voir le texte alternatif d'une image ?",
+    "Comment le alt text aide-t-il au référencement ?"
+  ],
+  "ton": "expert|pedagogique|pratique",
+  "longueur_cible": 900,
+  "category": "Contenu"
+}

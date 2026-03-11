@@ -1,0 +1,62 @@
+{
+  "keyword": "Call to action",
+  "intention": "informationnelle",
+  "titre_h1": "Call to action : le guide complet pour convertir vos visiteurs",
+  "meta_description": "Découvrez ce qu'est un call to action (CTA) et comment rédiger des appels à l'action percutants pour booster vos conversions. Apprenez à les optimiser dès maintenant.",
+  "angle_editorial": "Approche psychologique et data-driven : analyser les mécanismes de persuasion derrière un CTA efficace et comment l'optimiser par les tests A/B pour un ROI maximal.",
+  "query_fanout": [
+    "Qu'est-ce qu'un call to action (CTA) et pourquoi est-il essentiel en marketing ?",
+    "Comment rédiger un call to action percutant et où le placer efficacement ?",
+    "Quels sont les différents types de call to action avec des exemples concrets par objectif ?",
+    "Comment mesurer la performance d'un CTA et l'optimiser pour augmenter le taux de conversion ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce qu'un call to action (CTA) : définition et rôle stratégique",
+      "points_cles": [
+        "Définition : un élément textuel ou visuel incitant l'utilisateur à réaliser une action précise.",
+        "Objectif principal : guider l'utilisateur dans l'entonnoir de conversion (de visiteur à client).",
+        "Importance vitale : sans CTA, une page n'a pas de but clair et le visiteur est perdu."
+      ]
+    },
+    {
+      "h2": "Les secrets de rédaction d'un call to action qui convertit",
+      "points_cles": [
+        "Utiliser des verbes d'action forts et orientés bénéfice (Ex: 'Obtenez votre audit gratuit' vs 'Envoyer').",
+        "Créer un sentiment d'urgence ou d'exclusivité ('Offre limitée', 'Accès immédiat').",
+        "Soigner le design : couleur contrastée, taille visible, emplacement stratégique (au-dessus de la ligne de flottaison)."
+      ]
+    },
+    {
+      "h2": "Exemples de call to action efficaces selon vos objectifs",
+      "points_cles": [
+        "Génération de leads : 'Télécharger le livre blanc', 'S'inscrire à notre webinar'.",
+        "Vente et e-commerce : 'Ajouter au panier', 'Profiter de -20% maintenant'.",
+        "Engagement et navigation : 'Découvrir nos services', 'Lire la suite'."
+      ]
+    },
+    {
+      "h2": "Mesurer et optimiser le ROI de vos appels à l'action",
+      "points_cles": [
+        "Indicateurs clés à suivre : le taux de clics (CTR) et le taux de conversion de la page cible.",
+        "La méthode de l'A/B testing : tester une seule variable à la fois (texte, couleur, forme, emplacement).",
+        "Outils d'analyse : Google Analytics pour les conversions, heatmaps pour analyser les clics."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "bouton d'appel à l'action",
+    "exemple cta",
+    "cta marketing",
+    "optimiser cta",
+    "incitation à l'action"
+  ],
+  "questions_paa": [
+    "Qu'est-ce qu'un bon call to action ?",
+    "Où placer un bouton d'appel à l'action ?",
+    "Quelle couleur pour un call to action efficace ?"
+  ],
+  "ton": "expert|pédagogique|pratique",
+  "longueur_cible": 900,
+  "category": "Contenu SEO"
+}

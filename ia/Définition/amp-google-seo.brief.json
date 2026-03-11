@@ -1,0 +1,74 @@
+{
+  "keyword": "AMP Google SEO",
+  "intention": "informationnelle",
+  "titre_h1": "AMP et SEO : le guide pour comprendre son impact réel aujourd'hui",
+  "meta_description": "Découvrez ce qu'est l'AMP Google et son véritable impact sur le SEO. Est-ce encore une bonne stratégie ? Analyse, avantages, inconvénients et alternatives.",
+  "angle_editorial": "Analyse critique et actualisée de l'AMP, non pas comme une solution miracle passée, mais comme une technologie à évaluer face aux Core Web Vitals, qui sont devenus le principal indicateur de performance pour Google. L'article doit aider le lecteur à décider si l'effort de maintenance en vaut encore la peine.",
+  "query_fanout": [
+    "Qu'est-ce que le projet AMP (Accelerated Mobile Pages) de Google et comment fonctionne-t-il ?",
+    "Quel est l'impact réel de l'AMP sur le référencement SEO et le classement dans Google ?",
+    "Comment mettre en place l'AMP sur un site et quel est le retour sur investissement attendu ?",
+    "Quelles sont les meilleures alternatives à l'AMP pour optimiser la vitesse de chargement mobile ?",
+    "L'AMP est-il encore pertinent aujourd'hui avec l'importance des Core Web Vitals ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce que le framework AMP de Google ?",
+      "points_cles": [
+        "Définir AMP comme un framework open-source conçu pour créer des pages web mobiles ultra-rapides, quasi instantanées.",
+        "Expliquer ses trois composants techniques : AMP HTML (un HTML avec des restrictions), AMP JS (une bibliothèque JavaScript optimisée) et le Google AMP Cache (un CDN qui précharge les pages).",
+        "Insister sur l'objectif initial : améliorer radicalement l'expérience utilisateur sur mobile en imposant des contraintes pour garantir la performance."
+      ]
+    },
+    {
+      "h2": "L'impact de l'AMP sur le SEO : mythes et réalités",
+      "points_cles": [
+        "Clarifier que l'AMP n'a jamais été un facteur de classement direct. Son avantage était indirect.",
+        "Expliquer comment l'amélioration de la vitesse de chargement et de l'UX influençait positivement le SEO, des aspects maintenant mesurés par les Core Web Vitals.",
+        "Mentionner la disparition du carrousel 'Top Stories' exclusif et du badge 'éclair' dans les SERPs, ce qui a réduit son avantage concurrentiel visible."
+      ]
+    },
+    {
+      "h2": "Mise en place de l'AMP : guide pratique et considérations",
+      "points_cles": [
+        "Décrire les méthodes d'implémentation les plus courantes, notamment via des plugins dédiés sur les CMS comme WordPress.",
+        "Aborder les contraintes et les inconvénients : design souvent simplifié, limitations sur le JavaScript tiers (certaines publicités, scripts de tracking complexes).",
+        "Discuter du coût/bénéfice : l'effort de développement et de maintenance d'une version AMP distincte face au gain de performance, surtout pour les sites de contenu (médias, blogs)."
+      ]
+    },
+    {
+      "h2": "Alternatives à l'AMP : optimiser sans les contraintes",
+      "points_cles": [
+        "Présenter l'optimisation directe des Core Web Vitals (LCP, INP, CLS) comme l'alternative principale et la norme actuelle.",
+        "Suggérer des techniques concrètes : optimisation des images (formats WebP/AVIF), lazy loading, minification CSS/JS, utilisation d'un CDN performant et d'une bonne mise en cache.",
+        "Mentionner les frameworks front-end modernes (Next.js, SvelteKit) qui intègrent la performance dès la conception (SSR, SSG) et rendent l'AMP souvent superflu."
+      ]
+    },
+    {
+      "h2": "Verdict : faut-il encore utiliser l'AMP aujourd'hui ?",
+      "points_cles": [
+        "Résumer le consensus actuel : l'AMP n'est plus une nécessité pour la majorité des sites. L'effort est mieux investi dans l'optimisation du site principal.",
+        "Identifier les rares cas d'usage où il peut encore être pertinent : sites d'actualités à très fort volume cherchant la moindre milliseconde de gain via le pré-rendu du cache.",
+        "Conclure en conseillant une approche pragmatique : prioriser les Core Web Vitals sur le site canonique. L'AMP est une solution technique, pas une stratégie SEO en soi."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "Accelerated Mobile Pages",
+    "Core Web Vitals",
+    "vitesse de chargement mobile",
+    "performance web",
+    "plugin AMP WordPress",
+    "Google AMP Cache",
+    "optimisation mobile"
+  ],
+  "questions_paa": [
+    "Pourquoi Google abandonne AMP ?",
+    "Quelle est la différence entre une page AMP et une page responsive ?",
+    "Comment savoir si un site utilise AMP ?",
+    "Comment désactiver AMP sur WordPress ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 900,
+  "category": "Définition"
+}

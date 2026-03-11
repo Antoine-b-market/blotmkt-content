@@ -1,0 +1,73 @@
+{
+  "keyword": "SEO international",
+  "intention": "informationnelle",
+  "titre_h1": "SEO international : le guide pour une stratégie mondiale à l'ère de l'IA",
+  "meta_description": "Découvrez comment déployer une stratégie SEO international efficace. Guide sur les structures d'URL, le hreflang, le contenu localisé et l'impact de l'IA.",
+  "angle_editorial": "Analyser le SEO international non seulement sous l'angle technique classique (hreflang, ccTLD) mais aussi à travers le prisme de la Generative Engine Optimization (GEO). Mettre en avant comment les LLM et l'IA transforment la recherche de contenu localisé et la création de stratégies multilingues, en passant d'une approche de 'mots-clés' à une approche 'd'intentions culturelles'.",
+  "query_fanout": [
+    "Qu'est-ce que le SEO international et quels sont ses principaux piliers ?",
+    "Quelle est la différence entre une stratégie de SEO multilingue et une stratégie multi-pays ?",
+    "Comment choisir la bonne structure d'URL (ccTLD, sous-domaine, sous-dossier) et implémenter les balises hreflang ?",
+    "Quels sont les coûts associés au SEO international et comment mesurer son retour sur investissement (ROI) ?",
+    "Comment l'intelligence artificielle et la GEO optimisent-elles la création de contenu localisé et la recherche d'intention à l'échelle mondiale ?"
+  ],
+  "structure": [
+    {
+      "h2": "Définition : les fondations d'une stratégie SEO à l'international",
+      "points_cles": [
+        "Expliquer le concept : optimiser un site pour être visible dans plusieurs pays et/ou langues, en s'adaptant aux moteurs de recherche locaux.",
+        "Détailler les 3 piliers : technique (hreflang, serveurs, temps de chargement), contenu (traduction vs localisation culturelle), et autorité (netlinking local).",
+        "Souligner l'objectif principal : capturer les intentions de recherche spécifiques à chaque marché pour générer un trafic qualifié et des conversions."
+      ]
+    },
+    {
+      "h2": "SEO multilingue vs multi-pays : choisir la bonne approche stratégique",
+      "points_cles": [
+        "Comparer le ciblage par langue (ex: français en France, Canada, Suisse) vs par pays (ex: viser les utilisateurs sur Google.fr, Google.ca, Google.ch).",
+        "Expliquer les implications de chaque choix sur la stratégie de contenu, la gestion de la marque et les aspects techniques.",
+        "Donner des exemples concrets : un site e-commerce optera souvent pour une approche multi-pays, tandis qu'un blog d'information peut privilégier une approche multilingue."
+      ]
+    },
+    {
+      "h2": "L'architecture technique : le choix crucial des URL et des balises hreflang",
+      "points_cles": [
+        "Présenter les 3 options de structure d'URL : ccTLD (monsite.de), sous-domaine (de.monsite.com), et sous-dossier (monsite.com/de).",
+        "Analyser les avantages et inconvénients de chaque structure en termes de signal de géolocalisation, de coût, de gestion et de partage d'autorité (link juice).",
+        "Démystifier l'implémentation des balises hreflang pour indiquer aux moteurs de recherche les versions linguistiques et régionales alternatives d'une page."
+      ]
+    },
+    {
+      "h2": "Budget et ROI : estimer les coûts et mesurer la performance",
+      "points_cles": [
+        "Lister les principaux postes de dépenses : audit technique initial, traduction et localisation de contenu, création de contenu local, campagnes de netlinking ciblées et outils spécialisés.",
+        "Fournir des ordres de grandeur sur les investissements nécessaires, en différenciant une approche internalisée d'une prestation via une agence spécialisée.",
+        "Définir les KPIs clés pour mesurer le ROI : trafic organique par pays/langue, taux de conversion, positionnement sur les mots-clés locaux, et chiffre d'affaires généré."
+      ]
+    },
+    {
+      "h2": "GEO : comment l'IA générative transforme le SEO international",
+      "points_cles": [
+        "Introduire la Generative Engine Optimization (GEO) : l'art d'optimiser le contenu non plus seulement pour les algorithmes, mais aussi pour les LLM qui génèrent les réponses.",
+        "Expliquer comment l'IA permet une localisation de contenu plus fine, en saisissant les nuances culturelles, les expressions idiomatiques et les intentions locales.",
+        "Présenter des cas d'usage concrets : utilisation de l'IA pour analyser les SERP locales, générer des briefs de contenu adaptés, et personnaliser l'expérience utilisateur à grande échelle."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "stratégie SEO multilingue",
+    "balise hreflang",
+    "référencement international",
+    "structure URL SEO international",
+    "ciblage géographique SEO",
+    "Generative Engine Optimization"
+  ],
+  "questions_paa": [
+    "Quelle est la meilleure structure d'URL pour le SEO international ?",
+    "Comment utiliser hreflang pour le référencement ?",
+    "Faut-il un nom de domaine par pays ?",
+    "Comment faire du référencement à l'étranger ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 900,
+  "category": "Stratégie"
+}

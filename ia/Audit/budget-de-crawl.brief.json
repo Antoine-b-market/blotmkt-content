@@ -1,0 +1,66 @@
+{
+  "keyword": "Budget de crawl",
+  "intention": "informationnelle",
+  "titre_h1": "Budget de crawl : le guide pour l'optimiser et accélérer votre indexation",
+  "meta_description": "Découvrez ce qu'est le budget de crawl, comment l'analyser avec les bons outils et l'optimiser pour que Google explore efficacement vos pages importantes.",
+  "angle_editorial": "Un guide pratique et actionnable qui démystifie le concept technique du budget de crawl, en se concentrant sur le diagnostic (outils) et les solutions concrètes (optimisations) pour les sites de taille moyenne à grande.",
+  "query_fanout": [
+    "Qu'est-ce que le budget de crawl et pourquoi est-il crucial en SEO ?",
+    "Quels sont les principaux facteurs qui gaspillent le budget de crawl ?",
+    "Comment analyser son budget de crawl avec Google Search Console et Screaming Frog ?",
+    "Quelles sont les stratégies concrètes pour optimiser son budget de crawl ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce que le budget de crawl et pourquoi est-il essentiel ?",
+      "points_cles": [
+        "Définition : Le nombre de pages que Googlebot peut et veut explorer sur un site web sur une période donnée.",
+        "Importance : Un budget bien géré assure une indexation plus rapide des nouvelles pages et des mises à jour de contenu stratégique.",
+        "Composition : Il est déterminé par la 'crawl capacity' (la capacité du serveur à répondre) et la 'crawl demand' (la popularité et la fraîcheur du site).",
+        "Contexte d'application : Crucial pour les sites e-commerce, les médias et les plateformes avec des milliers d'URLs où toutes les pages ne peuvent être explorées quotidiennement."
+      ]
+    },
+    {
+      "h2": "Les principaux facteurs de gaspillage du budget de crawl",
+      "points_cles": [
+        "URLs non stratégiques : Exploration de pages générées par la navigation à facettes, les paramètres de suivi ou les pages de recherche interne.",
+        "Contenu de faible qualité : Pages avec peu de contenu unique, dupliqué, ou des pages 'soft 404' qui n'apportent aucune valeur.",
+        "Erreurs et redirections : Chaque lien interne vers une erreur 404 est une ressource perdue. Les chaînes de redirections (301 > 301 > 200) consomment également le budget inutilement.",
+        "Structures complexes : Une pagination non optimisée ou un maillage interne trop profond peuvent piéger les robots dans des boucles d'exploration sans fin."
+      ]
+    },
+    {
+      "h2": "Analyser son budget de crawl avec Google Search Console et Screaming Frog",
+      "points_cles": [
+        "Google Search Console : Utiliser le rapport 'Statistiques de crawl' pour visualiser l'activité de Googlebot, identifier les pics d'exploration, les types de fichiers crawlés et les codes de réponse retournés.",
+        "Screaming Frog (mode Spider) : Simuler un crawl complet pour identifier toutes les URLs crawlables, leur profondeur, les codes de réponse (notamment les erreurs 404), et le poids des pages.",
+        "Analyse croisée : Comparer les URLs les plus crawlées par Googlebot (GSC) avec leur importance stratégique et leur profondeur (Screaming Frog).",
+        "Diagnostic initial : Repérer si Google passe trop de temps sur des sections non prioritaires ou des ressources inexistantes."
+      ]
+    },
+    {
+      "h2": "Stratégies concrètes pour optimiser son budget de crawl",
+      "points_cles": [
+        "Gestion via robots.txt : Bloquer l'accès aux sections non stratégiques (espaces admin, résultats de recherche interne, paniers) pour concentrer les robots sur le contenu utile.",
+        "Optimisation du maillage interne : Renforcer les liens vers les pages prioritaires depuis des pages à forte autorité pour signaler leur importance à Google.",
+        "Hygiène technique : Corriger systématiquement les liens internes cassés (404), réduire les chaînes de redirections et utiliser la balise canonique pour gérer le contenu dupliqué.",
+        "Amélioration des performances : Augmenter la vitesse de chargement du site permet à Googlebot d'explorer plus de pages dans le même laps de temps, maximisant ainsi l'efficacité de chaque visite."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "optimisation SEO technique",
+    "Googlebot",
+    "analyse de logs",
+    "indexation Google",
+    "crawl rate"
+  ],
+  "questions_paa": [
+    "Comment augmenter le budget de crawl ?",
+    "Comment savoir si mon budget de crawl est mal utilisé ?",
+    "Quel est le lien entre le budget de crawl et l'indexation ?"
+  ],
+  "ton": "expert|pratique",
+  "longueur_cible": 900,
+  "category": "Audit"
+}

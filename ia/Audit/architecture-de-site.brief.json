@@ -1,0 +1,66 @@
+{
+  "keyword": "Architecture de site",
+  "intention": "informationnelle",
+  "titre_h1": "Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO",
+  "meta_description": "Découvrez comment une architecture de site web bien conçue booste votre SEO et votre autorité. Guide complet sur la structure, les types et les bonnes pratiques.",
+  "angle_editorial": "Analyser l'architecture de site non seulement comme un pilier technique du SEO, mais aussi comme une manifestation tangible des principes E-E-A-T (Expérience, Expertise, Autorité), en démontrant comment une structure logique renforce la crédibilité aux yeux des utilisateurs et des moteurs de recherche.",
+  "query_fanout": [
+    "Qu'est-ce que l'architecture d'un site web et pourquoi est-elle cruciale pour le SEO et l'E-E-A-T ?",
+    "Quels sont les principaux types d'architecture de site (silo, cluster) et lequel choisir ?",
+    "Comment auditer et optimiser l'architecture de son site étape par étape ?",
+    "Quel est le retour sur investissement (ROI) d'une refonte d'architecture et comment le mesurer ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce que l'architecture de site et son rôle pour le SEO et l'E-E-A-T ?",
+      "points_cles": [
+        "Définition : C'est le plan d'organisation logique de votre contenu, qui guide à la fois les utilisateurs et les robots d'exploration.",
+        "Pilier SEO technique : Une bonne structure facilite le crawl, l'indexation, et distribue efficacement l'autorité (PageRank) à travers le maillage interne.",
+        "Fondation de l'E-E-A-T : Une arborescence claire et thématique démontre l'Expertise et l'Autorité d'un site sur son domaine, améliorant la confiance."
+      ]
+    },
+    {
+      "h2": "Les principaux types d'architecture de site : silo, cluster et leurs avantages",
+      "points_cles": [
+        "Architecture en silo : Organisation verticale par thèmes stricts. Idéale pour concentrer l'autorité sur des sujets spécifiques et prouver son Expertise.",
+        "Modèle en topic cluster : Un contenu pilier central est lié à des articles satellites détaillés. Parfait pour dominer une niche sémantique et renforcer l'Autorité.",
+        "Choisir sa structure : Le choix dépend de la taille du site et des objectifs. Les silos pour les sites e-commerce, les clusters pour les blogs et sites d'information."
+      ]
+    },
+    {
+      "h2": "Comment auditer et optimiser l'architecture de son site étape par étape ?",
+      "points_cles": [
+        "1. Crawl et visualisation : Utilisez des outils comme Screaming Frog ou Gephi pour cartographier la structure actuelle et identifier les pages orphelines ou trop profondes.",
+        "2. Analyse sémantique : Cartographiez vos mots-clés stratégiques pour définir les thématiques principales (silos ou clusters) qui reflètent l'intention des utilisateurs.",
+        "3. Optimisation du maillage interne : Renforcez les liens contextuels entre les pages pertinentes pour guider les utilisateurs et distribuer le jus SEO.",
+        "4. Plan de redirection : Lors d'une refonte, préparez un plan de redirections 301 pour transférer l'autorité des anciennes URLs vers les nouvelles."
+      ]
+    },
+    {
+      "h2": "Quel est le retour sur investissement (ROI) d'une architecture optimisée ?",
+      "points_cles": [
+        "Indicateurs de performance (KPIs) : Suivez l'amélioration du taux d'indexation (via la Google Search Console), la hausse des positions moyennes et la réduction de la profondeur de clics.",
+        "Impact sur l'Expérience utilisateur : Une navigation intuitive diminue le taux de rebond, augmente le temps passé sur le site et, in fine, le taux de conversion.",
+        "Démonstration par l'Expérience (E-E-A-T) : Intégrez une mini-étude de cas montrant un avant/après refonte, avec des chiffres concrets sur l'augmentation du trafic organique."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "structure site web",
+    "arborescence site internet",
+    "maillage interne SEO",
+    "cocon sémantique",
+    "architecture en silo",
+    "topic cluster",
+    "optimisation de l'arborescence"
+  ],
+  "questions_paa": [
+    "C'est quoi l'architecture d'un site web ?",
+    "Comment faire une bonne arborescence de site web ?",
+    "Quelle est la meilleure structure pour le SEO ?",
+    "Comment savoir si mon site est bien structuré ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 900,
+  "category": "Audit"
+}

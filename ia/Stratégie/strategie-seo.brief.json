@@ -1,0 +1,65 @@
+{
+  "keyword": "Stratégie SEO",
+  "intention": "informationnelle",
+  "titre_h1": "Stratégie SEO : le guide pour aligner contenu, ROI et IA générative",
+  "meta_description": "Découvrez comment créer une stratégie SEO performante. Notre guide complet vous aide à aligner votre contenu, anticiper le GEO et maximiser votre ROI.",
+  "angle_editorial": "Une approche pragmatique et futuriste de la stratégie SEO, axée sur le ROI et l'intégration de l'IA (GEO) pour des résultats durables, au-delà des tactiques traditionnelles.",
+  "query_fanout": [
+    "Qu'est-ce qu'une stratégie SEO et pourquoi est-elle essentielle pour la croissance ?",
+    "Quelles sont les étapes fondamentales pour élaborer une stratégie SEO gagnante ?",
+    "Comment mesurer le retour sur investissement (ROI) d'une stratégie SEO ?",
+    "Comment l'IA et le GEO transforment-ils la stratégie SEO traditionnelle ?"
+  ],
+  "structure": [
+    {
+      "h2": "Définition : qu'est-ce qu'une stratégie SEO et pourquoi est-elle vitale ?",
+      "points_cles": [
+        "Présenter le SEO comme une feuille de route pour la croissance de la visibilité numérique, pas seulement une liste de tâches techniques.",
+        "Expliquer son rôle dans l'alignement du contenu avec les différentes étapes du parcours d'achat client (découverte, considération, décision).",
+        "Insister sur le fait qu'une stratégie formalisée permet de prioriser les actions à fort impact pour maximiser le retour sur investissement (ROI)."
+      ]
+    },
+    {
+      "h2": "Les 4 piliers pour construire une stratégie SEO efficace",
+      "points_cles": [
+        "Audit technique et sémantique : Identifier les freins (vitesse, indexation) et les opportunités de mots-clés pour bâtir des fondations solides.",
+        "Création de contenu à forte valeur ajoutée : Développer des cocons sémantiques (topic clusters) qui répondent précisément à l'intention de l'utilisateur.",
+        "Stratégie de netlinking (off-page) : Acquérir des backlinks de qualité et pertinents pour renforcer l'autorité et la crédibilité du domaine.",
+        "Analyse et itération : Utiliser les données (Google Analytics, Search Console) pour mesurer les performances et ajuster la stratégie en continu."
+      ]
+    },
+    {
+      "h2": "Calculer le ROI : comment justifier l'investissement SEO ?",
+      "points_cles": [
+        "Définir des indicateurs de performance clés (KPIs) clairs : trafic organique qualifié, taux de conversion, positionnement sur les mots-clés stratégiques.",
+        "Associer une valeur monétaire aux conversions organiques (ventes, leads, inscriptions) pour quantifier l'apport direct du SEO au chiffre d'affaires.",
+        "Comparer le coût d'acquisition client via le SEO par rapport à d'autres canaux (SEA, social media ads) pour démontrer sa rentabilité à long terme."
+      ]
+    },
+    {
+      "h2": "Le futur est déjà là : intégrer le GEO à sa stratégie SEO",
+      "points_cles": [
+        "Expliquer le concept de GEO (Generative Engine Optimization) : l'optimisation pour les moteurs de réponse basés sur l'IA (ChatGPT, Gemini, Perplexity).",
+        "Détailler comment anticiper ces mutations en créant du contenu factuel, structuré et conversationnel qui peut être utilisé comme source fiable par les LLMs.",
+        "Souligner l'importance de l'expertise, de l'autorité et de la confiance (E-E-A-T) comme rempart et critère de sélection pour l'IA générative."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "plan d'action SEO",
+    "audit SEO",
+    "référencement naturel durable",
+    "optimisation pour les moteurs de recherche",
+    "GEO",
+    "ROI SEO",
+    "pilier SEO"
+  ],
+  "questions_paa": [
+    "Combien de temps faut-il pour voir les résultats d'une stratégie SEO ?",
+    "Quels sont les piliers d'une bonne stratégie SEO ?",
+    "Comment débuter une stratégie SEO ?"
+  ],
+  "ton": "expert|pedagogique|pratique",
+  "longueur_cible": 900,
+  "category": "Stratégie"
+}

@@ -1,0 +1,88 @@
+{
+  "keyword": "Fiche établissement Google",
+  "intention": "informationnelle",
+  "titre_h1": "Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA",
+  "meta_description": "Découvrez comment créer, gérer et optimiser votre fiche établissement google pour attirer plus de clients locaux. Guide complet pour booster votre SEO local.",
+  "angle_editorial": "L'optimisation de votre fiche établissement google à l'ère de la recherche générative et de l'intelligence artificielle, en s'appuyant sur les outils et pratiques recommandées par google et la discipline du GEO.",
+  "query_fanout": [
+    "Qu'est-ce qu'une fiche établissement google et pourquoi est-elle indispensable pour la visibilité locale ?",
+    "Comment créer, vérifier et optimiser efficacement sa fiche établissement google pour maximiser son impact ?",
+    "Comment mesurer le retour sur investissement (ROI) de votre fiche établissement google et quels sont les KPIs à suivre ?",
+    "Comment la fiche établissement google s'intègre-t-elle avec l'écosystème google (search console, IA, données structurées) pour le GEO ?",
+    "Quelles sont les alternatives ou les stratégies complémentaires à une fiche établissement google pour une présence locale renforcée ?"
+  ],
+  "structure": [
+    {
+      "h2": "La fiche établissement google : pilier incontournable du SEO local",
+      "points_cles": [
+        "Définition et composantes essentielles d'une fiche établissement google (nom, adresse, téléphone, horaires, catégorie, photos).",
+        "Importance stratégique pour les entreprises physiques, PME et indépendants (salon de coiffure, restaurant, plombier, etc.).",
+        "Impact direct sur la recherche locale (pack local, Google Maps) et la prise de décision des consommateurs à proximité.",
+        "Le rôle des informations claires et à jour pour l'expérience utilisateur et les moteurs de recherche."
+      ]
+    },
+    {
+      "h2": "Création et optimisation : les bonnes pratiques pour une visibilité maximale",
+      "points_cles": [
+        "Processus détaillé de création et de validation de votre fiche établissement google (compte Google, vérification par courrier/téléphone).",
+        "Renseignement exhaustif du profil : informations de contact, horaires précis, attributs (services, accessibilité), description engageante.",
+        "Gestion stratégique des photos et des vidéos : qualité, diversité, représentativité de votre offre et de votre ambiance.",
+        "Importance de la catégorisation principale et secondaire pour le référencement pertinent.",
+        "La gestion proactive des avis clients : encourager les avis, y répondre professionnellement et gérer les critiques (réputation en ligne).",
+        "Utilisation régulière des Google Posts pour partager actualités, offres et événements, stimulant l'engagement et l'actualité du profil."
+      ]
+    },
+    {
+      "h2": "Mesurer l'efficacité et le ROI de votre présence locale",
+      "points_cles": [
+        "Les indicateurs clés de performance (KPIs) disponibles via les statistiques de Google My Business (vues, recherches, clics, appels, demandes d'itinéraire).",
+        "Analyse des vues de la fiche : comment les utilisateurs découvrent votre entreprise (recherche directe, découverte, marque).",
+        "Suivi des actions des utilisateurs : clics vers le site web, appels téléphoniques, demandes d'itinéraire, messages.",
+        "Corrélation entre l'optimisation de la fiche et l'augmentation des visites en magasin, des réservations ou des ventes.",
+        "L'importance d'un suivi régulier des performances et l'ajustement de votre stratégie en fonction des données."
+      ]
+    },
+    {
+      "h2": "La fiche établissement à l'ère du GEO et de l'écosystème google",
+      "points_cles": [
+        "Synergies avec Google Search Console (analyse de performances globales) et Google Analytics (comportement des visiteurs du site web).",
+        "Intégration des données structurées (schema.org/LocalBusiness) sur votre site web pour enrichir les résultats de recherche (rich results).",
+        "L'impact de l'intelligence artificielle de Google sur la compréhension des requêtes locales et la présentation des informations.",
+        "La recherche générative (GEO) : comment une fiche optimisée peut alimenter les réponses des LLM et des IA conversationnelles.",
+        "Tendances futures de la recherche locale et l'importance du contenu local de qualité pour rester pertinent."
+      ]
+    },
+    {
+      "h2": "Compléter votre fiche google : alternatives et stratégies omnicanales",
+      "points_cles": [
+        "Le rôle des annuaires locaux et plateformes spécialisées (PagesJaunes, Yelp, Tripadvisor) en complément de Google.",
+        "Intégration des réseaux sociaux dans votre stratégie de notoriété locale et d'engagement client.",
+        "L'importance d'un site web professionnel, optimisé pour le mobile et le SEO, servant de hub d'informations.",
+        "Publicité locale via Google Ads (campagnes géociblées) pour booster la visibilité de manière payante.",
+        "Construire une stratégie de présence en ligne holistique : harmonisation des informations sur toutes les plateformes (NAP Consistency)."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "SEO local",
+    "Google My Business",
+    "référencement local",
+    "avis Google",
+    "posts Google",
+    "visibilité en ligne",
+    "Google Maps",
+    "données structurées",
+    "marketing local",
+    "GEO"
+  ],
+  "questions_paa": [
+    "Comment créer une fiche établissement google gratuite ?",
+    "Quel est l'impact des avis clients sur ma fiche google ?",
+    "Ma fiche établissement google n'apparaît pas, que faire ?",
+    "Peut-on optimiser sa fiche google sans site web ?",
+    "Comment ajouter un service ou un produit à ma fiche établissement google ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 900,
+  "category": "Local SEO"
+}

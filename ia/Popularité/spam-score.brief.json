@@ -1,0 +1,69 @@
+{
+  "keyword": "Spam score",
+  "intention": "informationnelle",
+  "titre_h1": "Spam score : le guide pour comprendre, vérifier et réduire le risque SEO",
+  "meta_description": "Découvrez ce qu'est le Spam Score, comment l'analyser avec les bons outils et nos méthodes pour le réduire et protéger votre site des pénalités Google.",
+  "angle_editorial": "Démystifier le Spam Score : ce n'est pas une métrique de Google, mais un indicateur de risque. L'article se concentre sur les actions concrètes pour nettoyer un profil de liens en se basant sur les signaux que Google valorise (qualité, pertinence) et sanctionne (Link Spam Updates), plutôt que de se focaliser uniquement sur l'amélioration d'un score tiers.",
+  "query_fanout": [
+    "Qu'est-ce que le spam score et comment est-il calculé ?",
+    "Comment vérifier et interpréter le spam score d'un site web ?",
+    "Quelles sont les principales causes d'un spam score élevé et comment le réduire ?",
+    "Le spam score est-il un facteur direct pour Google et quelles sont les vraies alternatives à surveiller ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce que le spam score et comment est-il calculé ?",
+      "points_cles": [
+        "Définir le Spam Score comme une métrique propriétaire, principalement développée par Moz, pour prédire la probabilité qu'un site soit pénalisé par Google.",
+        "Expliquer qu'il est basé sur la corrélation avec des sites pénalisés, en analysant des dizaines de signaux (ex: faible diversité des domaines référents, profil de liens non naturel, faible autorité de domaine).",
+        "Insister sur le fait que c'est un indicateur de risque, une corrélation, et non une causalité directe ou un verdict de Google.",
+        "Mentionner que l'objectif est d'aider les SEO à identifier proactivement les problèmes potentiels dans leur profil de backlinks."
+      ]
+    },
+    {
+      "h2": "Comment vérifier et interpréter le spam score de votre site ?",
+      "points_cles": [
+        "Présenter les outils principaux pour vérifier le score : Moz Link Explorer (le créateur), mais aussi des métriques similaires comme l'Authority Score de Semrush ou le DR d'Ahrefs qui évaluent la qualité globale.",
+        "Fournir un guide simple pour utiliser un de ces outils et trouver le score.",
+        "Détailler l'échelle d'interprétation : 1-30% (faible risque, normal), 31-60% (risque moyen, à surveiller de près), 61-100% (risque élevé, action requise).",
+        "Souligner l'importance d'analyser les domaines référents spécifiques qui contribuent à un score élevé, plutôt que de se fier uniquement au chiffre global."
+      ]
+    },
+    {
+      "h2": "Les causes d'un spam score élevé et comment le réduire ?",
+      "points_cles": [
+        "Identifier les causes courantes : acquisition de liens de mauvaise qualité, réseaux de blogs privés (PBN), annuaires spammy, commentaires de blog non modérés, SEO négatif.",
+        "Connecter ces causes aux \"Link Spam Updates\" de Google qui ciblent et dévaluent activement ces schémas de liens manipulateurs.",
+        "Décrire la méthodologie de réduction : 1) Audit complet des backlinks. 2) Identification des liens toxiques. 3) Demande de suppression manuelle. 4) Utilisation de l'outil de désaveu (Disavow Tool) de Google en dernier recours.",
+        "Mettre l'accent sur le fait que la meilleure défense est une stratégie proactive de création de liens de haute qualité et pertinents."
+      ]
+    },
+    {
+      "h2": "Spam score vs Google : quels signaux l'algorithme surveille-t-il vraiment ?",
+      "points_cles": [
+        "Clarifier sans ambiguïté que Google n'utilise PAS le Spam Score de Moz. Google a ses propres systèmes sophistiqués comme SpamBrain pour la détection de spam.",
+        "Expliquer les vrais signaux que Google évalue : la pertinence contextuelle du lien, l'autorité et la fiabilité du site source (E-E-A-T), l'ancre de texte, et le comportement de l'utilisateur.",
+        "Mentionner les mises à jour spécifiques comme les \"Core Updates\" (qualité globale) et \"Spam Updates\" (patterns de spam) comme étant les mécanismes réels de sanction.",
+        "Conclure que le Spam Score est un proxy utile pour diagnostiquer un profil de lien à risque, mais que la stratégie SEO doit se concentrer sur la satisfaction des critères de qualité de Google."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "backlinks toxiques",
+    "Moz spam score",
+    "audit de liens",
+    "pénalité Google",
+    "outil de désaveu",
+    "profil de liens",
+    "link spam update"
+  ],
+  "questions_paa": [
+    "Comment savoir si un site est spammy ?",
+    "Comment supprimer les backlinks toxiques ?",
+    "Qu'est-ce qu'un bon score d'autorité de domaine ?",
+    "Comment utiliser l'outil de désaveu de Google ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 900,
+  "category": "Popularité"
+}

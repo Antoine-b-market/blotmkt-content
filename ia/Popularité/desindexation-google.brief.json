@@ -1,0 +1,86 @@
+{
+  "keyword": "Désindexation Google",
+  "intention": "informationnelle",
+  "titre_h1": "Désindexation google: guide pratique pour contrôler votre visibilité en ligne",
+  "meta_description": "Comprenez la désindexation Google: définitions, méthodes techniques (noindex, robots.txt), cas d'usage (contenus obsolètes, confidentiels) et impact SEO. Contrôlez votre empreinte numérique.",
+  "angle_editorial": "Un guide pratique et stratégique, démystifiant les techniques de désindexation Google pour offrir un contrôle total sur l'empreinte numérique et optimiser la performance SEO, en s'appuyant sur les outils et recommandations officielles de Google.",
+  "query_fanout": [
+    "Qu'est-ce que la désindexation Google et pourquoi est-elle nécessaire ?",
+    "Quelles sont les méthodes techniques pour désindexer une page ou un site de Google ?",
+    "Dans quels scénarios spécifiques doit-on envisager la désindexation d'un contenu sur Google ?",
+    "Quelle est la différence entre désindexation, suppression temporaire et interdiction d'exploration (robots.txt) ?",
+    "Quelles sont les conséquences SEO et les meilleures pratiques pour une désindexation réussie ?"
+  ],
+  "structure": [
+    {
+      "h2": "Comprendre la désindexation google: définition et enjeux",
+      "points_cles": [
+        "Expliquer la désindexation: retrait définitif d'une URL de l'index de Google, par opposition à la suppression temporaire ou au blocage d'exploration.",
+        "Motivations courantes: contenu obsolète (promotions terminées, actualités périmées), pages de test, contenu dupliqué nuisible, informations confidentielles ou sensibles, pages à faible valeur ajoutée (thin content).",
+        "Impact sur la visibilité: absence totale des résultats de recherche pour les requêtes pertinentes, libération de ressources de crawl et d'indexation pour des pages plus importantes.",
+        "Stratégie SEO: la désindexation peut être un outil de 'nettoyage' pour améliorer la qualité globale et la pertinence perçue par Google."
+      ]
+    },
+    {
+      "h2": "Les méthodes techniques de désindexation: noindex et X-Robots-Tag",
+      "points_cles": [
+        "La balise meta noindex: ajout dans l'en-tête HTML (<head>) d'une page spécifique pour indiquer à Google de ne pas l'indexer. Google doit pouvoir explorer la page pour voir cette balise.",
+        "Le X-Robots-Tag: en-tête HTTP plus puissant, permet de désindexer des fichiers non-HTML (PDF, images) ou de l'appliquer via la configuration serveur à un groupe d'URL. Peut être configuré dans .htaccess ou les paramètres du serveur.",
+        "Différences clés: le meta noindex est page par page, le X-Robots-Tag peut être appliqué de manière plus globale ou à des types de fichiers spécifiques. Les deux exigent que Google puisse accéder à la page ou au fichier pour découvrir l'instruction.",
+        "Spécificité: mentionner `data-nosnippet` pour contrôler les extraits affichés, mais rappeler que cela ne désindexe pas la page entière."
+      ]
+    },
+    {
+      "h2": "Désindexation via la Google Search Console: l'outil de suppression",
+      "points_cles": [
+        "Fonctionnement de l'outil de suppression d'URL: permet de demander une suppression rapide (environ 6 mois) de l'index Google pour une URL spécifique ou de vider le cache d'une page.",
+        "Cas d'utilisation: situations d'urgence (informations confidentielles divulguées, contenus malveillants), nettoyage rapide après une erreur, ou avant que les directives `noindex` ne soient pleinement prises en compte.",
+        "Limitations: la suppression est temporaire. Pour une désindexation permanente, il faut combiner cet outil avec une directive `noindex` ou une suppression du contenu à la source.",
+        "Suppression de contenu obsolète: pour retirer un extrait de recherche ou une version en cache d'une page qui a été mise à jour ou supprimée du site."
+      ]
+    },
+    {
+      "h2": "Distinguer désindexation, robots.txt et suppression de contenu",
+      "points_cles": [
+        "Robots.txt (disallow): empêche l'exploration (crawl) d'une page par les robots, mais ne garantit pas la désindexation si la page a déjà été indexée ou est liée par d'autres sites. Ne passe pas le PageRank.",
+        "Désindexation (noindex, X-Robots-Tag): permet l'exploration mais indique de ne pas indexer. C'est la méthode recommandée pour retirer une page de l'index tout en contrôlant son contenu.",
+        "Suppression de contenu (404/410): retire la page du serveur. Google finira par la désindexer après plusieurs passages de ses robots. Le 410 (Gone) est un signal plus fort que le 404 (Not Found).",
+        "Erreur fréquente: bloquer une page en `disallow` dans `robots.txt` et y appliquer un `noindex`. Google ne verra jamais la directive `noindex` et la page pourrait rester indexée (si elle est découverte par d'autres liens)."
+      ]
+    },
+    {
+      "h2": "Cas d'usage stratégiques et erreurs à éviter en désindexation",
+      "points_cles": [
+        "Gestion des contenus dupliqués: désindexer les versions non canoniques pour éviter la dilution de l'autorité et les pénalités de contenu dupliqué.",
+        "Pages de test ou développement: protéger les environnements de staging ou les pages en construction de l'indexation publique.",
+        "Contenus sensibles: retrait rapide d'informations personnelles, légales ou commerciales non destinées au public.",
+        "Mauvaises pratiques: ne pas désindexer des pages importantes par erreur, ne pas bloquer les ressources nécessaires au rendu (CSS/JS) pour les pages que l'on souhaite maintenir indexées.",
+        "Prudence avec les redirections 301 pour les pages désindexées si l'objectif est d'éviter l'indexation future ou de concentrer le jus SEO sur une nouvelle page pertinente."
+      ]
+    },
+    {
+      "h2": "Suivi et impact SEO de la désindexation sur votre site",
+      "points_cles": [
+        "Vérification dans la Search Console: utiliser l'outil d'inspection d'URL pour confirmer le statut d'indexation d'une page. Suivre les rapports d'indexation pour détecter les pages exclues ou désindexées.",
+        "Impact sur le trafic et les classements: une désindexation ciblée de pages à faible performance peut améliorer la qualité globale du site, potentiellement bénéficiant aux pages restantes.",
+        "Analyse avec Google Analytics: surveiller les baisses de trafic organiques sur les pages désindexées. Si le trafic baisse sur d'autres pages, cela peut signaler un problème plus large.",
+        "Optimisation du crawl budget: en désindexant les pages non essentielles, Google peut consacrer plus de ressources à l'exploration et à l'indexation de votre contenu le plus important, ce qui peut accélérer la mise à jour de l'index."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "balise noindex",
+    "X-Robots-Tag",
+    "Google Search Console suppression",
+    "fichier robots.txt",
+    "supprimer contenu Google",
+    "contrôler indexation"
+  ],
+  "questions_paa": [
+    "Combien de temps faut-il pour désindexer une page de Google ?",
+    "La désindexation d'une page affecte-t-elle le SEO global de mon site ?"
+  ],
+  "ton": "expert|pédagogique|pratique",
+  "longueur_cible": 900,
+  "category": "Popularité"
+}

@@ -1,0 +1,68 @@
+{
+  "keyword": "Fichier Robots.txt",
+  "intention": "informationnelle",
+  "titre_h1": "Fichier robots.txt : le guide pour maîtriser l'exploration de votre site",
+  "meta_description": "Découvrez ce qu'est un fichier robots.txt, sa différence cruciale avec noindex et comment le configurer pour optimiser votre budget de crawl et votre SEO.",
+  "angle_editorial": "Démystifier le robots.txt en le positionnant comme un outil de gestion du budget de crawl, et non comme une méthode de désindexation, en insistant sur la différence clé avec la balise meta `noindex`.",
+  "query_fanout": [
+    "Qu'est-ce qu'un fichier robots.txt et quel est son rôle principal en SEO ?",
+    "Quelle est la différence entre bloquer via robots.txt et utiliser une balise meta `noindex` ?",
+    "Comment créer et configurer un fichier robots.txt simple et efficace ?",
+    "Dans quels cas concrets utiliser le robots.txt pour optimiser son budget de crawl ?"
+  ],
+  "structure": [
+    {
+      "h2": "Définition et rôle du fichier robots.txt pour le SEO",
+      "points_cles": [
+        "Le robots.txt est un fichier texte placé à la racine d'un site web qui donne des instructions aux robots d'exploration (crawlers).",
+        "Son rôle n'est pas d'empêcher l'indexation, mais bien de guider les robots en leur interdisant l'accès à certaines zones (pages, répertoires, fichiers).",
+        "L'objectif principal est la gestion et l'optimisation du 'budget de crawl' : concentrer les efforts de Googlebot sur vos pages les plus importantes.",
+        "Sa syntaxe de base utilise des directives simples comme `User-agent` (pour cibler un robot spécifique) et `Disallow` (pour interdire l'accès)."
+      ]
+    },
+    {
+      "h2": "Robots.txt vs meta `noindex` : ne plus confondre exploration et indexation",
+      "points_cles": [
+        "Le fichier robots.txt agit sur l'exploration (Crawl) : il demande au robot de ne même pas visiter l'URL.",
+        "La balise meta robots `noindex` agit sur l'indexation (Index) : elle autorise la visite du robot mais lui ordonne de ne pas inclure la page dans les résultats de recherche.",
+        "Attention : une page bloquée par le robots.txt peut quand même être indexée si elle reçoit des liens externes (Google l'indexe sans la visiter).",
+        "Utilisez le robots.txt pour les sections techniques sans valeur SEO et `noindex` pour les pages que vous voulez activement exclure de l'index Google."
+      ]
+    },
+    {
+      "h2": "Tutoriel : créer et configurer votre fichier robots.txt",
+      "points_cles": [
+        "Utilisez un éditeur de texte simple (Bloc-notes, TextEdit, VS Code) pour créer un fichier.",
+        "Nommez-le impérativement `robots.txt` (en minuscules) et placez-le à la racine de votre site (ex: `www.votresite.com/robots.txt`).",
+        "Exemple de syntaxe pour bloquer un répertoire : `User-agent: *` (s'adresse à tous les robots) suivi de `Disallow: /mon-repertoire-prive/`.",
+        "Testez toujours votre fichier avant et après sa mise en ligne via l'outil de test de Google Search Console pour éviter de bloquer des ressources importantes."
+      ]
+    },
+    {
+      "h2": "Cas d'usage : quand utiliser le robots.txt pour un impact SEO positif",
+      "points_cles": [
+        "Bloquez les pages de résultats de la recherche interne de votre site (`Disallow: /recherche?*`).",
+        "Interdisez l'accès aux pages de connexion, de comptes clients ou de panier d'achat pour préserver le budget de crawl.",
+        "Excluez les répertoires contenant des scripts, des fichiers techniques ou des ressources sans intérêt pour les utilisateurs (ex: PDF de mentions légales).",
+        "Gérez les URLs contenant des paramètres de tri ou de session qui créent du contenu dupliqué et gaspillent le temps des robots d'exploration."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "budget de crawl",
+    "directives robots",
+    "user-agent disallow",
+    "meta robots noindex",
+    "optimisation SEO technique",
+    "googlebot"
+  ],
+  "questions_paa": [
+    "Où placer le fichier robots.txt ?",
+    "Comment savoir si une page est bloquée par le robots.txt ?",
+    "Quelle est la différence entre Disallow et noindex ?",
+    "Comment autoriser un seul bot dans le robots.txt ?"
+  ],
+  "ton": "pédagogique",
+  "longueur_cible": 900,
+  "category": "Audit"
+}

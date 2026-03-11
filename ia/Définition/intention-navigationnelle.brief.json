@@ -1,0 +1,66 @@
+{
+  "keyword": "Intention navigationnelle",
+  "intention": "informationnelle",
+  "titre_h1": "L'intention navigationnelle : le signal client à intégrer dans votre tracking omnicanal",
+  "meta_description": "Découvrez ce qu'est l'intention navigationnelle en SEO et comment son analyse, couplée à l'IA, peut révéler des insights sur le parcours client omnicanal.",
+  "angle_editorial": "Traiter l'intention navigationnelle non pas comme un simple concept SEO, mais comme un signal data stratégique dans un écosystème omnicanal. Démontrer que son suivi et son analyse via l'IA permettent de mieux comprendre la fidélité client et d'optimiser les points de contact (online et retail).",
+  "query_fanout": [
+    "Qu'est-ce que l'intention navigationnelle et comment la définir ?",
+    "Quelle est la différence fondamentale entre une intention navigationnelle, informationnelle et transactionnelle ?",
+    "Comment mesurer concrètement l'impact et le ROI des requêtes navigationnelles ?",
+    "De quelle manière exploiter l'intention navigationnelle dans une stratégie de tracking client omnicanal ?",
+    "Quels outils et technologies, comme l'IA, permettent d'analyser et prédire ces intentions de recherche ?"
+  ],
+  "structure": [
+    {
+      "h2": "Définition : qu'est-ce que l'intention navigationnelle ?",
+      "points_cles": [
+        "L'utilisateur sait précisément où il veut aller et utilise le moteur de recherche comme un raccourci.",
+        "Exemples typiques : 'connexion linkedin', 'youtube', 'github antoine blot'.",
+        "C'est un signal fort de notoriété de marque et de fidélité client."
+      ]
+    },
+    {
+      "h2": "Navigationnelle vs Informationnelle vs Transactionnelle : le jeu des 3 intentions",
+      "points_cles": [
+        "Tableau comparatif simple : Navigationnelle (aller vers), Informationnelle (savoir), Transactionnelle (faire/acheter).",
+        "Focus sur la finalité de l'utilisateur : trouver un lieu digital connu, obtenir une réponse, ou réaliser une action.",
+        "Importance de ne pas confondre une recherche de marque (navigationnelle) et une recherche produit de cette même marque (commerciale/transactionnelle)."
+      ]
+    },
+    {
+      "h2": "Mesurer l'intention navigationnelle : au-delà du simple trafic de marque",
+      "points_cles": [
+        "Utilisation de la Google Search Console pour isoler et filtrer les requêtes de marque.",
+        "Analyse des pages de destination associées : pages de connexion, 'à propos', 'contact', espace client.",
+        "Calcul du ROI : corréler l'augmentation du trafic navigationnel avec les métriques de rétention client (ex: LTV) et le succès des campagnes offline."
+      ]
+    },
+    {
+      "h2": "Intégrer l'intention navigationnelle dans une stratégie omnicanal",
+      "points_cles": [
+        "Le parcours client moderne : publicité offline (TV, radio) > recherche navigationnelle sur mobile > visite en magasin ou achat en ligne.",
+        "Utiliser les données de recherche pour enrichir les profils clients dans un CRM ou une CDP.",
+        "Appliquer des modèles d'IA pour prédire les pics de recherches navigationnelles suite à des actions marketing et ajuster les ressources."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "type d'intention de recherche",
+    "requête de marque",
+    "parcours client omnicanal",
+    "analyse de logs SEO",
+    "notoriété de marque",
+    "stratégie SEO",
+    "tracking client"
+  ],
+  "questions_paa": [
+    "Comment savoir si un mot clé est navigationnel ?",
+    "Pourquoi le trafic de marque est-il important en SEO ?",
+    "Quels sont les 4 types d'intention de recherche ?",
+    "Comment optimiser son site pour une intention navigationnelle ?"
+  ],
+  "ton": "expert|pedagogique|pratique",
+  "longueur_cible": 900,
+  "category": "Définition"
+}

@@ -1,0 +1,64 @@
+{
+  "keyword": "Nettoyage de liens",
+  "intention": "informationnelle",
+  "titre_h1": "Nettoyage de liens : le guide pour assainir votre profil de backlinks",
+  "meta_description": "Découvrez quand et comment réaliser un nettoyage de liens efficace. Protégez votre SEO des backlinks toxiques et des pénalités Google. Guide pratique.",
+  "angle_editorial": "Le nettoyage de liens comme fondation d'une stratégie de netlinking d'autorité : une approche manuelle et stratégique, loin des solutions automatiques qui peuvent nuire à votre SEO.",
+  "query_fanout": [
+    "Qu'est-ce qu'un nettoyage de liens et pourquoi est-ce crucial pour le SEO ?",
+    "Quels sont les signes d'un profil de liens toxiques nécessitant une intervention ?",
+    "Comment réaliser un audit et un nettoyage de liens de manière méthodique ?",
+    "Nettoyage manuel vs outils automatiques : quelle est la meilleure approche et pour quel ROI ?"
+  ],
+  "structure": [
+    {
+      "h2": "Pourquoi le nettoyage de liens est le pilier d'un SEO pérenne",
+      "points_cles": [
+        "Définir le nettoyage de liens (link cleanup) comme l'action d'identifier et de neutraliser les backlinks nuisibles (liens toxiques).",
+        "Expliquer son rôle préventif pour éviter les pénalités algorithmiques (Google Penguin) et curatif pour se remettre d'une sanction manuelle.",
+        "Positionner un profil de liens sain comme la base indispensable avant toute campagne de netlinking d'autorité."
+      ]
+    },
+    {
+      "h2": "Quand faut-il auditer et nettoyer son profil de backlinks ?",
+      "points_cles": [
+        "Lister les signaux d'alerte : chute de trafic organique soudaine, notification de 'liens artificiels' dans la Google Search Console, historique de netlinking agressif ou automatisé.",
+        "Identifier les moments stratégiques : avant de lancer une campagne de création de liens, après l'acquisition d'un nom de domaine, ou lors d'un audit SEO complet.",
+        "Insister sur le fait qu'un audit régulier est une action proactive de maintenance SEO, pas seulement une réaction à un problème."
+      ]
+    },
+    {
+      "h2": "La méthode de nettoyage manuel : un processus en 3 étapes clés",
+      "points_cles": [
+        "Étape 1 - Audit : Collecter l'ensemble des backlinks via des outils (Ahrefs, GSC, Semrush) et les compiler dans une feuille de calcul.",
+        "Étape 2 - Analyse : Évaluer manuellement chaque lien selon des critères précis (pertinence thématique, autorité du domaine, ancre de lien, environnement du lien) pour le classifier (toxique, suspect, sûr).",
+        "Étape 3 - Action : Contacter les webmasters pour demander le retrait des liens toxiques et, en dernier recours, utiliser l'outil de désaveu (disavow tool) de Google avec une extrême précaution."
+      ]
+    },
+    {
+      "h2": "Approche artisanale vs. outils automatiques : le choix de la précision",
+      "points_cles": [
+        "Comparer l'analyse humaine, capable de comprendre le contexte et la nuance d'un lien, à la classification souvent binaire et imprécise des outils automatiques.",
+        "Mettre en garde contre le risque majeur des outils : le désaveu de liens de qualité par erreur, pouvant entraîner une perte de positions.",
+        "Présenter le nettoyage manuel comme un investissement stratégique garantissant la précision, protégeant les actifs SEO et assurant un meilleur retour sur investissement à long terme."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "backlinks toxiques",
+    "profil de liens",
+    "outil de désaveu google",
+    "pénalité google penguin",
+    "audit de backlinks",
+    "désavouer des liens",
+    "link cleanup"
+  ],
+  "questions_paa": [
+    "Comment savoir si un backlink est de mauvaise qualité ?",
+    "Est-ce que l'outil de désaveu de Google est toujours efficace ?",
+    "Combien de temps faut-il pour voir les résultats d'un nettoyage de liens ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 900,
+  "category": "Popularité"
+}

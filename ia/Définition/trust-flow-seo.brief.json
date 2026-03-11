@@ -1,0 +1,72 @@
+{
+  "keyword": "Trust Flow SEO",
+  "intention": "informationnelle",
+  "titre_h1": "Trust flow SEO : le guide pour aligner votre métrique avec l'E-E-A-T de Google",
+  "meta_description": "Découvrez comment le Trust Flow de Majestic est un indicateur clé pour le Trust de l'E-E-A-T. Apprenez à l'améliorer pour renforcer la confiance de Google.",
+  "angle_editorial": "Analyser le Trust Flow non pas comme une simple métrique tierce, mais comme un proxy quantifiable du pilier 'Trust' (Confiance) dans le framework E-E-A-T de Google. L'article démontre comment l'amélioration du Trust Flow passe par des actions qui renforcent directement les signaux de confiance reconnus par Google.",
+  "query_fanout": [
+    "Qu'est-ce que le Trust Flow en SEO et comment se différencie-t-il du Citation Flow ?",
+    "Pourquoi un Trust Flow élevé est-il un signal positif pour le 'T' (Trust) de l'E-E-A-T ?",
+    "Quelles sont les stratégies concrètes pour mesurer et augmenter son Trust Flow ?",
+    "Quels outils et alternatives existent pour analyser la confiance d'un site web ?"
+  ],
+  "structure": [
+    {
+      "h2": "Définition : qu'est-ce que le Trust Flow en SEO ?",
+      "points_cles": [
+        "Le Trust Flow (TF) est une métrique développée par l'outil Majestic SEO pour évaluer la qualité et la fiabilité des backlinks pointant vers un site web.",
+        "Il fonctionne sur une échelle logarithmique de 0 à 100, où un score élevé indique des liens provenant de sites de grande confiance, considérés comme des 'sources de confiance'.",
+        "Différence clé avec le Citation Flow (CF) : le CF mesure la quantité de liens (l'influence), tandis que le TF mesure la qualité de ces liens (la confiance). Un ratio TF/CF proche de 1 est un indicateur de profil de liens sain.",
+        "Le calcul est basé sur la proximité de votre site avec un ensemble de sites de référence validés manuellement par Majestic, créant un indicateur de 'proximité de confiance'."
+      ]
+    },
+    {
+      "h2": "Lien entre Trust Flow et E-E-A-T : le 'T' de la confiance",
+      "points_cles": [
+        "Le 'T' (Trustworthiness/Confiance) est le pilier central du framework E-E-A-T de Google. Le Trust Flow sert de proxy externe pour mesurer cet aspect.",
+        "Un TF élevé suggère que votre contenu est validé par des sources expertes et faisant autorité, ce qui est un signal direct de confiance pour Google.",
+        "Les actions qui augmentent le TF (obtenir des liens de sites académiques, gouvernementaux, médias reconnus) renforcent simultanément votre autorité (le 'A' de E-E-A-T).",
+        "Google évalue la confiance via des signaux directs (sécurité du site, informations de contact claires, politiques de retour). Un bon profil de liens, mesuré par le TF, vient corroborer ces signaux on-page pour former une image globale de fiabilité."
+      ]
+    },
+    {
+      "h2": "Méthode : 5 étapes pour améliorer votre Trust Flow",
+      "points_cles": [
+        "1. Audit des backlinks : Utilisez Majestic ou un outil similaire pour identifier et désavouer les liens toxiques ou de faible qualité qui tirent votre score vers le bas.",
+        "2. Link building qualitatif : Ciblez l'acquisition de backlinks depuis des sites avec un Trust Flow élevé dans votre thématique. Privilégiez la pertinence et la confiance à la quantité.",
+        "3. Optimisation on-page de la confiance (E-E-A-T) : Intégrez des signaux de confiance sur votre site : biographies d'auteurs détaillées, pages 'À propos' et 'Contact' complètes, mentions légales, et traitement sécurisé des données (HTTPS).",
+        "4. Marketing de contenu : Créez du contenu d'expert (études, données originales) susceptible d'être cité naturellement par des sources fiables et faisant autorité.",
+        "5. Analyse des concurrents : Étudiez le profil de liens des sites concurrents ayant un TF élevé pour identifier des opportunités de liens de qualité."
+      ]
+    },
+    {
+      "h2": "Outils et alternatives pour mesurer la confiance SEO",
+      "points_cles": [
+        "Majestic SEO : L'outil de référence pour le Trust Flow et le Citation Flow, offrant une analyse granulaire du profil de liens.",
+        "Ahrefs - Domain Rating (DR) : Le DR évalue la force globale du profil de liens d'un site. Bien que différent, un DR élevé est souvent corrélé à un profil de liens de confiance.",
+        "Moz - Domain Authority (DA) : Similaire au DR, le DA de Moz prédit le potentiel de classement d'un site. Il est plus axé sur la 'puissance' globale que sur la 'confiance' pure.",
+        "SEMrush - Authority Score : Une métrique composite qui prend en compte la qualité des liens, le trafic et d'autres facteurs pour évaluer l'autorité globale d'un domaine.",
+        "Le choix de l'outil dépend de l'objectif : Majestic reste le spécialiste de la dichotomie qualité/quantité (TF/CF), tandis que les autres offrent une vision plus holistique de l'autorité."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "Majestic SEO",
+    "Citation Flow",
+    "métrique de confiance SEO",
+    "améliorer E-E-A-T",
+    "qualité des backlinks",
+    "profil de liens",
+    "Domain Authority",
+    "Ahrefs DR"
+  ],
+  "questions_paa": [
+    "Quel est un bon score de Trust Flow ?",
+    "Comment le Trust Flow est-il différent du Domain Authority (DA) ?",
+    "Est-ce que le Trust Flow est un facteur de classement direct pour Google ?",
+    "Comment augmenter rapidement son Trust Flow ?"
+  ],
+  "ton": "pédagogique",
+  "longueur_cible": 900,
+  "category": "Définition"
+}

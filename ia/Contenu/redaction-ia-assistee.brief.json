@@ -1,0 +1,74 @@
+{
+  "keyword": "Rédaction IA assistée",
+  "intention": "informationnelle",
+  "titre_h1": "Rédaction IA assistée : la méthode pour multiplier votre productivité",
+  "meta_description": "Découvrez comment la rédaction IA assistée transforme la création de contenu. Apprenez la méthode, les outils et les techniques pour être plus efficace.",
+  "angle_editorial": "Approche stratégique et non-outil : se concentrer sur le processus de collaboration homme-machine pour un contenu de haute qualité, plutôt que sur une simple revue d'outils.",
+  "query_fanout": [
+    "Qu'est-ce que la rédaction IA assistée exactement ?",
+    "Quels sont les avantages concrets de la rédaction assistée par IA ?",
+    "Quelle est la meilleure méthode pour intégrer l'IA dans son processus de rédaction ?",
+    "Quels sont les meilleurs outils et comment choisir le bon ?",
+    "Quels sont les cas d'usage les plus pertinents pour une entreprise ?"
+  ],
+  "structure": [
+    {
+      "h2": "Définition : qu'est-ce que la rédaction IA assistée ?",
+      "points_cles": [
+        "Clarifier que c'est une collaboration homme-machine, pas un remplacement total.",
+        "Distinguer les IA génératives (GPT-4) des assistants d'écriture (Grammarly, Antidote).",
+        "L'objectif principal : augmenter la vitesse, la créativité et la cohérence du rédacteur."
+      ]
+    },
+    {
+      "h2": "Pourquoi utiliser l'IA pour la rédaction de contenu ?",
+      "points_cles": [
+        "Gain de productivité : réduire drastiquement le temps de recherche et de premier jet.",
+        "Amélioration de la qualité : suggestions stylistiques, correction avancée, uniformisation du ton.",
+        "Créativité augmentée : lutte contre la page blanche, génération d'idées et d'angles originaux."
+      ]
+    },
+    {
+      "h2": "La méthode en 3 étapes pour une rédaction IA efficace",
+      "points_cles": [
+        "Étape 1 - Le Brief : l'importance capitale du prompt engineering pour guider l'IA.",
+        "Étape 2 - La Génération : utiliser l'IA pour créer la structure et le premier jet (draft).",
+        "Étape 3 - L'Édition humaine : fact-checking, personnalisation, ajout d'expertise et d'émotion."
+      ]
+    },
+    {
+      "h2": "Choisir son outil de rédaction IA : critères et exemples",
+      "points_cles": [
+        "Critères de sélection : spécialisation de l'outil, modèle de langue (LLM), intégrations et prix.",
+        "Exemples par catégorie : génération (Jasper, Copy.ai), optimisation SEO (SurferSEO), correction (Grammarly).",
+        "Focus sur le ROI : choisir un outil adapté à ses besoins pour maximiser l'efficacité."
+      ]
+    },
+    {
+      "h2": "5 cas d'usage où la rédaction IA excelle",
+      "points_cles": [
+        "E-commerce : création de centaines de fiches produits uniques et optimisées.",
+        "Content Marketing : rédaction de premiers jets pour des articles de blog et des livres blancs.",
+        "Réseaux Sociaux : génération de variations de posts pour différentes plateformes.",
+        "Emailing : rédaction de newsletters et de séquences d'emails personnalisées.",
+        "SEO : création de briefs de contenu et de méta-descriptions à grande échelle."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "outils rédaction IA",
+    "assistant d'écriture",
+    "contenu généré par IA",
+    "IA pour rédacteur web",
+    "prompt pour rédaction",
+    "logiciel de rédaction"
+  ],
+  "questions_paa": [
+    "Est-ce que Google pénalise le contenu IA ?",
+    "Comment utiliser ChatGPT pour écrire un article de blog ?",
+    "Quel est le meilleur outil de rédaction IA gratuit ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 900,
+  "category": "Contenu"
+}

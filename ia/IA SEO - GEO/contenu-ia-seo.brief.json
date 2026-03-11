@@ -1,0 +1,62 @@
+{
+  "keyword": "Contenu IA SEO",
+  "intention": "informationnelle",
+  "titre_h1": "Contenu IA SEO : le guide pour une stratégie de référencement sémantique",
+  "meta_description": "Découvrez comment le contenu IA SEO transforme votre référencement. Passez des mots-clés à l'intention utilisateur pour une pertinence maximale et un meilleur ROI.",
+  "angle_editorial": "Mettre en lumière la transition du SEO traditionnel vers une approche sémantique et contextuelle, rendue possible et scalable par l'IA. L'IA n'est pas un simple rédacteur, mais un partenaire stratégique pour comprendre et satisfaire l'intention de recherche.",
+  "query_fanout": [
+    "Qu'est-ce que le contenu IA SEO et en quoi diffère-t-il du SEO traditionnel ?",
+    "Comment créer concrètement un contenu optimisé pour le SEO avec une IA ?",
+    "Quel est le coût et le retour sur investissement (ROI) d'une stratégie de contenu IA ?",
+    "Quels sont les meilleurs cas d'usage et les limites du contenu généré par IA pour le SEO ?"
+  ],
+  "structure": [
+    {
+      "h2": "Définition : du SEO par mot-clé au contenu IA sémantique",
+      "points_cles": [
+        "Comparaison de l'approche par mots-clés (traditionnelle) et de l'approche sémantique (IA).",
+        "Rôle du NLP (Natural Language Processing) pour comprendre l'intention de recherche au-delà des termes exacts.",
+        "Objectif : passer du simple positionnement sur un terme à la pertinence contextuelle globale pour l'utilisateur."
+      ]
+    },
+    {
+      "h2": "Méthode : créer un article optimisé avec l'intelligence artificielle",
+      "points_cles": [
+        "Étapes pratiques : analyse sémantique du sujet, prompt engineering pour le plan et la rédaction.",
+        "Importance cruciale de la supervision humaine : fact-checking, ajout d'expertise, alignement du ton.",
+        "Intégration des entités nommées et du champ lexical pertinent pour renforcer la pertinence contextuelle."
+      ]
+    },
+    {
+      "h2": "Coût et ROI : l'IA est-elle rentable pour votre stratégie de contenu ?",
+      "points_cles": [
+        "Analyse des coûts : abonnements aux outils IA et temps de supervision humaine vs. rédaction 100% humaine.",
+        "Calcul du ROI : gain de temps, scalabilité de la production, couverture de requêtes de longue traîne.",
+        "Facteurs influençant la rentabilité : complexité du sujet, niveau d'expertise requis, volume de contenu."
+      ]
+    },
+    {
+      "h2": "Cas d'usage et limites : quand utiliser (et ne pas utiliser) l'IA en SEO",
+      "points_cles": [
+        "Applications idéales : génération de FAQ, descriptions produits, articles informationnels, reformulation.",
+        "Limites et risques : contenu YMYL (Your Money Your Life), journalisme d'investigation, opinion experte unique.",
+        "Le modèle hybride gagnant : l'IA comme assistant de recherche et de premier jet, finalisé par un expert humain."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "SEO sémantique",
+    "génération de contenu IA",
+    "NLP pour le SEO",
+    "optimisation sémantique",
+    "intention de recherche IA"
+  ],
+  "questions_paa": [
+    "Est-ce que Google pénalise le contenu généré par IA ?",
+    "Comment utiliser ChatGPT pour écrire un article SEO ?",
+    "Quels sont les meilleurs outils IA pour la rédaction SEO ?"
+  ],
+  "ton": "pédagogique",
+  "longueur_cible": 900,
+  "category": "IA SEO - GEO"
+}

@@ -1,0 +1,65 @@
+{
+  "keyword": "Données structurées",
+  "intention": "informationnelle",
+  "titre_h1": "Données structurées : le guide complet pour obtenir des résultats de recherche enrichis",
+  "meta_description": "Découvrez ce que sont les données structurées, comment les implémenter avec JSON-LD et pourquoi elles sont cruciales pour le SEO et les rich snippets. Guide 2024.",
+  "angle_editorial": "Démystifier les données structurées en un guide pratique : passer de la théorie (Schema.org) à l'implémentation concrète (JSON-LD) pour transformer sa visibilité sur Google, avec des exemples clairs et des outils.",
+  "query_fanout": [
+    "Qu'est-ce que les données structurées et comment fonctionnent-elles pour le SEO ?",
+    "Quelle est la différence entre les données structurées et les métadonnées, et quel est leur impact sur les rich snippets ?",
+    "Comment implémenter concrètement les données structurées sur un site, notamment avec JSON-LD ?",
+    "Quels sont les types de données structurées les plus importants et comment les choisir pour son activité ?"
+  ],
+  "structure": [
+    {
+      "h2": "Comprendre les données structurées : le langage des moteurs de recherche",
+      "points_cles": [
+        "Définition : un format de balisage standardisé, utilisant le vocabulaire de Schema.org, pour fournir des informations explicites sur le contenu d'une page aux moteurs de recherche.",
+        "Fonctionnement : elles traduisent votre contenu en un langage que Google comprend nativement, lui permettant de contextualiser l'information et de la qualifier (ex: ceci est une recette, ceci est un avis client).",
+        "Analogie : c'est comme ajouter des étiquettes de prix, des ingrédients et des temps de cuisson sur un produit en supermarché, au lieu de juste donner son nom. Le client (Google) sait immédiatement à quoi il a affaire."
+      ]
+    },
+    {
+      "h2": "Données structurées vs métadonnées : l'impact sur les rich snippets",
+      "points_cles": [
+        "Distinction clé : les métadonnées (balise title, meta description) suggèrent de quoi parle la page, tandis que les données structurées affirment et décrivent précisément les entités qu'elle contient.",
+        "Impact direct sur le CTR : elles sont le prérequis pour obtenir des 'résultats enrichis' (rich snippets) dans les SERPs : étoiles d'avis, FAQ déroulantes, prix des produits, durée d'un événement.",
+        "ROI SEO : bien qu'elles ne soient pas un facteur de classement direct, l'augmentation de la visibilité et du taux de clic (CTR) générée par les rich snippets envoie des signaux positifs forts à Google."
+      ]
+    },
+    {
+      "h2": "Guide pratique : implémenter les données structurées avec JSON-LD",
+      "points_cles": [
+        "JSON-LD : le format recommandé par Google. C'est un script simple à insérer dans le <head> ou le <body> de votre page, ce qui le rend indépendant du code HTML existant et plus facile à gérer.",
+        "Étapes de mise en place : 1) Identifier le type de contenu (article, produit, FAQ). 2) Utiliser un générateur de balises Schema pour créer le code sans erreur. 3) Intégrer le script sur la page concernée. 4) Valider le code avec l'outil de test des résultats enrichis de Google.",
+        "Consignes générales : le contenu balisé doit être visible par les utilisateurs sur la page. Ne balisez pas du contenu caché ou trompeur, sous peine de pénalité pour spam."
+      ]
+    },
+    {
+      "h2": "Choisir les bons schémas : les cas d'usage essentiels pour votre site",
+      "points_cles": [
+        "Les incontournables : Article (pour les blogs), BreadcrumbList (fil d'Ariane pour la navigation), FAQPage (pour les pages de questions-réponses), Product (pour l'e-commerce), LocalBusiness (pour les entreprises locales).",
+        "Sélection stratégique : le choix dépend exclusivement du contenu de la page. Une page produit doit utiliser le schéma 'Product', une recette le schéma 'Recipe'. La pertinence est la clé pour être éligible aux fonctionnalités de recherche.",
+        "Explorer les possibilités : la galerie de recherche Google est la meilleure ressource pour découvrir tous les types de résultats enrichis possibles et les données structurées requises pour chacun, comme les 'Actions relatives aux livres' ou les 'Événements'."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "schema.org",
+    "JSON-LD",
+    "rich snippets",
+    "résultats enrichis",
+    "balisage sémantique",
+    "test données structurées",
+    "google search console"
+  ],
+  "questions_paa": [
+    "C'est quoi un rich snippet ?",
+    "Comment vérifier les données structurées d'un site ?",
+    "Est-ce que les données structurées sont obligatoires pour le SEO ?",
+    "Quel est le meilleur format pour les données structurées ?"
+  ],
+  "ton": "pédagogique",
+  "longueur_cible": 900,
+  "category": "Définition"
+}

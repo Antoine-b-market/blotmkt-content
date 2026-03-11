@@ -1,0 +1,71 @@
+{
+  "keyword": "Vitesse de chargement",
+  "intention": "informationnelle",
+  "titre_h1": "Vitesse de chargement : le guide pour accélérer votre site et booster vos conversions",
+  "meta_description": "Découvrez pourquoi la vitesse de chargement est cruciale pour votre SEO et vos conversions. Apprenez à optimiser votre site pour une expérience parfaite.",
+  "angle_editorial": "L'angle est pragmatique et orienté business : la vitesse de chargement n'est pas qu'une métrique technique, c'est un levier de croissance direct. Chaque conseil est lié à un impact mesurable sur le ROI (conversion, SEO, confiance).",
+  "query_fanout": [
+    "Qu'est-ce que la vitesse de chargement et pourquoi est-elle un pilier du succès en ligne ?",
+    "Quel est l'impact direct d'une seconde de chargement sur le SEO et les conversions ?",
+    "Comment mesurer efficacement la vitesse de son site avec les bons outils ?",
+    "Quels sont les principaux facteurs techniques à optimiser pour un site plus rapide ?",
+    "En quoi le choix de l'hébergement serveur affecte-t-il directement les performances ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce que la vitesse de chargement et pourquoi est-elle cruciale ?",
+      "points_cles": [
+        "Définition du temps de chargement et des métriques clés (TTFB, FCP, LCP).",
+        "Impact sur l'expérience utilisateur : frustration, taux de rebond et abandon.",
+        "Rôle fondamental dans la construction de la confiance et de l'image de marque."
+      ]
+    },
+    {
+      "h2": "L'impact mesurable de la vitesse sur le SEO et le taux de conversion",
+      "points_cles": [
+        "Corrélation directe entre vitesse et classement Google via les Core Web Vitals.",
+        "Analyse de cas concrets : comment Amazon a prouvé que 0.1s de latence impacte les ventes.",
+        "Calcul du ROI : comment une seconde gagnée se traduit en augmentation du chiffre d'affaires."
+      ]
+    },
+    {
+      "h2": "Comment mesurer efficacement la vitesse de votre site avec les bons outils",
+      "points_cles": [
+        "Utiliser Google PageSpeed Insights pour un diagnostic rapide et des recommandations.",
+        "Analyser la cascade de chargement avec GTmetrix ou WebPageTest pour identifier les goulots d'étranglement.",
+        "Comprendre l'importance des données de terrain (CrUX) vs les données de laboratoire."
+      ]
+    },
+    {
+      "h2": "Les facteurs techniques à optimiser pour un site plus rapide",
+      "points_cles": [
+        "Optimisation des images : compression, formats nouvelle génération (WebP, AVIF) et lazy loading.",
+        "Minification des ressources critiques : réduire le poids des fichiers CSS, JavaScript et HTML.",
+        "Mise en place d'une stratégie de cache navigateur et serveur efficace."
+      ]
+    },
+    {
+      "h2": "Le rôle fondamental de l'hébergement serveur dans la performance",
+      "points_cles": [
+        "Comparaison des types d'hébergement : mutualisé, VPS, dédié et leur impact sur la vitesse.",
+        "Importance de la géolocalisation du serveur par rapport à votre audience cible.",
+        "Comment un CDN (Content Delivery Network) réduit la latence et accélère la distribution du contenu."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "optimisation performance web",
+    "Core Web Vitals",
+    "temps de chargement page",
+    "site rapide",
+    "PageSpeed Insights"
+  ],
+  "questions_paa": [
+    "Quel est un bon temps de chargement pour un site web ?",
+    "Comment savoir si mon site est lent ?",
+    "Comment tester la vitesse d'un site sur mobile ?"
+  ],
+  "ton": "pédagogique",
+  "longueur_cible": 900,
+  "category": "Audit"
+}

@@ -1,0 +1,64 @@
+{
+  "keyword": "Internal linking",
+  "intention": "informationnelle",
+  "titre_h1": "Internal linking : le guide pour un maillage interne seo parfait",
+  "meta_description": "Découvrez comment l'internal linking optimise votre SEO. Maîtrisez le maillage interne pour améliorer votre PageRank, votre indexation et votre budget de crawl.",
+  "angle_editorial": "L'internal linking à l'ère des LLMs : comment guider les IA et les utilisateurs en créant une structure sémantique claire pour un impact SEO maximal.",
+  "query_fanout": [
+    "Qu'est-ce que l'internal linking et pourquoi est-ce un pilier du SEO ?",
+    "Quels sont les différents types de liens internes et leurs rôles stratégiques ?",
+    "Comment construire une architecture de maillage interne qui booste le PageRank et l'indexation ?",
+    "Quelles erreurs de maillage interne pénalisent le budget de crawl et comment les éviter ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce que l'internal linking : le pilier de votre architecture SEO",
+      "points_cles": [
+        "Définition : un lien hypertexte connectant deux pages du même nom de domaine.",
+        "Triple fonction : facilite la navigation de l'utilisateur, distribue l'autorité (PageRank) à travers le site, et aide les moteurs à comprendre la hiérarchie et la sémantique du contenu.",
+        "Impact critique sur l'indexation des nouvelles pages et la priorisation des contenus importants."
+      ]
+    },
+    {
+      "h2": "Les types de liens internes et leur impact stratégique",
+      "points_cles": [
+        "Liens contextuels : insérés dans le corps du texte, ils possèdent le plus fort poids sémantique car leur ancre est entourée de contenu thématique.",
+        "Liens de navigation : présents dans le menu, le fil d'Ariane ou le footer, ils structurent l'expérience utilisateur et la compréhension globale du site par les robots.",
+        "Analyse des ancres de texte : l'importance d'utiliser des ancres variées et descriptives plutôt que des termes génériques comme 'cliquez ici'."
+      ]
+    },
+    {
+      "h2": "Construire une architecture de maillage performante : méthodes et schémas",
+      "points_cles": [
+        "Le modèle du cocon sémantique (siloing) : organiser le contenu en silos thématiques stricts où les pages ne se lient qu'entre elles au sein du même silo.",
+        "La stratégie du topic cluster : une page pilier (pillar page) traite d'un sujet large et est liée à de multiples pages satellites (cluster content) qui approfondissent des sous-sujets.",
+        "Objectif commun : concentrer le 'jus de lien' sur les pages stratégiques et démontrer une expertise approfondie sur un sujet donné."
+      ]
+    },
+    {
+      "h2": "Auditer et corriger les erreurs qui gaspillent votre budget de crawl",
+      "points_cles": [
+        "Identifier et corriger les liens internes brisés (erreur 404) qui créent des culs-de-sac pour les robots et frustrent les utilisateurs.",
+        "Éviter la dilution du PageRank en limitant le nombre de liens sur une page et en priorisant les plus importants.",
+        "Traquer les chaînes de redirection et les liens vers des pages non-indexables (noindex, robots.txt) qui consomment inutilement le budget de crawl."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "maillage interne",
+    "cocon sémantique",
+    "ancre de texte",
+    "budget de crawl",
+    "jus de lien",
+    "topic cluster"
+  ],
+  "questions_paa": [
+    "Comment optimiser les ancres de liens internes ?",
+    "Combien de liens internes par page sont recommandés ?",
+    "Quelle est la différence entre un lien interne et un lien externe ?",
+    "Comment trouver les liens internes cassés d'un site ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 900,
+  "category": "Contenu"
+}

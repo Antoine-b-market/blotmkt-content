@@ -1,0 +1,66 @@
+{
+  "keyword": "UX Design SEO",
+  "intention": "informationnelle",
+  "titre_h1": "UX design SEO : le guide pour fusionner expérience utilisateur et référencement",
+  "meta_description": "Découvrez comment l'UX design SEO booste vos classements. Apprenez à intégrer l'expérience utilisateur dans votre stratégie pour satisfaire Google et vos visiteurs.",
+  "angle_editorial": "Approche pragmatique et orientée ROI, démontrant que l'UX n'est pas un coût mais un investissement direct dans la performance SEO. L'article déconstruit le jargon technique pour le rendre actionnable par les chefs de projet et marketeurs, pas seulement les experts.",
+  "query_fanout": [
+    "Qu'est-ce que l'UX design SEO et pourquoi est-ce une synergie vitale ?",
+    "Comment une bonne UX influence-t-elle directement les classements SEO ?",
+    "Quels sont les piliers de l'UX à optimiser en priorité pour le référencement ?",
+    "Quels outils utiliser pour mesurer et améliorer la synergie UX/SEO ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce que l'UX design SEO : la synergie vitale",
+      "points_cles": [
+        "Définition de l'UX (User Experience) comme la perception de l'utilisateur et du SEO comme la visibilité sur les moteurs de recherche.",
+        "Explication de l'interdépendance : le SEO attire le trafic, une bonne UX le retient, le convertit et envoie des signaux positifs à Google.",
+        "Introduction au concept de SXO (Search Experience Optimization) comme l'évolution naturelle de cette fusion."
+      ]
+    },
+    {
+      "h2": "Comment une bonne UX influence directement les classements SEO",
+      "points_cles": [
+        "Impact sur les signaux utilisateurs (user signals) : réduction du taux de rebond, augmentation du temps de session ('dwell time') et du nombre de pages vues.",
+        "Rôle central des Core Web Vitals (LCP, INP, CLS) comme facteurs de classement directs liés à l'expérience de chargement et d'interactivité.",
+        "Amélioration du crawl et de l'indexation grâce à une architecture de site logique, un fil d'Ariane clair et un maillage interne pertinent."
+      ]
+    },
+    {
+      "h2": "Les 4 piliers de l'UX à optimiser pour le référencement",
+      "points_cles": [
+        "La vitesse de chargement : stratégies d'optimisation des images, mise en cache et choix d'un hébergement performant (approche mobile-first).",
+        "La navigation et l'architecture de l'information : créer des parcours utilisateurs intuitifs qui facilitent la découverte du contenu.",
+        "La lisibilité et l'accessibilité du contenu : usage de polices claires, contrastes élevés, paragraphes courts et structure sémantique (Hn).",
+        "Le design adaptatif (responsive design) : assurer une expérience cohérente et sans friction sur tous les appareils (desktop, tablette, mobile)."
+      ]
+    },
+    {
+      "h2": "Outils : mesurer et piloter votre stratégie UX/SEO",
+      "points_cles": [
+        "Google Analytics 4 pour analyser les métriques d'engagement (taux d'engagement, temps d'engagement moyen, conversions).",
+        "Google Search Console pour surveiller les Core Web Vitals, l'ergonomie mobile et les erreurs d'exploration.",
+        "Outils de heatmaps et d'enregistrement de session (ex: Microsoft Clarity, Hotjar) pour visualiser le comportement des utilisateurs et identifier les points de friction."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "expérience utilisateur et SEO",
+    "Core Web Vitals",
+    "SXO",
+    "optimisation UX",
+    "signaux utilisateurs SEO",
+    "architecture de l'information",
+    "ergonomie web"
+  ],
+  "questions_paa": [
+    "Comment l'UX affecte le SEO ?",
+    "Quels sont les facteurs UX importants pour le SEO ?",
+    "Comment améliorer l'expérience utilisateur d'un site web ?",
+    "Quelle est la différence entre UI et UX ?"
+  ],
+  "ton": "pédagogique",
+  "longueur_cible": 900,
+  "category": "Définition"
+}

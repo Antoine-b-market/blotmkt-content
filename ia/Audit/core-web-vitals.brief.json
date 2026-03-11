@@ -1,0 +1,69 @@
+{
+  "keyword": "Core Web Vitals",
+  "intention": "informationnelle",
+  "titre_h1": "Core web vitals : le guide pour maîtriser les signaux web essentiels de google",
+  "meta_description": "Découvrez ce que sont les Core Web Vitals (LCP, INP, CLS), pourquoi ils sont cruciaux pour votre SEO et comment les optimiser pour améliorer votre classement.",
+  "angle_editorial": "Aborder les Core Web Vitals non comme une simple contrainte technique, mais comme un levier de performance et de conversion. L'article se positionne comme un guide pratique qui traduit les métriques complexes en actions business concrètes et mesurables pour un meilleur ROI.",
+  "query_fanout": [
+    "Qu'est-ce que les Core Web Vitals et pourquoi sont-ils devenus un facteur de classement SEO crucial ?",
+    "Quels sont les trois indicateurs (LCP, INP, CLS) et que mesurent-ils concrètement ?",
+    "Comment mesurer et diagnostiquer précisément les Core Web Vitals de son site web ?",
+    "Quelles sont les stratégies d'optimisation prioritaires pour améliorer chaque métrique des Core Web Vitals ?"
+  ],
+  "structure": [
+    {
+      "h2": "Core Web Vitals : définition d'un pilier de l'expérience page",
+      "points_cles": [
+        "Définition : un ensemble de trois métriques spécifiques mesurant la performance de chargement, l'interactivité et la stabilité visuelle d'une page.",
+        "Objectif : quantifier l'expérience utilisateur réelle (real-world user experience) et non une simple performance technique théorique.",
+        "Impact SEO : intégrés dans les signaux de la 'Page Experience' de Google, ils influencent directement les classements dans les résultats de recherche.",
+        "Philosophie Google : récompenser les sites qui offrent une expérience utilisateur fluide, rapide et sans frustration."
+      ]
+    },
+    {
+      "h2": "Décryptage des 3 métriques : LCP, INP et CLS",
+      "points_cles": [
+        "LCP (Largest Contentful Paint) : mesure la vitesse de chargement perçue. Il marque le moment où le plus grand élément de contenu (image, vidéo, bloc de texte) devient visible. Un bon LCP est inférieur à 2,5 secondes.",
+        "INP (Interaction to Next Paint) : mesure la réactivité de la page. Il évalue la latence de toutes les interactions de l'utilisateur (clics, saisies). Un bon INP est inférieur à 200 millisecondes.",
+        "CLS (Cumulative Layout Shift) : mesure la stabilité visuelle. Il quantifie les changements de mise en page inattendus qui peuvent gêner l'utilisateur. Un bon CLS est inférieur à 0.1."
+      ]
+    },
+    {
+      "h2": "Les outils indispensables pour auditer vos Core Web Vitals",
+      "points_cles": [
+        "Google Search Console : fournit un rapport dédié aux 'Signaux Web Essentiels' basé sur les données de terrain (données CrUX des utilisateurs réels) et groupe les URLs par statut (bon, à améliorer, médiocre).",
+        "PageSpeed Insights : combine les données de terrain (si disponibles) avec les données de laboratoire (simulation). Offre un diagnostic complet et des pistes d'amélioration concrètes.",
+        "Chrome DevTools : pour le débogage en direct. L'onglet 'Performance' et l'outil 'Lighthouse' permettent d'analyser en profondeur le chargement de la page pour identifier les goulots d'étranglement.",
+        "WebPageTest : un outil avancé pour des analyses de performance approfondies, simulant diverses conditions de réseau et appareils."
+      ]
+    },
+    {
+      "h2": "Plan d'action : stratégies concrètes pour optimiser vos scores",
+      "points_cles": [
+        "Pour améliorer le LCP : optimiser et compresser les images (WebP/AVIF), précharger les ressources critiques, utiliser un CDN, et réduire le temps de réponse du serveur (TTFB).",
+        "Pour améliorer l'INP : réduire et fractionner le code JavaScript (code splitting), éviter les longues tâches JS qui bloquent le thread principal, et optimiser les gestionnaires d'événements.",
+        "Pour améliorer le CLS : spécifier les dimensions (width, height) pour toutes les images et vidéos, réserver l'espace pour les contenus dynamiques (publicités, bannières), et éviter d'insérer du contenu au-dessus du contenu existant."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "LCP",
+    "INP",
+    "CLS",
+    "Page Experience",
+    "vitesse de chargement",
+    "performance web",
+    "PageSpeed Insights",
+    "expérience utilisateur",
+    "SEO technique"
+  ],
+  "questions_paa": [
+    "Qu'est-ce qu'un bon score Core Web Vitals ?",
+    "Comment les Core Web Vitals affectent-ils le référencement ?",
+    "L'indicateur INP remplace-t-il le FID (First Input Delay) ?",
+    "Comment corriger les erreurs LCP dans la Search Console ?"
+  ],
+  "ton": "pédagogique",
+  "longueur_cible": 900,
+  "category": "Audit"
+}

@@ -1,0 +1,69 @@
+{
+  "keyword": "Test 3",
+  "intention": "informationnelle",
+  "titre_h1": "Test 3 : le guide complet de l'outil d'audit unifié de Google",
+  "meta_description": "Découvrez Test 3, le nouvel outil d'audit Google qui unifie Search Console, PageSpeed et l'analyse IA. Guide pratique pour améliorer votre SEO et performance.",
+  "angle_editorial": "Présenter Test 3 comme la solution d'audit SEO et technique tout-en-un de l'écosystème Google, qui synthétise les données de multiples outils (PageSpeed, Test des résultats enrichis) en un seul rapport actionnable grâce à l'IA de Google.",
+  "query_fanout": [
+    "Qu'est-ce que l'outil Test 3 et quelles métriques analyse-t-il ?",
+    "Comment Test 3 se compare-t-il aux outils existants comme PageSpeed Insights ou le Test AMP ?",
+    "Quelle est la méthodologie pour utiliser Test 3 et interpréter ses résultats pour un audit SEO ?",
+    "Quels sont les cas d'usage concrets de Test 3 et quel retour sur investissement peut-on en attendre ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce que Test 3 : l'audit unifié pour les plateformes Google",
+      "points_cles": [
+        "Définir Test 3 comme une nouvelle interface au sein de la Search Console qui agrège les données de plusieurs outils de test Google.",
+        "Expliquer qu'il combine l'analyse de performance (similaire à PageSpeed Insights), la validité des données structurées (Test des résultats enrichis) et la conformité mobile (Test AMP).",
+        "Mettre en avant l'intégration de Google AI pour fournir des recommandations priorisées et contextualisées, allant au-delà du simple constat technique.",
+        "Clarifier que son objectif est de fournir une vision holistique de la 'santé' d'une page ou d'un site vis-à-vis des standards de Google."
+      ]
+    },
+    {
+      "h2": "Test 3 vs PageSpeed Insights et autres outils : le comparatif",
+      "points_cles": [
+        "Comparer Test 3 à PageSpeed Insights : Test 3 intègre les Core Web Vitals mais y ajoute une analyse SEO on-page et la validité des schémas, là où PSI se concentre sur la vitesse.",
+        "Différencier Test 3 du Test des résultats enrichis : Test 3 ne fait pas que valider la syntaxe, il évalue l'impact potentiel de ces résultats sur la visibilité dans la SERP.",
+        "Positionner Test 3 par rapport à la Search Console : le voir comme un module de 'diagnostic avancé' au sein de la Search Console, qui permet de 'zoomer' sur des URL spécifiques avec des données plus granulaires.",
+        "Souligner le caractère synthétique de Test 3 : son principal avantage est le rapport unique qui évite de jongler entre plusieurs outils pour avoir une vue d'ensemble."
+      ]
+    },
+    {
+      "h2": "Méthode : réaliser et analyser un rapport Test 3 étape par étape",
+      "points_cles": [
+        "Décrire le processus pour lancer un test : se connecter à la Search Console, sélectionner une propriété, entrer l'URL à analyser dans le module dédié 'Test 3'.",
+        "Détailler les sections clés du rapport généré : score global de conformité, section 'Performance & Core Web Vitals', section 'SEO & Indexabilité', section 'Résultats Enrichis'.",
+        "Expliquer comment interpréter les recommandations basées sur l'IA, en se concentrant sur les actions à plus fort impact identifiées par l'outil.",
+        "Fournir un plan d'action type : comment transformer les résultats du test en un backlog de tâches techniques pour les équipes de développement et SEO."
+      ]
+    },
+    {
+      "h2": "Cas d'usage et ROI : quand et pourquoi utiliser Test 3 ?",
+      "points_cles": [
+        "Identifier les cas d'usage principaux : avant une mise en production, lors d'une refonte de site, pour diagnostiquer une chute de trafic inexpliquée, ou lors d'un audit SEO trimestriel.",
+        "Expliquer comment Test 3 aide à prioriser les optimisations techniques pour maximiser le retour sur investissement (ROI) des efforts SEO.",
+        "Illustrer avec un exemple : utiliser Test 3 pour identifier un problème de LCP sur les pages produits et un balisage 'Product' invalide, puis montrer comment la correction de ces deux points peut directement impacter le classement et le taux de clics.",
+        "Mettre en avant le gain de temps et d'efficacité pour les agences et consultants SEO en centralisant le diagnostic technique."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "audit SEO Google",
+    "outil performance web",
+    "analyse Search Console",
+    "Test des résultats enrichis",
+    "PageSpeed Insights",
+    "Google AI SEO",
+    "Core Web Vitals"
+  ],
+  "questions_paa": [
+    "Comment accéder à l'outil Test 3 de Google ?",
+    "Est-ce que Test 3 remplace PageSpeed Insights ?",
+    "Quels sont les principaux KPIs mesurés par Test 3 ?",
+    "Test 3 est-il un outil gratuit ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 900,
+  "category": "seo"
+}

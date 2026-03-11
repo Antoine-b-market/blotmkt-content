@@ -1,0 +1,63 @@
+{
+  "keyword": "Cumulative Layout Shift",
+  "intention": "informationnelle",
+  "titre_h1": "Cumulative Layout Shift (CLS) : le guide complet pour un score inférieur à 0.1",
+  "meta_description": "Comprenez le Cumulative Layout Shift (CLS), un Core Web Vital essentiel. Découvrez comment mesurer, diagnostiquer et optimiser votre score CLS pour le SEO.",
+  "angle_editorial": "Démystifier le CLS pour les marketeurs et les chefs de projet : un guide pratique pour passer de la théorie à l'action et améliorer concrètement l'expérience utilisateur et le SEO, sans jargon technique excessif.",
+  "query_fanout": [
+    "Qu'est-ce que le Cumulative Layout Shift (CLS) et pourquoi est-il crucial pour l'expérience utilisateur ?",
+    "Comment le CLS interagit-il avec les autres Core Web Vitals comme le LCP et l'INP ?",
+    "Quels outils et techniques utiliser pour diagnostiquer et corriger un score CLS élevé ?",
+    "Quel est l'impact business d'un bon score CLS sur le SEO et les conversions ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce que le Cumulative Layout Shift (CLS) ?",
+      "points_cles": [
+        "Définition de la stabilité visuelle comme pilier de l'expérience utilisateur (UX).",
+        "Explication simplifiée du calcul du score CLS : l'impact des éléments qui bougent de manière inattendue sur la page.",
+        "Analyse des seuils de Google : un score inférieur à 0.1 est 'bon', entre 0.1 et 0.25 'à améliorer', et supérieur à 0.25 est 'faible'."
+      ]
+    },
+    {
+      "h2": "CLS, LCP, INP : le trio des Core Web Vitals",
+      "points_cles": [
+        "Rappel des rôles respectifs : LCP (vitesse de chargement perçue), INP (réactivité aux interactions), CLS (stabilité de l'affichage).",
+        "Illustration des synergies : comment un CLS élevé peut frustrer un utilisateur et l'inciter à quitter le site avant même que le LCP soit atteint.",
+        "Mise en contexte de la mise à jour de mars 2024 : le remplacement du FID par l'INP, renforçant l'importance de la fluidité globale de l'expérience."
+      ]
+    },
+    {
+      "h2": "Diagnostiquer et corriger un score CLS élevé : la méthode",
+      "points_cles": [
+        "Présentation des outils de mesure : le rapport Core Web Vitals de la Google Search Console pour le suivi, PageSpeed Insights pour l'analyse ponctuelle.",
+        "Identification des causes fréquentes : images et vidéos sans dimensions spécifiées, publicités et iframes injectés dynamiquement, polices web qui provoquent des changements de layout (FOIT/FOUT).",
+        "Solutions techniques concrètes : toujours utiliser les attributs `width` et `height` sur les balises `<img>`, réserver l'espace pour les blocs publicitaires avec CSS, précharger les polices."
+      ]
+    },
+    {
+      "h2": "L'impact business : pourquoi optimiser votre CLS est rentable",
+      "points_cles": [
+        "Corrélation directe entre un faible score CLS, la diminution du taux de rebond et l'augmentation des pages vues par session.",
+        "Le CLS comme signal de classement SEO : comment Google favorise les sites offrant une meilleure expérience utilisateur via les Core Web Vitals.",
+        "Impact sur les conversions : un CLS optimisé évite les clics accidentels (par exemple sur un bouton 'Acheter' qui se déplace), réduisant la frustration et améliorant le tunnel de vente."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "Core Web Vitals",
+    "stabilité visuelle",
+    "optimisation LCP INP",
+    "score PageSpeed Insights",
+    "expérience utilisateur SEO",
+    "layout shift"
+  ],
+  "questions_paa": [
+    "Comment corriger un problème de CLS ?",
+    "Qu'est-ce qu'un bon score CLS ?",
+    "Pourquoi le Cumulative Layout Shift est important pour le SEO ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 900,
+  "category": "seo"
+}

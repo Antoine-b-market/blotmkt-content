@@ -1,0 +1,85 @@
+{
+  "keyword": "Intention informative",
+  "intention": "informationnelle",
+  "titre_h1": "Intention informative : le guide SEO complet à l'ère de l'ia (SGE)",
+  "meta_description": "Découvrez ce qu'est l'intention informative et comment l'IA la transforme. Optimisez votre contenu pour SGE et capturez un trafic qualifié au sommet du tunnel.",
+  "angle_editorial": "Analyser l'intention informative non seulement comme un pilier du SEO classique, mais surtout à travers le prisme de la recherche générative (SGE) et de l'optimisation pour les LLM (GEO). Démontrer sa valeur stratégique dans un parcours utilisateur transformé par l'IA.",
+  "query_fanout": [
+    "Qu'est-ce qu'une intention de recherche informative et comment la reconnaître ?",
+    "Quelle est la différence stratégique entre une intention informative et une intention transactionnelle ?",
+    "Comment l'IA et la recherche générative (SGE) impactent-elles le contenu à intention informative ?",
+    "Quelle méthode et quels outils utiliser pour optimiser un article pour cette intention ?",
+    "Quel est le véritable ROI du contenu informatif dans un tunnel de conversion ?",
+    "Quels formats de contenu sont les plus performants pour répondre à une intention informative ?"
+  ],
+  "structure": [
+    {
+      "h2": "Définition : qu'est-ce que l'intention de recherche informative ?",
+      "points_cles": [
+        "L'utilisateur cherche à apprendre, comprendre ou obtenir une réponse à une question spécifique.",
+        "Se situe au sommet du tunnel de conversion (phase de découverte ou 'Awareness').",
+        "Mots-clés typiques : 'comment', 'pourquoi', 'définition', 'guide', 'tutoriel'."
+      ]
+    },
+    {
+      "h2": "Informative vs transactionnelle : le parcours utilisateur comme arbitre",
+      "points_cles": [
+        "Informative = Acquérir de la connaissance (ex: 'meilleur type de micro pour podcast').",
+        "Transactionnelle = Réaliser une action (ex: 'acheter micro Shure SM7B').",
+        "Le contenu informatif prépare et qualifie l'utilisateur pour une future action transactionnelle."
+      ]
+    },
+    {
+      "h2": "L'impact de l'IA (SGE) sur la stratégie de contenu informatif",
+      "points_cles": [
+        "Les réponses générées par l'IA (SGE) peuvent répondre directement aux questions simples, réduisant le besoin de cliquer.",
+        "Nécessité de créer du contenu avec une perspective unique, une expertise démontrée (E-E-A-T) et des données que l'IA ne peut pas synthétiser facilement.",
+        "GEO (Generative Engine Optimization) : l'objectif est de devenir une source citée dans la réponse de l'IA, pas seulement un lien bleu."
+      ]
+    },
+    {
+      "h2": "Méthode : optimiser un contenu pour l'intention informative",
+      "points_cles": [
+        "Analyser la SERP : étudier les 'People Also Ask' (PAA), les 'featured snippets' et les formats de contenu qui rankent.",
+        "Structurer l'article avec une logique claire : balises Hn, listes à puces, tableaux comparatifs pour faciliter la lecture par les humains et les robots.",
+        "Intégrer des entités nommées et un champ sémantique riche pour démontrer l'expertise sur le sujet."
+      ]
+    },
+    {
+      "h2": "Le ROI caché du contenu informatif : confiance et autorité",
+      "points_cles": [
+        "Le gain n'est pas la vente directe, mais la construction de la confiance et de l'autorité thématique de votre site.",
+        "Opportunité de capturer des leads via des newsletters, des webinaires ou le téléchargement de livres blancs.",
+        "Un contenu informatif de qualité génère des backlinks naturels, ce qui améliore le SEO global du site."
+      ]
+    },
+    {
+      "h2": "Formats gagnants : quels contenus pour une audience curieuse ?",
+      "points_cles": [
+        "Les guides complets et articles de fond ('pillar pages') pour couvrir un sujet en profondeur.",
+        "Les tutoriels et 'how-to' vidéo ou texte pour répondre à un besoin pratique.",
+        "Les études de cas, les infographies et les analyses de données pour apporter une valeur unique et difficile à copier."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "intention de recherche",
+    "requête informationnelle",
+    "SEO sémantique",
+    "parcours utilisateur",
+    "SGE",
+    "GEO",
+    "content marketing",
+    "topic cluster",
+    "E-E-A-T"
+  ],
+  "questions_paa": [
+    "Comment savoir si un mot-clé est informatif ?",
+    "Quel est le but d'une recherche informative ?",
+    "Comment Google détermine l'intention d'un utilisateur ?",
+    "Faut-il prioriser le contenu informatif ou transactionnel ?"
+  ],
+  "ton": "pédagogique et pratique",
+  "longueur_cible": 900,
+  "category": "Définition"
+}

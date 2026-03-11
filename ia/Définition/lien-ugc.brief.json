@@ -1,0 +1,65 @@
+{
+  "keyword": "Lien UGC",
+  "intention": "informationnelle",
+  "titre_h1": "Lien ugc : le guide complet de l'attribut rel=\"ugc\" pour le seo",
+  "meta_description": "Découvrez ce qu'est un lien UGC et l'importance de l'attribut rel=\"ugc\" pour Google. Apprenez à l'implémenter et à le différencier de nofollow et sponsored.",
+  "angle_editorial": "Démystifier l'attribut rel=\"ugc\" non pas comme une contrainte, mais comme un outil de protection SEO essentiel pour tout site acceptant du contenu utilisateur (commentaires, forums). L'approche est pragmatique : comment l'utiliser pour se protéger contre le spam sans nuire à son référencement.",
+  "query_fanout": [
+    "Qu'est-ce qu'un lien UGC et à quoi sert l'attribut rel=\"ugc\" ?",
+    "Quelle est la différence entre les attributs rel=\"ugc\", \"nofollow\" et \"sponsored\" ?",
+    "Comment et quand implémenter correctement l'attribut rel=\"ugc\" sur un site web ?",
+    "Quel est l'impact SEO réel d'un lien UGC et comment Google le traite-t-il ?"
+  ],
+  "structure": [
+    {
+      "h2": "Définition : qu'est-ce que l'attribut rel=\"ugc\" ?",
+      "points_cles": [
+        "Signification : UGC signifie \"User-Generated Content\" (Contenu Généré par l'Utilisateur).",
+        "Contexte de création : introduit par Google en 2019 avec rel=\"sponsored\" pour affiner la sémantique de l'ancien attribut \"nofollow\".",
+        "Objectif principal : signaler aux moteurs de recherche que le lien est placé par un utilisateur et n'est pas un cautionnement éditorial du site, aidant ainsi à lutter contre le spam de liens."
+      ]
+    },
+    {
+      "h2": "UGC vs Nofollow vs Sponsored : le comparatif des attributs de lien",
+      "points_cles": [
+        "rel=\"ugc\" : à utiliser spécifiquement pour les liens dans les commentaires de blog, les messages de forum, les profils utilisateurs et tout contenu publié par des tiers.",
+        "rel=\"sponsored\" : réservé exclusivement aux liens payants, publicitaires ou d'affiliation.",
+        "rel=\"nofollow\" : l'attribut générique à utiliser lorsque les autres ne s'appliquent pas, ou en combinaison (ex: rel=\"nofollow ugc\"). Google le traite comme un indice ('hint').",
+        "Combinaison possible : il est valide d'utiliser plusieurs attributs, comme rel=\"ugc nofollow\", pour une sémantique plus précise."
+      ]
+    },
+    {
+      "h2": "Implémentation pratique : où et comment ajouter rel=\"ugc\" ?",
+      "points_cles": [
+        "Cas d'usage typiques : sections commentaires (WordPress l'ajoute automatiquement), forums de discussion, annuaires de profils, avis et témoignages clients.",
+        "Mise en œuvre technique : ajouter simplement l'attribut `rel=\"ugc\"` à la balise `<a>`. Exemple : `<a href=\"http://example.com\" rel=\"ugc\">Lien d'un utilisateur</a>`.",
+        "Automatisation via CMS : la plupart des plateformes modernes (comme WordPress depuis la version 5.3) gèrent automatiquement l'ajout de cet attribut dans les zones de contenu utilisateur."
+      ]
+    },
+    {
+      "h2": "Impact SEO : comment Google interprète-t-il les liens UGC ?",
+      "points_cles": [
+        "Considéré comme un indice : Google utilise `rel=\"ugc\"` comme un \"hint\" (indice) et peut décider de suivre le lien ou non pour le crawl et l'indexation.",
+        "Pas de transfert de PageRank : comme pour `nofollow`, un lien `ugc` ne transmet généralement pas de \"jus de lien\" ou d'autorité de page, protégeant ainsi le site émetteur.",
+        "Bénéfice principal : son utilisation correcte est un signal de bonne foi à Google, montrant que vous gérez activement la qualité de vos liens sortants et prévenez les schémas de liens artificiels."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "attribut rel ugc",
+    "user generated content",
+    "lien nofollow",
+    "seo commentaires",
+    "lien sponsorisé",
+    "google search central"
+  ],
+  "questions_paa": [
+    "Faut-il remplacer tous les nofollow par ugc ?",
+    "Un lien UGC peut-il être bon pour le SEO ?",
+    "Comment WordPress gère les liens dans les commentaires ?",
+    "Quelle est la pénalité pour un mauvais usage des attributs de lien ?"
+  ],
+  "ton": "pédagogique|pratique",
+  "longueur_cible": 900,
+  "category": "Définition"
+}

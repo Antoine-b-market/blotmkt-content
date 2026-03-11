@@ -1,0 +1,68 @@
+{
+  "keyword": "Contenu SEO Québec",
+  "intention": "commerciale",
+  "titre_h1": "Le contenu SEO au Québec : une approche optimisée pour Google et les réponses génératives",
+  "meta_description": "Découvrez comment notre approche du contenu SEO au Québec structure vos actifs pour dominer les résultats de recherche et être cité par les IA. Service expert.",
+  "angle_editorial": "Se différencier des agences SEO traditionnelles en positionnant le contenu SEO non seulement comme un outil pour Google, mais comme un actif stratégique préparé pour l'ère de l'IA (GEO). L'objectif est de montrer comment un contenu bien structuré est mieux compris par les moteurs de recherche et devient une source citable pour les LLMs, augmentant l'autorité et la visibilité.",
+  "query_fanout": [
+    "Qu'est-ce que le contenu SEO spécifiquement pour le marché québécois ?",
+    "Quelle est la différence entre le SEO traditionnel et un contenu optimisé pour les IA (GEO) ?",
+    "Comment créer une stratégie de contenu SEO efficace pour le Québec ?",
+    "Quel est le coût et le retour sur investissement (ROI) du contenu SEO au Québec ?",
+    "Quels types de contenus SEO sont les plus performants au Québec ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce qu'un contenu SEO adapté au Québec ?",
+      "points_cles": [
+        "Définition du contenu SEO comme pilier de la visibilité en ligne.",
+        "Importance des spécificités linguistiques et culturelles québécoises (expressions, ton, vouvoiement).",
+        "Analyse de l'intention de recherche locale et des mots-clés utilisés par les Québécois."
+      ]
+    },
+    {
+      "h2": "SEO vs GEO : préparer votre contenu pour l'avenir de la recherche",
+      "points_cles": [
+        "Les limites du SEO classique face aux réponses générées par les IA (SGE, ChatGPT).",
+        "Les principes du Generative Engine Optimization (GEO) : structuration des données, autorité (E-E-A-T) et clarté.",
+        "Comment transformer votre contenu en un actif numérique citable par les intelligences artificielles."
+      ]
+    },
+    {
+      "h2": "Les étapes clés d'une stratégie de contenu SEO gagnante",
+      "points_cles": [
+        "Audit de contenu existant et analyse concurrentielle sur le marché local.",
+        "Développement de piliers de contenu (topic clusters) pour bâtir une autorité thématique.",
+        "Processus de rédaction, optimisation on-page, et stratégie de maillage interne pour guider l'utilisateur et les robots."
+      ]
+    },
+    {
+      "h2": "Investir en contenu SEO au Québec : coûts et bénéfices",
+      "points_cles": [
+        "Vue d'ensemble des modèles de tarification : agence, rédacteur pigiste, expert-conseil.",
+        "Le calcul du retour sur investissement (ROI) au-delà du trafic : génération de prospects, notoriété de la marque.",
+        "Pourquoi le contenu de qualité est un actif numérique durable qui prend de la valeur avec le temps."
+      ]
+    },
+    {
+      "h2": "Exemples de contenus SEO performants pour le marché québécois",
+      "points_cles": [
+        "Les articles de blogue experts qui répondent à des problématiques précises des clients.",
+        "Les pages de services optimisées pour la recherche locale (ex: 'service + ville').",
+        "Les guides comparatifs et les études de cas pour renforcer la crédibilité et aider à la décision."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "rédaction web SEO Québec",
+    "stratégie de contenu Canada",
+    "optimisation pour IA générative"
+  ],
+  "questions_paa": [
+    "Comment optimiser un texte pour le SEO ?",
+    "Combien coûte un rédacteur SEO au Québec ?"
+  ],
+  "ton": "expert|pedagogique|pratique",
+  "longueur_cible": 900,
+  "category": "Contenu"
+}
