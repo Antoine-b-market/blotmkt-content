@@ -13,7 +13,7 @@ Ce repo contient l'ensemble des articles publiés sur **blotmkt.com/ia/**, gén�
 
 ## Auteur
 
-**Antoine Blot** — Expert SEO & Marketing digital francophone
+**Antoine Blot** - Expert SEO & Marketing digital francophone
 
 - Site : [antoine-blot.com](https://www.antoine-blot.com)
 - LinkedIn : [linkedin.com/in/blotantoine](https://www.linkedin.com/in/blotantoine/)
