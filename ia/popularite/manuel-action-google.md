@@ -27,18 +27,18 @@ related_articles:
 
 > ## L'essentiel à retenir
 > - 
-Une [action](https://blotmkt.com/ia/Audit/first-input-delay) manuelle est une sanction appliquée par un examinateur humain de Google lorsque des pages d'un site ne respectent pas les Règles Google concernant le spam
+Une action manuelle est une sanction appliquée par un examinateur humain de Google lorsque des pages d'un site ne respectent pas les Règles Google concernant le spam
 
 > - 
-Contrairement aux pénalités automatiques déclenchées par les algorithmes de Google, les [action](https://blotmkt.com/ia/Définition/intention-informative)s manuelles sont prises par des évaluateurs humains spécialement formés : la Search Quality Team
+Contrairement aux pénalités automatiques déclenchées par les algorithmes de Google, les actions manuelles sont prises par des évaluateurs humains spécialement formés : la Search Quality Team
 
 > - 
-Si votre site fait l'objet d'une action manuelle, [Google](https://blotmkt.com/ia/definition/ymyl-seo) vous en informe dans le rapport sur les actions manuelles et dans le centre de messagerie de la Search Console
+Si votre site fait l'objet d'une action manuelle, Google vous en informe dans le rapport sur les actions manuelles et dans le centre de messagerie de la Search Console
 
 > - 
 Le traitement de la plupart des demandes de réexamen peut prendre plusieurs jours, voire plusieurs semaines. Toutefois, dans certains cas, tels que pour les demandes de réexamen liées à des liens, cela peut prendre plus de temps
 
-Une [action](https://blotmkt.com/ia/Contenu/intention-de-recherche) manuelle Google peut faire chuter drastiquement votre trafic organique du jour au lendemain. 
+Une action manuelle Google peut faire chuter drastiquement votre trafic organique du jour au lendemain. 
 Si un site fait l'objet d'une action manuelle, il ne s'affichera pas (en totalité ou en partie) dans les résultats de recherche Google
 . Heureusement, contrairement aux pénalités algorithmiques, une action manuelle se diagnostique facilement et peut être levée par une demande de réexamen. Ce guide vous accompagne étape par étape pour identifier, corriger et soumettre une demande de réexamen efficace.
 
@@ -54,7 +54,7 @@ La plupart des actions manuelles concernent des tentatives de manipulation de l'
 L'impact est immédiat et souvent sévère : 
 une chute drastique de trafic organique
  peut survenir. Dans les cas les plus graves, 
-837 sites sur 49 345 analysés ont été entièrement supprimés de l'index de recherche de Google suite aux actions manuelles de mars 2024. La dés[Indexation](https://blotmkt.com/ia/Définition/ymyl-seo) complète de sites web est généralement liée à une action manuelle de Google
+837 sites sur 49 345 analysés ont été entièrement supprimés de l'index de recherche de Google suite aux actions manuelles de mars 2024. La désIndexation complète de sites web est généralement liée à une action manuelle de Google
 .
 
 Contrairement aux mises à jour algorithmiques qui passent souvent inaperçues, 
@@ -74,7 +74,7 @@ Le processus de récupération diffère également. Une action manuelle requiert
 une demande de réexamen dans le rapport sur les actions manuelles
 . En revanche, 
 il n'y a aucun moyen de lever "manuellement" une action algorithmique
-. La récupération d'une perte de trafic algorithmique ne se fait qu'en améliorant la qualité globale du site et en attendant la prochaine [Analyse](https://blotmkt.com/ia/Audit/fichier-robots.txt) des algorithmes.
+. La récupération d'une perte de trafic algorithmique ne se fait qu'en améliorant la qualité globale du site et en attendant la prochaine Analyse des algorithmes.
 
 ## Le guide pratique pour lever une action manuelle via la Search Console
 
@@ -90,7 +90,7 @@ Toutes vos pages ne sont pas nécessairement concernées. Dans la description de
 
 ### Étape 2 : Correction du problème à la source
 
-La première étape consiste à analyser en profondeur les problèmes signalés par Google et à les corriger. Cela peut impliquer de supprimer ou de désavouer des liens de mauvaise qualité, de revoir et d'améliorer le [contenu](https://blotmkt.com/ia/Audit/audit-seo-montreal) de faible qualité, ou d'éliminer les pratiques de référencement abusives
+La première étape consiste à analyser en profondeur les problèmes signalés par Google et à les corriger. Cela peut impliquer de supprimer ou de désavouer des liens de mauvaise qualité, de revoir et d'améliorer le contenu de faible qualité, ou d'éliminer les pratiques de référencement abusives
 .
 
 Corriger le problème sur toutes les pages affectées. Corriger le problème sur seulement quelques pages ne vous permettra pas de récupérer partiellement vos positions dans les résultats de recherche
@@ -108,22 +108,22 @@ Une bonne demande de réexamen fait trois choses : explique le problème de qual
 
 ### Liens entrants non naturels (liens artificiels)
 
-Pénalités pour spam de liens : appliquées aux sites qui utilisent des [technique](https://blotmkt.com/ia/Définition/ymyl-seo)s de création de liens artificiels
+Pénalités pour spam de liens : appliquées aux sites qui utilisent des techniques de création de liens artificiels
 . 
 Cette action manuelle est prise quand Google trouve des liens suspects ou non naturels pointant vers votre site
-. Pour l'éviter, privilégiez une stratégie de netlinking naturel basée sur la qualité du [contenu](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel) et les relations thématiques.
+. Pour l'éviter, privilégiez une stratégie de netlinking naturel basée sur la qualité du contenu et les relations thématiques.
 
 ### Contenu de faible qualité (Thin Content)
 
-Pénalités pour contenu de faible qualité : concernent les pages contenant un bourrage de [mots-clés](https://blotmkt.com/ia/Définition/page-pilier-seo) ou présentant un texte peu pertinent pour les utilisateurs
+Pénalités pour contenu de faible qualité : concernent les pages contenant un bourrage de mots-clés ou présentant un texte peu pertinent pour les utilisateurs
 . 
-Cette action est prise quand le [contenu](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) de votre site est considéré de faible qualité selon les standards de Google
-. Chaque page doit offrir une valeur ajoutée claire et répondre à une [Intention de recherche](https://blotmkt.com/ia/definition/intention-informative) spécifique.
+Cette action est prise quand le contenu de votre site est considéré de faible qualité selon les standards de Google
+. Chaque page doit offrir une valeur ajoutée claire et répondre à une [Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche) spécifique.
 
 ### Texte masqué et bourrage de mots-clés
 
-Cette action concerne les tactiques utilisées pour tromper les moteurs de recherche, comme utiliser du texte blanc sur fond blanc ou bourrer vos pages de [mots-clés](https://blotmkt.com/ia/definition/page-pilier-seo) rendant le contenu non naturel et difficile à lire
-. La règle d'or : rédiger pour les utilisateurs avant tout, avec une intégration naturelle des [mots-clés](https://blotmkt.com/ia/Contenu/structure-hn-seo).
+Cette action concerne les tactiques utilisées pour tromper les moteurs de recherche, comme utiliser du texte blanc sur fond blanc ou bourrer vos pages de mots-clés rendant le contenu non naturel et difficile à lire
+. La règle d'or : rédiger pour les utilisateurs avant tout, avec une intégration naturelle des mots-clés.
 
 ### Spam généré par l'utilisateur
 
@@ -161,7 +161,7 @@ Expliquez les mesures correctives que vous avez prises et fournissez des preuves
 
 ```json
 {
-  "@context": "https://schema.org",
+  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
   "@graph": [
     {
       "@type": "Article",
@@ -186,7 +186,7 @@ Expliquez les mesures correctives que vous avez prises et fournissez des preuves
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "pénalité Google, Google Search Console, demande de réexamen, liens artificiels, thin [Content](https://blotmkt.com/ia/IA SEO - GEO/contextualisation-seo), consignes aux webmasters"
+      "keywords": "[Pénalité Google](https://blotmkt.com/ia/popularite/penalite-google), Google Search Console, demande de réexamen, liens artificiels, thin Content, consignes aux webmasters"
     },
     {
       "@type": "FAQPage",
@@ -228,3 +228,13 @@ Expliquez les mesures correctives que vous avez prises et fournissez des preuves
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO](https://blotmkt.com/ia/popularite/algorithme-penalite)
+- [Désindexation google: guide pratique pour contrôler votre visibilité en ligne](https://blotmkt.com/ia/popularite/desindexation-google)
+- [Facteurs de classement google : le guide basé sur la documentation officielle](https://blotmkt.com/ia/popularite/facteurs-de-classement-google)
+- [Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité](https://blotmkt.com/ia/popularite/filtre-google)
+- [Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne](https://blotmkt.com/ia/popularite/guest-blogging-seo)

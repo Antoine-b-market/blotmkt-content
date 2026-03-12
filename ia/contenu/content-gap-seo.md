@@ -27,38 +27,38 @@ related_articles:
 
 > ## L'essentiel à retenir
 > - 
-Une [Analyse](https://blotmkt.com/ia/Audit/fichier-robots.txt) de content gap évalue la différence entre les mots-clés pour lesquels vous et vos concurrents êtes classés dans les résultats de recherche
+Une Analyse de content gap évalue la différence entre les mots-clés pour lesquels vous et vos concurrents êtes classés dans les résultats de recherche
 
 > - 
-Les 4 étapes clés comprennent l'identification des concurrents, l'extr[action](https://blotmkt.com/ia/Audit/first-input-delay) via un outil SEO, le croisement des données et l'analyse par intention de recherche
+Les 4 étapes clés comprennent l'identification des concurrents, l'extraction via un outil SEO, le croisement des données et l'analyse par [Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche)
 
 > - 
 Les outils indispensables sont SEMrush, Ahrefs et Moz avec leurs fonctionnalités "Keyword Gap" ou "Content Gap"
 
-L'[Analyse](https://blotmkt.com/ia/Stratégie/audit-site-web) de content gap révèle les sujets que vos concurrents couvrent mais pas vous. 
+L'Analyse de content gap révèle les sujets que vos concurrents couvrent mais pas vous. 
 Chaque mot-clé pour lequel un concurrent se classe et vous non représente une opportunité manquée de trafic et de revenus
-. Plutôt que de deviner vos lacunes de [contenu](https://blotmkt.com/ia/Audit/audit-seo-montreal), cette méthode systématique transforme vos manques en opportunités mesurables pour dominer votre marché.
+. Plutôt que de deviner vos lacunes de contenu, cette méthode systématique transforme vos manques en opportunités mesurables pour dominer votre marché.
 
 ---
 
 ## Qu'est-ce qu'une analyse de content gap et pourquoi est-elle stratégique ?
 
-L'analyse de content gap est le processus stratégique d'évaluation de la différence entre les [mots-clés](https://blotmkt.com/ia/Définition/page-pilier-seo) pour lesquels vous et vos concurrents êtes classés dans les résultats de recherche
+L'analyse de content gap est le processus stratégique d'évaluation de la différence entre les mots-clés pour lesquels vous et vos concurrents êtes classés dans les résultats de recherche
 . 
-Ces lacunes révèlent souvent des sujets ou questions qui n'ont pas été adéquatement traités sur votre site, permettant de développer une stratégie de [Contenu](https://blotmkt.com/ia/Contenu/densite-de-mots-cles) plus complète qui résonne avec les intérêts de votre audience
+Ces lacunes révèlent souvent des sujets ou questions qui n'ont pas été adéquatement traités sur votre site, permettant de développer une stratégie de Contenu plus complète qui résonne avec les intérêts de votre audience
 .
 
 L'intérêt stratégique va au-delà de la simple copie concurrentielle. 
-Cette recherche améliore significativement l'[Analyse](https://blotmkt.com/ia/strategie/audit-site-web) des mots-clés en trouvant des moyens de positionner votre marque tout au long du parcours d'achat
+Cette recherche améliore significativement l'Analyse des mots-clés en trouvant des moyens de positionner votre marque tout au long du parcours d'achat
 . 
 L'analyse des expressions concurrentes est le moyen le plus rapide de découvrir les requêtes de recherche pertinentes que vous n'avez pas encore rencontrées dans votre recherche
-. Cette méthode permet de construire une autorité thématique complète plutôt que de créer du [Contenu](https://blotmkt.com/ia/Popularité/recuperation-seo) isolé.
+. Cette méthode permet de construire une autorité thématique complète plutôt que de créer du Contenu isolé.
 
 ### L'évolution vers l'optimisation GEO
 
 Dans le contexte actuel, l'analyse doit également considérer 
-l'optimisation pour les moteurs de recherche utilisant l'IA pour générer directement des réponses aux requêtes, face à l'évolution rapide vers des réponses génératives comme [Google](https://blotmkt.com/ia/Définition/ymyl-seo) AI Overview et SearchGPT
-. Cette approche permet de préparer votre [contenu](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel) pour être cité dans les réponses d'intelligence artificielle.
+l'optimisation pour les moteurs de recherche utilisant l'IA pour générer directement des réponses aux requêtes, face à l'évolution rapide vers des réponses génératives comme Google AI Overview et SearchGPT
+. Cette approche permet de préparer votre contenu pour être cité dans les réponses d'intelligence artificielle.
 
 ## Les 4 étapes clés pour mener une analyse de content gap efficace
 
@@ -66,7 +66,7 @@ l'optimisation pour les moteurs de recherche utilisant l'IA pour générer direc
 
 Distinguez les concurrents directs (même produits/services), indirects (même sujets mais secteurs différents) et les concurrents SERP (pages qui se classent où vous voulez apparaître)
 . 
-Utilisez la recherche organique de SEMrush pour identifier les domaines qui partagent le plus de [mots-clés](https://blotmkt.com/ia/definition/page-pilier-seo) avec vous et apparaissent fréquemment dans les mêmes résultats de recherche
+Utilisez la recherche organique de SEMrush pour identifier les domaines qui partagent le plus de mots-clés avec vous et apparaissent fréquemment dans les mêmes résultats de recherche
 .
 
 ### Étape 2 : Extraction des données avec un outil SEO
@@ -74,18 +74,18 @@ Utilisez la recherche organique de SEMrush pour identifier les domaines qui part
 Rendez-vous dans "SEO" > "Competitive Research" > "Keyword Gap", entrez votre domaine et ajoutez jusqu'à quatre concurrents
 . 
 Les plateformes permettent de spécifier votre domaine et jusqu'à 5 domaines concurrents pour comparer leurs mots-clés positionnés
-. Cette étape automatise l'extr[action](https://blotmkt.com/ia/Définition/intention-informative) des milliers de mots-clés que vos concurrents utilisent.
+. Cette étape automatise l'extraction des milliers de mots-clés que vos concurrents utilisent.
 
 ### Étape 3 : Croisement et analyse des données
 
-SEMrush trie automatiquement les mots-clés en catégories utiles et affiche les labels d'intention pour distinguer les requêtes informationnelles, commerciales ou trans[action](https://blotmkt.com/ia/Contenu/intention-de-recherche)nelles
+SEMrush trie automatiquement les mots-clés en catégories utiles et affiche les labels d'intention pour distinguer les requêtes informationnelles, commerciales ou transactionnelles
 . 
 L'analyse révèle les mots-clés pour lesquels vos concurrents se classent mais que vous n'avez pas encore couverts, tout en comparant vos classements respectifs
 .
 
 ### Étape 4 : Qualification des opportunités
 
-Exportez les mots-clés et regroupez-les par thématique pour comprendre quels clusters méritent de nouvelles pages ou un [contenu](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) plus approfondi, créant ainsi une liste claire des lacunes et intentions qui montrent où les concurrents vous surpassent
+Exportez les mots-clés et regroupez-les par thématique pour comprendre quels clusters méritent de nouvelles pages ou un contenu plus approfondi, créant ainsi une liste claire des lacunes et intentions qui montrent où les concurrents vous surpassent
 .
 
 ## Quels outils SEO sont indispensables pour automatiser votre analyse
@@ -94,7 +94,7 @@ Exportez les mots-clés et regroupez-les par thématique pour comprendre quels c
 
 Les outils SEO comme Clearscope, Ahrefs et SEMrush sont inestimables pour l'analyse de content gap
 . 
-Ces outils permettent de comparer le [Contenu](https://blotmkt.com/ia/Contenu/mise-a-jour-contenu) de votre site Web avec celui de vos concurrents, d'identifier les lacunes et de trouver les mots-clés cibles, avec par exemple l'outil d'analyse des lacunes de mots-clés de SEMrush
+Ces outils permettent de comparer le Contenu de votre site Web avec celui de vos concurrents, d'identifier les lacunes et de trouver les mots-clés cibles, avec par exemple l'outil d'analyse des lacunes de mots-clés de SEMrush
 .
 
 Ahrefs propose une fonctionnalité appelée "Content Gap" qui vous permet de comparer le contenu de votre site avec celui de vos concurrents pour trouver les mots-clés pour lesquels ils se classent mais pas vous, aidant à identifier les sujets que vous pourriez avoir négligés
@@ -111,7 +111,7 @@ Il est recommandé d'utiliser le même outil pour chaque métrique afin que vos 
 
 ### Alternatives et approches manuelles
 
-[Google](https://blotmkt.com/ia/definition/ymyl-seo) Analytics 4 permet de trouver des pages qui recevaient beaucoup de visites du SEO et GEO mais plus maintenant, en utilisant le rapport "Landing page" pour identifier les contenus sous-performants
+Google Analytics 4 permet de trouver des pages qui recevaient beaucoup de visites du SEO et GEO mais plus maintenant, en utilisant le rapport "Landing page" pour identifier les contenus sous-performants
 . Cette approche gratuite peut servir de point de départ avant d'investir dans des outils payants.
 
 ## Comment prioriser les content gaps pour un impact maximal
@@ -141,8 +141,8 @@ Créez du contenu pour des sujets demandés et précieux, coordonné avec l'obje
 Google utilise les entités et les relations pour comprendre les sujets, ce qui signifie qu'il faut maintenant un contexte clair : l'idée principale, les détails de soutien, les questions communes et les concepts connexes. Les pages qui fournissent cette profondeur sont plus souvent intégrées dans les résultats générés par l'IA
 .
 
-Une entité dépasse la simple chaîne de caractères : c'est un concept (personne, lieu, produit, idée) que les modèles de langage comprennent dans son contexte [sémantique](https://blotmkt.com/ia/Audit/audit-seo-quebec) complet. 
-L'[Optimisation](https://blotmkt.com/ia/Audit/exploration-googlebot) GEO privilégie la "citabilité" des contenus via leur structure, clarté, données et formats FAQ/listes/comparatifs, combinée à l'autorité EEAT avec auteurs, expertise et preuves
+Une entité dépasse la simple chaîne de caractères : c'est un concept (personne, lieu, produit, idée) que les modèles de langage comprennent dans son contexte sémantique complet. 
+L'Optimisation GEO privilégie la "citabilité" des contenus via leur structure, clarté, données et formats FAQ/listes/comparatifs, combinée à l'autorité EEAT avec auteurs, expertise et preuves
 .
 
 ### Analyse de gap sémantique et ontologies
@@ -153,7 +153,7 @@ L'objectif évolue de la couverture de mots-clés manquants vers la couverture d
 
 ### Impact sur la recherche générative
 
-Pour rester visible, il faut se concentrer sur l'Information Gain - fournir l'expertise unique et les données sur lesquelles les moteurs de réponse s'appuient. Le "content gap" moderne n'est pas un manque de mots-clés mais un manque de gain informationnel, et le succès nécessite l'optimisation pour les agents IA
+Pour rester visible, il faut se concentrer sur l'Information Gain - fournir l'expertise unique et les données sur lesquelles les [Moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/moteurs-de-reponse) s'appuient. Le "content gap" moderne n'est pas un manque de mots-clés mais un manque de gain informationnel, et le succès nécessite l'optimisation pour les agents IA
 . Un contenu structuré autour des entités prépare mieux votre site pour les citations dans les réponses d'intelligence artificielle.
 
 ## Questions fréquentes
@@ -183,7 +183,7 @@ L'analyse de keyword gap compare les mots-clés pour lesquels votre site Web se 
 
 ```json
 {
-  "@context": "https://schema.org",
+  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
   "@graph": [
     {
       "@type": "Article",
@@ -242,3 +242,13 @@ L'analyse de keyword gap compare les mots-clés pour lesquels votre site Web se 
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image)
+- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant)
+- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo)
+- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action)
+- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles)

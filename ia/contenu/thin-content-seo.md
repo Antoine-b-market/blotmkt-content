@@ -26,15 +26,15 @@ related_articles:
 # Le thin content en seo : le guide pour l'identifier et le corriger avant la pénalité
 
 > ## L'essentiel à retenir
-> - Le thin [Content](https://blotmkt.com/ia/Contenu/content-gap-seo) désigne une page apportant peu de valeur utilisateur, avec moins de 300 mots et un taux d'unicité inférieur à 40%
-> - Les risques post-mise à jour "Scaled [Content](https://blotmkt.com/ia/IA SEO - GEO/contextualisation-seo) Abuse" incluent des pénalités manuelles et une dégradation algorithmique majeure
-> - L'audit méthodique utilise Screaming Frog pour identifier les pages <300 mots, puis Google Analytics pour [Analyse](https://blotmkt.com/ia/Audit/fichier-robots.txt)r l'engagement
-> - Trois stratégies efficaces : enrichir le [contenu](https://blotmkt.com/ia/Audit/audit-seo-montreal), consolider les pages similaires, ou supprimer/déindexer les pages sans valeur
+> - Le thin Content désigne une page apportant peu de valeur utilisateur, avec moins de 300 mots et un taux d'unicité inférieur à 40%
+> - Les risques post-mise à jour "Scaled Content Abuse" incluent des pénalités manuelles et une dégradation algorithmique majeure
+> - L'audit méthodique utilise Screaming Frog pour identifier les pages <300 mots, puis Google Analytics pour Analyser l'engagement
+> - Trois stratégies efficaces : enrichir le contenu, consolider les pages similaires, ou supprimer/déindexer les pages sans valeur
 
-Le [contenu](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel) de faible qualité menace désormais directement votre visibilité SEO. 
-Depuis mars 2024, [Google](https://blotmkt.com/ia/Définition/ymyl-seo) a réduit de 45% le contenu non-original dans ses résultats
+Le contenu de faible qualité menace désormais directement votre visibilité SEO. 
+Depuis mars 2024, Google a réduit de 45% le contenu non-original dans ses résultats
 , s'attaquant agressivement aux pages sans valeur ajoutée. 
-La politique "Scaled [Content](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo) Abuse" introduite en mars 2024 cible spécifiquement la production massive de pages quasi-identiques
+La politique "Scaled Content Abuse" introduite en mars 2024 cible spécifiquement la production massive de pages quasi-identiques
 . Face à ces évolutions, identifier et corriger le thin content devient une priorité absolue pour éviter les sanctions.
 
 ---
@@ -47,22 +47,22 @@ Le thin content désigne des pages générées principalement pour manipuler les
 . Cette définition va bien au-delà du simple décompte de mots pour englober la valeur réelle apportée aux visiteurs.
 
 Les pages de moins de 300 mots sont systématiquement signalées comme "thin content"
-, mais ce critère quantitatif s'accompagne d'une [Analyse](https://blotmkt.com/ia/Stratégie/audit-site-web) qualitative cruciale. 
-[Google](https://blotmkt.com/ia/definition/ymyl-seo) évalue désormais si le contenu montre des signes d'effort réel, d'originalité et de compétence
+, mais ce critère quantitatif s'accompagne d'une Analyse qualitative cruciale. 
+Google évalue désormais si le contenu montre des signes d'effort réel, d'originalité et de compétence
 . Un taux d'unicité inférieur à 40% constitue un signal d'alerte majeur, particulièrement risqué depuis les récentes mises à jour.
 
 Les exemples typiques incluent les pages doorway, 
 les articles générés par IA sans commentaire ni recherche ajoutée
-, et le [contenu](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) dupliqué ou scrappé sans valeur originale.
+, et le contenu dupliqué ou scrappé sans valeur originale.
 
 ## Les risques concrets du "thin content" après la mise à jour "Scaled Content Abuse"
 
 L'algorithme de février 2025 a introduit des outils de détection de spam avancés avec une application plus stricte des politiques d'abus de réputation de site
-. Cette évolution marque une rupture dans l'approche de Google face au [Contenu](https://blotmkt.com/ia/Contenu/mise-a-jour-contenu) de masse.
+. Cette évolution marque une rupture dans l'approche de Google face au Contenu de masse.
 
-Les pénalités vont de la rétrogradation de classement à la suppression complète des résultats de recherche, avec des [action](https://blotmkt.com/ia/Audit/first-input-delay)s manuelles déjà déclenchées selon les analyses sectorielles
+Les pénalités vont de la rétrogradation de classement à la suppression complète des résultats de recherche, avec des actions manuelles déjà déclenchées selon les analyses sectorielles
 . 
-SpamBrain, l'engine anti-spam IA de Google, apprend continuellement les nouveaux modèles d'abus et devient progressivement plus efficace pour distinguer le [Contenu](https://blotmkt.com/ia/local-seo/fiche-etablissement-google) légitime des pratiques manipulatrices
+SpamBrain, l'engine anti-spam IA de Google, apprend continuellement les nouveaux modèles d'abus et devient progressivement plus efficace pour distinguer le Contenu légitime des pratiques manipulatrices
 .
 
 L'impact sur le SEO Health Score est significatif, le thin content pesant lourdement sur le score de qualité du contenu (25% du score global). 
@@ -74,14 +74,14 @@ La récupération après marquage comme spam est lente et gourmande en ressource
 ### Processus d'audit en 4 étapes
 
 Utilisez Screaming Frog SEO Spider pour scanner jusqu'à 500 URLs gratuitement et produire des rapports sur les liens brisés, les métadonnées manquantes et le contenu dupliqué
-. Cette première étape permet d'identifier rapidement les problèmes [technique](https://blotmkt.com/ia/Définition/ymyl-seo)s fondamentaux.
+. Cette première étape permet d'identifier rapidement les problèmes techniques fondamentaux.
 
-Filtrez toutes les pages avec moins de 300 mots pour une [Analyse](https://blotmkt.com/ia/strategie/audit-site-web) prioritaire, ces pages étant automatiquement catégorisées comme "thin content"
+Filtrez toutes les pages avec moins de 300 mots pour une Analyse prioritaire, ces pages étant automatiquement catégorisées comme "thin content"
 . 
 Intégrez les données de Google Analytics et Google Search Console pour connecter les problèmes techniques aux métriques de performance
 .
 
-L'analyse croisée avec les données de trafic révèle les pages sans engagement ou avec un fort [Taux de rebond](https://blotmkt.com/ia/Définition/discover-google-seo). 
+L'analyse croisée avec les données de trafic révèle les pages sans engagement ou avec un fort [Taux de rebond](https://blotmkt.com/ia/audit/taux-de-rebond). 
 Identifiez les pages sans trafic organique depuis six mois et surveillez celles avec un déclin constant sur 12 mois
 . Finalement, vérifiez le taux de contenu unique sur les pages suspectes avec des outils anti-plagiat.
 
@@ -89,7 +89,7 @@ Identifiez les pages sans trafic organique depuis six mois et surveillez celles 
 
 ### Approche stratégique de remédiation
 
-**Stratégie 1 - Enrichissement** : Approfondissez les pages existantes en ajoutant des données exclusives, des exemples concrets et en répondant mieux à l'intention de recherche. 
+**Stratégie 1 - Enrichissement** : Approfondissez les pages existantes en ajoutant des données exclusives, des exemples concrets et en répondant mieux à l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche). 
 Assurez-vous que le contenu IA soit révisé par un humain, apporte de nouvelles perspectives et bénéficie réellement à votre audience
 .
 
@@ -127,12 +127,12 @@ Cette politique renforcée se concentre sur le comportement abusif de production
 
 ```json
 {
-  "@context": "https://schema.org",
-  "@graph": [
+  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@graph": 
     {
       "@type": "Article",
       "headline": "Le thin content en seo : le guide pour l'identifier et le corriger avant la pénalité",
-      "description": "Découvrez ce qu'est le thin content en SEO, pourquoi il pénalise votre site et comment l'[Audit](https://blotmkt.com/ia/Contenu/audit-contenu-existant)er et le corriger pour éviter les sanctions de Google.",
+      "description": "Découvrez ce qu'est le thin content en SEO, pourquoi il pénalise votre site et comment l'[Auditer et le corriger pour éviter les sanctions de Google.",
       "url": "https://blotmkt.com/ia/Contenu/thin-content-seo",
       "datePublished": "2026-03-09 19:33",
       "dateModified": "2026-03-09 19:33",
@@ -152,7 +152,7 @@ Cette politique renforcée se concentre sur le comportement abusif de production
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "contenu de faible qualité, scaled content abuse, [Audit](https://blotmkt.com/ia/Audit/audit-seo-quebec) de contenu seo, pénalité google, qualité du contenu, content pruning"
+      "keywords": "contenu de faible qualité, scaled content abuse, Audit de contenu seo, pénalité google, qualité du contenu, content pruning"
     },
     {
       "@type": "FAQPage",
@@ -194,3 +194,13 @@ Cette politique renforcée se concentre sur le comportement abusif de production
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image)
+- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant)
+- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo)
+- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action)
+- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles)

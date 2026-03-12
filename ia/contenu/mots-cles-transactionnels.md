@@ -26,36 +26,36 @@ related_articles:
 # Mots-clés transactionnels : le guide pour cibler l'intention d'achat avec l'IA
 
 > ## L'essentiel à retenir
-> - Un mot-clé trans[action](https://blotmkt.com/ia/Audit/first-input-delay)nel signale une intention d'achat immédiate avec des marqueurs comme "acheter", "prix", "livraison" ou des localisateurs géographiques
-> - L'IA et les LLM permettent de générer des variantes de longue traîne et d'[Analyse](https://blotmkt.com/ia/Audit/fichier-robots.txt)r l'intention commerciale avec une précision inégalée
-> - L'[Optimisation](https://blotmkt.com/ia/Audit/exploration-googlebot) on-page doit placer ces mots-clés dans les zones chaudes (titre, H1, CTA) et créer du contenu qui lève les dernières objections avant l'achat
+> - Un mot-clé transactionnel signale une intention d'achat immédiate avec des marqueurs comme "acheter", "prix", "livraison" ou des localisateurs géographiques
+> - L'IA et les LLM permettent de générer des variantes de longue traîne et d'Analyser l'intention commerciale avec une précision inégalée
+> - L'Optimisation on-page doit placer ces mots-clés dans les zones chaudes (titre, H1, CTA) et créer du contenu qui lève les dernières objections avant l'achat
 > - 
-Le trafic issu des [mots-clés](https://blotmkt.com/ia/Définition/page-pilier-seo) transactionnels convertit jusqu'à 14,6% contre 2-5% en moyenne, générant un ROI directement mesurable sur le chiffre d'affaires
+Le trafic issu des mots-clés transactionnels convertit jusqu'à 14,6% contre 2-5% en moyenne, générant un ROI directement mesurable sur le chiffre d'affaires
 
-Vous perdez des ventes parce que vos [contenu](https://blotmkt.com/ia/Audit/audit-seo-montreal)s n'interceptent pas les clients prêts à acheter ? 
+Vous perdez des ventes parce que vos contenus n'interceptent pas les clients prêts à acheter ? 
 49% des marketeurs considèrent que le SEO génère le ROI le plus élevé de tous les canaux, et 68% des expériences en ligne commencent par une recherche
-. La solution : maîtriser les mots-clés trans[action](https://blotmkt.com/ia/Définition/intention-informative)nels avec l'intelligence artificielle pour transformer l'intention d'achat en conversion immédiate.
+. La solution : maîtriser les mots-clés transactionnels avec l'intelligence artificielle pour transformer l'intention d'achat en conversion immédiate.
 
 ---
 
 ## Définition : identifier l'intention d'achat derrière une recherche
 
-Les mots-clés trans[action](https://blotmkt.com/ia/Contenu/intention-de-recherche)nels incitent à l'action directe (achat, réservation) et sont utilisés par des internautes ayant l'intention de réaliser une transaction, identifiables par des termes comme "acheter", "réserver", "commander" ou "demander un devis"
+Les mots-clés transactionnels incitent à l'action directe (achat, réservation) et sont utilisés par des internautes ayant l'intention de réaliser une transaction, identifiables par des termes comme "acheter", "réserver", "commander" ou "demander un devis"
 .
 
-Contrairement aux [mots-clés](https://blotmkt.com/ia/definition/page-pilier-seo) informationnels qui répondent à "comment" ou "pourquoi", 
+Contrairement aux [Mots-clés informationnels](https://blotmkt.com/ia/contenu/mots-cles-informationnels) qui répondent à "comment" ou "pourquoi", 
 les mots-clés transactionnels sont utilisés quelques minutes avant l'achat par des internautes qui ont probablement leur carte de crédit en main, ce qui explique leur taux de conversion extrêmement élevé
 .
 
-L'[Analyse](https://blotmkt.com/ia/Stratégie/audit-site-web) des SERP confirme cette intention : si Google affiche des fiches produits pour une requête, l'intention est transactionnelle
-. Ces marqueurs [sémantique](https://blotmkt.com/ia/Audit/audit-seo-quebec)s incluent également les termes de coût ("prix", "tarif"), les noms de produits spécifiques, et les localisateurs géographiques ("près de chez moi", "Paris").
+L'Analyse des SERP confirme cette intention : si Google affiche des fiches produits pour une requête, l'intention est transactionnelle
+. Ces marqueurs sémantiques incluent également les termes de coût ("prix", "tarif"), les noms de produits spécifiques, et les localisateurs géographiques ("près de chez moi", "Paris").
 
 ## Méthodes et outils pour trouver vos mots-clés transactionnels
 
 ### Exploitation des LLM pour la génération de variantes
 
 Les assistants IA fournissent en quelques clics des prompts adaptées aux personas de votre marque avec une intention commerciale ou transactionnelle
-. Un prompt efficace : "Génère 20 variations de mots-clés transactionnels pour [produit] incluant des termes d'achat immédiat, des localisateurs et des spécifications [technique](https://blotmkt.com/ia/Définition/ymyl-seo)s".
+. Un prompt efficace : "Génère 20 variations de mots-clés transactionnels pour [produit] incluant des termes d'achat immédiat, des localisateurs et des spécifications techniques".
 
 ### Analyse traditionnelle combinée à l'IA
 
@@ -74,15 +74,15 @@ l'intégration avec des données LLM permet de croiser les volumes de recherche 
 
 L'optimisation des pages produit avec des mots-clés transactionnels nécessite leur présence dans le titre, la méta-description, la description du produit et les titres
 . 
-La [Balise](https://blotmkt.com/ia/Contenu/meta-description) titre est la plus importante en SEO car Google l'utilise pour comprendre le sujet de la page, et les mots-clés les plus importants doivent être placés au début
+La Balise titre est la plus importante en SEO car Google l'utilise pour comprendre le sujet de la page, et les mots-clés les plus importants doivent être placés au début
 .
 
 ### Contenu qui lève les objections d'achat
 
 Les mots-clés de longue traîne ont des taux de conversion plus élevés car ils aident les utilisateurs à trouver exactement ce qu'ils recherchent, avec des volumes plus faibles mais un meilleur ROI
-. Le [Contenu](https://blotmkt.com/ia/Contenu/densite-de-mots-cles) doit répondre aux dernières interrogations : comparatifs détaillés, informations de livraison, garanties, et avis clients authentiques.
+. Le Contenu doit répondre aux dernières interrogations : comparatifs détaillés, informations de livraison, garanties, et avis clients authentiques.
 
-Créer du [contenu](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel) combinant mots-clés transactionnels et avis produit attire des acheteurs prêts à convertir après lecture, comme un article "Canapés modulaires les plus confortables 2024"
+Créer du contenu combinant mots-clés transactionnels et avis produit attire des acheteurs prêts à convertir après lecture, comme un article "Canapés modulaires les plus confortables 2024"
 .
 
 ## Mesurer le ROI : l'impact direct sur votre chiffre d'affaires
@@ -102,18 +102,18 @@ Le taux de conversion moyen se situe autour de 2 à 5% pour le trafic global, ma
 . Les mots-clés transactionnels permettent un CPA (Coût par Acquisition) plus précis et souvent plus faible en SEO comparé au SEA.
 
 Le trafic organique est considéré plus qualifié car les utilisateurs recherchent activement des informations ou produits liés à votre domaine
-, facilitant le tracking des performances via [Google](https://blotmkt.com/ia/definition/ymyl-seo) Analytics et Search Console avec un filtrage par pages et requêtes spécifiques.
+, facilitant le tracking des performances via Google Analytics et Search Console avec un filtrage par pages et requêtes spécifiques.
 
 ## Questions fréquentes
 
 ### Quels sont les 4 types de mots-clés ?
-Les quatre intentions de recherche sont : informationnelle (obtenir des informations), navigationnelle (accéder à un site spécifique), commerciale (comparer avant d'acheter) et transactionnelle (effectuer une action d'achat immédiat). Cette typologie guide l'optimisation de [contenu](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) selon l'étape du parcours client.
+Les quatre intentions de recherche sont : informationnelle (obtenir des informations), navigationnelle (accéder à un site spécifique), commerciale (comparer avant d'acheter) et transactionnelle (effectuer une action d'achat immédiat). Cette typologie guide l'[Optimisation de contenu](https://blotmkt.com/ia/contenu/optimisation-de-contenu) selon l'étape du parcours client.
 
 ### Comment trouver des mots clés transactionnels ?
-[Analyse](https://blotmkt.com/ia/strategie/audit-site-web)z les SERP pour identifier les pages produit, utilisez les filtres d'intention des outils SEO, exploitez les prompts IA spécialisés et surveillez le CPC élevé qui signale une intention commerciale forte. Combinez ces méthodes pour une approche complète.
+Analysez les SERP pour identifier les pages produit, utilisez les filtres d'intention des outils SEO, exploitez les prompts IA spécialisés et surveillez le CPC élevé qui signale une intention commerciale forte. Combinez ces méthodes pour une approche complète.
 
 ### Comment utiliser les mots-clés pour vendre ?
-Placez les mots-clés transactionnels dans les zones chaudes (titre, H1, CTA), créez du [Contenu](https://blotmkt.com/ia/Contenu/mise-a-jour-contenu) qui lève les objections d'achat, optimisez vos pages produit et mesurez le ROI avec des outils d'analyse pour ajuster votre stratégie selon les performances.
+Placez les mots-clés transactionnels dans les zones chaudes (titre, H1, CTA), créez du Contenu qui lève les objections d'achat, optimisez vos pages produit et mesurez le ROI avec des outils d'analyse pour ajuster votre stratégie selon les performances.
 
 ---
 
@@ -152,7 +152,7 @@ Drujok, 2019
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "intention de recherche, mot-clé commercial, optimisation taux de conversion, SEO e-commerce, ciblage mots-clés, longue traîne transactionnelle, generative engine optimization"
+      "keywords": "[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche), mot-clé commercial, optimisation taux de conversion, SEO e-commerce, ciblage mots-clés, longue traîne transactionnelle, generative engine optimization"
     },
     {
       "@type": "FAQPage",
@@ -186,3 +186,13 @@ Drujok, 2019
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image)
+- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant)
+- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo)
+- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action)
+- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles)

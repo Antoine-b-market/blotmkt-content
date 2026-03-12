@@ -26,10 +26,10 @@ related_articles:
 # Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
 
 > ## L'essentiel à retenir
-> - Un filtre Google est un ajustement algorithmique automatique qui dévalue les pages ne respectant pas les consignes de qualité, entraînant une chute de positions significative sur les [mots-clés](https://blotmkt.com/ia/definition/page-pilier-seo) stratégiques
-> - Les pénalités algorithmiques sont automatisées et non notifiées, contrairement aux [action](https://blotmkt.com/ia/Audit/first-input-delay)s manuelles qui apparaissent dans la section "Actions manuelles" de la Search Console avec des explications détaillées
-> - Le diagnostic passe par la vérification des actions manuelles dans la Search Console et l'[Analyse](https://blotmkt.com/ia/Audit/fichier-robots.txt) des corrélations entre les chutes de trafic et les dates de mises à jour algorithmiques connues
-> - Lever un filtre nécessite d'identifier la cause (contenu faible, liens artificiels, sur-[Optimisation](https://blotmkt.com/ia/Audit/exploration-googlebot)), de corriger méthodiquement les problèmes et d'attendre la prochaine évaluation algorithmique
+> - Un filtre Google est un ajustement algorithmique automatique qui dévalue les pages ne respectant pas les consignes de qualité, entraînant une chute de positions significative sur les mots-clés stratégiques
+> - Les pénalités algorithmiques sont automatisées et non notifiées, contrairement aux actions manuelles qui apparaissent dans la section "Actions manuelles" de la Search Console avec des explications détaillées
+> - Le diagnostic passe par la vérification des actions manuelles dans la Search Console et l'Analyse des corrélations entre les chutes de trafic et les dates de mises à jour algorithmiques connues
+> - Lever un filtre nécessite d'identifier la cause (contenu faible, liens artificiels, sur-Optimisation), de corriger méthodiquement les problèmes et d'attendre la prochaine évaluation algorithmique
 
 Votre trafic SEO s'effondre du jour au lendemain, vos positions dégringolent sur vos mots-clés stratégiques ? Une pénalité Google frappe près d'un site sur six, avec des conséquences dramatiques : 
 une étude menée en 2024 révèle que les entreprises sanctionnées perdent en moyenne 70% de leur trafic organique dans les 30 jours
@@ -41,14 +41,14 @@ une étude menée en 2024 révèle que les entreprises sanctionnées perdent en 
 
 Un filtre Google n'est pas une suppression de l'index, mais 
 un ajustement algorithmique qui sanctionne un site lorsque Google détecte que son SEO va contre les règles définies par le moteur de recherche, généralement suite à une mise à jour majeure qui bouleverse les résultats
-. Cette dévaluation automatique vise à écarter les sites usant de [technique](https://blotmkt.com/ia/Définition/ymyl-seo)s abusives ou produisant du contenu de faible valeur.
+. Cette dévaluation automatique vise à écarter les sites usant de techniques abusives ou produisant du contenu de faible valeur.
 
 L'impact se traduit par une perte de positions massive sur les requêtes stratégiques, entraînant 
 une chute drastique du trafic organique puisque les trois premiers résultats naturels captent 60% des clics, tandis que la seconde page de résultats ne reçoit que 2% du trafic total
 . Cette quasi-disparition de la visibilité digitale peut compromettre définitivement la rentabilité d'une activité en ligne.
 
 Les filtres algorithmiques les plus emblématiques incluent 
-Panda qui vise la qualité des [contenu](https://blotmkt.com/ia/Audit/audit-seo-montreal)s des sites, tandis que Penguin vise la qualité des réseaux de liens, ces deux filtres étant emblématiques du virage pris par Google dans la maîtrise de ses résultats
+Panda qui vise la qualité des contenus des sites, tandis que Penguin vise la qualité des réseaux de liens, ces deux filtres étant emblématiques du virage pris par Google dans la maîtrise de ses résultats
 . Objectif : proposer des résultats pertinents en pénalisant automatiquement les pratiques manipulatrices.
 
 ## Filtre algorithmique vs. pénalité manuelle : savoir identifier l'ennemi
@@ -58,9 +58,9 @@ Les pénalités algorithmiques fonctionnent de manière automatisée lors des mi
 .
 
 À l'inverse, 
-les actions manuelles sont prises par des évaluateurs humains spécialement formés : la Search Quality Team, qui [Analyse](https://blotmkt.com/ia/Stratégie/audit-site-web)nt les sites web et signalent les problèmes qui ne peuvent pas être détectés de manière automatisée, entraînant une pénalité Google qui affecte le classement et la visibilité du site
+les actions manuelles sont prises par des évaluateurs humains spécialement formés : la Search Quality Team, qui Analysent les sites web et signalent les problèmes qui ne peuvent pas être détectés de manière automatisée, entraînant une pénalité Google qui affecte le classement et la visibilité du site
 . Ces sanctions ciblées sont 
-notifiées clairement dans le rapport sur les [action](https://blotmkt.com/ia/Définition/intention-informative)s manuelles et dans le centre de messagerie de la Search Console
+notifiées clairement dans le rapport sur les actions manuelles et dans le centre de messagerie de la Search Console
 .
 
 La résolution diffère également : un filtre algorithmique se lève en corrigeant les problèmes et en attendant la prochaine évaluation par les robots de Google, tandis qu'une pénalité manuelle nécessite 
@@ -70,7 +70,7 @@ une demande de réexamen après corrections, cette demande se faisant sur l'inte
 ## Diagnostiquer la sanction avec la Google Search Console
 
 Le diagnostic commence par 
-la vérification de l'onglet "Sécurité et [action](https://blotmkt.com/ia/Contenu/intention-de-recherche)s manuelles", dans "Actions manuelles" où une notification explique les raisons de la pénalité si elle existe
+la vérification de l'onglet "Sécurité et actions manuelles", dans "Actions manuelles" où une notification explique les raisons de la pénalité si elle existe
 . L'absence de message écarte définitivement la piste d'une action manuelle et oriente vers un filtre algorithmique.
 
 Pour identifier une pénalité algorithmique, 
@@ -79,18 +79,18 @@ surveillez les modulations du trafic via Google Analytics et les outils de suivi
 Cette corrélation permet de comprendre si une chute de trafic coïncide avec une date de mise à jour connue, les sources comme SERoundtable ou MozCast publiant régulièrement des chronologies de mises à jour
 .
 
-L'inspection d'URL et les rapports de couverture complètent le diagnostic en vérifiant si des pages stratégiques présentent des problèmes d'exploration ou d'[Indexation](https://blotmkt.com/ia/definition/ymyl-seo) qui pourraient simuler les effets d'un filtre. 
-Certaines mises à jour ciblent des aspects précis comme le spam ou les [contenu](https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel)s produits à grande échelle, depuis 2023, Google ayant fusionné la Helpful Content Update avec les Core Updates
+L'inspection d'URL et les rapports de couverture complètent le diagnostic en vérifiant si des pages stratégiques présentent des problèmes d'exploration ou d'Indexation qui pourraient simuler les effets d'un filtre. 
+Certaines mises à jour ciblent des aspects précis comme le spam ou les contenus produits à grande échelle, depuis 2023, Google ayant fusionné la Helpful Content Update avec les Core Updates
 .
 
 ## Plan d'action : lever le filtre et pérenniser votre SEO
 
-L'[Audit](https://blotmkt.com/ia/Contenu/audit-contenu-existant) exhaustif constitue la première étape. 
+L'Audit exhaustif constitue la première étape. 
 Il faut identifier le type de pénalité et la pratique concernée, grâce à une veille active sur les déploiements et mises à jour, puis mettre en corrélation les périodes de mises à jour avec les baisses observées pour identifier des pistes correctives
-. Les causes fréquentes incluent les liens artificiels, le [contenu](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) dupliqué ou de faible qualité, la sur-optimisation et les problèmes techniques.
+. Les causes fréquentes incluent les liens artificiels, le contenu dupliqué ou de faible qualité, la sur-optimisation et les problèmes techniques.
 
 Les actions correctives varient selon le filtre identifié. 
-Pour Panda : corriger la gestion de [Contenu](https://blotmkt.com/ia/Contenu/mise-a-jour-contenu)s, leur structuration, rédaction et optimisation ; pour Penguin : nettoyer le réseau de liens et développer un réseau plus qualitatif ; pour FRED : revoir la stratégie et les contenus publicitaires
+Pour Panda : corriger la gestion de Contenus, leur structuration, rédaction et optimisation ; pour Penguin : nettoyer le réseau de liens et développer un réseau plus qualitatif ; pour FRED : revoir la stratégie et les contenus publicitaires
 . L'outil de désaveu de liens peut s'avérer nécessaire pour les problèmes de netlinking.
 
 La prévention passe par 
@@ -102,13 +102,13 @@ Pour une pénalité manuelle, comptez 2 à 8 semaines après la demande de réex
 ## Questions fréquentes
 
 ### Comment savoir si mon site est pénalisé par Google ?
-Vérifiez d'abord la section "Actions manuelles" dans Google Search Console. L'absence de notification écarte une pénalité manuelle. [Analyse](https://blotmkt.com/ia/strategie/audit-site-web)z ensuite vos statistiques de trafic pour identifier une corrélation entre une chute brutale et les dates de mises à jour Google connues, signe d'un filtre algorithmique.
+Vérifiez d'abord la section "Actions manuelles" dans Google Search Console. L'absence de notification écarte une pénalité manuelle. Analysez ensuite vos statistiques de trafic pour identifier une corrélation entre une chute brutale et les dates de mises à jour Google connues, signe d'un filtre algorithmique.
 
 ### Combien de temps dure une pénalité Google ?
-Pour une action manuelle, comptez 2 à 8 semaines après soumission de votre demande de réexamen. Pour un filtre algorithmique, la récupération nécessite plusieurs mois d'attente jusqu'à la prochaine évaluation automatique par l'algorithme Google, après correction des problèmes identifiés.
+Pour une action manuelle, comptez 2 à 8 semaines après soumission de votre demande de réexamen. Pour un filtre algorithmique, la récupération nécessite plusieurs mois d'attente jusqu'à la prochaine évaluation automatique par l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google), après correction des problèmes identifiés.
 
 ### Qu'est-ce que l'outil de désaveu de liens de Google ?
-L'outil de désaveu permet de signaler à Google les backlinks toxiques ou artificiels pointant vers votre site. Utilisable via Google Search Console, il aide à nettoyer un profil de liens compromis suite à une pénalité Penguin ou une action manuelle pour liens non naturels.
+L'outil de désaveu permet de signaler à Google les backlinks toxiques ou artificiels pointant vers votre site. Utilisable via Google Search Console, il aide à nettoyer un [Profil de liens](https://blotmkt.com/ia/definition/profil-de-liens) compromis suite à une pénalité Penguin ou une action manuelle pour liens non naturels.
 
 ### Comment faire une demande de réexamen à Google ?
 Après correction des problèmes identifiés dans l'action manuelle, cliquez sur "Demander un examen" dans le rapport Actions manuelles de votre Search Console. Expliquez précisément les mesures correctives prises et fournissez des preuves de votre mise en conformité avec les consignes de qualité.
@@ -119,7 +119,7 @@ Après correction des problèmes identifiés dans l'action manuelle, cliquez sur
 
 ```json
 {
-  "@context": "https://schema.org",
+  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
   "@graph": [
     {
       "@type": "Article",
@@ -186,3 +186,13 @@ Après correction des problèmes identifiés dans l'action manuelle, cliquez sur
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO](https://blotmkt.com/ia/popularite/algorithme-penalite)
+- [Désindexation google: guide pratique pour contrôler votre visibilité en ligne](https://blotmkt.com/ia/popularite/desindexation-google)
+- [Facteurs de classement google : le guide basé sur la documentation officielle](https://blotmkt.com/ia/popularite/facteurs-de-classement-google)
+- [Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne](https://blotmkt.com/ia/popularite/guest-blogging-seo)
+- [Action manuelle Google : le guide complet pour l'identifier et la corriger](https://blotmkt.com/ia/popularite/manuel-action-google)

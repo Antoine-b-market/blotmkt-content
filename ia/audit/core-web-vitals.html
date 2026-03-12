@@ -6,12 +6,12 @@
   <title>Core web vitals : le guide pour maîtriser les signaux web essentiels de google</title>
   <meta name="description" content="Découvrez ce que sont les Core Web Vitals (LCP, INP, CLS), pourquoi ils sont cruciaux pour votre SEO et comment les optimiser pour améliorer votre classement." />
   <meta name="author" content="Antoine Blot" />
-  <link rel="canonical" href="https://blotmkt.com/ia/definition/amp-google-seo" />
-  <link rel="alternate" hreflang="fr-CA" href="https://blotmkt.com/ia/definition/amp-google-seo" />
-  <link rel="alternate" hreflang="fr" href="https://blotmkt.com/ia/definition/amp-google-seo" />
+  <link rel="canonical" href="https://blotmkt.com/ia/audit/core-web-vitals" />
+  <link rel="alternate" hreflang="fr-CA" href="https://blotmkt.com/ia/audit/core-web-vitals" />
+  <link rel="alternate" hreflang="fr" href="https://blotmkt.com/ia/audit/core-web-vitals" />
   <meta property="og:title" content="Core web vitals : le guide pour maîtriser les signaux web essentiels de google" />
   <meta property="og:description" content="Découvrez ce que sont les Core Web Vitals (LCP, INP, CLS), pourquoi ils sont cruciaux pour votre SEO et comment les optimiser pour améliorer votre classement." />
-  <meta property="og:url" content="https://blotmkt.com/ia/definition/amp-google-seo" />
+  <meta property="og:url" content="https://blotmkt.com/ia/audit/core-web-vitals" />
   <meta property="og:type" content="article" />
   <style>
     *{box-sizing:border-box;margin:0;padding:0}
@@ -34,24 +34,20 @@
     ul,ol{margin:0 0 16px 24px}
     li{margin-bottom:6px}
     .meta{font-size:0.82rem;color:#888;margin-bottom:32px;padding-bottom:16px;border-bottom:1px solid #eee}
-    .meta a{color:#888}
     .related{margin-top:48px;padding-top:24px;border-top:2px solid #f0f0f0}
     .related h2{font-size:1rem;color:#555;border:none;padding:0;margin-bottom:12px}
     .related ul{margin:0;list-style:none;padding:0}
     .related li{margin-bottom:8px}
-    .formats{font-size:0.78rem;margin-top:4px}
-    .formats a{color:#aaa;margin-right:8px;text-decoration:none;border:1px solid #ddd;padding:1px 7px;border-radius:3px}
-    .formats a:hover{background:#f5f5f5}
     footer{margin-top:48px;padding-top:16px;border-top:1px solid #eee;font-size:0.78rem;color:#aaa}
   </style>
   <script type="application/ld+json">{
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/Définition/json-ld-seo)",
-  "@graph": [
+  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@graph": 
     {
       "@type": "Article",
-      "headline": "Core web vitals : le guide pour maîtriser les signaux web essentiels de [Google](https://blotmkt.com/ia/Définition/ymyl-seo)",
-      "[description](https://blotmkt.com/ia/Contenu/meta-description)": "Découvrez ce que sont les Core Web Vitals (LCP, INP, CLS), pourquoi ils sont cruciaux pour votre SEO et comment les optimiser pour améliorer votre classement.",
-      "url": "https://blotmkt.com/ia/[Audit](https://blotmkt.com/ia/Audit/audit-mobile-first)/core-web-vitals",
+      "headline": "Core web vitals : le guide pour maîtriser les signaux web essentiels de [Google",
+      "description": "Découvrez ce que sont les Core Web Vitals (LCP, INP, CLS), pourquoi ils sont cruciaux pour votre SEO et comment les optimiser pour améliorer votre classement.",
+      "url": "https://blotmkt.com/ia/Audit/core-web-vitals",
       "datePublished": "2026-03-09 05:57",
       "dateModified": "2026-03-09 05:57",
       "author": {
@@ -70,17 +66,17 @@
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "LCP, INP, CLS, Page Experience, vitesse de chargement, performance web, PageSpeed Insights, expérience utilisateur, SEO [technique](https://blotmkt.com/ia/Audit/audit-seo-quebec)"
+      "keywords": "LCP, INP, CLS, Page Experience, vitesse de chargement, performance web, PageSpeed Insights, expérience utilisateur, SEO technique"
     },
     {
       "@type": "FAQPage",
-      "mainEntity": [
+      "mainEntity": 
         {
           "@type": "Question",
-          "name": "Qu'est-ce qu'un bon [score](https://blotmkt.com/ia/ia-seo-geo/search-engine-over-optimization) Core Web Vitals ?",
-          "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
-            "@type": "[Answer](https://blotmkt.com/ia/Contenu/intention-de-recherche)",
-            "text": "Un bon score respecte les seuils LCP inférieur à 2,5 secondes, INP inférieur à 200ms et CLS inférieur à 0,1, mesurés au 75e percentile des [chargement](https://blotmkt.com/ia/definition/amp-google-seo)s de page. Ces seuils garantissent une expérience satisfaisante pour la majorité des utilisateurs et influencent positivement le référencement."
+          "name": "Qu'est-ce qu'un bon [score Core Web Vitals ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un bon score respecte les seuils LCP inférieur à 2,5 secondes, INP inférieur à 200ms et CLS inférieur à 0,1, mesurés au 75e percentile des chargements de page. Ces seuils garantissent une expérience satisfaisante pour la majorité des utilisateurs et influencent positivement le référencement."
           }
         },
         {
@@ -88,7 +84,7 @@
           "name": "L'indicateur INP remplace-t-il le FID ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Oui, INP a remplacé First Input Delay (FID) comme Core Web Vital en mars 2024. Contrairement au FID qui ne mesurait que la première inter[action](https://blotmkt.com/ia/Contenu/call-to-action), INP évalue la réactivité tout au long de la visite entière, fournissant une image plus précise de l'expérience utilisateur réelle."
+            "text": "Oui, INP a remplacé First Input Delay (FID) comme Core Web Vital en mars 2024. Contrairement au FID qui ne mesurait que la première interaction, INP évalue la réactivité tout au long de la visite entière, fournissant une image plus précise de l'expérience utilisateur réelle."
           }
         },
         {
@@ -96,15 +92,15 @@
           "name": "Comment les Core Web Vitals affectent-ils le SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Les Core Web Vitals sont un signal de classement confirmé depuis 2021, bien que leur poids reste inférieur à la pertinence du [contenu](https://blotmkt.com/ia/Contenu/mise-a-jour-contenu). Leur impact est plus notable quand les pages ont un contenu comparable, lors d'améliorations de performances médiocres, et dans des niches très concurrentielles."
+            "text": "Les Core Web Vitals sont un signal de classement confirmé depuis 2021, bien que leur poids reste inférieur à la pertinence du contenu. Leur impact est plus notable quand les pages ont un contenu comparable, lors d'améliorations de performances médiocres, et dans des niches très concurrentielles."
           }
         },
         {
           "@type": "Question",
-          "name": "Comment corriger les [Erreurs](https://blotmkt.com/ia/Audit/erreurs-404-seo) LCP dans Search Console ?",
+          "name": "Comment corriger les Erreurs LCP dans Search Console ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pour corriger le LCP, optimisez et compressez vos [Image](https://blotmkt.com/ia/Contenu/image-seo-quebec)s aux formats WebP/AVIF, préchargez les ressources critiques, utilisez un CDN, réduisez le temps de réponse serveur et minimisez le poids du code CSS/JavaScript. Surveillez les améliorations via le rapport Core Web Vitals de Search Console."
+            "text": "Pour corriger le LCP, optimisez et compressez vos Images aux formats WebP/AVIF, préchargez les ressources critiques, utilisez un CDN, réduisez le temps de réponse serveur et minimisez le poids du code CSS/JavaScript. Surveillez les améliorations via le rapport Core Web Vitals de Search Console."
           }
         },
       ]
@@ -117,99 +113,108 @@
     <h1>Core web vitals : le guide pour maîtriser les signaux web essentiels de google</h1>
 <blockquote>
 <h2>L'essentiel à retenir</h2>
-<h2>- Les Core Web Vitals sont trois métriques spécifiques (LCP, INP, CLS) qui mesurent l'expérience utilisateur réelle et influencent directement les <a href="https://blotmkt.com/ia/Popularité/facteurs-de-classement-google">classement</a>s SEO depuis 2021</h2>
-<p>LCP mesure la <a href="https://blotmkt.com/ia/Audit/vitesse-de-chargement">Vitesse de chargement</a> (objectif : moins de 2,5 secondes), INP évalue la réactivité (moins de 200 millisecondes) et CLS quantifie la stabilité visuelle (moins de 0,1)</p>
+<h2>- Les Core Web Vitals sont trois métriques spécifiques (LCP, INP, CLS) qui mesurent l'expérience utilisateur réelle et influencent directement les classements SEO depuis 2021</h2>
+<p>LCP mesure la <a href="https://blotmkt.com/ia/audit/vitesse-de-chargement">Vitesse de chargement</a> (objectif : moins de 2,5 secondes), INP évalue la réactivité (moins de 200 millisecondes) et CLS quantifie la stabilité visuelle (moins de 0,1)</p>
 <ul>
 <li>
-<p>Seules les <a href="https://blotmkt.com/ia/Définition/cocon-semantique">Données</a> utilisateurs réels (CrUX) via PageSpeed Insights et Search Console impactent le SEO, pas les scores Lighthouse</p>
+<p>Seules les Données utilisateurs réels (CrUX) via PageSpeed Insights et Search Console impactent le SEO, pas les scores Lighthouse</p>
 </li>
 <li>
-<p>Les optimisations concrètes incluent la <a href="https://blotmkt.com/ia/Audit/compression-image-webp">Compression</a> d'images, le chargement différé et la révision des scripts tiers</p>
+<p>Les optimisations concrètes incluent la Compression d'images, le chargement différé et la révision des scripts tiers</p>
 </li>
 </ul>
 </blockquote>
-<p>Google a révolutionné l'évaluation des sites web en 2021 avec l'intégration des Core Web Vitals dans son algorithme de classement. Ces métriques ne se contentent plus de mesurer la performance <a href="https://blotmkt.com/ia/Audit/audit-seo-technique">technique</a> : 
-elles constituent un signal de classement confirmé qui alimente les systèmes de classement centraux de <a href="https://blotmkt.com/ia/Audit/indexation-api-google">Google</a>, avec un poids mesurable bien que moins important que la pertinence du contenu et les liens
+<p>Google a révolutionné l'évaluation des sites web en 2021 avec l'intégration des Core Web Vitals dans son algorithme de classement. Ces métriques ne se contentent plus de mesurer la performance technique : 
+elles constituent un signal de classement confirmé qui alimente les systèmes de classement centraux de Google, avec un poids mesurable bien que moins important que la pertinence du contenu et les liens
 . Aujourd'hui, 
 56,3% des sites respectent tous les seuils Core Web Vitals en 2024
 , transformant ces métriques en avantage concurrentiel déterminant.</p>
 <hr />
 <h2>Core Web Vitals : définition d'un pilier de l'expérience page</h2>
-<p>Les Core Web Vitals représentent une initiative de <a href="https://blotmkt.com/ia/Définition/algorithme-google">Google</a> pour fournir des conseils unifiés sur les signaux de qualité essentiels à une excellente expérience utilisateur sur le web
+<p>Les Core Web Vitals représentent une initiative de Google pour fournir des conseils unifiés sur les signaux de qualité essentiels à une excellente expérience utilisateur sur le web
 . 
 Ces métriques s'appliquent à toutes les pages web, doivent être mesurées par tous les propriétaires de sites et reflètent l'expérience réelle d'un résultat critique centré sur l'utilisateur
 .</p>
 <p>Contrairement aux mesures de laboratoire traditionnelles, 
-le Chrome User Experience Report collecte des <a href="https://blotmkt.com/ia/IA SEO - GEO/provenance-des-donnees">données</a> de mesure d'utilisateurs réels anonymisées pour chaque Core Web Vital
+le Chrome User Experience Report collecte des données de mesure d'utilisateurs réels anonymisées pour chaque Core Web Vital
 . Cette approche garantit une évaluation basée sur l'expérience vécue plutôt que sur des simulations théoriques.</p>
-<p><a href="https://blotmkt.com/ia/Définition/amp-google-seo">Google</a> a confirmé explicitement le 12 mars 2024 dans sa documentation officielle que les Core Web Vitals sont utilisés par ses systèmes de classement, supprimant toute ambiguïté restante
-. Cette intégration dans les signaux "Page Experience" influence <a href="https://blotmkt.com/ia/IA SEO - GEO/reponse-directe-ia">directe</a>ment les résultats de recherche, récompensant les sites qui offrent une expérience fluide et sans frustration.</p>
+<p>Google a confirmé explicitement le 12 mars 2024 dans sa documentation officielle que les Core Web Vitals sont utilisés par ses systèmes de classement, supprimant toute ambiguïté restante
+. Cette intégration dans les signaux "Page Experience" influence directement les résultats de recherche, récompensant les sites qui offrent une expérience fluide et sans frustration.</p>
 <h2>Décryptage des 3 métriques : LCP, INP et CLS</h2>
 <h3>Largest Contentful Paint (LCP) : la vitesse perçue</h3>
-<p>LCP mesure la performance de <a href="https://blotmkt.com/ia/Audit/budget-de-crawl">chargement</a> et devrait se produire dans les 2,5 secondes suivant le début du chargement de la page
-. Cette métrique marque le moment où le plus grand élément de contenu devient visible, qu'il s'agisse d'une <a href="https://blotmkt.com/ia/Contenu/alt-text-image">image</a>, vidéo ou bloc de texte substantiel.</p>
-<p>Avec la montée du mobile-first, le LCP reste la métrique la plus cruciale, <a href="https://blotmkt.com/ia/Définition/discover-google-seo">Google</a> privilégiant la vitesse de chargement comme facteur principal pour une expérience rapide aux utilisateurs mobiles
+<p>LCP mesure la performance de chargement et devrait se produire dans les 2,5 secondes suivant le début du chargement de la page
+. Cette métrique marque le moment où le plus grand élément de contenu devient visible, qu'il s'agisse d'une image, vidéo ou bloc de texte substantiel.</p>
+<p>Avec la montée du mobile-first, le LCP reste la métrique la plus cruciale, Google privilégiant la vitesse de chargement comme facteur principal pour une expérience rapide aux utilisateurs mobiles
 . 
-Une étude de <a href="https://blotmkt.com/ia/Contenu/structure-hn-seo">Google</a> révèle que 53% des utilisateurs quittent un site qui met plus de 3 secondes à se charger
+Une étude de Google révèle que 53% des utilisateurs quittent un site qui met plus de 3 secondes à se charger
 .</p>
 <h3>Interaction to Next Paint (INP) : la réactivité globale</h3>
-<p>INP a remplacé <a href="https://blotmkt.com/ia/Audit/first-input-delay">First Input Delay</a> (FID) le 12 mars 2024, mesurant la latence de toutes les interactions utilisateur pendant une visite, pas seulement la première
+<p>INP a remplacé <a href="https://blotmkt.com/ia/audit/first-input-delay">First Input Delay</a> (FID) le 12 mars 2024, mesurant la latence de toutes les interactions utilisateur pendant une visite, pas seulement la première
 . 
 Pour offrir une bonne expérience utilisateur, les pages doivent avoir un INP de 200 millisecondes ou moins
 .</p>
-<p>Les recherches de SpeedCurve montrent que les taux de conversion sont environ 10% plus élevés à 100ms contre 250ms INP sur mobile, INP mesurant la rapidité de <a href="https://blotmkt.com/ia/IA SEO - GEO/moteurs-de-reponse">réponse</a> du site tout au long de la visite
+<p>Les recherches de SpeedCurve montrent que les taux de conversion sont environ 10% plus élevés à 100ms contre 250ms INP sur mobile, INP mesurant la rapidité de réponse du site tout au long de la visite
 . 
 47% des sites échouent aux seuils INP, en faisant la métrique la plus difficile
 .</p>
 <h3>Cumulative Layout Shift (CLS) : la stabilité visuelle</h3>
 <p>CLS mesure la stabilité visuelle et les pages doivent maintenir un CLS de 0,1 ou moins pour offrir une bonne expérience utilisateur
 . Cette métrique quantifie les changements de mise en page inattendus qui peuvent frustrer les utilisateurs en provoquant des clics accidentels.</p>
-<p>La stabilité visuelle joue un rôle clé, notamment dans les sites <a href="https://blotmkt.com/ia/Stratégie/seo-e-commerce">e-commerce</a> et médias, les utilisateurs jugeant particulièrement les pages où les clics sont perturbés par des changements visuels inattendus, les mises en page stables se traduisant par un boost direct des signaux utilisateurs
+<p>La stabilité visuelle joue un rôle clé, notamment dans les sites e-commerce et médias, les utilisateurs jugeant particulièrement les pages où les clics sont perturbés par des changements visuels inattendus, les mises en page stables se traduisant par un boost direct des signaux utilisateurs
 .</p>
 <h2>Les outils indispensables pour auditer vos Core Web Vitals</h2>
 <h3>Google Search Console : la référence SEO</h3>
-<p><a href="https://blotmkt.com/ia/IA SEO - GEO/search-engine-over-optimization">Search</a> Console fournit un rapport Core Web Vitals alimenté par les données Chrome User Experience Report
-. Ce rapport groupe les URLs par statut (bon, à améliorer, médiocre) et reflète exactement les données utilisées par <a href="https://blotmkt.com/ia/Définition/pagerank-google">Google</a> pour le classement.</p>
-<p><a href="https://blotmkt.com/ia/Audit/core-web-vitals">Google</a> évalue les Core Web Vitals au 75e percentile des expériences utilisateur réelles, signifiant que 25% des utilisateurs peuvent avoir de terribles expériences tout en passant le test
+<p>Search Console fournit un rapport Core Web Vitals alimenté par les données Chrome User Experience Report
+. Ce rapport groupe les URLs par statut (bon, à améliorer, médiocre) et reflète exactement les données utilisées par Google pour le classement.</p>
+<p>Google évalue les Core Web Vitals au 75e percentile des expériences utilisateur réelles, signifiant que 25% des utilisateurs peuvent avoir de terribles expériences tout en passant le test
 .</p>
 <h3>PageSpeed Insights : analyse hybride complète</h3>
 <p>PageSpeed Insights combine 
-les données de terrain (mesures d'utilisateurs réels) qui affectent les <a href="https://blotmkt.com/ia/Définition/ux-design-seo">classement</a>s avec les données de laboratoire (incluant les scores Lighthouse) utiles pour le développement mais n'impactant pas le SEO
-. Seule la section "<a href="https://blotmkt.com/ia/Définition/knowledge-graph">données</a> de terrain" influence directement le référencement.</p>
+les données de terrain (mesures d'utilisateurs réels) qui affectent les classements avec les données de laboratoire (incluant les scores Lighthouse) utiles pour le développement mais n'impactant pas le SEO
+. Seule la section "données de terrain" influence directement le référencement.</p>
 <h3>Chrome DevTools : diagnostic avancé</h3>
-<p>L'onglet Performance de Chrome DevTools est votre outil principal pour l'<a href="https://blotmkt.com/ia/Audit/analyse-de-logs-seo">Analyse</a> en temps réel, permettant d'enregistrer et revoir une chronologie des métriques comme LCP, INP et CLS
-. L'intégration de Lighthouse offre des <a href="https://blotmkt.com/ia/IA SEO - GEO/algorithme-de-recommandation">recommandation</a>s d'amélioration concrètes pour identifier les goulots d'étranglement.</p>
+<p>L'onglet Performance de Chrome DevTools est votre outil principal pour l'Analyse en temps réel, permettant d'enregistrer et revoir une chronologie des métriques comme LCP, INP et CLS
+. L'intégration de Lighthouse offre des recommandations d'amélioration concrètes pour identifier les goulots d'étranglement.</p>
 <h2>Plan d'action : stratégies concrètes pour optimiser vos scores</h2>
 <h3>Optimiser le LCP : vitesse de chargement</h3>
-<p>Les stratégies prioritaires incluent l'<a href="https://blotmkt.com/ia/Audit/optimisation-javascript-seo">Optimisation</a> et compression des images aux formats WebP/AVIF, le préchargement des ressources critiques, l'utilisation d'un CDN et la réduction du temps de réponse serveur (TTFB). 
-Les <a href="https://blotmkt.com/ia/seo/audit-seo-technique">technique</a>s efficaces comprennent le format WebP, la compression, le "lazy loading", charger d'abord le contenu visible puis le reste, utiliser un bon hébergement et CDN, réduire le poids du code CSS et JavaScript
+<p>Les stratégies prioritaires incluent l'Optimisation et compression des images aux formats WebP/AVIF, le préchargement des ressources critiques, l'utilisation d'un CDN et la réduction du temps de réponse serveur (TTFB). 
+Les techniques efficaces comprennent le format WebP, la compression, le "lazy loading", charger d'abord le contenu visible puis le reste, utiliser un bon hébergement et CDN, réduire le poids du code CSS et JavaScript
 .</p>
 <h3>Améliorer l'INP : réactivité optimale</h3>
 <p>La réduction des scripts tiers améliore l'INP de 30%, tandis que la réduction du temps de blocage du thread principal l'améliore de 40%
-. Les stratégies incluent la division du code JavaScript (code splitting), l'évitement des longues tâches JS bloquant le thread principal, et l'<a href="https://blotmkt.com/ia/Contenu/optimisation-de-contenu">Optimisation</a> des gestionnaires d'événements.</p>
+. Les stratégies incluent la division du code JavaScript (code splitting), l'évitement des longues tâches JS bloquant le thread principal, et l'Optimisation des gestionnaires d'événements.</p>
 <h3>Corriger le CLS : stabilité garantie</h3>
-<p>Une amélioration de 0,1 dans le <a href="https://blotmkt.com/ia/Popularité/spam-score">score</a> CLS augmente les conversions de 12% en moyenne
-. Les solutions consistent à spécifier les dimensions (width, height) pour toutes les images et vidéos, réserver l'espace pour les <a href="https://blotmkt.com/ia/Contenu/audit-contenu-existant">contenu</a>s dynamiques (publicités, bannières), et éviter d'insérer du contenu au-dessus du contenu existant.</p>
+<p>Une amélioration de 0,1 dans le score CLS augmente les conversions de 12% en moyenne
+. Les solutions consistent à spécifier les dimensions (width, height) pour toutes les images et vidéos, réserver l'espace pour les contenus dynamiques (publicités, bannières), et éviter d'insérer du contenu au-dessus du contenu existant.</p>
 <h2>Questions fréquentes</h2>
 <h3>Qu'est-ce qu'un bon score Core Web Vitals ?</h3>
-<p>Un bon score respecte les seuils LCP &lt; 2,5 secondes, INP &lt; 200ms et CLS &lt; 0,1, mesurés au 75e percentile des <a href="https://blotmkt.com/ia/Stratégie/prix-forfait-seo">chargement</a>s de page
+<p>Un bon score respecte les seuils LCP &lt; 2,5 secondes, INP &lt; 200ms et CLS &lt; 0,1, mesurés au 75e percentile des chargements de page
 . Ces seuils garantissent une expérience satisfaisante pour la majorité des utilisateurs.</p>
 <h3>L'indicateur INP remplace-t-il vraiment le FID ?</h3>
-<p>INP a remplacé <a href="https://blotmkt.com/ia/Définition/recherche-vocale-seo">First Input Delay</a> (FID) comme Core Web Vital en mars 2024
+<p>INP a remplacé First Input Delay (FID) comme Core Web Vital en mars 2024
 . 
-INP mesure la réactivité tout au long de la visite entière, pas seulement la première <a href="https://blotmkt.com/ia/Audit/interaction-to-next-paint">Interaction</a>, et rapporte le temps de réponse du 75e percentile, fournissant une image plus précise de l'expérience utilisateur réelle
+INP mesure la réactivité tout au long de la visite entière, pas seulement la première Interaction, et rapporte le temps de réponse du 75e percentile, fournissant une image plus précise de l'expérience utilisateur réelle
 .</p>
 <h3>Comment les Core Web Vitals affectent-ils le référencement ?</h3>
-<p>John Mueller de Google décrit les Core Web Vitals comme "pas des facteurs géants dans le classement", plus qu'un départage mais moins importants que la pertinence du <a href="https://blotmkt.com/ia/Contenu/contenu-evergreen">Contenu</a>
+<p>John Mueller de Google décrit les Core Web Vitals comme "pas des facteurs géants dans le classement", plus qu'un départage mais moins importants que la pertinence du Contenu
 . 
-Leur impact est plus notable quand les pages ont un <a href="https://blotmkt.com/ia/Contenu/contenu-seo-quebec">Contenu</a> comparable, lors de l'amélioration de performances médiocres vers bonnes, et dans des niches très concurrentielles
+Leur impact est plus notable quand les pages ont un Contenu comparable, lors de l'amélioration de performances médiocres vers bonnes, et dans des niches très concurrentielles
 .</p>
 <hr />
-<p><em>Sources : CoreWebVitals.io (2024), WebAssoc.fr (2025), <a href="https://blotmkt.com/ia/Définition/page-pilier-seo">Google</a> Web.dev (2024), SEO Sandwich (2025)</em></p>
-    <div class="related"><h2>Articles liés</h2><ul><li><a href="https://blotmkt.com/ia/Audit/vitesse-de-chargement">Vitesse de chargement : le guide pour accélérer votre site et booster vos conversions</a></li><li><a href="https://blotmkt.com/ia/popularite/facteurs-de-classement-google">Facteurs de classement google : le guide basé sur la documentation officielle</a></li><li><a href="https://blotmkt.com/ia/definition/amp-google-seo">AMP et SEO : le guide pour comprendre son impact réel aujourd'hui</a></li></ul></div>
+<p><em>Sources : CoreWebVitals.io (2024), WebAssoc.fr (2025), Google Web.dev (2024), SEO Sandwich (2025)</em></p>
+<hr />
+<h2>Articles connexes</h2>
+<ul>
+<li><a href="https://blotmkt.com/ia/audit/analyse-de-logs-seo">Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl</a></li>
+<li><a href="https://blotmkt.com/ia/audit/architecture-de-site">Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO</a></li>
+<li><a href="https://blotmkt.com/ia/audit/audit-mobile-first">Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google</a></li>
+<li><a href="https://blotmkt.com/ia/audit/audit-semantique">Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche</a></li>
+<li><a href="https://blotmkt.com/ia/audit/audit-seo-montreal">Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux</a></li>
+</ul>
+    <div class="related"><h2>Articles liés</h2><ul><li><a href="https://blotmkt.com/ia/audit/vitesse-de-chargement">Vitesse de chargement : le guide pour accélérer votre site et booster vos conversions</a></li><li><a href="https://blotmkt.com/ia/popularite/facteurs-de-classement-google">Facteurs de classement google : le guide basé sur la documentation officielle</a></li><li><a href="https://blotmkt.com/ia/definition/amp-google-seo">AMP et SEO : le guide pour comprendre son impact réel aujourd'hui</a></li></ul></div>
   </article>
   <footer>
-    <p>Par <a href="https://antoine-blot.com">Antoine Blot</a> — <a href="https://blotmkt.com">BlotMKT</a> · <a href="https://blotmkt.com/ia/definition/amp-google-seo.html">HTML</a> · <a href="https://blotmkt.com/ia/definition/amp-google-seo">Markdown</a></p>
+    <p>Par <a href="https://antoine-blot.com">Antoine Blot</a> — <a href="https://blotmkt.com">BlotMKT</a> · <a href="https://blotmkt.com/ia/audit/core-web-vitals">Markdown</a></p>
   </footer>
 </body>
 </html>

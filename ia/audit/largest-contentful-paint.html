@@ -6,12 +6,12 @@
   <title>Largest Contentful Paint (LCP) : le guide complet pour optimiser la vitesse de votre site</title>
   <meta name="description" content="Découvrez ce qu'est le Largest Contentful Paint (LCP), pourquoi il est crucial pour votre SEO et comment l'optimiser pour un meilleur score Core Web Vitals." />
   <meta name="author" content="Antoine Blot" />
-  <link rel="canonical" href="https://blotmkt.com/ia/Audit/optimisation-javascript-seo" />
-  <link rel="alternate" hreflang="fr-CA" href="https://blotmkt.com/ia/Audit/optimisation-javascript-seo" />
-  <link rel="alternate" hreflang="fr" href="https://blotmkt.com/ia/Audit/optimisation-javascript-seo" />
+  <link rel="canonical" href="https://blotmkt.com/ia/audit/largest-contentful-paint" />
+  <link rel="alternate" hreflang="fr-CA" href="https://blotmkt.com/ia/audit/largest-contentful-paint" />
+  <link rel="alternate" hreflang="fr" href="https://blotmkt.com/ia/audit/largest-contentful-paint" />
   <meta property="og:title" content="Largest Contentful Paint (LCP) : le guide complet pour optimiser la vitesse de votre site" />
   <meta property="og:description" content="Découvrez ce qu'est le Largest Contentful Paint (LCP), pourquoi il est crucial pour votre SEO et comment l'optimiser pour un meilleur score Core Web Vitals." />
-  <meta property="og:url" content="https://blotmkt.com/ia/Audit/optimisation-javascript-seo" />
+  <meta property="og:url" content="https://blotmkt.com/ia/audit/largest-contentful-paint" />
   <meta property="og:type" content="article" />
   <style>
     *{box-sizing:border-box;margin:0;padding:0}
@@ -34,24 +34,20 @@
     ul,ol{margin:0 0 16px 24px}
     li{margin-bottom:6px}
     .meta{font-size:0.82rem;color:#888;margin-bottom:32px;padding-bottom:16px;border-bottom:1px solid #eee}
-    .meta a{color:#888}
     .related{margin-top:48px;padding-top:24px;border-top:2px solid #f0f0f0}
     .related h2{font-size:1rem;color:#555;border:none;padding:0;margin-bottom:12px}
     .related ul{margin:0;list-style:none;padding:0}
     .related li{margin-bottom:8px}
-    .formats{font-size:0.78rem;margin-top:4px}
-    .formats a{color:#aaa;margin-right:8px;text-decoration:none;border:1px solid #ddd;padding:1px 7px;border-radius:3px}
-    .formats a:hover{background:#f5f5f5}
     footer{margin-top:48px;padding-top:16px;border-top:1px solid #eee;font-size:0.78rem;color:#aaa}
   </style>
   <script type="application/ld+json">{
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/Définition/json-ld-seo)",
-  "@[Graph](https://blotmkt.com/ia/Contenu/structure-hn-seo)": [
+  "@context": "https://Schema.org",
+  "@Graph": 
     {
       "@type": "Article",
-      "headline": "Largest [Content](https://blotmkt.com/ia/Contenu/content-gap-seo)ful Paint (LCP) : le guide complet pour optimiser la vitesse de votre site",
-      "[description](https://blotmkt.com/ia/Contenu/meta-description)": "Découvrez ce qu'est le Largest Contentful Paint (LCP), pourquoi il est crucial pour votre SEO et comment l'optimiser pour un meilleur score Core Web Vitals.",
-      "url": "https://blotmkt.com/ia/[Audit](https://blotmkt.com/ia/Audit/audit-mobile-first)/largest-contentful-paint",
+      "headline": "Largest [Contentful Paint (LCP) : le guide complet pour optimiser la vitesse de votre site",
+      "description": "Découvrez ce qu'est le Largest Contentful Paint (LCP), pourquoi il est crucial pour votre SEO et comment l'optimiser pour un meilleur score Core Web Vitals.",
+      "url": "https://blotmkt.com/ia/Audit/largest-contentful-paint",
       "datePublished": "2026-03-09 06:00",
       "dateModified": "2026-03-09 06:00",
       "author": {
@@ -70,17 +66,17 @@
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "Core Web Vitals, [Optimisation](https://blotmkt.com/ia/Contenu/optimisation-de-contenu) vitesse site, temps de réponse serveur, PageSpeed Insights"
+      "keywords": "Core Web Vitals, Optimisation vitesse site, temps de réponse serveur, PageSpeed Insights"
     },
     {
       "@type": "FAQPage",
-      "mainEntity": [
+      "mainEntity": 
         {
           "@type": "Question",
-          "name": "Qu'est-ce qu'un bon [score](https://blotmkt.com/ia/ia-seo-geo/search-engine-over-optimization) LCP ?",
-          "accepted[Answer](https://blotmkt.com/ia/IA SEO - GEO/aeo-answer-engine-optimization)": {
-            "@type": "[Answer](https://blotmkt.com/ia/Contenu/intention-de-recherche)",
-            "text": "Un bon score LCP est de 2,5 secondes ou moins. Les scores entre 2,5 et 4 secondes nécessitent une amélioration, et tout dépassement de 4 secondes est considéré comme insuffisant selon les standards [Google](https://blotmkt.com/ia/Définition/amp-google-seo) Core Web Vitals."
+          "name": "Qu'est-ce qu'un bon [score LCP ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un bon score LCP est de 2,5 secondes ou moins. Les scores entre 2,5 et 4 secondes nécessitent une amélioration, et tout dépassement de 4 secondes est considéré comme insuffisant selon les standards Google Core Web Vitals."
           }
         },
         {
@@ -88,15 +84,15 @@
           "name": "Comment corriger l'erreur 'L'élément LCP est une image chargée tardivement' ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Cette erreur indique un lazy loading appliqué à l'image LCP. Supprimez l'attribut loading='lazy' de cette image, ajoutez fetchpriority='high' pour la prioriser, et utilisez une [Balise](https://blotmkt.com/ia/Contenu/balise-h1-seo) preload dans le head pour accélérer son chargement."
+            "text": "Cette erreur indique un lazy loading appliqué à l'image LCP. Supprimez l'attribut loading='lazy' de cette image, ajoutez fetchpriority='high' pour la prioriser, et utilisez une Balise preload dans le head pour accélérer son chargement."
           }
         },
         {
           "@type": "Question",
-          "name": "[Quelle](https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo)) est la différence entre le LCP et le FCP ?",
+          "name": "Quelle) est la différence entre le LCP et le FCP ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Le [First](https://blotmkt.com/ia/Audit/first-input-delay) Contentful Paint (FCP) mesure l'apparition du premier élément visuel, tandis que le Largest Contentful Paint (LCP) se concentre sur le plus grand élément de contenu. Le LCP reflète mieux l'expérience utilisateur perçue car il indique quand le contenu principal est chargé."
+            "text": "Le First Contentful Paint (FCP) mesure l'apparition du premier élément visuel, tandis que le Largest Contentful Paint (LCP) se concentre sur le plus grand élément de contenu. Le LCP reflète mieux l'expérience utilisateur perçue car il indique quand le contenu principal est chargé."
           }
         },
         {
@@ -104,7 +100,7 @@
           "name": "Pourquoi le LCP impacte-t-il les conversions ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Un LCP lent frustra les utilisateurs qui quittent avant de voir le [Contenu](https://blotmkt.com/ia/Contenu/contenu-seo-quebec) principal. Les études montrent qu'un LCP de 2 secondes vs 5 secondes peut doubler le taux de conversion, car les utilisateurs perçoivent le site comme plus rapide et professionnel."
+            "text": "Un LCP lent frustra les utilisateurs qui quittent avant de voir le Contenu principal. Les études montrent qu'un LCP de 2 secondes vs 5 secondes peut doubler le taux de conversion, car les utilisateurs perçoivent le site comme plus rapide et professionnel."
           }
         },
       ]
@@ -118,69 +114,69 @@
 <blockquote>
 <h2>L'essentiel à retenir</h2>
 <ul>
-<li>Le Largest Contentful <a href="https://blotmkt.com/ia/Audit/interaction-to-next-paint">Paint</a> mesure le temps de chargement du plus grand élément visible d'une page, avec un seuil optimal de 2,5 secondes ou moins</li>
-<li><a href="https://blotmkt.com/ia/Audit/indexation-api-google">Google</a> PageSpeed Insights et les outils développeur Chrome permettent d'identifier et diagnostiquer les problèmes LCP en temps réel</li>
-<li>L'<a href="https://blotmkt.com/ia/Audit/optimisation-javascript-seo">Optimisation</a> passe par quatre axes : améliorer le TTFB, précharger l'élément LCP, optimiser la taille des ressources et éliminer le code bloquant</li>
+<li>Le Largest Contentful Paint mesure le temps de chargement du plus grand élément visible d'une page, avec un seuil optimal de 2,5 secondes ou moins</li>
+<li>Google PageSpeed Insights et les outils développeur Chrome permettent d'identifier et diagnostiquer les problèmes LCP en temps réel</li>
+<li>L'Optimisation passe par quatre axes : améliorer le TTFB, précharger l'élément LCP, optimiser la taille des ressources et éliminer le code bloquant</li>
 <li>Un LCP optimisé peut doubler le taux de conversion : les pages avec un LCP de 2 secondes convertissent deux fois mieux que celles à 5 secondes</li>
 </ul>
 </blockquote>
-<p>Votre site met plus de 2,5 secondes à afficher son <a href="https://blotmkt.com/ia/Contenu/audit-contenu-existant">contenu</a> principal ? 
-Vous faites partie des 41% de sites mobiles qui échouent aux <a href="https://blotmkt.com/ia/Audit/core-web-vitals">Core Web Vitals</a> en 2024
-. Cette lenteur fait fuir vos visiteurs avant même qu'ils voient votre offre. Le Largest Contentful Paint n'est pas qu'une métrique <a href="https://blotmkt.com/ia/Audit/audit-seo-technique">technique</a> : c'est le baromètre de la première impression de votre site. Heureusement, avec les bonnes techniques d'optimisation, vous pouvez transformer cette faiblesse en avantage concurrentiel.</p>
+<p>Votre site met plus de 2,5 secondes à afficher son contenu principal ? 
+Vous faites partie des 41% de sites mobiles qui échouent aux <a href="https://blotmkt.com/ia/audit/core-web-vitals">Core Web Vitals</a> en 2024
+. Cette lenteur fait fuir vos visiteurs avant même qu'ils voient votre offre. Le Largest Contentful Paint n'est pas qu'une métrique technique : c'est le baromètre de la première impression de votre site. Heureusement, avec les bonnes techniques d'optimisation, vous pouvez transformer cette faiblesse en avantage concurrentiel.</p>
 <hr />
 <h2>Définition : qu'est-ce que le Largest Contentful Paint (LCP) ?</h2>
-<p>Le LCP est une métrique stable des Core Web Vitals qui mesure la <a href="https://blotmkt.com/ia/Audit/vitesse-de-chargement">Vitesse de chargement</a> perçue, marquant le moment où le contenu principal de la page s'est probablement chargé
+<p>Le LCP est une métrique stable des Core Web Vitals qui mesure la <a href="https://blotmkt.com/ia/audit/vitesse-de-chargement">Vitesse de chargement</a> perçue, marquant le moment où le contenu principal de la page s'est probablement chargé
 . Contrairement aux métriques traditionnelles, il se concentre sur l'expérience utilisateur réelle.</p>
-<p>Le LCP prend en compte les éléments les plus volumineux : <a href="https://blotmkt.com/ia/Contenu/alt-text-image">image</a>s, vidéos (temps de présentation de la première image), éléments avec images de fond CSS, et blocs de texte
+<p>Le LCP prend en compte les éléments les plus volumineux : images, vidéos (temps de présentation de la première image), éléments avec images de fond CSS, et blocs de texte
 . 
 Pour offrir une bonne expérience utilisateur, les sites doivent viser un LCP de 2,5 secondes ou moins
 .</p>
-<p>En tant que signal de classement <a href="https://blotmkt.com/ia/Définition/algorithme-google">Google</a> depuis 2021, le LCP impacte directement votre référencement. 
-Un mauvais LCP ne fait pas seulement attendre vos utilisateurs : il peut empêcher votre site d'apparaître en tête des résultats de <a href="https://blotmkt.com/ia/seo/audit-seo-technique">Recherche</a>
+<p>En tant que signal de classement Google depuis 2021, le LCP impacte directement votre référencement. 
+Un mauvais LCP ne fait pas seulement attendre vos utilisateurs : il peut empêcher votre site d'apparaître en tête des résultats de Recherche
 .</p>
 <h3>L'évolution du LCP pendant le chargement</h3>
-<p>Le navigateur identifie initialement un petit élément comme candidat LCP, puis met à jour cette valeur au fur et à mesure que des éléments plus grands se chargent, jusqu'à ce qu'un élément comme une <a href="https://blotmkt.com/ia/Contenu/image-seo-quebec">Image</a> hero ou un bloc de texte principal devienne le LCP final
+<p>Le navigateur identifie initialement un petit élément comme candidat LCP, puis met à jour cette valeur au fur et à mesure que des éléments plus grands se chargent, jusqu'à ce qu'un élément comme une Image hero ou un bloc de texte principal devienne le LCP final
 .</p>
 <h2>Comment mesurer votre LCP et diagnostiquer les problèmes ?</h2>
 <h3>Google PageSpeed Insights : l'outil de référence</h3>
-<p>PageSpeed Insights combine deux types de <a href="https://blotmkt.com/ia/Contenu/mise-a-jour-contenu">Données</a> essentielles : 
-les <a href="https://blotmkt.com/ia/Définition/cocon-semantique">Données</a> du Chrome User Experience Report (CrUX) qui reflètent l'expérience réelle de vos visiteurs sur les 28 derniers jours, et les tests en laboratoire pour un diagnostic approfondi
+<p>PageSpeed Insights combine deux types de Données essentielles : 
+les Données du Chrome User Experience Report (CrUX) qui reflètent l'expérience réelle de vos visiteurs sur les 28 derniers jours, et les tests en laboratoire pour un diagnostic approfondi
 .</p>
-<p>La force de cet outil réside dans ses recommandations <a href="https://blotmkt.com/ia/Contenu/call-to-action">action</a>ables. 
-Vous verrez directement des suggestions comme "Preload Largest Contentful Paint <a href="https://blotmkt.com/ia/Audit/audit-seo-quebec">Image</a>" avec l'élément concerné
+<p>La force de cet outil réside dans ses recommandations actionables. 
+Vous verrez directement des suggestions comme "Preload Largest Contentful Paint Image" avec l'élément concerné
 .</p>
 <h3>Chrome DevTools pour l'analyse technique</h3>
-<p>L'onglet Performance des DevTools <a href="https://blotmkt.com/ia/Stratégie/offre-emploi-seo">Offre</a> deux approches : les outils de laboratoire pour des simulations algorithmiques, et le monitoring d'utilisateurs réels basé sur le trafic en direct
+<p>L'onglet Performance des DevTools Offre deux approches : les outils de laboratoire pour des simulations algorithmiques, et le monitoring d'utilisateurs réels basé sur le trafic en direct
 .</p>
-<p>Pour identifier rapidement votre élément LCP, utilisez l'extension Web Vitals ou inspectez le timeline de <a href="https://blotmkt.com/ia/Stratégie/prix-forfait-seo">chargement</a> dans l'onglet Performance.</p>
+<p>Pour identifier rapidement votre élément LCP, utilisez l'extension Web Vitals ou inspectez le timeline de chargement dans l'onglet Performance.</p>
 <h3>Google Search Console pour le suivi global</h3>
-<p>Le rapport <a href="https://blotmkt.com/ia/Définition/e-e-a-t-google">Core Web Vitals</a> de la Search Console groupe vos URL par statut (Bon, À améliorer, Insuffisant) et par métrique, basé sur les données utilisateurs réelles pour LCP, INP et CLS
+<p>Le rapport Core Web Vitals de la Search Console groupe vos URL par statut (Bon, À améliorer, Insuffisant) et par métrique, basé sur les données utilisateurs réelles pour LCP, INP et CLS
 . C'est votre tableau de bord pour suivre l'évolution de l'ensemble de votre site.</p>
 <h2>4 stratégies pour optimiser et corriger un LCP lent</h2>
 <h3>Stratégie 1 : Optimiser les images et ressources critiques</h3>
-<p>Les images LCP préchargées atteignent 100% de scores "bons" avec un 75e percentile de 364ms, contre 720ms pour les images en lazy <a href="https://blotmkt.com/ia/Audit/lazy-loading-seo">loading</a>. La règle d'or : préchargez votre image LCP et ne la mettez jamais en lazy loading
+<p>Les images LCP préchargées atteignent 100% de scores "bons" avec un 75e percentile de 364ms, contre 720ms pour les images en lazy loading. La règle d'or : préchargez votre image LCP et ne la mettez jamais en lazy loading
 .</p>
-<p>Utilisez des formats modernes comme AVIF ou WebP, implémentez des images responsives avec srcset, et servez vos assets via un CDN avec <a href="https://blotmkt.com/ia/Audit/compression-image-webp">Compression</a> appropriée
+<p>Utilisez des formats modernes comme AVIF ou WebP, implémentez des images responsives avec srcset, et servez vos assets via un CDN avec Compression appropriée
 . 
-Les CDN d'<a href="https://blotmkt.com/ia/IA SEO - GEO/llm-optimization">Image</a>s réduisent non seulement la distance de transfert mais aussi la taille des ressources automatiquement
+Les CDN d'Images réduisent non seulement la distance de transfert mais aussi la taille des ressources automatiquement
 .</p>
 <h3>Stratégie 2 : Améliorer le temps de réponse serveur (TTFB)</h3>
 <p>Un TTFB lent est un problème fondamental qui tuera toujours votre LCP. Les sites avec un LCP insuffisant passent en moyenne 2,27 secondes sur le TTFB seul, soit presque tout le seuil de 2,5 secondes
 .</p>
 <p>Activez la mise en cache de pages avec WP Rocket ou un cache serveur, et considérez un cache proxy comme Cloudflare ou un CDN supportant la mise en cache de pages
 . 
-Si vos utilisateurs sont géographiquement éloignés de vos serveurs, un CDN rapproche votre <a href="https://blotmkt.com/ia/Contenu/contenu-evergreen">Contenu</a> d'eux
+Si vos utilisateurs sont géographiquement éloignés de vos serveurs, un CDN rapproche votre Contenu d'eux
 .</p>
 <h3>Stratégie 3 : Réduire le délai de découverte des ressources</h3>
-<p>Toute optimisation efficace consiste à <a href="https://blotmkt.com/ia/Audit/architecture-de-site">Architecture</a>r votre HTML pour placer la ressource LCP sur le chemin rapide de découverte. Tout pattern qui cache l'URL du document HTML initial force le navigateur à utiliser le chemin de découverte lent
+<p>Toute optimisation efficace consiste à Architecturer votre HTML pour placer la ressource LCP sur le chemin rapide de découverte. Tout pattern qui cache l'URL du document HTML initial force le navigateur à utiliser le chemin de découverte lent
 .</p>
-<p>Les éléments LCP ne doivent jamais être en lazy loading car cela provoque des délais inutiles. Supprimez l'<a href="https://blotmkt.com/ia/Définition/profil-de-liens">Attribut</a> loading et ajoutez fetchpriority="high" pour indiquer au navigateur de prioriser le chargement
+<p>Les éléments LCP ne doivent jamais être en lazy loading car cela provoque des délais inutiles. Supprimez l'Attribut loading et ajoutez fetchpriority="high" pour indiquer au navigateur de prioriser le chargement
 .</p>
 <h3>Stratégie 4 : Éliminer le code bloquant le rendu</h3>
-<p>Le délai de rendu est presque toujours causé par le blocage du thread principal par d'autres tâches, notamment le traitement <a href="https://blotmkt.com/ia/Audit/exploration-googlebot">JavaScript</a>. Les CSS bloquant le rendu et les scripts synchrones sont les coupables les plus courants
+<p>Le délai de rendu est presque toujours causé par le blocage du thread principal par d'autres tâches, notamment le traitement JavaScript. Les CSS bloquant le rendu et les scripts synchrones sont les coupables les plus courants
 .</p>
-<p>Les fonctionnalités Remove Unused CSS, Optimize critical <a href="https://blotmkt.com/ia/definition/discover-google-seo">image</a>s et Preload fonts aident à réduire la priorité donnée aux autres éléments de la page
-. Différez le JavaScript non essentiel avec les <a href="https://blotmkt.com/ia/Définition/lien-ugc">Attribut</a>s 'defer' et 'async'.</p>
+<p>Les fonctionnalités Remove Unused CSS, Optimize critical images et Preload fonts aident à réduire la priorité donnée aux autres éléments de la page
+. Différez le JavaScript non essentiel avec les Attributs 'defer' et 'async'.</p>
 <h2>L'impact business d'un LCP rapide : au-delà du score technique</h2>
 <h3>Impact direct sur les conversions</h3>
 <p>Les études de cas montrent que les pages produits peuvent voir une baisse de 40% à 50% du taux de conversion en comparant un LCP de 2 secondes vs 4-5 secondes. Une page spécifique a montré que les utilisateurs convertissaient deux fois plus souvent avec un LCP de 2 secondes vs 5 secondes
@@ -188,9 +184,9 @@ Si vos utilisateurs sont géographiquement éloignés de vos serveurs, un CDN ra
 <p>Vodafone Italie a amélioré son LCP de 31% pour obtenir 8% de ventes supplémentaires, tandis que Nykaa a vu une amélioration de 40% du LCP générer 28% de trafic organique en plus
 .</p>
 <h3>Réduction du taux de rebond et engagement</h3>
-<p>Les <a href="https://blotmkt.com/ia/Audit/taux-de-rebond">Taux de rebond</a> doublent plus que proportionnellement en comparant les cohortes LCP de 2 secondes vs 5 secondes
+<p>Les <a href="https://blotmkt.com/ia/audit/taux-de-rebond">Taux de rebond</a> doublent plus que proportionnellement en comparant les cohortes LCP de 2 secondes vs 5 secondes
 . 
-The Economic Times a réduit son <a href="https://blotmkt.com/ia/Définition/discover-google-seo">Taux de rebond</a> de 43% en améliorant son LCP de 80%, tandis qu'Agrofy a vu une amélioration de 70% du LCP correspondre à une baisse de 76% de l'abandon au chargement
+The Economic Times a réduit son Taux de rebond de 43% en améliorant son LCP de 80%, tandis qu'Agrofy a vu une amélioration de 70% du LCP correspondre à une baisse de 76% de l'abandon au chargement
 .</p>
 <h3>ROI et image de marque</h3>
 <p>53% des utilisateurs quittent un site qui met plus de 3 secondes à charger. Charger votre plus grand élément avant ce délai améliore l'engagement utilisateur, le taux de clic (CTR), et les pages vues par session
@@ -198,20 +194,29 @@ The Economic Times a réduit son <a href="https://blotmkt.com/ia/Définition/dis
 <hr />
 <h2>Questions fréquentes</h2>
 <h3>Qu'est-ce qu'un bon score LCP ?</h3>
-<p>Un bon <a href="https://blotmkt.com/ia/Popularité/spam-score">score</a> LCP est de 2,5 secondes ou moins. Les scores entre 2,5 et 4 secondes nécessitent une amélioration, et tout ce qui dépasse 4 secondes est considéré comme insuffisant
+<p>Un bon score LCP est de 2,5 secondes ou moins. Les scores entre 2,5 et 4 secondes nécessitent une amélioration, et tout ce qui dépasse 4 secondes est considéré comme insuffisant
 .</p>
 <h3>Comment corriger l'erreur 'L'élément LCP est une image chargée tardivement' ?</h3>
 <p>Cette erreur indique que votre site applique le lazy loading à l'image LCP. Désactivez le lazy loading pour toutes les images visibles dans la zone initiale d'affichage et préchargez plutôt l'image LCP
 .</p>
 <h3>Quelle est la différence entre le LCP et le FCP (First Contentful Paint) ?</h3>
-<p>Le FCP mesure le temps d'apparition du premier élément visuel dans la zone d'affichage, tandis que le LCP se concentre sur le plus grand élément. Le LCP et FCP sont devenus les mesures reconnues pour évaluer la <a href="https://blotmkt.com/ia/Audit/budget-de-crawl">Vitesse de chargement</a> perçue d'un site
+<p>Le FCP mesure le temps d'apparition du premier élément visuel dans la zone d'affichage, tandis que le LCP se concentre sur le plus grand élément. Le LCP et FCP sont devenus les mesures reconnues pour évaluer la Vitesse de chargement perçue d'un site
 .</p>
 <hr />
-<p><em>Sources : Web.dev (2025), CoreWeb<a href="https://blotmkt.com/ia/definition/amp-google-seo">Vitals</a>.io (2024), DebugBear (2024), Blue Triangle (2024)</em></p>
-    <div class="related"><h2>Articles liés</h2><ul><li><a href="https://blotmkt.com/ia/Audit/compression-image-webp">Compression image webp : le guide complet pour accélérer votre site</a></li><li><a href="https://blotmkt.com/ia/Audit/interaction-to-next-paint">Interaction to next paint (inp) : le guide complet pour une réactivité web optimale</a></li><li><a href="https://blotmkt.com/ia/Audit/optimisation-javascript-seo">Optimisation JavaScript SEO : le guide complet pour le rendu et l'indexation</a></li></ul></div>
+<p><em>Sources : Web.dev (2025), CoreWebVitals.io (2024), DebugBear (2024), Blue Triangle (2024)</em></p>
+<hr />
+<h2>Articles connexes</h2>
+<ul>
+<li><a href="https://blotmkt.com/ia/audit/analyse-de-logs-seo">Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl</a></li>
+<li><a href="https://blotmkt.com/ia/audit/architecture-de-site">Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO</a></li>
+<li><a href="https://blotmkt.com/ia/audit/audit-mobile-first">Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google</a></li>
+<li><a href="https://blotmkt.com/ia/audit/audit-semantique">Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche</a></li>
+<li><a href="https://blotmkt.com/ia/audit/audit-seo-montreal">Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux</a></li>
+</ul>
+    <div class="related"><h2>Articles liés</h2><ul><li><a href="https://blotmkt.com/ia/audit/compression-image-webp">Compression image webp : le guide complet pour accélérer votre site</a></li><li><a href="https://blotmkt.com/ia/audit/interaction-to-next-paint">Interaction to next paint (inp) : le guide complet pour une réactivité web optimale</a></li><li><a href="https://blotmkt.com/ia/audit/optimisation-javascript-seo">Optimisation JavaScript SEO : le guide complet pour le rendu et l'indexation</a></li></ul></div>
   </article>
   <footer>
-    <p>Par <a href="https://antoine-blot.com">Antoine Blot</a> — <a href="https://blotmkt.com">BlotMKT</a> · <a href="https://blotmkt.com/ia/Audit/optimisation-javascript-seo.html">HTML</a> · <a href="https://blotmkt.com/ia/Audit/optimisation-javascript-seo">Markdown</a></p>
+    <p>Par <a href="https://antoine-blot.com">Antoine Blot</a> — <a href="https://blotmkt.com">BlotMKT</a> · <a href="https://blotmkt.com/ia/audit/largest-contentful-paint">Markdown</a></p>
   </footer>
 </body>
 </html>
