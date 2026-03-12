@@ -126,7 +126,7 @@ L'évolution propulsée par l'IA a un impact considérable sur le référencemen
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -151,7 +151,7 @@ L'évolution propulsée par l'IA a un impact considérable sur le référencemen
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "mise à jour Google, RankBrain, Google BERT, SEO sémantique, [Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche), E-E-A-T, SGE, Generative) Engine Optimization"
+      "keywords": "mise à jour Google, RankBrain, Google BERT, SEO sémantique, Intention de recherche, E-E-A-T, SGE, Generative) Engine Optimization"
     },
     {
       "@type": "FAQPage",
@@ -193,6 +193,16 @@ L'évolution propulsée par l'IA a un impact considérable sur le référencemen
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
+- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
+- L'[Attribut Nofollow](https://blotmkt.com/ia/definition/attribut-nofollow) en seo : le guide pratique pour le maîtriser en 2024
+- Attribut sponsored : le guide complet pour vos liens payants en seo
+- Backlink de qualité : le guide pour acquérir des liens qui renforcent votre E-E-A-T
 
 ---
 

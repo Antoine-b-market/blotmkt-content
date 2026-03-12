@@ -50,7 +50,7 @@ Les entreprises françaises perdent chaque jour des opportunités commerciales p
 Un autre type de mot-clé à prendre en considération est celui qui révèle une intention navigationnelle. Lorsqu'une personne saisit le nom d'une entreprise ou d'une marque dans un moteur de recherche, elle effectue une recherche navigationnelle
 . Ces requêtes se distinguent fondamentalement des autres types d'intentions : informationnelles (apprendre), transactionnelles (acheter) et commerciales (comparer).
 
-L'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche) navigationnelle vise à accéder à une page, un site spécifique, d'une entreprise qu'on connaît déjà
+L'Intention de recherche navigationnelle vise à accéder à une page, un site spécifique, d'une entreprise qu'on connaît déjà
 . Cette différence cruciale impacte directement les pages de résultats des moteurs de recherche (SERP), caractérisées par l'affichage du site officiel, des sitelinks étendus, ou des résultats Google My Business. L'utilisateur manifeste une connaissance préalable de votre marque, traduisant une reconnaissance établie et une confiance accordée à votre entreprise dans son domaine d'expertise.
 
 ## Stratégies d'identification et d'optimisation pour votre site
@@ -139,7 +139,7 @@ Les leads provenant du SEO convertissent en moyenne à 14,6%
           "name": "Qu'est-ce qu'un mot-clé navigationnel et comment se distingue-t-il des autres types ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Un mot-clé navigationnel est une requête où l'utilisateur cherche un site ou une marque spécifique qu'il connaît déjà. Il se distingue des [Mots-clés informationnels](https://blotmkt.com/ia/contenu/mots-cles-informationnels) (apprendre), trans[actionnels (acheter) et commerciaux (comparer) par son intention directe de navigation vers une destination connue."
+            "text": "Un mot-clé navigationnel est une requête où l'utilisateur cherche un site ou une marque spécifique qu'il connaît déjà. Il se distingue des Mots-clés informationnels (apprendre), trans[actionnels (acheter) et commerciaux (comparer) par son intention directe de navigation vers une destination connue."
           }
         },
         {
@@ -179,6 +179,16 @@ Les leads provenant du SEO convertissent en moyenne à 14,6%
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
+- Audit de contenu existant : la méthode complète pour optimiser votre SEO
+- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
+- Call to action : le guide complet pour créer des cta qui convertissent
+- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
 
 ---
 

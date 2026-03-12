@@ -80,7 +80,7 @@ Les prestations de migration oscillent entre 1 500 et 10 000 euros
 Les coûts varient drastiquement : reprendre quelques URLs coûte quelques milliers d'euros, tandis qu'une refonte complète atteint plusieurs dizaines de milliers
 .
 
-Le calcul du ROI compare les indicateurs pré et post-migration : trafic organique, positions sur les mots-clés stratégiques, taux de conversion et vitesse de chargement. 
+Le calcul du ROI compare les indicateurs pré et post-migration : trafic organique, positions sur les mots-clés stratégiques, taux de conversion et [Vitesse de chargement](https://blotmkt.com/ia/audit/vitesse-de-chargement). 
 Le SEO représente 53% du trafic web global, justifiant cet investissement face aux alternatives payantes
 . 
 Les programmes professionnels délivrent généralement un ROI de 3 à 5 fois l'investissement en 12 à 18 mois
@@ -157,7 +157,7 @@ Auditez exhaustivement le site existant, créez un plan de redirection rigoureux
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "refonte de site web, plan de redirection 301, checklist migration site, perte de trafic SEO, [Audit SEO technique](https://blotmkt.com/ia/audit/audit-seo-technique), changement de nom de domaine"
+      "keywords": "refonte de site web, plan de redirection 301, checklist migration site, perte de trafic SEO, Audit SEO technique, changement de nom de domaine"
     },
     {
       "@type": "FAQPage",
@@ -199,6 +199,16 @@ Auditez exhaustivement le site existant, créez un plan de redirection rigoureux
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
+- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
+- Audit de site web : le guide complet pour un diagnostic SEO actionnable
+- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
+- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

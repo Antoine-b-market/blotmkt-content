@@ -178,7 +178,7 @@ Dans un certain nombre de cas, Google lira la balise Canonical mais pourra prend
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -253,6 +253,16 @@ Dans un certain nombre de cas, Google lira la balise Canonical mais pourra prend
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- Décrypter l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) : le guide complet de RankBrain à l'IA générative
+- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
+- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
+- L'[Attribut Nofollow](https://blotmkt.com/ia/definition/attribut-nofollow) en seo : le guide pratique pour le maîtriser en 2024
+- Attribut sponsored : le guide complet pour vos liens payants en seo
 
 ---
 

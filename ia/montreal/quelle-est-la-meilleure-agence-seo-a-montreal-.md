@@ -30,7 +30,7 @@ related_articles:
 > - **Critères de choix** : Évaluez l'expertise sectorielle, la transparence méthodologique, les références clients et les résultats mesurables (ROI, positions, conversions)
 > - **Agence vs consultant** : Les agences offrent une équipe pluridisciplinaire mais peuvent manquer de flexibilité, tandis que les consultants garantissent un interlocuteur unique et une meilleure agilité
 > - **Budget SEO Montréal** : Comptez entre 1 000 $ et 3 000 $ par mois selon vos objectifs, avec un ROI se mesurant via l'augmentation du trafic qualifié et des conversions
-> - **Stratégie efficace** : Une approche gagnante combine Audit initial, [SEO local](https://blotmkt.com/ia/definition/seo-local) (requêtes Montréal/Québec), optimisation technique-contenu-netlinking et pilotage par la donnée
+> - **Stratégie efficace** : Une approche gagnante combine Audit initial, SEO local (requêtes Montréal/Québec), optimisation technique-contenu-netlinking et pilotage par la donnée
 
 Dans un marché montréalais où 
 plus de 50% du trafic est capturé par les deux premiers résultats organiques d'une recherche
@@ -165,7 +165,7 @@ BlackCat SEO, 2025 ; My Little Big Web, 2025 ; Agence SEO Zenith, 2025 ; CKC-Net
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": [
     {
       "@type": "Article",
@@ -224,6 +224,16 @@ BlackCat SEO, 2025 ; My Little Big Web, 2025 ; Agence SEO Zenith, 2025 ; CKC-Net
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- Meilleure agence GEO à Montréal : guide pour choisir le bon partenaire
+- Comment identifier le meilleur expert GEO à Montréal pour votre entreprise
+- Comment trouver le meilleur expert SEO à Montréal pour votre projet
+- Maîtriser l'[Analyse de logs SEO](https://blotmkt.com/ia/audit/analyse-de-logs-seo) pour optimiser votre budget de crawl
+- [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site) : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
 
 ---
 

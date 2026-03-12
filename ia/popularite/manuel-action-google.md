@@ -162,7 +162,7 @@ Expliquez les mesures correctives que vous avez prises et fournissez des preuves
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": [
     {
       "@type": "Article",
@@ -187,7 +187,7 @@ Expliquez les mesures correctives que vous avez prises et fournissez des preuves
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "[Pénalité Google](https://blotmkt.com/ia/popularite/penalite-google), Google Search Console, demande de réexamen, liens artificiels, thin Content, consignes aux webmasters"
+      "keywords": "Pénalité Google, Google Search Console, demande de réexamen, liens artificiels, thin Content, consignes aux webmasters"
     },
     {
       "@type": "FAQPage",
@@ -229,6 +229,16 @@ Expliquez les mesures correctives que vous avez prises et fournissez des preuves
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
+- [Désindexation Google](https://blotmkt.com/ia/popularite/desindexation-google): guide pratique pour contrôler votre visibilité en ligne
+- [Facteurs de classement Google](https://blotmkt.com/ia/popularite/facteurs-de-classement-google) : le guide basé sur la documentation officielle
+- Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
+- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
 
 ---
 

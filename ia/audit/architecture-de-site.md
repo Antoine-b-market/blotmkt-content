@@ -30,7 +30,7 @@ related_articles:
 > - L'architecture de site est le plan d'organisation logique de votre contenu qui guide utilisateurs et robots d'exploration, servant de pilier technique pour le SEO et manifestation de votre expertise et autorité
 > - L'architecture en silo convient aux sites e-commerce pour concentrer l'autorité par thème, tandis que le modèle en topic cluster favorise la domination d'une niche sémantique pour les blogs
 > - L'Audit architectural avec des outils comme Screaming Frog permet d'identifier les pages orphelines et d'optimiser le maillage interne pour une meilleure distribution du PageRank
-> - Une refonte d'architecture génère un ROI mesurable à travers l'amélioration du taux d'Indexation, des positions moyennes et la réduction du [Taux de rebond](https://blotmkt.com/ia/audit/taux-de-rebond)
+> - Une refonte d'architecture génère un ROI mesurable à travers l'amélioration du taux d'Indexation, des positions moyennes et la réduction du Taux de rebond
 
 La majorité des sites web souffrent d'un problème critique souvent ignoré : 
 90,63% des pages web n'attirent pas de trafic organique sur Google
@@ -135,7 +135,7 @@ Un site bien structuré présente un taux de rebond inférieur à 50%, permet d'
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -160,7 +160,7 @@ Un site bien structuré présente un taux de rebond inférieur à 50%, permet d'
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "structure site web, arborescence site internet, maillage interne SEO, [Cocon sémantique](https://blotmkt.com/ia/definition/cocon-semantique), architecture en silo, topic cluster, Optimisation de l'arborescence"
+      "keywords": "structure site web, arborescence site internet, maillage interne SEO, Cocon sémantique, architecture en silo, topic cluster, Optimisation de l'arborescence"
     },
     {
       "@type": "FAQPage",
@@ -202,6 +202,16 @@ Un site bien structuré présente un taux de rebond inférieur à 50%, permet d'
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- Maîtriser l'[Analyse de logs SEO](https://blotmkt.com/ia/audit/analyse-de-logs-seo) pour optimiser votre budget de crawl
+- [Audit mobile-first](https://blotmkt.com/ia/audit/audit-mobile-first) : la méthode complète pour garantir votre visibilité sur Google
+- [Audit sémantique](https://blotmkt.com/ia/audit/audit-semantique) : la méthode complète pour aligner votre contenu sur les intentions de recherche
+- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
+- Audit SEO Québec : votre guide complet pour une visibilité optimisée
 
 ---
 

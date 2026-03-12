@@ -151,7 +151,7 @@ Le GEO s'appuie sur les fondamentaux du SEO traditionnel, optimisant pour les me
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -176,7 +176,7 @@ Le GEO s'appuie sur les fondamentaux du SEO traditionnel, optimisant pour les me
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "GEO (Generative Engine Optimization), [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo) hybride, IA en SEO, machine learning SEO, anticipation algorithmique, référencement proactif, visibilité organique future, moteurs de recherche génératifs, Analyse prédictive SEO, expérience utilisateur prédictive"
+      "keywords": "GEO (Generative Engine Optimization), Stratégie SEO hybride, IA en SEO, machine learning SEO, anticipation algorithmique, référencement proactif, visibilité organique future, moteurs de recherche génératifs, Analyse prédictive SEO, expérience utilisateur prédictive"
     },
     {
       "@type": "FAQPage",
@@ -218,6 +218,16 @@ Le GEO s'appuie sur les fondamentaux du SEO traditionnel, optimisant pour les me
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
+- [Algorithme de recommandation](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation) : le guide complet pour éviter les biais et la sur-dépendance
+- [Citations par IA](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia) : comment l'intelligence artificielle réinvente votre contenu
+- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
+- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
 
 ---
 

@@ -49,18 +49,18 @@ La vitesse de chargement représente
 la durée en secondes que prend une page avant de s'afficher. C'est un élément essentiel de votre stratégie de référencement SEO, car un temps de chargement d'une page web long est pénalisé par Google et impacte l'expérience utilisateur
 .
 
-Les métriques clés incluent le TTFB (Time To First Byte), le FCP (First Contentful Paint) et le LCP ([Largest Contentful Paint](https://blotmkt.com/ia/audit/largest-contentful-paint)). 
+Les métriques clés incluent le TTFB (Time To First Byte), le FCP (First Contentful Paint) et le LCP (Largest Contentful Paint). 
 Le LCP mesure la performance de chargement. Pour fournir une bonne expérience utilisateur, visez un LCP dans les 2,5 premières secondes du début de chargement de la page
 .
 
 L'impact dépasse le technique : 
-la satisfaction de l'utilisateur est étroitement liée à la rapidité de chargement d'un site. Un site au design impressionnant mais lent à charger verra son [Taux de rebond](https://blotmkt.com/ia/audit/taux-de-rebond) augmenter, nuisant à son positionnement sur les moteurs de recherche
+la satisfaction de l'utilisateur est étroitement liée à la rapidité de chargement d'un site. Un site au design impressionnant mais lent à charger verra son Taux de rebond augmenter, nuisant à son positionnement sur les moteurs de recherche
 . La vitesse devient ainsi un facteur de différenciation concurrentielle et de construction de confiance.
 
 ## L'impact mesurable de la vitesse sur le SEO et le taux de conversion
 
 Google considère la vitesse de chargement comme un critère de classement. Un site plus rapide est mieux positionné dans les résultats de recherche, ce qui peut augmenter le trafic organique
-. Les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals), introduits par Google, sont devenus des facteurs de ranking directs.
+. Les Core Web Vitals, introduits par Google, sont devenus des facteurs de ranking directs.
 
 Les chiffres parlent d'eux-mêmes : 
 un site qui se charge en une seconde a un taux de conversion 3 fois plus élevé qu'un site qui se charge en cinq secondes, et 5 fois plus élevé qu'un site qui se charge en dix secondes. Cette tendance est encore plus marquée pour les sites de commerce électronique B2C, où 81% des sites se chargent en moins de cinq secondes
@@ -194,6 +194,16 @@ Pour obtenir les Données de performance de la version mobile d'une URL, demande
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- Maîtriser l'[Analyse de logs SEO](https://blotmkt.com/ia/audit/analyse-de-logs-seo) pour optimiser votre budget de crawl
+- [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site) : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
+- [Audit mobile-first](https://blotmkt.com/ia/audit/audit-mobile-first) : la méthode complète pour garantir votre visibilité sur Google
+- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
+- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
 
 ---
 

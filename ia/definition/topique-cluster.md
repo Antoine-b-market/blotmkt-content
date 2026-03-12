@@ -81,7 +81,7 @@ selon Princeton University et Georgia Tech, l'ajout de statistiques vérifiables
 ## Pilier de contenu, cluster, mot-clé : quelles sont les différences fondamentales ?
 
 La hiérarchisation est essentielle pour comprendre cette méthodologie. Le mot-clé reste l'unité de base, ciblant une Intention spécifique sur une page unique. 
-Un Topic Cluster est un ensemble d'articles traitant d'une même thématique. On parle aussi de [Cocon sémantique](https://blotmkt.com/ia/definition/cocon-semantique) car les contenus sont reliés entre eux grâce à des liens hypertextes
+Un Topic Cluster est un ensemble d'articles traitant d'une même thématique. On parle aussi de Cocon sémantique car les contenus sont reliés entre eux grâce à des liens hypertextes
 .
 
 La pièce maîtresse de toute Stratégie pillar content, elle est au centre du topic cluster et revêt deux objectifs principaux : être bien référencé sur la thématique principale du topic cluster et proposer différents chemins de conversion qui s'adressent à tous les niveaux de maturité
@@ -121,7 +121,7 @@ Wikipédia
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -188,6 +188,16 @@ Wikipédia
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- Décrypter l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) : le guide complet de RankBrain à l'IA générative
+- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
+- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
+- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
+- Attribut sponsored : le guide complet pour vos liens payants en seo
 
 ---
 

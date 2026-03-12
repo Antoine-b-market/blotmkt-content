@@ -178,7 +178,7 @@ Les KPIs traditionnels cèdent la place aux citations, mentions et présence de 
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "[Recherche vocale SEO](https://blotmkt.com/ia/definition/recherche-vocale-seo), featured snippets, position zéro, optimisation IA, schema.org FAQ, entités nommées, zero-click search"
+      "keywords": "Recherche vocale SEO, featured snippets, position zéro, optimisation IA, schema.org FAQ, entités nommées, zero-click search"
     },
     {
       "@type": "FAQPage",
@@ -220,6 +220,16 @@ Les KPIs traditionnels cèdent la place aux citations, mentions et présence de 
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Algorithme de recommandation](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation) : le guide complet pour éviter les biais et la sur-dépendance
+- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
+- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
+- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
+- Entité nommée SEO : le guide pour devenir une référence aux yeux de Google
 
 ---
 

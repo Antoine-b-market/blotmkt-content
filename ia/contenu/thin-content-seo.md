@@ -90,7 +90,7 @@ Identifiez les pages sans trafic organique depuis six mois et surveillez celles 
 
 ### Approche stratégique de remédiation
 
-**Stratégie 1 - Enrichissement** : Approfondissez les pages existantes en ajoutant des données exclusives, des exemples concrets et en répondant mieux à l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche). 
+**Stratégie 1 - Enrichissement** : Approfondissez les pages existantes en ajoutant des données exclusives, des exemples concrets et en répondant mieux à l'Intention de recherche. 
 Assurez-vous que le contenu IA soit révisé par un humain, apporte de nouvelles perspectives et bénéficie réellement à votre audience
 .
 
@@ -128,7 +128,7 @@ Cette politique renforcée se concentre sur le comportement abusif de production
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -195,6 +195,16 @@ Cette politique renforcée se concentre sur le comportement abusif de production
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
+- Audit de contenu existant : la méthode complète pour optimiser votre SEO
+- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
+- Call to action : le guide complet pour créer des cta qui convertissent
+- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
 
 ---
 

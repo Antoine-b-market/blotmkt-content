@@ -153,7 +153,7 @@ Google considère trois facteurs principaux : Relevance (correspondance profil-r
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -178,7 +178,7 @@ Google considère trois facteurs principaux : Relevance (correspondance profil-r
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "Référencement local, Google Business Profile, [SEO local](https://blotmkt.com/ia/definition/seo-local), Visibilité locale, Fiche d'établissement Google, Augmenter clients locaux, Classement Google Maps, Avis Google, Données structurées local business"
+      "keywords": "Référencement local, Google Business Profile, SEO local, Visibilité locale, Fiche d'établissement Google, Augmenter clients locaux, Classement Google Maps, Avis Google, Données structurées local business"
     },
     {
       "@type": "FAQPage",
@@ -228,6 +228,16 @@ Google considère trois facteurs principaux : Relevance (correspondance profil-r
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Avis clients SEO](https://blotmkt.com/ia/local-seo/avis-clients-seo) : le guide pour décrypter les témoignages et choisir la bonne agence
+- Le guide complet des citations locales pour dominer le [SEO local](https://blotmkt.com/ia/definition/seo-local)
+- Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA
+- SEO pour Google Business Profile : le guide complet pour dominer la recherche locale
+- NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA
 
 ---
 

@@ -130,7 +130,7 @@ Les témoignages clients pertinents évoquent l'évolution du trafic organique, 
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -197,6 +197,16 @@ Les témoignages clients pertinents évoquent l'évolution du trafic organique, 
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- Le guide complet des citations locales pour dominer le [SEO local](https://blotmkt.com/ia/definition/seo-local)
+- Optimiser votre [Fiche établissement Google](https://blotmkt.com/ia/local-seo/fiche-etablissement-google) pour une visibilité locale accrue à l'ère de l'IA
+- SEO pour Google Business Profile : le guide complet pour dominer la recherche locale
+- NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA
+- Maîtriser l'[Optimisation Google Maps](https://blotmkt.com/ia/local-seo/optimisation-google-maps) pour propulser votre visibilité locale
 
 ---
 

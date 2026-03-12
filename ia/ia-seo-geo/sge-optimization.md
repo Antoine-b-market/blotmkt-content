@@ -197,7 +197,7 @@ Non,
     },
     {
       "@type": "FAQPage",
-      "mainEntity": [
+      "mainEntity": 
         {
           "@type": "Question",
           "name": "Comment préparer son site web pour l'arrivée des AI Overviews de Google ?",
@@ -216,7 +216,7 @@ Non,
         },
         {
           "@type": "Question",
-          "name": "Quelles sont les différences clés entre un [Featured Snippet](https://blotmkt.com/ia/definition/featured-snippet) et un AI Overview ?",
+          "name": "Quelles sont les différences clés entre un [Featured Snippet et un AI Overview ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Voir la section correspondante."
@@ -243,6 +243,16 @@ Non,
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
+- [Algorithme de recommandation](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation) : le guide complet pour éviter les biais et la sur-dépendance
+- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
+- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
+- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
 
 ---
 

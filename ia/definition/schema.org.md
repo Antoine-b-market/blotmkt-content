@@ -42,7 +42,7 @@ les utilisateurs cliquent sur les résultats enrichis 58% du temps contre 41% po
 
 ## Qu'est-ce que Schema.org : un langage commun pour les moteurs de recherche
 
-Schema.org est un vocabulaire structuré créé en 2011 par Google, Yahoo, Bing et Yandex pour établir une cohérence des [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees) sur internet
+Schema.org est un vocabulaire structuré créé en 2011 par Google, Yahoo, Bing et Yandex pour établir une cohérence des Données structurées sur internet
 . Ce projet indépendant fonctionne comme un dictionnaire universel que les webmasters utilisent pour décrire le contenu de leurs pages web de manière non ambiguë.
 
 Concrètement, Schema.org permet d'indiquer aux Moteurs de recherche qu'une information spécifique correspond à un prix, une note d'évaluation, une adresse ou tout autre élément défini dans leur vocabulaire. 
@@ -209,6 +209,16 @@ Sur WordPress, utilisez des plugins comme RankMath ou Yoast SEO qui génèrent a
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- Décrypter l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) : le guide complet de RankBrain à l'IA générative
+- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
+- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
+- L'[Attribut Nofollow](https://blotmkt.com/ia/definition/attribut-nofollow) en seo : le guide pratique pour le maîtriser en 2024
+- Attribut sponsored : le guide complet pour vos liens payants en seo
 
 ---
 

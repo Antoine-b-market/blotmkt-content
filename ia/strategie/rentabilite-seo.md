@@ -85,7 +85,7 @@ Pour une TPE, comptez 500€-1000€/mois. Pour une PME, le Budget se situe entr
 .
 
 L'investissement doit être corrélé aux objectifs de revenus plutôt qu'être considéré comme une dépense fixe. 
-Une [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo) efficace demande un travail continu : production de 4 à 8 articles par mois, Optimisations techniques permanentes, acquisition régulière de backlinks
+Une Stratégie SEO efficace demande un travail continu : production de 4 à 8 articles par mois, Optimisations techniques permanentes, acquisition régulière de backlinks
 .
 
 ## L'IA au service du ROI : comment optimiser la rentabilité de votre SEO
@@ -130,7 +130,7 @@ Le calcul est basé sur le nombre de visiteurs mensuels, le taux de conversion e
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -197,6 +197,16 @@ Le calcul est basé sur le nombre de visiteurs mensuels, le taux de conversion e
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
+- [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal) : votre partenaire stratégique pour une croissance durable
+- Audit de site web : le guide complet pour un diagnostic SEO actionnable
+- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
+- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

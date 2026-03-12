@@ -141,7 +141,7 @@ Le ROI se mesure par la qualification du trafic, l'engagement utilisateur, les m
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -166,7 +166,7 @@ Le ROI se mesure par la qualification du trafic, l'engagement utilisateur, les m
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "SEO sémantique, Large Language Models (LLM), Compréhension Intention utilisateur, [Recherche vocale SEO](https://blotmkt.com/ia/definition/recherche-vocale-seo), Optimisation contenu AI, NLP SEO, Contenu conversationnel, Generative Engine Optimization (GEO), Expérience utilisateur SEO, Stratégie de contenu IA"
+      "keywords": "SEO sémantique, Large Language Models (LLM), Compréhension Intention utilisateur, Recherche vocale SEO, Optimisation contenu AI, NLP SEO, Contenu conversationnel, Generative Engine Optimization (GEO), Expérience utilisateur SEO, Stratégie de contenu IA"
     },
     {
       "@type": "FAQPage",
@@ -224,6 +224,16 @@ Le ROI se mesure par la qualification du trafic, l'engagement utilisateur, les m
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
+- [Algorithme de recommandation](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation) : le guide complet pour éviter les biais et la sur-dépendance
+- [Citations par IA](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia) : comment l'intelligence artificielle réinvente votre contenu
+- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
+- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
 
 ---
 

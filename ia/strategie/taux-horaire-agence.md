@@ -147,14 +147,14 @@ Les agences full-service facturent entre 3 000 et 15 000 €/mois
 
 <!--FAQ_JSON
 
-{"question": "Comment est calculé le taux horaire moyen d'une agence de communication digitale ?", "[Answer": "Le tarif journalier minimum pour une agence web en France est de 500€, intégrant les salaires, charges sociales, frais généraux, outils techniques et marge opérationnelle. Les variations dépendent de l'expertise, de la localisation et de la spécialisation de l'agence."},
+{"question": "Comment est calculé le taux horaire moyen d'une agence de communication digitale ?", "Answer": "Le tarif journalier minimum pour une agence web en France est de 500€, intégrant les salaires, charges sociales, frais généraux, outils techniques et marge opérationnelle. Les variations dépendent de l'expertise, de la localisation et de la spécialisation de l'agence."},
 {"question": "Quelles différences entre un forfait et un taux horaire pour un projet web ou marketing ?", "Answer": "Le forfait offre une visibilité budgétaire complète mais manque de flexibilité. Le taux horaire permet d'ajuster le périmètre en cours de projet mais nécessite un suivi rigoureux des coûts. Les forfaits pour sites vitrines varient entre 1 000€ et 5 000€ selon la complexité."},
 {"question": "Un taux horaire élevé garantit-il une meilleure qualité de service de la part d'une agence ?", "answer": "Un tarif élevé reflète généralement une expertise pointue et des charges structurelles importantes, mais ne garantit pas automatiquement un meilleur ROI. L'objectif standard est un ROI de 5:1, indépendamment du taux horaire pratiqué."},
 {"question": "Comment négocier le taux horaire d'une agence digitale ou d'un consultant ?", "answer":
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://[Schema.org",
   "@Graph": 
     {
       "@type": "Article",
@@ -237,6 +237,16 @@ Les agences full-service facturent entre 3 000 et 15 000 €/mois
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
+- [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal) : votre partenaire stratégique pour une croissance durable
+- Audit de site web : le guide complet pour un diagnostic SEO actionnable
+- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
+- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

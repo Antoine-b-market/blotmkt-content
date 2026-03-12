@@ -177,7 +177,7 @@ Les prompts SEO sont de véritables outils d'Analyse éditoriale, capables de tr
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -202,7 +202,7 @@ Les prompts SEO sont de véritables outils d'Analyse éditoriale, capables de tr
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "optimisation pour IA, GEO, ingénierie de prompt, citation IA, AI Overviews, RAG, SEO génératif, contenu optimisé IA, stratégie SEO AI, [Visibilité IA](https://blotmkt.com/ia/ia-seo-geo/visibilite-ia)"
+      "keywords": "optimisation pour IA, GEO, ingénierie de prompt, citation IA, AI Overviews, RAG, SEO génératif, contenu optimisé IA, stratégie SEO AI, Visibilité IA"
     },
     {
       "@type": "FAQPage",
@@ -244,6 +244,16 @@ Les prompts SEO sont de véritables outils d'Analyse éditoriale, capables de tr
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
+- [Algorithme de recommandation](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation) : le guide complet pour éviter les biais et la sur-dépendance
+- [Citations par IA](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia) : comment l'intelligence artificielle réinvente votre contenu
+- [Contenu IA SEO](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo) : le guide pour une stratégie de référencement sémantique
+- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
 
 ---
 

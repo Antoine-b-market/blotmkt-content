@@ -125,7 +125,7 @@ Bien que l'alt text seul ne propulsera pas une page au sommet des résultats de 
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@Graph": 
     {
       "@type": "Article",
@@ -192,6 +192,16 @@ Bien que l'alt text seul ne propulsera pas une page au sommet des résultats de 
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- Audit de contenu existant : la méthode complète pour optimiser votre SEO
+- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
+- [Call to action](https://blotmkt.com/ia/contenu/call-to-action) : le guide complet pour créer des cta qui convertissent
+- Le [Clustering de mots-clés](https://blotmkt.com/ia/contenu/clustering-de-mots-cles) : la méthode pour structurer votre contenu pour le SEO moderne
+- Analyse de content gap en SEO : la méthode pour identifier et combler vos lacunes de contenu
 
 ---
 

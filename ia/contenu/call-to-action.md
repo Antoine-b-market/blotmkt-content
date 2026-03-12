@@ -166,7 +166,7 @@ créez un sentiment d'urgence avec des offres à durée limitée
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@Graph": 
     {
       "@type": "Article",
@@ -217,6 +217,16 @@ créez un sentiment d'urgence avec des offres à durée limitée
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
+- Audit de contenu existant : la méthode complète pour optimiser votre SEO
+- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
+- Le [Clustering de mots-clés](https://blotmkt.com/ia/contenu/clustering-de-mots-cles) : la méthode pour structurer votre contenu pour le SEO moderne
+- Analyse de content gap en SEO : la méthode pour identifier et combler vos lacunes de contenu
 
 ---
 

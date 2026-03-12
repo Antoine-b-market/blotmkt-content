@@ -119,7 +119,7 @@ Site Référencement (2025)
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@Graph": 
     {
       "@type": "Article",
@@ -144,7 +144,7 @@ Site Référencement (2025)
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "agence SEO entreprise, stratégie référencement naturel, Audit SEO professionnel, cout mandat SEO, optimisation visibilité en ligne, consultant [SEO B2B](https://blotmkt.com/ia/strategie/seo-b2b)"
+      "keywords": "agence SEO entreprise, stratégie référencement naturel, Audit SEO professionnel, cout mandat SEO, optimisation visibilité en ligne, consultant SEO B2B"
     },
     {
       "@type": "FAQPage",
@@ -186,6 +186,16 @@ Site Référencement (2025)
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
+- [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal) : votre partenaire stratégique pour une croissance durable
+- Audit de site web : le guide complet pour un diagnostic SEO actionnable
+- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
+- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

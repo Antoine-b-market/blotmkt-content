@@ -192,7 +192,7 @@ Vérifiez régulièrement l'exactitude des citations en utilisant des outils gra
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "référencement local, NAP SEO, cohérence NAP, annuaires en ligne, Google Business Profile, [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo) local, pack local Google"
+      "keywords": "référencement local, NAP SEO, cohérence NAP, annuaires en ligne, Google Business Profile, Stratégie SEO local, pack local Google"
     },
     {
       "@type": "FAQPage",
@@ -234,6 +234,16 @@ Vérifiez régulièrement l'exactitude des citations en utilisant des outils gra
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Avis clients SEO](https://blotmkt.com/ia/local-seo/avis-clients-seo) : le guide pour décrypter les témoignages et choisir la bonne agence
+- Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA
+- SEO pour Google Business Profile : le guide complet pour dominer la recherche locale
+- NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA
+- Maîtriser l'optimisation google maps pour propulser votre visibilité locale
 
 ---
 

@@ -29,7 +29,7 @@ related_articles:
 > ## L'essentiel à retenir
 > - **Les sites YMYL concernent les sujets impactant directement la santé, les finances ou la sécurité des utilisateurs**, avec des critères de qualité plus stricts de Google
 > - **E-E-A-T (Experience, Expertise, Authoritativeness, Trust) est le framework central pour évaluer la qualité du contenu**, particulièrement critique pour les sites YMYL  
-> - **L'Optimisation des signaux E-E-A-T passe par des biographies détaillées, des sources crédibles, des [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees) et une transparence maximale**
+> - **L'Optimisation des signaux E-E-A-T passe par des biographies détaillées, des sources crédibles, des Données structurées et une transparence maximale**
 > - **Les moteurs génératifs privilégient les Contenus YMYL avec une expérience de première main et des attributions claires**, transformant les exigences SEO traditionnelles
 
 L'époque où il suffisait d'optimiser quelques mots-clés pour ranker sur des sujets sensibles est révolue. 
@@ -141,7 +141,7 @@ Inclure des biographies d'auteurs détaillées avec identifiants, qualifications
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -200,6 +200,16 @@ Inclure des biographies d'auteurs détaillées avec identifiants, qualifications
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- Décrypter l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) : le guide complet de RankBrain à l'IA générative
+- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
+- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
+- L'[Attribut Nofollow](https://blotmkt.com/ia/definition/attribut-nofollow) en seo : le guide pratique pour le maîtriser en 2024
+- Attribut sponsored : le guide complet pour vos liens payants en seo
 
 ---
 

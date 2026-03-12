@@ -44,7 +44,7 @@ Vous perdez des ventes parce que vos contenus n'interceptent pas les clients pr�
 Les mots-clés transactionnels incitent à l'action directe (achat, réservation) et sont utilisés par des internautes ayant l'intention de réaliser une transaction, identifiables par des termes comme "acheter", "réserver", "commander" ou "demander un devis"
 .
 
-Contrairement aux [Mots-clés informationnels](https://blotmkt.com/ia/contenu/mots-cles-informationnels) qui répondent à "comment" ou "pourquoi", 
+Contrairement aux Mots-clés informationnels qui répondent à "comment" ou "pourquoi", 
 les mots-clés transactionnels sont utilisés quelques minutes avant l'achat par des internautes qui ont probablement leur carte de crédit en main, ce qui explique leur taux de conversion extrêmement élevé
 .
 
@@ -108,7 +108,7 @@ Le trafic organique est considéré plus qualifié car les utilisateurs recherch
 ## Questions fréquentes
 
 ### Quels sont les 4 types de mots-clés ?
-Les quatre intentions de recherche sont : informationnelle (obtenir des informations), navigationnelle (accéder à un site spécifique), commerciale (comparer avant d'acheter) et transactionnelle (effectuer une action d'achat immédiat). Cette typologie guide l'[Optimisation de contenu](https://blotmkt.com/ia/contenu/optimisation-de-contenu) selon l'étape du parcours client.
+Les quatre intentions de recherche sont : informationnelle (obtenir des informations), navigationnelle (accéder à un site spécifique), commerciale (comparer avant d'acheter) et transactionnelle (effectuer une action d'achat immédiat). Cette typologie guide l'Optimisation de contenu selon l'étape du parcours client.
 
 ### Comment trouver des mots clés transactionnels ?
 Analysez les SERP pour identifier les pages produit, utilisez les filtres d'intention des outils SEO, exploitez les prompts IA spécialisés et surveillez le CPC élevé qui signale une intention commerciale forte. Combinez ces méthodes pour une approche complète.
@@ -153,7 +153,7 @@ Drujok, 2019
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche), mot-clé commercial, optimisation taux de conversion, SEO e-commerce, ciblage mots-clés, longue traîne transactionnelle, generative engine optimization"
+      "keywords": "Intention de recherche, mot-clé commercial, optimisation taux de conversion, SEO e-commerce, ciblage mots-clés, longue traîne transactionnelle, generative engine optimization"
     },
     {
       "@type": "FAQPage",
@@ -187,6 +187,16 @@ Drujok, 2019
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
+- Audit de contenu existant : la méthode complète pour optimiser votre SEO
+- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
+- [Call to action](https://blotmkt.com/ia/contenu/call-to-action) : le guide complet pour créer des cta qui convertissent
+- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
 
 ---
 

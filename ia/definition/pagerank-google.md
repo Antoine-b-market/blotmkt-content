@@ -193,6 +193,16 @@ Non, mais les fuites d'API Google de 2024 confirment que plusieurs variantes mod
 
 ## Articles connexes
 
+- Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
+- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
+- Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité
+- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
+- Attribut sponsored : le guide complet pour vos liens payants en seo
+
+---
+
+## Articles connexes
+
 - [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google)
 - [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo)
 - [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien)

@@ -60,7 +60,7 @@ En travaillant ainsi la sémantique de l'ensemble de votre site internet, vous t
 ## Page pilier vs article de blog : des objectifs différents
 
 La distinction entre une page pilier et un article de blog s'observe sur plusieurs dimensions stratégiques. 
-C'est ce qui a donné l'approche du Topic Cluster ou [Cocon sémantique](https://blotmkt.com/ia/definition/cocon-semantique) : plutôt que de positionner une seule page sur un seul mot-clé, on utilise un groupe de pages (le cocon) sur une thématique. Et pour organiser ce groupe, on va créer une page « centrale », qui rayonnera ensuite sur d'autres contenus (les satellites) du cocon : c'est la page pilier
+C'est ce qui a donné l'approche du Topic Cluster ou Cocon sémantique : plutôt que de positionner une seule page sur un seul mot-clé, on utilise un groupe de pages (le cocon) sur une thématique. Et pour organiser ce groupe, on va créer une page « centrale », qui rayonnera ensuite sur d'autres contenus (les satellites) du cocon : c'est la page pilier
 .
 
 Au niveau du ciblage des mots-clés, la page pilier vise des termes génériques à fort volume de recherche ("short tail"). 
@@ -145,7 +145,7 @@ Les trois piliers du référencement naturel sont le pilier technique (Explorati
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@Graph": 
     {
       "@type": "Article",
@@ -212,6 +212,16 @@ Les trois piliers du référencement naturel sont le pilier technique (Explorati
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- Décrypter l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) : le guide complet de RankBrain à l'IA générative
+- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
+- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
+- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
+- Attribut sponsored : le guide complet pour vos liens payants en seo
 
 ---
 

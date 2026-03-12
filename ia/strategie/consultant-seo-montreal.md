@@ -150,7 +150,7 @@ Le SEO (référencement naturel) vise la visibilité organique gratuite, contrai
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@Graph": 
     {
       "@type": "Article",
@@ -175,7 +175,7 @@ Le SEO (référencement naturel) vise la visibilité organique gratuite, contrai
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "expert SEO Montréal, freelance SEO Montréal, stratégie SEO Québec, [Audit SEO Montréal](https://blotmkt.com/ia/audit/audit-seo-montreal), référencement web Montréal, prix consultant SEO"
+      "keywords": "expert SEO Montréal, freelance SEO Montréal, stratégie SEO Québec, Audit SEO Montréal, référencement web Montréal, prix consultant SEO"
     },
     {
       "@type": "FAQPage",
@@ -217,6 +217,16 @@ Le SEO (référencement naturel) vise la visibilité organique gratuite, contrai
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
+- [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal) : votre partenaire stratégique pour une croissance durable
+- Audit de site web : le guide complet pour un diagnostic SEO actionnable
+- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
+- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

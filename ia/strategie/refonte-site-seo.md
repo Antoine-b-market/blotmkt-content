@@ -116,7 +116,7 @@ Une faible baisse pendant quelques jours est possible, due aux perturbations cau
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -141,7 +141,7 @@ Une faible baisse pendant quelques jours est possible, due aux perturbations cau
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "[Migration SEO](https://blotmkt.com/ia/strategie/migration-seo), audit refonte site, plan de redirection 301, cahier des charges refonte SEO, agence refonte site, checklist refonte SEO"
+      "keywords": "Migration SEO, audit refonte site, plan de redirection 301, cahier des charges refonte SEO, agence refonte site, checklist refonte SEO"
     },
     {
       "@type": "FAQPage",
@@ -183,6 +183,16 @@ Une faible baisse pendant quelques jours est possible, due aux perturbations cau
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
+- [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal) : votre partenaire stratégique pour une croissance durable
+- Audit de site web : le guide complet pour un diagnostic SEO actionnable
+- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
+- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

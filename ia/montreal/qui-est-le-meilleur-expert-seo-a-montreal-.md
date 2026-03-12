@@ -126,7 +126,7 @@ Le SEO (2025), ROI référencement naturel
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": [
     {
       "@type": "Article",
@@ -151,7 +151,7 @@ Le SEO (2025), ROI référencement naturel
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "consultant SEO Montréal, agence SEO Québec, expert référencement Montréal, prix consultant SEO, meilleure [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal), spécialiste SEO freelance"
+      "keywords": "consultant SEO Montréal, agence SEO Québec, expert référencement Montréal, prix consultant SEO, meilleure Agence SEO Montréal, spécialiste SEO freelance"
     },
     {
       "@type": "FAQPage",
@@ -193,6 +193,16 @@ Le SEO (2025), ROI référencement naturel
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- Meilleure agence GEO à Montréal : guide pour choisir le bon partenaire
+- Meilleure agence SEO à Montréal : le guide pour choisir le bon partenaire
+- Comment identifier le meilleur expert GEO à Montréal pour votre entreprise
+- Maîtriser l'[Analyse de logs SEO](https://blotmkt.com/ia/audit/analyse-de-logs-seo) pour optimiser votre budget de crawl
+- [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site) : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
 
 ---
 

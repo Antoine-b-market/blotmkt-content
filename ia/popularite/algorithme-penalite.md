@@ -83,7 +83,7 @@ Pour les algorithmiques, la mise en place de correctifs est plus compliquée mai
 La surveillance des modulations du trafic via Google Analytics constitue un bon indicateur en cas d'anomalies statistiques
 . Une chute brutale, verticale et non saisonnière représente le premier signal d'alarme à investiguer.
 
-La corrélation temporelle est cruciale : mettez en parallèle la date de perte de trafic avec celle d'une mise à jour Google connue
+La corrélation temporelle est cruciale : mettez en parallèle la date de perte de trafic avec celle d'une [Mise à jour Google](https://blotmkt.com/ia/ia-seo-geo/mise-a-jour-google) connue
 . 
 Les sources comme SERoundtable ou MozCast publient régulièrement des chronologies de mises à jour pour croiser les données avec vos statistiques
 .
@@ -142,7 +142,7 @@ Pour les pénalités manuelles, utilisez l'interface Search Console qui inclut d
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": [
     {
       "@type": "Article",
@@ -171,7 +171,7 @@ Pour les pénalités manuelles, utilisez l'interface Search Console qui inclut d
     },
     {
       "@type": "FAQPage",
-      "mainEntity": [
+      "mainEntity": 
         {
           "@type": "Question",
           "name": "Comment savoir si mon site est pénalisé par Google ?",
@@ -190,7 +190,7 @@ Pour les pénalités manuelles, utilisez l'interface Search Console qui inclut d
         },
         {
           "@type": "Question",
-          "name": "Qu'est-ce que l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) Panda ?",
+          "name": "Qu'est-ce que l'[Algorithme Google Panda ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Panda est un filtre Google qui identifie les sites de faible qualité et combat le spam en les pénalisant. Il évalue la qualité éditoriale, détecte le contenu dupliqué et sanctionne les pratiques de content farming."
@@ -209,6 +209,16 @@ Pour les pénalités manuelles, utilisez l'interface Search Console qui inclut d
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Désindexation Google](https://blotmkt.com/ia/popularite/desindexation-google): guide pratique pour contrôler votre visibilité en ligne
+- Facteurs de classement google : le guide basé sur la documentation officielle
+- Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
+- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
+- Action manuelle Google : le guide complet pour l'identifier et la corriger
 
 ---
 

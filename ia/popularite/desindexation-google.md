@@ -55,7 +55,7 @@ Les principales raisons incluent les contenus dupliqués pour éviter les pénal
 Le respect de la confidentialité et du RGPD nécessite également de retirer les contenus contenant des données personnelles
 .
 
-La désindexation représente une vraie [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo) qui aide à mieux contrôler l'indexation, maximiser le crawl Budget et booster la performance des pages essentielles
+La désindexation représente une vraie Stratégie SEO qui aide à mieux contrôler l'indexation, maximiser le crawl Budget et booster la performance des pages essentielles
 . (Source : Leptidigital, 2024)
 
 ## Les méthodes techniques de désindexation: noindex et X-Robots-Tag
@@ -167,7 +167,7 @@ Elle permet de maîtriser la visibilité dans les résultats de recherche, d'év
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -192,7 +192,7 @@ Elle permet de maîtriser la visibilité dans les résultats de recherche, d'év
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "balise noindex, X-Robots-Tag, Google Search Console suppression, [Fichier Robots.txt](https://blotmkt.com/ia/audit/fichier-robots.txt), supprimer contenu Google, contrôler indexation"
+      "keywords": "balise noindex, X-Robots-Tag, Google Search Console suppression, Fichier Robots.txt, supprimer contenu Google, contrôler indexation"
     },
     {
       "@type": "FAQPage",
@@ -218,6 +218,16 @@ Elle permet de maîtriser la visibilité dans les résultats de recherche, d'év
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
+- [Facteurs de classement Google](https://blotmkt.com/ia/popularite/facteurs-de-classement-google) : le guide basé sur la documentation officielle
+- [Filtre Google](https://blotmkt.com/ia/popularite/filtre-google) : identifier et corriger une pénalité SEO pour retrouver votre visibilité
+- Le [Guest blogging SEO](https://blotmkt.com/ia/popularite/guest-blogging-seo) : strategie incontournable pour votre visibilite en ligne
+- Action manuelle Google : le guide complet pour l'identifier et la corriger
 
 ---
 

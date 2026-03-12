@@ -27,7 +27,7 @@ related_articles:
 # JSON-LD pour le SEO : décuplez votre visibilité et vos rich results
 
 > ## L'essentiel à retenir
-> - Le JSON-LD est un format de [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees) préféré par Google qui permet aux moteurs de recherche de comprendre le contenu sémantiquement
+> - Le JSON-LD est un format de Données structurées préféré par Google qui permet aux moteurs de recherche de comprendre le contenu sémantiquement
 > - 
 Les pages avec JSON-LD génèrent 35% plus de clics grâce aux rich results, avec une amélioration du CTR pouvant atteindre 30%
 
@@ -56,7 +56,7 @@ Cette séparation maintient les données structurées entièrement distinctes de
 En 2026, la valeur primaire du JSON-LD bien implémenté ne réside plus uniquement dans les rich snippets, mais dans la visibilité IA. Quand ChatGPT parcourt votre site, il Analyse votre JSON-LD. Quand Perplexity récupère votre page comme source de citation, il extrait les données structurées
 .
 
-Le format contribue au [Knowledge Graph](https://blotmkt.com/ia/definition/knowledge-graph) de Google en créant un réseau d'informations interconnectées, permettant aux moteurs de recherche de comprendre non seulement le Contenu, mais aussi les relations entre entités (personnes, lieux, événements, organisations).
+Le format contribue au Knowledge Graph de Google en créant un réseau d'informations interconnectées, permettant aux moteurs de recherche de comprendre non seulement le Contenu, mais aussi les relations entre entités (personnes, lieux, événements, organisations).
 
 ## L'impact direct du JSON-LD sur les Rich Results et la visibilité
 
@@ -76,7 +76,7 @@ Bien que le balisage structuré ne constitue pas un facteur de classement direct
 
 ## Les schémas JSON-LD essentiels pour votre stratégie SEO
 
-[Schema.org](https://blotmkt.com/ia/definition/schema.org) fournit le vocabulaire universel reconnu par tous les moteurs de Recherche majeurs. 
+Schema.org fournit le vocabulaire universel reconnu par tous les moteurs de Recherche majeurs. 
 Bien que la plupart des données structurées utilisent le vocabulaire schema.org, Google et Bing appliquent leurs propres modifications aux champs de données
 .
 
@@ -241,6 +241,16 @@ Google recommande JSON-LD plutôt que Microdata ou RDFa. Il est plus facile à i
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- Décrypter l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) : le guide complet de RankBrain à l'IA générative
+- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
+- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
+- L'[Attribut Nofollow](https://blotmkt.com/ia/definition/attribut-nofollow) en seo : le guide pratique pour le maîtriser en 2024
+- Attribut sponsored : le guide complet pour vos liens payants en seo
 
 ---
 

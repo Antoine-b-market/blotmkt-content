@@ -144,7 +144,7 @@ Les Mots-clés comptent encore. Mais ils ne sont qu'une entrée dans un système
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -169,7 +169,7 @@ Les Mots-clés comptent encore. Mais ils ne sont qu'une entrée dans un système
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "AI Overviews, [Generative Engine Optimization (GEO)](https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo)), LLMO, SEO pour IA, Google SGE, E-E-A-T, trafic zéro-clic"
+      "keywords": "AI Overviews, Generative Engine Optimization (GEO)), LLMO, SEO pour IA, Google SGE, E-E-A-T, trafic zéro-clic"
     },
     {
       "@type": "FAQPage",
@@ -211,6 +211,16 @@ Les Mots-clés comptent encore. Mais ils ne sont qu'une entrée dans un système
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
+- [Algorithme de recommandation](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation) : le guide complet pour éviter les biais et la sur-dépendance
+- [Citations par IA](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia) : comment l'intelligence artificielle réinvente votre contenu
+- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
+- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
 
 ---
 

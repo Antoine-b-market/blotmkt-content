@@ -126,7 +126,7 @@ Le taux de conversion pour les leads SEO est en moyenne de 14,6%. Le référence
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -151,7 +151,7 @@ Le taux de conversion pour les leads SEO est en moyenne de 14,6%. Le référence
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "[Audit SEO Québec](https://blotmkt.com/ia/audit/audit-seo-quebec), stratégie SEO Québec, référencement naturel Québec, expert SEO Montréal, optimisation pour l'IA, visibilité Google Québec, consultant SEO personnalisé, services SEO Canada, approche SEO moderne"
+      "keywords": "Audit SEO Québec, stratégie SEO Québec, référencement naturel Québec, expert SEO Montréal, optimisation pour l'IA, visibilité Google Québec, consultant SEO personnalisé, services SEO Canada, approche SEO moderne"
     },
     {
       "@type": "FAQPage",
@@ -201,6 +201,16 @@ Le taux de conversion pour les leads SEO est en moyenne de 14,6%. Le référence
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
+- [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal) : votre partenaire stratégique pour une croissance durable
+- Audit de site web : le guide complet pour un diagnostic SEO actionnable
+- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
+- Consultant SEO Montréal : transformez votre site en un actif de croissance
 
 ---
 

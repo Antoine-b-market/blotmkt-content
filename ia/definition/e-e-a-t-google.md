@@ -106,7 +106,7 @@ Dans un monde où une IA peut synthétiser le savoir commun en quelques secondes
 
 ### Données structurées et UGC
 
-L'utilisation des [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees) Schema.org pour Baliser les auteurs, avis et informations organisationnelles devient essentielle. Le contenu généré par les utilisateurs (UGC) renforce simultanément l'expérience et la confiance, créant un cercle vertueux de crédibilité.
+L'utilisation des Données structurées Schema.org pour Baliser les auteurs, avis et informations organisationnelles devient essentielle. Le contenu généré par les utilisateurs (UGC) renforce simultanément l'expérience et la confiance, créant un cercle vertueux de crédibilité.
 
 ## Nouveautés 2025 : analyse des dernières directives de Google
 
@@ -115,7 +115,7 @@ L'utilisation des [Données structurées](https://blotmkt.com/ia/definition/donn
 Les sites e-commerce ont vu des taux d'impact de 52%, les contenus santé 67% et les sites d'affiliation 71% basés sur l'Analyse d'ALM Corp suivant 847 sites web affectés
 . Cette volatilité révèle une réévaluation profonde des critères de qualité.
 
-Les sites qui résistent ou progressent affichent tous des signaux E-E-A-T irréprochables. À l'inverse, l'anonymat est devenu un facteur de risque majeur. L'absence de biographie claire ou de références vérifiables entraîne souvent une [Pénalité Google](https://blotmkt.com/ia/popularite/penalite-google) référencement silencieuse
+Les sites qui résistent ou progressent affichent tous des signaux E-E-A-T irréprochables. À l'inverse, l'anonymat est devenu un facteur de risque majeur. L'absence de biographie claire ou de références vérifiables entraîne souvent une Pénalité Google référencement silencieuse
 .
 
 ### Performance technique intégrée
@@ -156,7 +156,7 @@ Analyses de la Google Core Update décembre 2025
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -231,6 +231,16 @@ Analyses de la Google Core Update décembre 2025
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- Décrypter l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) : le guide complet de RankBrain à l'IA générative
+- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
+- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
+- L'[Attribut Nofollow](https://blotmkt.com/ia/definition/attribut-nofollow) en seo : le guide pratique pour le maîtriser en 2024
+- Attribut sponsored : le guide complet pour vos liens payants en seo
 
 ---
 

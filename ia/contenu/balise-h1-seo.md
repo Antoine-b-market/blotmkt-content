@@ -34,7 +34,7 @@ related_articles:
 
 La balise H1 reste l'un des éléments SEO les plus négligés, pourtant 
 elle aide les moteurs de Recherche à saisir le thème central et l'objectif de la page, et les robots des moteurs de recherche accordent un certain poids à cette balise
-. Trop souvent confondue avec la balise title, mal optimisée ou tout simplement oubliée, elle représente pourtant un levier puissant pour améliorer votre référencement naturel. Ce guide vous donne les clés pour maîtriser parfaitement cet élément essentiel de votre [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo).
+. Trop souvent confondue avec la balise title, mal optimisée ou tout simplement oubliée, elle représente pourtant un levier puissant pour améliorer votre référencement naturel. Ce guide vous donne les clés pour maîtriser parfaitement cet élément essentiel de votre Stratégie SEO.
 
 ---
 
@@ -47,7 +47,7 @@ elle s'affiche toujours en haut et elle est bien visible, c'est une des premièr
 
 ### Un signal de pertinence majeur pour Google
 
-Elle fournit aux moteurs de recherche une indication sémantique précise du contenu de la page, incorporant les mots-clés principaux sans sur-Optimisation, et alignée sur l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche) des utilisateurs
+Elle fournit aux moteurs de recherche une indication sémantique précise du contenu de la page, incorporant les mots-clés principaux sans sur-Optimisation, et alignée sur l'Intention de recherche des utilisateurs
 . 
 Google a placé la H1 parmi les critères SEO les plus importants dans l'optimisation du contenu et bien optimisée, cette balise participera grandement au référencement de votre page
 .
@@ -151,7 +151,7 @@ Par défaut, Screaming Frog extrait les deux premières H1 découvertes sur une 
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@Graph": 
     {
       "@type": "Article",
@@ -218,6 +218,16 @@ Par défaut, Screaming Frog extrait les deux premières H1 découvertes sur une 
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
+- Audit de contenu existant : la méthode complète pour optimiser votre SEO
+- [Call to action](https://blotmkt.com/ia/contenu/call-to-action) : le guide complet pour créer des cta qui convertissent
+- Le [Clustering de mots-clés](https://blotmkt.com/ia/contenu/clustering-de-mots-cles) : la méthode pour structurer votre contenu pour le SEO moderne
+- Analyse de content gap en SEO : la méthode pour identifier et combler vos lacunes de contenu
 
 ---
 

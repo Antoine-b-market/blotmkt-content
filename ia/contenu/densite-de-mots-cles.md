@@ -148,7 +148,7 @@ si votre article contient 500 mots et si le mot-clé principal apparaît 5 fois,
 
 Avec l'évolution des algorithmes des moteurs de recherche, l'importance de cette métrique a diminué, les moteurs de recherche favorisant désormais la qualité du contenu et la pertinence contextuelle
 . 
-Sans un bon positionnement organique, votre Contenu ne sera pas dans la base de données des LLM. La [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo) et la stratégie GEO ne sont pas en compétition, elles sont en séquence : d'abord un socle SEO solide, ensuite une couche GEO pour amplifier votre visibilité dans les réponses génératives
+Sans un bon positionnement organique, votre Contenu ne sera pas dans la base de données des LLM. La Stratégie SEO et la stratégie GEO ne sont pas en compétition, elles sont en séquence : d'abord un socle SEO solide, ensuite une couche GEO pour amplifier votre visibilité dans les réponses génératives
 .
 
 ---
@@ -157,7 +157,7 @@ Sans un bon positionnement organique, votre Contenu ne sera pas dans la base de 
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -182,7 +182,7 @@ Sans un bon positionnement organique, votre Contenu ne sera pas dans la base de 
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "keyword stuffing, TF-IDF, fréquence de mots-clés, SEO sémantique, [Optimisation de contenu](https://blotmkt.com/ia/contenu/optimisation-de-contenu), pertinence thématique, champ lexical"
+      "keywords": "keyword stuffing, TF-IDF, fréquence de mots-clés, SEO sémantique, Optimisation de contenu, pertinence thématique, champ lexical"
     },
     {
       "@type": "FAQPage",
@@ -224,6 +224,16 @@ Sans un bon positionnement organique, votre Contenu ne sera pas dans la base de 
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
+- Audit de contenu existant : la méthode complète pour optimiser votre SEO
+- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
+- [Call to action](https://blotmkt.com/ia/contenu/call-to-action) : le guide complet pour créer des cta qui convertissent
+- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
 
 ---
 

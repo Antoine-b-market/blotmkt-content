@@ -181,7 +181,7 @@ Utilisez les outils gratuits de Google comme PageSpeed Insights, Search Console 
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google), SEO on-page, Core Web Vitals, E-E-A-T, résultats enrichis, Google Search Console, backlinks qualité"
+      "keywords": "Algorithme Google, SEO on-page, Core Web Vitals, E-E-A-T, résultats enrichis, Google Search Console, backlinks qualité"
     },
     {
       "@type": "FAQPage",
@@ -223,6 +223,16 @@ Utilisez les outils gratuits de Google comme PageSpeed Insights, Search Console 
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
+- [Désindexation Google](https://blotmkt.com/ia/popularite/desindexation-google): guide pratique pour contrôler votre visibilité en ligne
+- Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
+- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
+- Action manuelle Google : le guide complet pour l'identifier et la corriger
 
 ---
 

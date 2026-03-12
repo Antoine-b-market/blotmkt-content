@@ -86,10 +86,10 @@ Le monitoring des enchères concurrentes sur votre marque fonctionne comme un sy
 ## Stratégies SEO avancées pour les requêtes de marque
 
 Au-delà de la page d'accueil, optimisez des pages spécifiques pour les variations transactionnelles : "marque + avis", "marque + prix", "marque + support". 
-La pertinence sémantique prime : le contenu répondant précisément à l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche) affiche la corrélation la plus forte avec les positions élevées
+La pertinence sémantique prime : le contenu répondant précisément à l'Intention de recherche affiche la corrélation la plus forte avec les positions élevées
 .
 
-Exploitez le balisage de [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees) pour enrichir vos résultats SERP. 
+Exploitez le balisage de Données structurées pour enrichir vos résultats SERP. 
 Une page classée en première position se classe également en moyenne dans le top 10 pour près de 1 000 autres mots-clés pertinents
 , maximisant votre visibilité sur l'ensemble de votre écosystème sémantique.
 
@@ -118,7 +118,7 @@ Le premier résultat dans les résultats de recherche organique de Google a un C
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -177,6 +177,16 @@ Le premier résultat dans les résultats de recherche organique de Google a un C
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
+- Audit de contenu existant : la méthode complète pour optimiser votre SEO
+- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
+- [Call to action](https://blotmkt.com/ia/contenu/call-to-action) : le guide complet pour créer des cta qui convertissent
+- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
 
 ---
 

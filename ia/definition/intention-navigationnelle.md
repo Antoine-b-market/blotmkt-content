@@ -131,7 +131,7 @@ Les entreprises doivent s'assurer que leur site est bien référencé pour ces t
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@Graph": 
     {
       "@type": "Article",
@@ -156,7 +156,7 @@ Les entreprises doivent s'assurer que leur site est bien référencé pour ces t
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "type d'intention de recherche, requête de marque, parcours client omnicanal, [Analyse de logs SEO](https://blotmkt.com/ia/audit/analyse-de-logs-seo), notoriété de marque, stratégie SEO, tracking client"
+      "keywords": "type d'intention de recherche, requête de marque, parcours client omnicanal, Analyse de logs SEO, notoriété de marque, stratégie SEO, tracking client"
     },
     {
       "@type": "FAQPage",
@@ -164,7 +164,7 @@ Les entreprises doivent s'assurer que leur site est bien référencé pour ces t
         {
           "@type": "Question",
           "name": "Comment savoir si un mot clé est navigationnel ?",
-          "accepted[Answer": {
+          "acceptedAnswer": {
             "@type": "Answer",
             "text": "Une requête navigationnelle survient quand l'internaute connaît la page qu'il veut visiter et utilise généralement des mots-clés courts correspondant au nom du site, de la marque, parfois complétés d'une page spécifique comme 'login' ou 'contact'."
           }
@@ -179,7 +179,7 @@ Les entreprises doivent s'assurer que leur site est bien référencé pour ces t
         },
         {
           "@type": "Question",
-          "name": "Quels sont les 4 types d'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche) ?",
+          "name": "Quels sont les 4 types d'[Intention de recherche ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Les quatre intentions principales sont : informationnelle (recherche d'informations), navigationnelle (accès à un site connu), commerciale (comparaison avant achat) et transactionnelle (action d'achat immédiate)."
@@ -198,6 +198,16 @@ Les entreprises doivent s'assurer que leur site est bien référencé pour ces t
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- Décrypter l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) : le guide complet de RankBrain à l'IA générative
+- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
+- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
+- L'[Attribut Nofollow](https://blotmkt.com/ia/definition/attribut-nofollow) en seo : le guide pratique pour le maîtriser en 2024
+- Attribut sponsored : le guide complet pour vos liens payants en seo
 
 ---
 

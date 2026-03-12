@@ -81,7 +81,7 @@ Un bon contenu evergreen peut devenir une ressource de référence, et ainsi gé
 ### Étape 1 : Recherche de mots-clés intemporels
 
 Utilisez des outils comme Answer the Public pour découvrir les questions que les internautes se posent, Analysez les mots-clés à fort volume de recherche et faible saisonnalité avec des outils comme Semrush ou Ahrefs, et servez-vous de Google Trends pour repérer les sujets stables sur plusieurs années
-. L'objectif : cibler des requêtes informationnelles avec un volume stable et une [Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche) claire qui transcende les modes passagères.
+. L'objectif : cibler des requêtes informationnelles avec un volume stable et une Intention de recherche claire qui transcende les modes passagères.
 
 ### Étape 2 : Structuration et rédaction approfondie
 
@@ -145,7 +145,7 @@ Programmez des révisions semestrielles pour actualiser les statistiques, exempl
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@Graph": 
     {
       "@type": "Article",
@@ -212,6 +212,16 @@ Programmez des révisions semestrielles pour actualiser les statistiques, exempl
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
+- Audit de contenu existant : la méthode complète pour optimiser votre SEO
+- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
+- Call to action : le guide complet pour créer des cta qui convertissent
+- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
 
 ---
 

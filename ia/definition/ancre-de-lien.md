@@ -100,7 +100,7 @@ Le rythme d'acquisition doit rester progressif. Une montée trop brutale du nomb
 Privilégiez la pertinence contextuelle avant l'Optimisation. Une ancre doit apporter une valeur informative réelle à l'utilisateur tout en respectant le ratio de sécurité : maximum 5% d'ancres exactes, le reste réparti entre ancres de marque, partielles et génériques.
 
 ### Quel est le bon ratio d'ancres de lien ?
-Le ratio optimal selon les experts : 70-75% d'ancres génériques et neutres, 15-20% d'ancres de marque, 5-15% d'ancres optimisées. Cette répartition simule un [Profil de liens](https://blotmkt.com/ia/definition/profil-de-liens) naturel et évite les pénalités algorithmiques de Google Penguin.
+Le ratio optimal selon les experts : 70-75% d'ancres génériques et neutres, 15-20% d'ancres de marque, 5-15% d'ancres optimisées. Cette répartition simule un Profil de liens naturel et évite les pénalités algorithmiques de Google Penguin.
 
 ### Comment vérifier les ancres d'un site web ?
 Utilisez des outils comme Ahrefs, SEMrush ou la Search Console Google pour auditer votre profil d'ancres. Analysez la diversité, détectez les sur-optimisations et surveillez l'évolution du ratio dofollow/nofollow pour maintenir un profil sain.
@@ -114,7 +114,7 @@ Une ancre sur-optimisée répète mécaniquement le même mot-clé exact sur de 
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -181,6 +181,16 @@ Une ancre sur-optimisée répète mécaniquement le même mot-clé exact sur de 
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
+- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
+- L'[Attribut Nofollow](https://blotmkt.com/ia/definition/attribut-nofollow) en seo : le guide pratique pour le maîtriser en 2024
+- [Attribut Sponsored](https://blotmkt.com/ia/definition/attribut-sponsored) : le guide complet pour vos liens payants en seo
+- Backlink de qualité : le guide pour acquérir des liens qui renforcent votre E-E-A-T
 
 ---
 

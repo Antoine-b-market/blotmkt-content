@@ -108,7 +108,7 @@ Utilisez Google Suggest et les PAA, exploitez des outils comme AnswerThePublic o
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -133,11 +133,11 @@ Utilisez Google Suggest et les PAA, exploitez des outils comme AnswerThePublic o
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "stratégie de mots-clés, trafic qualifié, [Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche), SEO sémantique, mots-clés de niche"
+      "keywords": "stratégie de mots-clés, trafic qualifié, Intention de recherche, SEO sémantique, mots-clés de niche"
     },
     {
       "@type": "FAQPage",
-      "mainEntity": [
+      "mainEntity": 
         {
           "@type": "Question",
           "name": "C'est quoi la longue traîne en SEO ?",
@@ -151,7 +151,7 @@ Utilisez Google Suggest et les PAA, exploitez des outils comme AnswerThePublic o
           "name": "Pourquoi utiliser la longue traîne ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "La longue traîne offre une concurrence réduite, un trafic plus qualifié et un taux de conversion jusqu'à 2,5 fois supérieur aux mots-clés courts. Les utilisateurs ont une intention d'achat claire, ce qui améliore significativement les conversions et le ROI de votre [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo)."
+            "text": "La longue traîne offre une concurrence réduite, un trafic plus qualifié et un taux de conversion jusqu'à 2,5 fois supérieur aux mots-clés courts. Les utilisateurs ont une intention d'achat claire, ce qui améliore significativement les conversions et le ROI de votre [Stratégie SEO."
           }
         },
         {
@@ -167,6 +167,16 @@ Utilisez Google Suggest et les PAA, exploitez des outils comme AnswerThePublic o
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
+- Audit de contenu existant : la méthode complète pour optimiser votre SEO
+- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
+- [Call to action](https://blotmkt.com/ia/contenu/call-to-action) : le guide complet pour créer des cta qui convertissent
+- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
 
 ---
 

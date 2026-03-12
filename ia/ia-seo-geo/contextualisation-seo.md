@@ -30,7 +30,7 @@ related_articles:
 > - La contextualisation SEO adapte l'optimisation à l'ensemble de l'écosystème utilisateur (localisation, historique, appareil, heure) contrairement au SEO sémantique qui se concentre sur les relations entre mots et entités
 > - Les algorithmes BERT et MUM Analysent l'intention globale plutôt que les correspondances de mots-clés, rendant le contexte non-textuel aussi important que le contenu
 > - Le ROI se mesure via le taux de conversion, temps de séjour et réduction du pogo-sticking plutôt que par la seule position dans les résultats
-> - La méthode consiste à créer des topic clusters contextuels, utiliser les données structurées et Analyser les "People Also Ask" pour couvrir différents contextes de recherche
+> - La méthode consiste à créer des topic clusters contextuels, utiliser les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees) et Analyser les "People Also Ask" pour couvrir différents contextes de recherche
 > - La recherche vocale et mobile illustrent parfaitement cette contextualisation avec des requêtes géolocalisées et conversationnelles nécessitant des réponses immédiates
 
 L'Optimisation SEO traditionnelle par mots-clés ne suffit plus. 
@@ -176,7 +176,7 @@ La recherche vocale privilégie les requêtes conversationnelles géolocalisées
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "SEO sémantique, Intention de recherche, [Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) MUM, optimisation BERT, recherche vocale SEO, personnalisation des résultats"
+      "keywords": "SEO sémantique, Intention de recherche, Algorithme Google MUM, optimisation BERT, recherche vocale SEO, personnalisation des résultats"
     },
     {
       "@type": "FAQPage",
@@ -218,6 +218,16 @@ La recherche vocale privilégie les requêtes conversationnelles géolocalisées
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
+- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
+- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
+- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
+- Entité nommée SEO : le guide pour devenir une référence aux yeux de Google
 
 ---
 

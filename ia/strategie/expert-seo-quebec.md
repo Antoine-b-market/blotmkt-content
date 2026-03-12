@@ -119,7 +119,7 @@ Agence SEO Zenith, CyberPerformance, Desire Marketing
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@Graph": 
     {
       "@type": "Article",
@@ -144,7 +144,7 @@ Agence SEO Zenith, CyberPerformance, Desire Marketing
         "url": "https://blotmkt.com"
       },
       "inLanguage": "fr-FR",
-      "keywords": "Consultant SEO Québec, Référencement naturel Québec, Optimisation moteurs recherche Québec, Stratégie SEO Québec, [Audit SEO Québec](https://blotmkt.com/ia/audit/audit-seo-quebec), SEO IA Québec, Visibilité en ligne Québec, Expert référencement Canada, Approche personnalisée SEO"
+      "keywords": "Consultant SEO Québec, Référencement naturel Québec, Optimisation moteurs recherche Québec, Stratégie SEO Québec, Audit SEO Québec, SEO IA Québec, Visibilité en ligne Québec, Expert référencement Canada, Approche personnalisée SEO"
     },
     {
       "@type": "FAQPage",
@@ -194,6 +194,16 @@ Agence SEO Zenith, CyberPerformance, Desire Marketing
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
+- [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal) : votre partenaire stratégique pour une croissance durable
+- Audit de site web : le guide complet pour un diagnostic SEO actionnable
+- [Budget SEO mensuel](https://blotmkt.com/ia/strategie/budget-seo-mensuel) : le guide pour un investissement qui maximise votre indexation
+- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

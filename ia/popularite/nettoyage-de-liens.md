@@ -125,7 +125,7 @@ Le désaveu est pris en compte en quelques jours, mais les effets concrets sur l
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": 
     {
       "@type": "Article",
@@ -184,6 +184,16 @@ Le désaveu est pris en compte en quelques jours, mais les effets concrets sur l
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
+- [Désindexation Google](https://blotmkt.com/ia/popularite/desindexation-google): guide pratique pour contrôler votre visibilité en ligne
+- Facteurs de classement google : le guide basé sur la documentation officielle
+- Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
+- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
 
 ---
 

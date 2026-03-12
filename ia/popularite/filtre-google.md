@@ -120,7 +120,7 @@ Après correction des problèmes identifiés dans l'action manuelle, cliquez sur
 
 ```json
 {
-  "@context": "https://[Schema.org](https://blotmkt.com/ia/definition/schema.org)",
+  "@context": "https://Schema.org",
   "@graph": [
     {
       "@type": "Article",
@@ -187,6 +187,16 @@ Après correction des problèmes identifiés dans l'action manuelle, cliquez sur
   ]
 }
 ```
+
+---
+
+## Articles connexes
+
+- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
+- [Désindexation Google](https://blotmkt.com/ia/popularite/desindexation-google): guide pratique pour contrôler votre visibilité en ligne
+- Facteurs de classement google : le guide basé sur la documentation officielle
+- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
+- Action manuelle Google : le guide complet pour l'identifier et la corriger
 
 ---
 
