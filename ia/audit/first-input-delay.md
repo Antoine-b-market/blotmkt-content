@@ -40,7 +40,7 @@ L'Optimisation JavaScript (réduction des tâches longues, utilisation de Web Wo
 Les améliorations du FID constituent une base solide pour optimiser l'INP et la réactivité générale
 
 La réactivité des sites web constitue un enjeu majeur pour l'expérience utilisateur et le référencement. 
-Le First Input Delay (FID) n'est plus une métrique [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals) et a été remplacé par l'Interaction to Next Paint (INP)
+Le First Input Delay (FID) n'est plus une métrique Core Web Vitals et a été remplacé par l'Interaction to Next Paint (INP)
 . Toutefois, comprendre le FID reste essentiel car ses principes et Optimisations constituent un fondement précieux pour maîtriser l'INP, la nouvelle référence en matière de réactivité web. Cette transition marque une évolution importante dans l'évaluation des performances interactives des pages.
 
 ---
@@ -219,6 +219,36 @@ Le FID mesure uniquement le délai de la première interaction, tandis que l'INP
 ---
 
 ---
+
+---
+
+## Articles connexes
+
+- Maîtriser l'[Analyse de logs SEO](https://blotmkt.com/ia/audit/analyse-de-logs-seo) pour optimiser votre budget de crawl
+- [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site) : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
+- [Audit mobile-first](https://blotmkt.com/ia/audit/audit-mobile-first) : la méthode complète pour garantir votre visibilité sur Google
+- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
+- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
+
+---
+
+## Articles connexes
+
+- Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl
+- Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
+- Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google
+- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
+- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
+
+---
+
+## Articles connexes
+
+- Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl
+- Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
+- Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google
+- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
+- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
 
 ---
 

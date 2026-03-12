@@ -27,7 +27,7 @@ related_articles:
 # Mots-clés informationnels : guide pour optimiser votre stratégie SEO avec l'IA
 
 > ## L'essentiel à retenir
-> - Un mot-clé informationnel traduit une [Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche) d'information (comment, pourquoi, guide, définition) et se distingue des requêtes commerciales ou transactionnelles par sa vocation éducative
+> - Un mot-clé informationnel traduit une Intention de recherche d'information (comment, pourquoi, guide, définition) et se distingue des requêtes commerciales ou transactionnelles par sa vocation éducative
 > - Les outils SEO classiques (Semrush, Ahrefs, AnswerThePublic) et l'Analyse des PAA (People Also Ask) permettent d'identifier efficacement ces requêtes
 > - Les entreprises exploitent ces mots-clés pour créer du contenu éducatif de qualité, renforcer leur E-A-T et capter du trafic en amont du funnel de conversion
 > - L'IA révolutionne leur identification via l'analyse sémantique et l'automatisation, permettant de prédire les tendances et d'optimiser le contenu pour les featured snippets
@@ -50,7 +50,7 @@ ils ne se limitent pas aux expressions interrogatives commençant par "pourquoi"
 .
 
 La distinction avec les autres types d'intention est cruciale : 
-les [Mots-clés transactionnels](https://blotmkt.com/ia/contenu/mots-cles-transactionnels) sont utilisés par des personnes en bas de l'entonnoir d'achat
+les Mots-clés transactionnels sont utilisés par des personnes en bas de l'entonnoir d'achat
 , tandis que 
 les mots-clés commerciaux permettent de comparer l'offre et les produits
 . Les requêtes informationnelles se positionnent en amont, créant 
@@ -216,6 +216,36 @@ Créez un contenu approfondi (1890 mots en moyenne pour les premiers résultats)
 ---
 
 ---
+
+---
+
+## Articles connexes
+
+- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
+- Audit de contenu existant : la méthode complète pour optimiser votre SEO
+- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
+- Call to action : le guide complet pour créer des cta qui convertissent
+- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
+
+---
+
+## Articles connexes
+
+- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
+- Audit de contenu existant : la méthode complète pour optimiser votre SEO
+- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
+- Call to action : le guide complet pour créer des cta qui convertissent
+- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
+
+---
+
+## Articles connexes
+
+- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
+- Audit de contenu existant : la méthode complète pour optimiser votre SEO
+- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
+- Call to action : le guide complet pour créer des cta qui convertissent
+- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
 
 ---
 

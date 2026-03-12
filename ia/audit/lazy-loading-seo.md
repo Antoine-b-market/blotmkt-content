@@ -28,9 +28,9 @@ related_articles:
 
 > ## L'essentiel à retenir
 > - Le lazy loading est une technique qui différé le chargement des ressources (images, vidéos, iframes) jusqu'à ce qu'elles soient visibles dans le viewport de l'utilisateur
-> - Il améliore les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals) en réduisant le temps de chargement initial (LCP) de 40-60% en moyenne, mais peut nuire au SEO si mal implémenté
+> - Il améliore les Core Web Vitals en réduisant le temps de chargement initial (LCP) de 40-60% en moyenne, mais peut nuire au SEO si mal implémenté
 > - L'attribut HTML natif `loading="lazy"` est la solution la plus SEO-friendly, contrairement aux solutions JavaScript qui retardent l'Indexation
-> - Il ne faut jamais appliquer le lazy loading au contenu above-the-fold, surtout pas à l'élément LCP ([Largest Contentful Paint](https://blotmkt.com/ia/audit/largest-contentful-paint))
+> - Il ne faut jamais appliquer le lazy loading au contenu above-the-fold, surtout pas à l'élément LCP (Largest Contentful Paint)
 > - Des alternatives complémentaires existent : optimisation des images (WebP, AVIF), CDN et stratégies de cache avancées
 
 Vous cherchez à réduire les temps de chargement de votre site, mais redoutez que Google ne puisse plus indexer correctement vos contenus ? Le lazy loading semble être la solution miracle, mais attention aux pièges ! 
@@ -68,7 +68,7 @@ Les sites implémentant le lazy loading voient des améliorations de classement 
 .
 
 Cependant, une mise en garde s'impose : 
-le risque du lazy loading est qu'il pourrait augmenter l'instabilité de la mise en page, conduisant à un score [Cumulative Layout Shift](https://blotmkt.com/ia/audit/cumulative-layout-shift) (CLS) plus mauvais
+le risque du lazy loading est qu'il pourrait augmenter l'instabilité de la mise en page, conduisant à un score Cumulative Layout Shift (CLS) plus mauvais
 . Cette dégradation peut survenir si les dimensions des images ne sont pas réservées dans le HTML.
 
 ## Comment implémenter un lazy loading qui plaît à Google
@@ -211,6 +211,36 @@ Le lazy loading uniquement des Images below-the-fold résulte en une inversion c
 ---
 
 ---
+
+---
+
+## Articles connexes
+
+- Maîtriser l'[Analyse de logs SEO](https://blotmkt.com/ia/audit/analyse-de-logs-seo) pour optimiser votre budget de crawl
+- [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site) : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
+- [Audit mobile-first](https://blotmkt.com/ia/audit/audit-mobile-first) : la méthode complète pour garantir votre visibilité sur Google
+- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
+- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
+
+---
+
+## Articles connexes
+
+- Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl
+- Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
+- Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google
+- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
+- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
+
+---
+
+## Articles connexes
+
+- Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl
+- Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
+- Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google
+- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
+- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
 
 ---
 

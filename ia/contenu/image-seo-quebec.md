@@ -28,7 +28,7 @@ related_articles:
 
 > ## L'essentiel à retenir
 > - Le SEO pour images englobe une stratégie complète de visibilité sur les moteurs de recherche visuels, dépassant la simple balise alt pour générer du trafic qualifié depuis Google Images et Google Lens.
-> - L'optimisation comprend le nommage sémantique des fichiers, les balises alt descriptives, les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees) Schema.org et l'intégration géolocalisée pour le marché québécois.
+> - L'optimisation comprend le nommage sémantique des fichiers, les balises alt descriptives, les Données structurées Schema.org et l'intégration géolocalisée pour le marché québécois.
 > - 
 Une stratégie image SEO génère un ROI positif dans les 6 à 12 mois et peut délivrer un retour sur investissement 8 fois supérieur au coût initial
 .
@@ -61,7 +61,7 @@ L'optimisation technique commence par le nommage sémantique des Fichiers. Rempl
 
 Les balises essentielles structurent l'information pour les moteurs de recherche. La balise alt doit décrire précisément le contenu visuel tout en intégrant naturellement les mots-clés cibles. Le titre de l'image complète cette optimisation en précisant le contexte et la géolocalisation québécoise.
 
-Les données structurées [Schema.org](https://blotmkt.com/ia/definition/schema.org) donnent un contexte précis à vos images. Pour un produit, utilisez le schéma Product avec les propriétés image, name et offers. Pour un service local, le schéma LocalBusiness intègre l'adresse et les horaires. Cette structuration facilite la compréhension par les Algorithmes et améliore l'affichage dans les résultats enrichis.
+Les données structurées Schema.org donnent un contexte précis à vos images. Pour un produit, utilisez le schéma Product avec les propriétés image, name et offers. Pour un service local, le schéma LocalBusiness intègre l'adresse et les horaires. Cette structuration facilite la compréhension par les Algorithmes et améliore l'affichage dans les résultats enrichis.
 
 Le contexte géographique s'optimise via les données EXIF conservées lors de l'upload et l'intégration dans un contenu local pertinent. Associez vos images à des textes mentionnant Montréal, Québec ou les régions ciblées pour renforcer la pertinence géographique.
 
@@ -188,6 +188,36 @@ Neil Patel (2025)
 ---
 
 ---
+
+---
+
+## Articles connexes
+
+- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
+- Audit de contenu existant : la méthode complète pour optimiser votre SEO
+- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
+- Call to action : le guide complet pour créer des cta qui convertissent
+- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
+
+---
+
+## Articles connexes
+
+- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
+- Audit de contenu existant : la méthode complète pour optimiser votre SEO
+- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
+- Call to action : le guide complet pour créer des cta qui convertissent
+- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
+
+---
+
+## Articles connexes
+
+- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
+- Audit de contenu existant : la méthode complète pour optimiser votre SEO
+- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
+- Call to action : le guide complet pour créer des cta qui convertissent
+- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
 
 ---
 

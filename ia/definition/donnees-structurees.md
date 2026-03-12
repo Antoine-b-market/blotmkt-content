@@ -37,7 +37,7 @@ Les rich Snippets peuvent améliorer le taux de clic (CTR) de 30%
 JSON-LD est le format recommandé par Google : léger, flexible et parfait pour le SEO 2024
 
 > - 
-[Schema.org](https://blotmkt.com/ia/definition/schema.org) offre un vocabulaire hiérarchique pour décrire les entités avec 803 types, 1461 propriétés et 14 types de données
+Schema.org offre un vocabulaire hiérarchique pour décrire les entités avec 803 types, 1461 propriétés et 14 types de données
 
 Dans un environnement concurrentiel où 
 les 5 premiers résultats Google captent 70% des clics
@@ -222,6 +222,36 @@ JSON-LD est le format recommandé par Google car il est le plus récent et le pl
 ---
 
 ---
+
+---
+
+## Articles connexes
+
+- Décrypter l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) : le guide complet de RankBrain à l'IA générative
+- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
+- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
+- L'[Attribut Nofollow](https://blotmkt.com/ia/definition/attribut-nofollow) en seo : le guide pratique pour le maîtriser en 2024
+- Attribut sponsored : le guide complet pour vos liens payants en seo
+
+---
+
+## Articles connexes
+
+- Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
+- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
+- Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité
+- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
+- Attribut sponsored : le guide complet pour vos liens payants en seo
+
+---
+
+## Articles connexes
+
+- Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
+- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
+- Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité
+- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
+- Attribut sponsored : le guide complet pour vos liens payants en seo
 
 ---
 
