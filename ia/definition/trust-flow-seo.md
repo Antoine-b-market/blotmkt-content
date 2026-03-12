@@ -151,7 +151,7 @@ Les métriques TF et CF répondent positivement aux efforts d'amélioration. Cr�
   "@graph": 
     {
       "@type": "Article",
-      "headline": "Trust flow SEO : le guide pour aligner votre métrique avec l'E-E-A-T de [Google",
+      "headline": "Trust flow SEO : le guide pour aligner votre métrique avec l'E-E-A-T de Google",
       "description": "Découvrez comment le Trust Flow de Majestic est un indicateur clé pour le Trust de l'E-E-A-T. Apprenez à l'améliorer pour renforcer la confiance de Google.",
       "url": "https://blotmkt.com/ia/définition/trust-flow-seo",
       "datePublished": "2026-03-09 08:05",
@@ -180,7 +180,7 @@ Les métriques TF et CF répondent positivement aux efforts d'amélioration. Cr�
         {
           "@type": "Question",
           "name": "Quel est un bon score de Trust Flow ?",
-          "accepted[Answer": {
+          "acceptedAnswer": {
             "@type": "Answer",
             "text": "Pour des sites visant une grande audience, un Trust Flow supérieur à 60 est excellent, entre 40 et 50 est moyen. Cependant, l'important est de comparer votre score avec celui de vos concurrents directs plutôt que viser un chiffre absolu."
           }
@@ -216,14 +216,6 @@ Les métriques TF et CF répondent positivement aux efforts d'amélioration. Cr�
 ```
 
 ---
-
-## Articles connexes
-
-- Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
-- L'[Attribut Nofollow](https://blotmkt.com/ia/definition/attribut-nofollow) en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
 
 ---
 

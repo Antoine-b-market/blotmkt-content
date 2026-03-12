@@ -179,7 +179,7 @@ Une pénalité manuelle implique une intervention humaine avec notification obli
           "name": "Comment sortir d'une pénalité manuelle pour liens artificiels ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Identifiez tous les liens problématiques, supprimez-les ou utilisez l'outil de désaveu, documentez chaque action dans un [Fichier partagé, puis soumettez une demande de réexamen détaillée expliquant les corrections apportées et les mesures préventives mises en place."
+            "text": "Identifiez tous les liens problématiques, supprimez-les ou utilisez l'outil de désaveu, documentez chaque action dans un Fichier partagé, puis soumettez une demande de réexamen détaillée expliquant les corrections apportées et les mesures préventives mises en place."
           }
         },
         {
@@ -197,14 +197,6 @@ Une pénalité manuelle implique une intervention humaine avec notification obli
 ```
 
 ---
-
-## Articles connexes
-
-- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
-- [Désindexation Google](https://blotmkt.com/ia/popularite/desindexation-google): guide pratique pour contrôler votre visibilité en ligne
-- [Facteurs de classement Google](https://blotmkt.com/ia/popularite/facteurs-de-classement-google) : le guide basé sur la documentation officielle
-- Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
-- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
 
 ---
 

@@ -136,7 +136,7 @@ Les entreprises doivent s'assurer que leur site est bien référencé pour ces t
     {
       "@type": "Article",
       "headline": "L'intention navigationnelle : le signal client à intégrer dans votre tracking omnicanal",
-      "[description": "Découvrez ce qu'est l'intention navigationnelle en SEO et comment son analyse, couplée à l'IA, peut révéler des insights sur le parcours client omnicanal.",
+      "description": "Découvrez ce qu'est l'intention navigationnelle en SEO et comment son analyse, couplée à l'IA, peut révéler des insights sur le parcours client omnicanal.",
       "url": "https://blotmkt.com/ia/définition/intention-navigationnelle",
       "datePublished": "2026-03-09 09:09",
       "dateModified": "2026-03-09 09:09",
@@ -179,7 +179,7 @@ Les entreprises doivent s'assurer que leur site est bien référencé pour ces t
         },
         {
           "@type": "Question",
-          "name": "Quels sont les 4 types d'[Intention de recherche ?",
+          "name": "Quels sont les 4 types d'Intention de recherche ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Les quatre intentions principales sont : informationnelle (recherche d'informations), navigationnelle (accès à un site connu), commerciale (comparaison avant achat) et transactionnelle (action d'achat immédiate)."
@@ -200,14 +200,6 @@ Les entreprises doivent s'assurer que leur site est bien référencé pour ces t
 ```
 
 ---
-
-## Articles connexes
-
-- Décrypter l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
-- L'[Attribut Nofollow](https://blotmkt.com/ia/definition/attribut-nofollow) en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
 
 ---
 

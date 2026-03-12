@@ -133,7 +133,7 @@ Non, mais les fuites d'API Google de 2024 confirment que plusieurs variantes mod
   "@graph": 
     {
       "@type": "Article",
-      "headline": "PageRank [Google : comprendre l'algorithme historique et son rôle actuel en SEO",
+      "headline": "PageRank Google : comprendre l'algorithme historique et son rôle actuel en SEO",
       "description": "Plongez dans l'histoire et le fonctionnement du PageRank de Google. Découvrez son impact fondateur et sa pertinence comme signal de classement SEO en 2024.",
       "url": "https://blotmkt.com/ia/définition/pagerank-google",
       "datePublished": "2026-03-09 08:09",
@@ -162,7 +162,7 @@ Non, mais les fuites d'API Google de 2024 confirment que plusieurs variantes mod
         {
           "@type": "Question",
           "name": "Qu'est-ce que le link juice en SEO et comment ça marche ?",
-          "accepted[Answer": {
+          "acceptedAnswer": {
             "@type": "Answer",
             "text": "Le 'link juice' représente la valeur d'autorité transmise d'une page à une autre via les liens. Si une page a un PageRank de 0,25 et pointe vers deux pages, elle transfère 0,125 de sa valeur à chacune. Cette métaphore illustre comment l'autorité circule sur le web selon les principes du PageRank."
           }
@@ -190,14 +190,6 @@ Non, mais les fuites d'API Google de 2024 confirment que plusieurs variantes mod
 ```
 
 ---
-
-## Articles connexes
-
-- Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité
-- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
 
 ---
 

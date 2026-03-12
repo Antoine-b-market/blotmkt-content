@@ -56,7 +56,7 @@ ChatGPT Search et Perplexity puisent massivement dans les Contenus structurés p
 ### Propriétés d'entité essentielles
 
 Article Schema permet de préciser l'auteur, la date de publication, la date de modification, l'organisation éditrice, et l'image principale. Ces informations aident Google à évaluer la fraîcheur et la provenance du contenu
-. Implémentez des Balises [Schema.org](https://blotmkt.com/ia/definition/schema.org) précises comme `author` et `publisher` pour identifier clairement les créateurs du contenu.
+. Implémentez des Balises S[chema.org précises comme `author` et `publisher` pour identifier clairement les créateurs du contenu.
 
 Liez ces entités à des profils d'autorité via la propriété `sameAs`. La propriété `citation` permet de référencer les sources (articles, études, données) qui soutiennent vos affirmations, créant ainsi une chaîne de confiance vérifiable par les Algorithmes.
 
@@ -106,7 +106,7 @@ L'IA peut compiler de l'expertise à partir de sources existantes, mais elle ne 
 ## Questions fréquentes
 
 ### Comment Google vérifie-t-il la source d'une information ?
-Google utilise les données structurées schema.org et les signaux E-E-A-T pour évaluer la provenance. Les propriétés comme `author`, `publisher` et `citation` créent une chaîne de confiance algorithmique vérifiable.
+Google utilise les données structurées [Schema.org](https://blotmkt.com/ia/definition/schema.org) et les signaux E-E-A-T pour évaluer la provenance. Les propriétés comme `author`, `publisher` et `citation` créent une chaîne de confiance algorithmique vérifiable.
 
 ### Est-ce que les LLMs tiennent compte de la provenance des données ?
 Oui, les IA génératives puisent massivement dans les contenus structurés. Une provenance claire via les données structurées améliore les chances d'être citée correctement par ChatGPT Search, Perplexity et les AI Overviews de Google.
@@ -135,7 +135,7 @@ Iguane Media, 2026
     {
       "@type": "Article",
       "headline": "Provenance des données : le signal de confiance pour l'E-E-A-T et les IA génératives",
-      "[description": "Découvrez comment la provenance des données, via les données structurées, devient un pilier de l'E-E-A-T pour renforcer la confiance de Google et des LLMs.",
+      "description": "Découvrez comment la provenance des données, via les données structurées, devient un pilier de l'E-E-A-T pour renforcer la confiance de Google et des LLMs.",
       "url": "https://blotmkt.com/ia/IA SEO - GEO/provenance-des-donnees",
       "datePublished": "2026-03-09 18:22",
       "dateModified": "2026-03-09 18:22",
@@ -162,7 +162,7 @@ Iguane Media, 2026
       "mainEntity": 
         {
           "@type": "Question",
-          "name": "Comment [Google) vérifie-t-il la source d'une information ?",
+          "name": "Comment Google) vérifie-t-il la source d'une information ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Google utilise les données structurées schema.org et les signaux E-E-A-T pour évaluer la provenance. Les propriétés comme author, publisher et citation créent une chaîne de confiance algorithmique vérifiable par les moteurs de recherche."
@@ -199,14 +199,6 @@ Iguane Media, 2026
 ```
 
 ---
-
-## Articles connexes
-
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- [Algorithme de recommandation](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation) : le guide complet pour éviter les biais et la sur-dépendance
-- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
 
 ---
 

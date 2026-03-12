@@ -90,7 +90,7 @@ Identifiez les pages sans trafic organique depuis six mois et surveillez celles 
 
 ### Approche stratégique de remédiation
 
-**Stratégie 1 - Enrichissement** : Approfondissez les pages existantes en ajoutant des données exclusives, des exemples concrets et en répondant mieux à l'Intention de recherche. 
+**Stratégie 1 - Enrichissement** : Approfondissez les pages existantes en ajoutant des données exclusives, des exemples concrets et en répondant mieux à l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche). 
 Assurez-vous que le contenu IA soit révisé par un humain, apporte de nouvelles perspectives et bénéficie réellement à votre audience
 .
 
@@ -133,7 +133,7 @@ Cette politique renforcée se concentre sur le comportement abusif de production
     {
       "@type": "Article",
       "headline": "Le thin content en seo : le guide pour l'identifier et le corriger avant la pénalité",
-      "description": "Découvrez ce qu'est le thin content en SEO, pourquoi il pénalise votre site et comment l'[Auditer et le corriger pour éviter les sanctions de Google.",
+      "description": "Découvrez ce qu'est le thin content en SEO, pourquoi il pénalise votre site et comment l'Auditer et le corriger pour éviter les sanctions de Google.",
       "url": "https://blotmkt.com/ia/Contenu/thin-content-seo",
       "datePublished": "2026-03-09 19:33",
       "dateModified": "2026-03-09 19:33",
@@ -197,14 +197,6 @@ Cette politique renforcée se concentre sur le comportement abusif de production
 ```
 
 ---
-
-## Articles connexes
-
-- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
 
 ---
 

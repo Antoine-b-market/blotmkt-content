@@ -121,7 +121,7 @@ Une faible baisse pendant quelques jours est possible, due aux perturbations cau
     {
       "@type": "Article",
       "headline": "Refonte site SEO : le guide pour moderniser votre site sans perdre votre trafic",
-      "[description": "Découvrez notre méthodologie de refonte de site SEO. Préservez votre trafic, améliorez l'UX et maximisez votre ROI. Le guide complet pour une migration réussie.",
+      "description": "Découvrez notre méthodologie de refonte de site SEO. Préservez votre trafic, améliorez l'UX et maximisez votre ROI. Le guide complet pour une migration réussie.",
       "url": "https://blotmkt.com/ia/Stratégie/refonte-site-seo",
       "datePublished": "2026-03-09 16:47",
       "dateModified": "2026-03-09 16:47",
@@ -149,7 +149,7 @@ Une faible baisse pendant quelques jours est possible, due aux perturbations cau
         {
           "@type": "Question",
           "name": "Qu'est-ce qu'une refonte de site SEO et en quoi diffère-t-elle d'une simple refonte graphique ?",
-          "accepted[Answer": {
+          "acceptedAnswer": {
             "@type": "Answer",
             "text": "Une refonte SEO intègre l'optimisation technique, la structure, le contenu et l'UX dès la conception, tandis qu'une refonte graphique se concentre uniquement sur l'interface utilisateur et l'esthétique. La première préserve et améliore la visibilité organique, la seconde peut la compromettre."
           }
@@ -185,14 +185,6 @@ Une faible baisse pendant quelques jours est possible, due aux perturbations cau
 ```
 
 ---
-
-## Articles connexes
-
-- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
-- [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal) : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

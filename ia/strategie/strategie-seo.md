@@ -133,7 +133,7 @@ Commencez par un Audit complet identifiant les freins techniques et les opportun
   "@graph": 
     {
       "@type": "Article",
-      "headline": "Stratégie SEO : le guide pour aligner [contenu, ROI et IA générative",
+      "headline": "Stratégie SEO : le guide pour aligner contenu, ROI et IA générative",
       "description": "Découvrez comment créer une stratégie SEO performante. Notre guide complet vous aide à aligner votre contenu, anticiper le GEO et maximiser votre ROI.",
       "url": "https://blotmkt.com/ia/Stratégie/strategie-seo",
       "datePublished": "2026-03-09 16:34",
@@ -169,7 +169,7 @@ Commencez par un Audit complet identifiant les freins techniques et les opportun
         },
         {
           "@type": "Question",
-          "name": "Quels sont les [piliers d'une bonne stratégie SEO ?",
+          "name": "Quels sont les piliers d'une bonne stratégie SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Une stratégie efficace repose sur quatre piliers : l'Audit technique et sémantique pour identifier les freins et opportunités, la création de contenu à forte valeur ajoutée via des cocons sémantiques, le netlinking de qualité pour renforcer l'autorité, et l'analyse continue des performances avec optimisation itérative."
@@ -190,14 +190,6 @@ Commencez par un Audit complet identifiant les freins techniques et les opportun
 ```
 
 ---
-
-## Articles connexes
-
-- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

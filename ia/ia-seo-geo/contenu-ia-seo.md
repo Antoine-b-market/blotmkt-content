@@ -146,7 +146,7 @@ Le Blog du Communicant, 2026
     {
       "@type": "Article",
       "headline": "Contenu IA SEO : le guide pour une stratégie de référencement sémantique",
-      "description": "Découvrez comment le contenu IA SEO transforme votre référencement. Passez des [Mots-clés à l'intention utilisateur pour une pertinence maximale et un meilleur ROI.",
+      "description": "Découvrez comment le contenu IA SEO transforme votre référencement. Passez des Mots-clés à l'intention utilisateur pour une pertinence maximale et un meilleur ROI.",
       "url": "https://blotmkt.com/ia/IA SEO - GEO/contenu-ia-seo",
       "datePublished": "2026-03-09 18:47",
       "dateModified": "2026-03-09 18:47",
@@ -184,7 +184,7 @@ Le Blog du Communicant, 2026
           "name": "Comment utiliser ChatGPT pour écrire un article SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Créez des prompts structurés incluant le rôle de l'IA, le contexte précis, les instructions de format et les objectifs SEO. Définissez clairement longueur, audience et [action désirée. La supervision humaine pour fact-checking, ajout d'expertise et alignement éditorial reste indispensable pour garantir qualité et authenticité."
+            "text": "Créez des prompts structurés incluant le rôle de l'IA, le contexte précis, les instructions de format et les objectifs SEO. Définissez clairement longueur, audience et action désirée. La supervision humaine pour fact-checking, ajout d'expertise et alignement éditorial reste indispensable pour garantir qualité et authenticité."
           }
         },
         {
@@ -210,14 +210,6 @@ Le Blog du Communicant, 2026
 ```
 
 ---
-
-## Articles connexes
-
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- [Algorithme de recommandation](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation) : le guide complet pour éviter les biais et la sur-dépendance
-- [Citations par IA](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia) : comment l'intelligence artificielle réinvente votre contenu
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
-- Entité nommée SEO : le guide pour devenir une référence aux yeux de Google
 
 ---
 

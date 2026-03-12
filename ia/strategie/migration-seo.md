@@ -57,7 +57,7 @@ Les risques sont considérables : sans Redirections 301 correctement implément�
 
 ### Phase 1 : pré-migration, l'audit exhaustif
 
-La préparation inclut un backup complet avec tous les éléments critiques : versions AMP, [Hreflang](https://blotmkt.com/ia/audit/hreflang), données structurées, et dépendances JavaScript
+La préparation inclut un backup complet avec tous les éléments critiques : versions AMP, H[reflang, [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees), et dépendances JavaScript
 . L'audit technique doit identifier chaque URL, Analyser les performances actuelles et créer le mapping de redirection. 
 Intégrez les sitemaps XML au crawl et connectez Google Analytics et Search Console pour détecter les pages orphelines et les indicateurs de performance
 .
@@ -137,7 +137,7 @@ Auditez exhaustivement le site existant, créez un plan de redirection rigoureux
     {
       "@type": "Article",
       "headline": "Migration SEO : la méthode complète pour une refonte de site sans perte de trafic",
-      "[description": "Découvrez notre guide complet sur la migration SEO. Suivez notre checklist étape par étape pour réussir la refonte de votre site sans impacter votre trafic.",
+      "description": "Découvrez notre guide complet sur la migration SEO. Suivez notre checklist étape par étape pour réussir la refonte de votre site sans impacter votre trafic.",
       "url": "https://blotmkt.com/ia/Stratégie/migration-seo",
       "datePublished": "2026-03-09 16:44",
       "dateModified": "2026-03-09 16:44",
@@ -167,7 +167,7 @@ Auditez exhaustivement le site existant, créez un plan de redirection rigoureux
           "name": "Quand faut-il faire une migration de site ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Une migration s'impose lors d'un changement de domaine, de CMS, de [Structure d'URLs massive, ou pour fusionner plusieurs sites. Elle devient nécessaire quand les contraintes techniques limitent la croissance ou l'évolution de votre stratégie digitale."
+            "text": "Une migration s'impose lors d'un changement de domaine, de CMS, de Structure d'URLs massive, ou pour fusionner plusieurs sites. Elle devient nécessaire quand les contraintes techniques limitent la croissance ou l'évolution de votre stratégie digitale."
           }
         },
         {
@@ -201,14 +201,6 @@ Auditez exhaustivement le site existant, créez un plan de redirection rigoureux
 ```
 
 ---
-
-## Articles connexes
-
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

@@ -124,7 +124,7 @@ Site Référencement (2025)
     {
       "@type": "Article",
       "headline": "Le mandat SEO pour entreprise : de la stratégie à la performance et la visibilité",
-      "description": "Découvrez comment un mandat SEO d'entreprise aligne vos objectifs business avec les algorithmes. Expertise en diagnostic, [Contenu et autorité pour une performance durable.",
+      "description": "Découvrez comment un mandat SEO d'entreprise aligne vos objectifs business avec les algorithmes. Expertise en diagnostic, Contenu et autorité pour une performance durable.",
       "url": "https://blotmkt.com/ia/Stratégie/mandat-seo-entreprise",
       "datePublished": "2026-03-09 17:02",
       "dateModified": "2026-03-09 17:02",
@@ -154,7 +154,7 @@ Site Référencement (2025)
           "name": "Qu'est-ce qu'un mandat SEO entreprise et pourquoi est-il stratégique ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Un mandat SEO entreprise est un partenariat stratégique long terme qui aligne objectifs business et algorithmes des moteurs de [Recherche. Il transforme votre entreprise en source d'information privilégiée, générant un ROI supérieur aux autres canaux avec des taux de conversion 9 fois plus élevés que la prospection directe."
+            "text": "Un mandat SEO entreprise est un partenariat stratégique long terme qui aligne objectifs business et algorithmes des moteurs de Recherche. Il transforme votre entreprise en source d'information privilégiée, générant un ROI supérieur aux autres canaux avec des taux de conversion 9 fois plus élevés que la prospection directe."
           }
         },
         {
@@ -188,14 +188,6 @@ Site Référencement (2025)
 ```
 
 ---
-
-## Articles connexes
-
-- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
-- [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal) : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

@@ -142,7 +142,7 @@ Il est crucial de ne pas voir le tarif d'une agence SEO comme une dépense, mais
     {
       "@type": "Article",
       "headline": "Coût d'acquisition SEO : calcul, benchmarks et stratégies pour le réduire",
-      "[description": "Découvrez comment calculer votre coût d'acquisition SEO. Comparez-le aux benchmarks du secteur et appliquez nos stratégies pour réduire vos dépenses et maximiser votre ROI.",
+      "description": "Découvrez comment calculer votre coût d'acquisition SEO. Comparez-le aux benchmarks du secteur et appliquez nos stratégies pour réduire vos dépenses et maximiser votre ROI.",
       "url": "https://blotmkt.com/ia/Stratégie/cout-acquisition-seo",
       "datePublished": "2026-03-09 17:31",
       "dateModified": "2026-03-09 17:31",
@@ -169,7 +169,7 @@ Il est crucial de ne pas voir le tarif d'une agence SEO comme une dépense, mais
       "mainEntity": 
         {
           "@type": "Question",
-          "name": "[Quelle est la formule pour calculer le coût d'acquisition SEO ?",
+          "name": "Quelle est la formule pour calculer le coût d'acquisition SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "La formule est : (Total des dépenses SEO sur une période) / (Nombre de nouveaux clients acquis via le SEO sur la même période). Il faut lisser le calcul sur 6 à 12 mois minimum car le SEO nécessite du temps pour délivrer ses résultats optimaux."
@@ -198,14 +198,6 @@ Il est crucial de ne pas voir le tarif d'une agence SEO comme une dépense, mais
 ```
 
 ---
-
-## Articles connexes
-
-- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
-- [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal) : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

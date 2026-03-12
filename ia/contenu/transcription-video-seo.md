@@ -130,7 +130,7 @@ Surveillez l'évolution des positions sur les mots-clés de longue traîne, l'au
   "@graph": 
     {
       "@type": "Article",
-      "headline": "Transcription vidéo SEO : le guide pour optimiser votre contenu pour [Google et l'IA",
+      "headline": "Transcription vidéo SEO : le guide pour optimiser votre contenu pour Google et l'IA",
       "description": "Découvrez comment la transcription vidéo SEO transforme votre contenu. Améliorez votre classement, accessibilité et engagement. Le guide complet pour 2024.",
       "url": "https://blotmkt.com/ia/contenu/transcription-video-seo",
       "datePublished": "2026-03-09 07:38",
@@ -158,7 +158,7 @@ Surveillez l'évolution des positions sur les mots-clés de longue traîne, l'au
       "mainEntity": 
         {
           "@type": "Question",
-          "name": "Est-ce que [Google lit le texte d'une vidéo ?",
+          "name": "Est-ce que Google lit le texte d'une vidéo ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Non, Google ne peut pas directement lire le contenu audio ou visuel. Il a besoin de texte associé comme la transcription pour comprendre et indexer le contenu vidéo. La transcription fournit ce contexte textuel indispensable au référencement."
@@ -187,14 +187,6 @@ Surveillez l'évolution des positions sur les mots-clés de longue traîne, l'au
 ```
 
 ---
-
-## Articles connexes
-
-- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
 
 ---
 

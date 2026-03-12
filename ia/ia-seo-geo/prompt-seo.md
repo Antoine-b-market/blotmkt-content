@@ -182,7 +182,7 @@ Les prompts SEO sont de véritables outils d'Analyse éditoriale, capables de tr
     {
       "@type": "Article",
       "headline": "Le prompt SEO : votre guide pour une visibilité accrue en ligne et sur l'IA",
-      "[description": "Découvrez le prompt SEO, une stratégie clé pour optimiser votre contenu pour les moteurs traditionnels et être cité par les IA. Maîtrisez l'optimisation générative.",
+      "description": "Découvrez le prompt SEO, une stratégie clé pour optimiser votre contenu pour les moteurs traditionnels et être cité par les IA. Maîtrisez l'optimisation générative.",
       "url": "https://blotmkt.com/ia/IA SEO - GEO/prompt-seo",
       "datePublished": "2026-03-09 18:49",
       "dateModified": "2026-03-09 18:49",
@@ -220,7 +220,7 @@ Les prompts SEO sont de véritables outils d'Analyse éditoriale, capables de tr
           "name": "Comment savoir si mon contenu est cité par les IA ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Testez plus de 100 prompts sur ChatGPT, Gemini et Perplexity pour évaluer la visibilité de votre marque et celle de vos concurrents. Identifiez les prompts stratégiques et les [Intentions pour définir votre part de voix générative et vos KPIs d'exposition IA."
+            "text": "Testez plus de 100 prompts sur ChatGPT, Gemini et Perplexity pour évaluer la visibilité de votre marque et celle de vos concurrents. Identifiez les prompts stratégiques et les Intentions pour définir votre part de voix générative et vos KPIs d'exposition IA."
           }
         },
         {
@@ -246,14 +246,6 @@ Les prompts SEO sont de véritables outils d'Analyse éditoriale, capables de tr
 ```
 
 ---
-
-## Articles connexes
-
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- [Algorithme de recommandation](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation) : le guide complet pour éviter les biais et la sur-dépendance
-- [Citations par IA](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia) : comment l'intelligence artificielle réinvente votre contenu
-- [Contenu IA SEO](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo) : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
 
 ---
 

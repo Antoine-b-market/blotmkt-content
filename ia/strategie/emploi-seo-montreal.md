@@ -138,7 +138,7 @@ L'avantage des formations certifiantes est l'accès à l'expertise d'un formateu
     {
       "@type": "Article",
       "headline": "Le marché de l'emploi SEO à Montréal : guide des rôles, salaires et compétences",
-      "[description": "Explorez le marché de l'emploi SEO à Montréal. Notre guide complet sur les postes, les salaires et les compétences clés pour recruter ou être recruté.",
+      "description": "Explorez le marché de l'emploi SEO à Montréal. Notre guide complet sur les postes, les salaires et les compétences clés pour recruter ou être recruté.",
       "url": "https://blotmkt.com/ia/Stratégie/emploi-seo-montreal",
       "datePublished": "2026-03-09 17:36",
       "dateModified": "2026-03-09 17:36",
@@ -166,7 +166,7 @@ L'avantage des formations certifiantes est l'accès à l'expertise d'un formateu
         {
           "@type": "Question",
           "name": "Comment devenir spécialiste SEO à Montréal ?",
-          "accepted[Answer": {
+          "acceptedAnswer": {
             "@type": "Answer",
             "text": "Suivre une formation SEO d'une durée de 6 heures puis acquérir une expérience pratique sur des projets concrets. Une certification Google Analytics est recommandée ainsi qu'une certification en référencement web reconnue au Québec."
           }
@@ -202,14 +202,6 @@ L'avantage des formations certifiantes est l'accès à l'expertise d'un formateu
 ```
 
 ---
-
-## Articles connexes
-
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

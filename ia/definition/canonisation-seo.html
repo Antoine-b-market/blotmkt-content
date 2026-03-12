@@ -104,16 +104,16 @@ L'allocation de ressources de crawl et d'indexation vers du contenu dupliqué ut
 Ces méthodes peuvent se combiner pour renforcer l'efficacité, augmentant les chances que votre URL canonique préférée apparaisse dans les résultats
 .</p>
 <h3>La balise link rel="canonical" dans le head</h3>
-<p>Pour implémenter une balise canonical, ajoutez <link rel="canonical" href="URL-de-la-page-canonique" /> dans la section <head> de votre page HTML
+<p>Pour implémenter une balise canonical, ajoutez &lt;link rel="canonical" href="URL-de-la-page-canonique" /&gt; dans la section &lt;head&gt; de votre page HTML
 . 
 Utilisez des chemins absolus plutôt que relatifs avec la balise rel="canonical" car les chemins relatifs peuvent causer des problèmes à long terme
 . (Source : Google Developers, 2025)</p>
-<p>La balise rel="canonical" n'est acceptée que dans la section <head> du HTML, nécessitant un HTML valide. Si vous utilisez JavaScript pour l'ajouter, assurez-vous d'injecter correctement l'élément canonical
+<p>La balise rel="canonical" n'est acceptée que dans la section &lt;head&gt; du HTML, nécessitant un HTML valide. Si vous utilisez JavaScript pour l'ajouter, assurez-vous d'injecter correctement l'élément canonical
 .</p>
 <h3>L'en-tête HTTP Link pour les documents non-HTML</h3>
 <p>L'en-tête HTTP Link avec un Attribut cible rel="canonical" peut indiquer l'URL canonique pour les documents non-HTML comme les PDF
 . 
-Pour les PDF qui ne peuvent contenir de balises dans le <head>, utilisez des entêtes HTTP comme : HTTP/1.1 200 OK Link: <a href="https://votre-site.fr/page/canonical/">https://votre-site.fr/page/canonical/</a>; rel="canonical"
+Pour les PDF qui ne peuvent contenir de balises dans le &lt;head&gt;, utilisez des entêtes HTTP comme : HTTP/1.1 200 OK Link: &lt;https://votre-site.fr/page/canonical/&gt;; rel="canonical"
 .</p>
 <h2>Erreurs communes et bonnes pratiques pour une canonisation efficace</h2>
 <p>Évitez de créer des chaînes de canonicals (une canonical pointant vers une autre) et n'ajoutez pas de canonical vers une URL redirigée ou en erreur 404
@@ -125,7 +125,7 @@ Ne pointez jamais une balise canonical vers une URL en redirection 301, placez p
 . 
 La redirection 301 redirige à la fois Moteurs et utilisateurs, tandis que l'URL canonique ne s'adresse qu'aux moteurs sans rediriger les utilisateurs
 . (Source : Réussir Mon Ecommerce, 2022)</p>
-<p>La balise canonical doit être insérée dans la section <head> du HTML, toujours utiliser une URL absolue avec le domaine complet, et vérifier que l'URL canonique renvoie un code HTTP 200
+<p>La balise canonical doit être insérée dans la section &lt;head&gt; du HTML, toujours utiliser une URL absolue avec le domaine complet, et vérifier que l'URL canonique renvoie un code HTTP 200
 .</p>
 <h2>Cas pratiques : quand et pourquoi utiliser la canonisation SEO</h2>
 <p>Pour un produit disponible en plusieurs tailles générant des URL dédiées avec les mêmes informations, placez une balise canonique vers la fiche produit générale, permettant à Google de ne prendre en compte que l'URL principale
@@ -173,22 +173,14 @@ Des extensions comme SEOquake Analysent les balises canonical, la surveillance d
 <hr />
 <p><em>Sources : Neper (2024), Digital Passengers (2025), FlyRank (2025), Google Developers (2025), Objectif Papillon (2024), Abondance (2025)</em></p>
 <hr />
-<h2>Articles connexes</h2>
-<ul>
-<li>Décrypter l'<a href="https://blotmkt.com/ia/definition/algorithme-google">Algorithme Google</a> : le guide complet de RankBrain à l'IA générative</li>
-<li>AMP et SEO : le guide pour comprendre son impact réel aujourd'hui</li>
-<li><a href="https://blotmkt.com/ia/definition/ancre-de-lien">Ancre de lien</a> : le guide pour maîtriser votre profil de liens sans pénalité</li>
-<li>L'<a href="https://blotmkt.com/ia/definition/attribut-nofollow">Attribut Nofollow</a> en seo : le guide pratique pour le maîtriser en 2024</li>
-<li>Attribut sponsored : le guide complet pour vos liens payants en seo</li>
-</ul>
 <hr />
 <h2>Articles connexes</h2>
 <ul>
-<li><a href="https://blotmkt.com/ia/definition/algorithme-google">Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative</a></li>
-<li><a href="https://blotmkt.com/ia/definition/amp-google-seo">AMP et SEO : le guide pour comprendre son impact réel aujourd'hui</a></li>
-<li><a href="https://blotmkt.com/ia/definition/ancre-de-lien">Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité</a></li>
-<li><a href="https://blotmkt.com/ia/definition/attribut-nofollow">L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024</a></li>
-<li><a href="https://blotmkt.com/ia/definition/attribut-sponsored">Attribut sponsored : le guide complet pour vos liens payants en seo</a></li>
+<li>Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google)</li>
+<li>AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo)</li>
+<li>Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien)</li>
+<li>L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow)</li>
+<li>Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored)</li>
 </ul>
     </article>
   <footer>

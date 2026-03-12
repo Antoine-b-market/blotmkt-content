@@ -132,7 +132,7 @@ Search Engine Land Personal SEO Guide, 2025
   "@graph": 
     {
       "@type": "Article",
-      "headline": "Personal branding SEO : comment construire votre autorité pour [Google et l'IA",
+      "headline": "Personal branding SEO : comment construire votre autorité pour Google et l'IA",
       "description": "Apprenez à maîtriser le Personal branding SEO. Bâtissez une marque personnelle forte, reconnue par Google et citée par l'IA. Devenez une autorité.",
       "url": "https://blotmkt.com/ia/Stratégie/personal-branding-seo",
       "datePublished": "2026-03-09 16:52",
@@ -179,7 +179,7 @@ Search Engine Land Personal SEO Guide, 2025
           "name": "Dois-je avoir un blog pour mon personal branding ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pas obligatoirement. Votre site personnel n'a pas besoin de dizaines de pages. Vous pouvez même commencer avec une page bien structurée. L'essentiel est la cohérence : [contenu d'expertise régulier, mentions dans des médias fiables, et optimisation de tous vos points de contact numériques."
+            "text": "Pas obligatoirement. Votre site personnel n'a pas besoin de dizaines de pages. Vous pouvez même commencer avec une page bien structurée. L'essentiel est la cohérence : contenu d'expertise régulier, mentions dans des médias fiables, et optimisation de tous vos points de contact numériques."
           }
         },
       ]
@@ -189,14 +189,6 @@ Search Engine Land Personal SEO Guide, 2025
 ```
 
 ---
-
-## Articles connexes
-
-- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
-- [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal) : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

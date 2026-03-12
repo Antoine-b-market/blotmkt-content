@@ -168,7 +168,7 @@ Utilisez Google Search Console (rapport recommandations) pour découvrir la fré
     {
       "@type": "Article",
       "headline": "Le SEO pour Google Discover : stratégies pour le flux d'actualités sans recherche",
-      "[description": "Découvrez comment optimiser votre contenu pour Google Discover. Apprenez les tactiques SEO essentielles pour augmenter votre visibilité et générer du trafic.",
+      "description": "Découvrez comment optimiser votre contenu pour Google Discover. Apprenez les tactiques SEO essentielles pour augmenter votre visibilité et générer du trafic.",
       "url": "https://blotmkt.com/ia/définition/discover-google-seo",
       "datePublished": "2026-03-09 09:19",
       "dateModified": "2026-03-09 09:19",
@@ -196,7 +196,7 @@ Utilisez Google Search Console (rapport recommandations) pour découvrir la fré
         {
           "@type": "Question",
           "name": "Comment apparaître dans le flux Google Discover ?",
-          "accepted[Answer": {
+          "acceptedAnswer": {
             "@type": "Answer",
             "text": "Effectuez une optimisation SEO technique classique en vous concentrant sur les facteurs E-E-A-T, utilisez des images haute qualité (1200px minimum), créez du contenu expert et assurez-vous d'avoir une performance technique mobile optimale."
           }
@@ -232,14 +232,6 @@ Utilisez Google Search Console (rapport recommandations) pour découvrir la fré
 ```
 
 ---
-
-## Articles connexes
-
-- Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité
-- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
 
 ---
 

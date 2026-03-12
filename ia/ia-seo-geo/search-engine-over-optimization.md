@@ -133,7 +133,7 @@ Lorsque les sanctions infligées par Google sont liées à la qualité des liens
     {
       "@type": "Article",
       "headline": "Sur-optimisation seo : les signes qui ne trompent pas et comment éviter la pénalité",
-      "[description": "La sur-optimisation SEO (over-optimization) pénalise votre site. Apprenez à identifier les signes, du keyword stuffing aux liens toxiques, et à l'éviter.",
+      "description": "La sur-optimisation SEO (over-optimization) pénalise votre site. Apprenez à identifier les signes, du keyword stuffing aux liens toxiques, et à l'éviter.",
       "url": "https://blotmkt.com/ia/IA SEO - GEO/search-engine-over-optimization",
       "datePublished": "2026-03-09 18:19",
       "dateModified": "2026-03-09 18:19",
@@ -163,7 +163,7 @@ Lorsque les sanctions infligées par Google sont liées à la qualité des liens
           "name": "Comment savoir si mon site est sur-optimisé ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Les principaux signaux incluent une chute soudaine de trafic, une densité de mots-clés supérieure à 6-7%, des [Contenus illisibles à force de répétitions, et des liens artificiels massifs. Surveillez votre trafic organique via Google Analytics et vérifiez les notifications dans Search Console."
+            "text": "Les principaux signaux incluent une chute soudaine de trafic, une densité de mots-clés supérieure à 6-7%, des Contenus illisibles à force de répétitions, et des liens artificiels massifs. Surveillez votre trafic organique via Google Analytics et vérifiez les notifications dans Search Console."
           }
         },
         {
@@ -189,14 +189,6 @@ Lorsque les sanctions infligées par Google sont liées à la qualité des liens
 ```
 
 ---
-
-## Articles connexes
-
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
-- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
 
 ---
 

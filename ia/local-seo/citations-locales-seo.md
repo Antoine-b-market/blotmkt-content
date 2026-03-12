@@ -117,7 +117,7 @@ Bien que les citations locales se réfèrent principalement aux mentions externe
 ### Balisage de données structurées
 
 Implémentez le balisage schema markup pour votre entreprise sur votre site web
-. Utilisez [Schema.org](https://blotmkt.com/ia/definition/schema.org) type LocalBusiness sur votre page contact pour fournir une source de vérité claire à Google sur votre NAP.
+. Utilisez S[chema.org type LocalBusiness sur votre page contact pour fournir une source de vérité claire à Google sur votre NAP.
 
 ## L'interaction clé entre citations et Google Business Profile (GBP)
 
@@ -172,7 +172,7 @@ Vérifiez régulièrement l'exactitude des citations en utilisant des outils gra
     {
       "@type": "Article",
       "headline": "Le guide complet des citations locales pour dominer le SEO local",
-      "[description": "Découvrez ce que sont les citations locales en SEO, comment les construire et pourquoi elles sont vitales pour votre classement dans Google Maps et le pack local.",
+      "description": "Découvrez ce que sont les citations locales en SEO, comment les construire et pourquoi elles sont vitales pour votre classement dans Google Maps et le pack local.",
       "url": "https://blotmkt.com/ia/Local SEO/citations-locales-seo",
       "datePublished": "2026-03-09 19:08",
       "dateModified": "2026-03-09 19:08",
@@ -236,14 +236,6 @@ Vérifiez régulièrement l'exactitude des citations en utilisant des outils gra
 ```
 
 ---
-
-## Articles connexes
-
-- [Avis clients SEO](https://blotmkt.com/ia/local-seo/avis-clients-seo) : le guide pour décrypter les témoignages et choisir la bonne agence
-- Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA
-- SEO pour Google Business Profile : le guide complet pour dominer la recherche locale
-- NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA
-- Maîtriser l'optimisation google maps pour propulser votre visibilité locale
 
 ---
 

@@ -141,7 +141,7 @@ La stratégie optimale combine les deux approches. Le contenu informatif constru
   "@Graph": 
     {
       "@type": "Article",
-      "headline": "[Intention informative : le guide SEO complet à l'ère de l'ia (SGE)",
+      "headline": "Intention informative : le guide SEO complet à l'ère de l'ia (SGE)",
       "description": "Découvrez ce qu'est l'intention informative et comment l'IA la transforme. Optimisez votre contenu pour SGE et capturez un trafic qualifié au sommet du tunnel.",
       "url": "https://blotmkt.com/ia/définition/intention-informative",
       "datePublished": "2026-03-09 09:13",
@@ -170,7 +170,7 @@ La stratégie optimale combine les deux approches. Le contenu informatif constru
         {
           "@type": "Question",
           "name": "Comment savoir si un mot-clé est informatif ?",
-          "accepted[Answer": {
+          "acceptedAnswer": {
             "@type": "Answer",
             "text": "Un mot-clé informatif se caractérise par l'absence d'intention commerciale directe et la présence d'indicateurs de recherche d'information : questions (comment, pourquoi, qu'est-ce que), termes explicatifs (guide, tutoriel, définition) ou comparatifs objectifs. L'Analyse de la SERP révèle des featured snippets, des PAA et du contenu éducatif plutôt que des pages produits."
           }
@@ -198,14 +198,6 @@ La stratégie optimale combine les deux approches. Le contenu informatif constru
 ```
 
 ---
-
-## Articles connexes
-
-- Décrypter l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
-- L'[Attribut Nofollow](https://blotmkt.com/ia/definition/attribut-nofollow) en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
 
 ---
 

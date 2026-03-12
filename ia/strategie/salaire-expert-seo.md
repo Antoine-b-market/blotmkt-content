@@ -119,7 +119,7 @@ Mettez en avant vos certifications, vos résultats mesurables (ROI généré, po
     {
       "@type": "Article",
       "headline": "Salaire expert SEO : le guide 2024 des rémunérations par niveau d'expérience",
-      "[description": "Découvrez le salaire moyen d'un expert SEO en 2024. Analyse des salaires par séniorité, des compétences clés et de l'impact du freelance vs. CDI.",
+      "description": "Découvrez le salaire moyen d'un expert SEO en 2024. Analyse des salaires par séniorité, des compétences clés et de l'impact du freelance vs. CDI.",
       "url": "https://blotmkt.com/ia/Stratégie/salaire-expert-seo",
       "datePublished": "2026-03-09 17:15",
       "dateModified": "2026-03-09 17:15",
@@ -147,7 +147,7 @@ Mettez en avant vos certifications, vos résultats mesurables (ROI généré, po
         {
           "@type": "Question",
           "name": "Quel est le salaire d'un SEO débutant en France ?",
-          "accepted[Answer": {
+          "acceptedAnswer": {
             "@type": "Answer",
             "text": "Un SEO débutant peut prétendre à 35 000€-42 000€ bruts annuels en CDI, ou débuter en freelance avec un TJM de 270€-300€. L'évolution est rapide avec l'expérience acquise."
           }
@@ -167,14 +167,6 @@ Mettez en avant vos certifications, vos résultats mesurables (ROI généré, po
 ```
 
 ---
-
-## Articles connexes
-
-- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
-- [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal) : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

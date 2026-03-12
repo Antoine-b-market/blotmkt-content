@@ -52,7 +52,7 @@ un Contenu d'actualité connaît un pic de trafic juste après sa publication av
 , le contenu evergreen suit une courbe ascendante stable.
 
 Les formats privilégiés incluent 
-des guides détaillés, des tutoriels pas-à-pas, des glossaires, et des FAQ qui permettent de capter un trafic organique stable, essentiel pour toute Stratégie SEO
+des guides détaillés, des tutoriels pas-à-pas, des glossaires, et des FAQ qui permettent de capter un trafic organique stable, essentiel pour toute [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo)
 . Un guide "Comment choisir le meilleur logiciel de comptabilité" restera pertinent pendant des années, contrairement à "Les tendances comptables 2024" qui perdra rapidement sa valeur.
 
 ### Contenu evergreen vs contenu d'actualité : deux courbes opposées
@@ -81,7 +81,7 @@ Un bon contenu evergreen peut devenir une ressource de référence, et ainsi gé
 ### Étape 1 : Recherche de mots-clés intemporels
 
 Utilisez des outils comme Answer the Public pour découvrir les questions que les internautes se posent, Analysez les mots-clés à fort volume de recherche et faible saisonnalité avec des outils comme Semrush ou Ahrefs, et servez-vous de Google Trends pour repérer les sujets stables sur plusieurs années
-. L'objectif : cibler des requêtes informationnelles avec un volume stable et une Intention de recherche claire qui transcende les modes passagères.
+. L'objectif : cibler des requêtes informationnelles avec un volume stable et une [Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche) claire qui transcende les modes passagères.
 
 ### Étape 2 : Structuration et rédaction approfondie
 
@@ -149,7 +149,7 @@ Programmez des révisions semestrielles pour actualiser les statistiques, exempl
   "@Graph": 
     {
       "@type": "Article",
-      "headline": "[contenu evergreen : le pilier de votre stratégie SEO durable",
+      "headline": "contenu evergreen : le pilier de votre stratégie SEO durable",
       "description": "Découvrez ce qu'est le contenu evergreen, comment le créer et l'intégrer dans votre maillage interne pour booster votre autorité et votre trafic sur le long terme.",
       "url": "https://blotmkt.com/ia/contenu/contenu-evergreen",
       "datePublished": "2026-03-09 07:09",
@@ -177,7 +177,7 @@ Programmez des révisions semestrielles pour actualiser les statistiques, exempl
       "mainEntity": 
         {
           "@type": "Question",
-          "name": "Qu'est-ce qu'un [Contenu evergreen et en quoi se différencie-t-il d'un contenu d'actualité ?",
+          "name": "Qu'est-ce qu'un Contenu evergreen et en quoi se différencie-t-il d'un contenu d'actualité ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Un contenu evergreen est un contenu pérenne qui reste pertinent dans le temps, contrairement au contenu d'actualité qui génère un pic de trafic éphémère puis retombe rapidement. Il traite de sujets intemporels et répond à des questions récurrentes."
@@ -214,14 +214,6 @@ Programmez des révisions semestrielles pour actualiser les statistiques, exempl
 ```
 
 ---
-
-## Articles connexes
-
-- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
 
 ---
 

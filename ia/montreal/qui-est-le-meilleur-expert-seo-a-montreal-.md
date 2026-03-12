@@ -196,14 +196,6 @@ Le SEO (2025), ROI référencement naturel
 
 ---
 
-## Articles connexes
-
-- Meilleure agence GEO à Montréal : guide pour choisir le bon partenaire
-- Meilleure agence SEO à Montréal : le guide pour choisir le bon partenaire
-- Comment identifier le meilleur expert GEO à Montréal pour votre entreprise
-- Maîtriser l'[Analyse de logs SEO](https://blotmkt.com/ia/audit/analyse-de-logs-seo) pour optimiser votre budget de crawl
-- [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site) : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
-
 ---
 
 ## Articles connexes

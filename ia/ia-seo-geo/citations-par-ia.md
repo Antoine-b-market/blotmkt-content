@@ -127,7 +127,7 @@ Des outils spécialisés comme OtterlyAI, Profound ou Peec AI permettent désorm
     {
       "@type": "Article",
       "headline": "Citations par IA : comment l'intelligence artificielle réinvente votre contenu",
-      "description": "Découvrez comment générer des citations par IA uniques et pertinentes. Explorez les outils, les avantages et les [techniques pour enrichir votre contenu SEO.",
+      "description": "Découvrez comment générer des citations par IA uniques et pertinentes. Explorez les outils, les avantages et les techniques pour enrichir votre contenu SEO.",
       "url": "https://blotmkt.com/ia/IA SEO - GEO/citations-par-ia",
       "datePublished": "2026-03-09 18:00",
       "dateModified": "2026-03-09 18:00",
@@ -183,14 +183,6 @@ Des outils spécialisés comme OtterlyAI, Profound ou Peec AI permettent désorm
 ```
 
 ---
-
-## Articles connexes
-
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- [Algorithme de recommandation](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation) : le guide complet pour éviter les biais et la sur-dépendance
-- [Contenu IA SEO](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo) : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
-- Entité nommée SEO : le guide pour devenir une référence aux yeux de Google
 
 ---
 

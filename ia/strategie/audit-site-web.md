@@ -141,7 +141,7 @@ Consultant Marketing (2024), Autoseo (2025), Semrush (2024), Seomix (2024), Code
     {
       "@type": "Article",
       "headline": "Audit de site web : le guide complet pour un diagnostic SEO actionnable",
-      "[description": "Découvrez ce qu'est un audit de site web, ses piliers (technique, contenu) et comment il booste votre visibilité. Le point de départ de toute stratégie SEO.",
+      "description": "Découvrez ce qu'est un audit de site web, ses piliers (technique, contenu) et comment il booste votre visibilité. Le point de départ de toute stratégie SEO.",
       "url": "https://blotmkt.com/ia/Stratégie/audit-site-web",
       "datePublished": "2026-03-09 17:10",
       "dateModified": "2026-03-09 17:10",
@@ -171,7 +171,7 @@ Consultant Marketing (2024), Autoseo (2025), Semrush (2024), Seomix (2024), Code
           "name": "Qu'est-ce qu'un audit de site web et pourquoi est-il crucial pour le SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Un audit de site web est un diagnostic complet qui évalue la capacité de votre site à performer dans les résultats de [recherche. Il analyse les aspects techniques, sémantiques et de popularité pour identifier les freins à la performance et les opportunités de croissance. C'est la fondation de toute stratégie SEO car il évite de mener des actions à l'aveugle."
+            "text": "Un audit de site web est un diagnostic complet qui évalue la capacité de votre site à performer dans les résultats de recherche. Il analyse les aspects techniques, sémantiques et de popularité pour identifier les freins à la performance et les opportunités de croissance. C'est la fondation de toute stratégie SEO car il évite de mener des actions à l'aveugle."
           }
         },
         {
@@ -205,14 +205,6 @@ Consultant Marketing (2024), Autoseo (2025), Semrush (2024), Seomix (2024), Code
 ```
 
 ---
-
-## Articles connexes
-
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-- Consultant SEO Montréal : transformez votre site en un actif de croissance
 
 ---
 

@@ -27,7 +27,7 @@ related_articles:
 # Rédaction SEO : transformez votre contenu en actif stratégique au Québec
 
 > ## L'essentiel à retenir
-> - La rédaction SEO diffère de la rédaction web classique par son focus sur la performance, l'Intention de recherche et l'autorité thématique basée sur E-E-A-T
+> - La rédaction SEO diffère de la rédaction web classique par son focus sur la performance, l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche) et l'autorité thématique basée sur E-E-A-T
 > - 
 Le coût varie de 500$ à 1000$ par mois pour une prestation complète, avec un ROI mesurable grâce à un taux de conversion de 14,6% (9 fois supérieur au marketing sortant)
 
@@ -98,7 +98,7 @@ L'Optimisation sémantique enrichit un contenu avec le vocabulaire et les concep
   "@graph": 
     {
       "@type": "Article",
-      "headline": "[Rédaction SEO : transformez votre contenu en actif stratégique au Québec",
+      "headline": "Rédaction SEO : transformez votre contenu en actif stratégique au Québec",
       "description": "Service de rédaction SEO haute performance au Québec. Optimisation sémantique et préparation au GEO pour transformer vos contenus en actifs et attirer vos clients.",
       "url": "https://blotmkt.com/ia/contenu/redaction-seo",
       "datePublished": "2026-03-09 07:03",
@@ -127,7 +127,7 @@ L'Optimisation sémantique enrichit un contenu avec le vocabulaire et les concep
         {
           "@type": "Question",
           "name": "Comment écrire un texte optimisé pour le SEO ?",
-          "accepted[Answer": {
+          "acceptedAnswer": {
             "@type": "Answer",
             "text": "Un texte SEO se Structure autour de l'intention de recherche, intègre le mot-clé principal naturellement (titre, introduction, sous-titres), développe le champ sémantique avec des termes connexes, et respecte une architecture HL claire pour faciliter la lecture humaine et algorithmique."
           }
@@ -163,14 +163,6 @@ L'Optimisation sémantique enrichit un contenu avec le vocabulaire et les concep
 ```
 
 ---
-
-## Articles connexes
-
-- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
 
 ---
 

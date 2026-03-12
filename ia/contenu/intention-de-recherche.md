@@ -55,7 +55,7 @@ L'intention de recherche représente le véritable objectif de l'internaute lors
 Selon une étude sur 332 millions de requêtes Google, 51,8% des recherches sont informationnelles
 , où l'utilisateur cherche à obtenir des informations sur un sujet précis. Ces requêtes prennent souvent la forme de questions : "comment", "pourquoi", "qu'est-ce que".
 
-**L'Intention navigationnelle** représente 
+**L'[Intention navigationnelle](https://blotmkt.com/ia/definition/intention-navigationnelle)** représente 
 33% des recherches selon cette même étude
 . L'utilisateur connaît déjà sa destination et utilise Google comme raccourci pour accéder à un site, une marque ou un service spécifique. Rechercher "Facebook" ou "Gmail" illustre parfaitement ce comportement.
 
@@ -215,14 +215,6 @@ Les outils comme Semrush identifient automatiquement l'intention et aident à cr
 ```
 
 ---
-
-## Articles connexes
-
-- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
 
 ---
 

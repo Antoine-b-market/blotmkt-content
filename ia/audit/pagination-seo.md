@@ -38,7 +38,7 @@ Although the load more approach is a user-friendly solution, there is an SEO ris
 As John explained, if you don't have hundreds of thousands of pages (or more), then you shouldn't really have to worry about pagination impacting crawl budget.
  mais une pagination optimisée concentre le crawl sur les pages importantes
 
-Depuis l'abandon des balises `rel=prev/next` par Google en 2019, les SEOs peinent à adapter leurs stratégies de pagination. Cette évolution majeure laisse de nombreux professionnels dans l'incertitude, face au risque de gaspiller leur Budget de crawl sur des pages paginées mal optimisées. Heureusement, les nouveaux signaux de maillage interne offrent une solution robuste pour guider efficacement les robots d'exploration vers vos contenus prioritaires.
+Depuis l'abandon des balises `rel=prev/next` par Google en 2019, les SEOs peinent à adapter leurs stratégies de pagination. Cette évolution majeure laisse de nombreux professionnels dans l'incertitude, face au risque de gaspiller leur [Budget de crawl](https://blotmkt.com/ia/audit/budget-de-crawl) sur des pages paginées mal optimisées. Heureusement, les nouveaux signaux de maillage interne offrent une solution robuste pour guider efficacement les robots d'exploration vers vos contenus prioritaires.
 
 ---
 
@@ -131,7 +131,7 @@ Give each page a unique URL. For example, include a ?page=n query parameter, as 
     {
       "@type": "Article",
       "headline": "Pagination SEO : le guide complet pour optimiser votre crawl après rel=prev/next",
-      "description": "Maîtrisez la pagination SEO avec nos meilleures pratiques. Optimisez votre [Budget de crawl, évitez le duplicate content et améliorez votre indexation. Guide 2024.",
+      "description": "Maîtrisez la pagination SEO avec nos meilleures pratiques. Optimisez votre Budget de crawl, évitez le duplicate content et améliorez votre indexation. Guide 2024.",
       "url": "https://blotmkt.com/ia/Audit/pagination-seo",
       "datePublished": "2026-03-09 19:10",
       "dateModified": "2026-03-09 19:10",
@@ -161,7 +161,7 @@ Give each page a unique URL. For example, include a ?page=n query parameter, as 
           "name": "Faut-il mettre les pages paginées en noindex ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Non, évitez de bloquer les [Contenus paginés via robots.txt ou canonical. Cela empêche Google d'explorer ces pages et de comprendre la structure complète de votre site, créant potentiellement des pages orphelines."
+            "text": "Non, évitez de bloquer les Contenus paginés via robots.txt ou canonical. Cela empêche Google d'explorer ces pages et de comprendre la structure complète de votre site, créant potentiellement des pages orphelines."
           }
         },
         {
@@ -195,14 +195,6 @@ Give each page a unique URL. For example, include a ?page=n query parameter, as 
 ```
 
 ---
-
-## Articles connexes
-
-- Maîtriser l'[Analyse de logs SEO](https://blotmkt.com/ia/audit/analyse-de-logs-seo) pour optimiser votre budget de crawl
-- [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site) : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
-- [Audit mobile-first](https://blotmkt.com/ia/audit/audit-mobile-first) : la méthode complète pour garantir votre visibilité sur Google
-- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
-- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
 
 ---
 

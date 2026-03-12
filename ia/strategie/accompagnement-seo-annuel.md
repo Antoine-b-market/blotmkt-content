@@ -78,7 +78,7 @@ Un accompagnement complet sur 1 an pour un site e-commerce de TPE/PME peut aller
 .
 
 La complexité du site influence directe)ment le tarif : 
-pour une TPE ou PME locale, un budget SEO mensuel efficace démarre rarement en dessous de 1 000€ HT. En dessous de ce seuil, le nombre d'heures allouées ne permet pas de générer suffisamment d'actions pour bouger les lignes face à la concurrence
+pour une TPE ou PME locale, un [Budget SEO mensuel](https://blotmkt.com/ia/strategie/budget-seo-mensuel) efficace démarre rarement en dessous de 1 000€ HT. En dessous de ce seuil, le nombre d'heures allouées ne permet pas de générer suffisamment d'actions pour bouger les lignes face à la concurrence
 .
 
 La démonstration du ROI s'appuie sur des KPIs Business concrets. 
@@ -142,7 +142,7 @@ L'efficacité se mesure via des KPIs business concrets : progression du trafic o
     {
       "@type": "Article",
       "headline": "Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale",
-      "[description": "Découvrez notre accompagnement SEO annuel. Une stratégie sur 12 mois pour un référencement durable, un trafic qualifié et un ROI mesurable. Parlons-en.",
+      "description": "Découvrez notre accompagnement SEO annuel. Une stratégie sur 12 mois pour un référencement durable, un trafic qualifié et un ROI mesurable. Parlons-en.",
       "url": "https://blotmkt.com/ia/Stratégie/accompagnement-seo-annuel",
       "datePublished": "2026-03-09 17:05",
       "dateModified": "2026-03-09 17:05",
@@ -172,7 +172,7 @@ L'efficacité se mesure via des KPIs business concrets : progression du trafic o
           "name": "Qu'est-ce qu'un accompagnement SEO annuel et que comprend-il ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Un accompagnement SEO annuel est un partenariat stratégique sur 12 mois incluant [audit complet, optimisations techniques continues, création de contenu optimisé, stratégie de netlinking et suivi mensuel des performances avec ajustements réguliers."
+            "text": "Un accompagnement SEO annuel est un partenariat stratégique sur 12 mois incluant audit complet, optimisations techniques continues, création de contenu optimisé, stratégie de netlinking et suivi mensuel des performances avec ajustements réguliers."
           }
         },
         {
@@ -214,14 +214,6 @@ L'efficacité se mesure via des KPIs business concrets : progression du trafic o
 ```
 
 ---
-
-## Articles connexes
-
-- [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal) : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-- Consultant SEO Montréal : transformez votre site en un actif de croissance
 
 ---
 

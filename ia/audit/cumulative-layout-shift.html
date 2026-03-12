@@ -82,7 +82,7 @@ Les pages avec des scores CLS élevés peuvent conduire à une mauvaise expérie
 . La solution ? Maîtriser le Cumulative Layout Shift pour créer des sites web stables et performants.</p>
 <hr />
 <h2>Qu'est-ce que le Cumulative Layout Shift (CLS) et pourquoi est-il essentiel ?</h2>
-<p>Le Cumulative Layout Shift (CLS) est une métrique Core Web Vitals qui mesure la stabilité visuelle sur une page web. Il quantifie combien de contenu, comme les images ou le texte, bouge de manière inattendue pendant le chargement de la page
+<p>Le Cumulative Layout Shift (CLS) est une métrique Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals) qui mesure la stabilité visuelle sur une page web. Il quantifie combien de contenu, comme les images ou le texte, bouge de manière inattendue pendant le chargement de la page
 . Cette métrique capture l'essence même d'une expérience utilisateur fluide : la préVisibilité visuelle.</p>
 <p>Le calcul du CLS repose sur deux composants fondamentaux. 
 Le score de décalage de mise en page est le produit de deux mesures de ce mouvement : la fraction d'impact et la fraction de distance. La fraction d'impact mesure comment les éléments instables affectent la zone de viewport entre deux frames
@@ -111,12 +111,12 @@ Chrome DevTools : Partie du navigateur Chrome, DevTools vous permet de mesurer l
 . Réservez un espace statique avec des dimensions fixes pour tous les éléments qui se chargeront après le Contenu principal.</p>
 <h3>Polices web problématiques</h3>
 <p>Les polices qui se chargent après le rendu initial de la page peuvent causer des décalages de texte
-. Utilisez <code>font-display: swap</code> et préchargez vos polices critiques avec <code>&lt;link rel="preload"&gt;</code> pour minimiser l'impact visuel du changement de police (Source : BrowserStack, 2025).</p>
+. Utilisez <code>font-display: swap</code> et préchargez vos polices critiques avec <code>&amp;lt;link rel="preload"&gt;</code> pour minimiser l'impact visuel du changement de police (Source : BrowserStack, 2025).</p>
 <h2>CLS, LCP, INP : la synergie des Core Web Vitals pour l'UX</h2>
 <p>Depuis mars 2024, 
-l'Interaction to Next Paint (INP) est maintenant l'une des métriques Core Web Vitals de Google, remplaçant First Input Delay (FID) le 12 mars 2024
+l'Interaction to Next Paint (INP) est maintenant l'une des métriques Core Web Vitals de Google, remplaçant First Input Delay](https://blotmkt.com/ia/audit/first-input-delay) (FID) le 12 mars 2024
 . Cette évolution renforce l'importance d'une approche holistique des performances web.</p>
-<p>Google a finalisé Core Web Vitals 2.0, remplaçant First Input Delay (FID) par Interaction to Next Paint (INP) et continuant de s'appuyer sur LCP (Largest Contentful Paint) et CLS (Cumulative Layout Shift) comme les trois métriques d'expérience utilisateur mesurées sur le terrain. Les sites qui atteignent les seuils pour LCP, INP et CLS (75e percentile) offrent aux utilisateurs des expériences plus rapides, plus stables et plus réactives
+<p>Google a finalisé Core Web Vitals 2.0, remplaçant First Input Delay (FID) par Interaction to Next Paint](https://blotmkt.com/ia/audit/interaction-to-next-paint) (INP) et continuant de s'appuyer sur LCP (Largest Contentful Paint) et CLS (Cumulative Layout Shift) comme les trois métriques d'expérience utilisateur mesurées sur le terrain. Les sites qui atteignent les seuils pour LCP, INP et CLS (75e percentile) offrent aux utilisateurs des expériences plus rapides, plus stables et plus réactives
  (Source : Medium, 2025).</p>
 <p>L'interaction entre ces métriques est cruciale : une image qui se charge lentement (mauvais LCP) sans dimensions définies provoque aussi un CLS élevé. 
 Au-delà des effets directs sur le classement, le CLS influence les métriques de comportement utilisateur comme le Taux de rebond et le temps de session, qui affectent indirectement le SEO
@@ -133,22 +133,14 @@ Au-delà des effets directs sur le classement, le CLS influence les métriques d
 <hr />
 <p><em>Sources : Hike SEO (2024), Status 218 (2025), Google Web.dev (2023), Infidigit (2025), BrowserStack (2025), RebelMouse (2024), GlowMetrics (2025), Medium (2025)</em></p>
 <hr />
-<h2>Articles connexes</h2>
-<ul>
-<li>Maîtriser l'<a href="https://blotmkt.com/ia/audit/analyse-de-logs-seo">Analyse de logs SEO</a> pour optimiser votre budget de crawl</li>
-<li><a href="https://blotmkt.com/ia/audit/architecture-de-site">Architecture de site</a> : construire une base solide pour votre autorité (E-E-A-T) et votre SEO</li>
-<li><a href="https://blotmkt.com/ia/audit/audit-mobile-first">Audit mobile-first</a> : la méthode complète pour garantir votre visibilité sur Google</li>
-<li>Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche</li>
-<li>Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux</li>
-</ul>
 <hr />
 <h2>Articles connexes</h2>
 <ul>
-<li><a href="https://blotmkt.com/ia/audit/analyse-de-logs-seo">Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl</a></li>
-<li><a href="https://blotmkt.com/ia/audit/architecture-de-site">Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO</a></li>
-<li><a href="https://blotmkt.com/ia/audit/audit-mobile-first">Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google</a></li>
-<li><a href="https://blotmkt.com/ia/audit/audit-semantique">Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche</a></li>
-<li><a href="https://blotmkt.com/ia/audit/audit-seo-montreal">Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux</a></li>
+<li>Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo)</li>
+<li>Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site)</li>
+<li>Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first)</li>
+<li>Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique)</li>
+<li>Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal)</li>
 </ul>
     </article>
   <footer>

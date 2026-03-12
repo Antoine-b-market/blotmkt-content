@@ -128,7 +128,7 @@ Les corrections peuvent prendre plusieurs mois avant que Google re-crawle et ré
 
 ### Qu'est-ce que l'algorithme Google Panda ?
 
-Panda est un filtre Google qui identifie les sites de faible qualité et combat le spam en les pénalisant
+Panda est un [Filtre Google](https://blotmkt.com/ia/popularite/filtre-google) qui identifie les sites de faible qualité et combat le spam en les pénalisant
 . Il évalue la qualité éditoriale, détecte le Contenu dupliqué et sanctionne les pratiques de "content farming".
 
 ### Comment faire une demande de réexamen à Google ?
@@ -190,7 +190,7 @@ Pour les pénalités manuelles, utilisez l'interface Search Console qui inclut d
         },
         {
           "@type": "Question",
-          "name": "Qu'est-ce que l'[Algorithme Google Panda ?",
+          "name": "Qu'est-ce que l'Algorithme Google Panda ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Panda est un filtre Google qui identifie les sites de faible qualité et combat le spam en les pénalisant. Il évalue la qualité éditoriale, détecte le contenu dupliqué et sanctionne les pratiques de content farming."
@@ -211,14 +211,6 @@ Pour les pénalités manuelles, utilisez l'interface Search Console qui inclut d
 ```
 
 ---
-
-## Articles connexes
-
-- [Désindexation Google](https://blotmkt.com/ia/popularite/desindexation-google): guide pratique pour contrôler votre visibilité en ligne
-- Facteurs de classement google : le guide basé sur la documentation officielle
-- Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
-- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
-- Action manuelle Google : le guide complet pour l'identifier et la corriger
 
 ---
 

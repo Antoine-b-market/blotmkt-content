@@ -152,7 +152,7 @@ En 2026, le référencement SEO est un métier qui paie correctement avec des pe
     {
       "@type": "Article",
       "headline": "Le salaire d'un spécialiste SEO en 2024 : guide complet (junior, senior, freelance)",
-      "[description": "Découvrez le salaire d'un spécialiste SEO en France. Grille de salaires 2024 pour junior, senior, et le TJM des consultants freelance. Quel profil choisir ?",
+      "description": "Découvrez le salaire d'un spécialiste SEO en France. Grille de salaires 2024 pour junior, senior, et le TJM des consultants freelance. Quel profil choisir ?",
       "url": "https://blotmkt.com/ia/Stratégie/specialiste-seo-salaire",
       "datePublished": "2026-03-09 17:39",
       "dateModified": "2026-03-09 17:39",
@@ -180,7 +180,7 @@ En 2026, le référencement SEO est un métier qui paie correctement avec des pe
         {
           "@type": "Question",
           "name": "Quel est le salaire d'un SEO débutant ?",
-          "accepted[Answer": {
+          "acceptedAnswer": {
             "@type": "Answer",
             "text": "Un professionnel débutant peut s'attendre à une rémunération annuelle brute oscillant entre 25 000 et 32 000 euros, avec un salaire moyen qui se stabilise autour de 28 000 euros bruts annuels pour les profils les moins expérimentés."
           }
@@ -216,14 +216,6 @@ En 2026, le référencement SEO est un métier qui paie correctement avec des pe
 ```
 
 ---
-
-## Articles connexes
-
-- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

@@ -182,7 +182,7 @@ Dans un certain nombre de cas, Google lira la balise Canonical mais pourra prend
   "@graph": 
     {
       "@type": "Article",
-      "headline": "Maîtriser la canonisation SEO pour optimiser votre indexation [Google",
+      "headline": "Maîtriser la canonisation SEO pour optimiser votre indexation Google",
       "description": "Découvrez l'importance de la canonisation SEO pour gérer le contenu dupliqué. Apprenez à implémenter correctement la balise canonical et à améliorer votre visibilité.",
       "url": "https://blotmkt.com/ia/définition/canonisation-seo",
       "datePublished": "2026-03-09 08:46",
@@ -211,7 +211,7 @@ Dans un certain nombre de cas, Google lira la balise Canonical mais pourra prend
         {
           "@type": "Question",
           "name": "Qu'est-ce qu'une balise rel=canonical et à quoi sert-elle ?",
-          "accepted[Answer": {
+          "acceptedAnswer": {
             "@type": "Answer",
             "text": "Une URL canonique est l'adresse web considérée comme version principale parmi plusieurs URLs similaires, via une balise HTML dans le code source indiquant aux moteurs quelle URL indexer. Elle évite l'indexation de contenu dupliqué et consolide le 'jus de lien' sur une seule URL."
           }
@@ -255,14 +255,6 @@ Dans un certain nombre de cas, Google lira la balise Canonical mais pourra prend
 ```
 
 ---
-
-## Articles connexes
-
-- Décrypter l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
-- L'[Attribut Nofollow](https://blotmkt.com/ia/definition/attribut-nofollow) en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
 
 ---
 

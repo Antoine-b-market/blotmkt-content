@@ -162,7 +162,7 @@ En DIY, comptez 0-500 $/mois pour des outils. En accompagnement stratégique (DI
   "@Graph": 
     {
       "@type": "Article",
-      "headline": "Rémunération SEO au [Québec : salaires, tarifs et investissement rentable",
+      "headline": "Rémunération SEO au Québec : salaires, tarifs et investissement rentable",
       "description": "Rémunération SEO au Québec : salaires experts, tarifs agences et ROI. Guide pour professionnels et entreprises québécoises. Optimisez votre investissement SEO.",
       "url": "https://blotmkt.com/ia/Stratégie/remuneration-seo-quebec",
       "datePublished": "2026-03-09 17:26",
@@ -190,7 +190,7 @@ En DIY, comptez 0-500 $/mois pour des outils. En accompagnement stratégique (DI
       "mainEntity": 
         {
           "@type": "Question",
-          "name": "Comment négocier un salaire en SEO au [Québec ?",
+          "name": "Comment négocier un salaire en SEO au Québec ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Mettez en avant votre bilinguisme (prime de 10 %), vos certifications Google Analytics (5-8 % de bonus) et votre expertise technique. Documentez vos résultats avec des exemples concrets de ROI pour justifier une rémunération supérieure à la moyenne de 57 153 $ à Montréal."
@@ -227,14 +227,6 @@ En DIY, comptez 0-500 $/mois pour des outils. En accompagnement stratégique (DI
 ```
 
 ---
-
-## Articles connexes
-
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

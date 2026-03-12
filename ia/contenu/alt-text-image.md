@@ -130,7 +130,7 @@ Bien que l'alt text seul ne propulsera pas une page au sommet des résultats de 
     {
       "@type": "Article",
       "headline": "Alt text image : le guide pour optimiser votre SEO et votre accessibilité",
-      "description": "Apprenez à rédiger un alt text image parfait pour booster votre SEO sur [Google Images, améliorer l'accessibilité et préparer votre contenu pour l'IA. Guide pratique.",
+      "description": "Apprenez à rédiger un alt text image parfait pour booster votre SEO sur Google Images, améliorer l'accessibilité et préparer votre contenu pour l'IA. Guide pratique.",
       "url": "https://blotmkt.com/ia/contenu/alt-text-image",
       "datePublished": "2026-03-09 07:19",
       "dateModified": "2026-03-09 07:19",
@@ -158,7 +158,7 @@ Bien que l'alt text seul ne propulsera pas une page au sommet des résultats de 
         {
           "@type": "Question",
           "name": "Faut-il mettre un alt text sur toutes les images ?",
-          "accepted[Answer": {
+          "acceptedAnswer": {
             "@type": "Answer",
             "text": "Toutes les images informatives (Graphiques, photos, infographies) nécessitent un alt text. Les images purement décoratives doivent utiliser un attribut alt vide (alt='') pour indiquer aux lecteurs d'écran de les ignorer."
           }
@@ -194,14 +194,6 @@ Bien que l'alt text seul ne propulsera pas une page au sommet des résultats de 
 ```
 
 ---
-
-## Articles connexes
-
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
-- [Call to action](https://blotmkt.com/ia/contenu/call-to-action) : le guide complet pour créer des cta qui convertissent
-- Le [Clustering de mots-clés](https://blotmkt.com/ia/contenu/clustering-de-mots-cles) : la méthode pour structurer votre contenu pour le SEO moderne
-- Analyse de content gap en SEO : la méthode pour identifier et combler vos lacunes de contenu
 
 ---
 
