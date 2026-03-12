@@ -14,6 +14,7 @@ date: "2026-03-09 06:07"
 date_modified: "2026-03-09 06:07"
 slug: "interaction-to-next-paint"
 url: "/ia/audit/interaction-to-next-paint"
+canonical: "https://blotmkt.com/ia/audit/interaction-to-next-paint.html"
 related_articles:
   - title: "Largest Contentful Paint (LCP) : le guide complet pour optimiser la vitesse de votre site"
     url: "/ia/audit/largest-contentful-paint"

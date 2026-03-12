@@ -14,6 +14,7 @@ date: "2026-03-09 18:16"
 date_modified: "2026-03-09 18:16"
 slug: "mise-a-jour-google"
 url: "/ia/ia-seo-geo/mise-a-jour-google"
+canonical: "https://blotmkt.com/ia/ia-seo-geo/mise-a-jour-google.html"
 related_articles:
   - title: "Mise à jour de contenu : la méthode pour un SEO durable et centré sur l'utilisateur"
     url: "/ia/Contenu/mise-a-jour-contenu"

@@ -14,6 +14,7 @@ date: "2026-03-09 06:18"
 date_modified: "2026-03-09 06:18"
 slug: "budget-de-crawl"
 url: "/ia/audit/budget-de-crawl"
+canonical: "https://blotmkt.com/ia/audit/budget-de-crawl.html"
 related_articles:
   - title: "Exploration Googlebot : le guide complet pour optimiser votre budget de crawl"
     url: "/ia/audit/exploration-googlebot"

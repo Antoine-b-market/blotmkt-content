@@ -14,6 +14,7 @@ date: "2026-03-09 16:55"
 date_modified: "2026-03-09 16:55"
 slug: "consultant-seo-montreal"
 url: "/ia/strategie/consultant-seo-montreal"
+canonical: "https://blotmkt.com/ia/strategie/consultant-seo-montreal.html"
 related_articles:
   - title: "Comment trouver le meilleur expert SEO à Montréal pour votre projet"
     url: "/ia/montreal/qui-est-le-meilleur-expert-seo-a-montreal-"

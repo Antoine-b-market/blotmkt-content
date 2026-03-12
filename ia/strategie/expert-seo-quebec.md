@@ -14,6 +14,7 @@ date: "2026-03-09 16:57"
 date_modified: "2026-03-09 16:57"
 slug: "expert-seo-quebec"
 url: "/ia/strategie/expert-seo-quebec"
+canonical: "https://blotmkt.com/ia/strategie/expert-seo-quebec.html"
 related_articles:
   - title: "Le contenu SEO au Québec : une approche optimisée pour Google et les réponses génératives"
     url: "/ia/Contenu/contenu-seo-quebec"

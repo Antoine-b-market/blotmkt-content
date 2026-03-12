@@ -14,6 +14,7 @@ date: "2026-03-09 16:50"
 date_modified: "2026-03-09 16:50"
 slug: "seo-pour-startup"
 url: "/ia/strategie/seo-pour-startup"
+canonical: "https://blotmkt.com/ia/strategie/seo-pour-startup.html"
 related_articles:
   - title: "SEO B2B : stratégies pour une croissance numérique durable"
     url: "/ia/strategie/seo-b2b"

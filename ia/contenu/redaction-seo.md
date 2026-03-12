@@ -14,6 +14,7 @@ date: "2026-03-09 07:03"
 date_modified: "2026-03-09 07:03"
 slug: "redaction-seo"
 url: "/ia/contenu/redaction-seo"
+canonical: "https://blotmkt.com/ia/contenu/redaction-seo.html"
 related_articles:
   - title: "Expert SEO au Québec : optimisez votre visibilité pour l'ère des IA"
     url: "/ia/strategie/expert-seo-quebec"

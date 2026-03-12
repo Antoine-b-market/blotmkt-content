@@ -14,6 +14,7 @@ date: "2026-03-09 17:36"
 date_modified: "2026-03-09 17:36"
 slug: "emploi-seo-montreal"
 url: "/ia/strategie/emploi-seo-montreal"
+canonical: "https://blotmkt.com/ia/strategie/emploi-seo-montreal.html"
 related_articles:
   - title: "Seo ia : le guide pratique pour optimiser et automatiser votre référencement"
     url: "/ia/ia-seo-geo/seo-ia"

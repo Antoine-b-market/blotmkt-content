@@ -14,6 +14,7 @@ date: "2026-03-09 18:57"
 date_modified: "2026-03-09 18:57"
 slug: "optimisation-google-maps"
 url: "/ia/local-seo/optimisation-google-maps"
+canonical: "https://blotmkt.com/ia/local-seo/optimisation-google-maps.html"
 related_articles:
   - title: "SEO pour Google Business Profile : le guide complet pour dominer la recherche locale"
     url: "/ia/local-seo/google-my-business-seo"

@@ -14,6 +14,7 @@ date: "2026-03-09 06:48"
 date_modified: "2026-03-09 06:48"
 slug: "taux-de-rebond"
 url: "/ia/audit/taux-de-rebond"
+canonical: "https://blotmkt.com/ia/audit/taux-de-rebond.html"
 related_articles:
   - title: "Prix forfait SEO : le guide pour comprendre les tarifs et choisir le bon investissement"
     url: "/ia/strategie/prix-forfait-seo"

@@ -14,6 +14,7 @@ date: "2026-03-09 07:46"
 date_modified: "2026-03-09 07:46"
 slug: "mise-a-jour-contenu"
 url: "/ia/contenu/mise-a-jour-contenu"
+canonical: "https://blotmkt.com/ia/contenu/mise-a-jour-contenu.html"
 related_articles:
   - title: "Audit de contenu existant : la méthode complète pour optimiser votre SEO"
     url: "/ia/contenu/audit-contenu-existant"

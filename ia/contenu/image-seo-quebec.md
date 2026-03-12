@@ -14,6 +14,7 @@ date: "2026-03-09 07:35"
 date_modified: "2026-03-09 07:35"
 slug: "image-seo-quebec"
 url: "/ia/contenu/image-seo-quebec"
+canonical: "https://blotmkt.com/ia/contenu/image-seo-quebec.html"
 related_articles:
   - title: "Le contenu SEO au Québec : une approche optimisée pour Google et les réponses génératives"
     url: "/ia/contenu/contenu-seo-quebec"

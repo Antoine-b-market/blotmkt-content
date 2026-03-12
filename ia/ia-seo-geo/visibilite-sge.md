@@ -14,6 +14,7 @@ date: "2026-03-09 18:33"
 date_modified: "2026-03-09 18:33"
 slug: "visibilite-sge"
 url: "/ia/ia-seo-geo/visibilite-sge"
+canonical: "https://blotmkt.com/ia/ia-seo-geo/visibilite-sge.html"
 related_articles:
   - title: "Expertise SEO technique : le levier stratégique pour votre performance digitale"
     url: "/ia/strategie/expertise-seo-technique"

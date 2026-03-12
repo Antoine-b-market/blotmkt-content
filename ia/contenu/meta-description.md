@@ -14,6 +14,7 @@ date: "2026-03-09 07:16"
 date_modified: "2026-03-09 07:16"
 slug: "meta-description"
 url: "/ia/contenu/meta-description"
+canonical: "https://blotmkt.com/ia/contenu/meta-description.html"
 related_articles:
   - title: "Comment rédiger un titre SEO accrocheur : le guide pratique pour booster vos clics"
     url: "/ia/contenu/titre-accrocheur-seo"

@@ -14,6 +14,7 @@ date: "2026-03-09 17:15"
 date_modified: "2026-03-09 17:15"
 slug: "salaire-expert-seo"
 url: "/ia/strategie/salaire-expert-seo"
+canonical: "https://blotmkt.com/ia/strategie/salaire-expert-seo.html"
 related_articles:
   - title: "Quel est le salaire d'un consultant SEO en 2024 ? Comprendre les rémunérations et la valeur ajoutée"
     url: "/ia/strategie/salaire-consultant-seo"

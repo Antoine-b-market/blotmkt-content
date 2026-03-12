@@ -14,6 +14,7 @@ date: "2026-03-09 06:21"
 date_modified: "2026-03-09 06:21"
 slug: "erreurs-404-seo"
 url: "/ia/audit/erreurs-404-seo"
+canonical: "https://blotmkt.com/ia/audit/erreurs-404-seo.html"
 related_articles:
   - title: "Maîtriser les redirections 301 pour un SEO sans faille"
     url: "/ia/audit/redirections-301-seo"

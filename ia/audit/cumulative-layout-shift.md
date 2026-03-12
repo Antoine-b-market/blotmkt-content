@@ -14,6 +14,7 @@ date: "2026-03-09 06:02"
 date_modified: "2026-03-09 06:02"
 slug: "cumulative-layout-shift"
 url: "/ia/audit/cumulative-layout-shift"
+canonical: "https://blotmkt.com/ia/audit/cumulative-layout-shift.html"
 related_articles:
   - title: "Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité"
     url: "/ia/popularite/filtre-google"

@@ -14,6 +14,7 @@ date: "2026-03-09 18:22"
 date_modified: "2026-03-09 18:22"
 slug: "provenance-des-donnees"
 url: "/ia/ia-seo-geo/provenance-des-donnees"
+canonical: "https://blotmkt.com/ia/ia-seo-geo/provenance-des-donnees.html"
 related_articles:
   - title: "Données structurées : le guide complet pour obtenir des résultats de recherche enrichis"
     url: "/ia/definition/donnees-structurees"

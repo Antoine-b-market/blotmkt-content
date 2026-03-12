@@ -14,6 +14,7 @@ date: "2026-03-09 08:27"
 date_modified: "2026-03-09 08:27"
 slug: "json-ld-seo"
 url: "/ia/definition/json-ld-seo"
+canonical: "https://blotmkt.com/ia/definition/json-ld-seo.html"
 related_articles:
   - title: "Schema.org : le guide pratique pour booster votre SEO avec les données structurées"
     url: "/ia/definition/schema.org"

@@ -14,6 +14,7 @@ date: "2026-03-09 19:40"
 date_modified: "2026-03-09 19:40"
 slug: "desindexation-google"
 url: "/ia/popularite/desindexation-google"
+canonical: "https://blotmkt.com/ia/popularite/desindexation-google.html"
 related_articles:
   - title: "L'api d'indexation google : guide complet pour une indexation quasi-instantanée"
     url: "/ia/Audit/indexation-api-google"

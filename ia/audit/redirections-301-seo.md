@@ -14,6 +14,7 @@ date: "2026-03-09 06:23"
 date_modified: "2026-03-09 06:23"
 slug: "redirections-301-seo"
 url: "/ia/audit/redirections-301-seo"
+canonical: "https://blotmkt.com/ia/audit/redirections-301-seo.html"
 related_articles:
   - title: "Maîtriser la canonisation SEO pour optimiser votre indexation Google"
     url: "/ia/definition/canonisation-seo"

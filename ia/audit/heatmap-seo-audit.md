@@ -14,6 +14,7 @@ date: "2026-03-09 06:51"
 date_modified: "2026-03-09 06:51"
 slug: "heatmap-seo-audit"
 url: "/ia/audit/heatmap-seo-audit"
+canonical: "https://blotmkt.com/ia/audit/heatmap-seo-audit.html"
 related_articles:
   - title: "Audit de contenu existant : la méthode complète pour optimiser votre SEO"
     url: "/ia/contenu/audit-contenu-existant"

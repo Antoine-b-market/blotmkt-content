@@ -14,6 +14,7 @@ date: "2026-03-09 17:07"
 date_modified: "2026-03-09 17:07"
 slug: "conseil-seo-quebec"
 url: "/ia/strategie/conseil-seo-quebec"
+canonical: "https://blotmkt.com/ia/strategie/conseil-seo-quebec.html"
 related_articles:
   - title: "Expert SEO au Québec : optimisez votre visibilité pour l'ère des IA"
     url: "/ia/strategie/expert-seo-quebec"

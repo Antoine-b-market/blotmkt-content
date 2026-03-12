@@ -14,6 +14,7 @@ date: "2026-03-09 18:00"
 date_modified: "2026-03-09 18:00"
 slug: "citations-par-ia"
 url: "/ia/ia-seo-geo/citations-par-ia"
+canonical: "https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html"
 related_articles:
   - title: "Le guide complet des citations locales pour dominer le SEO local"
     url: "/ia/local-seo/citations-locales-seo"

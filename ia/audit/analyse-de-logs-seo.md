@@ -14,6 +14,7 @@ date: "2026-03-09 06:12"
 date_modified: "2026-03-09 06:12"
 slug: "analyse-de-logs-seo"
 url: "/ia/audit/analyse-de-logs-seo"
+canonical: "https://blotmkt.com/ia/audit/analyse-de-logs-seo.html"
 related_articles:
   - title: "Exploration Googlebot : le guide complet pour optimiser votre budget de crawl"
     url: "/ia/audit/exploration-googlebot"

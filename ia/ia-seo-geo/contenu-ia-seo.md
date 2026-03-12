@@ -14,6 +14,7 @@ date: "2026-03-09 18:47"
 date_modified: "2026-03-09 18:47"
 slug: "contenu-ia-seo"
 url: "/ia/ia-seo-geo/contenu-ia-seo"
+canonical: "https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html"
 related_articles:
   - title: "Seo ia : le guide pratique pour optimiser et automatiser votre référencement"
     url: "/ia/ia-seo-geo/seo-ia"

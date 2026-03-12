@@ -14,6 +14,7 @@ date: "2026-03-09 19:08"
 date_modified: "2026-03-09 19:08"
 slug: "citations-locales-seo"
 url: "/ia/local-seo/citations-locales-seo"
+canonical: "https://blotmkt.com/ia/local-seo/citations-locales-seo.html"
 related_articles:
   - title: "Optimiser votre seo local : le guide complet pour attirer des clients de proximité"
     url: "/ia/definition/seo-local"

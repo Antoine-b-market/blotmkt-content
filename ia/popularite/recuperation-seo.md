@@ -14,6 +14,7 @@ date: "2026-03-09 15:53"
 date_modified: "2026-03-09 15:53"
 slug: "recuperation-seo"
 url: "/ia/popularite/recuperation-seo"
+canonical: "https://blotmkt.com/ia/popularite/recuperation-seo.html"
 related_articles:
   - title: "Prix forfait SEO : le guide pour comprendre les tarifs et choisir le bon investissement"
     url: "/ia/strategie/prix-forfait-seo"

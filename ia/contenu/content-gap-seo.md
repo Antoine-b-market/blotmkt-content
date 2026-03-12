@@ -14,6 +14,7 @@ date: "2026-03-09 19:30"
 date_modified: "2026-03-09 19:30"
 slug: "content-gap-seo"
 url: "/ia/contenu/content-gap-seo"
+canonical: "https://blotmkt.com/ia/contenu/content-gap-seo.html"
 related_articles:
   - title: "Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité"
     url: "/ia/popularite/filtre-google"

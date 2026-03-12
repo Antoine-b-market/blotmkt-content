@@ -14,6 +14,7 @@ date: "2026-03-09 06:32"
 date_modified: "2026-03-09 06:32"
 slug: "optimisation-javascript-seo"
 url: "/ia/audit/optimisation-javascript-seo"
+canonical: "https://blotmkt.com/ia/audit/optimisation-javascript-seo.html"
 related_articles:
   - title: "Comment rédiger un titre SEO accrocheur : le guide pratique pour booster vos clics"
     url: "/ia/contenu/titre-accrocheur-seo"

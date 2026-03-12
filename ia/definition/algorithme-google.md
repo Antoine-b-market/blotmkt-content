@@ -14,6 +14,7 @@ date: "2026-03-09 08:12"
 date_modified: "2026-03-09 08:12"
 slug: "algorithme-google"
 url: "/ia/definition/algorithme-google"
+canonical: "https://blotmkt.com/ia/definition/algorithme-google.html"
 related_articles:
   - title: "Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne"
     url: "/ia/Contenu/clustering-de-mots-cles"

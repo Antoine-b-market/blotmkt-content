@@ -14,6 +14,7 @@ date: "2026-03-09 08:46"
 date_modified: "2026-03-09 08:46"
 slug: "canonisation-seo"
 url: "/ia/definition/canonisation-seo"
+canonical: "https://blotmkt.com/ia/definition/canonisation-seo.html"
 related_articles:
   - title: "Maîtriser les redirections 301 pour un SEO sans faille"
     url: "/ia/Audit/redirections-301-seo"

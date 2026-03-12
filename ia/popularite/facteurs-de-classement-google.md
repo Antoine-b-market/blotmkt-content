@@ -14,6 +14,7 @@ date: "2026-03-09 15:58"
 date_modified: "2026-03-09 15:58"
 slug: "facteurs-de-classement-google"
 url: "/ia/popularite/facteurs-de-classement-google"
+canonical: "https://blotmkt.com/ia/popularite/facteurs-de-classement-google.html"
 related_articles:
   - title: "SEO YMYL : le guide pratique pour maîtriser l'E-E-A-T et sécuriser vos classements"
     url: "/ia/definition/ymyl-seo"

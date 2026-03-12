@@ -14,6 +14,7 @@ date: "2026-03-09 07:26"
 date_modified: "2026-03-09 07:26"
 slug: "clustering-de-mots-cles"
 url: "/ia/contenu/clustering-de-mots-cles"
+canonical: "https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html"
 related_articles:
   - title: "Densité de mots-clés : le guide pratique pour le SEO et la GEO"
     url: "/ia/contenu/densite-de-mots-cles"

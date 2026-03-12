@@ -14,6 +14,7 @@ date: "2026-03-09 07:11"
 date_modified: "2026-03-09 07:11"
 slug: "balise-h1-seo"
 url: "/ia/contenu/balise-h1-seo"
+canonical: "https://blotmkt.com/ia/contenu/balise-h1-seo.html"
 related_articles:
   - title: "Comment rédiger un titre SEO accrocheur : le guide pratique pour booster vos clics"
     url: "/ia/contenu/titre-accrocheur-seo"

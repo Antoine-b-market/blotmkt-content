@@ -14,6 +14,7 @@ date: "2026-03-09 19:13"
 date_modified: "2026-03-09 19:13"
 slug: "hreflang"
 url: "/ia/audit/hreflang"
+canonical: "https://blotmkt.com/ia/audit/hreflang.html"
 related_articles:
   - title: "SEO international : le guide pour une stratégie mondiale à l'ère de l'IA"
     url: "/ia/strategie/seo-international"

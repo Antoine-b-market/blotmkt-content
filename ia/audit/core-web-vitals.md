@@ -14,6 +14,7 @@ date: "2026-03-09 05:57"
 date_modified: "2026-03-09 05:57"
 slug: "core-web-vitals"
 url: "/ia/audit/core-web-vitals"
+canonical: "https://blotmkt.com/ia/audit/core-web-vitals.html"
 related_articles:
   - title: "Vitesse de chargement : le guide pour accélérer votre site et booster vos conversions"
     url: "/ia/audit/vitesse-de-chargement"

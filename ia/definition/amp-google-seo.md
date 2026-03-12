@@ -14,6 +14,7 @@ date: "2026-03-09 09:22"
 date_modified: "2026-03-09 09:22"
 slug: "amp-google-seo"
 url: "/ia/definition/amp-google-seo"
+canonical: "https://blotmkt.com/ia/definition/amp-google-seo.html"
 related_articles:
   - title: "Comment rédiger un titre SEO accrocheur : le guide pratique pour booster vos clics"
     url: "/ia/Contenu/titre-accrocheur-seo"

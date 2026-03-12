@@ -14,6 +14,7 @@ date: "2026-03-09 19:10"
 date_modified: "2026-03-09 19:10"
 slug: "pagination-seo"
 url: "/ia/audit/pagination-seo"
+canonical: "https://blotmkt.com/ia/audit/pagination-seo.html"
 related_articles:
   - title: "Exploration Googlebot : le guide complet pour optimiser votre budget de crawl"
     url: "/ia/audit/exploration-googlebot"

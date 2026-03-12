@@ -14,6 +14,7 @@ date: "2026-03-09 08:43"
 date_modified: "2026-03-09 08:43"
 slug: "seo-local"
 url: "/ia/definition/seo-local"
+canonical: "https://blotmkt.com/ia/definition/seo-local.html"
 related_articles:
   - title: "SEO pour Google Business Profile : le guide complet pour dominer la recherche locale"
     url: "/ia/local-seo/google-my-business-seo"

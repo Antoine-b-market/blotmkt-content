@@ -14,6 +14,7 @@ date: "2026-03-09 19:27"
 date_modified: "2026-03-09 19:27"
 slug: "mots-cles-navigationnels"
 url: "/ia/contenu/mots-cles-navigationnels"
+canonical: "https://blotmkt.com/ia/contenu/mots-cles-navigationnels.html"
 related_articles:
   - title: "Mots-clés de marque : le guide stratégique pour protéger et monétiser votre notoriété"
     url: "/ia/contenu/mots-cles-de-marque"

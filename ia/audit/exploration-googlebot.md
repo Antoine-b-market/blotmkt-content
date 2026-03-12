@@ -14,6 +14,7 @@ date: "2026-03-09 06:15"
 date_modified: "2026-03-09 06:15"
 slug: "exploration-googlebot"
 url: "/ia/audit/exploration-googlebot"
+canonical: "https://blotmkt.com/ia/audit/exploration-googlebot.html"
 related_articles:
   - title: "Budget de crawl : le guide pour l'optimiser et accélérer votre indexation"
     url: "/ia/audit/budget-de-crawl"

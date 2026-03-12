@@ -14,6 +14,7 @@ date: "2026-03-09 07:09"
 date_modified: "2026-03-09 07:09"
 slug: "contenu-evergreen"
 url: "/ia/contenu/contenu-evergreen"
+canonical: "https://blotmkt.com/ia/contenu/contenu-evergreen.html"
 related_articles:
   - title: "Page pilier SEO : le guide pour structurer votre autorité thématique"
     url: "/ia/definition/page-pilier-seo"

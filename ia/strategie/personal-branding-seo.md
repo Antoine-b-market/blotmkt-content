@@ -14,6 +14,7 @@ date: "2026-03-09 16:52"
 date_modified: "2026-03-09 16:52"
 slug: "personal-branding-seo"
 url: "/ia/strategie/personal-branding-seo"
+canonical: "https://blotmkt.com/ia/strategie/personal-branding-seo.html"
 related_articles:
   - title: "NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA"
     url: "/ia/local-seo/nap-seo-local"

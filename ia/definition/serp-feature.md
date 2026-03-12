@@ -14,6 +14,7 @@ date: "2026-03-09 09:05"
 date_modified: "2026-03-09 09:05"
 slug: "serp-feature"
 url: "/ia/definition/serp-feature"
+canonical: "https://blotmkt.com/ia/definition/serp-feature.html"
 related_articles:
   - title: "Serp : définition complète de la page de résultats de recherche"
     url: "/ia/definition/serp-definition"

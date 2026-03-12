@@ -14,6 +14,7 @@ date: "2026-03-09 08:40"
 date_modified: "2026-03-09 08:40"
 slug: "topique-d-autorite"
 url: "/ia/definition/topique-d-autorite"
+canonical: "https://blotmkt.com/ia/definition/topique-d-autorite.html"
 related_articles:
   - title: "Page pilier SEO : le guide pour structurer votre autorité thématique"
     url: "/ia/definition/page-pilier-seo"

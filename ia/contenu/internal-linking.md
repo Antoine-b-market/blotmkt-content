@@ -14,6 +14,7 @@ date: "2026-03-09 07:40"
 date_modified: "2026-03-09 07:40"
 slug: "internal-linking"
 url: "/ia/contenu/internal-linking"
+canonical: "https://blotmkt.com/ia/contenu/internal-linking.html"
 related_articles:
   - title: "Netlinking : définition complète, fonctionnement et bénéfices SEO"
     url: "/ia/definition/netlinking-definition"

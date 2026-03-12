@@ -14,6 +14,7 @@ date: "2026-03-09 19:14"
 date_modified: "2026-03-09 19:14"
 slug: "longue-traine-seo"
 url: "/ia/contenu/longue-traine-seo"
+canonical: "https://blotmkt.com/ia/contenu/longue-traine-seo.html"
 related_articles:
   - title: "Mots-clés transactionnels : le guide pour cibler l'intention d'achat avec l'IA"
     url: "/ia/contenu/mots-cles-transactionnels"

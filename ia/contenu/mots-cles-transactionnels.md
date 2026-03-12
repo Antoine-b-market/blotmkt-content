@@ -14,6 +14,7 @@ date: "2026-03-09 19:22"
 date_modified: "2026-03-09 19:22"
 slug: "mots-cles-transactionnels"
 url: "/ia/contenu/mots-cles-transactionnels"
+canonical: "https://blotmkt.com/ia/contenu/mots-cles-transactionnels.html"
 related_articles:
   - title: "Mots-clés informationnels : guide pour optimiser votre stratégie SEO avec l'IA"
     url: "/ia/contenu/mots-cles-informationnels"

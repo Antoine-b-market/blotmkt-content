@@ -14,6 +14,7 @@ date: "2026-03-09 16:42"
 date_modified: "2026-03-09 16:42"
 slug: "seo-international"
 url: "/ia/strategie/seo-international"
+canonical: "https://blotmkt.com/ia/strategie/seo-international.html"
 related_articles:
   - title: "Internal linking : le guide pour un maillage interne seo parfait"
     url: "/ia/Contenu/internal-linking"

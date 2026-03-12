@@ -14,6 +14,7 @@ date: "2026-03-09 16:44"
 date_modified: "2026-03-09 16:44"
 slug: "migration-seo"
 url: "/ia/strategie/migration-seo"
+canonical: "https://blotmkt.com/ia/strategie/migration-seo.html"
 related_articles:
   - title: "Refonte site SEO : le guide pour moderniser votre site sans perdre votre trafic"
     url: "/ia/strategie/refonte-site-seo"

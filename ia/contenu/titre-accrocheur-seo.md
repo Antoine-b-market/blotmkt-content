@@ -14,6 +14,7 @@ date: "2026-03-09 07:43"
 date_modified: "2026-03-09 07:43"
 slug: "titre-accrocheur-seo"
 url: "/ia/contenu/titre-accrocheur-seo"
+canonical: "https://blotmkt.com/ia/contenu/titre-accrocheur-seo.html"
 related_articles:
   - title: "Structure HN : le guide complet pour un SEO sémantique optimisé pour les IA"
     url: "/ia/contenu/structure-hn-seo"

@@ -14,6 +14,7 @@ date: "2026-03-09 19:05"
 date_modified: "2026-03-09 19:05"
 slug: "google-my-business-seo"
 url: "/ia/local-seo/google-my-business-seo"
+canonical: "https://blotmkt.com/ia/local-seo/google-my-business-seo.html"
 related_articles:
   - title: "Optimiser votre seo local : le guide complet pour attirer des clients de proximité"
     url: "/ia/definition/seo-local"

@@ -14,6 +14,7 @@ date: "2026-03-09 08:38"
 date_modified: "2026-03-09 08:38"
 slug: "cocon-semantique"
 url: "/ia/definition/cocon-semantique"
+canonical: "https://blotmkt.com/ia/definition/cocon-semantique.html"
 related_articles:
   - title: "Maillage interne en silo : le guide pour une architecture seo optimisée"
     url: "/ia/definition/maillage-interne-silo"

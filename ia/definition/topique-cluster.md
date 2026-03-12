@@ -14,6 +14,7 @@ date: "2026-03-09 09:02"
 date_modified: "2026-03-09 09:02"
 slug: "topique-cluster"
 url: "/ia/definition/topique-cluster"
+canonical: "https://blotmkt.com/ia/definition/topique-cluster.html"
 related_articles:
   - title: "Page pilier SEO : le guide pour structurer votre autorité thématique"
     url: "/ia/definition/page-pilier-seo"

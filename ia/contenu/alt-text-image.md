@@ -14,6 +14,7 @@ date: "2026-03-09 07:19"
 date_modified: "2026-03-09 07:19"
 slug: "alt-text-image"
 url: "/ia/contenu/alt-text-image"
+canonical: "https://blotmkt.com/ia/contenu/alt-text-image.html"
 related_articles:
   - title: "Image SEO Québec : optimisez votre visibilité pour la recherche visuelle et l'IA"
     url: "/ia/contenu/image-seo-quebec"

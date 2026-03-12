@@ -14,6 +14,7 @@ date: "2026-03-09 17:55"
 date_modified: "2026-03-09 17:55"
 slug: "llm-seo"
 url: "/ia/ia-seo-geo/llm-seo"
+canonical: "https://blotmkt.com/ia/ia-seo-geo/llm-seo.html"
 related_articles:
   - title: "Optimisation llm (llmo) : le guide pratique pour adapter votre seo à l'ère de l'ia"
     url: "/ia/ia-seo-geo/llm-optimization"

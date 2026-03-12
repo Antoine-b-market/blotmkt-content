@@ -14,6 +14,7 @@ date: "2026-03-09 08:54"
 date_modified: "2026-03-09 08:54"
 slug: "lien-ugc"
 url: "/ia/definition/lien-ugc"
+canonical: "https://blotmkt.com/ia/definition/lien-ugc.html"
 related_articles:
   - title: "L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024"
     url: "/ia/definition/attribut-nofollow"

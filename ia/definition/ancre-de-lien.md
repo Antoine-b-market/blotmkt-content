@@ -14,6 +14,7 @@ date: "2026-03-09 07:58"
 date_modified: "2026-03-09 07:58"
 slug: "ancre-de-lien"
 url: "/ia/definition/ancre-de-lien"
+canonical: "https://blotmkt.com/ia/definition/ancre-de-lien.html"
 related_articles:
   - title: "Profil de liens : le guide complet pour analyser et optimiser votre autorité SEO"
     url: "/ia/definition/profil-de-liens"

@@ -14,6 +14,7 @@ date: "2026-03-09 18:05"
 date_modified: "2026-03-09 18:05"
 slug: "moteurs-de-reponse"
 url: "/ia/ia-seo-geo/moteurs-de-reponse"
+canonical: "https://blotmkt.com/ia/ia-seo-geo/moteurs-de-reponse.html"
 related_articles:
   - title: "Generative Engine Optimization (GEO) : le guide complet pour l'ère de l'IA"
     url: "/ia/ia-seo-geo/generative-engine-optimization-(geo)"

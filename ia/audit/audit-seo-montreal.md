@@ -14,6 +14,7 @@ date: "2026-03-09 06:10"
 date_modified: "2026-03-09 06:10"
 slug: "audit-seo-montreal"
 url: "/ia/audit/audit-seo-montreal"
+canonical: "https://blotmkt.com/ia/audit/audit-seo-montreal.html"
 related_articles:
   - title: "Audit SEO Québec : votre guide complet pour une visibilité optimisée"
     url: "/ia/audit/audit-seo-quebec"

@@ -14,6 +14,7 @@ date: "2026-03-09 17:20"
 date_modified: "2026-03-09 17:20"
 slug: "prix-forfait-seo"
 url: "/ia/strategie/prix-forfait-seo"
+canonical: "https://blotmkt.com/ia/strategie/prix-forfait-seo.html"
 related_articles:
   - title: "Audit SEO technique : le guide pour identifier les freins et optimiser votre ROI"
     url: "/ia/Audit/audit-seo-technique"

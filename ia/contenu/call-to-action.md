@@ -14,6 +14,7 @@ date: "2026-03-09 07:00"
 date_modified: "2026-03-09 07:00"
 slug: "call-to-action"
 url: "/ia/contenu/call-to-action"
+canonical: "https://blotmkt.com/ia/contenu/call-to-action.html"
 related_articles:
   - title: "Rédaction SEO : transformez votre contenu en actif stratégique au Québec"
     url: "/ia/contenu/redaction-seo"

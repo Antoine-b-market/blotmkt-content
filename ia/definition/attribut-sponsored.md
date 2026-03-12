@@ -14,6 +14,7 @@ date: "2026-03-09 08:52"
 date_modified: "2026-03-09 08:52"
 slug: "attribut-sponsored"
 url: "/ia/definition/attribut-sponsored"
+canonical: "https://blotmkt.com/ia/definition/attribut-sponsored.html"
 related_articles:
   - title: "L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024"
     url: "/ia/definition/attribut-nofollow"

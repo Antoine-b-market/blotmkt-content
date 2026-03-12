@@ -14,6 +14,7 @@ date: "2026-03-09 16:34"
 date_modified: "2026-03-09 16:34"
 slug: "strategie-seo"
 url: "/ia/strategie/strategie-seo"
+canonical: "https://blotmkt.com/ia/strategie/strategie-seo.html"
 related_articles:
   - title: "L'IA conversationnelle et le SEO : révolutionner la visibilité organique à l'ère des LLM"
     url: "/ia/ia-seo-geo/ia-conversationnelle-seo"

@@ -14,6 +14,7 @@ date: "2026-03-09 17:52"
 date_modified: "2026-03-09 17:52"
 slug: "llm-optimization"
 url: "/ia/ia-seo-geo/llm-optimization"
+canonical: "https://blotmkt.com/ia/ia-seo-geo/llm-optimization.html"
 related_articles:
   - title: "Optimisation SGE : Maîtriser le nouveau paradigme de la recherche IA"
     url: "/ia/ia-seo-geo/sge-optimization"

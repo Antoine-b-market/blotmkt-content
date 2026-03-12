@@ -14,6 +14,7 @@ date: "2026-03-09 06:46"
 date_modified: "2026-03-09 06:46"
 slug: "audit-semantique"
 url: "/ia/audit/audit-semantique"
+canonical: "https://blotmkt.com/ia/audit/audit-semantique.html"
 related_articles:
   - title: "Audit de contenu existant : la méthode complète pour optimiser votre SEO"
     url: "/ia/contenu/audit-contenu-existant"

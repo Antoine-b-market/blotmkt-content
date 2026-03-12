@@ -14,6 +14,7 @@ date: "2026-03-09 09:16"
 date_modified: "2026-03-09 09:16"
 slug: "recherche-vocale-seo"
 url: "/ia/definition/recherche-vocale-seo"
+canonical: "https://blotmkt.com/ia/definition/recherche-vocale-seo.html"
 related_articles:
   - title: "AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes"
     url: "/ia/ia-seo-geo/aeo-answer-engine-optimization"

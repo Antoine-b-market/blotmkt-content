@@ -14,6 +14,7 @@ date: "2026-03-09 16:36"
 date_modified: "2026-03-09 16:36"
 slug: "seo-e-commerce"
 url: "/ia/strategie/seo-e-commerce"
+canonical: "https://blotmkt.com/ia/strategie/seo-e-commerce.html"
 related_articles:
   - title: "Stratégie SEO : le guide pour aligner contenu, ROI et IA générative"
     url: "/ia/strategie/strategie-seo"

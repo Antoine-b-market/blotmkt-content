@@ -14,6 +14,7 @@ date: "2026-03-09 06:56"
 date_modified: "2026-03-09 06:56"
 slug: "compression-image-webp"
 url: "/ia/audit/compression-image-webp"
+canonical: "https://blotmkt.com/ia/audit/compression-image-webp.html"
 related_articles:
   - title: "Largest Contentful Paint (LCP) : le guide complet pour optimiser la vitesse de votre site"
     url: "/ia/audit/largest-contentful-paint"
