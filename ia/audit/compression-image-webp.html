@@ -49,18 +49,13 @@
   "author": {
     "@type": "Person",
     "name": "Antoine Blot",
-    "url": "https://antoine-blot.com",
-    "sameAs": [
-      "https://www.linkedin.com/in/blotantoine/",
-      "https://orcid.org/0009-0005-6450-4528"
-    ]
+    "url": "https://antoine-blot.com"
   },
   "publisher": {
     "@type": "Organization",
     "name": "BlotMKT",
     "url": "https://blotmkt.com"
-  },
-  "inLanguage": "fr-CA"
+  }
 }</script>
 </head>
 <body>
@@ -73,7 +68,7 @@
 <p>Le format WebP développé par Google offre une compression 25 à 35% plus efficace que JPEG à qualité visuelle équivalente</p>
 </li>
 <li>
-<p>WebP améliore directement les Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals), notamment le LCP (Largest Contentful Paint) grâce à des temps de chargement réduits</p>
+<p>WebP améliore directement les <a href="https://blotmkt.com/ia/audit/core-web-vitals">Core Web Vitals</a>, notamment le LCP (Largest Contentful Paint) grâce à des temps de chargement réduits</p>
 </li>
 <li>
 <p>Le format AVIF surpasse WebP avec 50% de compression supplémentaire mais reste limité par sa compatibilité navigateur (92% contre 97% pour WebP)</p>
@@ -81,7 +76,7 @@
 </ul>
 </blockquote>
 <p>Vous perdez des visiteurs à cause d'images trop lourdes ? 
-Seulement 62% des sites mobiles atteignent un bon score LCP (Largest Contentful Paint](https://blotmkt.com/ia/audit/largest-contentful-paint)) en 2024
+Seulement 62% des sites mobiles atteignent un bon score LCP (<a href="https://blotmkt.com/ia/audit/largest-contentful-paint">Largest Contentful Paint</a>) en 2024
 , l'un des critères essentiels des Core Web Vitals de Google. La compression WebP représente la solution la plus efficace pour réduire le poids de vos Images sans compromettre leur qualité visuelle, améliorant ainsi instantanément votre SEO et l'expérience utilisateur.</p>
 <hr />
 <h2>Qu'est-ce que la compression WebP ?</h2>
@@ -104,8 +99,8 @@ Les tests montrent qu'une transition vers WebP depuis PNG peut augmenter votre s
 <p>Cette amélioration se traduit par une meilleure expérience utilisateur et potentiellement un taux de conversion plus élevé sur les sites e-commerce. 
 Google privilégiant les pages à chargement rapide, il favorise les sites utilisant des formats nouvelle génération comme WebP, améliorant leur visibilité dans les résultats de recherche
 .</p>
-<h2>Implémenter le WebP : guide pratique et balise <code>&amp;lt;picture&gt;</code></h2>
-<p>La Balise HTML <code>&amp;lt;picture&gt;</code> représente la méthode standard pour servir le WebP avec un fallback automatique. Cette approche garantit une compatibilité universelle tout en optimisant les performances pour les navigateurs compatibles.</p>
+<h2>Implémenter le WebP : guide pratique et balise <code>&lt;picture&gt;</code></h2>
+<p>La Balise HTML <code>&lt;picture&gt;</code> représente la méthode standard pour servir le WebP avec un fallback automatique. Cette approche garantit une compatibilité universelle tout en optimisant les performances pour les navigateurs compatibles.</p>
 <p>Pour la conversion, plusieurs outils s'offrent à vous : les convertisseurs en ligne comme Squoosh de Google, les logiciels comme Photoshop (depuis 2019), ou les outils en ligne de commande avec cwebp. 
 N'oubliez pas les bonnes pratiques : attributs alt descriptifs et riches en mots-clés, noms de fichiers descriptifs, et compression même avec WebP
 .</p>
@@ -118,7 +113,7 @@ AVIF peut compresser les images plus efficacement que les anciens formats, avec 
 . AVIF peut être jusqu'à 50% plus léger que JPEG, et environ 20% plus performant que WebP.</p>
 <h3>Compatibilité navigateur</h3>
 <p>AVIF afFiche un score de compatibilité navigateur de 92%, supporté par tous les navigateurs principaux représentant plus de 93% de tous les navigateurs web utilisés
-. La stratégie recommandée consiste à utiliser une cascade de formats dans la Balise <code>&amp;lt;picture&gt;</code> : AVIF &gt; WebP &gt; JPEG pour servir l'image la plus optimisée possible selon les capacités du navigateur.</p>
+. La stratégie recommandée consiste à utiliser une cascade de formats dans la Balise <code>&lt;picture&gt;</code> : AVIF &gt; WebP &gt; JPEG pour servir l'image la plus optimisée possible selon les capacités du navigateur.</p>
 <h2>Automatiser l'optimisation WebP sur votre site</h2>
 <p>L'Audit de vos images non optimisées peut se faire via PageSpeed Insights, Search Console ou des crawlers SEO spécialisés. 
 L'optimisation d'images peut utiliser un plugin comme ShortPixel ou Imagify pour auto-convertir les images en WebP, ajouter les attributs width/height, et implémenter le lazy loading, avec l'utilisation d'un CDN comme Cloudflare pour réduire les temps de chargement des ressources de 50 à 80%
@@ -130,7 +125,7 @@ Cloudinary détecte la compatibilité du navigateur et livre le bon format sans 
 <h3>Pourquoi utiliser le format WebP ?</h3>
 <p>WebP réduit la taille des fichiers de 25-35% par rapport aux formats traditionnels, améliorant directement les Core Web Vitals et l'expérience utilisateur. Cette Optimisation booste le SEO et peut augmenter les taux de conversion.</p>
 <h3>Comment convertir une image JPEG en WebP ?</h3>
-<p>Utilisez des outils comme Squoosh (Google), Photoshop, ou des convertisseurs en ligne. Implémentez ensuite avec la balise <code>&amp;lt;picture&gt;</code> pour assurer la compatibilité avec tous les navigateurs.</p>
+<p>Utilisez des outils comme Squoosh (Google), Photoshop, ou des convertisseurs en ligne. Implémentez ensuite avec la balise <code>&lt;picture&gt;</code> pour assurer la compatibilité avec tous les navigateurs.</p>
 <h3>Est-ce que le WebP est de bonne qualité ?</h3>
 <p>Oui, WebP maintient une qualité visuelle équivalente voire supérieure aux formats traditionnels grâce à ses algorithmes de compression avancés basés sur les technologies vidéo.</p>
 <h3>Quel navigateur ne supporte pas le WebP ?</h3>
@@ -139,16 +134,9 @@ Cloudinary détecte la compatibilité du navigateur et livre le bon format sans 
 <hr />
 <p><em>Sources : Google Developers (2024), Stan Ventures (2025), Unlimited Elements (2025), Webhelpagency (2025)</em></p>
 <hr />
-<hr />
-<h2>Articles connexes</h2>
-<ul>
-<li>Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo)</li>
-<li>Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site)</li>
-<li>Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first)</li>
-<li>Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique)</li>
-<li>Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal)</li>
-</ul>
-    </article>
+<hr /><div class="related"><h2>Articles connexes</h2><ul><li><a href="https://blotmkt.com/ia/audit/analyse-de-logs-seo">Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl</a></li><li><a href="https://blotmkt.com/ia/audit/architecture-de-site">Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO</a></li><li><a href="https://blotmkt.com/ia/audit/audit-mobile-first">Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google</a></li><li><a href="https://blotmkt.com/ia/audit/audit-semantique">Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche</a></li><li><a href="https://blotmkt.com/ia/audit/audit-seo-montreal">Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux</a></li></ul></div>
+    
+  </article>
   <footer>
     <p>Par <a href="https://antoine-blot.com">Antoine Blot</a> — <a href="https://blotmkt.com">BlotMKT</a> · <a href="https://blotmkt.com/ia/audit/compression-image-webp.md">Markdown</a></p>
   </footer>
