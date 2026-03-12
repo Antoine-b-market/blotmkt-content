@@ -130,7 +130,7 @@ Commencez par un Audit complet identifiant les freins techniques et les opportun
 ```json
 {
   "@context": "https://Schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Stratégie SEO : le guide pour aligner contenu, ROI et IA générative",
@@ -158,7 +158,7 @@ Commencez par un Audit complet identifiant les freins techniques et les opportun
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Combien de temps faut-il pour voir les résultats d'une stratégie SEO ?",
@@ -182,7 +182,7 @@ Commencez par un Audit complet identifiant les freins techniques et les opportun
             "@type": "Answer",
             "text": "Commencez par un audit complet identifiant les freins techniques et les opportunités sémantiques. Définissez ensuite des objectifs alignés sur vos enjeux business avant de prioriser les actions à fort impact ROI selon votre secteur et vos ressources disponibles."
           }
-        },
+        }
       ]
     }
   ]
@@ -190,6 +190,16 @@ Commencez par un Audit complet identifiant les freins techniques et les opportun
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
+- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
+- Audit de site web : le guide complet pour un diagnostic SEO actionnable
+- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
+- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

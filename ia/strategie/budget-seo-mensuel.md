@@ -125,7 +125,7 @@ Contrairement au SEA où le trafic s'arrête dès que vous coupez le budget, le 
 ```json
 {
   "@context": "https://Schema.org",
-  "@Graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation",
@@ -153,7 +153,7 @@ Contrairement au SEA où le trafic s'arrête dès que vous coupez le budget, le 
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Quel est le budget SEO moyen pour une PME ?",
@@ -185,7 +185,7 @@ Contrairement au SEA où le trafic s'arrête dès que vous coupez le budget, le 
             "@type": "Answer",
             "text": "Les freelances conviennent aux budgets 500-3000€/mois pour des besoins spécifiques. Les agences sont recommandées au-delà de 3000€/mois pour une expertise pluridisciplinaire et une gestion de projet complète."
           }
-        },
+        }
       ]
     }
   ]
@@ -193,6 +193,16 @@ Contrairement au SEA où le trafic s'arrête dès que vous coupez le budget, le 
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
+- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
+- Audit de site web : le guide complet pour un diagnostic SEO actionnable
+- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
+- Consultant SEO Montréal : transformez votre site en un actif de croissance
 
 ---
 

@@ -78,7 +78,7 @@ Un accompagnement complet sur 1 an pour un site e-commerce de TPE/PME peut aller
 .
 
 La complexité du site influence directe)ment le tarif : 
-pour une TPE ou PME locale, un [Budget SEO mensuel](https://blotmkt.com/ia/strategie/budget-seo-mensuel) efficace démarre rarement en dessous de 1 000€ HT. En dessous de ce seuil, le nombre d'heures allouées ne permet pas de générer suffisamment d'actions pour bouger les lignes face à la concurrence
+pour une TPE ou PME locale, un Budget SEO mensuel efficace démarre rarement en dessous de 1 000€ HT. En dessous de ce seuil, le nombre d'heures allouées ne permet pas de générer suffisamment d'actions pour bouger les lignes face à la concurrence
 .
 
 La démonstration du ROI s'appuie sur des KPIs Business concrets. 
@@ -138,7 +138,7 @@ L'efficacité se mesure via des KPIs business concrets : progression du trafic o
 ```json
 {
   "@context": "https://Schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale",
@@ -166,7 +166,7 @@ L'efficacité se mesure via des KPIs business concrets : progression du trafic o
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Qu'est-ce qu'un accompagnement SEO annuel et que comprend-il ?",
@@ -206,7 +206,7 @@ L'efficacité se mesure via des KPIs business concrets : progression du trafic o
             "@type": "Answer",
             "text": "Indispensable pour les secteurs concurrentiels, les sites e-commerce avec catalogues évolutifs, et les entreprises B2B à cycle de vente long nécessitant autorité et crédibilité sur la durée."
           }
-        },
+        }
       ]
     }
   ]
@@ -214,6 +214,16 @@ L'efficacité se mesure via des KPIs business concrets : progression du trafic o
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal) : votre partenaire stratégique pour une croissance durable
+- Audit de site web : le guide complet pour un diagnostic SEO actionnable
+- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
+- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
+- Consultant SEO Montréal : transformez votre site en un actif de croissance
 
 ---
 

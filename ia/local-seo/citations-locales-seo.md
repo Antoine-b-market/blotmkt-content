@@ -168,7 +168,7 @@ Vérifiez régulièrement l'exactitude des citations en utilisant des outils gra
 ```json
 {
   "@context": "https://schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Le guide complet des citations locales pour dominer le SEO local",
@@ -228,7 +228,7 @@ Vérifiez régulièrement l'exactitude des citations en utilisant des outils gra
             "@type": "Answer",
             "text": "Utilisez des outils gratuits comme Moz Local, Yelp for Business Owners ou Google Search Console pour détecter les incohérences. Effectuez également des recherches manuelles de votre nom d'entreprise sur Google pour identifier les mentions incorrectes ou les doublons à corriger."
           }
-        },
+        }
       ]
     }
   ]
@@ -236,6 +236,16 @@ Vérifiez régulièrement l'exactitude des citations en utilisant des outils gra
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- [Avis clients SEO](https://blotmkt.com/ia/local-seo/avis-clients-seo) : le guide pour décrypter les témoignages et choisir la bonne agence
+- Optimiser votre [Fiche établissement Google](https://blotmkt.com/ia/local-seo/fiche-etablissement-google) pour une visibilité locale accrue à l'ère de l'IA
+- SEO pour Google Business Profile : le guide complet pour dominer la recherche locale
+- NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA
+- Maîtriser l'optimisation google maps pour propulser votre visibilité locale
 
 ---
 

@@ -144,7 +144,7 @@ Les moteurs génératifs synthétisent une réponse unique en puisant dans plusi
 ```json
 {
   "@context": "https://schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Réponse directe IA : la nouvelle frontière du SEO face à SGE",
@@ -172,7 +172,7 @@ Les moteurs génératifs synthétisent une réponse unique en puisant dans plusi
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Qu'est-ce qu'une réponse directe IA et comment fonctionne-t-elle ?",
@@ -204,7 +204,7 @@ Les moteurs génératifs synthétisent une réponse unique en puisant dans plusi
             "@type": "Answer",
             "text": "Les études montrent une augmentation de visibilité jusqu'à 40%, un renforcement de l'autorité de marque, et des visiteurs provenant des LLM qui valent 4,4 fois plus en termes de conversion que le trafic traditionnel."
           }
-        },
+        }
       ]
     }
   ]
@@ -212,6 +212,16 @@ Les moteurs génératifs synthétisent une réponse unique en puisant dans plusi
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
+- [Algorithme de recommandation](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation) : le guide complet pour éviter les biais et la sur-dépendance
+- [Citations par IA](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia) : comment l'intelligence artificielle réinvente votre contenu
+- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
+- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
 
 ---
 

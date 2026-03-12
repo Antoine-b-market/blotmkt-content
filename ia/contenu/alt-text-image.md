@@ -126,7 +126,7 @@ Bien que l'alt text seul ne propulsera pas une page au sommet des résultats de 
 ```json
 {
   "@context": "https://Schema.org",
-  "@Graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Alt text image : le guide pour optimiser votre SEO et votre accessibilité",
@@ -154,7 +154,7 @@ Bien que l'alt text seul ne propulsera pas une page au sommet des résultats de 
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Faut-il mettre un alt text sur toutes les images ?",
@@ -186,7 +186,7 @@ Bien que l'alt text seul ne propulsera pas une page au sommet des résultats de 
             "@type": "Answer",
             "text": "L'alt text permet aux moteurs de recherche de comprendre le contenu des images, ce qui améliore l'Indexation et le classement dans Google Images. Il renforce aussi la pertinence thématique de la page pour les mots-clés ciblés."
           }
-        },
+        }
       ]
     }
   ]
@@ -194,6 +194,16 @@ Bien que l'alt text seul ne propulsera pas une page au sommet des résultats de 
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- Audit de contenu existant : la méthode complète pour optimiser votre SEO
+- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
+- [Call to action](https://blotmkt.com/ia/contenu/call-to-action) : le guide complet pour créer des cta qui convertissent
+- Le [Clustering de mots-clés](https://blotmkt.com/ia/contenu/clustering-de-mots-cles) : la méthode pour structurer votre contenu pour le SEO moderne
+- Analyse de content gap en SEO : la méthode pour identifier et combler vos lacunes de contenu
 
 ---
 

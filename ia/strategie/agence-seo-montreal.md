@@ -125,7 +125,7 @@ Les premiers résultats tangibles apparaissent généralement 3-4 mois après le
 ```json
 {
   "@context": "https://Schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Agence SEO Montréal : votre partenaire stratégique pour une croissance durable",
@@ -153,7 +153,7 @@ Les premiers résultats tangibles apparaissent généralement 3-4 mois après le
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Combien coûte une agence SEO à Montréal ?",
@@ -177,7 +177,7 @@ Les premiers résultats tangibles apparaissent généralement 3-4 mois après le
             "@type": "Answer",
             "text": "Les premiers résultats tangibles apparaissent en 3-4 mois, les résultats significatifs en 6-9 mois, et le plein potentiel en 12-18 mois d'investissement continu. Le SEO est un marathon nécessitant une vision long terme pour maximiser le ROI."
           }
-        },
+        }
       ]
     }
   ]
@@ -185,6 +185,16 @@ Les premiers résultats tangibles apparaissent généralement 3-4 mois après le
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
+- Audit de site web : le guide complet pour un diagnostic SEO actionnable
+- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
+- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
+- Consultant SEO Montréal : transformez votre site en un actif de croissance
 
 ---
 

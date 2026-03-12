@@ -180,7 +180,7 @@ Dans votre interface Google Business Profile, accédez à la section "Produits" 
 ```json
 {
   "@context": "https://Schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA",
@@ -248,7 +248,7 @@ Dans votre interface Google Business Profile, accédez à la section "Produits" 
             "@type": "Answer",
             "text": "Voir la section correspondante."
           }
-        },
+        }
       ]
     }
   ]
@@ -256,6 +256,16 @@ Dans votre interface Google Business Profile, accédez à la section "Produits" 
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- [Avis clients SEO](https://blotmkt.com/ia/local-seo/avis-clients-seo) : le guide pour décrypter les témoignages et choisir la bonne agence
+- Le guide complet des citations locales pour dominer le [SEO local](https://blotmkt.com/ia/definition/seo-local)
+- SEO pour Google Business Profile : le guide complet pour dominer la recherche locale
+- NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA
+- Maîtriser l'optimisation google maps pour propulser votre visibilité locale
 
 ---
 

@@ -120,7 +120,7 @@ Agence SEO Zenith, CyberPerformance, Desire Marketing
 ```json
 {
   "@context": "https://Schema.org",
-  "@Graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Expert SEO au Québec : optimisez votre visibilité pour l'ère des IA",
@@ -148,7 +148,7 @@ Agence SEO Zenith, CyberPerformance, Desire Marketing
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Quel est le prix moyen d'un expert SEO au Québec ?",
@@ -188,7 +188,7 @@ Agence SEO Zenith, CyberPerformance, Desire Marketing
             "@type": "Answer",
             "text": "Vérifiez ses études de cas, ses certifications, sa connaissance des outils SEO professionnels, sa capacité à expliquer clairement sa méthodologie et ses résultats mesurables obtenus."
           }
-        },
+        }
       ]
     }
   ]
@@ -196,6 +196,16 @@ Agence SEO Zenith, CyberPerformance, Desire Marketing
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
+- [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal) : votre partenaire stratégique pour une croissance durable
+- Audit de site web : le guide complet pour un diagnostic SEO actionnable
+- [Budget SEO mensuel](https://blotmkt.com/ia/strategie/budget-seo-mensuel) : le guide pour un investissement qui maximise votre indexation
+- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

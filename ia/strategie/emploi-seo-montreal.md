@@ -134,7 +134,7 @@ L'avantage des formations certifiantes est l'accès à l'expertise d'un formateu
 ```json
 {
   "@context": "https://Schema.org",
-  "@Graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Le marché de l'emploi SEO à Montréal : guide des rôles, salaires et compétences",
@@ -162,7 +162,7 @@ L'avantage des formations certifiantes est l'accès à l'expertise d'un formateu
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Comment devenir spécialiste SEO à Montréal ?",
@@ -194,7 +194,7 @@ L'avantage des formations certifiantes est l'accès à l'expertise d'un formateu
             "@type": "Answer",
             "text": "Une certification Google Analytics est recommandée et une certification Google Adwords constitue un plus. Les formations certifiantes donnent accès à une expertise reconnue et une certification en référencement web au Québec."
           }
-        },
+        }
       ]
     }
   ]
@@ -202,6 +202,16 @@ L'avantage des formations certifiantes est l'accès à l'expertise d'un formateu
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
+- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
+- Audit de site web : le guide complet pour un diagnostic SEO actionnable
+- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
+- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

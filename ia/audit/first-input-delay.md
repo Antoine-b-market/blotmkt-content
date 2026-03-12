@@ -40,7 +40,7 @@ L'Optimisation JavaScript (réduction des tâches longues, utilisation de Web Wo
 Les améliorations du FID constituent une base solide pour optimiser l'INP et la réactivité générale
 
 La réactivité des sites web constitue un enjeu majeur pour l'expérience utilisateur et le référencement. 
-Le First Input Delay (FID) n'est plus une métrique [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals) et a été remplacé par l'Interaction to Next Paint (INP)
+Le First Input Delay (FID) n'est plus une métrique Core Web Vitals et a été remplacé par l'Interaction to Next Paint (INP)
 . Toutefois, comprendre le FID reste essentiel car ses principes et Optimisations constituent un fondement précieux pour maîtriser l'INP, la nouvelle référence en matière de réactivité web. Cette transition marque une évolution importante dans l'évaluation des performances interactives des pages.
 
 ---
@@ -149,12 +149,12 @@ Le FID mesure uniquement le délai de la première interaction, tandis que l'INP
 ```json
 {
   "@context": "https://Schema.org",
-  "@Graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "First Input Delay (FID) : le guide pour optimiser l'ancienne métrique et réussir la transition vers l'INP",
       "description": "Découvrez ce qu'est le First Input Delay (FID), pourquoi il a été remplacé par l'INP et comment optimiser la réactivité de votre site pour le SEO.",
-      "url": "https://blotmkt.com/ia/Audit/first-input-delay",
+      "url": "https://blotmkt.com/ia/audit/first-input-delay",
       "datePublished": "2026-03-09 06:05",
       "dateModified": "2026-03-09 06:05",
       "author": {
@@ -177,7 +177,7 @@ Le FID mesure uniquement le délai de la première interaction, tandis que l'INP
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Quel est un bon score First Input Delay ?",
@@ -209,7 +209,7 @@ Le FID mesure uniquement le délai de la première interaction, tandis que l'INP
             "@type": "Answer",
             "text": "Le FID mesure uniquement le délai de la première interaction, tandis que l'INP considère toutes les interactions et identifie la plus lente. L'INP offre une vision plus complète de la réactivité sur l'ensemble de la session utilisateur."
           }
-        },
+        }
       ]
     }
   ]
@@ -217,6 +217,16 @@ Le FID mesure uniquement le délai de la première interaction, tandis que l'INP
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- Maîtriser l'[Analyse de logs SEO](https://blotmkt.com/ia/audit/analyse-de-logs-seo) pour optimiser votre budget de crawl
+- [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site) : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
+- [Audit mobile-first](https://blotmkt.com/ia/audit/audit-mobile-first) : la méthode complète pour garantir votre visibilité sur Google
+- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
+- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
 
 ---
 

@@ -178,7 +178,7 @@ Les prompts SEO sont de véritables outils d'Analyse éditoriale, capables de tr
 ```json
 {
   "@context": "https://Schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Le prompt SEO : votre guide pour une visibilité accrue en ligne et sur l'IA",
@@ -206,7 +206,7 @@ Les prompts SEO sont de véritables outils d'Analyse éditoriale, capables de tr
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Le prompt SEO remplace-t-il le SEO classique ?",
@@ -238,7 +238,7 @@ Les prompts SEO sont de véritables outils d'Analyse éditoriale, capables de tr
             "@type": "Answer",
             "text": "Non, il est particulièrement efficace dans les niches spécialisées. Les IA ne favorisent pas automatiquement les grandes marques - elles privilégient la qualité et la pertinence du contenu. Une petite entreprise publiant du contenu autoritaire sur un sujet spécialisé peut obtenir des taux de citation élevés."
           }
-        },
+        }
       ]
     }
   ]
@@ -246,6 +246,16 @@ Les prompts SEO sont de véritables outils d'Analyse éditoriale, capables de tr
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
+- [Algorithme de recommandation](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation) : le guide complet pour éviter les biais et la sur-dépendance
+- [Citations par IA](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia) : comment l'intelligence artificielle réinvente votre contenu
+- [Contenu IA SEO](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo) : le guide pour une stratégie de référencement sémantique
+- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
 
 ---
 

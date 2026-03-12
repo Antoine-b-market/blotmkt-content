@@ -138,12 +138,12 @@ La stratégie optimale combine les deux approches. Le contenu informatif constru
 ```json
 {
   "@context": "https://Schema.org",
-  "@Graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Intention informative : le guide SEO complet à l'ère de l'ia (SGE)",
       "description": "Découvrez ce qu'est l'intention informative et comment l'IA la transforme. Optimisez votre contenu pour SGE et capturez un trafic qualifié au sommet du tunnel.",
-      "url": "https://blotmkt.com/ia/définition/intention-informative",
+      "url": "https://blotmkt.com/ia/definition/intention-informative",
       "datePublished": "2026-03-09 09:13",
       "dateModified": "2026-03-09 09:13",
       "author": {
@@ -166,7 +166,7 @@ La stratégie optimale combine les deux approches. Le contenu informatif constru
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Comment savoir si un mot-clé est informatif ?",
@@ -190,7 +190,7 @@ La stratégie optimale combine les deux approches. Le contenu informatif constru
             "@type": "Answer",
             "text": "La stratégie optimale combine les deux approches. Le Contenu informatif construit l'autorité thématique et capture le trafic en haut de funnel, tandis que le contenu transactionnel convertit en bas de funnel. Dans l'écosystème SGE, le contenu informatif devient encore plus stratégique pour obtenir des citations et construire la confiance nécessaire aux conversions futures."
           }
-        },
+        }
       ]
     }
   ]
@@ -198,6 +198,16 @@ La stratégie optimale combine les deux approches. Le contenu informatif constru
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- Décrypter l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) : le guide complet de RankBrain à l'IA générative
+- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
+- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
+- L'[Attribut Nofollow](https://blotmkt.com/ia/definition/attribut-nofollow) en seo : le guide pratique pour le maîtriser en 2024
+- Attribut sponsored : le guide complet pour vos liens payants en seo
 
 ---
 

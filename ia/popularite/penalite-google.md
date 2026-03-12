@@ -157,7 +157,7 @@ Une pénalité manuelle implique une intervention humaine avec notification obli
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Comment savoir si mon site est pénalisé par Google ?",
@@ -189,7 +189,7 @@ Une pénalité manuelle implique une intervention humaine avec notification obli
             "@type": "Answer",
             "text": "Une pénalité manuelle implique une intervention humaine avec notification obligatoire et demande de réexamen. Un filtre algorithmique est automatique, sans notification, et nécessite une amélioration globale du site pour récupérer naturellement les positions perdues."
           }
-        },
+        }
       ]
     }
   ]
@@ -197,6 +197,16 @@ Une pénalité manuelle implique une intervention humaine avec notification obli
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
+- [Désindexation Google](https://blotmkt.com/ia/popularite/desindexation-google): guide pratique pour contrôler votre visibilité en ligne
+- [Facteurs de classement Google](https://blotmkt.com/ia/popularite/facteurs-de-classement-google) : le guide basé sur la documentation officielle
+- Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
+- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
 
 ---
 

@@ -129,7 +129,7 @@ Lorsque les sanctions infligées par Google sont liées à la qualité des liens
 ```json
 {
   "@context": "https://schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Sur-optimisation seo : les signes qui ne trompent pas et comment éviter la pénalité",
@@ -157,7 +157,7 @@ Lorsque les sanctions infligées par Google sont liées à la qualité des liens
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Comment savoir si mon site est sur-optimisé ?",
@@ -181,7 +181,7 @@ Lorsque les sanctions infligées par Google sont liées à la qualité des liens
             "@type": "Answer",
             "text": "Réalisez un Audit complet de vos liens entrants, identifiez les sites de mauvaise qualité et les liens ajoutés massivement, puis utilisez l'outil de désaveu Google. Privilégiez ensuite l'acquisition naturelle de liens éditoriaux de qualité."
           }
-        },
+        }
       ]
     }
   ]
@@ -189,6 +189,16 @@ Lorsque les sanctions infligées par Google sont liées à la qualité des liens
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
+- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
+- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
+- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
+- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
 
 ---
 

@@ -34,7 +34,7 @@ Une entité nommée désigne le processus par lequel un système identifie autom
 Un mot-clé comme "Apple" est ambiguë, tandis qu'une entité comme Apple Inc. est clairement définie comme une entreprise technologique avec des produits, fondateurs et concurrents. Google stocke cette entité avec des identifiants uniques
 
 > - 
-Le balisage S[chema.org, notamment les types "Person", "Organization", "Product" et "LocalBusiness", permet à Google d'identifier et connecter les entités de votre site au web plus large
+Le balisage [Schema.org](https://blotmkt.com/ia/definition/schema.org), notamment les types "Person", "Organization", "Product" et "LocalBusiness", permet à Google d'identifier et connecter les entités de votre site au web plus large
 
 > - 
 99 % des sources citées dans les blocs IA proviennent du top 10 des résultats organiques. L'Optimisation pour l'IA n'est donc pas distincte du SEO classique
@@ -47,7 +47,7 @@ Google) ne fonctionne plus avec une logique de correspondance exacte, mais dans 
 
 ## Définition : qu'est-ce qu'une entité nommée en SEO ?
 
-Une entité nommée est un concept, un objet, une personne, un lieu ou une idée qui est unique, distincte et bien définie. Pour Google, une entité n'est pas un mot, c'est un identifiant unique dans sa base de données ([Knowledge Graph](https://blotmkt.com/ia/definition/knowledge-graph))
+Une entité nommée est un concept, un objet, une personne, un lieu ou une idée qui est unique, distincte et bien définie. Pour Google, une entité n'est pas un mot, c'est un identifiant unique dans sa base de données ([Knowledge Graph)
 . Ce concept révolutionne la façon dont les moteurs de recherche comprennent et organisent l'information.
 
 Les triplets sémantiques sont les briques de base des graphes de connaissances (knowledge graphs) comme celui de Google. Une fois les entités reconnues, elles sont liées entre elles via des relations
@@ -79,7 +79,7 @@ L'entité se caractérise par sa capacité à connecter des informations dispers
 
 ### Structurer votre présence digitale
 
-Le balisage [Schema.org](https://blotmkt.com/ia/definition/schema.org) est la fondation pour aider Google à comprendre votre contenu. Ajouter des markups pertinents comme "Person", "Organization", "Product" et "LocalBusiness" permet à Google d'identifier et connecter les entités
+Le balisage Schema.org est la fondation pour aider Google à comprendre votre contenu. Ajouter des markups pertinents comme "Person", "Organization", "Product" et "LocalBusiness" permet à Google d'identifier et connecter les entités
 . Cette structuration technique constitue la base de votre reconnaissance en tant qu'entité.
 
 Créez une page "À propos" détaillée qui présente clairement votre expertise, votre parcours et vos domaines de spécialisation. 
@@ -88,7 +88,7 @@ Optimisez vos pages biographiques avec une biographie narrative détaillant le p
 
 ### Développer votre écosystème d'autorité
 
-Google, Amazon (Alexa), Apple (Siri) et la plupart des IA puisent massivement dans Wikidata pour construire leur Knowledge Graph. Être présent et correctement renseigné sur Wikidata envoie un signal fort : "J'existe, voici mon identité vérifiée"
+Google, Amazon (Alexa), Apple (Siri) et la plupart des IA puisent massivement dans Wikidata pour construire leur [Knowledge Graph](https://blotmkt.com/ia/definition/knowledge-graph). Être présent et correctement renseigné sur Wikidata envoie un signal fort : "J'existe, voici mon identité vérifiée"
 .
 
 La création d'une entrée Wikidata nécessite une approche rigoureuse : 
@@ -147,7 +147,7 @@ Complétez avec des outils comme Contentsprout AI, Google Trends et Text Razor p
 ```json
 {
   "@context": "https://schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Entité nommée SEO : le guide pour devenir une référence aux yeux de Google",
@@ -175,7 +175,7 @@ Complétez avec des outils comme Contentsprout AI, Google Trends et Text Razor p
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Comment savoir si ma marque est une entité pour Google ?",
@@ -199,7 +199,7 @@ Complétez avec des outils comme Contentsprout AI, Google Trends et Text Razor p
             "@type": "Answer",
             "text": "Utilisez l'Entity Indexing checker d'Inlinks pour analyser la reconnaissance de vos entités. Complétez avec Google Knowledge Graph API, contentsprout AI pour les topic clusters, et Google Trends pour identifier les entités liées à votre domaine. Ces outils vous aideront à mesurer et optimiser votre présence d'entité."
           }
-        },
+        }
       ]
     }
   ]
@@ -207,6 +207,16 @@ Complétez avec des outils comme Contentsprout AI, Google Trends et Text Razor p
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
+- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
+- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
+- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
+- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
 
 ---
 

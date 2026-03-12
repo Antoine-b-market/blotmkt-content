@@ -123,7 +123,7 @@ Des outils spécialisés comme OtterlyAI, Profound ou Peec AI permettent désorm
 ```json
 {
   "@context": "https://Schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Citations par IA : comment l'intelligence artificielle réinvente votre contenu",
@@ -175,7 +175,7 @@ Des outils spécialisés comme OtterlyAI, Profound ou Peec AI permettent désorm
             "@type": "Answer",
             "text": "Oui, des outils spécialisés comme OtterlyAI, Profound ou Peec AI permettent de suivre les citations. Il convient toutefois de vérifier systématiquement l'authenticité et la source originale de toute citation attribuée."
           }
-        },
+        }
       ]
     }
   ]
@@ -183,6 +183,16 @@ Des outils spécialisés comme OtterlyAI, Profound ou Peec AI permettent désorm
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
+- [Algorithme de recommandation](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation) : le guide complet pour éviter les biais et la sur-dépendance
+- [Contenu IA SEO](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo) : le guide pour une stratégie de référencement sémantique
+- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
+- Entité nommée SEO : le guide pour devenir une référence aux yeux de Google
 
 ---
 

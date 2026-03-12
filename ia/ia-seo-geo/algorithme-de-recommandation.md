@@ -171,7 +171,7 @@ Les opérateurs espèrent un effet positif comme l'augmentation des visiteurs da
 ```json
 {
   "@context": "https://Schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance",
@@ -199,7 +199,7 @@ Les opérateurs espèrent un effet positif comme l'augmentation des visiteurs da
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Qu'est-ce qu'un algorithme de recommandation et comment fonctionne-t-il ?",
@@ -231,7 +231,7 @@ Les opérateurs espèrent un effet positif comme l'augmentation des visiteurs da
             "@type": "Answer",
             "text": "Un ROI sain se situe entre 20% et 30% pour l'e-commerce, permettant réinvestissement et stabilité. Mesurez l'impact sur le panier moyen, taux de conversion, CLV et temps de session. L'A/B testing et l'Optimisation continue maximisent les performances long terme."
           }
-        },
+        }
       ]
     }
   ]
@@ -239,6 +239,16 @@ Les opérateurs espèrent un effet positif comme l'augmentation des visiteurs da
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
+- [Citations par IA](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia) : comment l'intelligence artificielle réinvente votre contenu
+- [Contenu IA SEO](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo) : le guide pour une stratégie de référencement sémantique
+- [Contextualisation SEO](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo) : le guide pour optimiser au-delà des mots-clés
+- Entité nommée SEO : le guide pour devenir une référence aux yeux de Google
 
 ---
 

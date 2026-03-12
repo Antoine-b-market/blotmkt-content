@@ -41,21 +41,63 @@
     footer{margin-top:48px;padding-top:16px;border-top:1px solid #eee;font-size:0.78rem;color:#aaa}
   </style>
   <script type="application/ld+json">{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Vitesse de chargement : le guide pour accélérer votre site et booster vos conversions",
-  "description": "Découvrez pourquoi la vitesse de chargement est cruciale pour votre SEO et vos conversions. Apprenez à optimiser votre site pour une expérience parfaite.",
-  "url": "https://blotmkt.com/ia/audit/vitesse-de-chargement.html",
-  "author": {
-    "@type": "Person",
-    "name": "Antoine Blot",
-    "url": "https://antoine-blot.com"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "BlotMKT",
-    "url": "https://blotmkt.com"
-  }
+  "@context": "https://Schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Vitesse de chargement : le guide pour accélérer votre site et booster vos conversions",
+      "description": "Découvrez pourquoi la vitesse de chargement est cruciale pour votre SEO et vos conversions. Apprenez à optimiser votre site pour une expérience parfaite.",
+      "url": "https://blotmkt.com/ia/audit/vitesse-de-chargement",
+      "datePublished": "2026-03-09 06:29",
+      "dateModified": "2026-03-09 06:29",
+      "author": {
+        "@type": "Person",
+        "name": "Antoine Blot",
+        "url": "https://antoine-blot.com",
+        "sameAs": [
+          "https://www.linkedin.com/in/blotantoine/",
+          "https://github.com/Antoine-b-market",
+          "https://orcid.org/0009-0005-6450-4528"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "BlotMKT",
+        "url": "https://blotmkt.com"
+      },
+      "inLanguage": "fr-FR",
+      "keywords": "Optimisation performance web, Core Web Vitals, temps de chargement page, site rapide, PageSpeed Insights"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quel est un bon temps de chargement pour un site web ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Google recommande un temps de chargement optimal de 2 secondes maximum. Pour les Core Web Vitals, visez un LCP inférieur à 2,5 secondes et un INP sous 200 millisecondes. Au-delà de 3 secondes, vous risquez de perdre 40% de vos visiteurs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment savoir si mon site est lent ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Utilisez Google PageSpeed Insights pour un diagnostic gratuit et immédiat. Un score de 90+ est excellent, 50-89 nécessite des améliorations, et moins de 50 indique de sérieux problèmes de performance impactant SEO et conversions. Testez régulièrement vos pages principales."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment tester la vitesse d'un site sur mobile ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "PageSpeed Insights permet de tester spécifiquement la version mobile en sélectionnant l'onglet mobile. C'est crucial car 85% des utilisateurs mobiles s'attendent à des performances égales ou supérieures au desktop, avec des enjeux de conversion encore plus élevés sur mobile."
+          }
+        }
+      ]
+    }
+  ]
 }</script>
 </head>
 <body>
@@ -81,15 +123,15 @@ un CDN obtient une vitesse moyenne de chargement 50 % plus rapide</li>
 <p>La vitesse de chargement représente 
 la durée en secondes que prend une page avant de s'afficher. C'est un élément essentiel de votre stratégie de référencement SEO, car un temps de chargement d'une page web long est pénalisé par Google et impacte l'expérience utilisateur
 .</p>
-<p>Les métriques clés incluent le TTFB (Time To First Byte), le FCP (First Contentful Paint) et le LCP (<a href="https://blotmkt.com/ia/audit/largest-contentful-paint">Largest Contentful Paint</a>). 
+<p>Les métriques clés incluent le TTFB (Time To First Byte), le FCP (First Contentful Paint) et le LCP (Largest Contentful Paint). 
 Le LCP mesure la performance de chargement. Pour fournir une bonne expérience utilisateur, visez un LCP dans les 2,5 premières secondes du début de chargement de la page
 .</p>
 <p>L'impact dépasse le technique : 
-la satisfaction de l'utilisateur est étroitement liée à la rapidité de chargement d'un site. Un site au design impressionnant mais lent à charger verra son <a href="https://blotmkt.com/ia/audit/taux-de-rebond">Taux de rebond</a> augmenter, nuisant à son positionnement sur les moteurs de recherche
+la satisfaction de l'utilisateur est étroitement liée à la rapidité de chargement d'un site. Un site au design impressionnant mais lent à charger verra son Taux de rebond augmenter, nuisant à son positionnement sur les moteurs de recherche
 . La vitesse devient ainsi un facteur de différenciation concurrentielle et de construction de confiance.</p>
 <h2>L'impact mesurable de la vitesse sur le SEO et le taux de conversion</h2>
 <p>Google considère la vitesse de chargement comme un critère de classement. Un site plus rapide est mieux positionné dans les résultats de recherche, ce qui peut augmenter le trafic organique
-. Les <a href="https://blotmkt.com/ia/audit/core-web-vitals">Core Web Vitals</a>, introduits par Google, sont devenus des facteurs de ranking directs.</p>
+. Les Core Web Vitals, introduits par Google, sont devenus des facteurs de ranking directs.</p>
 <p>Les chiffres parlent d'eux-mêmes : 
 un site qui se charge en une seconde a un taux de conversion 3 fois plus élevé qu'un site qui se charge en cinq secondes, et 5 fois plus élevé qu'un site qui se charge en dix secondes. Cette tendance est encore plus marquée pour les sites de commerce électronique B2C, où 81% des sites se chargent en moins de cinq secondes
 .</p>
@@ -140,7 +182,7 @@ Un score de 90 ou plus est excellent, 50-89 est moyen et nécessite du travail, 
 <hr />
 <p><em>Sources : Tekru (2024), Yumens (2024), Soufflemarketing (2024), Waoo Digital (2024), id.agency (2024), Lead Reactor (2024), Flash Design (2024), Ad-sum (2025), Walter Learning, RD Agency (2024)</em></p>
 <hr />
-<hr /><div class="related"><h2>Articles connexes</h2><ul><li><a href="https://blotmkt.com/ia/audit/analyse-de-logs-seo">Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl</a></li><li><a href="https://blotmkt.com/ia/audit/architecture-de-site">Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO</a></li><li><a href="https://blotmkt.com/ia/audit/audit-mobile-first">Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google</a></li><li><a href="https://blotmkt.com/ia/audit/audit-semantique">Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche</a></li><li><a href="https://blotmkt.com/ia/audit/audit-seo-montreal">Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux</a></li></ul></div>
+<hr /><div class="related"><h2>Articles connexes</h2><ul><li><a href="https://blotmkt.com/ia/audit/architecture-de-site">Architecture de site</a></li><li><a href="https://blotmkt.com/ia/audit/audit-mobile-first">Audit mobile-first</a></li></ul></div>
     
   </article>
   <footer>

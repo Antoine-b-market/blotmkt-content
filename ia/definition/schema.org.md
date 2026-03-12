@@ -42,7 +42,7 @@ les utilisateurs cliquent sur les résultats enrichis 58% du temps contre 41% po
 
 ## Qu'est-ce que Schema.org : un langage commun pour les moteurs de recherche
 
-Schema.org est un vocabulaire structuré créé en 2011 par Google, Yahoo, Bing et Yandex pour établir une cohérence des [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees) sur internet
+Schema.org est un vocabulaire structuré créé en 2011 par Google, Yahoo, Bing et Yandex pour établir une cohérence des Données structurées sur internet
 . Ce projet indépendant fonctionne comme un dictionnaire universel que les webmasters utilisent pour décrire le contenu de leurs pages web de manière non ambiguë.
 
 Concrètement, Schema.org permet d'indiquer aux Moteurs de recherche qu'une information spécifique correspond à un prix, une note d'évaluation, une adresse ou tout autre élément défini dans leur vocabulaire. 
@@ -143,12 +143,12 @@ Sur WordPress, utilisez des plugins comme RankMath ou Yoast SEO qui génèrent a
 ```json
 {
   "@context": "https://schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Schema.org : le guide pratique pour booster votre SEO avec les Données structurées",
       "description": "Découvrez ce qu'est Schema.org, comment l'implémenter en JSON-LD et pourquoi c'est crucial pour vos rich snippets. Guide SEO complet et à jour.",
-      "url": "https://blotmkt.com/ia/définition/schema.org",
+      "url": "https://blotmkt.com/ia/definition/schema.org",
       "datePublished": "2026-03-09 08:29",
       "dateModified": "2026-03-09 08:29",
       "author": {
@@ -171,7 +171,7 @@ Sur WordPress, utilisez des plugins comme RankMath ou Yoast SEO qui génèrent a
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Comment savoir si un site utilise Schema.org ?",
@@ -203,7 +203,7 @@ Sur WordPress, utilisez des plugins comme RankMath ou Yoast SEO qui génèrent a
             "@type": "Answer",
             "text": "Sur WordPress, utilisez des plugins comme RankMath ou Yoast SEO qui génèrent automatiquement le JSON-LD. Sur Shopify, modifiez les templates liquid pour inclure le code schema directement ou utilisez des applications dédiées comme JSON-LD for SEO."
           }
-        },
+        }
       ]
     }
   ]
@@ -211,6 +211,16 @@ Sur WordPress, utilisez des plugins comme RankMath ou Yoast SEO qui génèrent a
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- Décrypter l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) : le guide complet de RankBrain à l'IA générative
+- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
+- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
+- L'[Attribut Nofollow](https://blotmkt.com/ia/definition/attribut-nofollow) en seo : le guide pratique pour le maîtriser en 2024
+- Attribut sponsored : le guide complet pour vos liens payants en seo
 
 ---
 

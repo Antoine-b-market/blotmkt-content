@@ -137,7 +137,7 @@ Consultant Marketing (2024), Autoseo (2025), Semrush (2024), Seomix (2024), Code
 ```json
 {
   "@context": "https://schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Audit de site web : le guide complet pour un diagnostic SEO actionnable",
@@ -165,7 +165,7 @@ Consultant Marketing (2024), Autoseo (2025), Semrush (2024), Seomix (2024), Code
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Qu'est-ce qu'un audit de site web et pourquoi est-il crucial pour le SEO ?",
@@ -197,7 +197,7 @@ Consultant Marketing (2024), Autoseo (2025), Semrush (2024), Seomix (2024), Code
             "@type": "Answer",
             "text": "L'approche DIY utilise des outils comme Google Search Console, Screaming Frog ou SEMrush. Elle convient aux petits sites avec expertise interne. Faire appel à un expert se justifie pour les sites complexes, les environnements concurrentiels ou pour obtenir un plan d'action stratégique rapidement et efficacement."
           }
-        },
+        }
       ]
     }
   ]
@@ -205,6 +205,16 @@ Consultant Marketing (2024), Autoseo (2025), Semrush (2024), Seomix (2024), Code
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
+- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
+- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
+- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
+- Consultant SEO Montréal : transformez votre site en un actif de croissance
 
 ---
 

@@ -130,12 +130,12 @@ Non, mais les fuites d'API Google de 2024 confirment que plusieurs variantes mod
 ```json
 {
   "@context": "https://Schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "PageRank Google : comprendre l'algorithme historique et son rôle actuel en SEO",
       "description": "Plongez dans l'histoire et le fonctionnement du PageRank de Google. Découvrez son impact fondateur et sa pertinence comme signal de classement SEO en 2024.",
-      "url": "https://blotmkt.com/ia/définition/pagerank-google",
+      "url": "https://blotmkt.com/ia/definition/pagerank-google",
       "datePublished": "2026-03-09 08:09",
       "dateModified": "2026-03-09 08:09",
       "author": {
@@ -158,7 +158,7 @@ Non, mais les fuites d'API Google de 2024 confirment que plusieurs variantes mod
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Qu'est-ce que le link juice en SEO et comment ça marche ?",
@@ -182,7 +182,7 @@ Non, mais les fuites d'API Google de 2024 confirment que plusieurs variantes mod
             "@type": "Answer",
             "text": "Non, mais les fuites d'API Google de 2024 confirment que plusieurs variantes modernes du PageRank restent utilisées en interne, malgré les déclarations publiques minimisant son importance. Son influence persiste de manière indirecte dans l'évaluation de l'autorité des pages."
           }
-        },
+        }
       ]
     }
   ]
@@ -190,6 +190,16 @@ Non, mais les fuites d'API Google de 2024 confirment que plusieurs variantes mod
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
+- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
+- Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité
+- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
+- Attribut sponsored : le guide complet pour vos liens payants en seo
 
 ---
 

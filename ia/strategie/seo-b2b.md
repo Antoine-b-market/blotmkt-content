@@ -163,7 +163,7 @@ les campagnes SEO atteignant un ROI positif dans les 6-12 mois
 ```json
 {
   "@context": "https://schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "SEO B2B : stratégies pour une croissance numérique durable",
@@ -191,7 +191,7 @@ les campagnes SEO atteignant un ROI positif dans les 6-12 mois
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Comment le SEO B2B diffère-t-il du SEO B2C ?",
@@ -223,7 +223,7 @@ les campagnes SEO atteignant un ROI positif dans les 6-12 mois
             "@type": "Answer",
             "text": "Les résultats SEO B2B sont mesurables après 4-6 mois, avec un ROI positif dans les 6-12 mois. Le secteur B2B SaaS affiche un ROI moyen de 702% avec rentabilité en 7 mois."
           }
-        },
+        }
       ]
     }
   ]
@@ -231,6 +231,16 @@ les campagnes SEO atteignant un ROI positif dans les 6-12 mois
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
+- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
+- Audit de site web : le guide complet pour un diagnostic SEO actionnable
+- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
+- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

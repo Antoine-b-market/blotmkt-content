@@ -148,12 +148,12 @@ Les métriques TF et CF répondent positivement aux efforts d'amélioration. Cr�
 ```json
 {
   "@context": "https://Schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Trust flow SEO : le guide pour aligner votre métrique avec l'E-E-A-T de Google",
       "description": "Découvrez comment le Trust Flow de Majestic est un indicateur clé pour le Trust de l'E-E-A-T. Apprenez à l'améliorer pour renforcer la confiance de Google.",
-      "url": "https://blotmkt.com/ia/définition/trust-flow-seo",
+      "url": "https://blotmkt.com/ia/definition/trust-flow-seo",
       "datePublished": "2026-03-09 08:05",
       "dateModified": "2026-03-09 08:05",
       "author": {
@@ -176,7 +176,7 @@ Les métriques TF et CF répondent positivement aux efforts d'amélioration. Cr�
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Quel est un bon score de Trust Flow ?",
@@ -208,7 +208,7 @@ Les métriques TF et CF répondent positivement aux efforts d'amélioration. Cr�
             "@type": "Answer",
             "text": "Créez du contenu de haute qualité qui attire naturellement des backlinks organiques, effectuez un Audit pour supprimer les liens toxiques, et ciblez l'acquisition de liens depuis des sites à Trust Flow élevé dans votre thématique."
           }
-        },
+        }
       ]
     }
   ]
@@ -216,6 +216,16 @@ Les métriques TF et CF répondent positivement aux efforts d'amélioration. Cr�
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
+- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
+- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
+- L'[Attribut Nofollow](https://blotmkt.com/ia/definition/attribut-nofollow) en seo : le guide pratique pour le maîtriser en 2024
+- Attribut sponsored : le guide complet pour vos liens payants en seo
 
 ---
 

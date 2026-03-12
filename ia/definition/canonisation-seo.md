@@ -179,12 +179,12 @@ Dans un certain nombre de cas, Google lira la balise Canonical mais pourra prend
 ```json
 {
   "@context": "https://Schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Maîtriser la canonisation SEO pour optimiser votre indexation Google",
       "description": "Découvrez l'importance de la canonisation SEO pour gérer le contenu dupliqué. Apprenez à implémenter correctement la balise canonical et à améliorer votre visibilité.",
-      "url": "https://blotmkt.com/ia/définition/canonisation-seo",
+      "url": "https://blotmkt.com/ia/definition/canonisation-seo",
       "datePublished": "2026-03-09 08:46",
       "dateModified": "2026-03-09 08:46",
       "author": {
@@ -207,7 +207,7 @@ Dans un certain nombre de cas, Google lira la balise Canonical mais pourra prend
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Qu'est-ce qu'une balise rel=canonical et à quoi sert-elle ?",
@@ -247,7 +247,7 @@ Dans un certain nombre de cas, Google lira la balise Canonical mais pourra prend
             "@type": "Answer",
             "text": "Google lira la balise Canonical mais pourra prendre une autre décision selon ses Algorithmes pour indexer ou choisir telle page comme canonique. La balise est une recommandation que Google peut ne pas suivre."
           }
-        },
+        }
       ]
     }
   ]
@@ -255,6 +255,16 @@ Dans un certain nombre de cas, Google lira la balise Canonical mais pourra prend
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- Décrypter l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) : le guide complet de RankBrain à l'IA générative
+- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
+- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
+- L'[Attribut Nofollow](https://blotmkt.com/ia/definition/attribut-nofollow) en seo : le guide pratique pour le maîtriser en 2024
+- Attribut sponsored : le guide complet pour vos liens payants en seo
 
 ---
 

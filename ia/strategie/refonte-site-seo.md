@@ -117,7 +117,7 @@ Une faible baisse pendant quelques jours est possible, due aux perturbations cau
 ```json
 {
   "@context": "https://Schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Refonte site SEO : le guide pour moderniser votre site sans perdre votre trafic",
@@ -145,7 +145,7 @@ Une faible baisse pendant quelques jours est possible, due aux perturbations cau
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Qu'est-ce qu'une refonte de site SEO et en quoi diffère-t-elle d'une simple refonte graphique ?",
@@ -177,7 +177,7 @@ Une faible baisse pendant quelques jours est possible, due aux perturbations cau
             "@type": "Answer",
             "text": "Une refonte complète s'impose en cas de baisse durable de visibilité, obsolescence technique (non-responsive), changement d'offre majeur, ou quand la Structure existante devient un frein insurmontable aux objectifs business. L'optimisation continue suffit pour les ajustements ponctuels."
           }
-        },
+        }
       ]
     }
   ]
@@ -185,6 +185,16 @@ Une faible baisse pendant quelques jours est possible, due aux perturbations cau
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
+- [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal) : votre partenaire stratégique pour une croissance durable
+- Audit de site web : le guide complet pour un diagnostic SEO actionnable
+- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
+- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

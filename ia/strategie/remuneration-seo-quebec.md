@@ -159,7 +159,7 @@ En DIY, comptez 0-500 $/mois pour des outils. En accompagnement stratégique (DI
 ```json
 {
   "@context": "https://Schema.org",
-  "@Graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Rémunération SEO au Québec : salaires, tarifs et investissement rentable",
@@ -187,7 +187,7 @@ En DIY, comptez 0-500 $/mois pour des outils. En accompagnement stratégique (DI
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Comment négocier un salaire en SEO au Québec ?",
@@ -219,7 +219,7 @@ En DIY, comptez 0-500 $/mois pour des outils. En accompagnement stratégique (DI
             "@type": "Answer",
             "text": "Le SEO nécessite un investissement constant sur 12 mois (1 289 $/mois en moyenne) mais génère des résultats durables. Le SEM (Google Ads) exige minimalement 1 000 $/mois pour être efficace mais offre des résultats immédiats avec un coût par acquisition continu."
           }
-        },
+        }
       ]
     }
   ]
@@ -227,6 +227,16 @@ En DIY, comptez 0-500 $/mois pour des outils. En accompagnement stratégique (DI
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
+- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
+- Audit de site web : le guide complet pour un diagnostic SEO actionnable
+- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
+- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

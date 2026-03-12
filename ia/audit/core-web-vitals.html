@@ -41,21 +41,71 @@
     footer{margin-top:48px;padding-top:16px;border-top:1px solid #eee;font-size:0.78rem;color:#aaa}
   </style>
   <script type="application/ld+json">{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Core web vitals : le guide pour maîtriser les signaux web essentiels de google",
-  "description": "Découvrez ce que sont les Core Web Vitals (LCP, INP, CLS), pourquoi ils sont cruciaux pour votre SEO et comment les optimiser pour améliorer votre classement.",
-  "url": "https://blotmkt.com/ia/audit/core-web-vitals.html",
-  "author": {
-    "@type": "Person",
-    "name": "Antoine Blot",
-    "url": "https://antoine-blot.com"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "BlotMKT",
-    "url": "https://blotmkt.com"
-  }
+  "@context": "https://Schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Core web vitals : le guide pour maîtriser les signaux web essentiels de Google",
+      "description": "Découvrez ce que sont les Core Web Vitals (LCP, INP, CLS), pourquoi ils sont cruciaux pour votre SEO et comment les optimiser pour améliorer votre classement.",
+      "url": "https://blotmkt.com/ia/audit/core-web-vitals",
+      "datePublished": "2026-03-09 05:57",
+      "dateModified": "2026-03-09 05:57",
+      "author": {
+        "@type": "Person",
+        "name": "Antoine Blot",
+        "url": "https://antoine-blot.com",
+        "sameAs": [
+          "https://www.linkedin.com/in/blotantoine/",
+          "https://github.com/Antoine-b-market",
+          "https://orcid.org/0009-0005-6450-4528"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "BlotMKT",
+        "url": "https://blotmkt.com"
+      },
+      "inLanguage": "fr-FR",
+      "keywords": "LCP, INP, CLS, Page Experience, vitesse de chargement, performance web, PageSpeed Insights, expérience utilisateur, SEO technique"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Qu'est-ce qu'un bon score Core Web Vitals ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un bon score respecte les seuils LCP inférieur à 2,5 secondes, INP inférieur à 200ms et CLS inférieur à 0,1, mesurés au 75e percentile des chargements de page. Ces seuils garantissent une expérience satisfaisante pour la majorité des utilisateurs et influencent positivement le référencement."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "L'indicateur INP remplace-t-il le FID ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui, INP a remplacé First Input Delay (FID) comme Core Web Vital en mars 2024. Contrairement au FID qui ne mesurait que la première interaction, INP évalue la réactivité tout au long de la visite entière, fournissant une image plus précise de l'expérience utilisateur réelle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment les Core Web Vitals affectent-ils le SEO ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Les Core Web Vitals sont un signal de classement confirmé depuis 2021, bien que leur poids reste inférieur à la pertinence du contenu. Leur impact est plus notable quand les pages ont un contenu comparable, lors d'améliorations de performances médiocres, et dans des niches très concurrentielles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment corriger les Erreurs LCP dans Search Console ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pour corriger le LCP, optimisez et compressez vos Images aux formats WebP/AVIF, préchargez les ressources critiques, utilisez un CDN, réduisez le temps de réponse serveur et minimisez le poids du code CSS/JavaScript. Surveillez les améliorations via le rapport Core Web Vitals de Search Console."
+          }
+        }
+      ]
+    }
+  ]
 }</script>
 </head>
 <body>
@@ -64,7 +114,7 @@
 <blockquote>
 <h2>L'essentiel à retenir</h2>
 <h2>- Les Core Web Vitals sont trois métriques spécifiques (LCP, INP, CLS) qui mesurent l'expérience utilisateur réelle et influencent directement les classements SEO depuis 2021</h2>
-<p>LCP mesure la <a href="https://blotmkt.com/ia/audit/vitesse-de-chargement">Vitesse de chargement</a> (objectif : moins de 2,5 secondes), INP évalue la réactivité (moins de 200 millisecondes) et CLS quantifie la stabilité visuelle (moins de 0,1)</p>
+<p>LCP mesure la Vitesse de chargement (objectif : moins de 2,5 secondes), INP évalue la réactivité (moins de 200 millisecondes) et CLS quantifie la stabilité visuelle (moins de 0,1)</p>
 <ul>
 <li>
 <p>Seules les Données utilisateurs réels (CrUX) via PageSpeed Insights et Search Console impactent le SEO, pas les scores Lighthouse</p>
@@ -99,7 +149,7 @@ le Chrome User Experience Report collecte des données de mesure d'utilisateurs 
 Une étude de Google révèle que 53% des utilisateurs quittent un site qui met plus de 3 secondes à se charger
 .</p>
 <h3>Interaction to Next Paint (INP) : la réactivité globale</h3>
-<p>INP a remplacé <a href="https://blotmkt.com/ia/audit/first-input-delay">First Input Delay</a> (FID) le 12 mars 2024, mesurant la latence de toutes les interactions utilisateur pendant une visite, pas seulement la première
+<p>INP a remplacé First Input Delay (FID) le 12 mars 2024, mesurant la latence de toutes les interactions utilisateur pendant une visite, pas seulement la première
 . 
 Pour offrir une bonne expérience utilisateur, les pages doivent avoir un INP de 200 millisecondes ou moins
 .</p>
@@ -153,7 +203,7 @@ Leur impact est plus notable quand les pages ont un Contenu comparable, lors de 
 <hr />
 <p><em>Sources : CoreWebVitals.io (2024), WebAssoc.fr (2025), Google Web.dev (2024), SEO Sandwich (2025)</em></p>
 <hr />
-<hr /><div class="related"><h2>Articles connexes</h2><ul><li><a href="https://blotmkt.com/ia/audit/analyse-de-logs-seo">Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl</a></li><li><a href="https://blotmkt.com/ia/audit/architecture-de-site">Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO</a></li><li><a href="https://blotmkt.com/ia/audit/audit-mobile-first">Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google</a></li><li><a href="https://blotmkt.com/ia/audit/audit-semantique">Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche</a></li><li><a href="https://blotmkt.com/ia/audit/audit-seo-montreal">Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux</a></li></ul></div>
+<hr /><div class="related"><h2>Articles connexes</h2><ul><li><a href="https://blotmkt.com/ia/audit/architecture-de-site">Architecture de site</a></li><li><a href="https://blotmkt.com/ia/audit/audit-mobile-first">Audit mobile-first</a></li></ul></div>
     
   </article>
   <footer>

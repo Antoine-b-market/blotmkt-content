@@ -44,7 +44,7 @@ Le nettoyage de liens, ou link cleanup, constitue l'action préventive et curati
 Ces liens viennent sévèrement entacher notre [Profil de liens](https://blotmkt.com/ia/definition/profil-de-liens), envoyant un mauvais signal à Google qui peut décider de pénaliser votre site web
 .
 
-Son rôle s'articule sur deux niveaux complémentaires. D'une part, il agit préventivement pour éviter les sanctions algorithmiques, notamment celles du [Filtre Google](https://blotmkt.com/ia/popularite/filtre-google) Penguin qui 
+Son rôle s'articule sur deux niveaux complémentaires. D'une part, il agit préventivement pour éviter les sanctions algorithmiques, notamment celles du Filtre Google Penguin qui 
 avait pour objectif de pénaliser les sites utilisant des techniques de manipulation des liens pour améliorer leur référencement naturel : la sur-Optimisation, les liens artificiels ou encore le spamming, privilégiant les pratiques naturelles et éthiques
 . D'autre part, il intervient de manière curative pour lever les pénalités existantes et retrouver la visibilité perdue.
 
@@ -126,7 +126,7 @@ Le désaveu est pris en compte en quelques jours, mais les effets concrets sur l
 ```json
 {
   "@context": "https://Schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Nettoyage de liens : le guide pour assainir votre profil de backlinks",
@@ -154,7 +154,7 @@ Le désaveu est pris en compte en quelques jours, mais les effets concrets sur l
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Comment savoir si un backlink est de mauvaise qualité ?",
@@ -178,7 +178,7 @@ Le désaveu est pris en compte en quelques jours, mais les effets concrets sur l
             "@type": "Answer",
             "text": "Le désaveu est pris en compte en quelques jours, mais les effets concrets sur le référencement peuvent mettre plusieurs semaines à apparaître. On constate généralement une stabilisation du classement et une amélioration progressive de la visibilité après un ou deux cycles d'indexation."
           }
-        },
+        }
       ]
     }
   ]
@@ -186,6 +186,16 @@ Le désaveu est pris en compte en quelques jours, mais les effets concrets sur l
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
+- [Désindexation Google](https://blotmkt.com/ia/popularite/desindexation-google): guide pratique pour contrôler votre visibilité en ligne
+- Facteurs de classement google : le guide basé sur la documentation officielle
+- Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
+- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
 
 ---
 

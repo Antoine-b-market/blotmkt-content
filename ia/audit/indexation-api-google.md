@@ -28,7 +28,7 @@ related_articles:
 
 > ## L'essentiel à retenir
 > - L'API d'indexation Google permet de notifier directement Google lors d'ajouts ou de modifications de pages, en contournant l'Exploration naturelle pour accélérer l'indexation.
-> - Officiellement limitée aux pages avec [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees) JobPosting et BroadcastEvent, elle peut être utilisée avec précaution pour d'autres contenus urgents ou volatiles.
+> - Officiellement limitée aux pages avec Données structurées JobPosting et BroadcastEvent, elle peut être utilisée avec précaution pour d'autres contenus urgents ou volatiles.
 > - La mise en place nécessite un projet Google Cloud Platform, un compte de service configuré et son ajout comme propriétaire dans Google Search Console.
 > - L'API complète efficacement les Sitemaps : elle excelle pour l'urgence et la fraîcheur des contenus tandis que les sitemaps garantissent l'exhaustivité de l'exploration.
 
@@ -145,12 +145,12 @@ Les sitemaps XML restent la méthode standard et recommandée. L'API IndexNow de
 ```json
 {
   "@context": "https://Schema.org",
-  "@Graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "L'api d'indexation Google : guide complet pour une indexation quasi-instantanée",
       "description": "Découvrez comment utiliser l'API d'indexation de Google pour notifier les changements de pages et accélérer votre SEO. Guide pratique, cas d'usage et limites.",
-      "url": "https://blotmkt.com/ia/Audit/indexation-api-google",
+      "url": "https://blotmkt.com/ia/audit/indexation-api-google",
       "datePublished": "2026-03-09 06:54",
       "dateModified": "2026-03-09 06:54",
       "author": {
@@ -173,7 +173,7 @@ Les sitemaps XML restent la méthode standard et recommandée. L'API IndexNow de
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Comment savoir si une page est indexée par Google ?",
@@ -205,7 +205,7 @@ Les sitemaps XML restent la méthode standard et recommandée. L'API IndexNow de
             "@type": "Answer",
             "text": "Les sitemaps XML restent la méthode standard recommandée. L'API IndexNow de Microsoft/Bing offre une alternative multi-Moteurs avec 200 requêtes/jour pour Google et 10 000 pour Bing. Les signaux de découverte naturels demeurent fondamentaux."
           }
-        },
+        }
       ]
     }
   ]
@@ -213,6 +213,16 @@ Les sitemaps XML restent la méthode standard et recommandée. L'API IndexNow de
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- Maîtriser l'[Analyse de logs SEO](https://blotmkt.com/ia/audit/analyse-de-logs-seo) pour optimiser votre budget de crawl
+- [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site) : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
+- [Audit mobile-first](https://blotmkt.com/ia/audit/audit-mobile-first) : la méthode complète pour garantir votre visibilité sur Google
+- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
+- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
 
 ---
 

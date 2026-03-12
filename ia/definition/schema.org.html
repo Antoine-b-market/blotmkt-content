@@ -42,20 +42,70 @@
   </style>
   <script type="application/ld+json">{
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Schema.org : le guide pratique pour booster votre SEO avec les données structurées",
-  "description": "Découvrez ce qu'est Schema.org, comment l'implémenter en JSON-LD et pourquoi c'est crucial pour vos rich snippets. Guide SEO complet et à jour.",
-  "url": "https://blotmkt.com/ia/definition/schema.org.html",
-  "author": {
-    "@type": "Person",
-    "name": "Antoine Blot",
-    "url": "https://antoine-blot.com"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "BlotMKT",
-    "url": "https://blotmkt.com"
-  }
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Schema.org : le guide pratique pour booster votre SEO avec les Données structurées",
+      "description": "Découvrez ce qu'est Schema.org, comment l'implémenter en JSON-LD et pourquoi c'est crucial pour vos rich snippets. Guide SEO complet et à jour.",
+      "url": "https://blotmkt.com/ia/definition/schema.org",
+      "datePublished": "2026-03-09 08:29",
+      "dateModified": "2026-03-09 08:29",
+      "author": {
+        "@type": "Person",
+        "name": "Antoine Blot",
+        "url": "https://antoine-blot.com",
+        "sameAs": [
+          "https://www.linkedin.com/in/blotantoine/",
+          "https://github.com/Antoine-b-market",
+          "https://orcid.org/0009-0005-6450-4528"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "BlotMKT",
+        "url": "https://blotmkt.com"
+      },
+      "inLanguage": "fr-FR",
+      "keywords": "données structurées, JSON-LD, rich snippets, balisage sémantique, extraits enrichis, seo technique, test des résultats enrichis"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Comment savoir si un site utilise Schema.org ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Utilisez l'outil de test des résultats enrichis de Google ou inspectez le code source pour rechercher des balises script type application/ld+json. Les outils comme Screaming Frog permettent d'Auditer l'ensemble d'un site pour détecter les données structurées existantes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quel est l'impact de Schema.org sur le classement SEO ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Schema markup n'impacte pas directement le classement mais améliore l'affichage du contenu web, augmentant le trafic via des rich snippets. L'amélioration du taux de clics influence indirectement le positionnement dans les résultats de recherche."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "C'est quoi le format JSON-LD ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "JSON-LD signifie JavaScript Object Notation for Linked Data. C'est une méthode d'encodage de données structurées utilisant le format JSON, un format d'échange de données léger facile à Analyser et générer pour les machines."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment ajouter le schéma Produit sur Shopify ou WordPress ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sur WordPress, utilisez des plugins comme RankMath ou Yoast SEO qui génèrent automatiquement le JSON-LD. Sur Shopify, modifiez les templates liquid pour inclure le code schema directement ou utilisez des applications dédiées comme JSON-LD for SEO."
+          }
+        }
+      ]
+    }
+  ]
 }</script>
 </head>
 <body>
@@ -77,7 +127,7 @@ les utilisateurs cliquent sur les résultats enrichis 58% du temps contre 41% po
 . Ce guide vous révèle comment maîtriser Schema.org pour transformer vos listings de recherche en extraits attractifs qui captent l'attention et boostent votre Visibilité.</p>
 <hr />
 <h2>Qu'est-ce que Schema.org : un langage commun pour les moteurs de recherche</h2>
-<p>Schema.org est un vocabulaire structuré créé en 2011 par Google, Yahoo, Bing et Yandex pour établir une cohérence des <a href="https://blotmkt.com/ia/definition/donnees-structurees">Données structurées</a> sur internet
+<p>Schema.org est un vocabulaire structuré créé en 2011 par Google, Yahoo, Bing et Yandex pour établir une cohérence des Données structurées sur internet
 . Ce projet indépendant fonctionne comme un dictionnaire universel que les webmasters utilisent pour décrire le contenu de leurs pages web de manière non ambiguë.</p>
 <p>Concrètement, Schema.org permet d'indiquer aux Moteurs de recherche qu'une information spécifique correspond à un prix, une note d'évaluation, une adresse ou tout autre élément défini dans leur vocabulaire. 
 En aidant les moteurs de recherche à comprendre le Contenu, vous leur permettez d'économiser des ressources et augmentez les chances que votre contenu soit correctement interprété et bien classé
@@ -145,7 +195,7 @@ Google a également précisé que le balisage FAQPage ne doit jamais être utili
 <hr />
 <p><em>Sources : KeyStar Agency (2024), Sixth City Marketing (2024), Search Engine) Journal (2024), Schema App (2025)</em></p>
 <hr />
-<hr /><div class="related"><h2>Articles connexes</h2><ul><li><a href="https://blotmkt.com/ia/definition/algorithme-google">Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative</a></li><li><a href="https://blotmkt.com/ia/definition/amp-google-seo">AMP et SEO : le guide pour comprendre son impact réel aujourd'hui</a></li><li><a href="https://blotmkt.com/ia/definition/ancre-de-lien">Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité</a></li><li><a href="https://blotmkt.com/ia/definition/attribut-nofollow">L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024</a></li><li><a href="https://blotmkt.com/ia/definition/attribut-sponsored">Attribut sponsored : le guide complet pour vos liens payants en seo</a></li></ul></div>
+<hr /><div class="related"><h2>Articles connexes</h2><ul><li><a href="https://blotmkt.com/ia/definition/ancre-de-lien">Ancre de lien</a></li></ul></div>
     
   </article>
   <footer>

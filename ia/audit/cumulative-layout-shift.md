@@ -43,7 +43,7 @@ Les pages avec des scores CLS élevés peuvent conduire à une mauvaise expérie
 
 ## Qu'est-ce que le Cumulative Layout Shift (CLS) et pourquoi est-il essentiel ?
 
-Le Cumulative Layout Shift (CLS) est une métrique [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals) qui mesure la stabilité visuelle sur une page web. Il quantifie combien de contenu, comme les images ou le texte, bouge de manière inattendue pendant le chargement de la page
+Le Cumulative Layout Shift (CLS) est une métrique Core Web Vitals qui mesure la stabilité visuelle sur une page web. Il quantifie combien de contenu, comme les images ou le texte, bouge de manière inattendue pendant le chargement de la page
 . Cette métrique capture l'essence même d'une expérience utilisateur fluide : la préVisibilité visuelle.
 
 Le calcul du CLS repose sur deux composants fondamentaux. 
@@ -90,10 +90,10 @@ Les polices qui se chargent après le rendu initial de la page peuvent causer de
 ## CLS, LCP, INP : la synergie des Core Web Vitals pour l'UX
 
 Depuis mars 2024, 
-l'Interaction to Next Paint (INP) est maintenant l'une des métriques Core Web Vitals de Google, remplaçant [First Input Delay](https://blotmkt.com/ia/audit/first-input-delay) (FID) le 12 mars 2024
+l'Interaction to Next Paint (INP) est maintenant l'une des métriques Core Web Vitals de Google, remplaçant First Input Delay (FID) le 12 mars 2024
 . Cette évolution renforce l'importance d'une approche holistique des performances web.
 
-Google a finalisé Core Web Vitals 2.0, remplaçant First Input Delay (FID) par [Interaction to Next Paint](https://blotmkt.com/ia/audit/interaction-to-next-paint) (INP) et continuant de s'appuyer sur LCP (Largest Contentful Paint) et CLS (Cumulative Layout Shift) comme les trois métriques d'expérience utilisateur mesurées sur le terrain. Les sites qui atteignent les seuils pour LCP, INP et CLS (75e percentile) offrent aux utilisateurs des expériences plus rapides, plus stables et plus réactives
+Google a finalisé Core Web Vitals 2.0, remplaçant First Input Delay (FID) par Interaction to Next Paint (INP) et continuant de s'appuyer sur LCP (Largest Contentful Paint) et CLS (Cumulative Layout Shift) comme les trois métriques d'expérience utilisateur mesurées sur le terrain. Les sites qui atteignent les seuils pour LCP, INP et CLS (75e percentile) offrent aux utilisateurs des expériences plus rapides, plus stables et plus réactives
  (Source : Medium, 2025).
 
 L'interaction entre ces métriques est cruciale : une image qui se charge lentement (mauvais LCP) sans dimensions définies provoque aussi un CLS élevé. 
@@ -121,12 +121,12 @@ Le CLS fait partie des Core Web Vitals utilisés par Google comme facteur de cla
 ```json
 {
   "@context": "https://Schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Cumulative Layout Shift (CLS) : le guide pour atteindre un score inférieur à 0.1",
       "description": "Comprenez le Cumulative Layout Shift (CLS), un Core Web Vital essentiel. Apprenez à mesurer et corriger les décalages de mise en page pour le SEO.",
-      "url": "https://blotmkt.com/ia/Audit/cumulative-layout-shift",
+      "url": "https://blotmkt.com/ia/audit/cumulative-layout-shift",
       "datePublished": "2026-03-09 06:02",
       "dateModified": "2026-03-09 06:02",
       "author": {
@@ -149,7 +149,7 @@ Le CLS fait partie des Core Web Vitals utilisés par Google comme facteur de cla
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Comment corriger un problème de CLS ?",
@@ -181,7 +181,7 @@ Le CLS fait partie des Core Web Vitals utilisés par Google comme facteur de cla
             "@type": "Answer",
             "text": "Le CLS fait partie des Core Web Vitals utilisés par Google comme facteur de classement depuis 2021. Un mauvais score peut réduire vos positions dans les résultats de recherche et augmenter votre taux de rebond."
           }
-        },
+        }
       ]
     }
   ]
@@ -189,6 +189,16 @@ Le CLS fait partie des Core Web Vitals utilisés par Google comme facteur de cla
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- Maîtriser l'[Analyse de logs SEO](https://blotmkt.com/ia/audit/analyse-de-logs-seo) pour optimiser votre budget de crawl
+- [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site) : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
+- [Audit mobile-first](https://blotmkt.com/ia/audit/audit-mobile-first) : la méthode complète pour garantir votre visibilité sur Google
+- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
+- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
 
 ---
 

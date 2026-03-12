@@ -42,20 +42,62 @@
   </style>
   <script type="application/ld+json">{
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Entité nommée SEO : le guide pour devenir une référence aux yeux de Google",
-  "description": "Découvrez ce qu'est une entité nommée en SEO et comment Google l'utilise pour évaluer votre autorité. Maîtrisez ce concept pour un référencement durable.",
-  "url": "https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo.html",
-  "author": {
-    "@type": "Person",
-    "name": "Antoine Blot",
-    "url": "https://antoine-blot.com"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "BlotMKT",
-    "url": "https://blotmkt.com"
-  }
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Entité nommée SEO : le guide pour devenir une référence aux yeux de Google",
+      "description": "Découvrez ce qu'est une entité nommée en SEO et comment Google l'utilise pour évaluer votre autorité. Maîtrisez ce concept pour un référencement durable.",
+      "url": "https://blotmkt.com/ia/IA SEO - GEO/entite-nommee-seo",
+      "datePublished": "2026-03-09 18:13",
+      "dateModified": "2026-03-09 18:13",
+      "author": {
+        "@type": "Person",
+        "name": "Antoine Blot",
+        "url": "https://antoine-blot.com",
+        "sameAs": [
+          "https://www.linkedin.com/in/blotantoine/",
+          "https://github.com/Antoine-b-market",
+          "https://orcid.org/0009-0005-6450-4528"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "BlotMKT",
+        "url": "https://blotmkt.com"
+      },
+      "inLanguage": "fr-FR",
+      "keywords": "SEO sémantique, Knowledge Graph, E-E-A-T, co-citation, référencement de marque, données structurées, Google Knowledge Panel"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Comment savoir si ma marque est une entité pour Google ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Utilisez l'API Google Knowledge Graph Checker pour vérifier la reconnaissance de votre entité. Recherchez également votre nom de marque sur Google pour voir si un Knowledge Panel apparaît. Ces outils vous indiqueront si Google vous identifie comme une entité unique dans sa base de données."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Le SEO d'entité est-il plus important que les backlinks ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Les deux approches sont complémentaires. Bien que l'Analyse des entités gagne en importance, les backlinks restent un pilier du référencement. Google utilise désormais les relations entre entités pour évaluer l'autorité, mais combine cette analyse sémantique avec les signaux traditionnels de liens pour un classement optimal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quels outils utiliser pour suivre son entité nommée ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Utilisez l'Entity Indexing checker d'Inlinks pour analyser la reconnaissance de vos entités. Complétez avec Google Knowledge Graph API, contentsprout AI pour les topic clusters, et Google Trends pour identifier les entités liées à votre domaine. Ces outils vous aideront à mesurer et optimiser votre présence d'entité."
+          }
+        }
+      ]
+    }
+  ]
 }</script>
 </head>
 <body>
@@ -71,7 +113,7 @@
 <p>Un mot-clé comme "Apple" est ambiguë, tandis qu'une entité comme Apple Inc. est clairement définie comme une entreprise technologique avec des produits, fondateurs et concurrents. Google stocke cette entité avec des identifiants uniques</p>
 </li>
 <li>
-<p>Le balisage S[chema.org, notamment les types "Person", "Organization", "Product" et "LocalBusiness", permet à Google d'identifier et connecter les entités de votre site au web plus large</p>
+<p>Le balisage <a href="https://blotmkt.com/ia/definition/schema.org">Schema.org</a>, notamment les types "Person", "Organization", "Product" et "LocalBusiness", permet à Google d'identifier et connecter les entités de votre site au web plus large</p>
 </li>
 <li>
 <p>99 % des sources citées dans les blocs IA proviennent du top 10 des résultats organiques. L'Optimisation pour l'IA n'est donc pas distincte du SEO classique</p>
@@ -83,7 +125,7 @@ Google) ne fonctionne plus avec une logique de correspondance exacte, mais dans 
 . Cette évolution transforme fondamentalement votre approche du référencement : il ne s'agit plus seulement d'optimiser des mots-clés, mais de construire et renforcer votre entité nommée pour devenir une référence incontournable aux yeux des moteurs de recherche et de l'intelligence artificielle.</p>
 <hr />
 <h2>Définition : qu'est-ce qu'une entité nommée en SEO ?</h2>
-<p>Une entité nommée est un concept, un objet, une personne, un lieu ou une idée qui est unique, distincte et bien définie. Pour Google, une entité n'est pas un mot, c'est un identifiant unique dans sa base de données (<a href="https://blotmkt.com/ia/definition/knowledge-graph">Knowledge Graph</a>)
+<p>Une entité nommée est un concept, un objet, une personne, un lieu ou une idée qui est unique, distincte et bien définie. Pour Google, une entité n'est pas un mot, c'est un identifiant unique dans sa base de données ([Knowledge Graph)
 . Ce concept révolutionne la façon dont les moteurs de recherche comprennent et organisent l'information.</p>
 <p>Les triplets sémantiques sont les briques de base des graphes de connaissances (knowledge graphs) comme celui de Google. Une fois les entités reconnues, elles sont liées entre elles via des relations
 . Cette approche permet à Google de 
@@ -105,13 +147,13 @@ Si votre Contenu mentionne « Elon Musk » (Entité A), « Tesla » (Entité B) 
 <p>L'entité se caractérise par sa capacité à connecter des informations dispersées sur le web via des co-citations, créant un écosystème d'autorité que les Mots-clés isolés ne peuvent atteindre.</p>
 <h2>Méthode : comment construire et renforcer votre entité nommée ?</h2>
 <h3>Structurer votre présence digitale</h3>
-<p>Le balisage <a href="https://blotmkt.com/ia/definition/schema.org">Schema.org</a> est la fondation pour aider Google à comprendre votre contenu. Ajouter des markups pertinents comme "Person", "Organization", "Product" et "LocalBusiness" permet à Google d'identifier et connecter les entités
+<p>Le balisage Schema.org est la fondation pour aider Google à comprendre votre contenu. Ajouter des markups pertinents comme "Person", "Organization", "Product" et "LocalBusiness" permet à Google d'identifier et connecter les entités
 . Cette structuration technique constitue la base de votre reconnaissance en tant qu'entité.</p>
 <p>Créez une page "À propos" détaillée qui présente clairement votre expertise, votre parcours et vos domaines de spécialisation. 
 Optimisez vos pages biographiques avec une biographie narrative détaillant le parcours et les diplômes, des liens vers les profils réseaux sociaux professionnels, et l'utilisation des <a href="https://blotmkt.com/ia/definition/donnees-structurees">Données structurées</a> Schema.org pour désambiguïser l'identité
 .</p>
 <h3>Développer votre écosystème d'autorité</h3>
-<p>Google, Amazon (Alexa), Apple (Siri) et la plupart des IA puisent massivement dans Wikidata pour construire leur Knowledge Graph. Être présent et correctement renseigné sur Wikidata envoie un signal fort : "J'existe, voici mon identité vérifiée"
+<p>Google, Amazon (Alexa), Apple (Siri) et la plupart des IA puisent massivement dans Wikidata pour construire leur <a href="https://blotmkt.com/ia/definition/knowledge-graph">Knowledge Graph</a>. Être présent et correctement renseigné sur Wikidata envoie un signal fort : "J'existe, voici mon identité vérifiée"
 .</p>
 <p>La création d'une entrée Wikidata nécessite une approche rigoureuse : 
 chaque déclaration doit être sourcée par des sources secondaires, utiliser des identifiants uniques pour éviter toute confusion, et relier votre entité à d'autres entités reconnues
@@ -147,7 +189,7 @@ Complétez avec des outils comme Contentsprout AI, Google Trends et Text Razor p
 <hr />
 <p><em>Sources : Julien Gourdon (2025), NOIISE (2025), Search Engine Land (2025), Hike SEO (2025)</em></p>
 <hr />
-<hr /><div class="related"><h2>Articles connexes</h2><ul><li><a href="https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization">AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes</a></li><li><a href="https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation">Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance</a></li><li><a href="https://blotmkt.com/ia/ia-seo-geo/citations-par-ia">Citations par IA : comment l'intelligence artificielle réinvente votre contenu</a></li><li><a href="https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo">Contenu IA SEO : le guide pour une stratégie de référencement sémantique</a></li><li><a href="https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo">Contextualisation SEO : le guide pour optimiser au-delà des mots-clés</a></li></ul></div>
+<hr />
     
   </article>
   <footer>

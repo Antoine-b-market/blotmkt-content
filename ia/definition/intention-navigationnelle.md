@@ -132,12 +132,12 @@ Les entreprises doivent s'assurer que leur site est bien référencé pour ces t
 ```json
 {
   "@context": "https://Schema.org",
-  "@Graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "L'intention navigationnelle : le signal client à intégrer dans votre tracking omnicanal",
       "description": "Découvrez ce qu'est l'intention navigationnelle en SEO et comment son analyse, couplée à l'IA, peut révéler des insights sur le parcours client omnicanal.",
-      "url": "https://blotmkt.com/ia/définition/intention-navigationnelle",
+      "url": "https://blotmkt.com/ia/definition/intention-navigationnelle",
       "datePublished": "2026-03-09 09:09",
       "dateModified": "2026-03-09 09:09",
       "author": {
@@ -160,7 +160,7 @@ Les entreprises doivent s'assurer que leur site est bien référencé pour ces t
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Comment savoir si un mot clé est navigationnel ?",
@@ -192,7 +192,7 @@ Les entreprises doivent s'assurer que leur site est bien référencé pour ces t
             "@type": "Answer",
             "text": "Assurez-vous d'être bien référencé sur votre nom de marque, optimisez vos pages de destination (accueil, contact, login), travaillez votre présence dans les annuaires et veillez à la cohérence de vos informations NAP (nom, adresse, téléphone)."
           }
-        },
+        }
       ]
     }
   ]
@@ -200,6 +200,16 @@ Les entreprises doivent s'assurer que leur site est bien référencé pour ces t
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- Décrypter l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) : le guide complet de RankBrain à l'IA générative
+- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
+- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
+- L'[Attribut Nofollow](https://blotmkt.com/ia/definition/attribut-nofollow) en seo : le guide pratique pour le maîtriser en 2024
+- Attribut sponsored : le guide complet pour vos liens payants en seo
 
 ---
 

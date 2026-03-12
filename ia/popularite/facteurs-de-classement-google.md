@@ -157,7 +157,7 @@ Utilisez les outils gratuits de Google comme PageSpeed Insights, Search Console 
 ```json
 {
   "@context": "https://schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Facteurs de classement google : le guide basé sur la documentation officielle",
@@ -185,7 +185,7 @@ Utilisez les outils gratuits de Google comme PageSpeed Insights, Search Console 
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Quels sont les 3 principaux facteurs de classement Google ?",
@@ -217,7 +217,7 @@ Utilisez les outils gratuits de Google comme PageSpeed Insights, Search Console 
             "@type": "Answer",
             "text": "Utilisez les outils gratuits de Google (PageSpeed Insights, Search Console, Lighthouse) pour identifier les problèmes techniques, créez du contenu de qualité répondant aux intentions de recherche, et optimisez la Structure interne de votre site."
           }
-        },
+        }
       ]
     }
   ]
@@ -225,6 +225,16 @@ Utilisez les outils gratuits de Google comme PageSpeed Insights, Search Console 
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
+- [Désindexation Google](https://blotmkt.com/ia/popularite/desindexation-google): guide pratique pour contrôler votre visibilité en ligne
+- Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
+- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
+- Action manuelle Google : le guide complet pour l'identifier et la corriger
 
 ---
 

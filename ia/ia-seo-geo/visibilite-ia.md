@@ -120,7 +120,7 @@ Les meilleures stratégies post-2025 combinent SEO et GEO : créer du Contenu qu
 ```json
 {
   "@context": "https://schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Visibilité IA : être reconnu par les algorithmes sans devenir invisible",
@@ -148,7 +148,7 @@ Les meilleures stratégies post-2025 combinent SEO et GEO : créer du Contenu qu
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Comment être cité par une IA comme ChatGPT ?",
@@ -180,7 +180,7 @@ Les meilleures stratégies post-2025 combinent SEO et GEO : créer du Contenu qu
             "@type": "Answer",
             "text": "Non, les meilleures stratégies 2025 combinent SEO et GEO. Il faut créer du contenu qui se classe bien sur Google tout en étant optimisé pour que les IA puissent facilement le comprendre, le citer et le synthétiser dans leurs réponses."
           }
-        },
+        }
       ]
     }
   ]
@@ -188,6 +188,16 @@ Les meilleures stratégies post-2025 combinent SEO et GEO : créer du Contenu qu
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
+- [Algorithme de recommandation](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation) : le guide complet pour éviter les biais et la sur-dépendance
+- [Citations par IA](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia) : comment l'intelligence artificielle réinvente votre contenu
+- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
+- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
 
 ---
 

@@ -127,7 +127,7 @@ Surveillez l'évolution des positions sur les mots-clés de longue traîne, l'au
 ```json
 {
   "@context": "https://Schema.org",
-  "@graph": 
+  "@graph": [
     {
       "@type": "Article",
       "headline": "Transcription vidéo SEO : le guide pour optimiser votre contenu pour Google et l'IA",
@@ -155,7 +155,7 @@ Surveillez l'évolution des positions sur les mots-clés de longue traîne, l'au
     },
     {
       "@type": "FAQPage",
-      "mainEntity": 
+      "mainEntity": [
         {
           "@type": "Question",
           "name": "Est-ce que Google lit le texte d'une vidéo ?",
@@ -179,7 +179,7 @@ Surveillez l'évolution des positions sur les mots-clés de longue traîne, l'au
             "@type": "Answer",
             "text": "Les solutions automatiques traitent l'audio à 3-10 fois la vitesse réelle, complétant des enregistrements d'une heure en seulement 12-20 minutes. Cette rapidité contraste avec les 4-6 heures nécessaires pour une transcription manuelle."
           }
-        },
+        }
       ]
     }
   ]
@@ -187,6 +187,16 @@ Surveillez l'évolution des positions sur les mots-clés de longue traîne, l'au
 ```
 
 ---
+
+---
+
+## Articles connexes
+
+- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
+- Audit de contenu existant : la méthode complète pour optimiser votre SEO
+- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
+- Call to action : le guide complet pour créer des cta qui convertissent
+- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
 
 ---
 
