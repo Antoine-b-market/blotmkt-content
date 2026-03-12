@@ -126,7 +126,7 @@ Selon CanIUse.com, environ 94,25% des utilisateurs globaux peuvent utiliser WebP
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

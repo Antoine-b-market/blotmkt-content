@@ -103,7 +103,7 @@ Un expert utilise des outils avancés comme Screaming Frog pour les audits de cr
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

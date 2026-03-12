@@ -160,7 +160,7 @@ Identifiez d'abord le type d'erreur (404, redirection, noindex), corrigez le pro
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

@@ -154,7 +154,7 @@ Les outils comme Semrush identifient automatiquement l'intention et aident à cr
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

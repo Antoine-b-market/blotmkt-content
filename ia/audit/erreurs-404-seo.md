@@ -129,7 +129,7 @@ Une 404 indique que la page n'existe pas (côté client), tandis qu'une erreur 5
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

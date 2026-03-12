@@ -142,7 +142,7 @@ Pour les pénalités manuelles, utilisez l'interface Search Console qui inclut d
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

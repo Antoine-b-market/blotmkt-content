@@ -144,7 +144,7 @@ Les Mots-clés comptent encore. Mais ils ne sont qu'une entrée dans un système
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

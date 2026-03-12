@@ -147,7 +147,7 @@ Les liens dofollow transmettent de l'autorité SEO, tandis que les nofollow n'en
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

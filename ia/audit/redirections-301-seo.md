@@ -144,7 +144,7 @@ Créer des chaînes de redirection (où une redirection mène à une autre, puis
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

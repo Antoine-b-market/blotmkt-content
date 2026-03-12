@@ -130,7 +130,7 @@ Le calcul est basé sur le nombre de visiteurs mensuels, le taux de conversion e
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

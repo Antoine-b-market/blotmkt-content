@@ -128,7 +128,7 @@ Cette politique renforcée se concentre sur le comportement abusif de production
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

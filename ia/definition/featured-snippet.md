@@ -136,7 +136,7 @@ Ajoutez la Balise meta "nosnippet" à votre page ou modifiez votre contenu pour 
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

@@ -126,7 +126,7 @@ Si vous pouvez réparer votre propre voiture, il vaut mieux déléguer beaucoup 
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

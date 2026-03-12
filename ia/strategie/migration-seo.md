@@ -132,7 +132,7 @@ Auditez exhaustivement le site existant, créez un plan de redirection rigoureux
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

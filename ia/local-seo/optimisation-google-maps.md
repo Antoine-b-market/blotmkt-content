@@ -153,7 +153,7 @@ Google considère trois facteurs principaux : Relevance (correspondance profil-r
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

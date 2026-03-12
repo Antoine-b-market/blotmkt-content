@@ -167,7 +167,7 @@ Elle permet de maîtriser la visibilité dans les résultats de recherche, d'év
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

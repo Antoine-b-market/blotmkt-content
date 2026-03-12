@@ -167,7 +167,7 @@ Le FCP mesure le temps d'apparition du premier élément visuel dans la zone d'a
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

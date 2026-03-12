@@ -179,7 +179,7 @@ Dans votre interface Google Business Profile, accédez à la section "Produits" 
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

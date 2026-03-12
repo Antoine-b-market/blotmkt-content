@@ -119,7 +119,7 @@ Oui, mais l'approche varie selon le secteur. Les entreprises B2B privilégieront
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

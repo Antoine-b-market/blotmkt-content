@@ -118,7 +118,7 @@ Le freelance senior offre un rapport expertise/prix optimal pour les entreprises
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

@@ -126,7 +126,7 @@ L'évolution propulsée par l'IA a un impact considérable sur le référencemen
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

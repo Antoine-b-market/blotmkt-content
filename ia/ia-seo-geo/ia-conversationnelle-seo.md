@@ -141,7 +141,7 @@ Le ROI se mesure par la qualification du trafic, l'engagement utilisateur, les m
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

@@ -126,7 +126,7 @@ Surveillez l'évolution des positions sur les mots-clés de longue traîne, l'au
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

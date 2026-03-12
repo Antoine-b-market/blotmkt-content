@@ -117,7 +117,7 @@ En 2026, le "Taux de Décroissance" de la visibilité est plus rapide que jamais
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

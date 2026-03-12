@@ -125,7 +125,7 @@ Le désaveu est pris en compte en quelques jours, mais les effets concrets sur l
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

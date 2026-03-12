@@ -125,7 +125,7 @@ Bien que l'alt text seul ne propulsera pas une page au sommet des résultats de 
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

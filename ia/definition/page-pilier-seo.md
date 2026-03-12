@@ -145,7 +145,7 @@ Les trois piliers du référencement naturel sont le pilier technique (Explorati
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

@@ -166,7 +166,7 @@ Google recommande JSON-LD plutôt que Microdata ou RDFa. Il est plus facile à i
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

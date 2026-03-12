@@ -147,7 +147,7 @@ Les Contenus longs, pages piliers et études de marché restent la base pour nou
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

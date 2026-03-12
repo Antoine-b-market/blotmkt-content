@@ -113,7 +113,7 @@ Les outils spécialisés comme Keyword Insights, Ranxplorer, ou les fonctionnali
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

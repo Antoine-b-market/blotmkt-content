@@ -151,7 +151,7 @@ Distinguez les intentions informationnelles (blog, guides) des intentions transa
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

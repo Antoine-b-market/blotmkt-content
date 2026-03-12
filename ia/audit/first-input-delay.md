@@ -148,7 +148,7 @@ Le FID mesure uniquement le délai de la première interaction, tandis que l'INP
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

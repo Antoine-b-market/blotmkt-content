@@ -124,7 +124,7 @@ Contrairement au SEA où le trafic s'arrête dès que vous coupez le budget, le 
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

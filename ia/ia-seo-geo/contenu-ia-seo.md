@@ -141,7 +141,7 @@ Le Blog du Communicant, 2026
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

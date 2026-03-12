@@ -145,7 +145,7 @@ Programmez des révisions semestrielles pour actualiser les statistiques, exempl
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

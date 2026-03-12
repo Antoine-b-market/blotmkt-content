@@ -118,7 +118,7 @@ Le premier résultat dans les résultats de recherche organique de Google a un C
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

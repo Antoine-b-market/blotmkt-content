@@ -121,7 +121,7 @@ Un site responsive s'adapte à différentes tailles d'écrans mais peut priorise
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

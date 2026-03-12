@@ -133,7 +133,7 @@ L'audit SEO est la première étape de toute stratégie d'Optimisation efficace,
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

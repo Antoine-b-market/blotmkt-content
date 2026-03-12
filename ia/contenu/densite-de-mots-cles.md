@@ -157,7 +157,7 @@ Sans un bon positionnement organique, votre Contenu ne sera pas dans la base de 
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

@@ -141,7 +141,7 @@ Privilégiez une approche axée sur le ROI et évitez les consultants avec des g
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

@@ -151,7 +151,7 @@ Par défaut, Screaming Frog extrait les deux premières H1 découvertes sur une 
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

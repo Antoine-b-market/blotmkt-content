@@ -127,7 +127,7 @@ E-E-A-T signifie Experience, Expertise, Authoritativeness et Trustworthiness. La
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

@@ -126,7 +126,7 @@ Les rich snippets améliorent l'affichage d'un résultat organique existant (ét
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

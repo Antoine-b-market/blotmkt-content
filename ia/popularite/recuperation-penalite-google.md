@@ -130,7 +130,7 @@ Il faut être patient et attendre quelques mois avant de remonter dans les résu
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

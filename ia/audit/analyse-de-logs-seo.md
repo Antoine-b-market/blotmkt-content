@@ -126,7 +126,7 @@ Le Screaming Frog Log File Analyser est un outil d'Audit SEO, conçu par de vrai
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

@@ -146,7 +146,7 @@ Le netlinking est considéré comme l'un des 3 grands piliers du SEO
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

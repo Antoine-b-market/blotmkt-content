@@ -162,7 +162,7 @@ utilisez le plugin "Accelerated Mobile Pages" > Paramètres avancés > Désactiv
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

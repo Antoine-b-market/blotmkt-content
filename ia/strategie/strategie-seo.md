@@ -129,7 +129,7 @@ Commencez par un Audit complet identifiant les freins techniques et les opportun
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

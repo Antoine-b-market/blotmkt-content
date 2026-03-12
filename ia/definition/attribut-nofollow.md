@@ -154,7 +154,7 @@ Les liens nofollow ne sont pas mauvais pour le SEO. Bien qu'ils ne soient techni
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

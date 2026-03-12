@@ -121,7 +121,7 @@ Le TJM d'une agence ne descend jamais en dessous de 1.000€ – 1.200€, tandi
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

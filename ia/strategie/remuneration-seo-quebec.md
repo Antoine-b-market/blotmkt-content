@@ -158,7 +158,7 @@ En DIY, comptez 0-500 $/mois pour des outils. En accompagnement stratégique (DI
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

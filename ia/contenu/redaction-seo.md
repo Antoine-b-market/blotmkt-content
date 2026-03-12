@@ -94,7 +94,7 @@ L'Optimisation sémantique enrichit un contenu avec le vocabulaire et les concep
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

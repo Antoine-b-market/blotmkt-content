@@ -137,7 +137,7 @@ L'efficacité se mesure via des KPIs business concrets : progression du trafic o
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

@@ -161,7 +161,7 @@ Les outils n'ont pas de jugement contextuel contrairement à vous - utilisez-les
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

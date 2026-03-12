@@ -177,7 +177,7 @@ Les prompts SEO sont de véritables outils d'Analyse éditoriale, capables de tr
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

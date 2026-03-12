@@ -126,7 +126,7 @@ Sales Odyssey (2024)
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

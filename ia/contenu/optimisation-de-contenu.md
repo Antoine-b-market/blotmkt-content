@@ -157,7 +157,7 @@ Les meilleurs outils IA pour optimiser son SEO incluent MarketBrew, Scalenut, Wr
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

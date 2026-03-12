@@ -156,7 +156,7 @@ Une formulation claire, concise et attrayante peut augmenter votre CTR de 20% ou
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

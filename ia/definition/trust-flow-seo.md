@@ -147,7 +147,7 @@ Les métriques TF et CF répondent positivement aux efforts d'amélioration. Cr�
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

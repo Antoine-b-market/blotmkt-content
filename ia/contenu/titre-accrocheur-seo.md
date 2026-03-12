@@ -157,7 +157,7 @@ Le H1 est le titre principal visible sur votre page web, distinct de la balise t
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

@@ -167,7 +167,7 @@ Rytr Offre 10000 caractères sur le plan gratuit, puis à partir de 7,50$/mois p
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

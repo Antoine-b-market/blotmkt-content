@@ -140,7 +140,7 @@ Un mix LinkedIn/Indeed, un ou deux job boards marketing de niche, des sites remo
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

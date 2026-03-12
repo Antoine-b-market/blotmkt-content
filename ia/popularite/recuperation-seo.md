@@ -92,7 +92,7 @@ Seulement 0,63% des utilisateurs cliquent sur les résultats de la deuxième pag
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

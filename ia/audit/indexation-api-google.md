@@ -144,7 +144,7 @@ Les sitemaps XML restent la méthode standard et recommandée. L'API IndexNow de
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

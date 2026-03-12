@@ -133,7 +133,7 @@ L'avantage des formations certifiantes est l'accès à l'expertise d'un formateu
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

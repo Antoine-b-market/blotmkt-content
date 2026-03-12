@@ -166,7 +166,7 @@ créez un sentiment d'urgence avec des offres à durée limitée
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

@@ -132,7 +132,7 @@ Le maillage interne en silos concentre le jus SEO vers vos pages stratégiques a
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

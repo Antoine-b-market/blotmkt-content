@@ -131,7 +131,7 @@ L'UI (User Interface) concerne l'aspect visuel et l'interface graphique, tandis 
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

@@ -140,7 +140,7 @@ Google Search Console permet de surveiller l'utilisation et les erreurs de jusqu
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

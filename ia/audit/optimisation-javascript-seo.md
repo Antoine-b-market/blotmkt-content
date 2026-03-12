@@ -136,7 +136,7 @@ L'équipe Chrome Aurora travaille étroitement avec les auteurs de frameworks co
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

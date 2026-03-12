@@ -137,7 +137,7 @@ Il est crucial de ne pas voir le tarif d'une agence SEO comme une dépense, mais
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

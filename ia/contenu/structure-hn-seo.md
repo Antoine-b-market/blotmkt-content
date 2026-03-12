@@ -123,7 +123,7 @@ Pour Auditer rapidement votre structure, saisissez l'URL de votre page dans le t
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

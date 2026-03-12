@@ -133,7 +133,7 @@ Il fournit des réponses immédiates et précises directement dans les SERPs, é
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

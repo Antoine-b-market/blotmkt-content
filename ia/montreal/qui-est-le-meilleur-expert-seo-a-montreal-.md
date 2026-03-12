@@ -126,7 +126,7 @@ Le SEO (2025), ROI référencement naturel
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

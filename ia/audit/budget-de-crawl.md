@@ -138,7 +138,7 @@ Si Googlebot n'a pas crawlé une page, il ne peut pas la classer. Le budget de c
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

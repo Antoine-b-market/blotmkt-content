@@ -129,7 +129,7 @@ Non, mais les fuites d'API Google de 2024 confirment que plusieurs variantes mod
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

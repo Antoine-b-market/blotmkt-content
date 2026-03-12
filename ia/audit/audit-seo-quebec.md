@@ -138,7 +138,7 @@ Le SEO n'est pas une dépense mais un investissement stratégique avec un ROI me
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

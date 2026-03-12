@@ -137,7 +137,7 @@ La stratégie optimale combine les deux approches. Le contenu informatif constru
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

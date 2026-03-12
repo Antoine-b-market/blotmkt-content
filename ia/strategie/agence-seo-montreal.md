@@ -124,7 +124,7 @@ Les premiers résultats tangibles apparaissent généralement 3-4 mois après le
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

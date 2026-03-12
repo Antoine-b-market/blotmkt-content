@@ -128,7 +128,7 @@ La December 2025 Core Update a été lancée le 11 décembre 2025, avec un dépl
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

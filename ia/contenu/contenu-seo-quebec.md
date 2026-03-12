@@ -127,7 +127,7 @@ Le SEO optimise pour les classements Google traditionnels, le GEO structure le c
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

@@ -114,7 +114,7 @@ Mettez en avant vos certifications, vos résultats mesurables (ROI généré, po
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

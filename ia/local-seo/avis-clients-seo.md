@@ -130,7 +130,7 @@ Les témoignages clients pertinents évoquent l'évolution du trafic organique, 
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

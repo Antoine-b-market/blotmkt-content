@@ -119,7 +119,7 @@ Actuellement, très peu de sites web utilisent les attributs rel="sponsored" et 
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

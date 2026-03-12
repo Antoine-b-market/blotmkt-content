@@ -145,7 +145,7 @@ L'intérêt, c'est que l'on peut définir quel robot de moteur de recherche aura
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

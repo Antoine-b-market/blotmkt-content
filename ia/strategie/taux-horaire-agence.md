@@ -154,7 +154,7 @@ Les agences full-service facturent entre 3 000 et 15 000 €/mois
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

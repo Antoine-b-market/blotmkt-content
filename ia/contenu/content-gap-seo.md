@@ -184,7 +184,7 @@ L'analyse de keyword gap compare les mots-clés pour lesquels votre site Web se 
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

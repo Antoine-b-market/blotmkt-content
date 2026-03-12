@@ -157,7 +157,7 @@ Leur impact est plus notable quand les pages ont un Contenu comparable, lors de 
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

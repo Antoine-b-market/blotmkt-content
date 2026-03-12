@@ -123,7 +123,7 @@ Traitez d'abord le rouge (critiques : Indexation, vitesse), puis l'orange (oppor
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

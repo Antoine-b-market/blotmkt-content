@@ -150,7 +150,7 @@ Le SEO (référencement naturel) vise la visibilité organique gratuite, contrai
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

@@ -161,7 +161,7 @@ Hiérarchie claire : Accueil > Catégories principales > Sous-catégories > Page
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

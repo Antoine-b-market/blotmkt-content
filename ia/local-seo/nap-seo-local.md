@@ -122,7 +122,7 @@ Des données NAP incohérentes peuvent conduire à des classements plus bas dans
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

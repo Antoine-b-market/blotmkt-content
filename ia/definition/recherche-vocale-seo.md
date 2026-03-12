@@ -139,7 +139,7 @@ Les prévisions suggèrent que plus de 50% des requêtes seront vocales d'ici la
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

@@ -141,7 +141,7 @@ Inclure des biographies d'auteurs détaillées avec identifiants, qualifications
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

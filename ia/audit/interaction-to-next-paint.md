@@ -122,7 +122,7 @@ Un bon score INP est de 200ms ou moins, avec un LCP ≤2.5s et un CLS <0.1 pour 
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

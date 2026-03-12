@@ -170,7 +170,7 @@ Les opérateurs espèrent un effet positif comme l'augmentation des visiteurs da
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

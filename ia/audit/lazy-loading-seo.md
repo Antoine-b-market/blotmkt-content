@@ -140,7 +140,7 @@ Le lazy loading uniquement des Images below-the-fold résulte en une inversion c
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

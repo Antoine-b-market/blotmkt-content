@@ -143,7 +143,7 @@ Vous pouvez débuter en autonomie avec l'Optimisation de base de votre fiche Goo
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

@@ -131,7 +131,7 @@ Les entreprises doivent s'assurer que leur site est bien référencé pour ces t
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

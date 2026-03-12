@@ -129,7 +129,7 @@ Pour les Link Spam Updates spécifiquement, les changements peuvent ne pas gén�
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

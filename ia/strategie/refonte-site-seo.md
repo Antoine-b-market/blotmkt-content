@@ -116,7 +116,7 @@ Une faible baisse pendant quelques jours est possible, due aux perturbations cau
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

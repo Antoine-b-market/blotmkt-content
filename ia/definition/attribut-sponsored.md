@@ -170,7 +170,7 @@ Vous pouvez vérifier directement dans le code source de la page ou utiliser des
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

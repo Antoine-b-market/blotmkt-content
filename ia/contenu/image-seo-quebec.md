@@ -125,7 +125,7 @@ Neil Patel (2025)
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

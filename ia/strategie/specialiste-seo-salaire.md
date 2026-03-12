@@ -147,7 +147,7 @@ En 2026, le référencement SEO est un métier qui paie correctement avec des pe
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

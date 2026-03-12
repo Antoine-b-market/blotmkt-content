@@ -165,7 +165,7 @@ BlackCat SEO, 2025 ; My Little Big Web, 2025 ; Agence SEO Zenith, 2025 ; CKC-Net
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

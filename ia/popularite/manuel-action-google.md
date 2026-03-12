@@ -162,7 +162,7 @@ Expliquez les mesures correctives que vous avez prises et fournissez des preuves
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

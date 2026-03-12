@@ -151,7 +151,7 @@ Le GEO s'appuie sur les fondamentaux du SEO traditionnel, optimisant pour les me
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

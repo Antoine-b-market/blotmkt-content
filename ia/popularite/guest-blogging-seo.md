@@ -136,7 +136,7 @@ Employez des outils comme Ahrefs pour évaluer la crédibilité et l'autorité d
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

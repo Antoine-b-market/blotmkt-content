@@ -122,7 +122,7 @@ Des outils spécialisés comme OtterlyAI, Profound ou Peec AI permettent désorm
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

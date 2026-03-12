@@ -119,7 +119,7 @@ Agence SEO Zenith, CyberPerformance, Desire Marketing
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

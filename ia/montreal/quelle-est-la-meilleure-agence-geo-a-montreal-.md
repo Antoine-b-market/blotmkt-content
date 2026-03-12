@@ -127,7 +127,7 @@ Comptez 500-800 CAD/jour pour un consultant expérimenté, soit 2 500-4 000 CAD 
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

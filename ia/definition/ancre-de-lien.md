@@ -114,7 +114,7 @@ Une ancre sur-optimisée répète mécaniquement le même mot-clé exact sur de 
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

@@ -146,7 +146,7 @@ L'IA automatise les tâches répétitives mais l'expertise humaine reste indispe
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

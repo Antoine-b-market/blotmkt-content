@@ -163,7 +163,7 @@ Utilisez Google Search Console (rapport recommandations) pour découvrir la fré
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

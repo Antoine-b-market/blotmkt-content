@@ -119,7 +119,7 @@ Emmanuelle Wiesemes SEO 2026, Les Makers statistiques, Occeo Audit pricing, Incr
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

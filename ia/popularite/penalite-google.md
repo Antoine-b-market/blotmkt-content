@@ -128,7 +128,7 @@ Une pénalité manuelle implique une intervention humaine avec notification obli
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

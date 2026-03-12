@@ -135,7 +135,7 @@ L'audit sémantique produit ses effets dans la durée sur 3 à 6 mois et permet 
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

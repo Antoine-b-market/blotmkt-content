@@ -135,7 +135,7 @@ Pour obtenir les Données de performance de la version mobile d'une URL, demande
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

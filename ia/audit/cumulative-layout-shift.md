@@ -120,7 +120,7 @@ Le CLS fait partie des Core Web Vitals utilisés par Google comme facteur de cla
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

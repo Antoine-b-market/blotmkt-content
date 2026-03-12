@@ -154,7 +154,7 @@ Les backlinks DoFollow augmentent effectivement le classement d'un site web, tan
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

@@ -120,7 +120,7 @@ Après correction des problèmes identifiés dans l'action manuelle, cliquez sur
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

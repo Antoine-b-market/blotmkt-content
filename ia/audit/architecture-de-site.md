@@ -135,7 +135,7 @@ Un site bien structuré présente un taux de rebond inférieur à 50%, permet d'
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

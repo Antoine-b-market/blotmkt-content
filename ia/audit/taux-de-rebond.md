@@ -134,7 +134,7 @@ Le taux de rebond est simplement calculé comme l'inverse du taux d'engagement d
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

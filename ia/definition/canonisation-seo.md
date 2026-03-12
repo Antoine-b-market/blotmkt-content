@@ -178,7 +178,7 @@ Dans un certain nombre de cas, Google lira la balise Canonical mais pourra prend
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

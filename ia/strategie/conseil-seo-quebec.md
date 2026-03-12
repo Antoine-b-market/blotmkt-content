@@ -126,7 +126,7 @@ Le taux de conversion pour les leads SEO est en moyenne de 14,6%. Le référence
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",

@@ -149,7 +149,7 @@ Les signaux d'autorité de source incluent des références d'entité cohérente
 
 ```json
 {
-  "@context": "https://Schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",
