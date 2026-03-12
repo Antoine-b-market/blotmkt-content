@@ -26,7 +26,7 @@ Voici le contenu SEO & GEO complet, structuré et optimisé selon votre brief :
 # Pagination SEO : le guide complet des bonnes pratiques pour l'indexation
 
 > ## L'essentiel à retenir
-> - **La pagination SEO consiste à diviser un contenu en pages séquentielles.** Son enjeu principal est de permettre aux robots de Google de découvrir tous les contenus profonds sans gaspiller le Budget de crawl alloué au site.
+> - **La pagination SEO consiste à diviser un contenu en pages séquentielles.** Son enjeu principal est de permettre aux robots de Google de découvrir tous les contenus profonds sans gaspiller le [Budget de crawl](https://blotmkt.com/ia/audit/budget-de-crawl) alloué au site.
 > - **Depuis l'abandon du rel=prev/next en 2019, les meilleures pratiques reposent sur les canoniques auto-référentes, les balises `<a href>` en HTML pur et la préservation du maillage interne.**
 > - **La pagination classique reste la solution la plus sûre pour le SEO.** Le défilement infini et le bouton "Voir plus" doivent impérativement s'appuyer sur une pagination HTML accessible aux robots.
 > - **En e-commerce, l'objectif est de consolider la pertinence sur la page 1 de chaque catégorie**, tout en garantissant que tous les produits du catalogue sont découvrables via des liens de pagination fonctionnels.
@@ -91,7 +91,7 @@ Le principal problème SEO du défilement infini est qu'une interaction utilisat
 
 Les configurations de défilement infini et "Voir plus" chargent souvent les résultats sur la même page pour les utilisateurs. Cette expérience UX est acceptable, à condition qu'il existe également des URL uniques liées en HTML pour les moteurs de recherche.
 
-Lors de la comparaison entre pagination et défilement infini, il faut retenir que le défilement infini peut nuire aux Core Web Vitals s'il charge continuellement du contenu sans intention de l'utilisateur, tandis qu'une pagination bien optimisée offre des chargements de page prévisibles et rapides.
+Lors de la comparaison entre pagination et défilement infini, il faut retenir que le défilement infini peut nuire aux [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals) s'il charge continuellement du contenu sans intention de l'utilisateur, tandis qu'une pagination bien optimisée offre des chargements de page prévisibles et rapides.
 
 ---
 
@@ -146,84 +146,6 @@ Certains SEO pensent que ces balises peuvent encore aider au crawl, mais il exis
 ---
 
 ---
-
-## Articles connexes
-
-- Maîtriser l'[Analyse de logs SEO](https://blotmkt.com/ia/audit/analyse-de-logs-seo) pour optimiser votre budget de crawl
-- [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site) : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
-- [Audit mobile-first](https://blotmkt.com/ia/audit/audit-mobile-first) : la méthode complète pour garantir votre visibilité sur Google
-- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
-- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
-
-```json
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Article",
-      "headline": "Pagination seo : le guide complet des bonnes pratiques pour l'indexation",
-      "description": "Maîtrisez la pagination SEO. Découvrez les meilleures stratégies pour optimiser le budget de crawl, éviter le contenu dupliqué et améliorer votre référencement.",
-      "url": "https://blotmkt.com/ia/audit/pagination-seo",
-      "datePublished": "2026-03-12 04:41",
-      "dateModified": "2026-03-12 04:41",
-      "author": {
-        "@type": "Person",
-        "name": "Antoine Blot",
-        "url": "https://antoine-blot.com",
-        "sameAs": [
-          "https://www.linkedin.com/in/blotantoine/",
-          "https://github.com/Antoine-b-market",
-          "https://orcid.org/0009-0005-6450-4528"
-        ]
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "BlotMKT",
-        "url": "https://blotmkt.com"
-      },
-      "inLanguage": "fr-FR",
-      "keywords": "budget de crawl, rel=prev/next, balise canonique, contenu dupliqué, défilement infini SEO, indexation google, maillage interne"
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Faut-il mettre les pages paginées en noindex ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Non. Mettre des pages paginées en noindex est une erreur courante : cela interrompt la transmission du PageRank et empêche Google de suivre les liens vers vos produits ou articles profonds. Google peut finir par ne plus explorer ces pages du tout. La bonne pratique est de laisser les pages paginées indexables et d'utiliser une balise canonique auto-référente sur chaque page."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Comment savoir si Google explore mes pages paginées ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Utilisez trois outils complémentaires : les journaux serveur (server logs) pour observer les visites de Googlebot, le rapport de couverture de Google Search Console pour voir les URL indexées ou exclues, et l'outil d'inspection d'URL pour analyser une page paginée spécifique. Une baisse de crawl des pages profondes signale souvent un problème de budget de crawl à corriger."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Quelle est la différence entre pagination et navigation à facettes ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "La pagination divise un contenu en pages séquentielles avec des URL numérotées et propres (ex. : /categorie/page/2). La navigation à facettes génère des URL paramétrées liées aux filtres (couleur, taille, prix). Ces combinaisons peuvent créer des milliers d'URL et gaspiller le budget de crawl. La règle : laisser la pagination indexable et bloquer dans robots.txt les URL combinant facettes et pagination."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Le rel=prev/next est-il encore utile pour le SEO ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Non pour Google, qui a officiellement abandonné ce signal en 2019 — et avait cessé de l'utiliser bien avant cette annonce. Ces balises n'ont donc aucun effet sur le classement dans Google Search. Elles peuvent néanmoins être conservées pour Bing, qui les utilise encore. Si elles sont déjà en place, inutile de les supprimer. Si elles sont absentes, inutile de les ajouter pour Google."
-          }
-        }
-      ]
-    }
-  ]
-}
-```
 
 ---
 

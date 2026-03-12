@@ -47,7 +47,7 @@ Google) ne fonctionne plus avec une logique de correspondance exacte, mais dans 
 
 ## Définition : qu'est-ce qu'une entité nommée en SEO ?
 
-Une entité nommée est un concept, un objet, une personne, un lieu ou une idée qui est unique, distincte et bien définie. Pour Google, une entité n'est pas un mot, c'est un identifiant unique dans sa base de données ([Knowledge Graph)
+Une entité nommée est un concept, un objet, une personne, un lieu ou une idée qui est unique, distincte et bien définie. Pour Google, une entité n'est pas un mot, c'est un identifiant unique dans sa base de données ([Knowledge Graph](https://blotmkt.com/ia/definition/knowledge-graph))
 . Ce concept révolutionne la façon dont les moteurs de recherche comprennent et organisent l'information.
 
 Les triplets sémantiques sont les briques de base des graphes de connaissances (knowledge graphs) comme celui de Google. Une fois les entités reconnues, elles sont liées entre elles via des relations
@@ -83,12 +83,12 @@ Le balisage Schema.org est la fondation pour aider Google à comprendre votre co
 . Cette structuration technique constitue la base de votre reconnaissance en tant qu'entité.
 
 Créez une page "À propos" détaillée qui présente clairement votre expertise, votre parcours et vos domaines de spécialisation. 
-Optimisez vos pages biographiques avec une biographie narrative détaillant le parcours et les diplômes, des liens vers les profils réseaux sociaux professionnels, et l'utilisation des [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees) Schema.org pour désambiguïser l'identité
+Optimisez vos pages biographiques avec une biographie narrative détaillant le parcours et les diplômes, des liens vers les profils réseaux sociaux professionnels, et l'utilisation des [Données structurées Schema.org pour désambiguïser l'identité
 .
 
 ### Développer votre écosystème d'autorité
 
-Google, Amazon (Alexa), Apple (Siri) et la plupart des IA puisent massivement dans Wikidata pour construire leur [Knowledge Graph](https://blotmkt.com/ia/definition/knowledge-graph). Être présent et correctement renseigné sur Wikidata envoie un signal fort : "J'existe, voici mon identité vérifiée"
+Google, Amazon (Alexa), Apple (Siri) et la plupart des IA puisent massivement dans Wikidata pour construire leur Knowledge Graph. Être présent et correctement renseigné sur Wikidata envoie un signal fort : "J'existe, voici mon identité vérifiée"
 .
 
 La création d'une entrée Wikidata nécessite une approche rigoureuse : 
@@ -209,14 +209,6 @@ Complétez avec des outils comme Contentsprout AI, Google Trends et Text Razor p
 ---
 
 ---
-
-## Articles connexes
-
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
-- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
 
 ---
 

@@ -99,7 +99,7 @@ La GEO vise à établir l'autorité. Si ChatGPT cite votre recherche, les utilis
 . Cette différence fondamentale modifie les métriques de succès : de la génération de clics vers l'établissement d'autorité.
 
 L'E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) devient encore plus critique. 
-Les signaux E-E-A-T sont la base de la Visibilité SGE, nécessitant des références démontrables et des connaissances de première main pour obtenir des citations
+Les signaux E-E-A-T sont la base de la [Visibilité SGE](https://blotmkt.com/ia/ia-seo-geo/visibilite-sge), nécessitant des références démontrables et des connaissances de première main pour obtenir des citations
 . Les IA évaluent la crédibilité différemment des Algorithmes traditionnels.
 
 Les signaux de marque prennent une importance accrue. 
@@ -247,14 +247,6 @@ Non,
 ---
 
 ---
-
-## Articles connexes
-
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- [Algorithme de recommandation](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation) : le guide complet pour éviter les biais et la sur-dépendance
-- [Citations par IA](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia) : comment l'intelligence artificielle réinvente votre contenu
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
 
 ---
 

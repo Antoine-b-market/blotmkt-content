@@ -64,7 +64,7 @@ Les redirections donnent un signal positif aux moteurs de recherche, permettant 
 
 ## Redirection 301 vs 302 : choisir le bon signal pour Google
 
-La distinction entre ces deux redirections conditionne le succès de votre Stratégie SEO. 
+La distinction entre ces deux redirections conditionne le succès de votre [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo). 
 Les moteurs de recherche traitent les redirections 301 et 302 différemment : avec une 301, Google transfère l'autorité, la puissance de classement et tous les backlinks associés à l'ancienne URL vers la nouvelle localisation, ce qui signifie que la nouvelle URL hérite de la valeur SEO que la page originale a construite au fil du temps
 .
 
@@ -207,14 +207,6 @@ Créer des chaînes de redirection (où une redirection mène à une autre, puis
 ---
 
 ---
-
-## Articles connexes
-
-- Maîtriser l'[Analyse de logs SEO](https://blotmkt.com/ia/audit/analyse-de-logs-seo) pour optimiser votre budget de crawl
-- [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site) : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
-- [Audit mobile-first](https://blotmkt.com/ia/audit/audit-mobile-first) : la méthode complète pour garantir votre visibilité sur Google
-- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
-- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
 
 ---
 

@@ -221,14 +221,6 @@ Le H1 est le titre principal visible sur votre page web, distinct de la balise t
 
 ---
 
-## Articles connexes
-
-- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
-- [Call to action](https://blotmkt.com/ia/contenu/call-to-action) : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
-
 ---
 
 ## Articles connexes

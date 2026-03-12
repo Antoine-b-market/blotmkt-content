@@ -40,73 +40,7 @@
     .related li{margin-bottom:8px}
     footer{margin-top:48px;padding-top:16px;border-top:1px solid #eee;font-size:0.78rem;color:#aaa}
   </style>
-  <script type="application/ld+json">{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Article",
-      "headline": "Pagination seo : le guide complet des bonnes pratiques pour l'indexation",
-      "description": "Maîtrisez la pagination SEO. Découvrez les meilleures stratégies pour optimiser le budget de crawl, éviter le contenu dupliqué et améliorer votre référencement.",
-      "url": "https://blotmkt.com/ia/audit/pagination-seo",
-      "datePublished": "2026-03-12 04:41",
-      "dateModified": "2026-03-12 04:41",
-      "author": {
-        "@type": "Person",
-        "name": "Antoine Blot",
-        "url": "https://antoine-blot.com",
-        "sameAs": [
-          "https://www.linkedin.com/in/blotantoine/",
-          "https://github.com/Antoine-b-market",
-          "https://orcid.org/0009-0005-6450-4528"
-        ]
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "BlotMKT",
-        "url": "https://blotmkt.com"
-      },
-      "inLanguage": "fr-FR",
-      "keywords": "budget de crawl, rel=prev/next, balise canonique, contenu dupliqué, défilement infini SEO, indexation google, maillage interne"
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Faut-il mettre les pages paginées en noindex ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Non. Mettre des pages paginées en noindex est une erreur courante : cela interrompt la transmission du PageRank et empêche Google de suivre les liens vers vos produits ou articles profonds. Google peut finir par ne plus explorer ces pages du tout. La bonne pratique est de laisser les pages paginées indexables et d'utiliser une balise canonique auto-référente sur chaque page."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Comment savoir si Google explore mes pages paginées ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Utilisez trois outils complémentaires : les journaux serveur (server logs) pour observer les visites de Googlebot, le rapport de couverture de Google Search Console pour voir les URL indexées ou exclues, et l'outil d'inspection d'URL pour analyser une page paginée spécifique. Une baisse de crawl des pages profondes signale souvent un problème de budget de crawl à corriger."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Quelle est la différence entre pagination et navigation à facettes ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "La pagination divise un contenu en pages séquentielles avec des URL numérotées et propres (ex. : /categorie/page/2). La navigation à facettes génère des URL paramétrées liées aux filtres (couleur, taille, prix). Ces combinaisons peuvent créer des milliers d'URL et gaspiller le budget de crawl. La règle : laisser la pagination indexable et bloquer dans robots.txt les URL combinant facettes et pagination."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Le rel=prev/next est-il encore utile pour le SEO ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Non pour Google, qui a officiellement abandonné ce signal en 2019 — et avait cessé de l'utiliser bien avant cette annonce. Ces balises n'ont donc aucun effet sur le classement dans Google Search. Elles peuvent néanmoins être conservées pour Bing, qui les utilise encore. Si elles sont déjà en place, inutile de les supprimer. Si elles sont absentes, inutile de les ajouter pour Google."
-          }
-        }
-      ]
-    }
-  ]
-}</script>
+  
 </head>
 <body>
   <article>
@@ -116,7 +50,7 @@
 <blockquote>
 <h2>L'essentiel à retenir</h2>
 <ul>
-<li><strong>La pagination SEO consiste à diviser un contenu en pages séquentielles.</strong> Son enjeu principal est de permettre aux robots de Google de découvrir tous les contenus profonds sans gaspiller le Budget de crawl alloué au site.</li>
+<li><strong>La pagination SEO consiste à diviser un contenu en pages séquentielles.</strong> Son enjeu principal est de permettre aux robots de Google de découvrir tous les contenus profonds sans gaspiller le <a href="https://blotmkt.com/ia/audit/budget-de-crawl">Budget de crawl</a> alloué au site.</li>
 <li><strong>Depuis l'abandon du rel=prev/next en 2019, les meilleures pratiques reposent sur les canoniques auto-référentes, les balises <code>&amp;lt;a href&gt;</code> en HTML pur et la préservation du maillage interne.</strong></li>
 <li><strong>La pagination classique reste la solution la plus sûre pour le SEO.</strong> Le défilement infini et le bouton "Voir plus" doivent impérativement s'appuyer sur une pagination HTML accessible aux robots.</li>
 <li><strong>En e-commerce, l'objectif est de consolider la pertinence sur la page 1 de chaque catégorie</strong>, tout en garantissant que tous les produits du catalogue sont découvrables via des liens de pagination fonctionnels.</li>
@@ -189,7 +123,7 @@ ne canoniquez jamais la page 2 (et suivantes) vers l'URL parente !</p>
 </table>
 <p>Le principal problème SEO du défilement infini est qu'une interaction utilisateur (le scroll) déclenche du JavaScript pour charger plus de résultats, mais les robots d'exploration comme Googlebot ne peuvent pas interagir avec la page comme un humain — ils ne peuvent donc pas faire défiler la page pour voir les liens qui ne sont pas chargés initialement. Ils ne peuvent suivre que les liens <code>&amp;lt;a href&gt;</code> inclus dans le code.</p>
 <p>Les configurations de défilement infini et "Voir plus" chargent souvent les résultats sur la même page pour les utilisateurs. Cette expérience UX est acceptable, à condition qu'il existe également des URL uniques liées en HTML pour les moteurs de recherche.</p>
-<p>Lors de la comparaison entre pagination et défilement infini, il faut retenir que le défilement infini peut nuire aux Core Web Vitals s'il charge continuellement du contenu sans intention de l'utilisateur, tandis qu'une pagination bien optimisée offre des chargements de page prévisibles et rapides.</p>
+<p>Lors de la comparaison entre pagination et défilement infini, il faut retenir que le défilement infini peut nuire aux <a href="https://blotmkt.com/ia/audit/core-web-vitals">Core Web Vitals</a> s'il charge continuellement du contenu sans intention de l'utilisateur, tandis qu'une pagination bien optimisée offre des chargements de page prévisibles et rapides.</p>
 <hr />
 <h2>Cas pratique : optimiser la pagination sur un site e-commerce</h2>
 <p>L'e-commerce concentre les problématiques les plus complexes de la pagination SEO. Voici une approche pragmatique.</p>
@@ -221,7 +155,8 @@ Sur les très grands sites avec des centaines de milliers de pages, la question 
 <hr />
 <p><em>Sources : SEOClarity, "SEO Pagination Best Practices and Considerations" (janvier 2025) — Search Engine Land, "Pagination and SEO: What you need to know in 2025" (mars 2025) — SEMrush, "Pagination and SEO: A Complete Guide to Best Practices" (février 2025) — Gray Dot Co, "Pagination SEO Best Practices &amp; Need-to-Know Nuances" (septembre 2025) — NoGood, "Pagination SEO: A Complete Best Practices Guide" (janvier 2025)</em></p>
 <hr />
-<hr /><div class="related"><h2>Articles connexes</h2><ul><li><a href="https://blotmkt.com/ia/audit/architecture-de-site">Architecture de site</a></li><li><a href="https://blotmkt.com/ia/audit/audit-mobile-first">Audit mobile-first</a></li></ul></div>
+<hr />
+<hr /><div class="related"><h2>Articles connexes</h2><ul><li><a href="https://blotmkt.com/ia/audit/analyse-de-logs-seo">Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl</a></li><li><a href="https://blotmkt.com/ia/audit/architecture-de-site">Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO</a></li><li><a href="https://blotmkt.com/ia/audit/audit-mobile-first">Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google</a></li><li><a href="https://blotmkt.com/ia/audit/audit-semantique">Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche</a></li><li><a href="https://blotmkt.com/ia/audit/audit-seo-montreal">Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux</a></li></ul></div>
     
   </article>
   <footer>

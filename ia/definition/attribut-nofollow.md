@@ -145,7 +145,7 @@ Utilisez nofollow pour les liens externes non cautionnés, le Contenu généré 
 
 ### Est-ce que les liens nofollow sont bons pour le SEO ?
 
-Les liens nofollow ne sont pas mauvais pour le SEO. Bien qu'ils ne soient techniquement pas comptabilisés pour vos classements SEO, ils peuvent avoir un impact positif et font partie naturelle d'un Profil de liens sain et robuste
+Les liens nofollow ne sont pas mauvais pour le SEO. Bien qu'ils ne soient techniquement pas comptabilisés pour vos classements SEO, ils peuvent avoir un impact positif et font partie naturelle d'un [Profil de liens](https://blotmkt.com/ia/definition/profil-de-liens) sain et robuste
 . Ils génèrent du trafic de référence et participent à la diversité naturelle des liens.
 
 ---
@@ -225,14 +225,6 @@ Les liens nofollow ne sont pas mauvais pour le SEO. Bien qu'ils ne soient techni
 ---
 
 ---
-
-## Articles connexes
-
-- Décrypter l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
-- Attribut sponsored : le guide complet pour vos liens payants en seo
-- Backlink de qualité : le guide pour acquérir des liens qui renforcent votre E-E-A-T
 
 ---
 

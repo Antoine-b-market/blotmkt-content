@@ -196,14 +196,6 @@ Le maillage interne en silos concentre le jus SEO vers vos pages stratégiques a
 
 ---
 
-## Articles connexes
-
-- Décrypter l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité
-- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
-
 ---
 
 ## Articles connexes

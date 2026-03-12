@@ -242,14 +242,6 @@ Les opérateurs espèrent un effet positif comme l'augmentation des visiteurs da
 
 ---
 
-## Articles connexes
-
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- [Citations par IA](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia) : comment l'intelligence artificielle réinvente votre contenu
-- [Contenu IA SEO](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo) : le guide pour une stratégie de référencement sémantique
-- [Contextualisation SEO](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo) : le guide pour optimiser au-delà des mots-clés
-- Entité nommée SEO : le guide pour devenir une référence aux yeux de Google
-
 ---
 
 ## Articles connexes

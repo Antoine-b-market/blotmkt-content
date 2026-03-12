@@ -228,14 +228,6 @@ Utilisez les outils gratuits de Google comme PageSpeed Insights, Search Console 
 
 ---
 
-## Articles connexes
-
-- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
-- [Désindexation Google](https://blotmkt.com/ia/popularite/desindexation-google): guide pratique pour contrôler votre visibilité en ligne
-- Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
-- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
-- Action manuelle Google : le guide complet pour l'identifier et la corriger
-
 ---
 
 ## Articles connexes

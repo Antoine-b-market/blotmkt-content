@@ -60,7 +60,7 @@ L'e-commerce commande des tarifs 20% plus élevés que les services généraux
  en raison de la complexité technique (gestion du catalogue, Optimisation des fiches produits) et des enjeux commerciaux directs.
 
 Chez CVMH Solutions, les tarifs varient entre 90€ et 130€ HT de l'heure selon la nature des dossiers
-. Cette modulation reflète la réalité : un Audit technique simple ne requiert pas la même expertise qu'une stratégie de netlinking international ou qu'une Migration SEO complexe.
+. Cette modulation reflète la réalité : un Audit technique simple ne requiert pas la même expertise qu'une stratégie de netlinking international ou qu'une [Migration SEO](https://blotmkt.com/ia/strategie/migration-seo) complexe.
 
 ## Grille des prix SEO : du taux horaire au forfait mensuel
 
@@ -212,14 +212,6 @@ Privilégiez une approche axée sur le ROI et évitez les consultants avec des g
 ---
 
 ---
-
-## Articles connexes
-
-- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
-- [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal) : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
 ---
 

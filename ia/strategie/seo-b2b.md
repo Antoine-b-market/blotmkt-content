@@ -234,14 +234,6 @@ les campagnes SEO atteignant un ROI positif dans les 6-12 mois
 
 ---
 
-## Articles connexes
-
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-
 ---
 
 ## Articles connexes

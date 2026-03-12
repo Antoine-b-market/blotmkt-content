@@ -36,7 +36,7 @@ L'interprétation suit une échelle simple : 1-30% (risque faible), 31-60% (risq
 > - 
 Google n'utilise pas le Spam Score de Moz dans son algorithme, mais utilise ses propres systèmes comme SpamBrain pour détecter le spam
 
-Le spam score vous inquiète ? Cette métrique de Moz semble indiquer que votre site risque une Pénalité Google. Mais entre corrélation et causalité, la nuance est cruciale. 
+Le spam score vous inquiète ? Cette métrique de Moz semble indiquer que votre site risque une [Pénalité Google](https://blotmkt.com/ia/popularite/penalite-google). Mais entre corrélation et causalité, la nuance est cruciale. 
 Google a confirmé ne pas utiliser les métriques tierces comme le spam score pour classer les pages
 , pourtant cette donnée reste un précieux indicateur de risque pour optimiser votre [Profil de liens](https://blotmkt.com/ia/definition/profil-de-liens).
 
@@ -97,7 +97,7 @@ Google évalue désormais si les gens lient par utilité du Contenu ou par des a
 .
 
 Les véritables mécanismes de sanction sont les Core Updates (évaluation globale de la qualité) et les Spam Updates (détection automatique de patterns de spam) annoncés par Google
-. Le Spam Score reste un proxy utile pour diagnostiquer un profil de lien à risque, mais la Stratégie SEO doit se concentrer sur la satisfaction des critères de qualité réels de Google.
+. Le Spam Score reste un proxy utile pour diagnostiquer un profil de lien à risque, mais la [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo) doit se concentrer sur la satisfaction des critères de qualité réels de Google.
 
 ---
 
@@ -200,14 +200,6 @@ Pour les Link Spam Updates spécifiquement, les changements peuvent ne pas gén�
 ---
 
 ---
-
-## Articles connexes
-
-- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
-- [Désindexation Google](https://blotmkt.com/ia/popularite/desindexation-google): guide pratique pour contrôler votre visibilité en ligne
-- [Facteurs de classement Google](https://blotmkt.com/ia/popularite/facteurs-de-classement-google) : le guide basé sur la documentation officielle
-- Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
-- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
 
 ---
 
