@@ -14,15 +14,19 @@ date: "2026-03-12 05:08"
 date_modified: "2026-03-12 05:08"
 slug: "pagination-seo"
 url: "/ia/audit/pagination-seo"
-sources:
-  - blotmkt.com
-  - antoine-blot.com
+related_articles:
+  - title: "Budget de crawl : le guide pour l'optimiser et accélérer votre indexation"
+    url: "/ia/audit/budget-de-crawl"
+  - title: "Page pilier SEO : le guide pour structurer votre autorité thématique"
+    url: "/ia/definition/page-pilier-seo"
+  - title: "Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl"
+    url: "/ia/audit/analyse-de-logs-seo"
 ---
 
 # Pagination SEO : le guide des bonnes pratiques pour ne pas pénaliser votre site
 
 > ## L'essentiel à retenir
-> - La pagination SEO consiste à diviser un contenu volumineux en une série de pages séquentielles reliées entre elles ; mal gérée, elle génère du contenu dupliqué, dilue l'autorité et épuise le Budget de crawl.
+> - La pagination SEO consiste à diviser un contenu volumineux en une série de pages séquentielles reliées entre elles ; mal gérée, elle génère du contenu dupliqué, dilue l'autorité et épuise le [Budget de crawl](https://blotmkt.com/ia/audit/budget-de-crawl.html).
 > - Les meilleures pratiques techniques reposent sur des balises `<a href>` crawlables, des canoniques auto-référencées par page et l'absence de blocage via robots.txt ou noindex.
 > - La pagination classique reste la solution la plus fiable pour le SEO ; le scroll infini et le "Voir plus" exigent une implémentation technique rigoureuse pour ne pas masquer le contenu aux robots.
 > - Un budget de crawl bien géré grâce à une pagination structurée guide Googlebot vers les pages à haute valeur, améliorant l'indexation et le ROI SEO à long terme.
@@ -115,84 +119,16 @@ La pagination aide les moteurs de recherche à crawler efficacement en créant u
 
 ---
 
-## Articles connexes
+---
 
-- Maîtriser l'[Analyse de logs SEO](https://blotmkt.com/ia/audit/analyse-de-logs-seo) pour optimiser votre budget de crawl
-- [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site) : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
-- [Audit mobile-first](https://blotmkt.com/ia/audit/audit-mobile-first) : la méthode complète pour garantir votre visibilité sur Google
-- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
-- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
-
-```json
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Article",
-      "headline": "Pagination SEO : le guide des bonnes pratiques pour ne pas pénaliser votre site",
-      "description": "Maîtrisez la pagination SEO pour éviter le duplicate content et optimiser votre budget de crawl. Découvrez les meilleures stratégies et erreurs à ne pas commettre.",
-      "url": "https://blotmkt.com/ia/audit/pagination-seo",
-      "datePublished": "2026-03-12 05:08",
-      "dateModified": "2026-03-12 05:08",
-      "author": {
-        "@type": "Person",
-        "name": "Antoine Blot",
-        "url": "https://antoine-blot.com",
-        "sameAs": [
-          "https://www.linkedin.com/in/blotantoine/",
-          "https://github.com/Antoine-b-market",
-          "https://orcid.org/0009-0005-6450-4528"
-        ]
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "BlotMKT",
-        "url": "https://blotmkt.com"
-      },
-      "inLanguage": "fr-FR",
-      "keywords": "budget de crawl, balise canonical, contenu dupliqué, scroll infini, expérience utilisateur"
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Faut-il utiliser noindex sur les pages paginées ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Non, utiliser noindex sur les pages paginées est généralement contre-productif. Les moteurs de recherche arrêtent de les crawler, ce qui peut empêcher l'indexation de produits ou d'articles situés en profondeur. Cela brise également la chaîne de liens internes et affaiblit les signaux SEO. Sauf si une page paginée n'a aucune valeur unique, elle doit rester indexable et crawlable."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Quelle est la meilleure solution entre la pagination et le scroll infini ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "La pagination classique reste la solution la plus robuste pour le SEO : elle crée des URLs statiques et crawlables, facilite l'indexation et structure clairement le contenu. Le scroll infini peut convenir à des contextes de découverte comme les réseaux sociaux, mais exige une implémentation technique rigoureuse avec des URLs uniques et des fallbacks HTML pour ne pas masquer le contenu aux robots de Google."
-          }
-        },
-      ]
-    }
-  ]
-}
-```
+---
 
 ---
 
 ## Articles connexes
 
-- Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl
-- Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
-- Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google
-- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
-- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
-
----
-
-## Articles connexes
-
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo)
-- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site)
-- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first)
-- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique)
-- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
+- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)
+- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first.html)
+- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique.html)
+- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal.html)

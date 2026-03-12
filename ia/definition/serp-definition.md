@@ -31,7 +31,7 @@ related_articles:
 > - Les SERP modernes intègrent diverses fonctionnalités (Featured Snippets, knowledge panels, local pack) qui représentent 
 92% des recherches sur Google
 
-> - L'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche) (informationnelle, navigationnelle, commerciale, transactionnelle) détermine la composition et l'organisation de chaque SERP
+> - L'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) (informationnelle, navigationnelle, commerciale, transactionnelle) détermine la composition et l'organisation de chaque SERP
 > - Analyser une SERP permet d'identifier les types de contenus privilégiés par Google et d'optimiser sa stratégie de contenu en conséquence
 
 Vous tapez une requête dans Google, et immédiatement une page s'affiche avec des résultats soigneusement organisés. Derrière cette simplicité apparente se cache un écosystème complexe et personnalisé : la SERP. Mais comment cette page influence-t-elle réellement votre visibilité en ligne ? Et surtout, comment l'analyser pour maximiser vos chances d'apparaître en première position ?
@@ -69,7 +69,7 @@ En 2024, seulement 1,53% des requêtes Google apparaissent sans aucune SERP feat
 , marquant une transformation complète du paysage.
 
 Les Featured Snippets, surnommés "position zéro", occupent une place privilégiée. 
-En 2024, un Featured Snippet apparaît dans une recherche sur cinq sur Google
+En 2024, un [Featured Snippet](https://blotmkt.com/ia/definition/featured-snippet.html) apparaît dans une recherche sur cinq sur Google
 . 
 Du point de vue SEO, obtenir un featured snippet signifie une visibilité privilégiée, même si votre page n'est pas la mieux classée, votre contenu peut apparaître en premier s'il fournit la réponse la plus directe et bien formatée
 .
@@ -91,7 +91,7 @@ peuvent être très efficaces pour générer du trafic en rendant votre listing 
 L'intention de recherche est l'objectif que souhaite atteindre un internaute lorsqu'il saisit une requête sur un moteur de recherche, car l'utilisateur ne cherche pas uniquement des mots-clés, il poursuit un but bien précis
 .
 
-Les quatre types d'Intentions les plus courants sont : l'intention informationnelle (obtenir une information), l'Intention navigationnelle (trouver un site ou une marque), l'intention commerciale (comparer des produits ou des services) et l'intention transactionnelle (acheter un produit ou souscrire à un service)
+Les quatre types d'Intentions les plus courants sont : l'intention informationnelle (obtenir une information), l'[Intention navigationnelle](https://blotmkt.com/ia/definition/intention-navigationnelle.html) (trouver un site ou une marque), l'intention commerciale (comparer des produits ou des services) et l'intention transactionnelle (acheter un produit ou souscrire à un service)
 .
 
 Google adapte sophistiquement la composition de chaque SERP selon l'intention détectée. 
@@ -235,40 +235,16 @@ Les outils n'ont pas de jugement contextuel contrairement à vous - utilisez-les
 
 ---
 
-## Articles connexes
+---
 
-- Décrypter l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
-- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
+---
 
 ---
 
 ## Articles connexes
 
-- Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité
-- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
-
----
-
-## Articles connexes
-
-- Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité
-- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
-
----
-
-## Articles connexes
-
-- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google)
-- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo)
-- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien)
-- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow)
-- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored)
+- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)
+- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo.html)
+- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien.html)
+- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow.html)
+- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored.html)

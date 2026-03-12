@@ -90,7 +90,7 @@ Le statut influence fortement la rémunération. En freelance, le potentiel de r
 ## Préparer un entretien d'embauche SEO : de la technique à la stratégie
 
 Les entretiens SEO 2026 intègrent systématiquement des questions sur l'IA et le GEO. 
-Selon la recherche de Princeton sur le GEO, les principales méthodes d'Optimisation (citation de sources, ajout de statistiques, inclusion de citations) peuvent améliorer la [Visibilité IA](https://blotmkt.com/ia/ia-seo-geo/visibilite-ia) de 30-40%
+Selon la recherche de Princeton sur le GEO, les principales méthodes d'Optimisation (citation de sources, ajout de statistiques, inclusion de citations) peuvent améliorer la [Visibilité IA](https://blotmkt.com/ia/ia-seo-geo/visibilite-ia.html) de 30-40%
 . Maîtriser ces concepts devient indispensable.
 
 Les questions techniques classiques (audits, balises, Architecture) s'enrichissent de problématiques GEO : optimisation pour les réponses génératives, stratégies de citation AI, mesure du "Share of Model". 
@@ -112,7 +112,7 @@ Tous les secteurs intensifs en connaissances excellent en GEO : services B2B, te
 
 ### Nouvelles compétences requises
 
-Les stratégies GEO les plus impactantes se regroupent en trois catégories : expansion de l'empreinte sémantique, augmentation de la densité factuelle et amélioration des [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees)
+Les stratégies GEO les plus impactantes se regroupent en trois catégories : expansion de l'empreinte sémantique, augmentation de la densité factuelle et amélioration des [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html)
 . Ces compétences techniques s'ajoutent au bagage traditionnel du SEO pour créer des profils très recherchés.
 
 ---
@@ -206,40 +206,16 @@ Un mix LinkedIn/Indeed, un ou deux job boards marketing de niche, des sites remo
 
 ---
 
-## Articles connexes
+---
 
-- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
+---
 
 ---
 
 ## Articles connexes
 
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-
----
-
-## Articles connexes
-
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-
----
-
-## Articles connexes
-
-- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel)
-- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal)
-- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web)
-- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel)
-- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec)
+- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html)
+- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
+- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web.html)
+- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel.html)
+- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)

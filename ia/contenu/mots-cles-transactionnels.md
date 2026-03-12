@@ -18,10 +18,10 @@ canonical: "https://blotmkt.com/ia/contenu/mots-cles-transactionnels.html"
 related_articles:
   - title: "Mots-clés informationnels : guide pour optimiser votre stratégie SEO avec l'IA"
     url: "/ia/contenu/mots-cles-informationnels"
-  - title: "La longue traîne en SEO : le guide pour attirer un trafic ultra qualifié"
-    url: "/ia/contenu/longue-traine-seo"
   - title: "L'intention de recherche : le guide pour décrypter et optimiser votre stratégie SEO"
     url: "/ia/contenu/intention-de-recherche"
+  - title: "Mots-clés de marque : le guide stratégique pour protéger et monétiser votre notoriété"
+    url: "/ia/contenu/mots-cles-de-marque"
 ---
 
 # Mots-clés transactionnels : le guide pour cibler l'intention d'achat avec l'IA
@@ -44,7 +44,7 @@ Vous perdez des ventes parce que vos contenus n'interceptent pas les clients pr�
 Les mots-clés transactionnels incitent à l'action directe (achat, réservation) et sont utilisés par des internautes ayant l'intention de réaliser une transaction, identifiables par des termes comme "acheter", "réserver", "commander" ou "demander un devis"
 .
 
-Contrairement aux Mots-clés informationnels qui répondent à "comment" ou "pourquoi", 
+Contrairement aux [Mots-clés informationnels](https://blotmkt.com/ia/contenu/mots-cles-informationnels.html) qui répondent à "comment" ou "pourquoi", 
 les mots-clés transactionnels sont utilisés quelques minutes avant l'achat par des internautes qui ont probablement leur carte de crédit en main, ce qui explique leur taux de conversion extrêmement élevé
 .
 
@@ -108,7 +108,7 @@ Le trafic organique est considéré plus qualifié car les utilisateurs recherch
 ## Questions fréquentes
 
 ### Quels sont les 4 types de mots-clés ?
-Les quatre intentions de recherche sont : informationnelle (obtenir des informations), navigationnelle (accéder à un site spécifique), commerciale (comparer avant d'acheter) et transactionnelle (effectuer une action d'achat immédiat). Cette typologie guide l'Optimisation de contenu selon l'étape du parcours client.
+Les quatre intentions de recherche sont : informationnelle (obtenir des informations), navigationnelle (accéder à un site spécifique), commerciale (comparer avant d'acheter) et transactionnelle (effectuer une action d'achat immédiat). Cette typologie guide l'[Optimisation de contenu](https://blotmkt.com/ia/contenu/optimisation-de-contenu.html) selon l'étape du parcours client.
 
 ### Comment trouver des mots clés transactionnels ?
 Analysez les SERP pour identifier les pages produit, utilisez les filtres d'intention des outils SEO, exploitez les prompts IA spécialisés et surveillez le CPC élevé qui signale une intention commerciale forte. Combinez ces méthodes pour une approche complète.
@@ -194,40 +194,16 @@ Drujok, 2019
 
 ---
 
-## Articles connexes
+---
 
-- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
-- [Call to action](https://blotmkt.com/ia/contenu/call-to-action) : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
+---
 
 ---
 
 ## Articles connexes
 
-- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
-
----
-
-## Articles connexes
-
-- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
-
----
-
-## Articles connexes
-
-- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image)
-- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant)
-- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo)
-- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action)
-- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles)
+- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)
+- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant.html)
+- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo.html)
+- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action.html)
+- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)

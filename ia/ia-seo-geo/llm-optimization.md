@@ -28,7 +28,7 @@ related_articles:
 
 > ## L'essentiel à retenir
 > - **L'Optimisation LLM (LLMO)** vise à rendre un contenu facilement parsable et citable par les IA génératives, contrairement au SEO traditionnel qui cible le clic depuis une SERP
-> - **Les stratégies concrètes** incluent une structuration impeccable du contenu (balises Hn, listes, tableaux), des [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees) Schema.org et un renforcement des signaux E-E-A-T
+> - **Les stratégies concrètes** incluent une structuration impeccable du contenu (balises Hn, listes, tableaux), des [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) Schema.org et un renforcement des signaux E-E-A-T
 > - **La mesure de l'impact** se base sur de nouveaux KPIs : mentions de marque dans les réponses IA, Analyse des crawlers IA et suivi de la visibilité dans les AI Overviews
 > - **Ignorer le LLMO** risque une perte totale de visibilité sur les requêtes informationnelles, avec 
 un impact moyen de 24% de perte de trafic organique
@@ -43,7 +43,7 @@ les visiteurs issus de recherches IA convertissent 4,4 fois mieux que ceux du r�
 
 ## Définition : qu'est-ce que l'optimisation LLM (LLMO) et sa différence avec le SEO ?
 
-L'optimisation LLM (LLMO) est une méthode d'[Optimisation de contenu](https://blotmkt.com/ia/contenu/optimisation-de-contenu) spécifiquement conçue pour les grands modèles de langage comme ChatGPT, Claude et Gemini, avec pour objectif d'obtenir des mentions de marque, recommandations et citations dans les réponses conversationnelles de l'IA
+L'optimisation LLM (LLMO) est une méthode d'[Optimisation de contenu](https://blotmkt.com/ia/contenu/optimisation-de-contenu.html) spécifiquement conçue pour les grands modèles de langage comme ChatGPT, Claude et Gemini, avec pour objectif d'obtenir des mentions de marque, recommandations et citations dans les réponses conversationnelles de l'IA
 . Cette approche diffère fondamentalement du SEO classique par sa finalité : là où le SEO vise le clic depuis une SERP, le LLMO cherche à devenir une source citée dans une réponse synthétisée.
 
 Le LLMO fait partie d'un écosystème d'acronymes connexes incluant le GEO (Generative Engine Optimization) et l'AEO (Answer Engine Optimization), tous visant à positionner les marques dans les outputs des moteurs génératifs comme ChatGPT, Google Gemini et les AI Overviews
@@ -69,7 +69,7 @@ Cette approche nécessite de créer un contenu que les systèmes IA peuvent anal
 
 ### Données structurées et signaux E-E-A-T
 
-Les données structurées [Schema.org](https://blotmkt.com/ia/definition/schema.org), notamment FAQPage, HowTo et Person, fournissent un contexte explicite et non ambigu aux IA. Ces balises permettent aux modèles de comprendre précisément le type d'information présenté et son contexte d'utilisation.
+Les données structurées [Schema.org](https://blotmkt.com/ia/definition/schema.org.html), notamment FAQPage, HowTo et Person, fournissent un contexte explicite et non ambigu aux IA. Ces balises permettent aux modèles de comprendre précisément le type d'information présenté et son contexte d'utilisation.
 
 Le concept E-E-A-T de Google joue un rôle important dans l'identification des sources fiables et des marques dignes de confiance, au moins pour Gemini et les AI Overviews
 . Le renforcement de ces signaux passe par des profils d'auteurs clairs, des citations de sources fiables et des données factuelles vérifiables.
@@ -201,40 +201,16 @@ Des outils comme Qwairy mesurent l'impact des actions GEO en suivant l'évolutio
 
 ---
 
-## Articles connexes
+---
 
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
-- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
+---
 
 ---
 
 ## Articles connexes
 
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
-- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
-
----
-
-## Articles connexes
-
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
-- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
-
----
-
-## Articles connexes
-
-- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization)
-- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation)
-- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia)
-- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo)
-- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo)
+- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
+- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
+- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
+- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)

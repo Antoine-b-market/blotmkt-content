@@ -71,7 +71,7 @@ tous les clusters liens vers la page pilier et le pilier vers chaque cluster. Ce
 
 Les résultats parlent d'eux-mêmes : 
 les leads générées par le SEO convertissent 9 fois plus que ceux issus de la prospection directe. Le taux de conversion pour les leads SEO est en moyenne de 14,6%
-. Cette performance s'explique par la couverture exhaustive de l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche) que permet un cluster bien conçu.
+. Cette performance s'explique par la couverture exhaustive de l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) que permet un cluster bien conçu.
 
 Du point de vue SEO, le maillage interne aide à distribuer l'équité des liens, améliore la navigabilité et maintient les visiteurs explorant du contenu connexe. Le résultat : de meilleurs classements, plus de temps passé sur le site et des prospects plus qualifiés
 . Pour les IA génératives, l'impact est encore plus significatif : 
@@ -81,7 +81,7 @@ selon Princeton University et Georgia Tech, l'ajout de statistiques vérifiables
 ## Pilier de contenu, cluster, mot-clé : quelles sont les différences fondamentales ?
 
 La hiérarchisation est essentielle pour comprendre cette méthodologie. Le mot-clé reste l'unité de base, ciblant une Intention spécifique sur une page unique. 
-Un Topic Cluster est un ensemble d'articles traitant d'une même thématique. On parle aussi de Cocon sémantique car les contenus sont reliés entre eux grâce à des liens hypertextes
+Un Topic Cluster est un ensemble d'articles traitant d'une même thématique. On parle aussi de [Cocon sémantique](https://blotmkt.com/ia/definition/cocon-semantique.html) car les contenus sont reliés entre eux grâce à des liens hypertextes
 .
 
 La pièce maîtresse de toute Stratégie pillar content, elle est au centre du topic cluster et revêt deux objectifs principaux : être bien référencé sur la thématique principale du topic cluster et proposer différents chemins de conversion qui s'adressent à tous les niveaux de maturité
@@ -195,40 +195,16 @@ Wikipédia
 
 ---
 
-## Articles connexes
+---
 
-- Décrypter l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
-- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
+---
 
 ---
 
 ## Articles connexes
 
-- Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité
-- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
-
----
-
-## Articles connexes
-
-- Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité
-- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
-
----
-
-## Articles connexes
-
-- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google)
-- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo)
-- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien)
-- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow)
-- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored)
+- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)
+- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo.html)
+- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien.html)
+- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow.html)
+- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored.html)

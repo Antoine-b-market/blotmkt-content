@@ -118,7 +118,7 @@ Google ne peut pas directement lire le contenu audio ou visuel d'une vidéo. Les
 La transcription est un texte complet du contenu audio, souvent placé sur la page web. Les sous-titres sont intégrés dans la vidéo avec un timing précis. Pour le SEO, la transcription sur page est plus efficace car directement accessible aux crawlers sans nécessiter de lecture du Fichier vidéo.
 
 ### Comment mesurer le ROI d'une transcription vidéo ?
-Surveillez l'évolution des positions sur les mots-clés de longue traîne, l'augmentation du temps de session, l'amélioration du [Taux de rebond](https://blotmkt.com/ia/audit/taux-de-rebond) et la progression du trafic organique. Ces indicateurs révèlent l'impact concret de la transcription sur votre visibilité.
+Surveillez l'évolution des positions sur les mots-clés de longue traîne, l'augmentation du temps de session, l'amélioration du [Taux de rebond](https://blotmkt.com/ia/audit/taux-de-rebond.html) et la progression du trafic organique. Ces indicateurs révèlent l'impact concret de la transcription sur votre visibilité.
 
 ---
 
@@ -192,40 +192,16 @@ Surveillez l'évolution des positions sur les mots-clés de longue traîne, l'au
 
 ---
 
-## Articles connexes
+---
 
-- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
+---
 
 ---
 
 ## Articles connexes
 
-- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
-
----
-
-## Articles connexes
-
-- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
-
----
-
-## Articles connexes
-
-- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image)
-- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant)
-- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo)
-- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action)
-- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles)
+- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)
+- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant.html)
+- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo.html)
+- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action.html)
+- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)

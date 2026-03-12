@@ -119,7 +119,7 @@ Cette action manuelle est prise quand Google trouve des liens suspects ou non na
 Pénalités pour contenu de faible qualité : concernent les pages contenant un bourrage de mots-clés ou présentant un texte peu pertinent pour les utilisateurs
 . 
 Cette action est prise quand le contenu de votre site est considéré de faible qualité selon les standards de Google
-. Chaque page doit offrir une valeur ajoutée claire et répondre à une [Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche) spécifique.
+. Chaque page doit offrir une valeur ajoutée claire et répondre à une [Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) spécifique.
 
 ### Texte masqué et bourrage de mots-clés
 
@@ -236,40 +236,16 @@ Expliquez les mesures correctives que vous avez prises et fournissez des preuves
 
 ---
 
-## Articles connexes
+---
 
-- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
-- [Désindexation Google](https://blotmkt.com/ia/popularite/desindexation-google): guide pratique pour contrôler votre visibilité en ligne
-- [Facteurs de classement Google](https://blotmkt.com/ia/popularite/facteurs-de-classement-google) : le guide basé sur la documentation officielle
-- Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
-- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
+---
 
 ---
 
 ## Articles connexes
 
-- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
-- Désindexation google: guide pratique pour contrôler votre visibilité en ligne
-- Facteurs de classement google : le guide basé sur la documentation officielle
-- Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
-- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
-
----
-
-## Articles connexes
-
-- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
-- Désindexation google: guide pratique pour contrôler votre visibilité en ligne
-- Facteurs de classement google : le guide basé sur la documentation officielle
-- Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
-- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
-
----
-
-## Articles connexes
-
-- [Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO](https://blotmkt.com/ia/popularite/algorithme-penalite)
-- [Désindexation google: guide pratique pour contrôler votre visibilité en ligne](https://blotmkt.com/ia/popularite/desindexation-google)
-- [Facteurs de classement google : le guide basé sur la documentation officielle](https://blotmkt.com/ia/popularite/facteurs-de-classement-google)
-- [Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité](https://blotmkt.com/ia/popularite/filtre-google)
-- [Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne](https://blotmkt.com/ia/popularite/guest-blogging-seo)
+- [Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO](https://blotmkt.com/ia/popularite/algorithme-penalite.html)
+- [Désindexation google: guide pratique pour contrôler votre visibilité en ligne](https://blotmkt.com/ia/popularite/desindexation-google.html)
+- [Facteurs de classement google : le guide basé sur la documentation officielle](https://blotmkt.com/ia/popularite/facteurs-de-classement-google.html)
+- [Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité](https://blotmkt.com/ia/popularite/filtre-google.html)
+- [Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne](https://blotmkt.com/ia/popularite/guest-blogging-seo.html)

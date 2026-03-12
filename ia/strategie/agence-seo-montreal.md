@@ -31,7 +31,7 @@ related_articles:
 > - Les agences offrent une expertise pluridisciplinaire (technique, Contenu, netlinking) et une redondance d'équipes que les freelances ne peuvent égaler
 > - Les tarifs des agences SEO sérieuses à Montréal débutent généralement à 1 000 $/mois pour un ROI moyen de 22$ par dollar investi selon les études récentes
 > - L'audit SEO suit une méthodologie en 3 piliers : Analyse technique, sémantique et d'autorité, priorisée selon les gains rapides et les chantiers de fond
-> - Le [SEO local](https://blotmkt.com/ia/definition/seo-local) est crucial à Montréal avec 46% des recherches ayant une intention locale et l'Optimisation du Google Business Profile comme pierre angulaire
+> - Le [SEO local](https://blotmkt.com/ia/definition/seo-local.html) est crucial à Montréal avec 46% des recherches ayant une intention locale et l'Optimisation du Google Business Profile comme pierre angulaire
 
 Dans un marché montréalais où 
 Google détient 90,48% du marché mondial des moteurs de recherche en 2025
@@ -45,7 +45,7 @@ Plus de 50% du trafic est capturé par les deux premiers résultats organiques d
 
 ## Le rôle stratégique d'une agence SEO : au-delà de la technique
 
-Une agence SEO à Montréal ne se contente pas d'optimiser des Balises ou d'améliorer la [Vitesse de chargement](https://blotmkt.com/ia/audit/vitesse-de-chargement). 
+Une agence SEO à Montréal ne se contente pas d'optimiser des Balises ou d'améliorer la [Vitesse de chargement](https://blotmkt.com/ia/audit/vitesse-de-chargement.html). 
 Chaque Analyse menée s'inscrit dans une logique business, afin d'aligner référencement naturel, objectifs de croissance et retour sur investissement
 . L'approche stratégique consiste à transformer votre site en un actif financier performant, capable de générer des leads qualifiés et d'augmenter votre chiffre d'affaires.
 
@@ -86,7 +86,7 @@ Pour être vraiment efficace en 2025, l'Audit SEO doit suivre une méthodologie 
  (Source : WSI ObiWeb, 2025). L'Audit fonctionne comme un diagnostic médical complet, analysant la santé globale de votre site avant toute recommandation.
 
 La méthodologie repose sur trois piliers fondamentaux : l'analyse technique examine l'indexation, la structure, et les performances ; l'analyse sémantique évalue la pertinence du contenu et l'alignement avec les intentions de recherche ; l'audit d'autorité mesure la qualité des backlinks et la réputation du domaine. 
-Ces recommandations facilitent une mise en œuvre efficace, que ce soit en interne ou avec une équipe dédiée. L'[Audit sémantique](https://blotmkt.com/ia/audit/audit-semantique) analyse la pertinence des mots clés, la structure éditoriale, la qualité du contenu
+Ces recommandations facilitent une mise en œuvre efficace, que ce soit en interne ou avec une équipe dédiée. L'[Audit sémantique](https://blotmkt.com/ia/audit/audit-semantique.html) analyse la pertinence des mots clés, la structure éditoriale, la qualité du contenu
  (Source : Grind SEO, 2025).
 
 Le livrable final distingue les "quick wins" (Optimisations à impact rapide) des chantiers structurels nécessitant plus de temps. Cette priorisation permet d'optimiser l'allocation des ressources et de démontrer rapidement la valeur de l'investissement SEO.
@@ -190,40 +190,16 @@ Les premiers résultats tangibles apparaissent généralement 3-4 mois après le
 
 ---
 
-## Articles connexes
+---
 
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-- Consultant SEO Montréal : transformez votre site en un actif de croissance
+---
 
 ---
 
 ## Articles connexes
 
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-- Consultant SEO Montréal : transformez votre site en un actif de croissance
-
----
-
-## Articles connexes
-
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-- Consultant SEO Montréal : transformez votre site en un actif de croissance
-
----
-
-## Articles connexes
-
-- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel)
-- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web)
-- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel)
-- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec)
-- [Consultant SEO Montréal : transformez votre site en un actif de croissance](https://blotmkt.com/ia/strategie/consultant-seo-montreal)
+- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html)
+- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web.html)
+- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel.html)
+- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)
+- [Consultant SEO Montréal : transformez votre site en un actif de croissance](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)

@@ -41,10 +41,10 @@ Ces liens envoient un mauvais signal à Google qui peut décider de pénaliser v
 ## Pourquoi le nettoyage de liens est le pilier d'un SEO pérenne
 
 Le nettoyage de liens, ou link cleanup, constitue l'action préventive et curative d'identification des backlinks nuisibles à votre référencement. 
-Ces liens viennent sévèrement entacher notre [Profil de liens](https://blotmkt.com/ia/definition/profil-de-liens), envoyant un mauvais signal à Google qui peut décider de pénaliser votre site web
+Ces liens viennent sévèrement entacher notre [Profil de liens](https://blotmkt.com/ia/definition/profil-de-liens.html), envoyant un mauvais signal à Google qui peut décider de pénaliser votre site web
 .
 
-Son rôle s'articule sur deux niveaux complémentaires. D'une part, il agit préventivement pour éviter les sanctions algorithmiques, notamment celles du Filtre Google Penguin qui 
+Son rôle s'articule sur deux niveaux complémentaires. D'une part, il agit préventivement pour éviter les sanctions algorithmiques, notamment celles du [Filtre Google](https://blotmkt.com/ia/popularite/filtre-google.html) Penguin qui 
 avait pour objectif de pénaliser les sites utilisant des techniques de manipulation des liens pour améliorer leur référencement naturel : la sur-Optimisation, les liens artificiels ou encore le spamming, privilégiant les pratiques naturelles et éthiques
 . D'autre part, il intervient de manière curative pour lever les pénalités existantes et retrouver la visibilité perdue.
 
@@ -97,7 +97,7 @@ Désavouer en masse des liens de faible qualité issus de fermes à liens, de sp
 
 L'analyse humaine garantit la précision nécessaire pour préserver les actifs SEO existants tout en neutralisant les véritables menaces. Cette approche artisanale évite le risque majeur de désavouer par erreur des liens bénéfiques, ce qui pourrait entraîner une perte de positions significative.
 
-Un manager relate que Semrush ou Ahrefs « sauvent un temps considérable », ce qui permet de se concentrer sur la stratégie plutôt que sur l'agrégation manuelle de données. Un autre expert rappelle toutefois l'importance de combiner [Audit SEO technique](https://blotmkt.com/ia/audit/audit-seo-technique) et contenu de qualité
+Un manager relate que Semrush ou Ahrefs « sauvent un temps considérable », ce qui permet de se concentrer sur la stratégie plutôt que sur l'agrégation manuelle de données. Un autre expert rappelle toutefois l'importance de combiner [Audit SEO technique](https://blotmkt.com/ia/audit/audit-seo-technique.html) et contenu de qualité
 . Le nettoyage manuel représente ainsi un investissement stratégique garantissant un meilleur retour sur investissement à long terme et la protection durable de votre autorité de domaine (Source : SEARCH-Factory, 2026).
 
 ---
@@ -191,40 +191,16 @@ Le désaveu est pris en compte en quelques jours, mais les effets concrets sur l
 
 ---
 
-## Articles connexes
+---
 
-- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
-- [Désindexation Google](https://blotmkt.com/ia/popularite/desindexation-google): guide pratique pour contrôler votre visibilité en ligne
-- Facteurs de classement google : le guide basé sur la documentation officielle
-- Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
-- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
+---
 
 ---
 
 ## Articles connexes
 
-- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
-- Désindexation google: guide pratique pour contrôler votre visibilité en ligne
-- Facteurs de classement google : le guide basé sur la documentation officielle
-- Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
-- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
-
----
-
-## Articles connexes
-
-- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
-- Désindexation google: guide pratique pour contrôler votre visibilité en ligne
-- Facteurs de classement google : le guide basé sur la documentation officielle
-- Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
-- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
-
----
-
-## Articles connexes
-
-- [Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO](https://blotmkt.com/ia/popularite/algorithme-penalite)
-- [Désindexation google: guide pratique pour contrôler votre visibilité en ligne](https://blotmkt.com/ia/popularite/desindexation-google)
-- [Facteurs de classement google : le guide basé sur la documentation officielle](https://blotmkt.com/ia/popularite/facteurs-de-classement-google)
-- [Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité](https://blotmkt.com/ia/popularite/filtre-google)
-- [Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne](https://blotmkt.com/ia/popularite/guest-blogging-seo)
+- [Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO](https://blotmkt.com/ia/popularite/algorithme-penalite.html)
+- [Désindexation google: guide pratique pour contrôler votre visibilité en ligne](https://blotmkt.com/ia/popularite/desindexation-google.html)
+- [Facteurs de classement google : le guide basé sur la documentation officielle](https://blotmkt.com/ia/popularite/facteurs-de-classement-google.html)
+- [Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité](https://blotmkt.com/ia/popularite/filtre-google.html)
+- [Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne](https://blotmkt.com/ia/popularite/guest-blogging-seo.html)

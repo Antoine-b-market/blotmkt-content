@@ -18,8 +18,8 @@ canonical: "https://blotmkt.com/ia/contenu/intention-de-recherche.html"
 related_articles:
   - title: "Mots-clés informationnels : guide pour optimiser votre stratégie SEO avec l'IA"
     url: "/ia/contenu/mots-cles-informationnels"
-  - title: "Recherche vocale SEO : décrypter les enjeux et optimiser sa stratégie"
-    url: "/ia/definition/recherche-vocale-seo"
+  - title: "Serp : définition complète de la page de résultats de recherche"
+    url: "/ia/definition/serp-definition"
   - title: "Intention informative : le guide SEO complet à l'ère de l'ia (SGE)"
     url: "/ia/definition/intention-informative"
 ---
@@ -55,7 +55,7 @@ L'intention de recherche représente le véritable objectif de l'internaute lors
 Selon une étude sur 332 millions de requêtes Google, 51,8% des recherches sont informationnelles
 , où l'utilisateur cherche à obtenir des informations sur un sujet précis. Ces requêtes prennent souvent la forme de questions : "comment", "pourquoi", "qu'est-ce que".
 
-**L'Intention navigationnelle** représente 
+**L'[Intention navigationnelle](https://blotmkt.com/ia/definition/intention-navigationnelle.html)** représente 
 33% des recherches selon cette même étude
 . L'utilisateur connaît déjà sa destination et utilise Google comme raccourci pour accéder à un site, une marque ou un service spécifique. Rechercher "Facebook" ou "Gmail" illustre parfaitement ce comportement.
 
@@ -72,7 +72,7 @@ Les leads provenant du SEO convertissent en moyenne à 14,6%, tandis que ceux de
 
 L'alignement sur l'intention améliore considérablement les métriques de performance. 
 Google évalue la pertinence du contenu par rapport à l'intention, et un contenu parfaitement aligné génère des signaux de satisfaction utilisateur positifs valorisés par l'algorithme
-. Concrètement, cela se traduit par un temps de session plus long, un [Taux de rebond](https://blotmkt.com/ia/audit/taux-de-rebond) réduit et un meilleur taux de clics.
+. Concrètement, cela se traduit par un temps de session plus long, un [Taux de rebond](https://blotmkt.com/ia/audit/taux-de-rebond.html) réduit et un meilleur taux de clics.
 
 Le concept de trafic qualifié prend ici tout son sens. Plutôt que de viser des mots-clés à fort volume mais inadaptés, cibler des termes à plus faible recherche mais avec une intention commerciale ou transactionnelle forte génère un ROI supérieur. 
 94,74% des mots-clés font 10 recherches mensuelles ou moins, mais l'important est de se focaliser sur les bons ratios volume/concurrence
@@ -220,40 +220,16 @@ Les outils comme Semrush identifient automatiquement l'intention et aident à cr
 
 ---
 
-## Articles connexes
+---
 
-- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
+---
 
 ---
 
 ## Articles connexes
 
-- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
-
----
-
-## Articles connexes
-
-- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
-
----
-
-## Articles connexes
-
-- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image)
-- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant)
-- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo)
-- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action)
-- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles)
+- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)
+- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant.html)
+- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo.html)
+- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action.html)
+- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)

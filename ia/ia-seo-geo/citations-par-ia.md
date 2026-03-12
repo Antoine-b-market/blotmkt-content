@@ -28,7 +28,7 @@ related_articles:
 
 > ## L'essentiel à retenir
 > - Une citation par IA est la mention explicite de votre contenu dans les réponses générées par les modèles de langage (ChatGPT, Gemini, Perplexity)
-> - Les citations par IA offrent un avantage sémantique en alignant sur l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche) et génèrent du contenu à grande échelle
+> - Les citations par IA offrent un avantage sémantique en alignant sur l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) et génèrent du contenu à grande échelle
 > - Les outils leaders incluent Jasper (19$/mois), Copy.ai (36$/mois), Writesonic (17$/mois) et des solutions spécialisées comme AI-Writer.com
 > - L'intégration efficace passe par l'enrichissement d'articles, la création pour les réseaux sociaux et la dynamisation des newsletters
 > - La supervision humaine reste cruciale pour éviter les Contenus génériques et garantir l'authenticité de votre marque
@@ -188,40 +188,16 @@ Des outils spécialisés comme OtterlyAI, Profound ou Peec AI permettent désorm
 
 ---
 
-## Articles connexes
+---
 
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- [Algorithme de recommandation](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation) : le guide complet pour éviter les biais et la sur-dépendance
-- [Contenu IA SEO](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo) : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
-- Entité nommée SEO : le guide pour devenir une référence aux yeux de Google
+---
 
 ---
 
 ## Articles connexes
 
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
-- Entité nommée SEO : le guide pour devenir une référence aux yeux de Google
-
----
-
-## Articles connexes
-
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
-- Entité nommée SEO : le guide pour devenir une référence aux yeux de Google
-
----
-
-## Articles connexes
-
-- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization)
-- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation)
-- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo)
-- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo)
-- [Entité nommée SEO : le guide pour devenir une référence aux yeux de Google](https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo)
+- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
+- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
+- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
+- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
+- [Entité nommée SEO : le guide pour devenir une référence aux yeux de Google](https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo.html)

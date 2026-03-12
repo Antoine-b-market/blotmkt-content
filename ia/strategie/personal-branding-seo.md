@@ -47,7 +47,7 @@ Vous optimisez votre site pour Google, mais qui optimise *votre nom* ?
 Le Personal branding SEO garantit que votre expertise n'est pas seulement connue dans votre cercle immédiat, mais découvrable par tout l'écosystème numérique
 . Contrairement au SEO traditionnel qui optimise des pages web, cette approche Structure votre identité entière comme une entité numérique cohérente.
 
-Google a changé sa façon de "penser". Il ne cherche plus seulement des mots sur une page, mais des entités. Dans le [Knowledge Graph](https://blotmkt.com/ia/definition/knowledge-graph) de Google, une entité est une chose ou un concept unique bien défini. Vous êtes une entité
+Google a changé sa façon de "penser". Il ne cherche plus seulement des mots sur une page, mais des entités. Dans le [Knowledge Graph](https://blotmkt.com/ia/definition/knowledge-graph.html) de Google, une entité est une chose ou un concept unique bien défini. Vous êtes une entité
 .
 
 La différence fondamentale réside dans l'objectif : le SEO classique vise le trafic, le Personal branding SEO vise la reconnaissance d'autorité. 
@@ -194,40 +194,16 @@ Search Engine Land Personal SEO Guide, 2025
 
 ---
 
-## Articles connexes
+---
 
-- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
-- [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal) : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
+---
 
 ---
 
 ## Articles connexes
 
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-
----
-
-## Articles connexes
-
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-
----
-
-## Articles connexes
-
-- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel)
-- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal)
-- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web)
-- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel)
-- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec)
+- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html)
+- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
+- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web.html)
+- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel.html)
+- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)

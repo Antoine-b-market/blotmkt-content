@@ -18,16 +18,16 @@ canonical: "https://blotmkt.com/ia/contenu/mots-cles-informationnels.html"
 related_articles:
   - title: "L'intention de recherche : le guide pour décrypter et optimiser votre stratégie SEO"
     url: "/ia/contenu/intention-de-recherche"
-  - title: "Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité"
-    url: "/ia/popularite/filtre-google"
   - title: "Contenu IA SEO : le guide pour une stratégie de référencement sémantique"
     url: "/ia/ia-seo-geo/contenu-ia-seo"
+  - title: "Intention informative : le guide SEO complet à l'ère de l'ia (SGE)"
+    url: "/ia/definition/intention-informative"
 ---
 
 # Mots-clés informationnels : guide pour optimiser votre stratégie SEO avec l'IA
 
 > ## L'essentiel à retenir
-> - Un mot-clé informationnel traduit une Intention de recherche d'information (comment, pourquoi, guide, définition) et se distingue des requêtes commerciales ou transactionnelles par sa vocation éducative
+> - Un mot-clé informationnel traduit une [Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) d'information (comment, pourquoi, guide, définition) et se distingue des requêtes commerciales ou transactionnelles par sa vocation éducative
 > - Les outils SEO classiques (Semrush, Ahrefs, AnswerThePublic) et l'Analyse des PAA (People Also Ask) permettent d'identifier efficacement ces requêtes
 > - Les entreprises exploitent ces mots-clés pour créer du contenu éducatif de qualité, renforcer leur E-A-T et capter du trafic en amont du funnel de conversion
 > - L'IA révolutionne leur identification via l'analyse sémantique et l'automatisation, permettant de prédire les tendances et d'optimiser le contenu pour les featured snippets
@@ -50,7 +50,7 @@ ils ne se limitent pas aux expressions interrogatives commençant par "pourquoi"
 .
 
 La distinction avec les autres types d'intention est cruciale : 
-les Mots-clés transactionnels sont utilisés par des personnes en bas de l'entonnoir d'achat
+les [Mots-clés transactionnels](https://blotmkt.com/ia/contenu/mots-cles-transactionnels.html) sont utilisés par des personnes en bas de l'entonnoir d'achat
 , tandis que 
 les mots-clés commerciaux permettent de comparer l'offre et les produits
 . Les requêtes informationnelles se positionnent en amont, créant 
@@ -110,7 +110,7 @@ Les leads provenant du SEO convertissent en moyenne à 14,6% contre 1,7% pour l'
 Le SEO génère 5 fois plus de trafic que la publicité payante sur le long terme
  selon Semrush.
 
-Les métriques d'engagement prennent une importance particulière : temps passé sur la page, profondeur de navigation et [Taux de rebond](https://blotmkt.com/ia/audit/taux-de-rebond) révèlent la qualité de l'intention satisfaite. 
+Les métriques d'engagement prennent une importance particulière : temps passé sur la page, profondeur de navigation et [Taux de rebond](https://blotmkt.com/ia/audit/taux-de-rebond.html) révèlent la qualité de l'intention satisfaite. 
 Un internaute passe en moyenne 2 minutes et 17 secondes après avoir cliqué sur un site
 , une durée cruciale pour transformer l'information en engagement. L'analyse des conversions indirectes via Google Analytics permet de tracer l'impact sur l'ensemble du parcours client. Ces indicateurs, combinés au suivi de l'autorité thématique et des positions sur les featured snippets, offrent une vision complète du ROI généré par cette stratégie informative long terme.
 
@@ -219,40 +219,16 @@ Créez un contenu approfondi (1890 mots en moyenne pour les premiers résultats)
 
 ---
 
-## Articles connexes
+---
 
-- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
+---
 
 ---
 
 ## Articles connexes
 
-- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
-
----
-
-## Articles connexes
-
-- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
-
----
-
-## Articles connexes
-
-- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image)
-- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant)
-- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo)
-- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action)
-- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles)
+- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)
+- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant.html)
+- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo.html)
+- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action.html)
+- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)

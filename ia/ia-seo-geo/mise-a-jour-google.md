@@ -32,7 +32,7 @@ related_articles:
 > - Face à une baisse de trafic, attendez la fin du déploiement puis Analysez via Google Search Console sans changer drastiquement votre stratégie
 > - Modifier artificiellement les dates sans améliorer réellement le Contenu ne fonctionne pas et peut être pénalisé par Google
 
-Chaque année, Google déploie des centaines de mises à jour qui peuvent bouleverser votre visibilité en ligne. Ces changements suscitent souvent l'inquiétude des propriétaires de sites qui voient leur trafic fluctuer du jour au lendemain. Mais plutôt que de paniquer, comprendre la logique derrière ces évolutions vous permettra de construire une Stratégie SEO durable et résiliente.
+Chaque année, Google déploie des centaines de mises à jour qui peuvent bouleverser votre visibilité en ligne. Ces changements suscitent souvent l'inquiétude des propriétaires de sites qui voient leur trafic fluctuer du jour au lendemain. Mais plutôt que de paniquer, comprendre la logique derrière ces évolutions vous permettra de construire une [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) durable et résiliente.
 
 ---
 
@@ -202,40 +202,16 @@ La December 2025 Core Update a été lancée le 11 décembre 2025, avec un dépl
 
 ---
 
-## Articles connexes
+---
 
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- [Algorithme de recommandation](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation) : le guide complet pour éviter les biais et la sur-dépendance
-- [Citations par IA](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia) : comment l'intelligence artificielle réinvente votre contenu
-- [Contenu IA SEO](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo) : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
+---
 
 ---
 
 ## Articles connexes
 
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
-- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
-
----
-
-## Articles connexes
-
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
-- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
-
----
-
-## Articles connexes
-
-- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization)
-- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation)
-- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia)
-- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo)
-- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo)
+- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
+- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
+- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
+- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)

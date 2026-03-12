@@ -28,7 +28,7 @@ related_articles:
 
 > ## L'essentiel à retenir
 > - La provenance des données est la traçabilité complète d'une information depuis sa source originale, documentant ses transformations et son parcours pour établir sa fiabilité
-> - Les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees) schema.org permettent d'implémenter la provenance via les propriétés `author`, `publisher` et `citation`, créant une chaîne de confiance vérifiable algorithmiquement
+> - Les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) schema.org permettent d'implémenter la provenance via les propriétés `author`, `publisher` et `citation`, créant une chaîne de confiance vérifiable algorithmiquement
 > - La provenance devient un pilier fondamental de l'E-E-A-T en prouvant l'expertise et l'autorité des contenus, distinguant ainsi les sources authentiques du spam et des contenus générés sans supervision
 
 À l'ère de l'intelligence artificielle générative, distinguer l'information fiable du bruit numérique représente l'enjeu majeur des moteurs de recherche. 
@@ -56,7 +56,7 @@ ChatGPT Search et Perplexity puisent massivement dans les Contenus structurés p
 ### Propriétés d'entité essentielles
 
 Article Schema permet de préciser l'auteur, la date de publication, la date de modification, l'organisation éditrice, et l'image principale. Ces informations aident Google à évaluer la fraîcheur et la provenance du contenu
-. Implémentez des Balises [Schema.org](https://blotmkt.com/ia/definition/schema.org) précises comme `author` et `publisher` pour identifier clairement les créateurs du contenu.
+. Implémentez des Balises [Schema.org](https://blotmkt.com/ia/definition/schema.org.html) précises comme `author` et `publisher` pour identifier clairement les créateurs du contenu.
 
 Liez ces entités à des profils d'autorité via la propriété `sameAs`. La propriété `citation` permet de référencer les sources (articles, études, données) qui soutiennent vos affirmations, créant ainsi une chaîne de confiance vérifiable par les Algorithmes.
 
@@ -204,40 +204,16 @@ Iguane Media, 2026
 
 ---
 
-## Articles connexes
+---
 
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- [Algorithme de recommandation](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation) : le guide complet pour éviter les biais et la sur-dépendance
-- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
+---
 
 ---
 
 ## Articles connexes
 
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
-- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
-
----
-
-## Articles connexes
-
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
-- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
-
----
-
-## Articles connexes
-
-- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization)
-- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation)
-- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia)
-- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo)
-- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo)
+- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
+- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
+- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
+- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)

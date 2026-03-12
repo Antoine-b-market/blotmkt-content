@@ -18,20 +18,20 @@ canonical: "https://blotmkt.com/ia/contenu/internal-linking.html"
 related_articles:
   - title: "Netlinking : définition complète, fonctionnement et bénéfices SEO"
     url: "/ia/definition/netlinking-definition"
-  - title: "Maillage interne en silo : le guide pour une architecture seo optimisée"
-    url: "/ia/definition/maillage-interne-silo"
+  - title: "Page pilier SEO : le guide pour structurer votre autorité thématique"
+    url: "/ia/definition/page-pilier-seo"
   - title: "SEO international : le guide pour une stratégie mondiale à l'ère de l'IA"
     url: "/ia/strategie/seo-international"
 ---
 
-Maintenant que j'ai rassemblé des sources fiables sur l'internal linking, les cocons sémantiques, et le [Budget de crawl](https://blotmkt.com/ia/audit/budget-de-crawl), je vais rédiger l'article selon les consignes.
+Maintenant que j'ai rassemblé des sources fiables sur l'internal linking, les cocons sémantiques, et le [Budget de crawl](https://blotmkt.com/ia/audit/budget-de-crawl.html), je vais rédiger l'article selon les consignes.
 
 # Internal linking : le guide pour un maillage interne seo parfait
 
 > ## L'essentiel à retenir
 > - L'internal linking désigne l'ensemble des liens HTML qui relient les pages d'un même site entre elles, influençant directement la distribution du PageRank et l'Indexation
 > - Les liens contextuels (dans le corps du texte) possèdent le plus fort poids sémantique, tandis que les liens de navigation Structurent l'expérience utilisateur
-> - Le Cocon sémantique organise le contenu en silos thématiques étanches, tandis que le topic cluster privilégie une approche ouverte autour de pages piliers
+> - Le [Cocon sémantique](https://blotmkt.com/ia/definition/cocon-semantique.html) organise le contenu en silos thématiques étanches, tandis que le topic cluster privilégie une approche ouverte autour de pages piliers
 > - Les liens internes brisés, les chaînes de redirection et les pages orphelines gaspillent le Budget de crawl et pénalisent l'indexation
 
 Les sites avec un Maillage interne bien structuré voient une augmentation de 40% de leur trafic organique
@@ -215,40 +215,16 @@ SEMrush (2020)
 
 ---
 
-## Articles connexes
+---
 
-- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
+---
 
 ---
 
 ## Articles connexes
 
-- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
-
----
-
-## Articles connexes
-
-- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
-
----
-
-## Articles connexes
-
-- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image)
-- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant)
-- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo)
-- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action)
-- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles)
+- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)
+- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant.html)
+- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo.html)
+- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action.html)
+- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)

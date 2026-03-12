@@ -30,7 +30,7 @@ Maintenant, je vais rédiger l'article selon les instructions données, en utili
 # SEO international : le guide pour une stratégie mondiale à l'ère de l'IA
 
 > ## L'essentiel à retenir
-> - Le SEO international optimise un site pour être visible dans plusieurs pays et/ou langues via une Architecture technique adaptée ([Hreflang](https://blotmkt.com/ia/audit/hreflang), structure URL)
+> - Le SEO international optimise un site pour être visible dans plusieurs pays et/ou langues via une Architecture technique adaptée ([Hreflang](https://blotmkt.com/ia/audit/hreflang.html), structure URL)
 > - Une approche multilingue cible des langues communes à plusieurs pays, tandis qu'une stratégie multi-pays vise spécifiquement des marchés géographiques distincts
 > - Les Structures d'URL ccTLD offrent les signaux de géolocalisation les plus forts, les sous-dossiers consolident l'autorité de domaine
 > - 
@@ -40,7 +40,7 @@ Le ROI du SEO international peut atteindre plus de 3x l'investissement
 L'IA générative transforme le SEO international avec un marché GEO qui devrait exploser de 886 M$ en 2024 à 7,3 Md$ en 2031
 
 Le web ne connaît plus de frontières. Alors que les entreprises ambitionnent une expansion mondiale, 
-UNIQLO a vu son trafic organique international bondir de 109% grâce à une Stratégie SEO globale optimisée
+UNIQLO a vu son trafic organique international bondir de 109% grâce à une [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) globale optimisée
 . Pourtant, sans une approche technique rigoureuse, cette croissance reste un mirage. 
 75% des sites internationaux souffrent d'erreurs Hreflang qui fragmentent leurs classements
 . Face à l'émergence de l'IA générative et du GEO, maîtriser le SEO international devient l'avantage concurrentiel décisif pour conquérir les marchés mondiaux.
@@ -199,40 +199,16 @@ Combinez recherche de Mots-clés locaux, adaptation culturelle du contenu, archi
 
 ---
 
-## Articles connexes
+---
 
-- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
-- [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal) : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
+---
 
 ---
 
 ## Articles connexes
 
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-
----
-
-## Articles connexes
-
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-
----
-
-## Articles connexes
-
-- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel)
-- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal)
-- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web)
-- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel)
-- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec)
+- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html)
+- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
+- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web.html)
+- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel.html)
+- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)

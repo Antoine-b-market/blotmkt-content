@@ -27,7 +27,7 @@ related_articles:
 # Réponse directe IA : la nouvelle frontière du SEO face à SGE
 
 > ## L'essentiel à retenir
-> - Une réponse directe IA est une synthèse générée par un LLM directement dans la SERP, compilant plusieurs sources pour créer une réponse contextuelle unique, différente d'un [Featured Snippet](https://blotmkt.com/ia/definition/featured-snippet) traditionnel.
+> - Une réponse directe IA est une synthèse générée par un LLM directement dans la SERP, compilant plusieurs sources pour créer une réponse contextuelle unique, différente d'un [Featured Snippet](https://blotmkt.com/ia/definition/featured-snippet.html) traditionnel.
 > - Le GEO (Generative Engine Optimization) vise à faire citer son contenu par les IA génératifs plutôt qu'à simplement le positionner dans les résultats organiques, marquant un passage du ranking vers l'intégration.
 > - L'optimisation pour les réponses IA nécessite une structuration claire (balises Hn, listes, tableaux), un enrichissement avec des données vérifiables et une densité sémantique élevée plutôt qu'une répétition de mots-clés.
 > - 
@@ -217,40 +217,16 @@ Les moteurs génératifs synthétisent une réponse unique en puisant dans plusi
 
 ---
 
-## Articles connexes
+---
 
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- [Algorithme de recommandation](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation) : le guide complet pour éviter les biais et la sur-dépendance
-- [Citations par IA](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia) : comment l'intelligence artificielle réinvente votre contenu
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
+---
 
 ---
 
 ## Articles connexes
 
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
-- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
-
----
-
-## Articles connexes
-
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
-- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
-
----
-
-## Articles connexes
-
-- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization)
-- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation)
-- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia)
-- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo)
-- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo)
+- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
+- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
+- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
+- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)

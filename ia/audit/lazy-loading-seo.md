@@ -16,21 +16,21 @@ slug: "lazy-loading-seo"
 url: "/ia/audit/lazy-loading-seo"
 canonical: "https://blotmkt.com/ia/audit/lazy-loading-seo.html"
 related_articles:
+  - title: "Optimisation JavaScript SEO : le guide complet pour le rendu et l'indexation"
+    url: "/ia/audit/optimisation-javascript-seo"
   - title: "Budget de crawl : le guide pour l'optimiser et accélérer votre indexation"
     url: "/ia/audit/budget-de-crawl"
-  - title: "Prix forfait SEO : le guide pour comprendre les tarifs et choisir le bon investissement"
-    url: "/ia/strategie/prix-forfait-seo"
-  - title: "Audit SEO technique : le guide pour identifier les freins et optimiser votre ROI"
-    url: "/ia/audit/audit-seo-technique"
+  - title: "Core web vitals : le guide pour maîtriser les signaux web essentiels de google"
+    url: "/ia/audit/core-web-vitals"
 ---
 
 # Lazy loading et SEO : le guide pour accélérer votre site sans nuire au référencement
 
 > ## L'essentiel à retenir
 > - Le lazy loading est une technique qui différé le chargement des ressources (images, vidéos, iframes) jusqu'à ce qu'elles soient visibles dans le viewport de l'utilisateur
-> - Il améliore les Core Web Vitals en réduisant le temps de chargement initial (LCP) de 40-60% en moyenne, mais peut nuire au SEO si mal implémenté
+> - Il améliore les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) en réduisant le temps de chargement initial (LCP) de 40-60% en moyenne, mais peut nuire au SEO si mal implémenté
 > - L'attribut HTML natif `loading="lazy"` est la solution la plus SEO-friendly, contrairement aux solutions JavaScript qui retardent l'Indexation
-> - Il ne faut jamais appliquer le lazy loading au contenu above-the-fold, surtout pas à l'élément LCP (Largest Contentful Paint)
+> - Il ne faut jamais appliquer le lazy loading au contenu above-the-fold, surtout pas à l'élément LCP ([Largest Contentful Paint](https://blotmkt.com/ia/audit/largest-contentful-paint.html))
 > - Des alternatives complémentaires existent : optimisation des images (WebP, AVIF), CDN et stratégies de cache avancées
 
 Vous cherchez à réduire les temps de chargement de votre site, mais redoutez que Google ne puisse plus indexer correctement vos contenus ? Le lazy loading semble être la solution miracle, mais attention aux pièges ! 
@@ -68,7 +68,7 @@ Les sites implémentant le lazy loading voient des améliorations de classement 
 .
 
 Cependant, une mise en garde s'impose : 
-le risque du lazy loading est qu'il pourrait augmenter l'instabilité de la mise en page, conduisant à un score Cumulative Layout Shift (CLS) plus mauvais
+le risque du lazy loading est qu'il pourrait augmenter l'instabilité de la mise en page, conduisant à un score [Cumulative Layout Shift](https://blotmkt.com/ia/audit/cumulative-layout-shift.html) (CLS) plus mauvais
 . Cette dégradation peut survenir si les dimensions des images ne sont pas réservées dans le HTML.
 
 ## Comment implémenter un lazy loading qui plaît à Google
@@ -214,40 +214,16 @@ Le lazy loading uniquement des Images below-the-fold résulte en une inversion c
 
 ---
 
-## Articles connexes
+---
 
-- Maîtriser l'[Analyse de logs SEO](https://blotmkt.com/ia/audit/analyse-de-logs-seo) pour optimiser votre budget de crawl
-- [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site) : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
-- [Audit mobile-first](https://blotmkt.com/ia/audit/audit-mobile-first) : la méthode complète pour garantir votre visibilité sur Google
-- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
-- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
+---
 
 ---
 
 ## Articles connexes
 
-- Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl
-- Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
-- Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google
-- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
-- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
-
----
-
-## Articles connexes
-
-- Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl
-- Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
-- Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google
-- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
-- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
-
----
-
-## Articles connexes
-
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo)
-- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site)
-- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first)
-- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique)
-- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
+- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)
+- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first.html)
+- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique.html)
+- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal.html)

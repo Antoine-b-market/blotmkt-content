@@ -16,12 +16,12 @@ slug: "call-to-action"
 url: "/ia/contenu/call-to-action"
 canonical: "https://blotmkt.com/ia/contenu/call-to-action.html"
 related_articles:
-  - title: "Rédaction SEO : transformez votre contenu en actif stratégique au Québec"
-    url: "/ia/contenu/redaction-seo"
-  - title: "Rédaction IA assistée : la méthode pour multiplier votre productivité"
-    url: "/ia/contenu/redaction-ia-assistee"
   - title: "L'intention de recherche : le guide pour décrypter et optimiser votre stratégie SEO"
     url: "/ia/contenu/intention-de-recherche"
+  - title: "Action manuelle Google : le guide complet pour l'identifier et la corriger"
+    url: "/ia/popularite/manuel-action-google"
+  - title: "L'intention navigationnelle : le signal client à intégrer dans votre tracking omnicanal"
+    url: "/ia/definition/intention-navigationnelle"
 ---
 
 # Call to action : le guide complet pour créer des CTA qui convertissent
@@ -224,40 +224,16 @@ créez un sentiment d'urgence avec des offres à durée limitée
 
 ---
 
-## Articles connexes
+---
 
-- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
-- Le [Clustering de mots-clés](https://blotmkt.com/ia/contenu/clustering-de-mots-cles) : la méthode pour structurer votre contenu pour le SEO moderne
-- Analyse de content gap en SEO : la méthode pour identifier et combler vos lacunes de contenu
+---
 
 ---
 
 ## Articles connexes
 
-- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
-- Analyse de content gap en SEO : la méthode pour identifier et combler vos lacunes de contenu
-
----
-
-## Articles connexes
-
-- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
-- Analyse de content gap en SEO : la méthode pour identifier et combler vos lacunes de contenu
-
----
-
-## Articles connexes
-
-- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image)
-- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant)
-- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo)
-- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles)
-- [Analyse de content gap en SEO : la méthode pour identifier et combler vos lacunes de contenu](https://blotmkt.com/ia/contenu/content-gap-seo)
+- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)
+- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant.html)
+- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo.html)
+- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)
+- [Analyse de content gap en SEO : la méthode pour identifier et combler vos lacunes de contenu](https://blotmkt.com/ia/contenu/content-gap-seo.html)

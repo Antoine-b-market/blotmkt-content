@@ -29,7 +29,7 @@ related_articles:
 > ## L'essentiel à retenir
 > - L'UX design SEO unit expérience utilisateur et référencement naturel pour créer une synergie bénéfique : le SEO attire le trafic, l'UX le retient et génère des signaux positifs pour Google
 > - 
-L'expérience utilisateur influence directement les classements via les signaux d'engagement (temps de session, taux de rebond) et les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals)
+L'expérience utilisateur influence directement les classements via les signaux d'engagement (temps de session, taux de rebond) et les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html)
 
 > - 
 Les quatre piliers prioritaires sont la Vitesse de chargement (LCP), l'interactivité (INP), la stabilité visuelle (CLS) et le design responsive
@@ -62,13 +62,13 @@ Les signaux d'engagement utilisateur comme le temps passé sur page, le Taux de 
 . Google interprète ces métriques comportementales comme des indicateurs de qualité et de pertinence du contenu.
 
 Les Core Web Vitals constituent le pilier technique de cette influence. 
-Ces trois métriques - Largest Contentful Paint (LCP), Interaction to Next Paint (INP), et [Cumulative Layout Shift](https://blotmkt.com/ia/audit/cumulative-layout-shift) (CLS) - influencent directement la façon dont les moteurs de recherche évaluent la qualité des pages
+Ces trois métriques - Largest Contentful Paint (LCP), Interaction to Next Paint (INP), et [Cumulative Layout Shift](https://blotmkt.com/ia/audit/cumulative-layout-shift.html) (CLS) - influencent directement la façon dont les moteurs de recherche évaluent la qualité des pages
 . 
 Depuis 2021, ces métriques jouent un rôle dans les classements et ont conduit les propriétaires de sites à prioriser davantage l'expérience utilisateur, la vitesse de chargement et la stabilité visuelle
 .
 
 L'amélioration du crawl et de l'indexation bénéficie également d'une UX optimisée. 
-Une bonne [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site) permet à Google de facilement trouver et scanner les pages web tout en aidant les utilisateurs à trouver rapidement l'information recherchée
+Une bonne [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site.html) permet à Google de facilement trouver et scanner les pages web tout en aidant les utilisateurs à trouver rapidement l'information recherchée
 . Cette double optimisation technique et humaine maximise votre potentiel de classement.
 
 ## Les 4 piliers de l'UX à optimiser pour le référencement
@@ -205,40 +205,16 @@ L'UI (User Interface) concerne l'aspect visuel et l'interface graphique, tandis 
 
 ---
 
-## Articles connexes
+---
 
-- Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité
-- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
+---
 
 ---
 
 ## Articles connexes
 
-- Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité
-- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
-
----
-
-## Articles connexes
-
-- Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité
-- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
-
----
-
-## Articles connexes
-
-- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google)
-- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo)
-- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien)
-- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow)
-- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored)
+- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)
+- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo.html)
+- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien.html)
+- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow.html)
+- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored.html)

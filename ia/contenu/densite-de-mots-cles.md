@@ -18,10 +18,10 @@ canonical: "https://blotmkt.com/ia/contenu/densite-de-mots-cles.html"
 related_articles:
   - title: "Moteurs de réponse : le guide de la Generative Engine Optimization (GEO)"
     url: "/ia/ia-seo-geo/moteurs-de-reponse"
-  - title: "Le SEO pour Google Discover : stratégies pour le flux d'actualités sans recherche"
-    url: "/ia/definition/discover-google-seo"
-  - title: "Structure HN : le guide complet pour un SEO sémantique optimisé pour les IA"
-    url: "/ia/contenu/structure-hn-seo"
+  - title: "Optimisation SGE : Maîtriser le nouveau paradigme de la recherche IA"
+    url: "/ia/ia-seo-geo/sge-optimization"
+  - title: "Données structurées : le guide complet pour obtenir des résultats de recherche enrichis"
+    url: "/ia/definition/donnees-structurees"
 ---
 
 Je vais d'abord rechercher des sources récentes et crédibles sur la densité de mots-clés pour m'assurer de fournir des informations actualisées et factuelles.
@@ -148,7 +148,7 @@ si votre article contient 500 mots et si le mot-clé principal apparaît 5 fois,
 
 Avec l'évolution des algorithmes des moteurs de recherche, l'importance de cette métrique a diminué, les moteurs de recherche favorisant désormais la qualité du contenu et la pertinence contextuelle
 . 
-Sans un bon positionnement organique, votre Contenu ne sera pas dans la base de données des LLM. La Stratégie SEO et la stratégie GEO ne sont pas en compétition, elles sont en séquence : d'abord un socle SEO solide, ensuite une couche GEO pour amplifier votre visibilité dans les réponses génératives
+Sans un bon positionnement organique, votre Contenu ne sera pas dans la base de données des LLM. La [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) et la stratégie GEO ne sont pas en compétition, elles sont en séquence : d'abord un socle SEO solide, ensuite une couche GEO pour amplifier votre visibilité dans les réponses génératives
 .
 
 ---
@@ -231,40 +231,16 @@ Sans un bon positionnement organique, votre Contenu ne sera pas dans la base de 
 
 ---
 
-## Articles connexes
+---
 
-- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
-- [Call to action](https://blotmkt.com/ia/contenu/call-to-action) : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
+---
 
 ---
 
 ## Articles connexes
 
-- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
-
----
-
-## Articles connexes
-
-- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
-
----
-
-## Articles connexes
-
-- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image)
-- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant)
-- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo)
-- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action)
-- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles)
+- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)
+- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant.html)
+- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo.html)
+- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action.html)
+- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)

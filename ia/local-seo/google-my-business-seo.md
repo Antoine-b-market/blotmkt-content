@@ -30,7 +30,7 @@ related_articles:
 > - Le SEO pour Google Business Profile optimise votre visibilité dans le Local Pack, Google Maps et les résultats géolocalisés par rapport au SEO traditionnel centré sur la pertinence thématique.
 > - Les Optimisations fondamentales incluent la cohérence NAP, le choix stratégique des catégories, une description complète et des Google Posts réguliers.
 > - Les horaires d'ouverture constituent un facteur de classement top 5, tandis que les avis détaillés alimentent le nouveau format Stories sur Google Maps mobile.
-> - L'Optimisation GBP devient cruciale pour les AI Overviews car Google utilise ces [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees) comme source privilégiée pour ses réponses génératives.
+> - L'Optimisation GBP devient cruciale pour les AI Overviews car Google utilise ces [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) comme source privilégiée pour ses réponses génératives.
 
 Le marketing local se transforme radicalement. Votre fiche Google Business Profile n'est plus une simple présence passive : elle détermine votre visibilité face à des clients potentiels qui recherchent activement vos services. Avec 
 61% d'augmentation des appels téléphoniques via Google) Business Profile
@@ -55,7 +55,7 @@ Votre Google Business Profile est le facteur le plus important pour classer dans
 L'un des principaux problèmes SEO qui peuvent affecter la visibilité est de s'assurer que le nom de l'entreprise, l'adresse physique et le numéro de téléphone (NAP) sont corrects et cohérents sur le web. Lorsque le NAP est incorrect dans un Google Business Profile, cela peut considérablement impacter les classements dans le pack maps et dans les résultats organiques.
 
 La sélection des catégories primaires et secondaires nécessite une approche stratégique. 
-Selon ces experts, choisir la mauvaise catégorie primaire dans Google Business Profile est le facteur de classement négatif le plus impactant pour le [SEO local](https://blotmkt.com/ia/definition/seo-local). Cette option a reçu un score de 176, ce qui l'a mise en première place.
+Selon ces experts, choisir la mauvaise catégorie primaire dans Google Business Profile est le facteur de classement négatif le plus impactant pour le [SEO local](https://blotmkt.com/ia/definition/seo-local.html). Cette option a reçu un score de 176, ce qui l'a mise en première place.
  Alignez précisément vos catégories avec les services que vous offrez et les requêtes de vos utilisateurs.
 
 Pour la description d'entreprise, adoptez une approche claire et informative inspirée du framework B.I.S.C.U.I.T. pour être compris par les IA. Utilisez des mots-clés pertinents naturellement intégrés et mettez en avant votre proposition de valeur unique. 
@@ -191,40 +191,16 @@ En 2026, le "Taux de Décroissance" de la visibilité est plus rapide que jamais
 
 ---
 
-## Articles connexes
+---
 
-- [Avis clients SEO](https://blotmkt.com/ia/local-seo/avis-clients-seo) : le guide pour décrypter les témoignages et choisir la bonne agence
-- Le guide complet des citations locales pour dominer le SEO local
-- Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA
-- NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA
-- Maîtriser l'optimisation google maps pour propulser votre visibilité locale
+---
 
 ---
 
 ## Articles connexes
 
-- Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence
-- Le guide complet des citations locales pour dominer le SEO local
-- Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA
-- NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA
-- Maîtriser l'optimisation google maps pour propulser votre visibilité locale
-
----
-
-## Articles connexes
-
-- Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence
-- Le guide complet des citations locales pour dominer le SEO local
-- Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA
-- NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA
-- Maîtriser l'optimisation google maps pour propulser votre visibilité locale
-
----
-
-## Articles connexes
-
-- [Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence](https://blotmkt.com/ia/local-seo/avis-clients-seo)
-- [Le guide complet des citations locales pour dominer le SEO local](https://blotmkt.com/ia/local-seo/citations-locales-seo)
-- [Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA](https://blotmkt.com/ia/local-seo/fiche-etablissement-google)
-- [NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA](https://blotmkt.com/ia/local-seo/nap-seo-local)
-- [Maîtriser l'optimisation google maps pour propulser votre visibilité locale](https://blotmkt.com/ia/local-seo/optimisation-google-maps)
+- [Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence](https://blotmkt.com/ia/local-seo/avis-clients-seo.html)
+- [Le guide complet des citations locales pour dominer le SEO local](https://blotmkt.com/ia/local-seo/citations-locales-seo.html)
+- [Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA](https://blotmkt.com/ia/local-seo/fiche-etablissement-google.html)
+- [NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA](https://blotmkt.com/ia/local-seo/nap-seo-local.html)
+- [Maîtriser l'optimisation google maps pour propulser votre visibilité locale](https://blotmkt.com/ia/local-seo/optimisation-google-maps.html)

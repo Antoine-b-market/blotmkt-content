@@ -82,7 +82,7 @@ Filtrez toutes les pages avec moins de 300 mots pour une Analyse prioritaire, ce
 Intégrez les données de Google Analytics et Google Search Console pour connecter les problèmes techniques aux métriques de performance
 .
 
-L'analyse croisée avec les données de trafic révèle les pages sans engagement ou avec un fort [Taux de rebond](https://blotmkt.com/ia/audit/taux-de-rebond). 
+L'analyse croisée avec les données de trafic révèle les pages sans engagement ou avec un fort [Taux de rebond](https://blotmkt.com/ia/audit/taux-de-rebond.html). 
 Identifiez les pages sans trafic organique depuis six mois et surveillez celles avec un déclin constant sur 12 mois
 . Finalement, vérifiez le taux de contenu unique sur les pages suspectes avec des outils anti-plagiat.
 
@@ -90,7 +90,7 @@ Identifiez les pages sans trafic organique depuis six mois et surveillez celles 
 
 ### Approche stratégique de remédiation
 
-**Stratégie 1 - Enrichissement** : Approfondissez les pages existantes en ajoutant des données exclusives, des exemples concrets et en répondant mieux à l'Intention de recherche. 
+**Stratégie 1 - Enrichissement** : Approfondissez les pages existantes en ajoutant des données exclusives, des exemples concrets et en répondant mieux à l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html). 
 Assurez-vous que le contenu IA soit révisé par un humain, apporte de nouvelles perspectives et bénéficie réellement à votre audience
 .
 
@@ -202,40 +202,16 @@ Cette politique renforcée se concentre sur le comportement abusif de production
 
 ---
 
-## Articles connexes
+---
 
-- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
+---
 
 ---
 
 ## Articles connexes
 
-- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
-
----
-
-## Articles connexes
-
-- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
-
----
-
-## Articles connexes
-
-- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image)
-- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant)
-- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo)
-- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action)
-- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles)
+- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)
+- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant.html)
+- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo.html)
+- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action.html)
+- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)

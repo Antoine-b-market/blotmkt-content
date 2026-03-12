@@ -30,11 +30,11 @@ related_articles:
 > - L'optimisation Google Maps est l'ensemble des techniques pour améliorer la visibilité d'un établissement sur Google Maps et dans les recherches locales, essentielle pour capter 
 plus de 5,9 millions de recherches "near me" mensuelles aux États-Unis
 
-> - Les stratégies clés incluent l'optimisation complète du Google Business Profile, la gestion proactive des avis clients, et l'implémentation de [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees) locales pour maximiser le classement
+> - Les stratégies clés incluent l'optimisation complète du Google Business Profile, la gestion proactive des avis clients, et l'implémentation de [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) locales pour maximiser le classement
 > - Le ROI de l'Optimisation Maps est mesurable via les statistiques GBP Insights, avec 
 un retour sur investissement moyen de 250-800% selon les études
  et des conversions locales 15-30% supérieures aux recherches génériques
-> - Les Facteurs de classement Google Maps reposent sur trois piliers : relevance (pertinence), distance et prominence (notoriété), avec l'engagement client comme levier déterminant
+> - Les [Facteurs de classement Google](https://blotmkt.com/ia/popularite/facteurs-de-classement-google.html) Maps reposent sur trois piliers : relevance (pertinence), distance et prominence (notoriété), avec l'engagement client comme levier déterminant
 > - Les alternatives complémentaires incluent Bing Places, Yelp, et les annuaires spécialisés, intégrés dans une stratégie omnicanale de visibilité locale pour maximiser la couverture
 
 **Problème** : 
@@ -235,40 +235,16 @@ Google considère trois facteurs principaux : Relevance (correspondance profil-r
 
 ---
 
-## Articles connexes
+---
 
-- [Avis clients SEO](https://blotmkt.com/ia/local-seo/avis-clients-seo) : le guide pour décrypter les témoignages et choisir la bonne agence
-- Le guide complet des citations locales pour dominer le [SEO local](https://blotmkt.com/ia/definition/seo-local)
-- Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA
-- SEO pour Google Business Profile : le guide complet pour dominer la recherche locale
-- NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA
+---
 
 ---
 
 ## Articles connexes
 
-- Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence
-- Le guide complet des citations locales pour dominer le SEO local
-- Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA
-- SEO pour Google Business Profile : le guide complet pour dominer la recherche locale
-- NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA
-
----
-
-## Articles connexes
-
-- Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence
-- Le guide complet des citations locales pour dominer le SEO local
-- Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA
-- SEO pour Google Business Profile : le guide complet pour dominer la recherche locale
-- NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA
-
----
-
-## Articles connexes
-
-- [Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence](https://blotmkt.com/ia/local-seo/avis-clients-seo)
-- [Le guide complet des citations locales pour dominer le SEO local](https://blotmkt.com/ia/local-seo/citations-locales-seo)
-- [Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA](https://blotmkt.com/ia/local-seo/fiche-etablissement-google)
-- [SEO pour Google Business Profile : le guide complet pour dominer la recherche locale](https://blotmkt.com/ia/local-seo/google-my-business-seo)
-- [NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA](https://blotmkt.com/ia/local-seo/nap-seo-local)
+- [Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence](https://blotmkt.com/ia/local-seo/avis-clients-seo.html)
+- [Le guide complet des citations locales pour dominer le SEO local](https://blotmkt.com/ia/local-seo/citations-locales-seo.html)
+- [Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA](https://blotmkt.com/ia/local-seo/fiche-etablissement-google.html)
+- [SEO pour Google Business Profile : le guide complet pour dominer la recherche locale](https://blotmkt.com/ia/local-seo/google-my-business-seo.html)
+- [NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA](https://blotmkt.com/ia/local-seo/nap-seo-local.html)

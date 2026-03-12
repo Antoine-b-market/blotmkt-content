@@ -47,7 +47,7 @@ Une étude Ahrefs de 2024 sur 3 millions de pages montre que les pages bien posi
 ## Comprendre le maillage en silo : définition et principes fondamentaux
 
 Le siloing est une méthode de fragmentation des Contenus regroupés par thématique afin de préserver la logique du Pagerank sémantique
-. Cette technique d'[Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site) organise le contenu en compartiments étanches, à l'image de silos à grains qui se versent leur contenu de haut en bas.
+. Cette technique d'[Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site.html) organise le contenu en compartiments étanches, à l'image de silos à grains qui se versent leur contenu de haut en bas.
 
 Avec le maillage en silo SEO, votre page principale donne de la puissance à toutes les pages qui sont en dessous d'elle dans l'arborescence du site
 . L'objectif principal consiste à concentrer l'autorité thématique et le jus de lien au sein de chaque cluster pour maximiser la pertinence sémantique aux yeux des moteurs de recherche.
@@ -71,7 +71,7 @@ Le silo virtuel repose sur une organisation basée sur le maillage interne. Les 
 ### Différences fondamentales d'approche
 
 Le silo privilégie souvent une Structure rigide avec des URLs hiérarchiques (exemple : site.com/jardinage/plantes/) et des fils d'Ariane qui reflètent l'organisation thématique. 
-Le Cocon sémantique est l'un des exemples d'Architecture SEO les plus performants et qui a fait ses preuves
+Le [Cocon sémantique](https://blotmkt.com/ia/definition/cocon-semantique.html) est l'un des exemples d'Architecture SEO les plus performants et qui a fait ses preuves
 , mais il se base uniquement sur la proximité sémantique des Contenus sans contrainte structurelle.
 
 Une stratégie optimale combine la rigueur architecturale du silo avec l'intelligence sémantique du cocon pour créer des clusters thématiques cohérents et performants.
@@ -235,40 +235,16 @@ Hiérarchie claire : Accueil > Catégories principales > Sous-catégories > Page
 
 ---
 
-## Articles connexes
+---
 
-- Décrypter l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google) : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- [Ancre de lien](https://blotmkt.com/ia/definition/ancre-de-lien) : le guide pour maîtriser votre profil de liens sans pénalité
-- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
+---
 
 ---
 
 ## Articles connexes
 
-- Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité
-- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
-
----
-
-## Articles connexes
-
-- Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité
-- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
-
----
-
-## Articles connexes
-
-- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google)
-- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo)
-- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien)
-- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow)
-- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored)
+- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)
+- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo.html)
+- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien.html)
+- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow.html)
+- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored.html)

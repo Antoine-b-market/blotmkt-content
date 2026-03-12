@@ -27,7 +27,7 @@ related_articles:
 # Contenu IA SEO : le guide pour une stratégie de référencement sémantique
 
 > ## L'essentiel à retenir
-> - Le contenu IA SEO remplace l'approche par mots-clés traditionnelle par une stratégie sémantique qui comprend l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche) grâce au traitement automatique du langage naturel (NLP)
+> - Le contenu IA SEO remplace l'approche par mots-clés traditionnelle par une stratégie sémantique qui comprend l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) grâce au traitement automatique du langage naturel (NLP)
 > - La méthode combine Analyse sémantique, prompt engineering structuré et supervision humaine pour créer des contenus pertinents et authentiques
 > - 
 Les marketeurs constatent une réduction de 38 % du temps de production avec l'IA tout en augmentant de 31 % les taux de conversion
@@ -215,40 +215,16 @@ Le Blog du Communicant, 2026
 
 ---
 
-## Articles connexes
+---
 
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- [Algorithme de recommandation](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation) : le guide complet pour éviter les biais et la sur-dépendance
-- [Citations par IA](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia) : comment l'intelligence artificielle réinvente votre contenu
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
-- Entité nommée SEO : le guide pour devenir une référence aux yeux de Google
+---
 
 ---
 
 ## Articles connexes
 
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
-- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
-- Entité nommée SEO : le guide pour devenir une référence aux yeux de Google
-
----
-
-## Articles connexes
-
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
-- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
-- Entité nommée SEO : le guide pour devenir une référence aux yeux de Google
-
----
-
-## Articles connexes
-
-- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization)
-- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation)
-- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia)
-- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo)
-- [Entité nommée SEO : le guide pour devenir une référence aux yeux de Google](https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo)
+- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
+- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
+- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
+- [Entité nommée SEO : le guide pour devenir une référence aux yeux de Google](https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo.html)

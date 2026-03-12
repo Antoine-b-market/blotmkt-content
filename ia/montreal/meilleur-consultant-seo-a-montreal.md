@@ -27,7 +27,7 @@ sources:
 > - À Montréal, un consultant SEO freelance facture entre 150 $ et 300 $/h, et un forfait mensuel sérieux oscille entre 1 000 $ et 3 000 $. Le SEO génère en moyenne 22 $ de retour pour chaque dollar investi.
 > - Une méthodologie orientée résultats comprend trois phases : diagnostic complet, feuille de route priorisée, implémentation avec suivi de KPIs.
 
-Votre site web est invisible sur Google. Vos concurrents occupent la première page et captent les clients que vous méritez. Chaque jour sans Stratégie SEO est un manque à gagner concret. À Montréal, le marché numérique est dense et bilangue, ce qui rend le choix d'un expert SEO encore plus déterminant. La bonne nouvelle : un consultant SEO de haut niveau transforme votre site en un actif financier performant, capable de générer des leads qualifiés en continu, sans dépendre d'un budget publicitaire permanent.
+Votre site web est invisible sur Google. Vos concurrents occupent la première page et captent les clients que vous méritez. Chaque jour sans [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) est un manque à gagner concret. À Montréal, le marché numérique est dense et bilangue, ce qui rend le choix d'un expert SEO encore plus déterminant. La bonne nouvelle : un consultant SEO de haut niveau transforme votre site en un actif financier performant, capable de générer des leads qualifiés en continu, sans dépendre d'un budget publicitaire permanent.
 
 ---
 
@@ -91,7 +91,7 @@ Une stratégie SEO efficace ne s'improvise pas. Elle suit un processus rigoureux
 
 ### Phase 1 — Diagnostic complet
 
-Toute intervention commence par une analyse approfondie : audit technique (vitesse, indexation, Core Web Vitals), Audit sémantique (opportunités de mots-clés, cannibalisation), et analyse concurrentielle locale. Cette étape identifie les freins à la croissance et les opportunités inexploitées sur le marché québécois. 
+Toute intervention commence par une analyse approfondie : audit technique (vitesse, indexation, Core Web Vitals), [Audit sémantique](https://blotmkt.com/ia/audit/audit-semantique.html) (opportunités de mots-clés, cannibalisation), et analyse concurrentielle locale. Cette étape identifie les freins à la croissance et les opportunités inexploitées sur le marché québécois. 
 90,63 % des pages web n'attirent aucun trafic organique sur Google, soulignant l'importance d'une stratégie SEO technique solide.
  Sans diagnostic, toute action est une supposition.
 
@@ -142,90 +142,16 @@ Cette solution offre une grande flexibilité et des coûts réduits grâce à de
 
 ---
 
-## Articles connexes
+---
 
-- [Maîtriser l'[Analyse de logs SEO](https://blotmkt.com/ia/audit/analyse-de-logs-seo) pour optimiser votre budget de crawl
-- [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site) : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
-- [Audit mobile-first](https://blotmkt.com/ia/audit/audit-mobile-first) : la méthode complète pour garantir votre visibilité sur Google
-- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
-- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
-
-```json
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Article",
-      "headline": "Comment choisir le meilleur consultant SEO à Montréal pour votre croissance",
-      "description": "À la recherche du meilleur consultant SEO à Montréal ? Découvrez les critères, les tarifs et la méthodologie pour transformer votre site en un véritable atout financier.",
-      "url": "https://blotmkt.com/ia/montreal/meilleur-consultant-seo-a-montreal",
-      "datePublished": "2026-03-12 05:22",
-      "dateModified": "2026-03-12 05:22",
-      "author": {
-        "@type": "Person",
-        "name": "Antoine Blot",
-        "url": "https://antoine-blot.com",
-        "sameAs": [
-          "https://www.linkedin.com/in/blotantoine/",
-          "https://github.com/Antoine-b-market",
-          "https://orcid.org/0009-0005-6450-4528"
-        ]
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "BlotMKT",
-        "url": "https://blotmkt.com"
-      },
-      "inLanguage": "fr-FR",
-      "keywords": "expert SEO Montréal, consultant SEO freelance Montréal, agence SEO Montréal, spécialiste référencement Montréal, tarif consultant SEO Québec, améliorer SEO Montréal"
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Comment savoir si un consultant SEO est bon ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Voir la section correspondante."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Quel est le tarif horaire d'un consultant SEO au Québec ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Voir la section correspondante."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Pourquoi faire appel à un consultant SEO ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Voir la section correspondante."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Quelle est la différence entre une agence SEO et un consultant freelance ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Voir la section correspondante."
-          }
-        },
-      ]
-    }
-  ]
-}
-```
+---
 
 ---
 
 ## Articles connexes
 
-- [Comment choisir le meilleur consultant GEO à Montréal pour l'ère SGE](https://blotmkt.com/ia/montreal/meilleur-consultant-geo-a-montreal)
-- [Comment choisir la meilleure agence GEO à Montréal pour votre croissance](https://blotmkt.com/ia/montreal/meilleure-agence-geo-a-montreal)
-- [Guide pour trouver la meilleure agence seo à Montréal](https://blotmkt.com/ia/montreal/meilleure-agence-seo-a-montreal)
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo)
-- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site)
+- [Comment choisir le meilleur consultant GEO à Montréal pour l'ère SGE](https://blotmkt.com/ia/montreal/meilleur-consultant-geo-a-montreal.html)
+- [Comment choisir la meilleure agence GEO à Montréal pour votre croissance](https://blotmkt.com/ia/montreal/meilleure-agence-geo-a-montreal.html)
+- [Guide pour trouver la meilleure agence seo à Montréal](https://blotmkt.com/ia/montreal/meilleure-agence-seo-a-montreal.html)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
+- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)

@@ -50,7 +50,7 @@ Cette idée révolutionnaire consistait à mesurer l'importance d'une page par l
 L'innovation du PageRank produisait des résultats significativement meilleurs que les moteurs existants de l'époque, conduisant Page et Brin à quitter Stanford en 1998 pour créer Google
 . 
 Au cœur du PageRank se trouvait cette idée puissante : l'importance d'une page web peut être déterminée par la quantité et la qualité des liens pointant vers elle
-. Cette approche révolutionnaire différenciait radicalement Google des moteurs de recherche basés uniquement sur la [Densité de mots-clés](https://blotmkt.com/ia/contenu/densite-de-mots-cles).
+. Cette approche révolutionnaire différenciait radicalement Google des moteurs de recherche basés uniquement sur la [Densité de mots-clés](https://blotmkt.com/ia/contenu/densite-de-mots-cles.html).
 
 L'efficacité immédiate du PageRank s'expliquait par sa capacité à identifier automatiquement les ressources web les plus fiables et pertinentes, résolvant le problème majeur de qualité d'information sur internet naissant. (Source : Towards Data Science, 2024)
 
@@ -76,7 +76,7 @@ Bien que moins central aujourd'hui, le PageRank était autrefois le facteur dét
 Les fuites d'API internes de Google en mars 2024 ont révélé que plusieurs versions modernes du PageRank restent en usage, confirmant que l'algorithme utilise toujours PageRank contrairement aux déclarations publiques minimisant son importance
 . Les experts estiment désormais qu'il s'agit d'un signal parmi des centaines d'autres facteurs incluant l'apprentissage automatique, l'Analyse comportementale, la fraîcheur du contenu et la compatibilité mobile.
 
-Cette évolution reflète la sophistication croissante de Google pour comprendre l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche) et fournir des résultats pertinents au-delà de la simple popularité par les liens. L'intégration de l'intelligence artificielle et du traitement du langage naturel a progressivement complété l'approche purement mathématique du PageRank originel. (Source : Positional, 2024)
+Cette évolution reflète la sophistication croissante de Google pour comprendre l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) et fournir des résultats pertinents au-delà de la simple popularité par les liens. L'intégration de l'intelligence artificielle et du traitement du langage naturel a progressivement complété l'approche purement mathématique du PageRank originel. (Source : Positional, 2024)
 
 ## La pertinence du PageRank dans le SEO actuel : impact indirect et bonnes pratiques
 
@@ -87,7 +87,7 @@ Google privilégie désormais la qualité des Backlinks à leur quantité en 202
 Bien que le brevet PageRank original ait expiré en 2018, Google continue de l'utiliser, Elizabeth Tucker de Google Search le référençant comme "l'un des signaux de classement classiques de Google" qui "s'aligne le mieux avec l'autorité"
 .
 
-Les principaux facteurs de classement incluent l'Optimisation du contenu, la construction de backlinks de qualité, la [Vitesse de chargement](https://blotmkt.com/ia/audit/vitesse-de-chargement) et l'optimisation mobile, l'acquisition de backlinks de haute qualité renforçant l'autorité des domaines
+Les principaux facteurs de classement incluent l'Optimisation du contenu, la construction de backlinks de qualité, la [Vitesse de chargement](https://blotmkt.com/ia/audit/vitesse-de-chargement.html) et l'optimisation mobile, l'acquisition de backlinks de haute qualité renforçant l'autorité des domaines
 . Une stratégie SEO holistique moderne nécessite de dépasser la simple construction de liens pour intégrer l'optimisation technique, sémantique et l'expérience utilisateur.
 
 Les praticiens avisés comprennent que le principe fondamental du PageRank - la transmission d'autorité via des liens de qualité - reste valid. L'optimisation indirecte consiste à créer du Contenu remarquable qui incite aux liens naturels, structurer un maillage interne logique, et développer des partenariats éthiques avec des sites autoritaires dans son domaine. (Source : Blog du Modérateur, 2024)
@@ -195,40 +195,16 @@ Non, mais les fuites d'API Google de 2024 confirment que plusieurs variantes mod
 
 ---
 
-## Articles connexes
+---
 
-- Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité
-- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
+---
 
 ---
 
 ## Articles connexes
 
-- Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité
-- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
-
----
-
-## Articles connexes
-
-- Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
-- AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
-- Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité
-- L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
-- Attribut sponsored : le guide complet pour vos liens payants en seo
-
----
-
-## Articles connexes
-
-- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google)
-- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo)
-- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien)
-- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow)
-- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored)
+- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)
+- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo.html)
+- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien.html)
+- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow.html)
+- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored.html)

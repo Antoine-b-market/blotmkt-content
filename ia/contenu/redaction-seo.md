@@ -27,7 +27,7 @@ related_articles:
 # Rédaction SEO : transformez votre contenu en actif stratégique au Québec
 
 > ## L'essentiel à retenir
-> - La rédaction SEO diffère de la rédaction web classique par son focus sur la performance, l'Intention de recherche et l'autorité thématique basée sur E-E-A-T
+> - La rédaction SEO diffère de la rédaction web classique par son focus sur la performance, l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) et l'autorité thématique basée sur E-E-A-T
 > - 
 Le coût varie de 500$ à 1000$ par mois pour une prestation complète, avec un ROI mesurable grâce à un taux de conversion de 14,6% (9 fois supérieur au marketing sortant)
 
@@ -57,7 +57,7 @@ Pour un même investissement, le SEO génère 5 fois plus de trafic que la publi
 
 ## Notre méthodologie : du SEO au GEO (Generative Engine Optimization)
 
-Notre processus s'articule en quatre phases stratégiques. D'abord, l'[Audit sémantique](https://blotmkt.com/ia/audit/audit-semantique) et l'Analyse concurrentielle identifient les opportunités de positionnement. Ensuite, la structuration technique (balises HL, maillage, données structurées) optimise la lisibilité pour les robots d'indexation. La rédaction proprement dite privilégie la densité informationnelle et l'enrichissement en entités nommées. Enfin, la préparation au GEO adapte le style conversationnel aux moteurs génératifs : 
+Notre processus s'articule en quatre phases stratégiques. D'abord, l'[Audit sémantique](https://blotmkt.com/ia/audit/audit-semantique.html) et l'Analyse concurrentielle identifient les opportunités de positionnement. Ensuite, la structuration technique (balises HL, maillage, données structurées) optimise la lisibilité pour les robots d'indexation. La rédaction proprement dite privilégie la densité informationnelle et l'enrichissement en entités nommées. Enfin, la préparation au GEO adapte le style conversationnel aux moteurs génératifs : 
 les études montrent que ces techniques peuvent booster la visibilité jusqu'à 40% dans les réponses d'IA générative
 , préparant vos contenus pour l'avenir de la recherche.
 
@@ -168,40 +168,16 @@ L'Optimisation sémantique enrichit un contenu avec le vocabulaire et les concep
 
 ---
 
-## Articles connexes
+---
 
-- [Alt text image](https://blotmkt.com/ia/contenu/alt-text-image) : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- [Balise H1 SEO](https://blotmkt.com/ia/contenu/balise-h1-seo) : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
+---
 
 ---
 
 ## Articles connexes
 
-- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
-
----
-
-## Articles connexes
-
-- Alt text image : le guide pour optimiser votre SEO et votre accessibilité
-- Audit de contenu existant : la méthode complète pour optimiser votre SEO
-- Balise h1 SEO : le guide pratique pour optimiser votre titre principal
-- Call to action : le guide complet pour créer des cta qui convertissent
-- Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
-
----
-
-## Articles connexes
-
-- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image)
-- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant)
-- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo)
-- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action)
-- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles)
+- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)
+- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant.html)
+- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo.html)
+- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action.html)
+- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)

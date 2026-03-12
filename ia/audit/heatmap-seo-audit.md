@@ -16,12 +16,12 @@ slug: "heatmap-seo-audit"
 url: "/ia/audit/heatmap-seo-audit"
 canonical: "https://blotmkt.com/ia/audit/heatmap-seo-audit.html"
 related_articles:
+  - title: "Audit de sitemap XML : le guide complet pour optimiser votre crawl"
+    url: "/ia/audit/sitemap-xml-audit"
   - title: "Audit de contenu existant : la méthode complète pour optimiser votre SEO"
     url: "/ia/contenu/audit-contenu-existant"
-  - title: "Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google"
-    url: "/ia/audit/audit-mobile-first"
-  - title: "Audit SEO Québec : votre guide complet pour une visibilité optimisée"
-    url: "/ia/audit/audit-seo-quebec"
+  - title: "Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale"
+    url: "/ia/strategie/accompagnement-seo-annuel"
 ---
 
 # Heatmap SEO audit : la méthode visuelle pour diagnostiquer votre site
@@ -54,9 +54,9 @@ Le processus de création d'un heatmap SEO audit commence par l'évaluation stan
 Ces évaluations génèrent "un score de 0 à 100 basé sur le respect des meilleures pratiques SEO on-page" et "le rapport détaille exactement quels Facteurs contribuent positivement ou négativement au score"
 .
 
-La pondération des catégories suit généralement cette répartition : SEO Technique (25%), Qualité du contenu (25%), SEO On-Page (20%), Schema/Données structurées (10%), Performance CWV (10%), images (5%), et Préparation IA (5%). Cette pondération permet d'attribuer une importance relative à chaque domaine d'analyse.
+La pondération des catégories suit généralement cette répartition : SEO Technique (25%), Qualité du contenu (25%), SEO On-Page (20%), Schema/[Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) (10%), Performance CWV (10%), images (5%), et Préparation IA (5%). Cette pondération permet d'attribuer une importance relative à chaque domaine d'analyse.
 
-Les outils modernes comme SEMrush permettent de "générer un rapport d'Audit SEO technique visuel vous montrant très vite les erreurs techniques" avec une interface où vous pouvez rapidement identifier les problèmes prioritaires
+Les outils modernes comme SEMrush permettent de "générer un rapport d'[Audit SEO technique](https://blotmkt.com/ia/audit/audit-seo-technique.html) visuel vous montrant très vite les erreurs techniques" avec une interface où vous pouvez rapidement identifier les problèmes prioritaires
 . La heatmap agrège ces scores pondérés pour produire une vue synthétique où chaque zone colorée représente un niveau de performance spécifique.
 
 Le détail reste accessible par Exploration interactive : cliquer sur une zone révèle les sous-points spécifiques, permettant de descendre du niveau stratégique au niveau opérationnel tout en conservant le contexte global.
@@ -94,7 +94,7 @@ Les solutions avancées "collectent des données essentielles avec l'API de SE R
 
 ## Lecture et plan d'action : interpréter votre heatmap
 
-L'interprétation suit une logique de criticité croissante. Le rouge indique les actions critiques nécessitant une intervention immédiate : problèmes d'indexation, erreurs techniques majeures, ou Core Web Vitals défaillants. Ces éléments représentent des freins directs à la performance SEO et doivent être traités en priorité absolue.
+L'interprétation suit une logique de criticité croissante. Le rouge indique les actions critiques nécessitant une intervention immédiate : problèmes d'indexation, erreurs techniques majeures, ou [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) défaillants. Ces éléments représentent des freins directs à la performance SEO et doivent être traités en priorité absolue.
 
 La classification suit généralement une approche "Erreurs / Avertissements / Notes" avec "une méthode de scoring (ex: ICE)" pour éviter de "poursuivre les scores et plutôt se concentrer sur des recommandations contextualisées et actionnables"
 .
@@ -205,40 +205,16 @@ Traitez d'abord le rouge (critiques : Indexation, vitesse), puis l'orange (oppor
 
 ---
 
-## Articles connexes
+---
 
-- Maîtriser l'[Analyse de logs SEO](https://blotmkt.com/ia/audit/analyse-de-logs-seo) pour optimiser votre budget de crawl
-- [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site) : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
-- [Audit mobile-first](https://blotmkt.com/ia/audit/audit-mobile-first) : la méthode complète pour garantir votre visibilité sur Google
-- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
-- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
+---
 
 ---
 
 ## Articles connexes
 
-- Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl
-- Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
-- Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google
-- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
-- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
-
----
-
-## Articles connexes
-
-- Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl
-- Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
-- Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google
-- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
-- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
-
----
-
-## Articles connexes
-
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo)
-- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site)
-- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first)
-- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique)
-- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
+- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)
+- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first.html)
+- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique.html)
+- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal.html)

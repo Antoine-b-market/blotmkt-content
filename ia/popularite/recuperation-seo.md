@@ -29,7 +29,7 @@ related_articles:
 > ## L'essentiel à retenir
 > - La récupération SEO moderne transcende la simple correction de pénalités pour devenir une stratégie proactive face aux évolutions d'Algorithmes et à l'émergence de l'IA
 > - Le SEO sémantique assisté par l'IA permet de mieux comprendre l'intention utilisateur et dépasse les limites du ciblage traditionnel par mots-clés
-> - Une récupération SEO efficace combine Audit technique approfondi, [Optimisation de contenu](https://blotmkt.com/ia/contenu/optimisation-de-contenu) basée sur l'intention et reconstruction de l'autorité thématique E-E-A-T
+> - Une récupération SEO efficace combine Audit technique approfondi, [Optimisation de contenu](https://blotmkt.com/ia/contenu/optimisation-de-contenu.html) basée sur l'intention et reconstruction de l'autorité thématique E-E-A-T
 > - 
 Le prix moyen d'une prestation SEO mensuelle se situe entre 500$ et 1000$ avec un taux de conversion pour les leads SEO en moyenne de 14,6%
 
@@ -59,7 +59,7 @@ l'arrivée des AI Overviews de Google présents dans plus de 50% des recherches,
 L'approche traditionnelle de récupération SEO se concentrait sur la correction technique et l'Optimisation par mots-clés. Aujourd'hui, le SEO sémantique assisté par l'IA révolutionne cette méthodologie en privilégiant la compréhension de l'intention et du contexte utilisateur.
 
 L'IA révolutionne la manière dont les requêtes des utilisateurs sont comprises. Des algorithmes comme BERT ont redéfini la façon dont les moteurs de recherche interprètent le Contenu, dépassant la simple insertion de mots-clés
-. Cette évolution transforme les stratégies de récupération : au lieu de se limiter à la [Densité de mots-clés](https://blotmkt.com/ia/contenu/densite-de-mots-cles), les professionnels doivent désormais Analyser les entités, comprendre les sujets connexes et optimiser la pertinence thématique globale.
+. Cette évolution transforme les stratégies de récupération : au lieu de se limiter à la [Densité de mots-clés](https://blotmkt.com/ia/contenu/densite-de-mots-cles.html), les professionnels doivent désormais Analyser les entités, comprendre les sujets connexes et optimiser la pertinence thématique globale.
 
 Le NLP (Natural Language Processing) permet aux moteurs de recherche de mieux appréhender les requêtes complexes et conversationnelles. 
 Une recherche vocale contient en moyenne 29 mots et une page optimisée pour Google Voice contient en moyenne 2 312 mots
@@ -67,7 +67,7 @@ Une recherche vocale contient en moyenne 29 mots et une page optimisée pour Goo
 
 ## Stratégies concrètes pour une récupération SEO réussie
 
-Une récupération SEO moderne s'articule autour de trois piliers fondamentaux : l'[Audit sémantique](https://blotmkt.com/ia/audit/audit-semantique) et technique, l'optimisation de l'intention utilisateur et la reconstruction de l'autorité thématique.
+Une récupération SEO moderne s'articule autour de trois piliers fondamentaux : l'[Audit sémantique](https://blotmkt.com/ia/audit/audit-semantique.html) et technique, l'optimisation de l'intention utilisateur et la reconstruction de l'autorité thématique.
 
 L'Audit sémantique identifie les lacunes de contenu en analysant les cooccurrences lexicales et les entités manquantes. Cette approche permet de détecter les angles éditoriaux non exploités qui pourraient expliquer une perte de visibilité. Parallèlement, l'audit technique vérifie la performance, l'indexation et la structure du site pour s'assurer qu'aucun frein technique n'entrave la récupération.
 
@@ -166,40 +166,16 @@ Seulement 0,63% des utilisateurs cliquent sur les résultats de la deuxième pag
 
 ---
 
-## Articles connexes
+---
 
-- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
-- Désindexation google: guide pratique pour contrôler votre visibilité en ligne
-- Facteurs de classement google : le guide basé sur la documentation officielle
-- Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
-- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
+---
 
 ---
 
 ## Articles connexes
 
-- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
-- Désindexation google: guide pratique pour contrôler votre visibilité en ligne
-- Facteurs de classement google : le guide basé sur la documentation officielle
-- Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
-- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
-
----
-
-## Articles connexes
-
-- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
-- Désindexation google: guide pratique pour contrôler votre visibilité en ligne
-- Facteurs de classement google : le guide basé sur la documentation officielle
-- Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
-- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
-
----
-
-## Articles connexes
-
-- [Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO](https://blotmkt.com/ia/popularite/algorithme-penalite)
-- [Désindexation google: guide pratique pour contrôler votre visibilité en ligne](https://blotmkt.com/ia/popularite/desindexation-google)
-- [Facteurs de classement google : le guide basé sur la documentation officielle](https://blotmkt.com/ia/popularite/facteurs-de-classement-google)
-- [Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité](https://blotmkt.com/ia/popularite/filtre-google)
-- [Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne](https://blotmkt.com/ia/popularite/guest-blogging-seo)
+- [Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO](https://blotmkt.com/ia/popularite/algorithme-penalite.html)
+- [Désindexation google: guide pratique pour contrôler votre visibilité en ligne](https://blotmkt.com/ia/popularite/desindexation-google.html)
+- [Facteurs de classement google : le guide basé sur la documentation officielle](https://blotmkt.com/ia/popularite/facteurs-de-classement-google.html)
+- [Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité](https://blotmkt.com/ia/popularite/filtre-google.html)
+- [Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne](https://blotmkt.com/ia/popularite/guest-blogging-seo.html)

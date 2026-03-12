@@ -84,7 +84,7 @@ une pénalité Google peut conduire à la faillite d'une entreprise
 
 ### Le processus de récupération
 
-La récupération d'une pénalité algorithmique exige un audit SEO approfondi. L'Analyse doit porter sur trois axes principaux : le [Profil de liens](https://blotmkt.com/ia/definition/profil-de-liens) entrants, la qualité du contenu et les aspects techniques.
+La récupération d'une pénalité algorithmique exige un audit SEO approfondi. L'Analyse doit porter sur trois axes principaux : le [Profil de liens](https://blotmkt.com/ia/definition/profil-de-liens.html) entrants, la qualité du contenu et les aspects techniques.
  Les actions correctives incluent le nettoyage du profil de liens via l'outil de désaveu Google, la réécriture complète des contenus sur-optimisés et la diversification des ancres de lien. 
 Un site e-commerce a récupéré 80% de son trafic en 6 mois après avoir désavoué 15 000 liens toxiques et restructuré son maillage interne.
 
@@ -94,7 +94,7 @@ La stratégie d'évitement de la sur-optimisation repose sur une approche par to
 D'après une étude de SEMrush en 2024, les sites structurés en clusters ou cocons sémantiques obtiennent jusqu'à 3 fois plus de trafic organique que les sites non structurés.
  Cette approche privilégie la construction d'une autorité thématique naturelle plutôt que la répétition mécanique de Mots-clés.
 
-L'optimisation sémantique moderne s'appuie sur l'utilisation de synonymes, d'entités nommées et d'un champ lexical riche pour répondre authentiquement à l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche). 
+L'optimisation sémantique moderne s'appuie sur l'utilisation de synonymes, d'entités nommées et d'un champ lexical riche pour répondre authentiquement à l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html). 
 Google est capable de détecter le sujet de votre contenu sans même s'appuyer sur les mots-clés, en analysant l'ensemble du champ sémantique que vous utilisez. C'est en réaction à la masse d'informations répétitives trop importantes que Google fait évoluer son algorithme
 , rendant obsolètes les anciennes pratiques de bourrage.
 
@@ -110,7 +110,7 @@ La construction d'un profil de liens entrants naturels privilégie la qualité �
 ### Comment savoir si mon site est sur-optimisé ?
 
 Si vous ne suivez pas le positionnement de votre site sur Google via un outil de suivi, le principal signal d'alarme sera son trafic. La pénalité est en général soudaine : votre positionnement et de fait votre trafic SEO, tombe du jour au lendemain.
- Vérifiez aussi la [Densité de mots-clés](https://blotmkt.com/ia/contenu/densite-de-mots-cles) qui ne doit pas dépasser 6%.
+ Vérifiez aussi la [Densité de mots-clés](https://blotmkt.com/ia/contenu/densite-de-mots-cles.html) qui ne doit pas dépasser 6%.
 
 ### Quelle est la bonne densité de mots-clés en SEO ?
 
@@ -194,40 +194,16 @@ Lorsque les sanctions infligées par Google sont liées à la qualité des liens
 
 ---
 
-## Articles connexes
+---
 
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
-- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
+---
 
 ---
 
 ## Articles connexes
 
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
-- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
-
----
-
-## Articles connexes
-
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
-- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
-
----
-
-## Articles connexes
-
-- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization)
-- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation)
-- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia)
-- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo)
-- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo)
+- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
+- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
+- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
+- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)

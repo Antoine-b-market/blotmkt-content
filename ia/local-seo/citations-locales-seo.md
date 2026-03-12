@@ -80,7 +80,7 @@ Il est crucial de supprimer ou fusionner les doublons pour éviter les conflits 
 
 ## Analyse du coût et du retour sur investissement (ROI) des citations
 
-Un accompagnement mensuel par un freelance tourne entre 500€ et 1500€/mois, une agence [SEO local](https://blotmkt.com/ia/definition/seo-local) facture entre 600€ et 2000€/mois, et un Audit SEO local complet coûte 400-900€
+Un accompagnement mensuel par un freelance tourne entre 500€ et 1500€/mois, une agence [SEO local](https://blotmkt.com/ia/definition/seo-local.html) facture entre 600€ et 2000€/mois, et un Audit SEO local complet coûte 400-900€
 . Ces tarifs reflètent la complexité technique et la valeur stratégique des citations.
 
 **Modèles de coût détaillés** : La gestion manuelle nécessite 10-15 heures mensuelles selon votre secteur. 
@@ -241,40 +241,16 @@ Vérifiez régulièrement l'exactitude des citations en utilisant des outils gra
 
 ---
 
-## Articles connexes
+---
 
-- [Avis clients SEO](https://blotmkt.com/ia/local-seo/avis-clients-seo) : le guide pour décrypter les témoignages et choisir la bonne agence
-- Optimiser votre [Fiche établissement Google](https://blotmkt.com/ia/local-seo/fiche-etablissement-google) pour une visibilité locale accrue à l'ère de l'IA
-- SEO pour Google Business Profile : le guide complet pour dominer la recherche locale
-- NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA
-- Maîtriser l'optimisation google maps pour propulser votre visibilité locale
+---
 
 ---
 
 ## Articles connexes
 
-- Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence
-- Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA
-- SEO pour Google Business Profile : le guide complet pour dominer la recherche locale
-- NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA
-- Maîtriser l'optimisation google maps pour propulser votre visibilité locale
-
----
-
-## Articles connexes
-
-- Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence
-- Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA
-- SEO pour Google Business Profile : le guide complet pour dominer la recherche locale
-- NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA
-- Maîtriser l'optimisation google maps pour propulser votre visibilité locale
-
----
-
-## Articles connexes
-
-- [Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence](https://blotmkt.com/ia/local-seo/avis-clients-seo)
-- [Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA](https://blotmkt.com/ia/local-seo/fiche-etablissement-google)
-- [SEO pour Google Business Profile : le guide complet pour dominer la recherche locale](https://blotmkt.com/ia/local-seo/google-my-business-seo)
-- [NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA](https://blotmkt.com/ia/local-seo/nap-seo-local)
-- [Maîtriser l'optimisation google maps pour propulser votre visibilité locale](https://blotmkt.com/ia/local-seo/optimisation-google-maps)
+- [Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence](https://blotmkt.com/ia/local-seo/avis-clients-seo.html)
+- [Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA](https://blotmkt.com/ia/local-seo/fiche-etablissement-google.html)
+- [SEO pour Google Business Profile : le guide complet pour dominer la recherche locale](https://blotmkt.com/ia/local-seo/google-my-business-seo.html)
+- [NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA](https://blotmkt.com/ia/local-seo/nap-seo-local.html)
+- [Maîtriser l'optimisation google maps pour propulser votre visibilité locale](https://blotmkt.com/ia/local-seo/optimisation-google-maps.html)

@@ -50,7 +50,7 @@ Le paysage du marketing digital B2B évolue rapidement.
 Le SEO B2B est le processus stratégique d'Optimisation d'un site web pour attirer, engager et convertir d'autres entreprises en tant que clients via le trafic de recherche organique
 . Cette discipline combine expertise technique et compréhension des audiences professionnelles.
 
-La distinction fondamentale avec le B2C réside dans l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche). 
+La distinction fondamentale avec le B2C réside dans l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html). 
 70-80% des requêtes B2B sont informationnelles, les décideurs cherchant à s'éduquer sur les solutions avant de considérer un achat
 . Les Mots-clés ciblés reflètent des problématiques business spécifiques : "comment améliorer productivité équipe", "comparatif ERP industries manufacturières".
 
@@ -75,7 +75,7 @@ Le SEO technique reste une étape fondamentale, avec la Vitesse de site comme é
 Les pages mobiles qui se chargent une seconde plus rapidement génèrent 20% de conversions supplémentaires
 .
 
-Les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals), l'Architecture de l'information et la compatibilité mobile constituent les fondations d'un référencement B2B durable. L'optimisation technique facilite l'exploration par les moteurs de recherche et améliore l'expérience utilisateur, particulièrement cruciale pour les professionnels pressés.
+Les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html), l'Architecture de l'information et la compatibilité mobile constituent les fondations d'un référencement B2B durable. L'optimisation technique facilite l'exploration par les moteurs de recherche et améliore l'expérience utilisateur, particulièrement cruciale pour les professionnels pressés.
 
 ## Mesurer le ROI du SEO B2B : indicateurs clés et analyse
 
@@ -84,7 +84,7 @@ Dans le secteur B2B SaaS, le ROI moyen du SEO atteint 702% avec un seuil de rent
 
 ### KPIs essentiels pour le B2B
 
-Plus de 50% des marketeurs considèrent les classements de mots-clés et le trafic organique comme les principales mesures de succès SEO, suivis par le temps passé sur page, le CTR, le [Taux de rebond](https://blotmkt.com/ia/audit/taux-de-rebond) et l'autorité de domaine
+Plus de 50% des marketeurs considèrent les classements de mots-clés et le trafic organique comme les principales mesures de succès SEO, suivis par le temps passé sur page, le CTR, le [Taux de rebond](https://blotmkt.com/ia/audit/taux-de-rebond.html) et l'autorité de domaine
 .
 
 Pour le B2B, concentrez-vous sur la qualité plutôt que la quantité : leads générés (MQLs/SQLs), taux de conversion du trafic organique, valeur vie client des prospects SEO. 
@@ -236,40 +236,16 @@ les campagnes SEO atteignant un ROI positif dans les 6-12 mois
 
 ---
 
-## Articles connexes
+---
 
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
+---
 
 ---
 
 ## Articles connexes
 
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-
----
-
-## Articles connexes
-
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-
----
-
-## Articles connexes
-
-- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel)
-- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal)
-- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web)
-- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel)
-- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec)
+- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html)
+- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
+- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web.html)
+- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel.html)
+- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)

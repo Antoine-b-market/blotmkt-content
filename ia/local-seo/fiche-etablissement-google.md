@@ -37,7 +37,7 @@ Maintenant, je vais rédiger le contenu en utilisant les sources trouvées et en
 > - 
 Une fiche optimisée peut générer 93% d'actions supplémentaires et 126% de trafic en plus
 , avec un suivi via les statistiques Google) My Business (vues, clics, appels, demandes d'itinéraire)
-> - L'intégration des [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees) LocalBusiness sur votre site web renforce la cohérence avec votre fiche Google et améliore la compréhension par l'IA générative
+> - L'intégration des [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) LocalBusiness sur votre site web renforce la cohérence avec votre fiche Google et améliore la compréhension par l'IA générative
 > - La diversification sur d'autres plateformes d'avis devient cruciale avec l'évolution réglementaire européenne (DMA) qui impose à Google d'intégrer des avis tiers
 
 Chaque jour, des millions de consommateurs recherchent des entreprises locales sur Google. 
@@ -261,40 +261,16 @@ Dans votre interface Google Business Profile, accédez à la section "Produits" 
 
 ---
 
-## Articles connexes
+---
 
-- [Avis clients SEO](https://blotmkt.com/ia/local-seo/avis-clients-seo) : le guide pour décrypter les témoignages et choisir la bonne agence
-- Le guide complet des citations locales pour dominer le [SEO local](https://blotmkt.com/ia/definition/seo-local)
-- SEO pour Google Business Profile : le guide complet pour dominer la recherche locale
-- NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA
-- Maîtriser l'optimisation google maps pour propulser votre visibilité locale
+---
 
 ---
 
 ## Articles connexes
 
-- Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence
-- Le guide complet des citations locales pour dominer le SEO local
-- SEO pour Google Business Profile : le guide complet pour dominer la recherche locale
-- NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA
-- Maîtriser l'optimisation google maps pour propulser votre visibilité locale
-
----
-
-## Articles connexes
-
-- Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence
-- Le guide complet des citations locales pour dominer le SEO local
-- SEO pour Google Business Profile : le guide complet pour dominer la recherche locale
-- NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA
-- Maîtriser l'optimisation google maps pour propulser votre visibilité locale
-
----
-
-## Articles connexes
-
-- [Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence](https://blotmkt.com/ia/local-seo/avis-clients-seo)
-- [Le guide complet des citations locales pour dominer le SEO local](https://blotmkt.com/ia/local-seo/citations-locales-seo)
-- [SEO pour Google Business Profile : le guide complet pour dominer la recherche locale](https://blotmkt.com/ia/local-seo/google-my-business-seo)
-- [NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA](https://blotmkt.com/ia/local-seo/nap-seo-local)
-- [Maîtriser l'optimisation google maps pour propulser votre visibilité locale](https://blotmkt.com/ia/local-seo/optimisation-google-maps)
+- [Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence](https://blotmkt.com/ia/local-seo/avis-clients-seo.html)
+- [Le guide complet des citations locales pour dominer le SEO local](https://blotmkt.com/ia/local-seo/citations-locales-seo.html)
+- [SEO pour Google Business Profile : le guide complet pour dominer la recherche locale](https://blotmkt.com/ia/local-seo/google-my-business-seo.html)
+- [NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA](https://blotmkt.com/ia/local-seo/nap-seo-local.html)
+- [Maîtriser l'optimisation google maps pour propulser votre visibilité locale](https://blotmkt.com/ia/local-seo/optimisation-google-maps.html)

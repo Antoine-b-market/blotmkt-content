@@ -29,7 +29,7 @@ related_articles:
 > ## L'essentiel à retenir
 > - Le GEO est l'art d'optimiser un contenu pour être cité par les modèles d'IA générative (LLM) dans leurs réponses, transformant l'objectif du trafic vers la citation
 > - Contrairement au SEO traditionnel qui vise les clics et à l'AIO qui englobe tous les Algorithmes IA, le GEO se concentre spécifiquement sur la citation par les moteurs génératifs
-> - L'Optimisation GEO nécessite un contenu factuel structuré, des signaux E-E-A-T renforcés, un balisage [Schema.org](https://blotmkt.com/ia/definition/schema.org) avancé et une base de connaissances interne solide
+> - L'Optimisation GEO nécessite un contenu factuel structuré, des signaux E-E-A-T renforcés, un balisage [Schema.org](https://blotmkt.com/ia/definition/schema.org.html) avancé et une base de connaissances interne solide
 > - Le ROI du GEO se mesure par la "part de citation" et la notoriété de marque, avec des outils de suivi des réponses IA et une approche centrée sur l'autorité thématique
 
 L'émergence de l'IA générative bouleverse les codes du SEO. 
@@ -51,7 +51,7 @@ Google SGE (Search Generative Experience) qui est maintenant déployé aux État
 Les AI Overviews de Google apparaissent désormais dans plus de 25% de toutes les recherches Google début 2026, contre 13% en mars 2025, soit une hausse de 102%
 .
 
-L'objectif principal du GEO est de devenir une entité de référence dans le [Knowledge Graph](https://blotmkt.com/ia/definition/knowledge-graph) de l'IA pour influencer les réponses générées et contrer le phénomène du "zéro-clic". 
+L'objectif principal du GEO est de devenir une entité de référence dans le [Knowledge Graph](https://blotmkt.com/ia/definition/knowledge-graph.html) de l'IA pour influencer les réponses générées et contrer le phénomène du "zéro-clic". 
 L'étude Zero-Click Search de SparkToro 2024 révèle que 58,5% des Recherches Google aux États-Unis se terminent sans clic, avec des taux de zéro-clic atteignant 65-69% sur mobile
 .
 
@@ -203,40 +203,16 @@ Les rapports de recherche, articles basés sur des données, FAQ complètes, gui
 
 ---
 
-## Articles connexes
+---
 
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- [Algorithme de recommandation](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation) : le guide complet pour éviter les biais et la sur-dépendance
-- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
+---
 
 ---
 
 ## Articles connexes
 
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
-- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
-
----
-
-## Articles connexes
-
-- AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
-- Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance
-- Citations par IA : comment l'intelligence artificielle réinvente votre contenu
-- Contenu IA SEO : le guide pour une stratégie de référencement sémantique
-- Contextualisation SEO : le guide pour optimiser au-delà des mots-clés
-
----
-
-## Articles connexes
-
-- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization)
-- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation)
-- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia)
-- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo)
-- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo)
+- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
+- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
+- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
+- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)

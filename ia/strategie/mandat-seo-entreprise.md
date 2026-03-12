@@ -58,7 +58,7 @@ Google représente 92% des utilisateurs comme passerelle principale pour les con
 
 ### Diagnostic approfondi : la fondation de votre stratégie
 
-Le diagnostic constitue la pierre angulaire de tout mandat SEO performant. Cette phase implique un Audit technique exhaustif analysant le crawl, l'indexation et les performances web de votre site. L'[Audit sémantique](https://blotmkt.com/ia/audit/audit-semantique) évalue votre positionnement actuel, identifie les opportunités de mots-clés et décrypte les intentions de recherche de votre audience.
+Le diagnostic constitue la pierre angulaire de tout mandat SEO performant. Cette phase implique un Audit technique exhaustif analysant le crawl, l'indexation et les performances web de votre site. L'[Audit sémantique](https://blotmkt.com/ia/audit/audit-semantique.html) évalue votre positionnement actuel, identifie les opportunités de mots-clés et décrypte les intentions de recherche de votre audience.
 
 L'Analyse concurrentielle révèle les stratégies de vos principaux rivaux et leurs failles exploitables. Cette approche data-driven permet de construire une roadmap précise, personnalisée selon vos objectifs business. 
 Le temps nécessaire varie de 15 à 50 heures selon la complexité du site, pour un tarif moyen de 1 000 € à 5 000 €
@@ -193,40 +193,16 @@ Site Référencement (2025)
 
 ---
 
-## Articles connexes
+---
 
-- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
-- [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal) : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
+---
 
 ---
 
 ## Articles connexes
 
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-
----
-
-## Articles connexes
-
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-
----
-
-## Articles connexes
-
-- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel)
-- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal)
-- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web)
-- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel)
-- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec)
+- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html)
+- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
+- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web.html)
+- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel.html)
+- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)

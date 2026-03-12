@@ -27,7 +27,7 @@ related_articles:
 # NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA
 
 > ## L'essentiel à retenir
-> - Le NAP (Nom, Adresse, Téléphone) est le pilier fondamental de votre [SEO local](https://blotmkt.com/ia/definition/seo-local), servant de "carte d'identité numérique" qui prouve votre légitimité aux yeux de Google et des IA génératives
+> - Le NAP (Nom, Adresse, Téléphone) est le pilier fondamental de votre [SEO local](https://blotmkt.com/ia/definition/seo-local.html), servant de "carte d'identité numérique" qui prouve votre légitimité aux yeux de Google et des IA génératives
 > - Pour Auditer votre NAP, définissez une version canonique unique et surveillez sa cohérence sur toutes les plateformes majeures (Google Business Profile, Yelp, Apple Maps, Pages Jaunes)
 > - Un NAP cohérent est le facteur n°1 pour être inclus dans les listes "meilleurs de" générées par les IA, renforçant votre entité commerciale pour le GEO (Generative Engine Optimization)
 > - Enrichissez votre stratégie NAP avec des schémas LocalBusiness, des citations locales qualitatives et des photos géolocalisées pour maximiser vos signaux de confiance
@@ -61,7 +61,7 @@ L'une des choses les plus importantes qu'une entreprise puisse faire pour optimi
 .
 
 L'Audit systématique constitue votre deuxième priorité. 
-Initiez votre Stratégie SEO local en effectuant un Audit de vos listings NAP actuels fournis sur votre entreprise. Vous pouvez soit effectuer un audit manuel pour examiner la précision et la cohérence des données NAP, soit utiliser un outil d'automatisation pour évaluer vos informations NAP. L'objectif de cet audit est d'identifier toute erreur ou incohérence dans les listings NAP sur diverses plateformes et de les rectifier
+Initiez votre [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) local en effectuant un Audit de vos listings NAP actuels fournis sur votre entreprise. Vous pouvez soit effectuer un audit manuel pour examiner la précision et la cohérence des données NAP, soit utiliser un outil d'automatisation pour évaluer vos informations NAP. L'objectif de cet audit est d'identifier toute erreur ou incohérence dans les listings NAP sur diverses plateformes et de les rectifier
 .
 
 Pour faciliter la création de citations, utilisez des outils et services SEO locaux comme BrightLocal. Son service Citation Builder vous permet de choisir sur quels sites vous souhaitez que votre NAP et vos informations commerciales soient répertoriés (à partir de 2$ par site). L'entreprise enregistre manuellement votre petite entreprise sur ces sites
@@ -196,40 +196,16 @@ Des données NAP incohérentes peuvent conduire à des classements plus bas dans
 
 ---
 
-## Articles connexes
+---
 
-- [Avis clients SEO](https://blotmkt.com/ia/local-seo/avis-clients-seo) : le guide pour décrypter les témoignages et choisir la bonne agence
-- Le guide complet des citations locales pour dominer le SEO local
-- Optimiser votre [Fiche établissement Google](https://blotmkt.com/ia/local-seo/fiche-etablissement-google) pour une visibilité locale accrue à l'ère de l'IA
-- SEO pour Google Business Profile : le guide complet pour dominer la recherche locale
-- Maîtriser l'optimisation google maps pour propulser votre visibilité locale
+---
 
 ---
 
 ## Articles connexes
 
-- Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence
-- Le guide complet des citations locales pour dominer le SEO local
-- Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA
-- SEO pour Google Business Profile : le guide complet pour dominer la recherche locale
-- Maîtriser l'optimisation google maps pour propulser votre visibilité locale
-
----
-
-## Articles connexes
-
-- Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence
-- Le guide complet des citations locales pour dominer le SEO local
-- Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA
-- SEO pour Google Business Profile : le guide complet pour dominer la recherche locale
-- Maîtriser l'optimisation google maps pour propulser votre visibilité locale
-
----
-
-## Articles connexes
-
-- [Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence](https://blotmkt.com/ia/local-seo/avis-clients-seo)
-- [Le guide complet des citations locales pour dominer le SEO local](https://blotmkt.com/ia/local-seo/citations-locales-seo)
-- [Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA](https://blotmkt.com/ia/local-seo/fiche-etablissement-google)
-- [SEO pour Google Business Profile : le guide complet pour dominer la recherche locale](https://blotmkt.com/ia/local-seo/google-my-business-seo)
-- [Maîtriser l'optimisation google maps pour propulser votre visibilité locale](https://blotmkt.com/ia/local-seo/optimisation-google-maps)
+- [Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence](https://blotmkt.com/ia/local-seo/avis-clients-seo.html)
+- [Le guide complet des citations locales pour dominer le SEO local](https://blotmkt.com/ia/local-seo/citations-locales-seo.html)
+- [Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA](https://blotmkt.com/ia/local-seo/fiche-etablissement-google.html)
+- [SEO pour Google Business Profile : le guide complet pour dominer la recherche locale](https://blotmkt.com/ia/local-seo/google-my-business-seo.html)
+- [Maîtriser l'optimisation google maps pour propulser votre visibilité locale](https://blotmkt.com/ia/local-seo/optimisation-google-maps.html)

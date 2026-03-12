@@ -85,7 +85,7 @@ Pour une TPE, comptez 500€-1000€/mois. Pour une PME, le Budget se situe entr
 .
 
 L'investissement doit être corrélé aux objectifs de revenus plutôt qu'être considéré comme une dépense fixe. 
-Une Stratégie SEO efficace demande un travail continu : production de 4 à 8 articles par mois, Optimisations techniques permanentes, acquisition régulière de backlinks
+Une [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) efficace demande un travail continu : production de 4 à 8 articles par mois, Optimisations techniques permanentes, acquisition régulière de backlinks
 .
 
 ## L'IA au service du ROI : comment optimiser la rentabilité de votre SEO
@@ -97,7 +97,7 @@ L'IA réduit drastiquement les coûts de production de contenu grâce à l'aide 
 L'IA permet d'automatiser des tâches fastidieuses comme l'analyse des performances SEO et la recherche de mots-clés. Cela libère du temps pour les experts SEO, qui peuvent se concentrer sur des aspects plus stratégiques
 .
 
-L'IA est utilisée pour classer automatiquement les mots-clés selon leur [Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche), enrichir les Contenus grâce au système RAG, et effectuer une analyse macro rapide pour extraire des insights stratégiques exploitables
+L'IA est utilisée pour classer automatiquement les mots-clés selon leur [Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html), enrichir les Contenus grâce au système RAG, et effectuer une analyse macro rapide pour extraire des insights stratégiques exploitables
 . Cette optimisation permet d'améliorer significativement les taux de conversion en personnalisant l'expérience utilisateur selon les Intentions détectées.
 
 ## Questions fréquentes
@@ -204,40 +204,16 @@ Le calcul est basé sur le nombre de visiteurs mensuels, le taux de conversion e
 
 ---
 
-## Articles connexes
+---
 
-- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
-- [Agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal) : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
+---
 
 ---
 
 ## Articles connexes
 
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-
----
-
-## Articles connexes
-
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-
----
-
-## Articles connexes
-
-- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel)
-- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal)
-- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web)
-- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel)
-- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec)
+- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html)
+- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
+- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web.html)
+- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel.html)
+- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)

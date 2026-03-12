@@ -16,12 +16,12 @@ slug: "core-web-vitals"
 url: "/ia/audit/core-web-vitals"
 canonical: "https://blotmkt.com/ia/audit/core-web-vitals.html"
 related_articles:
+  - title: "UX design SEO : le guide pour fusionner expérience utilisateur et référencement"
+    url: "/ia/definition/ux-design-seo"
   - title: "Vitesse de chargement : le guide pour accélérer votre site et booster vos conversions"
     url: "/ia/audit/vitesse-de-chargement"
   - title: "Facteurs de classement google : le guide basé sur la documentation officielle"
     url: "/ia/popularite/facteurs-de-classement-google"
-  - title: "AMP et SEO : le guide pour comprendre son impact réel aujourd'hui"
-    url: "/ia/definition/amp-google-seo"
 ---
 
 # Core web vitals : le guide pour maîtriser les signaux web essentiels de google
@@ -29,7 +29,7 @@ related_articles:
 > ## L'essentiel à retenir
 > - Les Core Web Vitals sont trois métriques spécifiques (LCP, INP, CLS) qui mesurent l'expérience utilisateur réelle et influencent directement les classements SEO depuis 2021
 > - 
-LCP mesure la Vitesse de chargement (objectif : moins de 2,5 secondes), INP évalue la réactivité (moins de 200 millisecondes) et CLS quantifie la stabilité visuelle (moins de 0,1)
+LCP mesure la [Vitesse de chargement](https://blotmkt.com/ia/audit/vitesse-de-chargement.html) (objectif : moins de 2,5 secondes), INP évalue la réactivité (moins de 200 millisecondes) et CLS quantifie la stabilité visuelle (moins de 0,1)
 
 > - 
 Seules les Données utilisateurs réels (CrUX) via PageSpeed Insights et Search Console impactent le SEO, pas les scores Lighthouse
@@ -73,7 +73,7 @@ Une étude de Google révèle que 53% des utilisateurs quittent un site qui met 
 
 ### Interaction to Next Paint (INP) : la réactivité globale
 
-INP a remplacé First Input Delay (FID) le 12 mars 2024, mesurant la latence de toutes les interactions utilisateur pendant une visite, pas seulement la première
+INP a remplacé [First Input Delay](https://blotmkt.com/ia/audit/first-input-delay.html) (FID) le 12 mars 2024, mesurant la latence de toutes les interactions utilisateur pendant une visite, pas seulement la première
 . 
 Pour offrir une bonne expérience utilisateur, les pages doivent avoir un INP de 200 millisecondes ou moins
 .
@@ -231,40 +231,16 @@ Leur impact est plus notable quand les pages ont un Contenu comparable, lors de 
 
 ---
 
-## Articles connexes
+---
 
-- Maîtriser l'[Analyse de logs SEO](https://blotmkt.com/ia/audit/analyse-de-logs-seo) pour optimiser votre budget de crawl
-- [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site) : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
-- [Audit mobile-first](https://blotmkt.com/ia/audit/audit-mobile-first) : la méthode complète pour garantir votre visibilité sur Google
-- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
-- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
+---
 
 ---
 
 ## Articles connexes
 
-- Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl
-- Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
-- Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google
-- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
-- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
-
----
-
-## Articles connexes
-
-- Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl
-- Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
-- Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google
-- Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
-- Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
-
----
-
-## Articles connexes
-
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo)
-- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site)
-- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first)
-- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique)
-- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
+- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)
+- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first.html)
+- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique.html)
+- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal.html)

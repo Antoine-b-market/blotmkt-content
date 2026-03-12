@@ -32,7 +32,7 @@ related_articles:
 > - Le diagnostic passe par la vérification des actions manuelles dans la Search Console et l'Analyse des corrélations entre les chutes de trafic et les dates de mises à jour algorithmiques connues
 > - Lever un filtre nécessite d'identifier la cause (contenu faible, liens artificiels, sur-Optimisation), de corriger méthodiquement les problèmes et d'attendre la prochaine évaluation algorithmique
 
-Votre trafic SEO s'effondre du jour au lendemain, vos positions dégringolent sur vos mots-clés stratégiques ? Une Pénalité Google frappe près d'un site sur six, avec des conséquences dramatiques : 
+Votre trafic SEO s'effondre du jour au lendemain, vos positions dégringolent sur vos mots-clés stratégiques ? Une [Pénalité Google](https://blotmkt.com/ia/popularite/penalite-google.html) frappe près d'un site sur six, avec des conséquences dramatiques : 
 une étude menée en 2024 révèle que les entreprises sanctionnées perdent en moyenne 70% de leur trafic organique dans les 30 jours
 . Mais comprendre la différence entre filtre algorithmique et pénalité manuelle est crucial pour mettre en place la stratégie de récupération adaptée et retrouver votre visibilité.
 
@@ -106,10 +106,10 @@ Pour une pénalité manuelle, comptez 2 à 8 semaines après la demande de réex
 Vérifiez d'abord la section "Actions manuelles" dans Google Search Console. L'absence de notification écarte une pénalité manuelle. Analysez ensuite vos statistiques de trafic pour identifier une corrélation entre une chute brutale et les dates de mises à jour Google connues, signe d'un filtre algorithmique.
 
 ### Combien de temps dure une pénalité Google ?
-Pour une action manuelle, comptez 2 à 8 semaines après soumission de votre demande de réexamen. Pour un filtre algorithmique, la récupération nécessite plusieurs mois d'attente jusqu'à la prochaine évaluation automatique par l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google), après correction des problèmes identifiés.
+Pour une action manuelle, comptez 2 à 8 semaines après soumission de votre demande de réexamen. Pour un filtre algorithmique, la récupération nécessite plusieurs mois d'attente jusqu'à la prochaine évaluation automatique par l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google.html), après correction des problèmes identifiés.
 
 ### Qu'est-ce que l'outil de désaveu de liens de Google ?
-L'outil de désaveu permet de signaler à Google les backlinks toxiques ou artificiels pointant vers votre site. Utilisable via Google Search Console, il aide à nettoyer un [Profil de liens](https://blotmkt.com/ia/definition/profil-de-liens) compromis suite à une pénalité Penguin ou une action manuelle pour liens non naturels.
+L'outil de désaveu permet de signaler à Google les backlinks toxiques ou artificiels pointant vers votre site. Utilisable via Google Search Console, il aide à nettoyer un [Profil de liens](https://blotmkt.com/ia/definition/profil-de-liens.html) compromis suite à une pénalité Penguin ou une action manuelle pour liens non naturels.
 
 ### Comment faire une demande de réexamen à Google ?
 Après correction des problèmes identifiés dans l'action manuelle, cliquez sur "Demander un examen" dans le rapport Actions manuelles de votre Search Console. Expliquez précisément les mesures correctives prises et fournissez des preuves de votre mise en conformité avec les consignes de qualité.
@@ -194,40 +194,16 @@ Après correction des problèmes identifiés dans l'action manuelle, cliquez sur
 
 ---
 
-## Articles connexes
+---
 
-- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
-- [Désindexation Google](https://blotmkt.com/ia/popularite/desindexation-google): guide pratique pour contrôler votre visibilité en ligne
-- Facteurs de classement google : le guide basé sur la documentation officielle
-- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
-- Action manuelle Google : le guide complet pour l'identifier et la corriger
+---
 
 ---
 
 ## Articles connexes
 
-- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
-- Désindexation google: guide pratique pour contrôler votre visibilité en ligne
-- Facteurs de classement google : le guide basé sur la documentation officielle
-- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
-- Action manuelle Google : le guide complet pour l'identifier et la corriger
-
----
-
-## Articles connexes
-
-- Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
-- Désindexation google: guide pratique pour contrôler votre visibilité en ligne
-- Facteurs de classement google : le guide basé sur la documentation officielle
-- Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne
-- Action manuelle Google : le guide complet pour l'identifier et la corriger
-
----
-
-## Articles connexes
-
-- [Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO](https://blotmkt.com/ia/popularite/algorithme-penalite)
-- [Désindexation google: guide pratique pour contrôler votre visibilité en ligne](https://blotmkt.com/ia/popularite/desindexation-google)
-- [Facteurs de classement google : le guide basé sur la documentation officielle](https://blotmkt.com/ia/popularite/facteurs-de-classement-google)
-- [Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne](https://blotmkt.com/ia/popularite/guest-blogging-seo)
-- [Action manuelle Google : le guide complet pour l'identifier et la corriger](https://blotmkt.com/ia/popularite/manuel-action-google)
+- [Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO](https://blotmkt.com/ia/popularite/algorithme-penalite.html)
+- [Désindexation google: guide pratique pour contrôler votre visibilité en ligne](https://blotmkt.com/ia/popularite/desindexation-google.html)
+- [Facteurs de classement google : le guide basé sur la documentation officielle](https://blotmkt.com/ia/popularite/facteurs-de-classement-google.html)
+- [Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne](https://blotmkt.com/ia/popularite/guest-blogging-seo.html)
+- [Action manuelle Google : le guide complet pour l'identifier et la corriger](https://blotmkt.com/ia/popularite/manuel-action-google.html)

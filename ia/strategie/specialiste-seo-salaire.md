@@ -87,11 +87,11 @@ L'enquête de la FePSeM montre que les indépendants ont un revenu moyen supéri
 ### Maîtrise technique et vision stratégique
 
 L'obtention de certifications SEO reconnues (comme la QASEO ou CESEO) semble avoir un impact positif sur le niveau de rémunération
-. Les compétences techniques avancées (Audit de logs, optimisation du crawl, maîtrise des [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals), SEO international) différencient significativement les profils sur le marché. 
+. Les compétences techniques avancées (Audit de logs, optimisation du crawl, maîtrise des [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html), SEO international) différencient significativement les profils sur le marché. 
 
 La capacité à aligner le SEO avec les objectifs business et à prouver le ROI via des outils d'Analyse (Google Analytics 4, Google Tag Manager) devient cruciale. 
 Le consultant SEO de 2026 n'est pas menacé par l'IA, mais doit évoluer : sa valeur ajoutée se déplace de l'exécution technique vers le pilotage stratégique, faisant de l'IA un outil à son service pour décupler son efficacité
-. Les spécialisations de niche (e-commerce, [SEO local](https://blotmkt.com/ia/definition/seo-local), netlinking avancé) permettent également de justifier des tarifs premium. (Source : FePSeM, 2024)
+. Les spécialisations de niche (e-commerce, [SEO local](https://blotmkt.com/ia/definition/seo-local.html), netlinking avancé) permettent également de justifier des tarifs premium. (Source : FePSeM, 2024)
 
 ## Agence vs consultant SEO freelance : le match de la rentabilité
 
@@ -221,40 +221,16 @@ En 2026, le référencement SEO est un métier qui paie correctement avec des pe
 
 ---
 
-## Articles connexes
+---
 
-- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
+---
 
 ---
 
 ## Articles connexes
 
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-
----
-
-## Articles connexes
-
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-
----
-
-## Articles connexes
-
-- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel)
-- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal)
-- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web)
-- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel)
-- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec)
+- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html)
+- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
+- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web.html)
+- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel.html)
+- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)

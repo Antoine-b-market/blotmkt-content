@@ -30,7 +30,7 @@ related_articles:
 > - Le SEO est un levier de croissance essentiel qui génère 
 1 000% de trafic supplémentaire par rapport aux réseaux sociaux et convertit à 14,6% contre 1,7% pour l'outbound marketing
 
-> - Une Stratégie SEO pour startup repose sur trois piliers : diagnostic technique initial, construction de contenus d'expertise, et développement de l'autorité via l'E-E-A-T
+> - Une [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) pour startup repose sur trois piliers : diagnostic technique initial, construction de contenus d'expertise, et développement de l'autorité via l'E-E-A-T
 > - Le ROI du SEO peut atteindre 
 747% selon une étude SearchEngineJournal
 , mais demande un investissement minimum de 6 à 12 mois pour des résultats durables
@@ -65,12 +65,12 @@ repérer les pages performantes et leurs mots-clés stratégiques via Google Ana
 .
 
 ### Optimisation on-page et technique
-L'optimisation technique englobe la structuration du site, l'optimisation des balises, la [Vitesse de chargement](https://blotmkt.com/ia/audit/vitesse-de-chargement) et le mobile-first. En 2024, 
+L'optimisation technique englobe la structuration du site, l'optimisation des balises, la [Vitesse de chargement](https://blotmkt.com/ia/audit/vitesse-de-chargement.html) et le mobile-first. En 2024, 
 Google privilégie les sites rapides et bien structurés
 , rendant ces aspects cruciaux pour les startups qui doivent maximiser leur impact dès le lancement.
 
 Le contenu doit également être structuré pour les moteurs génératifs (GEO), car 
-selon Gartner, 25% du trafic traditionnel disparaîtra d'ici 2026, les [Moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/moteurs-de-reponse) remplaçant les moteurs de recherche
+selon Gartner, 25% du trafic traditionnel disparaîtra d'ici 2026, les [Moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/moteurs-de-reponse.html) remplaçant les moteurs de recherche
 .
 
 ## ROI du SEO pour startup : évaluation et gestion budgétaire
@@ -200,40 +200,16 @@ Si vous pouvez réparer votre propre voiture, il vaut mieux déléguer beaucoup 
 
 ---
 
-## Articles connexes
+---
 
-- [Accompagnement SEO annuel](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel) : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
+---
 
 ---
 
 ## Articles connexes
 
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-
----
-
-## Articles connexes
-
-- Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
-- Agence SEO Montréal : votre partenaire stratégique pour une croissance durable
-- Audit de site web : le guide complet pour un diagnostic SEO actionnable
-- Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
-- Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
-
----
-
-## Articles connexes
-
-- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel)
-- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal)
-- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web)
-- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel)
-- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec)
+- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html)
+- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
+- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web.html)
+- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel.html)
+- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)
