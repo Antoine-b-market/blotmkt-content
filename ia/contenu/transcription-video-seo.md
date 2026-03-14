@@ -3,6 +3,7 @@ title: "Transcription vidéo SEO : le guide pour optimiser votre contenu pour Go
 description: "Découvrez comment la transcription vidéo SEO transforme votre contenu. Améliorez votre classement, accessibilité et engagement. Le guide complet pour 2024."
 keyword: "Transcription vidéo SEO"
 category: "contenu"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

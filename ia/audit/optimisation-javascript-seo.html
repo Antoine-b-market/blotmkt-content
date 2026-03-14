@@ -40,65 +40,80 @@
     .related li{margin-bottom:8px}
     footer{margin-top:48px;padding-top:16px;border-top:1px solid #eee;font-size:0.78rem;color:#aaa}
   </style>
-  <script type="application/ld+json">{
+  <script type="application/ld+json">
+{
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
-      "headline": "Optimisation JavaScript SEO : le guide complet pour le rendu et l'Indexation",
+      "@type": "TechArticle",
+      "@id": "https://blotmkt.com/ia/audit/optimisation-javascript-seo.html#article",
+      "headline": "Optimisation JavaScript SEO : le guide complet pour le rendu et l'indexation",
       "description": "Maîtrisez l'optimisation JavaScript SEO pour améliorer votre indexation et vos performances. Découvrez les techniques de rendu (SSR, CSR) et les bonnes pratiques.",
-      "url": "https://blotmkt.com/ia/audit/optimisation-javascript-seo",
+      "url": "https://blotmkt.com/ia/audit/optimisation-javascript-seo.html",
+      "inLanguage": "fr-CA",
       "datePublished": "2026-03-09 06:32",
       "dateModified": "2026-03-09 06:32",
       "author": {
-        "@type": "Person",
-        "name": "Antoine Blot",
-        "url": "https://antoine-blot.com",
-        "sameAs": [
-          "https://www.linkedin.com/in/blotantoine/",
-          "https://github.com/Antoine-b-market",
-          "https://orcid.org/0009-0005-6450-4528"
-        ]
+        "@id": "https://blotmkt.com/ia/a-propos.html#person"
       },
       "publisher": {
-        "@type": "Organization",
-        "name": "BlotMKT",
-        "url": "https://blotmkt.com"
+        "@id": "https://blotmkt.com/#organization"
       },
-      "inLanguage": "fr-FR",
-      "keywords": "rendu JavaScript, SSR vs CSR SEO, Googlebot JavaScript, Core Web Vitals, SEO pour React, rendu dynamique, budget de crawl"
+      "articleSection": "Audit",
+      "keywords": "Optimisation JavaScript SEO, rendu JavaScript, SSR vs CSR SEO, Googlebot JavaScript, Core Web Vitals, SEO pour React, rendu dynamique, budget de crawl",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://blotmkt.com/ia/audit/optimisation-javascript-seo.html"
+      }
     },
     {
-      "@type": "FAQPage",
-      "mainEntity": [
+      "@type": "BreadcrumbList",
+      "@id": "https://blotmkt.com/ia/audit/optimisation-javascript-seo.html#breadcrumb",
+      "itemListElement": [
         {
-          "@type": "Question",
-          "name": "Comment Google explore-t-il le JavaScript ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Google tente de rendre virtuellement toutes les pages HTML qu'il crawle en utilisant un Chrome headless pour exécuter le JavaScript, mais cela se fait en deux vagues : Indexation HTML puis mise à jour avec le contenu rendu."
-          }
+          "@type": "ListItem",
+          "position": 1,
+          "name": "BlotMKT",
+          "item": "https://blotmkt.com/ia/"
         },
         {
-          "@type": "Question",
-          "name": "Le JavaScript est-il mauvais pour le SEO ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Non, le JavaScript n'est pas intrinsèquement mauvais pour le SEO. Un JavaScript non optimisé peut nuire aux classements, mais avec les bonnes pratiques d'Optimisation, il peut coexister avec un excellent référencement."
-          }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Audit",
+          "item": "https://blotmkt.com/ia/Audit/"
         },
         {
-          "@type": "Question",
-          "name": "Quel framework JavaScript est le meilleur pour le SEO ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Next.js pour React, Nuxt.js pour Vue et Angular Universal pour Angular sont recommandés car ils Offrent des solutions SSR intégrées et bénéficient du support de l'équipe Chrome Aurora pour l'optimisation SEO."
-          }
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Optimisation JavaScript SEO : le guide complet pour le rendu et l'indexation",
+          "item": "https://blotmkt.com/ia/audit/optimisation-javascript-seo.html"
         }
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://blotmkt.com/ia/a-propos.html#person",
+      "name": "Antoine Blot",
+      "jobTitle": "Consultant SEO et GEO",
+      "url": "https://blotmkt.com/ia/a-propos.html",
+      "sameAs": [
+        "https://www.antoine-blot.com",
+        "https://www.linkedin.com/in/blotantoine/",
+        "https://orcid.org/0009-0005-6450-4528"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://blotmkt.com/#organization",
+      "name": "BlotMKT",
+      "url": "https://blotmkt.com/",
+      "founder": {
+        "@id": "https://blotmkt.com/ia/a-propos.html#person"
+      }
     }
   ]
-}</script>
+}
+</script>
 </head>
 <body>
   <article>

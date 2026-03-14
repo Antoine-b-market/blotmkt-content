@@ -3,6 +3,7 @@ title: "Expertise SEO technique : le levier stratégique pour votre performance 
 description: "Découvrez ce qui définit une véritable expertise en SEO technique. De l'audit avancé à l'optimisation des signaux web, transformez la technique en ROI."
 keyword: "Expertise SEO technique"
 category: "strategie"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

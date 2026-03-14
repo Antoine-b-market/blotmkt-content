@@ -3,6 +3,7 @@ title: "Salaire expert SEO : le guide 2024 des rémunérations par niveau d'exp�
 description: "Découvrez le salaire moyen d'un expert SEO en 2024. Analyse des salaires par séniorité, des compétences clés et de l'impact du freelance vs. CDI."
 keyword: "Salaire expert SEO"
 category: "strategie"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

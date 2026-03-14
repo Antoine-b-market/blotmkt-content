@@ -3,6 +3,7 @@ title: "Architecture de site : construire une base solide pour votre autorité (
 description: "Découvrez comment une architecture de site web bien conçue booste votre SEO et votre autorité. Guide complet sur la structure, les types et les bonnes pratiques."
 keyword: "Architecture de site"
 category: "audit"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

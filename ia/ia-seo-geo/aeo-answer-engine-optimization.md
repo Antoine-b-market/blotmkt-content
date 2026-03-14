@@ -3,6 +3,7 @@ title: "AEO : le guide de l'Answer Engine Optimization pour la recherche vocale 
 description: "Découvrez l'AEO (Answer Engine Optimization), la stratégie SEO pour dominer les réponses directes, la recherche vocale et les IA. Apprenez à optimiser."
 keyword: "AEO Answer Engine Optimization"
 category: "ia-seo-geo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

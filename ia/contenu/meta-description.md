@@ -3,6 +3,7 @@ title: "Méta description SEO: Guide complet pour optimiser votre visibilité et
 description: "Maîtrisez la méta description SEO. Découvrez son rôle clé, nos astuces pour une rédaction percutante, et boostez votre CTR pour plus de visibilité Google."
 keyword: "Méta description"
 category: "contenu"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

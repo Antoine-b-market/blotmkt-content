@@ -3,6 +3,7 @@ title: "Audit de contenu existant : la méthode complète pour optimiser votre S
 description: "Découvrez comment réaliser un audit de contenu existant pour améliorer votre SEO. Notre guide vous explique les étapes, les métriques et les décisions à prendre."
 keyword: "Audit contenu existant"
 category: "contenu"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

@@ -3,6 +3,7 @@ title: "Comment rédiger un titre SEO accrocheur : le guide pratique pour booste
 description: "Découvrez comment créer un titre accrocheur SEO pour augmenter votre taux de clic. Guide complet avec des techniques, exemples concrets et erreurs à éviter."
 keyword: "Titre accrocheur SEO"
 category: "contenu"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

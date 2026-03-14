@@ -3,6 +3,7 @@ title: "Maillage interne en silo : le guide pour une architecture seo optimisée
 description: "Découvrez comment le maillage interne en silo peut transformer votre SEO. Guide pratique pour créer une architecture de site puissante et booster votre autorité."
 keyword: "Maillage interne silo"
 category: "definition"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

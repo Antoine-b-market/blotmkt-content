@@ -3,6 +3,7 @@ title: "UX design SEO : le guide pour fusionner expérience utilisateur et réf�
 description: "Découvrez comment l'UX design SEO booste vos classements. Apprenez à intégrer l'expérience utilisateur dans votre stratégie pour satisfaire Google et vos visiteurs."
 keyword: "UX Design SEO"
 category: "definition"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

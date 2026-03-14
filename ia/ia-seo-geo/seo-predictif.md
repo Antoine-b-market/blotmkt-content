@@ -3,6 +3,7 @@ title: "SEO prédictif : anticipez l'avenir pour dominer les moteurs génératif
 description: "Découvrez le SEO prédictif, la stratégie hybride indispensable pour anticiper les algorithmes et rendre votre marque mémorable et incontournable face au GEO."
 keyword: "SEO prédictif"
 category: "ia-seo-geo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

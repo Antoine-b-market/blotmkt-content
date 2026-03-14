@@ -3,6 +3,7 @@ title: "Ancre de lien : le guide pour maîtriser votre profil de liens sans pén
 description: "Découvrez ce qu'est une ancre de lien, ses différents types et comment l'optimiser pour booster votre SEO. Le guide pratique pour un netlinking sûr et efficace."
 keyword: "Ancre de lien"
 category: "definition"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

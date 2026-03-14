@@ -3,6 +3,7 @@ title: "Moteurs de réponse : le guide de la Generative Engine Optimization (GEO
 description: "Découvrez ce que sont les moteurs de réponse, comment les LLM les animent et comment adapter votre stratégie SEO avec la GEO pour performer en 2024."
 keyword: "Moteurs de réponse"
 category: "ia-seo-geo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"
@@ -235,6 +236,8 @@ Absolument. Les IA amplifient l'importance de l'E-E-A-T car elles privilégient 
 ---
 
 ---
+
+FAQ_JSON-->
 
 ## Articles connexes
 

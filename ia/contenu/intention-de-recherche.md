@@ -3,6 +3,7 @@ title: "L'intention de recherche : le guide pour décrypter et optimiser votre s
 description: "Découvrez ce qu'est l'intention de recherche et pourquoi elle est cruciale pour votre SEO. Apprenez à l'analyser pour attirer un trafic qualifié et convertir."
 keyword: "Intention de recherche"
 category: "contenu"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

@@ -3,6 +3,7 @@ title: "Le thin content en seo : le guide pour l'identifier et le corriger avant
 description: "Découvrez ce qu'est le thin content en SEO, pourquoi il pénalise votre site et comment l'auditer et le corriger pour éviter les sanctions de Google."
 keyword: "Thin content SEO"
 category: "contenu"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

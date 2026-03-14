@@ -3,6 +3,7 @@ title: "Contenu IA SEO : le guide pour une stratégie de référencement sémant
 description: "Découvrez comment le contenu IA SEO transforme votre référencement. Passez des mots-clés à l'intention utilisateur pour une pertinence maximale et un meilleur ROI."
 keyword: "Contenu IA SEO"
 category: "ia-seo-geo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

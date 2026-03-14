@@ -3,6 +3,7 @@ title: "Core web vitals : le guide pour maîtriser les signaux web essentiels de
 description: "Découvrez ce que sont les Core Web Vitals (LCP, INP, CLS), pourquoi ils sont cruciaux pour votre SEO et comment les optimiser pour améliorer votre classement."
 keyword: "Core Web Vitals"
 category: "audit"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

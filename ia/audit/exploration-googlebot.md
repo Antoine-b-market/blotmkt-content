@@ -3,6 +3,7 @@ title: "Exploration Googlebot : le guide complet pour optimiser votre budget de 
 description: "Découvrez le processus d'exploration de Googlebot. Apprenez à gérer votre budget de crawl, utiliser robots.txt et sitemaps pour une indexation SEO optimale."
 keyword: "Exploration Googlebot"
 category: "audit"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"
@@ -242,6 +243,8 @@ Medium - Tomas Laurinavicius, 2024
 ---
 
 ---
+
+FAQ_JSON-->
 
 ## Articles connexes
 

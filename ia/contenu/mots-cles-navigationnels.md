@@ -3,6 +3,7 @@ title: "Mots-clés navigationnels : guide complet pour comprendre et optimiser v
 description: "Découvrez ce que sont les mots-clés navigationnels, leur impact sur le SEO et comment les utiliser pour guider les utilisateurs vers votre site. Guide pratique et exemples."
 keyword: "Mots-clés navigationnels"
 category: "contenu"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

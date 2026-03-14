@@ -3,6 +3,7 @@ title: "L'api d'indexation google : guide complet pour une indexation quasi-inst
 description: "Découvrez comment utiliser l'API d'indexation de Google pour notifier les changements de pages et accélérer votre SEO. Guide pratique, cas d'usage et limites."
 keyword: "Indexation API Google"
 category: "audit"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

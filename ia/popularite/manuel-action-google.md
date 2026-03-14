@@ -3,6 +3,7 @@ title: "Action manuelle Google : le guide complet pour l'identifier et la corrig
 description: "Votre site a reçu une action manuelle de Google ? Découvrez ce que c'est, comment l'identifier dans la Search Console et les étapes pour la lever rapidement."
 keyword: "Manuel action Google"
 category: "popularite"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

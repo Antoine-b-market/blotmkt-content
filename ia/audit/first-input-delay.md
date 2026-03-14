@@ -3,6 +3,7 @@ title: "First Input Delay (FID) : le guide pour optimiser l'ancienne métrique e
 description: "Découvrez ce qu'est le First Input Delay (FID), pourquoi il a été remplacé par l'INP et comment optimiser la réactivité de votre site pour le SEO."
 keyword: "First Input Delay"
 category: "audit"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

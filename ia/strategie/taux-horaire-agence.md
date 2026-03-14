@@ -3,6 +3,7 @@ title: "Le taux horaire d'une agence digitale: décryptage pour une collaboratio
 description: "Découvrez comment les agences calculent leur taux horaire. Comprenez les facteurs influençant les coûts et optimisez votre investissement pour vos projets digitaux."
 keyword: "Taux horaire agence"
 category: "strategie"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"
@@ -249,6 +250,8 @@ Les agences full-service facturent entre 3 000 et 15 000 €/mois
 ---
 
 ---
+
+FAQ_JSON-->
 
 ## Articles connexes
 

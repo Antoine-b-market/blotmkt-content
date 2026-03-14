@@ -3,6 +3,7 @@ title: "Seo ia : le guide pratique pour optimiser et automatiser votre référen
 description: "Découvrez comment l'intelligence artificielle transforme le SEO. Ce guide couvre les outils, les stratégies d'automatisation et le calcul du ROI pour booster votre visibilité."
 keyword: "SEO IA"
 category: "ia-seo-geo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

@@ -3,6 +3,7 @@ title: "Profil de liens : le guide complet pour analyser et optimiser votre auto
 description: "Découvrez ce qu'est un profil de liens, comment l'analyser avec les bons outils et quelles stratégies de netlinking adopter pour renforcer votre SEO."
 keyword: "Profil de liens"
 category: "definition"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

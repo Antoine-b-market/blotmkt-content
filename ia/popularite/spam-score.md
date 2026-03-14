@@ -3,6 +3,7 @@ title: "Spam score : le guide pour comprendre, vérifier et réduire le risque S
 description: "Découvrez ce qu'est le Spam Score, comment l'analyser avec les bons outils et nos méthodes pour le réduire et protéger votre site des pénalités Google."
 keyword: "Spam score"
 category: "popularite"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

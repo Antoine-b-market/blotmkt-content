@@ -3,6 +3,7 @@ title: "L'IA conversationnelle et le SEO : révolutionner la visibilité organiq
 description: "Découvrez comment l'IA conversationnelle transforme le SEO. Améliorez votre visibilité, comprenez l'intention utilisateur et adaptez-vous aux moteurs de recherche sémantiques."
 keyword: "IA conversationnelle SEO"
 category: "ia-seo-geo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

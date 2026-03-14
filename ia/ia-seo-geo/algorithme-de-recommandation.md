@@ -3,6 +3,7 @@ title: "Algorithme de recommandation : le guide complet pour éviter les biais e
 description: "Découvrez comment fonctionne un algorithme de recommandation, ses différents types et comment l'implémenter. Guide pratique pour maîtriser les risques critiques."
 keyword: "Algorithme de recommandation"
 category: "ia-seo-geo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

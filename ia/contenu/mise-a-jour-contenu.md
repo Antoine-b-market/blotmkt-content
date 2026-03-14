@@ -3,6 +3,7 @@ title: "Mise à jour de contenu : la méthode pour un SEO durable et centré sur
 description: "Découvrez comment la mise à jour stratégique de votre contenu améliore votre SEO. Apprenez à rafraîchir vos articles pour plus d'utilité et de fiabilité."
 keyword: "Mise à jour contenu"
 category: "contenu"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

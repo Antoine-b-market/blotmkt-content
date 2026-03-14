@@ -3,6 +3,7 @@ title: "SEO YMYL : le guide pratique pour maîtriser l'E-E-A-T et sécuriser vos
 description: "Découvrez comment optimiser votre site YMYL (Your Money or Your Life) avec notre guide SEO. Maîtrisez les signaux E-E-A-T pour renforcer la confiance et le ranking."
 keyword: "YMYL SEO"
 category: "definition"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

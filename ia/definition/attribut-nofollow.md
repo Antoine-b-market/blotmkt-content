@@ -3,6 +3,7 @@ title: "L'attribut nofollow en seo : le guide pratique pour le maîtriser en 202
 description: "Découvrez ce qu'est l'attribut nofollow, son impact sur le SEO et comment l'utiliser. Apprenez la différence avec sponsored et ugc pour une stratégie de liens efficace."
 keyword: "Attribut Nofollow"
 category: "definition"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

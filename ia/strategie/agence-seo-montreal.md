@@ -3,6 +3,7 @@ title: "Agence SEO Montréal : votre partenaire stratégique pour une croissance
 description: "Notre agence SEO à Montréal transforme votre site en un actif financier performant. Audit, stratégie et optimisation ROIste pour dominer votre marché. Parlons-en."
 keyword: "Agence SEO Montréal"
 category: "strategie"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

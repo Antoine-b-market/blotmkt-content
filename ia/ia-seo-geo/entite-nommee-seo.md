@@ -3,6 +3,7 @@ title: "Entité nommée SEO : le guide pour devenir une référence aux yeux de 
 description: "Découvrez ce qu'est une entité nommée en SEO et comment Google l'utilise pour évaluer votre autorité. Maîtrisez ce concept pour un référencement durable."
 keyword: "Entité nommée SEO"
 category: "ia-seo-geo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

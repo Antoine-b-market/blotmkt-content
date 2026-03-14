@@ -3,6 +3,7 @@ title: "Lazy loading et SEO : le guide pour accélérer votre site sans nuire au
 description: "Découvrez comment implémenter le lazy loading pour améliorer la vitesse de votre site. Apprenez les meilleures pratiques SEO pour éviter les pièges d'indexation."
 keyword: "Lazy loading SEO"
 category: "audit"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

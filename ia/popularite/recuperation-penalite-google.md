@@ -3,6 +3,7 @@ title: "Récupération pénalité Google : le guide pour nettoyer votre site et 
 description: "Votre site a été pénalisé par Google ? Découvrez notre guide expert pour identifier la pénalité (manuelle ou algorithmique) et les étapes pour la récupérer."
 keyword: "Récupération pénalité Google"
 category: "popularite"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

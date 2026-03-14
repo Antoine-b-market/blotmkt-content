@@ -3,6 +3,7 @@ title: "SEO international : le guide pour une stratégie mondiale à l'ère de l
 description: "Découvrez comment déployer une stratégie SEO international efficace. Guide sur les structures d'URL, le hreflang, le contenu localisé et l'impact de l'IA."
 keyword: "SEO international"
 category: "strategie"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

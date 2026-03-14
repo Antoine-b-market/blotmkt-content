@@ -3,6 +3,7 @@ title: "Visibilité IA : être reconnu par les algorithmes sans devenir invisibl
 description: "Découvrez la visibilité IA et le paradoxe de la conformité algorithmique. Apprenez les stratégies GEO pour exister sans sacrifier votre singularité."
 keyword: "Visibilité IA"
 category: "ia-seo-geo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

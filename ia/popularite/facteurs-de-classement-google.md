@@ -3,6 +3,7 @@ title: "Facteurs de classement google : le guide basé sur la documentation offi
 description: "Découvrez les facteurs de classement Google qui comptent vraiment. De la qualité du contenu aux signaux techniques, maîtrisez les leviers SEO essentiels."
 keyword: "Facteurs de classement Google"
 category: "popularite"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

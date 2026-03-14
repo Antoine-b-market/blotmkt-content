@@ -3,6 +3,7 @@ title: "Le salaire d'un spécialiste SEO en 2024 : guide complet (junior, senior
 description: "Découvrez le salaire d'un spécialiste SEO en France. Grille de salaires 2024 pour junior, senior, et le TJM des consultants freelance. Quel profil choisir ?"
 keyword: "Spécialiste SEO salaire"
 category: "strategie"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

@@ -3,6 +3,7 @@ title: "Quel est le salaire d'un consultant SEO en 2024 ? Comprendre les rémun�
 description: "Découvrez le salaire moyen d'un consultant SEO en 2024. Analyse des facteurs clés, comparaison freelance vs agence et ROI. Expertise pour un choix éclairé."
 keyword: "Salaire consultant SEO"
 category: "strategie"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

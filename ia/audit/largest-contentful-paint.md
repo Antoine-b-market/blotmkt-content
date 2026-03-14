@@ -3,6 +3,7 @@ title: "Largest Contentful Paint (LCP) : le guide complet pour optimiser la vite
 description: "Découvrez ce qu'est le Largest Contentful Paint (LCP), pourquoi il est crucial pour votre SEO et comment l'optimiser pour un meilleur score Core Web Vitals."
 keyword: "Largest Contentful Paint"
 category: "audit"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

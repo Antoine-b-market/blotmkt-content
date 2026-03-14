@@ -40,73 +40,80 @@
     .related li{margin-bottom:8px}
     footer{margin-top:48px;padding-top:16px;border-top:1px solid #eee;font-size:0.78rem;color:#aaa}
   </style>
-  <script type="application/ld+json">{
+  <script type="application/ld+json">
+{
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
+      "@type": "TechArticle",
+      "@id": "https://blotmkt.com/ia/audit/interaction-to-next-paint.html#article",
       "headline": "Interaction to next paint (inp) : le guide complet pour une réactivité web optimale",
       "description": "Découvrez ce qu'est l'Interaction to Next Paint (INP), son rôle crucial pour le SEO et comment optimiser cette métrique Core Web Vitals. Guide pratique.",
-      "url": "https://blotmkt.com/ia/audit/interaction-to-next-paint",
+      "url": "https://blotmkt.com/ia/audit/interaction-to-next-paint.html",
+      "inLanguage": "fr-CA",
       "datePublished": "2026-03-09 06:07",
       "dateModified": "2026-03-09 06:07",
       "author": {
-        "@type": "Person",
-        "name": "Antoine Blot",
-        "url": "https://antoine-blot.com",
-        "sameAs": [
-          "https://www.linkedin.com/in/blotantoine/",
-          "https://github.com/Antoine-b-market",
-          "https://orcid.org/0009-0005-6450-4528"
-        ]
+        "@id": "https://blotmkt.com/ia/a-propos.html#person"
       },
       "publisher": {
-        "@type": "Organization",
-        "name": "BlotMKT",
-        "url": "https://blotmkt.com"
+        "@id": "https://blotmkt.com/#organization"
       },
-      "inLanguage": "fr-FR",
-      "keywords": "Core Web Vitals, First Input Delay, performance web, réactivité site web, Optimisation JavaScript, expérience utilisateur"
+      "articleSection": "Audit",
+      "keywords": "Interaction to Next Paint, Core Web Vitals, First Input Delay, performance web, réactivité site web, optimisation JavaScript, expérience utilisateur",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://blotmkt.com/ia/audit/interaction-to-next-paint.html"
+      }
     },
     {
-      "@type": "FAQPage",
-      "mainEntity": [
+      "@type": "BreadcrumbList",
+      "@id": "https://blotmkt.com/ia/audit/interaction-to-next-paint.html#breadcrumb",
+      "itemListElement": [
         {
-          "@type": "Question",
-          "name": "Qu'est-ce que l'Interaction to Next Paint (INP) et pourquoi remplace-t-il le FID ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "L'INP est une métrique Core Web Vitals plus complète qui mesure toutes les interactions durant la visite d'une page et capture l'intégralité du cycle de vie de l'interaction, contrairement au FID qui ne mesurait que la première interaction et ignorait le temps de traitement."
-          }
+          "@type": "ListItem",
+          "position": 1,
+          "name": "BlotMKT",
+          "item": "https://blotmkt.com/ia/"
         },
         {
-          "@type": "Question",
-          "name": "Comment mesurer et identifier les causes d'un mauvais score INP ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Utilisez les données CrUX dans Google Search Console ou PageSpeed Insights pour les données de terrain, puis Chrome DevTools Performance pour identifier les interactions problématiques et les Long Tasks qui bloquent le thread principal."
-          }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Audit",
+          "item": "https://blotmkt.com/ia/Audit/"
         },
         {
-          "@type": "Question",
-          "name": "Quelles sont les techniques principales pour optimiser l'INP ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Fractionnez les tâches JavaScript longues avec setTimeout, optimisez les gestionnaires d'événements, réduisez la complexité du DOM et utilisez le code splitting pour différer les scripts non critiques."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Comment l'UX peut-elle améliorer la perception de l'INP ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Utilisez un feedback visuel immédiat, intégrez des animations ludiques pendant les temps de traitement et employez des notifications non-interruptives pour transformer l'attente frustrante en expérience gérée et plaisante."
-          }
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Interaction to next paint (inp) : le guide complet pour une réactivité web optimale",
+          "item": "https://blotmkt.com/ia/audit/interaction-to-next-paint.html"
         }
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://blotmkt.com/ia/a-propos.html#person",
+      "name": "Antoine Blot",
+      "jobTitle": "Consultant SEO et GEO",
+      "url": "https://blotmkt.com/ia/a-propos.html",
+      "sameAs": [
+        "https://www.antoine-blot.com",
+        "https://www.linkedin.com/in/blotantoine/",
+        "https://orcid.org/0009-0005-6450-4528"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://blotmkt.com/#organization",
+      "name": "BlotMKT",
+      "url": "https://blotmkt.com/",
+      "founder": {
+        "@id": "https://blotmkt.com/ia/a-propos.html#person"
+      }
     }
   ]
-}</script>
+}
+</script>
 </head>
 <body>
   <article>

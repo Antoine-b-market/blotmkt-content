@@ -3,6 +3,7 @@ title: "Le contenu SEO au Québec : une approche optimisée pour Google et les r
 description: "Découvrez comment notre approche du contenu SEO au Québec structure vos actifs pour dominer les résultats de recherche et être cité par les IA. Service expert."
 keyword: "Contenu SEO Québec"
 category: "contenu"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

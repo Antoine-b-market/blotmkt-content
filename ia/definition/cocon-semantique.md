@@ -3,6 +3,7 @@ title: "Cocon sémantique : le guide pour structurer votre site et améliorer vo
 description: "Découvrez ce qu'est un cocon sémantique et comment cette stratégie SEO avancée peut booster votre trafic. Guide complet : définition, étapes et exemples."
 keyword: "Cocon sémantique"
 category: "definition"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

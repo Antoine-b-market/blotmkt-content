@@ -3,6 +3,7 @@ title: "Réponses IA Google : le guide pour adapter votre SEO à la SGE et aux A
 description: "Découvrez ce que sont les réponses IA de Google (SGE) et comment elles impactent votre SEO. Apprenez à optimiser votre contenu pour rester visible."
 keyword: "Réponses IA Google"
 category: "ia-seo-geo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

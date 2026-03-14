@@ -3,6 +3,7 @@ title: "Audit SEO à Montréal : l'analyse experte pour dominer les résultats l
 description: "Besoin d'un audit SEO à Montréal ? Découvrez notre analyse complète (technique, contenu, backlinks) pour améliorer votre classement et attirer plus de clients."
 keyword: "Audit SEO Montréal"
 category: "audit"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

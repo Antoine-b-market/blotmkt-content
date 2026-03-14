@@ -3,6 +3,7 @@ title: "Optimiser votre fiche établissement google pour une visibilité locale 
 description: "Découvrez comment créer, gérer et optimiser votre fiche établissement google pour attirer plus de clients locaux. Guide complet pour booster votre SEO local."
 keyword: "Fiche établissement Google"
 category: "local-seo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"
@@ -266,6 +267,8 @@ Dans votre interface Google Business Profile, accédez à la section "Produits" 
 ---
 
 ---
+
+FAQ_JSON-->
 
 ## Articles connexes
 

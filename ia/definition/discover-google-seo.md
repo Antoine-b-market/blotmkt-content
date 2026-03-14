@@ -3,6 +3,7 @@ title: "Le SEO pour Google Discover : stratégies pour le flux d'actualités san
 description: "Découvrez comment optimiser votre contenu pour Google Discover. Apprenez les tactiques SEO essentielles pour augmenter votre visibilité et générer du trafic."
 keyword: "Discover Google SEO"
 category: "definition"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

@@ -40,65 +40,80 @@
     .related li{margin-bottom:8px}
     footer{margin-top:48px;padding-top:16px;border-top:1px solid #eee;font-size:0.78rem;color:#aaa}
   </style>
-  <script type="application/ld+json">{
+  <script type="application/ld+json">
+{
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
+      "@type": "TechArticle",
+      "@id": "https://blotmkt.com/ia/audit/analyse-de-logs-seo.html#article",
       "headline": "Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl",
       "description": "Découvrez comment l'analyse de logs SEO vous aide à comprendre le passage des robots Google et à prioriser vos optimisations techniques. Optimisez votre crawl.",
-      "url": "https://blotmkt.com/ia/audit/analyse-de-logs-seo",
+      "url": "https://blotmkt.com/ia/audit/analyse-de-logs-seo.html",
+      "inLanguage": "fr-CA",
       "datePublished": "2026-03-09 06:12",
       "dateModified": "2026-03-09 06:12",
       "author": {
-        "@type": "Person",
-        "name": "Antoine Blot",
-        "url": "https://antoine-blot.com",
-        "sameAs": [
-          "https://www.linkedin.com/in/blotantoine/",
-          "https://github.com/Antoine-b-market",
-          "https://orcid.org/0009-0005-6450-4528"
-        ]
+        "@id": "https://blotmkt.com/ia/a-propos.html#person"
       },
       "publisher": {
-        "@type": "Organization",
-        "name": "BlotMKT",
-        "url": "https://blotmkt.com"
+        "@id": "https://blotmkt.com/#organization"
       },
-      "inLanguage": "fr-FR",
-      "keywords": "budget de crawl, fichiers logs serveur, Googlebot, Screaming Frog Log File Analyser, Audit technique SEO, codes de statut HTTP, crawl SEO"
+      "articleSection": "Audit",
+      "keywords": "Analyse de logs SEO, budget de crawl, fichiers logs serveur, Googlebot, Screaming Frog Log File Analyser, audit technique SEO, codes de statut HTTP, crawl SEO",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://blotmkt.com/ia/audit/analyse-de-logs-seo.html"
+      }
     },
     {
-      "@type": "FAQPage",
-      "mainEntity": [
+      "@type": "BreadcrumbList",
+      "@id": "https://blotmkt.com/ia/audit/analyse-de-logs-seo.html#breadcrumb",
+      "itemListElement": [
         {
-          "@type": "Question",
-          "name": "Comment accéder aux logs de son serveur web ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "L'accès aux logs nécessite des droits d'administrateur serveur ou l'aide de votre équipe technique. Les fichiers de logs sont stockés automatiquement par votre hébergeur et accessibles aux équipes techniques pendant une période définie."
-          }
+          "@type": "ListItem",
+          "position": 1,
+          "name": "BlotMKT",
+          "item": "https://blotmkt.com/ia/"
         },
         {
-          "@type": "Question",
-          "name": "Pourquoi Google ne crawl pas toutes les pages de mon site ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Le budget de crawl de Google est limité et priorisé selon l'importance des pages. Si votre site compte plus de pages que votre budget alloué, certaines ne seront pas indexées, limitant leur visibilité dans les résultats de recherche."
-          }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Audit",
+          "item": "https://blotmkt.com/ia/Audit/"
         },
         {
-          "@type": "Question",
-          "name": "Quel est le meilleur outil d'analyse de logs SEO ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Screaming Frog Log File Analyser est la référence avec une version gratuite (1000 événements) et payante (99£/an). Pour les sites enterprise, Botify et Oncrawl Offrent un suivi continu plus avancé."
-          }
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl",
+          "item": "https://blotmkt.com/ia/audit/analyse-de-logs-seo.html"
         }
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://blotmkt.com/ia/a-propos.html#person",
+      "name": "Antoine Blot",
+      "jobTitle": "Consultant SEO et GEO",
+      "url": "https://blotmkt.com/ia/a-propos.html",
+      "sameAs": [
+        "https://www.antoine-blot.com",
+        "https://www.linkedin.com/in/blotantoine/",
+        "https://orcid.org/0009-0005-6450-4528"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://blotmkt.com/#organization",
+      "name": "BlotMKT",
+      "url": "https://blotmkt.com/",
+      "founder": {
+        "@id": "https://blotmkt.com/ia/a-propos.html#person"
+      }
     }
   ]
-}</script>
+}
+</script>
 </head>
 <body>
   <article>

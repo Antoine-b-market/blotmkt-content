@@ -3,6 +3,7 @@ title: "Personal branding SEO : comment construire votre autorité pour Google e
 description: "Apprenez à maîtriser le Personal branding SEO. Bâtissez une marque personnelle forte, reconnue par Google et citée par l'IA. Devenez une autorité."
 keyword: "Personal branding SEO"
 category: "strategie"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

@@ -3,6 +3,7 @@ title: "L'intention navigationnelle : le signal client à intégrer dans votre t
 description: "Découvrez ce qu'est l'intention navigationnelle en SEO et comment son analyse, couplée à l'IA, peut révéler des insights sur le parcours client omnicanal."
 keyword: "Intention navigationnelle"
 category: "definition"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

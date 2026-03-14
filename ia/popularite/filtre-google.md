@@ -3,6 +3,7 @@ title: "Filtre Google : identifier et corriger une pénalité SEO pour retrouver
 description: "Votre trafic SEO a chuté ? Découvrez ce qu'est un filtre Google, la différence avec une pénalité manuelle et comment utiliser la Search Console pour le corriger."
 keyword: "Filtre Google"
 category: "popularite"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

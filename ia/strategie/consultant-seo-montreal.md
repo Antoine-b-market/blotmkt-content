@@ -3,6 +3,7 @@ title: "Consultant SEO Montréal : transformez votre site en un actif de croissa
 description: "Besoin d'un consultant SEO à Montréal ? Découvrez comment mon expertise stratégique transforme votre visibilité en un véritable actif financier pour votre entreprise."
 keyword: "Consultant SEO Montréal"
 category: "strategie"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

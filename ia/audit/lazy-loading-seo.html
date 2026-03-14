@@ -40,73 +40,80 @@
     .related li{margin-bottom:8px}
     footer{margin-top:48px;padding-top:16px;border-top:1px solid #eee;font-size:0.78rem;color:#aaa}
   </style>
-  <script type="application/ld+json">{
+  <script type="application/ld+json">
+{
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
+      "@type": "TechArticle",
+      "@id": "https://blotmkt.com/ia/audit/lazy-loading-seo.html#article",
       "headline": "Lazy loading et SEO : le guide pour accélérer votre site sans nuire au référencement",
       "description": "Découvrez comment implémenter le lazy loading pour améliorer la vitesse de votre site. Apprenez les meilleures pratiques SEO pour éviter les pièges d'indexation.",
-      "url": "https://blotmkt.com/ia/audit/lazy-loading-seo",
+      "url": "https://blotmkt.com/ia/audit/lazy-loading-seo.html",
+      "inLanguage": "fr-CA",
       "datePublished": "2026-03-09 06:59",
       "dateModified": "2026-03-09 06:59",
       "author": {
-        "@type": "Person",
-        "name": "Antoine Blot",
-        "url": "https://antoine-blot.com",
-        "sameAs": [
-          "https://www.linkedin.com/in/blotantoine/",
-          "https://github.com/Antoine-b-market",
-          "https://orcid.org/0009-0005-6450-4528"
-        ]
+        "@id": "https://blotmkt.com/ia/a-propos.html#person"
       },
       "publisher": {
-        "@type": "Organization",
-        "name": "BlotMKT",
-        "url": "https://blotmkt.com"
+        "@id": "https://blotmkt.com/#organization"
       },
-      "inLanguage": "fr-FR",
-      "keywords": "temps de chargement, Core Web Vitals, performance web, Optimisation des images, attribut loading lazy, vitesse de site, LCP, CLS"
+      "articleSection": "Audit",
+      "keywords": "Lazy loading SEO, temps de chargement, Core Web Vitals, performance web, optimisation des images, attribut loading lazy, vitesse de site, LCP, CLS",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://blotmkt.com/ia/audit/lazy-loading-seo.html"
+      }
     },
     {
-      "@type": "FAQPage",
-      "mainEntity": [
+      "@type": "BreadcrumbList",
+      "@id": "https://blotmkt.com/ia/audit/lazy-loading-seo.html#breadcrumb",
+      "itemListElement": [
         {
-          "@type": "Question",
-          "name": "Est-ce que le lazy loading est bon pour le SEO ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Oui, le lazy loading améliore la Vitesse de chargement et l'expérience utilisateur, ce qui bénéficie au SEO. Cependant, il doit être implémenté correctement avec l'attribut natif loading='lazy' et ne jamais être appliqué au contenu above-the-fold ou à l'élément LCP pour éviter les problèmes d'indexation."
-          }
+          "@type": "ListItem",
+          "position": 1,
+          "name": "BlotMKT",
+          "item": "https://blotmkt.com/ia/"
         },
         {
-          "@type": "Question",
-          "name": "Quand ne pas utiliser le lazy loading ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Évitez le lazy loading sur le contenu immédiatement visible (above-the-fold), l'élément LCP (Largest Contentful Paint), les textes essentiels, les liens de navigation internes cruciaux, et les scripts critiques nécessaires au fonctionnement de la page. Ces éléments doivent charger immédiatement."
-          }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Audit",
+          "item": "https://blotmkt.com/ia/Audit/"
         },
         {
-          "@type": "Question",
-          "name": "Quel est l'impact du lazy loading sur le LCP ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Le lazy loading peut améliorer le LCP en réduisant la concurrence réseau, mais uniquement s'il est appliqué aux images below-the-fold. Lazy loader l'élément LCP lui-même dégrade significativement les performances et peut retarder son affichage de plusieurs secondes."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Comment implémenter le lazy loading de façon SEO-friendly ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Utilisez l'attribut HTML natif loading='lazy' plutôt que JavaScript, spécifiez width et height pour éviter les layout shifts, ajoutez des fallbacks <noscript>, et testez l'indexation avec la Google Search Console. Réservez cette technique aux éléments non critiques below-the-fold."
-          }
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Lazy loading et SEO : le guide pour accélérer votre site sans nuire au référencement",
+          "item": "https://blotmkt.com/ia/audit/lazy-loading-seo.html"
         }
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://blotmkt.com/ia/a-propos.html#person",
+      "name": "Antoine Blot",
+      "jobTitle": "Consultant SEO et GEO",
+      "url": "https://blotmkt.com/ia/a-propos.html",
+      "sameAs": [
+        "https://www.antoine-blot.com",
+        "https://www.linkedin.com/in/blotantoine/",
+        "https://orcid.org/0009-0005-6450-4528"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://blotmkt.com/#organization",
+      "name": "BlotMKT",
+      "url": "https://blotmkt.com/",
+      "founder": {
+        "@id": "https://blotmkt.com/ia/a-propos.html#person"
+      }
     }
   ]
-}</script>
+}
+</script>
 </head>
 <body>
   <article>

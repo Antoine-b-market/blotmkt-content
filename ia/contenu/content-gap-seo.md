@@ -3,6 +3,7 @@ title: "Analyse de content gap en SEO : la méthode pour identifier et combler v
 description: "Découvrez comment une analyse de content gap SEO révèle les sujets que vos concurrents couvrent et pas vous. Transformez ces lacunes en opportunités de trafic."
 keyword: "Content gap SEO"
 category: "contenu"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

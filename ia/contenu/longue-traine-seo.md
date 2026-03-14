@@ -3,6 +3,7 @@ title: "La longue traîne en SEO : le guide pour attirer un trafic ultra qualifi
 description: "Découvrez comment la stratégie de longue traîne SEO capture un trafic à haute intention d'achat et booste vos conversions. Guide pratique et outils."
 keyword: "Longue traîne SEO"
 category: "contenu"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

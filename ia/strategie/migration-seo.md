@@ -3,6 +3,7 @@ title: "Migration SEO : la méthode complète pour une refonte de site sans pert
 description: "Découvrez notre guide complet sur la migration SEO. Suivez notre checklist étape par étape pour réussir la refonte de votre site sans impacter votre trafic."
 keyword: "Migration SEO"
 category: "strategie"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

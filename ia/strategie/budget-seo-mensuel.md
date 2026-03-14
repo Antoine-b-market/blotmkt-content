@@ -3,6 +3,7 @@ title: "Budget SEO mensuel : le guide pour un investissement qui maximise votre 
 description: "Découvrez comment définir votre budget SEO mensuel pour un retour sur investissement maximal. Notre guide lie votre budget aux performances techniques du site."
 keyword: "Budget SEO mensuel"
 category: "strategie"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

@@ -3,6 +3,7 @@ title: "SEO pour Google Business Profile : le guide complet pour dominer la rech
 description: "Optimisez votre fiche Google Business Profile (ex-GMB) pour le SEO local. Suivez notre guide pratique pour améliorer votre classement et performer dans les AI Overviews."
 keyword: "Google My Business SEO"
 category: "local-seo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

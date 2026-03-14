@@ -40,73 +40,80 @@
     .related li{margin-bottom:8px}
     footer{margin-top:48px;padding-top:16px;border-top:1px solid #eee;font-size:0.78rem;color:#aaa}
   </style>
-  <script type="application/ld+json">{
+  <script type="application/ld+json">
+{
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
+      "@type": "TechArticle",
+      "@id": "https://blotmkt.com/ia/contenu/internal-linking.html#article",
       "headline": "Internal linking : le guide pour un maillage interne seo parfait",
       "description": "Découvrez comment l'internal linking optimise votre SEO. Maîtrisez le maillage interne pour améliorer votre PageRank, votre indexation et votre budget de crawl.",
-      "url": "https://blotmkt.com/ia/contenu/internal-linking",
+      "url": "https://blotmkt.com/ia/contenu/internal-linking.html",
+      "inLanguage": "fr-CA",
       "datePublished": "2026-03-09 07:40",
       "dateModified": "2026-03-09 07:40",
       "author": {
-        "@type": "Person",
-        "name": "Antoine Blot",
-        "url": "https://antoine-blot.com",
-        "sameAs": [
-          "https://www.linkedin.com/in/blotantoine/",
-          "https://github.com/Antoine-b-market",
-          "https://orcid.org/0009-0005-6450-4528"
-        ]
+        "@id": "https://blotmkt.com/ia/a-propos.html#person"
       },
       "publisher": {
-        "@type": "Organization",
-        "name": "BlotMKT",
-        "url": "https://blotmkt.com"
+        "@id": "https://blotmkt.com/#organization"
       },
-      "inLanguage": "fr-FR",
-      "keywords": "maillage interne, cocon sémantique, Ancre de texte, budget de crawl, jus de lien, topic cluster"
+      "articleSection": "Contenu",
+      "keywords": "Internal linking, maillage interne, cocon sémantique, ancre de texte, budget de crawl, jus de lien, topic cluster",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://blotmkt.com/ia/contenu/internal-linking.html"
+      }
     },
     {
-      "@type": "FAQPage",
-      "mainEntity": [
+      "@type": "BreadcrumbList",
+      "@id": "https://blotmkt.com/ia/contenu/internal-linking.html#breadcrumb",
+      "itemListElement": [
         {
-          "@type": "Question",
-          "name": "Comment optimiser les ancres de liens internes ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "L'ancre de texte doit signaler clairement le Contenu de la page liée, en utilisant des phrases descriptives de 2-5 mots plutôt que des termes vagues. Privilégiez un langage naturel et conversationnel, surtout avec l'essor de la recherche vocale."
-          }
+          "@type": "ListItem",
+          "position": 1,
+          "name": "BlotMKT",
+          "item": "https://blotmkt.com/ia/"
         },
         {
-          "@type": "Question",
-          "name": "Combien de liens internes par page sont recommandés ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "51% des marketeurs estiment qu'un article de blog devrait inclure au moins 2 liens internes. Les pages ne devraient pas dépasser 100 liens totaux, avec 40-50 liens internes maximum, mais moins de 5-10 liens semble trop sparse d'un point de vue SEO."
-          }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Contenu",
+          "item": "https://blotmkt.com/ia/Contenu/"
         },
         {
-          "@type": "Question",
-          "name": "Quelle est la différence entre un lien interne et un lien externe ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Un lien interne connecte deux pages du même domaine, facilitant la navigation et distribuant l'autorité SEO. Un lien externe pointe vers un autre domaine, améliorant la crédibilité en citant des sources fiables mais faisant sortir l'utilisateur du site."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Comment trouver les liens internes cassés d'un site ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Utilisez Google Search Console pour identifier les erreurs 404, ou des outils de crawl comme Screaming Frog et Semrush. Analysez vos URL via Search Console et créez des redirections vers des pages équivalentes pour corriger les liens cassés."
-          }
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Internal linking : le guide pour un maillage interne seo parfait",
+          "item": "https://blotmkt.com/ia/contenu/internal-linking.html"
         }
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://blotmkt.com/ia/a-propos.html#person",
+      "name": "Antoine Blot",
+      "jobTitle": "Consultant SEO et GEO",
+      "url": "https://blotmkt.com/ia/a-propos.html",
+      "sameAs": [
+        "https://www.antoine-blot.com",
+        "https://www.linkedin.com/in/blotantoine/",
+        "https://orcid.org/0009-0005-6450-4528"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://blotmkt.com/#organization",
+      "name": "BlotMKT",
+      "url": "https://blotmkt.com/",
+      "founder": {
+        "@id": "https://blotmkt.com/ia/a-propos.html#person"
+      }
     }
   ]
-}</script>
+}
+</script>
 </head>
 <body>
   <article>

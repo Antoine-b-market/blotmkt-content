@@ -3,6 +3,7 @@ title: "Coût d'acquisition SEO : calcul, benchmarks et stratégies pour le réd
 description: "Découvrez comment calculer votre coût d'acquisition SEO. Comparez-le aux benchmarks du secteur et appliquez nos stratégies pour réduire vos dépenses et maximiser votre ROI."
 keyword: "Coût acquisition SEO"
 category: "strategie"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

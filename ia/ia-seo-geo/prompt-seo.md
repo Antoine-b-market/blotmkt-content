@@ -3,6 +3,7 @@ title: "Le prompt SEO : votre guide pour une visibilité accrue en ligne et sur 
 description: "Découvrez le prompt SEO, une stratégie clé pour optimiser votre contenu pour les moteurs traditionnels et être cité par les IA. Maîtrisez l'optimisation générative."
 keyword: "Prompt SEO"
 category: "ia-seo-geo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

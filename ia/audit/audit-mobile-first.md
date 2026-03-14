@@ -3,6 +3,7 @@ title: "Audit mobile-first : la méthode complète pour garantir votre visibilit
 description: "Découvrez comment réaliser un audit mobile-first complet. Analysez l'UX, la vitesse et le contenu pour dominer les SERPs de Google. Guide pratique."
 keyword: "Audit mobile-first"
 category: "audit"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

@@ -3,6 +3,7 @@ title: "Vitesse de chargement : le guide pour accélérer votre site et booster 
 description: "Découvrez pourquoi la vitesse de chargement est cruciale pour votre SEO et vos conversions. Apprenez à optimiser votre site pour une expérience parfaite."
 keyword: "Vitesse de chargement"
 category: "audit"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

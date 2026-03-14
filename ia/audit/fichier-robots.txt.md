@@ -3,6 +3,7 @@ title: "Fichier robots.txt : le guide pour maîtriser l'exploration de votre sit
 description: "Découvrez ce qu'est un fichier robots.txt, sa différence cruciale avec noindex et comment le configurer pour optimiser votre budget de crawl et votre SEO."
 keyword: "Fichier Robots.txt"
 category: "audit"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

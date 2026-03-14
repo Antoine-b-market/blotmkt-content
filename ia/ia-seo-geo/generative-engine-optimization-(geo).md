@@ -3,6 +3,7 @@ title: "Generative Engine Optimization (GEO) : le guide complet pour l'ère de l
 description: "Découvrez le Generative Engine Optimization (GEO), la nouvelle discipline SEO. Apprenez à optimiser votre contenu pour être cité par les IA et rester visible."
 keyword: "Generative Engine Optimization (GEO)"
 category: "ia-seo-geo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

@@ -3,6 +3,7 @@ title: "Interaction to next paint (inp) : le guide complet pour une réactivité
 description: "Découvrez ce qu'est l'Interaction to Next Paint (INP), son rôle crucial pour le SEO et comment optimiser cette métrique Core Web Vitals. Guide pratique."
 keyword: "Interaction to Next Paint"
 category: "audit"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

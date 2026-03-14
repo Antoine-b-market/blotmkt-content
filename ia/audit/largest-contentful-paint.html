@@ -40,73 +40,80 @@
     .related li{margin-bottom:8px}
     footer{margin-top:48px;padding-top:16px;border-top:1px solid #eee;font-size:0.78rem;color:#aaa}
   </style>
-  <script type="application/ld+json">{
+  <script type="application/ld+json">
+{
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
+      "@type": "TechArticle",
+      "@id": "https://blotmkt.com/ia/audit/largest-contentful-paint.html#article",
       "headline": "Largest Contentful Paint (LCP) : le guide complet pour optimiser la vitesse de votre site",
       "description": "Découvrez ce qu'est le Largest Contentful Paint (LCP), pourquoi il est crucial pour votre SEO et comment l'optimiser pour un meilleur score Core Web Vitals.",
-      "url": "https://blotmkt.com/ia/audit/largest-contentful-paint",
+      "url": "https://blotmkt.com/ia/audit/largest-contentful-paint.html",
+      "inLanguage": "fr-CA",
       "datePublished": "2026-03-09 06:00",
       "dateModified": "2026-03-09 06:00",
       "author": {
-        "@type": "Person",
-        "name": "Antoine Blot",
-        "url": "https://antoine-blot.com",
-        "sameAs": [
-          "https://www.linkedin.com/in/blotantoine/",
-          "https://github.com/Antoine-b-market",
-          "https://orcid.org/0009-0005-6450-4528"
-        ]
+        "@id": "https://blotmkt.com/ia/a-propos.html#person"
       },
       "publisher": {
-        "@type": "Organization",
-        "name": "BlotMKT",
-        "url": "https://blotmkt.com"
+        "@id": "https://blotmkt.com/#organization"
       },
-      "inLanguage": "fr-FR",
-      "keywords": "Core Web Vitals, Optimisation vitesse site, temps de réponse serveur, PageSpeed Insights"
+      "articleSection": "Audit",
+      "keywords": "Largest Contentful Paint, Core Web Vitals, optimisation vitesse site, temps de réponse serveur, PageSpeed Insights",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://blotmkt.com/ia/audit/largest-contentful-paint.html"
+      }
     },
     {
-      "@type": "FAQPage",
-      "mainEntity": [
+      "@type": "BreadcrumbList",
+      "@id": "https://blotmkt.com/ia/audit/largest-contentful-paint.html#breadcrumb",
+      "itemListElement": [
         {
-          "@type": "Question",
-          "name": "Qu'est-ce qu'un bon score LCP ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Un bon score LCP est de 2,5 secondes ou moins. Les scores entre 2,5 et 4 secondes nécessitent une amélioration, et tout dépassement de 4 secondes est considéré comme insuffisant selon les standards Google Core Web Vitals."
-          }
+          "@type": "ListItem",
+          "position": 1,
+          "name": "BlotMKT",
+          "item": "https://blotmkt.com/ia/"
         },
         {
-          "@type": "Question",
-          "name": "Comment corriger l'erreur 'L'élément LCP est une image chargée tardivement' ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Cette erreur indique un lazy loading appliqué à l'image LCP. Supprimez l'attribut loading='lazy' de cette image, ajoutez fetchpriority='high' pour la prioriser, et utilisez une Balise preload dans le head pour accélérer son chargement."
-          }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Audit",
+          "item": "https://blotmkt.com/ia/Audit/"
         },
         {
-          "@type": "Question",
-          "name": "Quelle) est la différence entre le LCP et le FCP ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Le First Contentful Paint (FCP) mesure l'apparition du premier élément visuel, tandis que le Largest Contentful Paint (LCP) se concentre sur le plus grand élément de contenu. Le LCP reflète mieux l'expérience utilisateur perçue car il indique quand le contenu principal est chargé."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Pourquoi le LCP impacte-t-il les conversions ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Un LCP lent frustra les utilisateurs qui quittent avant de voir le Contenu principal. Les études montrent qu'un LCP de 2 secondes vs 5 secondes peut doubler le taux de conversion, car les utilisateurs perçoivent le site comme plus rapide et professionnel."
-          }
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Largest Contentful Paint (LCP) : le guide complet pour optimiser la vitesse de votre site",
+          "item": "https://blotmkt.com/ia/audit/largest-contentful-paint.html"
         }
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://blotmkt.com/ia/a-propos.html#person",
+      "name": "Antoine Blot",
+      "jobTitle": "Consultant SEO et GEO",
+      "url": "https://blotmkt.com/ia/a-propos.html",
+      "sameAs": [
+        "https://www.antoine-blot.com",
+        "https://www.linkedin.com/in/blotantoine/",
+        "https://orcid.org/0009-0005-6450-4528"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://blotmkt.com/#organization",
+      "name": "BlotMKT",
+      "url": "https://blotmkt.com/",
+      "founder": {
+        "@id": "https://blotmkt.com/ia/a-propos.html#person"
+      }
     }
   ]
-}</script>
+}
+</script>
 </head>
 <body>
   <article>

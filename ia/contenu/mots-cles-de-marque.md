@@ -3,6 +3,7 @@ title: "Mots-clés de marque : le guide stratégique pour protéger et monétise
 description: "Découvrez ce que sont les mots-clés de marque, pourquoi ils sont vitaux pour votre SEO et SEA, et comment les transformer en un avantage concurrentiel."
 keyword: "Mots-clés de marque"
 category: "contenu"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

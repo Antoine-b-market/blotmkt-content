@@ -3,6 +3,7 @@ title: "Optimisation llm (llmo) : le guide pratique pour adapter votre seo à l'
 description: "Découvrez l'optimisation LLM (LLMO), la nouvelle discipline du SEO. Apprenez les stratégies concrètes pour positionner votre contenu dans les AI Overviews."
 keyword: "LLM Optimization"
 category: "ia-seo-geo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

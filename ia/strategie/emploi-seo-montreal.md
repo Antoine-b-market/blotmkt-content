@@ -3,6 +3,7 @@ title: "Le marché de l'emploi SEO à Montréal : guide des rôles, salaires et 
 description: "Explorez le marché de l'emploi SEO à Montréal. Notre guide complet sur les postes, les salaires et les compétences clés pour recruter ou être recruté."
 keyword: "Emploi SEO Montréal"
 category: "strategie"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

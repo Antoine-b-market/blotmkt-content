@@ -3,6 +3,7 @@ title: "PageRank Google : comprendre l'algorithme historique et son rôle actuel
 description: "Plongez dans l'histoire et le fonctionnement du PageRank de Google. Découvrez son impact fondateur et sa pertinence comme signal de classement SEO en 2024."
 keyword: "PageRank Google"
 category: "definition"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

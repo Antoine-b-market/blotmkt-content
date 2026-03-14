@@ -3,6 +3,7 @@ title: "Pénalité Google : le guide pour la détecter, la comprendre et la corr
 description: "Votre trafic SEO a chuté ? Découvrez la différence entre une pénalité manuelle et un impact algorithmique, et comment utiliser la Search Console pour la corriger."
 keyword: "Pénalité Google"
 category: "popularite"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

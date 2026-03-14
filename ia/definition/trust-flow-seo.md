@@ -3,6 +3,7 @@ title: "Trust flow SEO : le guide pour aligner votre métrique avec l'E-E-A-T de
 description: "Découvrez comment le Trust Flow de Majestic est un indicateur clé pour le Trust de l'E-E-A-T. Apprenez à l'améliorer pour renforcer la confiance de Google."
 keyword: "Trust Flow SEO"
 category: "definition"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

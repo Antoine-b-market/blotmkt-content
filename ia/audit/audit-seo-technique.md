@@ -3,6 +3,7 @@ title: "Audit SEO technique : le guide pour identifier les freins et optimiser v
 description: "Découvrez comment un audit SEO technique complet révèle les freins à votre croissance. Analysez indexation, crawl et performance pour un meilleur classement."
 keyword: "Audit SEO technique"
 category: "audit"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

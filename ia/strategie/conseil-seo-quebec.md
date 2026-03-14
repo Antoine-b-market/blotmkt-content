@@ -3,6 +3,7 @@ title: "Conseil SEO Québec : optimisez votre visibilité pour les moteurs et le
 description: "Expert en conseil SEO au Québec, nous structurons vos actifs numériques pour une visibilité optimale sur Google et les IA. Découvrez notre approche personnalisée et innovante."
 keyword: "Conseil SEO Québec"
 category: "strategie"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

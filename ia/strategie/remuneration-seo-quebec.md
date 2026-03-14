@@ -3,6 +3,7 @@ title: "Rémunération SEO au Québec : salaires, tarifs et investissement renta
 description: "Rémunération SEO au Québec : salaires experts, tarifs agences et ROI. Guide pour professionnels et entreprises québécoises. Optimisez votre investissement SEO."
 keyword: "Rémunération SEO Québec"
 category: "strategie"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

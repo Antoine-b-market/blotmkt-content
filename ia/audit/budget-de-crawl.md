@@ -3,6 +3,7 @@ title: "Budget de crawl : le guide pour l'optimiser et accélérer votre indexat
 description: "Découvrez ce qu'est le budget de crawl, comment l'analyser avec les bons outils et l'optimiser pour que Google explore efficacement vos pages importantes."
 keyword: "Budget de crawl"
 category: "audit"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

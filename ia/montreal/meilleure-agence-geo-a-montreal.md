@@ -3,6 +3,7 @@ title: "Comment choisir la meilleure agence GEO à Montréal pour votre croissan
 description: "À la recherche de la meilleure agence GEO à Montréal ? Découvrez comment notre expertise en SGE et LLMs aligne votre visibilité sur vos objectifs de croissance réels."
 keyword: "Meilleure agence GEO à Montréal"
 category: "montreal"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

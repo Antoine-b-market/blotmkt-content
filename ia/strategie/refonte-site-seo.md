@@ -3,6 +3,7 @@ title: "Refonte site SEO : le guide pour moderniser votre site sans perdre votre
 description: "Découvrez notre méthodologie de refonte de site SEO. Préservez votre trafic, améliorez l'UX et maximisez votre ROI. Le guide complet pour une migration réussie."
 keyword: "Refonte site SEO"
 category: "strategie"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

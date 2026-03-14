@@ -3,6 +3,7 @@ title: "Mots-clés transactionnels : le guide pour cibler l'intention d'achat av
 description: "Découvrez ce qu'est un mot-clé transactionnel et comment l'utiliser pour booster vos ventes. Apprenez à les trouver grâce à l'IA pour un SEO ultra-ciblé."
 keyword: "Mots-clés transactionnels"
 category: "contenu"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

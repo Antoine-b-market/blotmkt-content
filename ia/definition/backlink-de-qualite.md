@@ -3,6 +3,7 @@ title: "Backlink de qualité : le guide pour acquérir des liens qui renforcent 
 description: "Découvrez ce qu'est un backlink de qualité, comment l'obtenir via des stratégies efficaces et son impact réel sur votre SEO. Boostez votre autorité en 2024."
 keyword: "Backlink de qualité"
 category: "definition"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

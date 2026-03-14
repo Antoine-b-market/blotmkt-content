@@ -3,6 +3,7 @@ title: "Schema.org : le guide pratique pour booster votre SEO avec les données 
 description: "Découvrez ce qu'est Schema.org, comment l'implémenter en JSON-LD et pourquoi c'est crucial pour vos rich snippets. Guide SEO complet et à jour."
 keyword: "Schema.org"
 category: "definition"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

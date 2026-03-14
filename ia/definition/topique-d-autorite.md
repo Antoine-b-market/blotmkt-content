@@ -3,6 +3,7 @@ title: "Topique d'autorité : comment transformer votre expertise en actif cogni
 description: "Découvrez comment construire un topique d'autorité. Allez au-delà du contenu classique et transformez votre savoir en un actif cognitif qui domine les SERPs."
 keyword: "Topique d'autorité"
 category: "definition"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

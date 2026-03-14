@@ -3,6 +3,7 @@ title: "Sur-optimisation seo : les signes qui ne trompent pas et comment éviter
 description: "La sur-optimisation SEO (over-optimization) pénalise votre site. Apprenez à identifier les signes, du keyword stuffing aux liens toxiques, et à l'éviter."
 keyword: "Search Engine Over-optimization"
 category: "ia-seo-geo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

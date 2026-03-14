@@ -3,6 +3,7 @@ title: "SEO e-commerce : le guide complet pour optimiser votre boutique en ligne
 description: "Découvrez notre guide complet sur le SEO e-commerce. Apprenez les stratégies essentielles pour optimiser votre site, attirer du trafic qualifié et booster vos ventes."
 keyword: "SEO e-commerce"
 category: "strategie"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

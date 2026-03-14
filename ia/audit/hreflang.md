@@ -3,6 +3,7 @@ title: "Comprendre et implémenter l'attribut hreflang pour un SEO international
 description: "Optimisez votre SEO international avec l'attribut hreflang. Découvrez sa définition, les méthodes d'implémentation, comment éviter les erreurs courantes et mesurer son impact sur votre visibilité globale."
 keyword: "Hreflang"
 category: "audit"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

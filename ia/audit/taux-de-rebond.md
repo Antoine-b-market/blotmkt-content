@@ -3,6 +3,7 @@ title: "Le taux de rebond est-il encore une métrique pertinente pour votre SEO 
 description: "Découvrez ce qu'est le taux de rebond, pourquoi Google s'en détourne et quelles nouvelles métriques d'engagement (temps passé, taux de retour) prioriser."
 keyword: "Taux de rebond"
 category: "audit"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

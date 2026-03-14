@@ -3,6 +3,7 @@ title: "Données structurées : le guide complet pour obtenir des résultats de 
 description: "Découvrez ce que sont les données structurées, comment les implémenter avec JSON-LD et pourquoi elles sont cruciales pour le SEO et les rich snippets. Guide 2024."
 keyword: "Données structurées"
 category: "definition"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

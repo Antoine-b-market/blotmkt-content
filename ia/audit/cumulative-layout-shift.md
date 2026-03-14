@@ -3,6 +3,7 @@ title: "Cumulative Layout Shift (CLS) : le guide pour atteindre un score inféri
 description: "Comprenez le Cumulative Layout Shift (CLS), un Core Web Vital essentiel. Apprenez à mesurer et corriger les décalages de mise en page pour le SEO."
 keyword: "Cumulative Layout Shift"
 category: "audit"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

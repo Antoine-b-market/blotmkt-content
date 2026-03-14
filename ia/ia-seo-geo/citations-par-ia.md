@@ -3,6 +3,7 @@ title: "Citations par IA : comment l'intelligence artificielle réinvente votre 
 description: "Découvrez comment générer des citations par IA uniques et pertinentes. Explorez les outils, les avantages et les techniques pour enrichir votre contenu SEO."
 keyword: "Citations par IA"
 category: "ia-seo-geo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

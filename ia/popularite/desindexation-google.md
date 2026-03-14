@@ -3,6 +3,7 @@ title: "Désindexation google: guide pratique pour contrôler votre visibilité 
 description: "Comprenez la désindexation Google: définitions, méthodes techniques (noindex, robots.txt), cas d'usage (contenus obsolètes, confidentiels) et impact SEO. Contrôlez votre empreinte numérique."
 keyword: "Désindexation Google"
 category: "popularite"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

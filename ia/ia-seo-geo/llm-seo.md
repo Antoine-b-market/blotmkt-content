@@ -3,6 +3,7 @@ title: "LLM SEO : le guide pratique pour optimiser votre contenu pour les AI Ove
 description: "Plongez dans le LLM SEO et apprenez à adapter votre stratégie pour être cité dans les AI Overviews de Google. Guide basé sur des frameworks et outils experts."
 keyword: "LLM SEO"
 category: "ia-seo-geo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

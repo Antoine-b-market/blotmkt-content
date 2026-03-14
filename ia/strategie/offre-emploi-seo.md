@@ -3,6 +3,7 @@ title: "Offre d'emploi SEO : trouvez votre prochain défi en référencement nat
 description: "Découvrez les meilleures offres d'emploi SEO. Maîtrisez les compétences clés, salaires, et perspectives pour évoluer dans le monde du référencement."
 keyword: "Offre emploi SEO"
 category: "strategie"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

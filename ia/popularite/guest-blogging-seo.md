@@ -3,6 +3,7 @@ title: "Le guest blogging SEO : strategie incontournable pour votre visibilite e
 description: "Decouvrez comment le guest blogging peut transformer votre SEO. Apprenez les meilleures pratiques pour obtenir des backlinks de qualite et booster votre autorite."
 keyword: "Guest blogging SEO"
 category: "popularite"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

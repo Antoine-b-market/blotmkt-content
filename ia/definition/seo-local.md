@@ -3,6 +3,7 @@ title: "Optimiser votre seo local : le guide complet pour attirer des clients de
 description: "Découvrez les stratégies de SEO local essentielles pour propulser votre entreprise dans les recherches géolocalisées et attirer plus de clients proches. Guide pratique."
 keyword: "SEO local"
 category: "definition"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

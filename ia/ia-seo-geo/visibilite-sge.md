@@ -3,6 +3,7 @@ title: "Visibilité SGE : comment le knowledge branding devient votre meilleur a
 description: "La SGE de Google rebat les cartes du SEO. Découvrez comment le knowledge branding vous permet de créer un contenu à forte valeur et d'assurer votre visibilité."
 keyword: "Visibilité SGE"
 category: "ia-seo-geo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

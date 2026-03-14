@@ -3,6 +3,7 @@ title: "Le mandat SEO pour entreprise : de la stratégie à la performance et la
 description: "Découvrez comment un mandat SEO d'entreprise aligne vos objectifs business avec les algorithmes. Expertise en diagnostic, contenu et autorité pour une performance durable."
 keyword: "Mandat SEO entreprise"
 category: "strategie"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

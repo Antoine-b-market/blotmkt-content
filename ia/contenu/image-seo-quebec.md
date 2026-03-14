@@ -3,6 +3,7 @@ title: "Image SEO Québec : optimisez votre visibilité pour la recherche visuel
 description: "Boostez votre référencement au Québec avec une stratégie Image SEO de pointe. Attirez du trafic qualifié via Google Images et les IA. Contactez un expert."
 keyword: "Image SEO Québec"
 category: "contenu"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

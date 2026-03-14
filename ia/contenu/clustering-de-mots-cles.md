@@ -3,6 +3,7 @@ title: "Le clustering de mots-clés : la méthode pour structurer votre contenu 
 description: "Découvrez comment le clustering de mots-clés optimise votre SEO. Apprenez à regrouper vos requêtes pour mieux répondre à l'intention de recherche. Guide 2024."
 keyword: "Clustering de mots-clés"
 category: "contenu"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

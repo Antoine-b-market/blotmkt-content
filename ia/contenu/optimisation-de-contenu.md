@@ -3,6 +3,7 @@ title: "Optimisation de contenu : le guide pour allier IA et expertise humaine"
 description: "Découvrez comment l'optimisation de contenu assistée par l'IA (GPT-4, Bard) booste votre SEO. Apprenez la méthode pour garantir un contenu de qualité."
 keyword: "Optimisation de contenu"
 category: "contenu"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"
@@ -228,6 +229,8 @@ Les meilleurs outils IA pour optimiser son SEO incluent MarketBrew, Scalenut, Wr
 ---
 
 ---
+
+FAQ_JSON-->
 
 ## Articles connexes
 

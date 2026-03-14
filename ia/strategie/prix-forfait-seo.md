@@ -3,6 +3,7 @@ title: "Prix forfait SEO : le guide pour comprendre les tarifs et choisir le bon
 description: "Découvrez le prix d'un forfait SEO et ce qu'il inclut. De l'audit au suivi, comprenez les tarifs des agences pour un référencement naturel rentable."
 keyword: "Prix forfait SEO"
 category: "strategie"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

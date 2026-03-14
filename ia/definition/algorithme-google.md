@@ -3,6 +3,7 @@ title: "Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA g
 description: "Découvrez comment l'algorithme Google a évolué. De RankBrain à BERT et l'IA, comprenez son impact sur le SEO et adaptez votre stratégie dès aujourd'hui."
 keyword: "Algorithme Google"
 category: "definition"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

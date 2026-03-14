@@ -3,6 +3,7 @@ title: "Search Generative Experience (SGE) : le guide complet pour l'optimisatio
 description: "Découvrez ce qu'est la Search Generative Experience (SGE) de Google. Apprenez à optimiser votre contenu pour les AI Overviews et à adapter votre stratégie SEO."
 keyword: "Search Generative Experience (SGE)"
 category: "ia-seo-geo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

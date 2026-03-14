@@ -3,6 +3,7 @@ title: "Rédaction IA assistée : la méthode pour multiplier votre productivit�
 description: "Découvrez comment la rédaction IA assistée transforme la création de contenu. Apprenez la méthode, les outils et les techniques pour être plus efficace."
 keyword: "Rédaction IA assistée"
 category: "contenu"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

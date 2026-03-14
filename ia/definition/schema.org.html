@@ -40,73 +40,80 @@
     .related li{margin-bottom:8px}
     footer{margin-top:48px;padding-top:16px;border-top:1px solid #eee;font-size:0.78rem;color:#aaa}
   </style>
-  <script type="application/ld+json">{
+  <script type="application/ld+json">
+{
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
-      "headline": "Schema.org : le guide pratique pour booster votre SEO avec les Données structurées",
+      "@type": "TechArticle",
+      "@id": "https://blotmkt.com/ia/definition/schema.org.html#article",
+      "headline": "Schema.org : le guide pratique pour booster votre SEO avec les données structurées",
       "description": "Découvrez ce qu'est Schema.org, comment l'implémenter en JSON-LD et pourquoi c'est crucial pour vos rich snippets. Guide SEO complet et à jour.",
-      "url": "https://blotmkt.com/ia/definition/schema.org",
+      "url": "https://blotmkt.com/ia/definition/schema.org.html",
+      "inLanguage": "fr-CA",
       "datePublished": "2026-03-09 08:29",
       "dateModified": "2026-03-09 08:29",
       "author": {
-        "@type": "Person",
-        "name": "Antoine Blot",
-        "url": "https://antoine-blot.com",
-        "sameAs": [
-          "https://www.linkedin.com/in/blotantoine/",
-          "https://github.com/Antoine-b-market",
-          "https://orcid.org/0009-0005-6450-4528"
-        ]
+        "@id": "https://blotmkt.com/ia/a-propos.html#person"
       },
       "publisher": {
-        "@type": "Organization",
-        "name": "BlotMKT",
-        "url": "https://blotmkt.com"
+        "@id": "https://blotmkt.com/#organization"
       },
-      "inLanguage": "fr-FR",
-      "keywords": "données structurées, JSON-LD, rich snippets, balisage sémantique, extraits enrichis, seo technique, test des résultats enrichis"
+      "articleSection": "Définition",
+      "keywords": "Schema.org, données structurées, JSON-LD, rich snippets, balisage sémantique, extraits enrichis, seo technique, test des résultats enrichis",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://blotmkt.com/ia/definition/schema.org.html"
+      }
     },
     {
-      "@type": "FAQPage",
-      "mainEntity": [
+      "@type": "BreadcrumbList",
+      "@id": "https://blotmkt.com/ia/definition/schema.org.html#breadcrumb",
+      "itemListElement": [
         {
-          "@type": "Question",
-          "name": "Comment savoir si un site utilise Schema.org ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Utilisez l'outil de test des résultats enrichis de Google ou inspectez le code source pour rechercher des balises script type application/ld+json. Les outils comme Screaming Frog permettent d'Auditer l'ensemble d'un site pour détecter les données structurées existantes."
-          }
+          "@type": "ListItem",
+          "position": 1,
+          "name": "BlotMKT",
+          "item": "https://blotmkt.com/ia/"
         },
         {
-          "@type": "Question",
-          "name": "Quel est l'impact de Schema.org sur le classement SEO ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Schema markup n'impacte pas directement le classement mais améliore l'affichage du contenu web, augmentant le trafic via des rich snippets. L'amélioration du taux de clics influence indirectement le positionnement dans les résultats de recherche."
-          }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Définition",
+          "item": "https://blotmkt.com/ia/Définition/"
         },
         {
-          "@type": "Question",
-          "name": "C'est quoi le format JSON-LD ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "JSON-LD signifie JavaScript Object Notation for Linked Data. C'est une méthode d'encodage de données structurées utilisant le format JSON, un format d'échange de données léger facile à Analyser et générer pour les machines."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Comment ajouter le schéma Produit sur Shopify ou WordPress ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Sur WordPress, utilisez des plugins comme RankMath ou Yoast SEO qui génèrent automatiquement le JSON-LD. Sur Shopify, modifiez les templates liquid pour inclure le code schema directement ou utilisez des applications dédiées comme JSON-LD for SEO."
-          }
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Schema.org : le guide pratique pour booster votre SEO avec les données structurées",
+          "item": "https://blotmkt.com/ia/definition/schema.org.html"
         }
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://blotmkt.com/ia/a-propos.html#person",
+      "name": "Antoine Blot",
+      "jobTitle": "Consultant SEO et GEO",
+      "url": "https://blotmkt.com/ia/a-propos.html",
+      "sameAs": [
+        "https://www.antoine-blot.com",
+        "https://www.linkedin.com/in/blotantoine/",
+        "https://orcid.org/0009-0005-6450-4528"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://blotmkt.com/#organization",
+      "name": "BlotMKT",
+      "url": "https://blotmkt.com/",
+      "founder": {
+        "@id": "https://blotmkt.com/ia/a-propos.html#person"
+      }
     }
   ]
-}</script>
+}
+</script>
 </head>
 <body>
   <article>

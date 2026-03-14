@@ -3,6 +3,7 @@ title: "Algorithme de pénalité : comprendre, détecter et corriger pour proté
 description: "Découvrez ce qu'est un algorithme de pénalité, comment il sanctionne votre site et les stratégies pour identifier la cause et lever la sanction. Protégez votre trafic."
 keyword: "Algorithme pénalité"
 category: "popularite"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

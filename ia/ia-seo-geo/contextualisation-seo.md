@@ -3,6 +3,7 @@ title: "Contextualisation SEO : le guide pour optimiser au-delà des mots-clés"
 description: "Plongez dans la contextualisation SEO. Apprenez comment les algorithmes BERT et MUM et les signaux utilisateur (GEO, historique) redéfinissent l'optimisation."
 keyword: "Contextualisation SEO"
 category: "ia-seo-geo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"
@@ -230,6 +231,8 @@ La recherche vocale privilégie les requêtes conversationnelles géolocalisées
 ---
 
 ---
+
+FAQ_JSON-->
 
 ## Articles connexes
 

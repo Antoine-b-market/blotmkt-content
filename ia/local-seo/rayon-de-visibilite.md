@@ -3,6 +3,7 @@ title: "Le rayon de visibilité : comment être reconnu par l'ia, pas seulement 
 description: "Découvrez le concept de rayon de visibilité à l'ère du GEO. Apprenez à étendre votre influence pour être reconnu par l'IA, et pas seulement vu."
 keyword: "Rayon de visibilité"
 category: "local-seo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

@@ -3,6 +3,7 @@ title: "Mots-clés informationnels : guide pour optimiser votre stratégie SEO a
 description: "Découvrez ce que sont les mots-clés informationnels, leur importance en SEO, et comment l'IA transforme leur identification et exploitation pour attirer un trafic qualifié."
 keyword: "Mots-clés informationnels"
 category: "contenu"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

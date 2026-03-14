@@ -3,6 +3,7 @@ title: "Accompagnement SEO annuel : la stratégie durable pour votre croissance 
 description: "Découvrez notre accompagnement SEO annuel. Une stratégie sur 12 mois pour un référencement durable, un trafic qualifié et un ROI mesurable. Parlons-en."
 keyword: "Accompagnement SEO annuel"
 category: "strategie"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

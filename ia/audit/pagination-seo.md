@@ -3,6 +3,7 @@ title: "Pagination SEO : le guide des bonnes pratiques pour ne pas pénaliser vo
 description: "Maîtrisez la pagination SEO pour éviter le duplicate content et optimiser votre budget de crawl. Découvrez les meilleures stratégies et erreurs à ne pas commettre."
 keyword: "Pagination SEO"
 category: "audit"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

@@ -3,6 +3,7 @@ title: "Optimisation JavaScript SEO : le guide complet pour le rendu et l'indexa
 description: "Maîtrisez l'optimisation JavaScript SEO pour améliorer votre indexation et vos performances. Découvrez les techniques de rendu (SSR, CSR) et les bonnes pratiques."
 keyword: "Optimisation JavaScript SEO"
 category: "audit"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

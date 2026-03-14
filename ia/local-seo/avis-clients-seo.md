@@ -3,6 +3,7 @@ title: "Avis clients SEO : le guide pour décrypter les témoignages et choisir 
 description: "Vous cherchez des avis clients sur le SEO ? Découvrez les critères essentiels pour analyser les retours d'expérience, évaluer le ROI et éviter les pièges."
 keyword: "Avis clients SEO"
 category: "local-seo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

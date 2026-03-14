@@ -3,6 +3,7 @@ title: "Audit sémantique : la méthode complète pour aligner votre contenu sur
 description: "Découvrez comment réaliser un audit sémantique efficace. Notre guide complet couvre la méthode, les outils, le coût et le ROI pour booster votre stratégie SEO."
 keyword: "Audit sémantique"
 category: "audit"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

@@ -3,6 +3,7 @@ title: "Topique cluster : la méthode pour structurer votre contenu et devenir u
 description: "Découvrez ce qu'est un topique cluster et comment cette stratégie SEO vous aide à organiser votre contenu, améliorer votre classement et devenir une autorité."
 keyword: "Topique cluster"
 category: "definition"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

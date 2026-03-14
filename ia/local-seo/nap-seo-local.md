@@ -3,6 +3,7 @@ title: "NAP en SEO local : le guide pour optimiser votre visibilité sur Google 
 description: "Découvrez l'importance cruciale du NAP (Nom, Adresse, Téléphone) pour votre SEO local et le GEO. Apprenez à garantir sa cohérence pour dominer le pack local."
 keyword: "NAP SEO local"
 category: "local-seo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

@@ -3,6 +3,7 @@ title: "Knowledge Graph : le guide complet pour le SEO et la recherche sémantiq
 description: "Découvrez ce qu'est un Knowledge Graph, comment il transforme le SEO et comment l'optimiser pour renforcer votre autorité et votre visibilité en ligne."
 keyword: "Knowledge Graph"
 category: "definition"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

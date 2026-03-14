@@ -3,6 +3,7 @@ title: "Rédaction SEO : transformez votre contenu en actif stratégique au Qué
 description: "Service de rédaction SEO haute performance au Québec. Optimisation sémantique et préparation au GEO pour transformer vos contenus en actifs et attirer vos clients."
 keyword: "Rédaction SEO"
 category: "contenu"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

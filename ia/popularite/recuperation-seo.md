@@ -3,6 +3,7 @@ title: "Récupération SEO : Stratégies avancées pour regagner votre visibilit
 description: "Découvrez les stratégies de récupération SEO modernes, incluant l'IA et le SEO sémantique, pour restaurer votre visibilité et votre trafic après une baisse."
 keyword: "Récupération SEO"
 category: "popularite"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

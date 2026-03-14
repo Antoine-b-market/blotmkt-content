@@ -3,6 +3,7 @@ title: "Provenance des données : le signal de confiance pour l'E-E-A-T et les I
 description: "Découvrez comment la provenance des données, via les données structurées, devient un pilier de l'E-E-A-T pour renforcer la confiance de Google et des LLMs."
 keyword: "Provenance des données"
 category: "ia-seo-geo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

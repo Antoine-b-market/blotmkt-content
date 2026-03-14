@@ -3,6 +3,7 @@ title: "Alt text image : le guide pour optimiser votre SEO et votre accessibilit
 description: "Apprenez à rédiger un alt text image parfait pour booster votre SEO sur Google Images, améliorer l'accessibilité et préparer votre contenu pour l'IA. Guide pratique."
 keyword: "Alt text image"
 category: "contenu"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

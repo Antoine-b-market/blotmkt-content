@@ -3,6 +3,7 @@ title: "Précision sémantique : le guide pour optimiser votre contenu pour les 
 description: "Découvrez ce qu'est la précision sémantique et son rôle crucial en GEO. Allez au-delà des mots-clés pour atteindre la dominance sémantique."
 keyword: "Précision sémantique"
 category: "ia-seo-geo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

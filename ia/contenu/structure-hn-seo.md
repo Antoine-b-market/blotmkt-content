@@ -3,6 +3,7 @@ title: "Structure HN : le guide complet pour un SEO sémantique optimisé pour l
 description: "Maîtrisez la structure HN (H1, H2, H3) pour améliorer votre SEO. Découvrez comment une hiérarchie sémantique claire booste votre visibilité sur Google et les IA."
 keyword: "Structure HN SEO"
 category: "contenu"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

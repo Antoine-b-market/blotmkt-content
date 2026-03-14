@@ -3,6 +3,7 @@ title: "Erreurs 404 et seo : le guide pour les identifier et les corriger effica
 description: "Découvrez l'impact réel des erreurs 404 sur votre SEO. Apprenez à les trouver via la Search Console et à décider quand utiliser une redirection 301 ou un code 410."
 keyword: "Erreurs 404 SEO"
 category: "audit"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"

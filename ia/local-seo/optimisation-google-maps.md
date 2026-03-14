@@ -3,6 +3,7 @@ title: "Maîtriser l'optimisation google maps pour propulser votre visibilité l
 description: "Découvrez comment optimiser votre présence sur Google Maps pour attirer plus de clients locaux. Boostez votre référencement local efficacement."
 keyword: "Optimisation Google Maps"
 category: "local-seo"
+schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"
