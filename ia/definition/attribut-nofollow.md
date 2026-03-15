@@ -17,7 +17,7 @@ slug: "attribut-nofollow"
 url: "/ia/definition/attribut-nofollow"
 canonical: "https://blotmkt.com/ia/definition/attribut-nofollow.html"
 related_articles:
-  - title: "Lien ugc : le guide complet de l'attribut rel="ugc" pour le seo"
+  - title: "Lien ugc : le guide complet de l'attribut rel='ugc' pour le seo"
     url: "/ia/definition/lien-ugc"
   - title: "Attribut sponsored : le guide complet pour vos liens payants en seo"
     url: "/ia/definition/attribut-sponsored"

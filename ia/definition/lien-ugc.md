@@ -1,6 +1,6 @@
 ---
-title: "Lien ugc : le guide complet de l'attribut rel="ugc" pour le seo"
-description: "Découvrez ce qu'est un lien UGC et l'importance de l'attribut rel="ugc" pour Google. Apprenez à l'implémenter et à le différencier de nofollow et sponsored."
+title: "Lien ugc : le guide complet de l'attribut rel='ugc' pour le seo"
+description: "Découvrez ce qu'est un lien UGC et l'importance de l'attribut rel='ugc' pour Google. Apprenez à l'implémenter et à le différencier de nofollow et sponsored."
 keyword: "Lien UGC"
 category: "definition"
 schema_type: "TechArticle"

@@ -1,6 +1,6 @@
 ---
 title: "Attribut sponsored : le guide complet pour vos liens payants en seo"
-description: "Découvrez ce qu'est l'attribut rel="sponsored", son impact SEO et comment l'utiliser. Le guide pratique pour différencier sponsored, nofollow et ugc."
+description: "Découvrez ce qu'est l'attribut rel='sponsored', son impact SEO et comment l'utiliser. Le guide pratique pour différencier sponsored, nofollow et ugc."
 keyword: "Attribut Sponsored"
 category: "definition"
 schema_type: "TechArticle"
@@ -21,7 +21,7 @@ related_articles:
     url: "/ia/definition/attribut-nofollow"
   - title: "L'api d'indexation google : guide complet pour une indexation quasi-instantanée"
     url: "/ia/Audit/indexation-api-google"
-  - title: "Lien ugc : le guide complet de l'attribut rel="ugc" pour le seo"
+  - title: "Lien ugc : le guide complet de l'attribut rel='ugc' pour le seo"
     url: "/ia/definition/lien-ugc"
 ---
 
