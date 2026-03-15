@@ -111,6 +111,19 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   ]
 }
 </script>
+<style>
+.site-footer{margin-top:64px;padding:32px 20px 16px;border-top:1px solid #eee;background:#fafafa;font-size:0.82rem;color:#888}
+.footer-inner{display:flex;justify-content:space-between;align-items:flex-start;max-width:1100px;margin:0 auto 16px;gap:32px;flex-wrap:wrap}
+.footer-left{line-height:1.8;color:#999}
+.footer-right{display:flex;gap:16px;flex-wrap:wrap;align-items:center}
+.footer-right a{color:#888;text-decoration:none}
+.footer-right a:hover{color:#0066cc}
+.footer-bottom{text-align:center;max-width:1100px;margin:0 auto;padding-top:12px;border-top:1px solid #eee;font-size:0.75rem;color:#bbb}
+.footer-tech{text-align:center;max-width:1100px;margin:8px auto 0;font-size:0.75rem}
+.footer-tech a{color:#aaa;text-decoration:none;margin:0 4px}
+.footer-tech a:hover{color:#0066cc}
+@media(max-width:600px){.footer-inner{flex-direction:column;gap:16px}.footer-right{flex-direction:column;gap:8px}}
+</style>
 </head>
 <body>
 <h1>Ressources LOCAL-SEO — BlotMKT</h1>
@@ -160,12 +173,30 @@ Par <strong><a href="https://antoine-blot.com">Antoine Blot</a></strong> — Con
 <span class="meta">2026-03-09 18:51 &nbsp;·&nbsp; NAP SEO local</span>
 </li>
 </ul>
-<footer>
-<a href="https://blotmkt.com/llms.txt">llms.txt</a> &nbsp;·&nbsp;
-<a href="https://blotmkt.com/llms.yaml">llms.yaml</a> &nbsp;·&nbsp;
-<a href="https://blotmkt.com/openapi.json">openapi.json</a> &nbsp;·&nbsp;
-<a href="https://blotmkt.com/sitemap.xml">sitemap.xml</a> &nbsp;·&nbsp;
-<a href="https://blotmkt.com/ia/a-propos.html">À propos</a>
+<footer class="site-footer">
+<div class="footer-inner">
+  <div class="footer-left">
+    <strong>BLOT Antoine</strong><br>
+    48 rue de la Concorde<br>
+    Repentigny, Québec<br>
+    Canada
+  </div>
+  <div class="footer-right">
+    <a href="/ia/a-propos.html">À propos</a>
+    <a href="/privacy-policy.html">Privacy Policy</a>
+    <a href="/terms.html">Terms of Use</a>
+  </div>
+</div>
+<div class="footer-bottom">
+  © 2026 BlotMKT — Antoine Blot. Tous droits réservés.
+</div>
+</footer>
+<div class="footer-tech">
+  <a href="https://blotmkt.com/llms.txt">llms.txt</a> ·
+  <a href="https://blotmkt.com/llms.yaml">llms.yaml</a> ·
+  <a href="https://blotmkt.com/openapi.json">openapi.json</a> ·
+  <a href="https://blotmkt.com/sitemap.xml">sitemap.xml</a>
+</div>
 </footer>
 </body>
 </html>
