@@ -211,6 +211,10 @@ L'évolution propulsée par l'IA a un impact considérable sur le référencemen
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo.html)

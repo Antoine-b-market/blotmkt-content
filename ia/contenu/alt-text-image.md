@@ -210,6 +210,10 @@ Bien que l'alt text seul ne propulsera pas une page au sommet des résultats de 
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant.html)

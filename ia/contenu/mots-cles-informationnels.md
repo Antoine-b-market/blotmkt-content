@@ -230,6 +230,10 @@ Créez un contenu approfondi (1890 mots en moyenne pour les premiers résultats)
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)

@@ -144,6 +144,10 @@ Les LLMs ne citent que 2 à 7 domaines en moyenne par réponse. Sans expertise d
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Comment choisir le meilleur consultant GEO à Montréal pour l'ère SGE](https://blotmkt.com/ia/montreal/meilleur-consultant-geo-a-montreal.html)

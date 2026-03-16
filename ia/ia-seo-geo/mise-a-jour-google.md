@@ -213,6 +213,10 @@ La December 2025 Core Update a été lancée le 11 décembre 2025, avec un dépl
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)

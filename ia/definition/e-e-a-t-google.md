@@ -249,6 +249,10 @@ Analyses de la Google Core Update décembre 2025
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)

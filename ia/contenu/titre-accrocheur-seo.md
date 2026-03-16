@@ -234,6 +234,10 @@ Le H1 est le titre principal visible sur votre page web, distinct de la balise t
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)

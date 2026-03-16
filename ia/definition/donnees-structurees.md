@@ -236,6 +236,10 @@ JSON-LD est le format recommandé par Google car il est le plus récent et le pl
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)

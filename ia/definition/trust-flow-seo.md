@@ -232,6 +232,10 @@ Les métriques TF et CF répondent positivement aux efforts d'amélioration. Cr�
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)

@@ -199,6 +199,10 @@ Il faut être patient et attendre quelques mois avant de remonter dans les résu
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO](https://blotmkt.com/ia/popularite/algorithme-penalite.html)

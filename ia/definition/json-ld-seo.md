@@ -259,6 +259,10 @@ Google recommande JSON-LD plutôt que Microdata ou RDFa. Il est plus facile à i
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)

@@ -207,6 +207,10 @@ Un bon score INP est de 200ms ou moins, avec un LCP ≤2.5s et un CLS <0.1 pour 
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)

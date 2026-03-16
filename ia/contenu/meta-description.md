@@ -249,6 +249,10 @@ Une formulation claire, concise et attrayante peut augmenter votre CTR de 20% ou
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)

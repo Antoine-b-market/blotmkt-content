@@ -236,6 +236,10 @@ Par défaut, Screaming Frog extrait les deux premières H1 découvertes sur une 
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)

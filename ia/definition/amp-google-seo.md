@@ -247,6 +247,10 @@ utilisez le plugin "Accelerated Mobile Pages" > Paramètres avancés > Désactiv
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)

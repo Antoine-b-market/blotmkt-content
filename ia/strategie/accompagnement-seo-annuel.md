@@ -230,6 +230,10 @@ L'efficacité se mesure via des KPIs business concrets : progression du trafic o
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)

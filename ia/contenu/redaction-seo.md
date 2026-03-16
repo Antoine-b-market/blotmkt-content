@@ -179,6 +179,10 @@ L'Optimisation sémantique enrichit un contenu avec le vocabulaire et les concep
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)

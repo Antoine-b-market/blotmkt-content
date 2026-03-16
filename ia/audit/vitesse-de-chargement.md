@@ -212,6 +212,10 @@ Pour obtenir les Données de performance de la version mobile d'une URL, demande
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)

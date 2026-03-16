@@ -233,6 +233,10 @@ Le FID mesure uniquement le délai de la première interaction, tandis que l'INP
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)

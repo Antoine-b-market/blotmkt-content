@@ -208,6 +208,10 @@ Pour Auditer rapidement votre structure, saisissez l'URL de votre page dans le t
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)

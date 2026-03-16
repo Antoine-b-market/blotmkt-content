@@ -238,6 +238,10 @@ Les KPIs traditionnels cèdent la place aux citations, mentions et présence de 
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)

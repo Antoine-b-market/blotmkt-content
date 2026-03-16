@@ -236,6 +236,10 @@ Elle permet de maîtriser la visibilité dans les résultats de recherche, d'év
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO](https://blotmkt.com/ia/popularite/algorithme-penalite.html)
