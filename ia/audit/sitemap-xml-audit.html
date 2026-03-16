@@ -188,6 +188,44 @@
         "h2",
         ".faq-speakable"
       ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://blotmkt.com/ia/audit/sitemap-xml-audit.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Comment savoir si mon sitemap est correct ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Utilisez un validateur XML et vérifiez que toutes les URLs retournent un code 200, sont canoniques et ne sont pas bloquées par robots.txt. Un Audit automatisé via `/seo sitemap <url>` détecte instantanément ces problèmes critiques."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Où trouver le fichier sitemap.xml d'un site ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le sitemap se trouve généralement à `/sitemap.xml` ou `/sitemap_index.xml` depuis la racine du domaine. Vérifiez aussi le fichier robots.txt qui doit contenir la ligne \"Sitemap: URL_du_sitemap\"."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quelle est la différence entre un sitemap XML et un sitemap HTML ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le sitemap XML est conçu pour aider Google, tandis que vous pouvez créer un sitemap HTML pour aider vos utilisateurs à naviguer sur votre site . L'un optimise l'exploration automatique, l'autre l'expérience utilisateur."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment corriger les erreurs de sitemap dans la Search Console ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Identifiez d'abord le type d'erreur (404, redirection, noindex), corrigez le problème à la source, mettez à jour le sitemap, puis resoumettez-le dans GSC pour déclencher une nouvelle exploration."
+          }
+        }
+      ]
     }
   ]
 }

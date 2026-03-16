@@ -188,6 +188,44 @@
         "h2",
         ".faq-speakable"
       ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://blotmkt.com/ia/audit/redirection-301-vs-302.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Combien de temps faut-il laisser une redirection 301 ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Google recommande de conserver les redirections 301 en place pendant au moins un an. John Mueller de Google indique que les systèmes de Google doivent voir le changement sous forme de redirection plusieurs fois pour l'enregistrer. Pour être certain que la redirection a été vue plusieurs fois, il est recommandé de la maintenir en place pendant au moins un an . Pour les utilisateurs, maintenir les redirections indéfiniment est préférable pour s'assurer qu'ils n'encounters jamais des erreurs qui les poussent à quitter votre site ."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Est-ce qu'une redirection 302 peut nuire à mon SEO ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Si une 302 reste en place longtemps, elle affectera le SEO car elle sera vue comme une redirection permanente. Au fil du temps, les moteurs de recherche « oublieront » l'ancienne URL, et le classement du site en souffrira . Vous devez éviter d'utiliser une 302 dans la plupart des scénarios sauf si vous avez l'intention de réutiliser l'URL d'origine à l'avenir . C'est une erreur courante mais nuisible à long terme."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quelle est la différence entre une redirection 302 et 307 ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La 307 est la version techniquement supérieure et moderne d'une 302. Tout en servant le même objectif SEO (signaler un déplacement temporaire), elle est plus précise et est souvent utilisée par les serveurs web modernes . La 307 garantit que la redirection est traitée correctement par les navigateurs, en maintenant le type de requête (par exemple, si un utilisateur essayait de soumettre un formulaire, la redirection préserve cette action) ."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment vérifier si une redirection fonctionne correctement ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dans Google Search Console, vous pouvez identifier les chaînes de redirections trop longues (par exemple, Page A > Page B > Page C...). Le rapport « Pages avec redirection » montre quelles pages de redirection ne sont pas indexées par Google. Si vous trouvez des pages qui devraient être indexées, vous devrez peut-être supprimer la redirection . Utilisez aussi des outils de test en ligne (comme « Check Redirect »), ou consultez les logs d'accès de votre serveur pour confirmer les codes HTTP retournés."
+          }
+        }
+      ]
     }
   ]
 }

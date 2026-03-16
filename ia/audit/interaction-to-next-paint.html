@@ -188,6 +188,36 @@
         "h2",
         ".faq-speakable"
       ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://blotmkt.com/ia/audit/interaction-to-next-paint.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Qu'est-ce que l'Interaction to Next Paint (INP) et pourquoi remplace-t-il le FID ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "L'INP est une métrique Core Web Vitals plus complète car elle mesure toutes les interactions durant la visite d'une page (pas seulement la première) et capture l'intégralité du cycle de vie de l'interaction incluant l'Input delay, le processing time et le presentation delay ."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment corriger un mauvais INP ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fractionnez les tâches JavaScript Longues, optimisez les gestionnaires d'événements, réduisez la complexité du DOM et implémentez un feedback visuel immédiat pour améliorer la perception de la réactivité."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quel est un bon score INP ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un bon score INP est de 200ms ou moins, avec un LCP ≤2.5s et un CLS <0.1 pour directement impacter les classements de Recherche, l'expérience utilisateur et les taux de conversion ."
+          }
+        }
+      ]
     }
   ]
 }

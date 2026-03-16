@@ -188,6 +188,44 @@
         "h2",
         ".faq-speakable"
       ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://blotmkt.com/ia/audit/fichier-robots.txt.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Où placer le fichier robots.txt ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Placé à la racine de votre site web, à la base de l'arborescence des dossiers hébergés sur le serveur . Il doit être accessible via www.votredomaine.com/robots.txt pour être reconnu par les Moteurs de recherche."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment savoir si une page est bloquée par le robots.txt ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Utilisez l'outil de test de Google Search Console dans la section \"Exploration\". Le rapport robots.txt dans Google Search Console est inestimable. Il montre quels fichiers robots.txt Google a trouvés, quand ils ont été crawlés pour la dernière fois, et tous les avertissements ou Erreurs ."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quelle est la différence entre Disallow et noindex ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Les directives allow et disallow sont utilisées pour paramétrer le crawl via le fichier robots.txt. A contrario, les balises meta index et noindex permettent de gérer l'indexation dans les bases de données Google. Elles n'ont donc pas le même objectif ."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment autoriser un seul bot dans le robots.txt ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Spécifiez le User-agent exact : `User-agent: Googlebot` suivi de vos directives, puis `User-agent: *` avec `Disallow: /` pour bloquer tous les autres robots. L'intérêt, c'est que l'on peut définir quel robot de moteur de recherche aura accès ou non au site, ou à certaines parties du site ."
+          }
+        }
+      ]
     }
   ]
 }

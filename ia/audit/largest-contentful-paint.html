@@ -188,6 +188,36 @@
         "h2",
         ".faq-speakable"
       ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://blotmkt.com/ia/audit/largest-contentful-paint.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Qu'est-ce qu'un bon score LCP ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un bon score LCP est de 2,5 secondes ou moins. Les scores entre 2,5 et 4 secondes nécessitent une amélioration, et tout ce qui dépasse 4 secondes est considéré comme insuffisant ."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment corriger l'erreur 'L'élément LCP est une image chargée tardivement' ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cette erreur indique que votre site applique le lazy loading à l'image LCP. Désactivez le lazy loading pour toutes les images visibles dans la zone initiale d'affichage et préchargez plutôt l'image LCP ."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quelle est la différence entre le LCP et le FCP (First Contentful Paint) ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le FCP mesure le temps d'apparition du premier élément visuel dans la zone d'affichage, tandis que le LCP se concentre sur le plus grand élément. Le LCP et FCP sont devenus les mesures reconnues pour évaluer la Vitesse de chargement perçue d'un site ."
+          }
+        }
+      ]
     }
   ]
 }

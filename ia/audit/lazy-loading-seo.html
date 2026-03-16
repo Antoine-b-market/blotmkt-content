@@ -188,6 +188,44 @@
         "h2",
         ".faq-speakable"
       ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://blotmkt.com/ia/audit/lazy-loading-seo.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Est-ce que le lazy loading est bon pour le SEO ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le lazy loading peut impacter positivement le SEO en améliorant la Vitesse de chargement des pages, en améliorant l'expérience utilisateur et en permettant une meilleure efficacité de crawl . Cependant, il faut l'implémenter correctement pour éviter que Google ne puisse indexer le Contenu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quand ne pas utiliser le lazy loading ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "N'ajoutez pas de lazy-loading au Contenu qui est susceptible d'être immédiatement visible lorsqu'un utilisateur ouvre une page . Évitez particulièrement de l'appliquer à l'élément LCP et aux contenus textuels essentiels."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment savoir si un site utilise le lazy loading ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Utilisez les outils de développement du navigateur pour inspecter les attributs `loading=\"lazy\"` sur les images, ou Analysez le site avec PageSpeed Insights qui identifie les images lazy loadées."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quel est l'impact du lazy loading sur le LCP ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le lazy loading uniquement des Images below-the-fold résulte en une inversion complète de la régression LCP et possiblement même une légère amélioration par rapport à la désactivation complète du lazy loading ."
+          }
+        }
+      ]
     }
   ]
 }

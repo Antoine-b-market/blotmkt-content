@@ -188,6 +188,44 @@
         "h2",
         ".faq-speakable"
       ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://blotmkt.com/ia/audit/first-input-delay.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quel est un bon score First Input Delay ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un bon score FID doit être inférieur à 100 millisecondes pour offrir une expérience utilisateur optimale . Cette mesure s'effectue au 75e percentile des visites pour représenter l'expérience de la majorité des utilisateurs réels."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Le FID est-il encore important pour le SEO ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le FID n'est plus une métrique Core Web Vitals et vous devriez maintenant vous concentrer sur l'INP . Cependant, les Optimisations FID restent pertinentes car elles améliorent directement l'INP et la réactivité générale."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment corriger un mauvais score FID sur PageSpeed Insights ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Réduisez le blocage du thread principal en utilisant des Web Workers pour les opérations lourdes et en optimisant l'exécution JavaScript . Le code splitting et la réduction des tâches Longues constituent les approches les plus efficaces."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quelle est la différence entre FID et INP ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le FID mesure uniquement le délai de la première interaction, tandis que l'INP considère toutes les interactions et identifie la plus lente . L'INP Offre une vision plus complète de la réactivité sur l'ensemble de la session utilisateur."
+          }
+        }
+      ]
     }
   ]
 }
