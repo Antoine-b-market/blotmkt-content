@@ -235,6 +235,10 @@ Les liens nofollow ne sont pas mauvais pour le SEO. Bien qu'ils ne soient techni
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)

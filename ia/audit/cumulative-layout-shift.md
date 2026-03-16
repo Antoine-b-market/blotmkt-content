@@ -201,6 +201,10 @@ Le CLS fait partie des Core Web Vitals utilisés par Google comme facteur de cla
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)

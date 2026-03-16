@@ -223,6 +223,10 @@ Pour les pénalités manuelles, utilisez l'interface Search Console qui inclut d
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Désindexation google: guide pratique pour contrôler votre visibilité en ligne](https://blotmkt.com/ia/popularite/desindexation-google.html)

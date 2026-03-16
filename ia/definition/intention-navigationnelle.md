@@ -212,6 +212,10 @@ Les entreprises doivent s'assurer que leur site est bien référencé pour ces t
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)

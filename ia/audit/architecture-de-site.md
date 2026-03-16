@@ -216,6 +216,10 @@ Un site bien structuré présente un taux de rebond inférieur à 50%, permet d'
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)

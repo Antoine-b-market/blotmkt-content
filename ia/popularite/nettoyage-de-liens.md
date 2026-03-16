@@ -198,6 +198,10 @@ Le désaveu est pris en compte en quelques jours, mais les effets concrets sur l
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO](https://blotmkt.com/ia/popularite/algorithme-penalite.html)

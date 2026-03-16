@@ -193,6 +193,10 @@ Les leads provenant du SEO convertissent en moyenne à 14,6%
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)

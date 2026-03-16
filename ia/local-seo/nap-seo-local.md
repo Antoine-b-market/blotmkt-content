@@ -203,6 +203,10 @@ Des données NAP incohérentes peuvent conduire à des classements plus bas dans
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence](https://blotmkt.com/ia/local-seo/avis-clients-seo.html)

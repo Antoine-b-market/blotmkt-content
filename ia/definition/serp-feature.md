@@ -207,6 +207,10 @@ Les rich snippets améliorent l'affichage d'un résultat organique existant (ét
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)

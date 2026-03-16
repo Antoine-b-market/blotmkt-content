@@ -256,6 +256,10 @@ Rytr Offre 10000 caractères sur le plan gratuit, puis à partir de 7,50$/mois p
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)

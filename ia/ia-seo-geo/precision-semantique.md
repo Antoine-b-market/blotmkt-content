@@ -200,6 +200,10 @@ Depuis 2013, le classement des pages se fait plus intelligemment grâce à l'alg
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)

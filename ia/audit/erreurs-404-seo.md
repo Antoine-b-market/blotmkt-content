@@ -210,6 +210,10 @@ Une 404 indique que la page n'existe pas (côté client), tandis qu'une erreur 5
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)

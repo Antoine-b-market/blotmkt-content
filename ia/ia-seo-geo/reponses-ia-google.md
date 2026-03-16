@@ -223,6 +223,10 @@ Créez des tableaux de bord utilisant les données de Google Search Console pour
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)

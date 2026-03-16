@@ -199,6 +199,10 @@ Le Screaming Frog Log File Analyser est un outil d'Audit SEO, conçu par de vrai
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)

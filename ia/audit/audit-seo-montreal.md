@@ -214,6 +214,10 @@ L'audit SEO est la première étape de toute stratégie d'Optimisation efficace,
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)

@@ -217,6 +217,10 @@ Créer des chaînes de redirection (où une redirection mène à une autre, puis
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)

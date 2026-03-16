@@ -207,6 +207,10 @@ Selon CanIUse.com, environ 94,25% des utilisateurs globaux peuvent utiliser WebP
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)

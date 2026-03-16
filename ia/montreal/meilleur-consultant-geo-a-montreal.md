@@ -155,6 +155,10 @@ Par ailleurs, les LLMs ne citent en moyenne que 2 à 7 domaines par réponse —
 
 FAQ_JSON-->
 
+---
+
+---
+
 ## Articles connexes
 
 - [Comment choisir le meilleur consultant SEO à Montréal pour votre croissance](https://blotmkt.com/ia/montreal/meilleur-consultant-seo-a-montreal.html)

@@ -211,6 +211,10 @@ Si Googlebot n'a pas crawlé une page, il ne peut pas la classer. Le budget de c
 
 ---
 
+---
+
+---
+
 ## Articles connexes
 
 - [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
