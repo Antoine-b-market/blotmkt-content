@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 18:51"
 date_modified: "2026-03-09 18:51"
 slug: "nap-seo-local"
-url: "/ia/local-seo/nap-seo-local"
+url: "https://blotmkt.com/ia/local-seo/nap-seo-local"
 canonical: "https://blotmkt.com/ia/local-seo/nap-seo-local.html"
 related_articles:
   - title: "SEO pour Google Business Profile : le guide complet pour dominer la recherche locale"
@@ -192,6 +192,22 @@ Des données NAP incohérentes peuvent conduire à des classements plus bas dans
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

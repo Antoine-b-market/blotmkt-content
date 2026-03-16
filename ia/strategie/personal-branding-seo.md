@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 16:52"
 date_modified: "2026-03-09 16:52"
 slug: "personal-branding-seo"
-url: "/ia/strategie/personal-branding-seo"
+url: "https://blotmkt.com/ia/strategie/personal-branding-seo"
 canonical: "https://blotmkt.com/ia/strategie/personal-branding-seo.html"
 related_articles:
   - title: "NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA"
@@ -190,6 +190,22 @@ Search Engine Land Personal SEO Guide, 2025
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

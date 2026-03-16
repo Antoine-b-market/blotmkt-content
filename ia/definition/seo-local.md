@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 08:43"
 date_modified: "2026-03-09 08:43"
 slug: "seo-local"
-url: "/ia/definition/seo-local"
+url: "https://blotmkt.com/ia/definition/seo-local"
 canonical: "https://blotmkt.com/ia/definition/seo-local.html"
 related_articles:
   - title: "SEO pour Google Business Profile : le guide complet pour dominer la recherche locale"
@@ -221,6 +221,22 @@ Vous pouvez débuter en autonomie avec l'Optimisation de base de votre fiche Goo
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

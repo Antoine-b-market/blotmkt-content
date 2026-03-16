@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 06:51"
 date_modified: "2026-03-09 06:51"
 slug: "heatmap-seo-audit"
-url: "/ia/audit/heatmap-seo-audit"
+url: "https://blotmkt.com/ia/audit/heatmap-seo-audit"
 canonical: "https://blotmkt.com/ia/audit/heatmap-seo-audit.html"
 related_articles:
   - title: "Audit de sitemap XML : le guide complet pour optimiser votre crawl"
@@ -201,6 +201,22 @@ Traitez d'abord le rouge (critiques : Indexation, vitesse), puis l'orange (oppor
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

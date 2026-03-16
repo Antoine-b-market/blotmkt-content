@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 18:42"
 date_modified: "2026-03-09 18:42"
 slug: "seo-ia"
-url: "/ia/ia-seo-geo/seo-ia"
+url: "https://blotmkt.com/ia/ia-seo-geo/seo-ia"
 canonical: "https://blotmkt.com/ia/ia-seo-geo/seo-ia.html"
 related_articles:
   - title: "Contenu IA SEO : le guide pour une stratégie de référencement sémantique"
@@ -216,6 +216,22 @@ L'IA automatise les tâches répétitives mais l'expertise humaine reste indispe
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

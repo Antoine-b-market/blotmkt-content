@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 18:44"
 date_modified: "2026-03-09 18:44"
 slug: "aeo-answer-engine-optimization"
-url: "/ia/ia-seo-geo/aeo-answer-engine-optimization"
+url: "https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization"
 canonical: "https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html"
 related_articles:
   - title: "Recherche vocale SEO : décrypter les enjeux et optimiser sa stratégie"
@@ -223,6 +223,22 @@ Les KPIs traditionnels cèdent la place aux citations, mentions et présence de 
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

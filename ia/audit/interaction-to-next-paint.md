@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 06:07"
 date_modified: "2026-03-09 06:07"
 slug: "interaction-to-next-paint"
-url: "/ia/audit/interaction-to-next-paint"
+url: "https://blotmkt.com/ia/audit/interaction-to-next-paint"
 canonical: "https://blotmkt.com/ia/audit/interaction-to-next-paint.html"
 related_articles:
   - title: "Largest Contentful Paint (LCP) : le guide complet pour optimiser la vitesse de votre site"
@@ -192,6 +192,22 @@ Un bon score INP est de 200ms ou moins, avec un LCP ≤2.5s et un CLS <0.1 pour 
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

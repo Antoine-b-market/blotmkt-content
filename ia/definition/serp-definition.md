@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 08:15"
 date_modified: "2026-03-09 08:15"
 slug: "serp-definition"
-url: "/ia/definition/serp-definition"
+url: "https://blotmkt.com/ia/definition/serp-definition"
 canonical: "https://blotmkt.com/ia/definition/serp-definition.html"
 related_articles:
   - title: "Réponses IA Google : le guide pour adapter votre SEO à la SGE et aux AI Overviews"
@@ -231,6 +231,22 @@ Les outils n'ont pas de jugement contextuel contrairement à vous - utilisez-les
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

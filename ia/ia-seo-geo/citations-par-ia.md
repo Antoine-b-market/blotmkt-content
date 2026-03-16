@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 18:00"
 date_modified: "2026-03-09 18:00"
 slug: "citations-par-ia"
-url: "/ia/ia-seo-geo/citations-par-ia"
+url: "https://blotmkt.com/ia/ia-seo-geo/citations-par-ia"
 canonical: "https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html"
 related_articles:
   - title: "Le guide complet des citations locales pour dominer le SEO local"
@@ -184,6 +184,22 @@ Des outils spécialisés comme OtterlyAI, Profound ou Peec AI permettent désorm
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

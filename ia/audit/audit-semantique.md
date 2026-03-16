@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 06:46"
 date_modified: "2026-03-09 06:46"
 slug: "audit-semantique"
-url: "/ia/audit/audit-semantique"
+url: "https://blotmkt.com/ia/audit/audit-semantique"
 canonical: "https://blotmkt.com/ia/audit/audit-semantique.html"
 related_articles:
   - title: "Audit de contenu existant : la méthode complète pour optimiser votre SEO"
@@ -205,6 +205,22 @@ L'audit sémantique produit ses effets dans la durée sur 3 à 6 mois et permet 
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

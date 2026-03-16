@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 16:36"
 date_modified: "2026-03-09 16:36"
 slug: "seo-e-commerce"
-url: "/ia/strategie/seo-e-commerce"
+url: "https://blotmkt.com/ia/strategie/seo-e-commerce"
 canonical: "https://blotmkt.com/ia/strategie/seo-e-commerce.html"
 related_articles:
   - title: "Stratégie SEO : le guide pour aligner contenu, ROI et IA générative"
@@ -209,6 +209,22 @@ Distinguez les intentions informationnelles (blog, guides) des intentions transa
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

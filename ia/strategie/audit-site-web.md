@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 17:10"
 date_modified: "2026-03-09 17:10"
 slug: "audit-site-web"
-url: "/ia/strategie/audit-site-web"
+url: "https://blotmkt.com/ia/strategie/audit-site-web"
 canonical: "https://blotmkt.com/ia/strategie/audit-site-web.html"
 related_articles:
   - title: "Audit SEO technique : le guide pour identifier les freins et optimiser votre ROI"
@@ -206,6 +206,22 @@ Consultant Marketing (2024), Autoseo (2025), Semrush (2024), Seomix (2024), Code
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

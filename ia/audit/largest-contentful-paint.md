@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 06:00"
 date_modified: "2026-03-09 06:00"
 slug: "largest-contentful-paint"
-url: "/ia/audit/largest-contentful-paint"
+url: "https://blotmkt.com/ia/audit/largest-contentful-paint"
 canonical: "https://blotmkt.com/ia/audit/largest-contentful-paint.html"
 related_articles:
   - title: "Compression image webp : le guide complet pour accélérer votre site"
@@ -237,6 +237,22 @@ Le FCP mesure le temps d'apparition du premier élément visuel dans la zone d'a
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

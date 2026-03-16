@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 09:13"
 date_modified: "2026-03-09 09:13"
 slug: "intention-informative"
-url: "/ia/definition/intention-informative"
+url: "https://blotmkt.com/ia/definition/intention-informative"
 canonical: "https://blotmkt.com/ia/definition/intention-informative.html"
 related_articles:
   - title: "L'intention de recherche : le guide pour décrypter et optimiser votre stratégie SEO"
@@ -199,6 +199,22 @@ La stratégie optimale combine les deux approches. Le contenu informatif constru
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

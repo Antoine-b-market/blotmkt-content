@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 06:29"
 date_modified: "2026-03-09 06:29"
 slug: "vitesse-de-chargement"
-url: "/ia/audit/vitesse-de-chargement"
+url: "https://blotmkt.com/ia/audit/vitesse-de-chargement"
 canonical: "https://blotmkt.com/ia/audit/vitesse-de-chargement.html"
 related_articles:
   - title: "Core web vitals : le guide pour maîtriser les signaux web essentiels de google"
@@ -197,6 +197,22 @@ Pour obtenir les Données de performance de la version mobile d'une URL, demande
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 06:25"
 date_modified: "2026-03-09 06:25"
 slug: "audit-mobile-first"
-url: "/ia/audit/audit-mobile-first"
+url: "https://blotmkt.com/ia/audit/audit-mobile-first"
 canonical: "https://blotmkt.com/ia/audit/audit-mobile-first.html"
 related_articles:
   - title: "Audit de site web : le guide complet pour un diagnostic SEO actionnable"
@@ -183,6 +183,22 @@ Un site responsive s'adapte à différentes tailles d'écrans mais peut priorise
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

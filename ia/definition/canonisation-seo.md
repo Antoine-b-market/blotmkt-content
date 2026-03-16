@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 08:46"
 date_modified: "2026-03-09 08:46"
 slug: "canonisation-seo"
-url: "/ia/definition/canonisation-seo"
+url: "https://blotmkt.com/ia/definition/canonisation-seo"
 canonical: "https://blotmkt.com/ia/definition/canonisation-seo.html"
 related_articles:
   - title: "Maîtriser les redirections 301 pour un SEO sans faille"
@@ -256,6 +256,22 @@ Dans un certain nombre de cas, Google lira la balise Canonical mais pourra prend
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

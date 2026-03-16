@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-12 05:19"
 date_modified: "2026-03-12 05:19"
 slug: "meilleur-consultant-geo-a-montreal"
-url: "/ia/montreal/meilleur-consultant-geo-a-montreal"
+url: "https://blotmkt.com/ia/montreal/meilleur-consultant-geo-a-montreal"
 sources:
   - blotmkt.com
   - antoine-blot.com
@@ -156,6 +156,22 @@ Par ailleurs, les LLMs ne citent en moyenne que 2 à 7 domaines par réponse —
 ---
 
 FAQ_JSON-->
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

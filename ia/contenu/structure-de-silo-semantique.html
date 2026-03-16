@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="fr-CA">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title></title>
+  <meta name="description" content="" />
+  <meta name="author" content="Antoine Blot" />
+  <link rel="canonical" href="https://blotmkt.com/ia/contenu/structure-de-silo-semantique.html" />
+  <link rel="alternate" hreflang="fr-CA" href="https://blotmkt.com/ia/contenu/structure-de-silo-semantique.html" />
+  <link rel="alternate" hreflang="fr" href="https://blotmkt.com/ia/contenu/structure-de-silo-semantique.html" />
+  <meta property="og:title" content="" />
+  <meta property="og:description" content="" />
+  <meta property="og:url" content="https://blotmkt.com/ia/contenu/structure-de-silo-semantique.html" />
+  <meta property="og:type" content="article" />
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:Georgia,serif;font-size:18px;line-height:1.7;color:#1a1a1a;background:#fff}
+    .page-wrapper{display:flex;max-width:1100px;margin:0 auto;padding:24px 20px 80px;gap:40px;align-items:flex-start}
+    .toc-col{width:240px;flex-shrink:0;position:sticky;top:24px;max-height:calc(100vh - 48px);overflow-y:auto}
+    .toc-title{font-size:0.78rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;color:#999;margin-bottom:12px}
+    .toc-list{list-style:none;padding:0;margin:0}
+    .toc-list li a{display:block;font-size:0.82rem;color:#555;text-decoration:none;padding:4px 0;line-height:1.4;border-left:2px solid #eee;padding-left:10px;transition:color 0.15s,border-color 0.15s}
+    .toc-list li a:hover,.toc-list li a.active{color:#0066cc;border-left-color:#0066cc}
+    .toc-list li.h3-item a{padding-left:22px;font-size:0.78rem;color:#777}
+    .toc-list li.h3-item a:hover,.toc-list li.h3-item a.active{color:#0066cc;border-left-color:#0066cc}
+    .article-col{flex:1;min-width:0;max-width:740px}
+    h1{font-size:2rem;line-height:1.2;margin:32px 0 16px;font-weight:700}
+    h2{font-size:1.35rem;margin:40px 0 12px;font-weight:700;border-bottom:2px solid #f0f0f0;padding-bottom:6px}
+    h3{font-size:1.1rem;margin:28px 0 8px;font-weight:600}
+    p{margin:0 0 16px}
+    a{color:#0066cc;text-decoration:none}
+    a:hover{text-decoration:underline}
+    blockquote{border-left:4px solid #0066cc;padding:12px 20px;margin:24px 0;background:#f8f9ff;border-radius:0 6px 6px 0}
+    blockquote p{margin:0}
+    table{width:100%;border-collapse:collapse;margin:24px 0;font-size:0.9rem}
+    th{background:#f5f5f5;padding:10px 14px;text-align:left;border:1px solid #ddd;font-weight:600}
+    td{padding:9px 14px;border:1px solid #ddd}
+    tr:nth-child(even){background:#fafafa}
+    code{background:#f4f4f4;padding:2px 6px;border-radius:3px;font-size:0.85em;font-family:monospace}
+    pre{background:#f4f4f4;padding:16px;border-radius:6px;overflow-x:auto;margin:20px 0}
+    hr{border:none;border-top:1px solid #eee;margin:32px 0}
+    ul,ol{margin:0 0 16px 24px}
+    li{margin-bottom:6px}
+    .meta{font-size:0.82rem;color:#888;margin-bottom:32px;padding-bottom:16px;border-bottom:1px solid #eee}
+    .related{margin-top:48px;padding-top:24px;border-top:2px solid #f0f0f0;width:calc(100% + 280px + 40px);margin-left:calc(-0px);position:relative;left:calc(-0px)}
+    .related h2{font-size:1rem;color:#555;border:none;padding:0;margin-bottom:16px}
+    .related-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
+    @media(max-width:860px){.related{width:100%}}
+    .alert-important{background:#fff8e6;border-left:4px solid #f0a500;padding:12px 16px;border-radius:0 6px 6px 0;margin:20px 0;font-size:0.92rem;color:#7a5000;line-height:1.6}
+    .alert-info{background:#f0f8ff;border-left:4px solid #0066cc;padding:12px 16px;border-radius:0 6px 6px 0;margin:20px 0;font-size:0.92rem;color:#004499;line-height:1.6}
+    .related-full{width:100%;margin-top:48px;padding-top:24px;border-top:2px solid #f0f0f0}
+    .related-card{background:#f8f9ff;border:1px solid #dde8ff;border-radius:8px;padding:14px;text-decoration:none;display:flex;flex-direction:column;gap:6px;transition:box-shadow 0.2s,transform 0.15s}
+    .related-card:hover{box-shadow:0 4px 12px rgba(0,102,204,0.12);transform:translateY(-2px)}
+    .related-card-cat{font-size:0.68rem;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:#0066cc}
+    .related-card-top{display:flex;align-items:center;gap:8px;margin-bottom:4px}
+    .related-card-title{font-size:0.88rem;font-weight:700;color:#1a1a1a;line-height:1.4;display:block}
+    .related-card-desc{font-size:0.78rem;color:#666;line-height:1.5;margin-top:6px;flex:1}
+    .related-card-meta{display:flex;flex-wrap:wrap;gap:8px;font-size:0.72rem;color:#999;margin-top:8px;padding-top:8px;border-top:1px solid #e8edf5}
+    .related-card-kw{background:#f0f4ff;border:1px solid #dde8ff;border-radius:10px;padding:1px 8px;color:#0066cc}
+    .site-footer{margin-top:64px;padding:32px 20px 16px;border-top:1px solid #eee;background:#fafafa;font-size:0.82rem;color:#888}
+    .footer-inner{display:flex;justify-content:space-between;align-items:flex-start;max-width:1100px;margin:0 auto 16px;gap:32px;flex-wrap:wrap}
+    .footer-left{line-height:1.8;color:#999}
+    .footer-right{display:flex;gap:16px;flex-wrap:wrap;align-items:center}
+    .footer-right a{color:#888;text-decoration:none}
+    .footer-right a:hover{color:#0066cc}
+    .footer-bottom{text-align:center;max-width:1100px;margin:0 auto;padding-top:12px;border-top:1px solid #eee;font-size:0.75rem;color:#bbb}
+    @media(max-width:600px){.footer-inner{flex-direction:column;gap:16px}.footer-right{flex-direction:column;gap:8px}}
+    .breadcrumb{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-bottom:12px;font-size:0.78rem}
+    .bc-link{color:#888;text-decoration:none}
+    .bc-link:hover{color:#0066cc;text-decoration:underline}
+    .bc-sep{color:#ccc}
+    .bc-current{color:#aaa}
+    .article-meta{margin:10px 0 28px;padding-bottom:16px;border-bottom:1px solid #eee}
+    .meta-tags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}
+    .meta-kw{background:#f0f4ff;color:#0066cc;padding:3px 10px;border-radius:20px;font-size:0.75rem;font-weight:600;border:1px solid #dde8ff}
+    .meta-byline{display:flex;align-items:center;justify-content:space-between;gap:12px}
+    .meta-author-block{display:flex;align-items:center;gap:10px}
+    .meta-avatar-placeholder{width:38px;height:38px;border-radius:50%;background:#e8edf5;flex-shrink:0;border:2px solid #dde}
+    .meta-author-info{display:flex;flex-direction:column;gap:1px}
+    .meta-author{color:#1a1a1a;text-decoration:none;font-weight:700;font-size:0.88rem}
+    .meta-author:hover{color:#0066cc}
+    .meta-jobtitle{font-size:0.75rem;color:#999}
+    .meta-right{display:flex;align-items:center;gap:14px;font-size:0.78rem;color:#888}
+    .meta-right svg{vertical-align:middle;margin-right:3px;color:#aaa}
+    .meta-date,.meta-read{display:flex;align-items:center;gap:4px}
+    .meta-md-btn{display:inline-flex;align-items:center;padding:2px 7px;border-radius:4px;border:1px solid #ddd;font-size:0.72rem;font-weight:700;color:#888;text-decoration:none;font-family:monospace;background:#fafafa;transition:all 0.15s}
+    .meta-md-btn:hover{border-color:#0066cc;color:#0066cc;background:#f0f4ff}
+    @media(max-width:600px){.meta-byline{flex-direction:column;align-items:flex-start;gap:8px}}
+    .share-bar{margin-top:24px;padding-top:16px;border-top:1px solid #eee}
+    .share-label{display:block;font-size:0.72rem;color:#999;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;margin-bottom:8px}
+    .share-btns{display:flex;gap:6px}
+    .share-btn{display:inline-flex;align-items:center;justify-content:center;width:32px;height:32px;border-radius:6px;text-decoration:none;transition:opacity 0.15s}
+    .share-btn svg{width:15px;height:15px}
+    .share-btn:hover{opacity:0.85}
+    .share-fb{background:#1877f2;color:#fff}
+    .share-li{background:#0a66c2;color:#fff}
+    .share-x{background:#000;color:#fff}
+    .toc-toggle{display:none;width:100%;background:#f8f9ff;border:1px solid #dde;border-radius:6px;padding:10px 16px;font-size:0.9rem;font-weight:600;color:#0066cc;cursor:pointer;text-align:left;margin-bottom:16px}
+    .toc-toggle::after{content:" ▾";float:right}
+    .toc-toggle.open::after{content:" ▴"}
+    @media(max-width:860px){
+      .page-wrapper{flex-direction:column;padding:16px 16px 60px}
+      .toc-col{width:100%;position:static;max-height:none;overflow:visible}
+      .toc-toggle{display:block}
+      .toc-title{display:none}
+      .toc-list{display:none}
+      .toc-list.open{display:block}
+    }
+  </style>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "TechArticle",
+      "@id": "https://blotmkt.com/ia/contenu/structure-de-silo-semantique.html#article",
+      "headline": "Maîtriser la structure de silo sémantique : l'atout invisible de votre SEO et GEO",
+      "description": "Découvrez comment la structure de silo sémantique, optimisée par l'IA et un maillage interne stratégique, propulse votre autorité et visibilité SEO.",
+      "url": "https://blotmkt.com/ia/contenu/structure-de-silo-semantique.html",
+      "inLanguage": "fr-CA",
+      "datePublished": "2026-03-16 04:19",
+      "dateModified": "2026-03-16 04:19",
+      "author": {
+        "@id": "https://blotmkt.com/ia/a-propos.html#person"
+      },
+      "publisher": {
+        "@id": "https://blotmkt.com/#organization"
+      },
+      "articleSection": "Contenu SEO",
+      "keywords": "structure de silo sémantique",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://blotmkt.com/ia/contenu/structure-de-silo-semantique.html"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://blotmkt.com/ia/contenu/structure-de-silo-semantique.html#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "BlotMKT",
+          "item": "https://blotmkt.com/ia/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Contenu SEO",
+          "item": "https://blotmkt.com/ia/contenu/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Maîtriser la structure de silo sémantique : l'atout invisible de votre SEO et GEO",
+          "item": "https://blotmkt.com/ia/contenu/structure-de-silo-semantique.html"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://blotmkt.com/ia/a-propos.html#person",
+      "name": "Antoine Blot",
+      "jobTitle": "Consultant SEO et GEO",
+      "url": "https://blotmkt.com/ia/a-propos.html",
+      "sameAs": [
+        "https://www.antoine-blot.com",
+        "https://www.linkedin.com/in/blotantoine/",
+        "https://orcid.org/0009-0005-6450-4528"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://blotmkt.com/#organization",
+      "name": "BlotMKT",
+      "url": "https://blotmkt.com/",
+      "founder": {
+        "@id": "https://blotmkt.com/ia/a-propos.html#person"
+      }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/contenu/structure-de-silo-semantique.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+  <div class="page-wrapper">
+    <nav class="toc-col" aria-label="Table des matières">
+      <button class="toc-toggle" onclick="this.classList.toggle('open');this.nextElementSibling.classList.toggle('open')">Table des matières</button>
+      <p class="toc-title">Table des matières</p>
+      <ul class="toc-list" id="toc-list"></ul>
+    </nav>
+    <div class="article-col">
+      <article>
+        <h1>Maîtriser la structure de silo sémantique : l'atout invisible de votre SEO et GEO</h1>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
+<ul>
+<li>Un silo sémantique est une méthode d'organisation du contenu en catégories thématiques distinctes, avec une page pilier centrale et des pages filles interconnectées par un maillage interne hiérarchisé.</li>
+<li>La mise en place se déroule en 4 phases : <a href="https://blotmkt.com/ia/audit/audit-semantique.html">Audit sémantique</a>, conception de l'arborescence, création de contenus ciblés, puis maillage interne stratégique et maintenance régulière.</li>
+<li>Les silos renforcent l'autorité thématique, préviennent la cannibalisation de mots-clés et optimisent le crawl budget, ce qui améliore durablement les classements organiques.</li>
+<li>L'IA et le maillage interne sont des leviers complémentaires au silo : l'IA détecte les lacunes sémantiques, le maillage interne distribue le jus de lien et clarifie la structure pour les LLM.</li>
+<li>Les outils essentiels pour auditer un silo incluent Screaming Frog, Ahrefs, SEMrush, Surfer SEO et des outils de visualisation comme Gephi, à utiliser lors d'audits réguliers. Votre site publie régulièrement du contenu, mais vos pages stagnent ou se cannibalisent mutuellement dans les SERP. Le problème n'est pas la quantité de contenu : c'est son architecture. Sans structure sémantique cohérente, Google ne peut pas identifier votre expertise et les LLM ne peuvent pas vous citer.</li>
+</ul>
+</blockquote>
+<p class="speakable-intro">La structure de silo sémantique est la réponse : une organisation rigoureuse qui transforme un site fragmenté en un signal d'autorité thématique puissant.</p>
+<hr />
+<h2 class="speakable">Comprendre la structure de silo sémantique : définition et objectifs SEO</h2>
+<p>En SEO, le siloing est une méthode d'organisation et de structuration de contenu qui consiste à regrouper sous la même thématique les documents traitant du même sujet.
+ Concrètement, 
+cette méthode d'organisation permet d'avoir une structure pyramidale généralement composée de trois niveaux : un niveau supérieur représentant le sujet principal, un deuxième niveau comprenant les grandes sections du sujet, et un troisième niveau contenant des articles plus détaillés et approfondis.</p>
+<p>Imaginez un silo agricole : chaque compartiment stocke un type de grain spécifique, sans mélange. Sur votre site, c'est identique. 
+Chaque silo doit comporter une page pilier qui sert de ressource faisant autorité sur un sujet particulier. Cette page pilier servira de centre névralgique pour tous les contenus liés à ce silo.</p>
+<p>Côté objectifs, 
+cette méthode de structuration permet de renforcer le référencement naturel via l'optimisation de la structure du site, un meilleur positionnement sur des requêtes concurrentielles et une circulation optimale du jus SEO entre les pages.</p>
+<p>La différence avec le <a href="https://blotmkt.com/ia/definition/cocon-semantique.html">Cocon sémantique</a> ? 
+Alors que le siloing consiste à organiser les pages d'un site autour de pages rassemblées par thématique, un cocon sémantique va être mis en place dans l'optique de répondre aux attentes de l'internaute.
+ Le silo structure, le cocon anticipe les intentions.</p>
+<hr />
+<h2 class="speakable">Mise en œuvre et maintenance d'une architecture en silo sémantique</h2>
+<p>Construire un silo efficace repose sur 4 phases distinctes. Phase 1 : l'audit sémantique. 
+Avant de concevoir une structure de type silo, vous devez comprendre les sujets qui intéressent votre public. La recherche de mots-clés est la base de toute stratégie SEO efficace. Commencez par identifier les grands thèmes pertinents pour votre niche, puis affinez pour trouver des expressions de longue traîne.</p>
+<p>Phase 2 : 
+une fois que vous avez rassemblé une liste complète de mots-clés, regroupez-les en clusters en fonction de leur pertinence thématique. Ces clusters constitueront la base de vos silos.</p>
+<p>Phase 3 : la création de contenu. 
+La page cible doit présenter la thématique principale dans son ensemble, en se basant sur la requête la plus stratégique. Les pages intermédiaires doivent chacune développer un aspect spécifique du sujet principal, en proposant des informations bien détaillées.</p>
+<p>Phase 4, la plus critique : le maillage interne. 
+Chaque page principale de chaque silo est liée aux pages de sous-thèmes avec des liens internes pour garder l'utilisateur dans la même thématique, tout en rendant l'organisation claire pour le moteur de recherche.</p>
+<p>Un silo n'est pas statique. 
+Votre contenu doit être constamment à jour pour suivre les évolutions du marché et les attentes des utilisateurs. Un contenu frais et pertinent améliore les chances de maintenir de bonnes positions dans les résultats de recherche.</p>
+<hr />
+<h2 class="speakable">Bénéfices des silos sémantiques pour l'autorité et la performance SEO</h2>
+<p>Les silos produisent des effets mesurables sur plusieurs dimensions du SEO. 
+Lorsque votre contenu est regroupé en silos, les moteurs de recherche comprennent mieux le sujet de votre site web. Cela renforce son autorité thématique et améliore son classement pour les mots-clés associés.</p>
+<p>En matière de SEO, 85 % des experts soulignent l'importance de la création de contenus de haute qualité pour améliorer l'autorité thématique.
+ La structure en silo amplifie précisément cet effet en concentrant la puissance sémantique autour de pages piliers.</p>
+<p>Sur le plan technique, 
+un silo bien construit permet aux robots d'exploration de mieux comprendre l'arborescence du site. Ces derniers peuvent plus facilement établir un lien entre les différentes pages afin de mieux indexer leur contenu.</p>
+<p>Pour l'expérience utilisateur, 
+les visiteurs trouvent facilement des informations connexes, augmentant leur temps de visite et réduisant le <a href="https://blotmkt.com/ia/audit/taux-de-rebond.html">Taux de rebond</a>.</p>
+<p>Enfin, pour le GEO : 
+des recherches de Princeton démontrent que l'optimisation pour les moteurs génératifs peut augmenter la visibilité jusqu'à 40%, mais cette optimisation requiert des méthodes différentes, notamment la structuration sémantique.</p>
+<p>Selon Antoine BLOT, Expert SEO et marketing à Montréal, le maillage interne est le nerf de la guerre sémantique. Une structure en silo bien orchestrée devient une arme silencieuse pour dominer les SERP et être cité par les LLM.</p>
+<hr />
+<h2 class="speakable">L'interaction entre l'IA, le maillage interne et le silo sémantique</h2>
+<p>L'IA transforme profondément la façon dont les silos sont construits et exploités. 
+Des outils comme LinkBoss, lancés fin 2024, utilisent le NLP et le machine learning pour analyser le contenu de façon contextuelle, et non plus par simple correspondance de mots-clés.</p>
+<p>Pour le maillage interne, 
+l'utilisation du silo permet d'optimiser le maillage interne en créant des liens pertinents et contextualisés entre les articles du même niveau, mais aussi entre les différentes catégories. Cette architecture améliore considérablement la distribution du jus SEO entre les différentes pages.</p>
+<p>Les LLM privilégient les contenus structurés, chiffrés, ou de type FAQ, plus faciles à interpréter.
+ Une structure de silo bien construite est donc un signal direct de pertinence pour les moteurs génératifs.</p>
+<p>Concernant le GEO, 
+l'année 2024-2025 marque un tournant décisif : les AI Overviews de Google sont désormais présents dans plus de 50% des recherches</p>
+      </article>
+    </div>
+  </div>
+  <div style="max-width:1100px;margin:48px auto 0;padding:24px 20px 0;border-top:2px solid #f0f0f0">
+    <div style="display:flex;align-items:flex-start;gap:16px;background:#f8f9ff;border:1px solid #dde8ff;border-radius:8px;padding:16px 20px">
+      <img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:52px;height:52px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0">
+      <div style="flex:1;min-width:0">
+        <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:4px">
+          <a href="/ia/auteur-antoine-blot.html" style="font-weight:700;color:#1a1a1a;font-size:0.95rem;text-decoration:none">Antoine Blot</a>
+          <span style="font-size:0.78rem;color:#888">Consultant SEO &amp; GEO</span>
+        </div>
+        <p style="font-size:0.85rem;color:#555;margin:0 0 10px;line-height:1.6;font-style:italic">Responsable marketing et consultant SEO et GEO à Montréal et au Québec. Une décennie de pratique au service de la visibilité des marques sur Google et les moteurs IA.</p>
+        <div style="display:flex;gap:8px;flex-wrap:wrap">
+          <a href="/ia/auteur-antoine-blot.html" style="font-size:0.75rem;color:#0066cc;border:1px solid #dde8ff;padding:2px 10px;border-radius:20px;background:#fff;text-decoration:none">Voir le profil</a>
+          <a href="https://antoine-blot.com" target="_blank" rel="noopener" style="font-size:0.75rem;color:#0066cc;border:1px solid #dde8ff;padding:2px 10px;border-radius:20px;background:#fff;text-decoration:none">antoine-blot.com</a>
+          <a href="https://www.linkedin.com/in/blotantoine/" target="_blank" rel="noopener" style="font-size:0.75rem;color:#0066cc;border:1px solid #dde8ff;padding:2px 10px;border-radius:20px;background:#fff;text-decoration:none">LinkedIn</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="max-width:1100px;margin:48px auto 0;padding:24px 20px 0;border-top:2px solid #f0f0f0"><h2 style="font-size:1rem;color:#555;margin-bottom:16px">Articles connexes</h2><div class="related-grid"><a href="https://blotmkt.com/ia/contenu/alt-text-image.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Contenu SEO</span></div><span class="related-card-title">Alt text image : le guide pour optimiser votre SEO et votre accessibilité</span><p class="related-card-desc">Apprenez à rédiger un alt text image parfait pour booster votre SEO sur Google Images, améliorer l'a...</p><div class="related-card-meta"><span>Antoine Blot</span><span>2026-03-09</span><span class="related-card-kw">Alt text image</span></div></a><a href="https://blotmkt.com/ia/contenu/audit-contenu-existant.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Contenu SEO</span></div><span class="related-card-title">Audit de contenu existant : la méthode complète pour optimiser votre SEO</span><p class="related-card-desc">Découvrez comment réaliser un audit de contenu existant pour améliorer votre SEO. Notre guide vous e...</p><div class="related-card-meta"><span>Antoine Blot</span><span>2026-03-09</span><span class="related-card-kw">Audit contenu existant</span></div></a><a href="https://blotmkt.com/ia/contenu/balise-h1-seo.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Contenu SEO</span></div><span class="related-card-title">Balise h1 SEO : le guide pratique pour optimiser votre titre principal</span><p class="related-card-desc">Qu'est-ce qu'une balise H1 en SEO ? Apprenez à l'optimiser pour Google, à la différencier de la bali...</p><div class="related-card-meta"><span>Antoine Blot</span><span>2026-03-09</span><span class="related-card-kw">Balise H1 SEO</span></div></a><a href="https://blotmkt.com/ia/contenu/call-to-action.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Contenu SEO</span></div><span class="related-card-title">Call to action : le guide complet pour créer des cta qui convertissent</span><p class="related-card-desc">Un call to action (CTA) efficace est la clé de la conversion. Apprenez à le rédiger grâce à nos exem...</p><div class="related-card-meta"><span>Antoine Blot</span><span>2026-03-09</span><span class="related-card-kw">Call to action</span></div></a><a href="https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Contenu SEO</span></div><span class="related-card-title">Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne</span><p class="related-card-desc">Découvrez comment le clustering de mots-clés optimise votre SEO. Apprenez à regrouper vos requêtes p...</p><div class="related-card-meta"><span>Antoine Blot</span><span>2026-03-09</span><span class="related-card-kw">Clustering de mots-clés</span></div></a></div></div>
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-left">
+        <strong>BLOT Antoine</strong><br>
+        48 rue de la Concorde<br>
+        Repentigny, Québec<br>
+        Canada
+      </div>
+      <div class="footer-right">
+        <a href="/ia/">Articles</a>
+        <a href="/ia/a-propos.html">À propos</a>
+        <a href="/privacy-policy.html">Privacy Policy</a>
+        <a href="/terms.html">Terms of Use</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      © 2026 BlotMKT — Antoine Blot. Tous droits réservés.
+    </div>
+  </footer>
+  <script>
+    (function(){
+      // Fil d'ariane
+      var schemaBc = document.querySelector('script[type="application/ld+json"]');
+      var h1Bc = document.querySelector('.article-col h1');
+      if(schemaBc && h1Bc){
+        try{
+          var dataBc = JSON.parse(schemaBc.textContent);
+          var bc = (dataBc['@graph']||[]).find(function(n){return n['@type']==='BreadcrumbList';});
+          if(bc && bc.itemListElement){
+            var nav = document.createElement('nav');
+            nav.className = 'breadcrumb';
+            nav.setAttribute('aria-label','Fil d&#39;ariane');
+            nav.innerHTML = bc.itemListElement.map(function(item, i){
+              var isLast = i === bc.itemListElement.length - 1;
+              return isLast
+                ? '<span class="bc-current">'+item.name+'</span>'
+                : '<a class="bc-link" href="'+item.item+'">'+item.name+'</a><span class="bc-sep">›</span>';
+            }).join('');
+            h1Bc.insertAdjacentElement('beforebegin', nav);
+          }
+        }catch(e){}
+      }
+      // Bloc meta sous H1
+      var schema = document.querySelector('script[type="application/ld+json"]');
+      var h1 = document.querySelector('.article-col h1');
+      if(schema && h1){
+        try{
+          var data = JSON.parse(schema.textContent);
+          var article = (data['@graph']||[]).find(function(n){return n['@type']==='TechArticle';}) || {};
+          var kws = (article.keywords||'').split(',').map(function(k){return k.trim();}).filter(Boolean).slice(0,4);
+          var dateRaw = article.datePublished || '';
+          var date = dateRaw ? new Date(dateRaw).toLocaleDateString('fr-CA',{year:'numeric',month:'long',day:'numeric'}) : '';
+          var words = document.querySelector('.article-col article').innerText.trim().split(/\s+/).length;
+          var readTime = Math.ceil(words / 200);
+          var meta = document.createElement('div');
+          meta.className = 'article-meta';
+          meta.innerHTML =
+            '<div class="meta-tags">'+(kws.map(function(k){return '<span class="meta-kw">'+k+'</span>';}).join(''))+'</div>' +
+            '<div class="meta-byline">' +
+              '<div class="meta-author-block">' +
+                '<img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:48px;height:48px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0">' +
+                '<div class="meta-author-info">' +
+                  '<a class="meta-author" href="/ia/auteur-antoine-blot.html">Antoine Blot</a>' +
+                  '<span class="meta-jobtitle">Consultant SEO &amp; GEO</span>' +
+                '</div>' +
+              '</div>' +
+              '<div class="meta-right">' +
+                (date ? '<span class="meta-date"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>'+date+'</span>' : '') +
+                '<span class="meta-read"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>'+readTime+' min</span>' +
+                '<a class="meta-md-btn" href="'+window.location.href.replace('.html','.md')+'">.md</a>' +
+              '</div>' +
+            '</div>';
+          h1.insertAdjacentElement('afterend', meta);
+          // Boutons de partage
+          var url = encodeURIComponent(window.location.href);
+          var title = encodeURIComponent(document.title);
+          var share = document.createElement('div');
+          share.className = 'share-bar';
+          share.innerHTML =
+            '<span class="share-label">Partager</span>' +
+            '<div class="share-btns">' +
+            '<a class="share-btn share-fb" href="https://www.facebook.com/sharer/sharer.php?u='+url+'" target="_blank" rel="noopener" aria-label="Partager sur Facebook">' +
+              '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg></a>' +
+            '<a class="share-btn share-li" href="https://www.linkedin.com/sharing/share-offsite/?url='+url+'" target="_blank" rel="noopener" aria-label="Partager sur LinkedIn">' +
+              '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"/><circle cx="4" cy="4" r="2"/></svg></a>' +
+            '<a class="share-btn share-x" href="https://x.com/intent/post?url='+url+'&text='+title+'" target="_blank" rel="noopener" aria-label="Partager sur X">' +
+              '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L1.254 2.25H8.08l4.253 5.622 5.911-5.622z"/></svg></a>' +
+            '</div>';
+          // share injecté dans la TOC
+          var tocCol = document.querySelector('.toc-col');
+          if(tocCol) tocCol.appendChild(share);
+        }catch(e){}
+      }
+      // TOC
+      var headings = document.querySelectorAll('.article-col h2');
+      var toc = document.getElementById('toc-list');
+      var idx = 0;
+      headings.forEach(function(h){
+        if(h.closest('.related')) return;
+        var id = h.id || 'heading-'+(idx++);
+        h.id = id;
+        var li = document.createElement('li');
+        li.className = h.tagName === 'H3' ? 'h3-item' : '';
+        var a = document.createElement('a');
+        a.href = '#'+id;
+        a.textContent = h.textContent;
+        li.appendChild(a);
+        toc.appendChild(li);
+      });
+      var links = toc.querySelectorAll('a');
+      window.addEventListener('scroll', function(){
+        var pos = window.scrollY + 80;
+        var active = null;
+        headings.forEach(function(h){
+          if(h.offsetTop <= pos) active = h.id;
+        });
+        links.forEach(function(a){
+          a.classList.toggle('active', a.getAttribute('href') === '#'+active);
+        });
+      });
+    })();
+  </script>
+</body>
+</html>

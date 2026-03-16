@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 06:41"
 date_modified: "2026-03-09 06:41"
 slug: "fichier-robots.txt"
-url: "/ia/audit/fichier-robots.txt"
+url: "https://blotmkt.com/ia/audit/fichier-robots.txt"
 canonical: "https://blotmkt.com/ia/audit/fichier-robots.txt.html"
 related_articles:
   - title: "Exploration Googlebot : le guide complet pour optimiser votre budget de crawl"
@@ -215,6 +215,22 @@ L'intérêt, c'est que l'on peut définir quel robot de moteur de recherche aura
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

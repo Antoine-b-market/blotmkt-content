@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 19:45"
 date_modified: "2026-03-09 19:45"
 slug: "spam-score"
-url: "/ia/popularite/spam-score"
+url: "https://blotmkt.com/ia/popularite/spam-score"
 canonical: "https://blotmkt.com/ia/popularite/spam-score.html"
 related_articles:
   - title: "Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO"
@@ -199,6 +199,22 @@ Pour les Link Spam Updates spécifiquement, les changements peuvent ne pas gén�
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

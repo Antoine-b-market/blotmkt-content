@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 08:05"
 date_modified: "2026-03-09 08:05"
 slug: "trust-flow-seo"
-url: "/ia/definition/trust-flow-seo"
+url: "https://blotmkt.com/ia/definition/trust-flow-seo"
 canonical: "https://blotmkt.com/ia/definition/trust-flow-seo.html"
 related_articles:
   - title: "SEO YMYL : le guide pratique pour maîtriser l'E-E-A-T et sécuriser vos classements"
@@ -217,6 +217,22 @@ Les métriques TF et CF répondent positivement aux efforts d'amélioration. Cr�
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

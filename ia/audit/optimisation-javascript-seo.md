@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 06:32"
 date_modified: "2026-03-09 06:32"
 slug: "optimisation-javascript-seo"
-url: "/ia/audit/optimisation-javascript-seo"
+url: "https://blotmkt.com/ia/audit/optimisation-javascript-seo"
 canonical: "https://blotmkt.com/ia/audit/optimisation-javascript-seo.html"
 related_articles:
   - title: "Désindexation google: guide pratique pour contrôler votre visibilité en ligne"
@@ -198,6 +198,22 @@ L'équipe Chrome Aurora travaille étroitement avec les auteurs de frameworks co
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

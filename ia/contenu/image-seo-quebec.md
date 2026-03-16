@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 07:35"
 date_modified: "2026-03-09 07:35"
 slug: "image-seo-quebec"
-url: "/ia/contenu/image-seo-quebec"
+url: "https://blotmkt.com/ia/contenu/image-seo-quebec"
 canonical: "https://blotmkt.com/ia/contenu/image-seo-quebec.html"
 related_articles:
   - title: "Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA"
@@ -187,6 +187,22 @@ Neil Patel (2025)
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

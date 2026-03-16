@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-12 05:08"
 date_modified: "2026-03-12 05:08"
 slug: "pagination-seo"
-url: "/ia/audit/pagination-seo"
+url: "https://blotmkt.com/ia/audit/pagination-seo"
 related_articles:
   - title: "Budget de crawl : le guide pour l'optimiser et accélérer votre indexation"
     url: "/ia/audit/budget-de-crawl"
@@ -119,6 +119,22 @@ La pagination aide les moteurs de recherche à crawler efficacement en créant u
 ---
 
 *Sources : Gray Dot Co – Pagination SEO Best Practices (2025) ; SearchX – Pagination SEO Best Practices for Crawl Efficiency (2025) ; SEOClarity – SEO Pagination Best Practices (janvier 2025) ; Search Engine Land – Pagination and SEO: What you need to know in 2025 (mars 2025) ; SEMrush – Pagination and SEO: A Complete Guide (février 2025) ; Ninja Tables – Infinite Scroll vs Pagination (2025) ; Jasmine Directory – Pagination vs. Infinite Scroll: SEO Implications (2025)*
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

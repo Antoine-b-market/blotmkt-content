@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 19:17"
 date_modified: "2026-03-09 19:17"
 slug: "intention-de-recherche"
-url: "/ia/contenu/intention-de-recherche"
+url: "https://blotmkt.com/ia/contenu/intention-de-recherche"
 canonical: "https://blotmkt.com/ia/contenu/intention-de-recherche.html"
 related_articles:
   - title: "Mots-clés informationnels : guide pour optimiser votre stratégie SEO avec l'IA"
@@ -216,6 +216,22 @@ Les outils comme Semrush identifient automatiquement l'intention et aident à cr
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

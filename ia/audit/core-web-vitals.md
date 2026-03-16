@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 05:57"
 date_modified: "2026-03-09 05:57"
 slug: "core-web-vitals"
-url: "/ia/audit/core-web-vitals"
+url: "https://blotmkt.com/ia/audit/core-web-vitals"
 canonical: "https://blotmkt.com/ia/audit/core-web-vitals.html"
 related_articles:
   - title: "UX design SEO : le guide pour fusionner expérience utilisateur et référencement"
@@ -227,6 +227,22 @@ Leur impact est plus notable quand les pages ont un Contenu comparable, lors de 
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

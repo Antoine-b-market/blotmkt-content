@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 17:49"
 date_modified: "2026-03-09 17:49"
 slug: "generative-engine-optimization-(geo)"
-url: "/ia/ia-seo-geo/generative-engine-optimization-(geo)"
+url: "https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo)"
 canonical: "https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo).html"
 related_articles:
   - title: "Moteurs de réponse : le guide de la Generative Engine Optimization (GEO)"
@@ -199,6 +199,22 @@ Les rapports de recherche, articles basés sur des données, FAQ complètes, gui
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

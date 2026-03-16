@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 06:05"
 date_modified: "2026-03-09 06:05"
 slug: "first-input-delay"
-url: "/ia/audit/first-input-delay"
+url: "https://blotmkt.com/ia/audit/first-input-delay"
 canonical: "https://blotmkt.com/ia/audit/first-input-delay.html"
 related_articles:
   - title: "Interaction to next paint (inp) : le guide complet pour une réactivité web optimale"
@@ -218,6 +218,22 @@ Le FID mesure uniquement le délai de la première interaction, tandis que l'INP
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 18:30"
 date_modified: "2026-03-09 18:30"
 slug: "reponse-directe-ia"
-url: "/ia/ia-seo-geo/reponse-directe-ia"
+url: "https://blotmkt.com/ia/ia-seo-geo/reponse-directe-ia"
 canonical: "https://blotmkt.com/ia/ia-seo-geo/reponse-directe-ia.html"
 related_articles:
   - title: "Optimisation llm (llmo) : le guide pratique pour adapter votre seo à l'ère de l'ia"
@@ -213,6 +213,22 @@ Les moteurs génératifs synthétisent une réponse unique en puisant dans plusi
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 

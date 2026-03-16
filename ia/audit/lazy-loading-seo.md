@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 06:59"
 date_modified: "2026-03-09 06:59"
 slug: "lazy-loading-seo"
-url: "/ia/audit/lazy-loading-seo"
+url: "https://blotmkt.com/ia/audit/lazy-loading-seo"
 canonical: "https://blotmkt.com/ia/audit/lazy-loading-seo.html"
 related_articles:
   - title: "Optimisation JavaScript SEO : le guide complet pour le rendu et l'indexation"
@@ -210,6 +210,22 @@ Le lazy loading uniquement des Images below-the-fold résulte en une inversion c
   ]
 }
 ```
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 
