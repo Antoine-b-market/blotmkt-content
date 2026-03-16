@@ -27,9 +27,11 @@ related_articles:
 
 # Core web vitals : le guide pour maîtriser les signaux web essentiels de google
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Les Core Web Vitals sont trois métriques spécifiques (LCP, INP, CLS) qui mesurent l'expérience utilisateur réelle et influencent directement les classements SEO depuis 2021
 > - 
+<!-- speakable:end -->
 LCP mesure la [Vitesse de chargement](https://blotmkt.com/ia/audit/vitesse-de-chargement.html) (objectif : moins de 2,5 secondes), INP évalue la réactivité (moins de 200 millisecondes) et CLS quantifie la stabilité visuelle (moins de 0,1)
 
 > - 
@@ -225,6 +227,10 @@ Leur impact est plus notable quand les pages ont un Contenu comparable, lors de 
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

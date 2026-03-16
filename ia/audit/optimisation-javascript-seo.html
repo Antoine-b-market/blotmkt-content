@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/audit/optimisation-javascript-seo.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,13 +201,13 @@
     <div class="article-col">
       <article>
         <h1>Optimisation JavaScript SEO : le guide complet pour le rendu et l'indexation</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>L'optimisation JavaScript SEO consiste à gérer le processus de crawl-render-index de Googlebot, qui traite désormais le contenu JS mais avec des délais de rendu pouvant affecter l'indexation</li>
 <li>Le Server-Side Rendering (SSR) offre une Indexation immédiate avec du HTML complet, contrairement au Client-Side Rendering (CSR) qui nécessite l'exécution JavaScript côté navigateur</li>
 <li>
-<p>Le rendu côté client peut être problématique pour le SEO car les éléments critiques ne deviennent visibles qu'après le rendu, et Google indexe d'abord le HTML puis met à jour l'index avec le contenu JavaScript rendu</p>
+<p class="speakable-intro">Le rendu côté client peut être problématique pour le SEO car les éléments critiques ne deviennent visibles qu'après le rendu, et Google indexe d'abord le HTML puis met à jour l'index avec le contenu JavaScript rendu</p>
 </li>
 <li>
 <p>Un JavaScript optimisé améliore directement les <a href="https://blotmkt.com/ia/audit/core-web-vitals.html">Core Web Vitals</a> et les conversions : Shopify a observé une réduction de 35% du LCP et 25% d'amélioration de l'INP, générant une augmentation de 12% des taux de conversion</p>
@@ -208,7 +218,7 @@
 80% des sites e-commerce populaires américains utilisaient déjà JavaScript pour générer le Contenu principal en 2019, un pourcentage encore plus élevé aujourd'hui
 . Pourtant, nombreux sont les sites qui sous-performent dans Google à cause d'une optimisation JavaScript défaillante. Cette situation paradoxale révèle un défi technique majeur : comment concilier l'expérience utilisateur riche des applications modernes avec les exigences de performance et d'indexation des moteurs de recherche ?</p>
 <hr />
-<h2>Pourquoi l'optimisation JavaScript est un pilier du SEO technique</h2>
+<h2 class="speakable">Pourquoi l'optimisation JavaScript est un pilier du SEO technique</h2>
 <p>L'Optimisation JavaScript pour le SEO ne se limite pas à une contrainte technique : elle constitue un levier de performance business direct. 
 Google traite les applications JavaScript en trois phases principales : crawl, render et index, en mettant toutes les pages avec un code 200 dans la file de rendu avant d'utiliser un Chrome headless pour exécuter le JavaScript et Analyser le HTML rendu
 .</p>
@@ -217,7 +227,7 @@ Google traite les applications JavaScript en trois phases principales : crawl, r
 . Cette Architecture en deux temps peut considérablement retarder la visibilité de votre contenu dans les résultats de recherche.</p>
 <p>Le JavaScript rend plus difficile pour Google le crawl, le rendu et l'indexation des pages par rapport au HTML pur, ce qui peut nuire à la couverture d'index si les pages JavaScript sont créées sans expertise appropriée
 . Cette complexité technique se traduit par un impact direct sur le <a href="https://blotmkt.com/ia/audit/budget-de-crawl.html">Budget de crawl</a> et la découverte de nouvelles pages.</p>
-<h2>CSR vs SSR vs Rendu dynamique : choisir la bonne stratégie</h2>
+<h2 class="speakable">CSR vs SSR vs Rendu dynamique : choisir la bonne stratégie</h2>
 <h3>Client-Side Rendering : l'expérience utilisateur au prix de l'indexation</h3>
 <p>Le rendu côté client transforme votre site en application web riche mais 
 permet aux développeurs de créer des sites entièrement rendus dans le navigateur avec JavaScript, où seul un Fichier HTML minimal est servi initialement avec peu de contenu jusqu'à ce que le JavaScript soit récupéré et compilé
@@ -232,7 +242,7 @@ Avec le CSR, le contenu est rendu dans le navigateur via JavaScript, donc le Jav
 .</p>
 <h3>Rendu dynamique : la solution transitoire</h3>
 <p>Le rendu dynamique constitue une approche hybride servant une version HTML complète aux bots et une version JavaScript aux utilisateurs. Cette Stratégie s'avère particulièrement adaptée aux sites existants difficiles à migrer vers SSR, mais ne doit pas être considérée comme une solution à long terme.</p>
-<h2>Diagnostiquer et corriger les erreurs de rendu JavaScript</h2>
+<h2 class="speakable">Diagnostiquer et corriger les erreurs de rendu JavaScript</h2>
 <h3>Outils d'audit essentiels</h3>
 <p>Depuis novembre 2023, les problèmes JavaScript-SEO les plus courants identifiés incluent les URLs contenant un h1 uniquement dans le HTML rendu après exécution JavaScript, bien que Google puisse rendre les pages et voir le Contenu côté client
 .</p>
@@ -241,7 +251,7 @@ Avec le CSR, le contenu est rendu dans le navigateur via JavaScript, donc le Jav
 <p>Il est possible d'utiliser JavaScript pour injecter des liens dans le DOM, à condition que ces liens suivent les bonnes pratiques pour les liens crawlables, car Googlebot Analyse le HTML rendu pour découvrir des liens et les ajoute à la file de crawl
 .</p>
 <p>Évitez de bloquer les ressources JavaScript et CSS dans le robots.txt, implémentez le lazy loading de manière SEO-friendly, et assurez-vous que les liens critiques utilisent des balises <code>&amp;lt;a&gt;</code> avec des attributs <code>href</code> appropriés.</p>
-<h2>L'impact direct du JavaScript sur l'UX et les conversions</h2>
+<h2 class="speakable">L'impact direct du JavaScript sur l'UX et les conversions</h2>
 <h3>Connexion avec les Core Web Vitals</h3>
 <p>L'optimisation pour l'Interaction to Next Paint (INP) implique de rationaliser l'exécution JavaScript via la fragmentation des tâches et la priorisation des scripts essentiels pour améliorer la réactivité des interactions
 . Un JavaScript mal optimisé dégrade directement le Largest Contentful Paint, l'INP et le <a href="https://blotmkt.com/ia/audit/cumulative-layout-shift.html">Cumulative Layout Shift</a>.</p>
@@ -253,7 +263,7 @@ Avec le CSR, le contenu est rendu dans le navigateur via JavaScript, donc le Jav
 <p>Les techniques d'optimisation incluent le code splitting pour ne charger que le JavaScript nécessaire, le tree shaking pour éliminer le code inutilisé, et la Compression. 
 L'effet composé de Core Web Vitals améliorés inclut de meilleurs classements de recherche générant plus de trafic, combinés à des taux de conversion plus élevés, un site classé en troisième position au lieu de huitième tout en convertissant à des taux supérieurs peut facilement générer le double ou le triple des revenus
 .</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Comment Google explore-t-il le JavaScript ?</h3>
 <p>Google tente de rendre virtuellement toutes les pages HTML qu'il crawle, pas seulement un sous-ensemble de pages lourdes en JavaScript, avec plus de 100 000 récupérations Googlebot analysées pour tester les capacités SEO de Google
 .</p>

@@ -27,9 +27,11 @@ related_articles:
 
 # Maillage interne en silo : le guide pour une architecture SEO optimisée
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le maillage interne en silo organise le contenu par thématiques étanches pour concentrer l'autorité et la pertinence sémantique au sein de chaque cluster
 > - 
+<!-- speakable:end -->
 La technique consiste à faire passer la puissance d'une page principale vers les pages qui sont en dessous dans l'arborescence
 
 > - 
@@ -229,6 +231,10 @@ Hiérarchie claire : Accueil > Catégories principales > Sous-catégories > Page
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

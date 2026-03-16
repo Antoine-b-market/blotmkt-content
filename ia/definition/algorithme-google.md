@@ -27,8 +27,10 @@ related_articles:
 
 # Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 L'algorithme Google moderne repose sur des systèmes d'IA comme RankBrain (2015) et BERT (2019) qui privilégient la compréhension sémantique de l'intention utilisateur plutôt que la simple correspondance de mots-clés
 
 > - 
@@ -194,6 +196,10 @@ L'évolution propulsée par l'IA a un impact considérable sur le référencemen
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

@@ -27,8 +27,10 @@ related_articles:
 
 # Facteurs de classement Google : le guide basé sur la documentation officielle
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Google utilise plus de 200 facteurs de classement
 , mais 
 la qualité du contenu, les backlinks et les aspects techniques
@@ -224,6 +226,10 @@ Utilisez les outils gratuits de Google comme PageSpeed Insights, Search Console 
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

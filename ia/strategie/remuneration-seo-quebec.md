@@ -27,8 +27,10 @@ related_articles:
 
 # Rémunération SEO au Québec : salaires, tarifs et investissement rentable
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Les salaires SEO au Québec varient de 45 000 $ à 100 000 $ selon l'expérience, avec une moyenne de 57 153 $ à Montréal
 
 > - 
@@ -226,6 +228,10 @@ En DIY, comptez 0-500 $/mois pour des outils. En accompagnement stratégique (DI
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

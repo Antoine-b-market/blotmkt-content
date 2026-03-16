@@ -27,9 +27,11 @@ related_articles:
 
 # Le mandat SEO pour entreprise : de la stratégie à la performance et la visibilité
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un mandat SEO entreprise est un partenariat stratégique long terme qui aligne objectifs business et Algorithmes pour devenir une source d'information privilégiée dans votre secteur
 > - 
+<!-- speakable:end -->
 Les leads générées par le SEO convertissent 9 fois plus que ceux issus de la prospection directe) avec un taux de conversion moyen de 14,6%
 
 > - 
@@ -187,6 +189,10 @@ Site Référencement (2025)
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

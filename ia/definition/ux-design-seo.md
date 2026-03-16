@@ -27,9 +27,11 @@ related_articles:
 
 # UX design SEO : le guide pour fusionner expérience utilisateur et référencement
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - L'UX design SEO unit expérience utilisateur et référencement naturel pour créer une synergie bénéfique : le SEO attire le trafic, l'UX le retient et génère des signaux positifs pour Google
 > - 
+<!-- speakable:end -->
 L'expérience utilisateur influence directement les classements via les signaux d'engagement (temps de session, taux de rebond) et les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html)
 
 > - 
@@ -199,6 +201,10 @@ L'UI (User Interface) concerne l'aspect visuel et l'interface graphique, tandis 
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

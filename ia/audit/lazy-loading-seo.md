@@ -27,12 +27,14 @@ related_articles:
 
 # Lazy loading et SEO : le guide pour accélérer votre site sans nuire au référencement
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le lazy loading est une technique qui différé le chargement des ressources (images, vidéos, iframes) jusqu'à ce qu'elles soient visibles dans le viewport de l'utilisateur
 > - Il améliore les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) en réduisant le temps de chargement initial (LCP) de 40-60% en moyenne, mais peut nuire au SEO si mal implémenté
 > - L'attribut HTML natif `loading="lazy"` est la solution la plus SEO-friendly, contrairement aux solutions JavaScript qui retardent l'Indexation
 > - Il ne faut jamais appliquer le lazy loading au contenu above-the-fold, surtout pas à l'élément LCP ([Largest Contentful Paint](https://blotmkt.com/ia/audit/largest-contentful-paint.html))
 > - Des alternatives complémentaires existent : optimisation des images (WebP, AVIF), CDN et stratégies de cache avancées
+<!-- speakable:end -->
 
 Vous cherchez à réduire les temps de chargement de votre site, mais redoutez que Google ne puisse plus indexer correctement vos contenus ? Le lazy loading semble être la solution miracle, mais attention aux pièges ! 
 Cette technique peut inadvertantly masquer du Contenu à Google si elle n'est pas implémentée correctement
@@ -208,6 +210,10 @@ Le lazy loading uniquement des Images below-the-fold résulte en une inversion c
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

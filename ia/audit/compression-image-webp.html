@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/audit/compression-image-webp.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,11 +201,11 @@
     <div class="article-col">
       <article>
         <h1>Compression image WebP : le guide complet pour accélérer votre site</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>
-<p>Le format WebP développé par Google offre une compression 25 à 35% plus efficace que JPEG à qualité visuelle équivalente</p>
+<p class="speakable-intro">Le format WebP développé par Google offre une compression 25 à 35% plus efficace que JPEG à qualité visuelle équivalente</p>
 </li>
 <li>
 <p>WebP améliore directement les <a href="https://blotmkt.com/ia/audit/core-web-vitals.html">Core Web Vitals</a>, notamment le LCP (Largest Contentful Paint) grâce à des temps de chargement réduits</p>
@@ -209,14 +219,14 @@
 Seulement 62% des sites mobiles atteignent un bon score LCP (<a href="https://blotmkt.com/ia/audit/largest-contentful-paint.html">Largest Contentful Paint</a>) en 2024
 , l'un des critères essentiels des Core Web Vitals de Google. La compression WebP représente la solution la plus efficace pour réduire le poids de vos Images sans compromettre leur qualité visuelle, améliorant ainsi instantanément votre SEO et l'expérience utilisateur.</p>
 <hr />
-<h2>Qu'est-ce que la compression WebP ?</h2>
+<h2 class="speakable">Qu'est-ce que la compression WebP ?</h2>
 <p>WebP est un format d'image moderne développé par Google pour remplacer les formats traditionnels JPEG, PNG et GIF. 
 WebP supporte à la fois la compression avec perte (lossy) pour les photoGraphies et sans perte (lossless) pour les graphiques, tout en offrant un support de canal alpha pour la transparence
 .</p>
 <p>L'objectif principal de WebP est de réduire significativement le poids des Fichiers. 
 Les études de Google démontrent que WebP achieve 25 à 34% de réduction de taille par rapport aux JPEG à indice SSIM (Structural Similarity) équivalent
 . Cette compression avancée s'appuie sur des techniques dérivées des codecs vidéo VP8, permettant une meilleure Analyse des redondances dans les données d'image.</p>
-<h2>WebP vs JPEG/PNG : le comparatif performance et SEO</h2>
+<h2 class="speakable">WebP vs JPEG/PNG : le comparatif performance et SEO</h2>
 <p>Les données de début 2025 montrent que les images WebP offrent une réduction de taille d'environ 25-34% par rapport aux JPEG ou PNG de qualité similaire
 . Pour les Images PNG, 
 WebP permet une compression 30 à 50% plus importante
@@ -229,12 +239,12 @@ Les tests montrent qu'une transition vers WebP depuis PNG peut augmenter votre s
 <p>Cette amélioration se traduit par une meilleure expérience utilisateur et potentiellement un taux de conversion plus élevé sur les sites e-commerce. 
 Google privilégiant les pages à chargement rapide, il favorise les sites utilisant des formats nouvelle génération comme WebP, améliorant leur visibilité dans les résultats de recherche
 .</p>
-<h2>Implémenter le WebP : guide pratique et balise <code>&amp;lt;picture&gt;</code></h2>
+<h2 class="speakable">Implémenter le WebP : guide pratique et balise <code>&amp;lt;picture&gt;</code></h2>
 <p>La Balise HTML <code>&amp;lt;picture&gt;</code> représente la méthode standard pour servir le WebP avec un fallback automatique. Cette approche garantit une compatibilité universelle tout en optimisant les performances pour les navigateurs compatibles.</p>
 <p>Pour la conversion, plusieurs outils s'offrent à vous : les convertisseurs en ligne comme Squoosh de Google, les logiciels comme Photoshop (depuis 2019), ou les outils en ligne de commande avec cwebp. 
 N'oubliez pas les bonnes pratiques : attributs alt descriptifs et riches en mots-clés, noms de fichiers descriptifs, et compression même avec WebP
 .</p>
-<h2>Au-delà du WebP : faut-il passer à l'AVIF ?</h2>
+<h2 class="speakable">Au-delà du WebP : faut-il passer à l'AVIF ?</h2>
 <p>Le format AVIF (AV1 Image File Format) représente le successeur potentiel de WebP. 
 AVIF peut compresser les images plus efficacement que les anciens formats, avec un support pour 8-bit, 10-bit et même 12-bit de profondeur couleur, offrant une Précision et une vivacité de couleur supérieures
 .</p>
@@ -244,14 +254,14 @@ AVIF peut compresser les images plus efficacement que les anciens formats, avec 
 <h3>Compatibilité navigateur</h3>
 <p>AVIF afFiche un score de compatibilité navigateur de 92%, supporté par tous les navigateurs principaux représentant plus de 93% de tous les navigateurs web utilisés
 . La stratégie recommandée consiste à utiliser une cascade de formats dans la Balise <code>&amp;lt;picture&gt;</code> : AVIF &gt; WebP &gt; JPEG pour servir l'image la plus optimisée possible selon les capacités du navigateur.</p>
-<h2>Automatiser l'optimisation WebP sur votre site</h2>
+<h2 class="speakable">Automatiser l'optimisation WebP sur votre site</h2>
 <p>L'Audit de vos images non optimisées peut se faire via PageSpeed Insights, Search Console ou des crawlers SEO spécialisés. 
 L'optimisation d'images peut utiliser un plugin comme ShortPixel ou Imagify pour auto-convertir les images en WebP, ajouter les attributs width/height, et implémenter le lazy loading, avec l'utilisation d'un CDN comme Cloudflare pour réduire les temps de chargement des ressources de 50 à 80%
 .</p>
 <p>Les CDNs modernes peuvent convertir automatiquement les images à la volée au format le plus adapté. 
 Cloudinary détecte la compatibilité du navigateur et livre le bon format sans intervention Manuelle. Pour les navigateurs qui supportent WebP, Cloudinary servira des images WebP, offrant une compression supérieure et des temps de chargement rapides
 .</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Pourquoi utiliser le format WebP ?</h3>
 <p>WebP réduit la taille des fichiers de 25-35% par rapport aux formats traditionnels, améliorant directement les Core Web Vitals et l'expérience utilisateur. Cette Optimisation booste le SEO et peut augmenter les taux de conversion.</p>
 <h3>Comment convertir une image JPEG en WebP ?</h3>

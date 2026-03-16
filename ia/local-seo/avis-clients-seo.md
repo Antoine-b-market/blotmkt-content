@@ -27,8 +27,10 @@ related_articles:
 
 # Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Les avis clients sont cruciaux car 47% des consommateurs leur font confiance et 92% consultent les avis avant un achat
 
 > - 
@@ -198,6 +200,10 @@ Les témoignages clients pertinents évoquent l'évolution du trafic organique, 
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

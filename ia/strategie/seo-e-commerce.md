@@ -24,14 +24,12 @@ related_articles:
   - title: "Récupération SEO : Stratégies avancées pour regagner votre visibilité à l'ère de l'IA"
     url: "/ia/popularite/recuperation-seo"
 ---
-
-Je vais d'abord rechercher des sources récentes sur le SEO e-commerce pour appuyer le contenu.
-Maintenant je vais rédiger le Contenu complet en suivant le brief et en intégrant les sources trouvées.
-
 # SEO e-commerce : le guide complet pour optimiser votre boutique en ligne
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Le SEO e-commerce permet d'accroître la visibilité, capter un trafic qualifié et transformer efficacement les visites en conversions dans un marché français qui a généré 175,3 milliards d'euros en 2024
 
 > - 
@@ -211,6 +209,10 @@ Distinguez les intentions informationnelles (blog, guides) des intentions transa
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

@@ -27,10 +27,12 @@ related_articles:
 
 # Provenance des données : le signal de confiance pour l'E-E-A-T et les IA génératives
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - La provenance des données est la traçabilité complète d'une information depuis sa source originale, documentant ses transformations et son parcours pour établir sa fiabilité
 > - Les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) schema.org permettent d'implémenter la provenance via les propriétés `author`, `publisher` et `citation`, créant une chaîne de confiance vérifiable algorithmiquement
 > - La provenance devient un pilier fondamental de l'E-E-A-T en prouvant l'expertise et l'autorité des contenus, distinguant ainsi les sources authentiques du spam et des contenus générés sans supervision
+<!-- speakable:end -->
 
 À l'ère de l'intelligence artificielle générative, distinguer l'information fiable du bruit numérique représente l'enjeu majeur des moteurs de recherche. 
 L'IA générative y est explicitement mentionnée comme signal de qualité basse potentielle
@@ -198,6 +200,10 @@ Iguane Media, 2026
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

@@ -27,11 +27,13 @@ related_articles:
 
 # Lien ugc : le guide complet de l'attribut rel="ugc" pour le seo
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - L'attribut rel="ugc" (User-Generated Content) sert à identifier les liens créés par les utilisateurs dans les commentaires, forums et autres contenus générés par l'utilisateur
 > - Il se différencie de rel="sponsored" (liens payants) et rel="nofollow" (liens non cautionnés) par sa spécificité pour le Contenu utilisateur
 > - L'implémentation consiste à ajouter rel="ugc" dans les zones de Contenu utilisateur, avec WordPress l'ajoutant automatiquement depuis la version 5.3
 > - Google traite les liens UGC comme des indices ("hints") qui ne transmettent généralement pas d'autorité mais aident à identifier la nature du lien
+<!-- speakable:end -->
 
 Face à l'essor du contenu généré par l'utilisateur, les webmasters se retrouvent confrontés à un défi majeur : comment protéger leur site des liens potentiellement problématiques tout en préservant leur référencement ? 
 Google a introduit l'attribut rel="ugc" en septembre 2019
@@ -187,6 +189,10 @@ Actuellement, très peu de sites web utilisent les attributs rel="sponsored" et 
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

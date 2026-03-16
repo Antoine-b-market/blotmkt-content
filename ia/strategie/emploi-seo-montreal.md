@@ -27,10 +27,12 @@ related_articles:
 
 # Le marché de l'emploi SEO à Montréal : guide des rôles, salaires et compétences
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un spécialiste SEO à Montréal assure l'audit technique, la stratégie de contenu, le netlinking et l'Analyse de performance pour optimiser la visibilité organique d'un site web
 > - L'écosystème d'emploi SEO propose trois modèles : agence (diversité et apprentissage rapide), entreprise (immersion stratégique) et freelance (autonomie et spécialisation)
 > - 
+<!-- speakable:end -->
 Le salaire moyen SEO à Montréal varie entre 52 000$ et 57 000$ par an
 , avec un retour sur investissement mesurable grâce à la réduction de la dépendance aux publicités payantes
 > - 
@@ -201,6 +203,10 @@ L'avantage des formations certifiantes est l'accès à l'expertise d'un formateu
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

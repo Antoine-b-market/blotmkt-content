@@ -27,15 +27,17 @@ related_articles:
 
 # Le taux de rebond est-il encore une métrique pertinente pour votre SEO ?
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le taux de rebond mesure le pourcentage de sessions avec une seule page consultée, mais sa définition évolue entre Universal Analytics (pas d'Interaction) et GA4 (inverse du taux d'engagement)
 > - Un bon taux de rebond varie selon le secteur : 
+<!-- speakable:end -->
 40 à 55% est généralement acceptable, au-delà de 70% indique une problématique
 
 > - 
 Le taux de rebond a été supprimé de Google Analytics 4 et remplacé par le taux d'engagement et le temps de séjour
 
-> - Dans l'ère de la [Generative Engine Optimization (GEO)](https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo).html).html).html).html).html))))))), 
+> - Dans l'ère de la [Generative Engine Optimization (GEO)](https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo).html).html).html).html).html).html).html))))))), 
 les moteurs génératifs privilégient la satisfaction utilisateur et la complétude de réponse plutôt que les métriques de sessions traditionnelles
 
 Le taux de rebond fait débat depuis des années dans la communauté SEO. Longtemps considéré comme un indicateur clé, il soulève aujourd'hui plus de questions qu'il n'apporte de réponses. Avec l'évolution de Google Analytics 4 et l'émergence des moteurs génératifs, cette métrique traditionnelle perd de sa superbe face à des indicateurs d'engagement plus qualitatifs. Découvrons pourquoi il est temps de réévaluer votre approche du taux de rebond.
@@ -194,6 +196,10 @@ Le taux de rebond est simplement calculé comme l'inverse du taux d'engagement d
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

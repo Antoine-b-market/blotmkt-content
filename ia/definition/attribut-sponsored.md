@@ -27,8 +27,10 @@ related_articles:
 
 # Attribut sponsored : le guide complet pour vos liens payants en SEO
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 L'Attribut rel="sponsored" identifie les liens créés dans le cadre d'annonces publicitaires, de partenariats ou d'accords similaires
 
 > - 
@@ -238,6 +240,10 @@ Vous pouvez vérifier directement dans le code source de la page ou utiliser des
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

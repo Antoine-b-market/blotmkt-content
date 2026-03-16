@@ -27,11 +27,13 @@ related_articles:
 
 # Optimiser votre seo local : le guide complet pour attirer des clients de proximité
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le SEO local est une stratégie ciblant les recherches géolocalisées pour attirer des clients proches physiquement, indispensable aux commerces avec une zone de chalandise définie
 > - Les techniques fondamentales incluent l'optimisation de Google Business Profile, la gestion des avis clients, l'optimisation on-page locale et la construction de citations cohérentes
 > - À la différence du SEO classique, le SEO local privilégie les facteurs de proximité, pertinence et proéminence, tout en conservant les bases de qualité de contenu et d'expérience utilisateur
 > - L'investissement varie de 300 € à 1500 € pour un Audit à 500-1500 €/mois en accompagnement, avec des retours sur investissement pouvant atteindre 332% à 1100% selon le secteur
+<!-- speakable:end -->
 
 46% des recherches sur Google sont de nature locale
 , et 
@@ -219,6 +221,10 @@ Vous pouvez débuter en autonomie avec l'Optimisation de base de votre fiche Goo
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

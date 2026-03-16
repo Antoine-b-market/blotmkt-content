@@ -27,10 +27,12 @@ related_articles:
 
 # Audit SEO Québec : votre guide complet pour une visibilité optimisée
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un audit SEO complet au Québec Analyse votre site sur les aspects technique, sémantique et concurrentiel, adapté aux spécificités du marché francophone local
 > - La méthodologie inclut 5 étapes clés : diagnostic initial, Audit technique approfondi, analyse sémantique québécoise, étude concurrentielle et plan d'action priorisé
 > - 
+<!-- speakable:end -->
 Le ROI moyen est de 22$ pour chaque dollar investi
  avec des gains de trafic organique mesurables dès 3-6 mois
 > - Choisir un Expert nécessite d'évaluer son expérience du marché québécois, sa méthodologie transparente et sa capacité à intégrer l'IA dans son diagnostic
@@ -206,6 +208,10 @@ Le SEO n'est pas une dépense mais un investissement stratégique avec un ROI me
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

@@ -27,9 +27,11 @@ related_articles:
 
 # Désindexation google: guide pratique pour contrôler votre visibilité en ligne
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - La désIndexation Google consiste à retirer définitivement une URL de l'index de Google, empêchant son apparition dans les résultats de recherche
 > - 
+<!-- speakable:end -->
 Google estime que la méthode la plus efficace de désindexation est la Balise meta noindex (dans le code HTML) ou via les entêtes HTTP X-Robots-Tag
 
 > - 
@@ -219,6 +221,10 @@ Elle permet de maîtriser la visibilité dans les résultats de recherche, d'év
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

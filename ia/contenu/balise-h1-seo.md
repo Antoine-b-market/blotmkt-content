@@ -27,11 +27,13 @@ related_articles:
 
 # Balise h1 SEO : le guide pratique pour optimiser votre titre principal
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - La balise H1 est le titre principal visible sur une page qui structure le contenu pour les utilisateurs et les moteurs de recherche
 > - La H1 se trouve dans le `<body>` du code HTML tandis que le title est dans le `<head>`, ils peuvent être formulés différemment pour optimiser clic et lecture
 > - Une H1 parfaite doit être unique par page, inclure le mot-clé cible naturellement et faire 50-70 caractères pour décrire précisément le Contenu
 > - Screaming Frog SEO Spider permet d'Auditer en masse vos H1 pour identifier celles manquantes, dupliquées ou trop longues
+<!-- speakable:end -->
 
 La balise H1 reste l'un des éléments SEO les plus négligés, pourtant 
 elle aide les moteurs de Recherche à saisir le thème central et l'objectif de la page, et les robots des moteurs de recherche accordent un certain poids à cette balise
@@ -219,6 +221,10 @@ Par défaut, Screaming Frog extrait les deux premières H1 découvertes sur une 
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

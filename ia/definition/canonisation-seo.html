@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/definition/canonisation-seo.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,19 +201,19 @@
     <div class="article-col">
       <article>
         <h1>Maîtriser la canonisation SEO pour optimiser votre indexation Google</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>La canonisation SEO gère le fait qu'environ 25 à 30 % du contenu web est dupliqué selon Google
 , en désignant l'URL principale à indexer parmi plusieurs versions similaires</li>
 <li>
-<p>L'implémentation se fait via trois méthodes : Redirections (signal fort), balise rel="canonical" (signal fort) ou inclusion dans les sitemaps (signal faible)</p>
+<p class="speakable-intro">L'implémentation se fait via trois méthodes : Redirections (signal fort), balise rel="canonical" (signal fort) ou inclusion dans les sitemaps (signal faible)</p>
 </li>
 <li>
 <p>La Balise canonical se distingue de la redirection 301 car elle ne concerne que les moteurs de recherche et conserve toutes les versions accessibles</p>
 </li>
 </ul>
-<h2>- Les cas d'usage incluent la gestion des variations de produits e-commerce, des paramètres d'URL, des Contenus syndiqués et des pages AMP</h2>
+<h2 class="speakable">- Les cas d'usage incluent la gestion des variations de produits e-commerce, des paramètres d'URL, des Contenus syndiqués et des pages AMP</h2>
 <p>Google Search Console et les outils d'Audit comme Screaming Frog permettent de mesurer l'efficacité et détecter les erreurs de canonisation</p>
 </blockquote>
 <p>Le contenu dupliqué interne reste l'un des problèmes techniques SEO les plus courants, notamment sur les sites e-commerce, avec le phénomène DUST (Duplicate URL, Same Text) souvent ignoré
@@ -211,7 +221,7 @@
 Ces problèmes entraînent une dilution des signaux SEO et une Indexation Google confuse, mais la balise canonical offre une solution simple et efficace
 . La canonisation devient ainsi un levier stratégique pour reprendre le contrôle sur vos URLs et optimiser votre référencement technique.</p>
 <hr />
-<h2>Comprendre la canonisation SEO : définition et enjeux fondamentaux</h2>
+<h2 class="speakable">Comprendre la canonisation SEO : définition et enjeux fondamentaux</h2>
 <p>La canonisation utilise la balise "canonical" pour indiquer aux Moteurs de recherche quelle version d'une page ils considèrent comme la "source" officielle, consolidant ainsi la valeur SEO vers une URL préférée
 . Cette technique répond à un défi majeur : 
 les moteurs de recherche doivent déterminer quelle version d'une page est la plus pertinente, ce qui peut entraîner une dilution de l'autorité entre plusieurs copies d'un même Contenu
@@ -223,7 +233,7 @@ L'allocation de ressources de crawl et d'indexation vers du contenu dupliqué ut
 <h3>Les risques du contenu dupliqué sur l'exploration et le classement</h3>
 <p>Le vrai risque lié au Contenu dupliqué n'est pas une pénalité directe, mais une réduction de visibilité et une diminution de l'efficacité SEO due à une mauvaise gestion des contenus similaires
 . Cette problématique nécessite des Stratégies proactives incluant canonisation et redirections 301 pour maintenir une bonne hygiène de site.</p>
-<h2>Méthodes d'implémentation : comment déclarer correctement votre URL canonique</h2>
+<h2 class="speakable">Méthodes d'implémentation : comment déclarer correctement votre URL canonique</h2>
 <p>Google hiérarchise les méthodes de canonisation : les redirections sont les plus fortes pour la dépréciation, les méthodes rel="canonical" sont des signaux forts pour les Fichiers HTML ou non-HTML, et les sitemaps constituent un signal faible
 . 
 Ces méthodes peuvent se combiner pour renforcer l'efficacité, augmentant les chances que votre URL canonique préférée apparaisse dans les résultats
@@ -240,7 +250,7 @@ Utilisez des chemins absolus plutôt que relatifs avec la balise rel="canonical"
 . 
 Pour les PDF qui ne peuvent contenir de balises dans le &lt;head&gt;, utilisez des entêtes HTTP comme : HTTP/1.1 200 OK Link: &lt;https://votre-site.fr/page/canonical/&gt;; rel="canonical"
 .</p>
-<h2>Erreurs communes et bonnes pratiques pour une canonisation efficace</h2>
+<h2 class="speakable">Erreurs communes et bonnes pratiques pour une canonisation efficace</h2>
 <p>Évitez de créer des chaînes de canonicals (une canonical pointant vers une autre) et n'ajoutez pas de canonical vers une URL redirigée ou en erreur 404
 . 
 Ne pointez jamais une balise canonical vers une URL en redirection 301, placez plutôt la balise sur la page finale considérée comme version officielle
@@ -252,7 +262,7 @@ La redirection 301 redirige à la fois Moteurs et utilisateurs, tandis que l'URL
 . (Source : Réussir Mon Ecommerce, 2022)</p>
 <p>La balise canonical doit être insérée dans la section &lt;head&gt; du HTML, toujours utiliser une URL absolue avec le domaine complet, et vérifier que l'URL canonique renvoie un code HTTP 200
 .</p>
-<h2>Cas pratiques : quand et pourquoi utiliser la canonisation SEO</h2>
+<h2 class="speakable">Cas pratiques : quand et pourquoi utiliser la canonisation SEO</h2>
 <p>Pour un produit disponible en plusieurs tailles générant des URL dédiées avec les mêmes informations, placez une balise canonique vers la fiche produit générale, permettant à Google de ne prendre en compte que l'URL principale
 . 
 Les pages filtrées ou triées sont utiles pour les sites e-commerce où les Filtres génèrent des milliers de pages similaires
@@ -265,7 +275,7 @@ Chaque page contient le même texte avec des variations minimes, créant des cop
 <h3>Protection contre le vol de contenu et syndication</h3>
 <p>Les robots de scraping copiant l'intégralité du code HTML intègrent l'URL canonical, indiquant explicitement à Google de ne pas prendre en compte la page copiée et de garder l'originale dans son index
 . Cette protection automatique évite les problèmes de duplicate Content causés par la copie malveillante.</p>
-<h2>Mesurer l'impact et auditer vos URLs canoniques</h2>
+<h2 class="speakable">Mesurer l'impact et auditer vos URLs canoniques</h2>
 <p>Google Search Console fournit les informations les plus fiables sur les performances SEO avec des Données directement issues des clics depuis Google, incluant impressions, CTR et position moyenne
 . 
 Google Search Console offre une vue d'ensemble sur l'Indexation, la sécurité et les balises HTML, tandis qu'Ahrefs Webmaster Tools identifie plus de 100 problèmes techniques potentiels
@@ -279,7 +289,7 @@ Des extensions comme SEOquake Analysent les balises canonical, la surveillance d
 <p>Améliorer la qualité d'indexation optimise le Budget crawl Google, l'explorabilité du site et le trafic SEO via l'identification et correction d'erreurs techniques, la suppression de pages inutiles
 . L'analyse des performances permet d'identifier les pages à zéro clic nécessitant Optimisation ou fusion pour maximiser l'efficacité de la stratégie canonique.</p>
 <hr />
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Qu'est-ce qu'une balise rel=canonical et à quoi sert-elle ?</h3>
 <p>Une URL canonique est l'adresse web considérée comme version principale parmi plusieurs URLs similaires, via une balise HTML dans le code source indiquant aux moteurs Quelle URL indexer
 . Elle évite l'indexation de Contenu dupliqué et consolide le "jus de lien" sur une seule URL.</p>

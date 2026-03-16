@@ -27,10 +27,12 @@ related_articles:
 
 # Offre d'emploi SEO : trouvez votre prochain défi en référencement naturel
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - **Les profils SEO les plus demandés** : consultant SEO, chef de projet SEO, spécialiste SEO in-house et responsable GEO avec des salaires allant de 30 000 € à 70 000 € selon l'expérience
 > - **Les canaux privilégiés** : LinkedIn, Indeed, job boards spécialisés (MarketingHire, E-works, Free-Work) et Agences de recrutement spécialisées dans le marketing digital
 > - **Les salaires moyens en 2026** : 
+<!-- speakable:end -->
 43 000 € pour un consultant SEO avec une fourchette de 30 000 € à 70 000 €
 , avec des écarts régionaux significatifs
 > - **L'importance du GEO** : 
@@ -200,6 +202,10 @@ Un mix LinkedIn/Indeed, un ou deux job boards marketing de niche, des sites remo
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

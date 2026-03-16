@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/audit/largest-contentful-paint.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,8 +201,8 @@
     <div class="article-col">
       <article>
         <h1>Largest Contentful Paint (LCP) : le guide complet pour optimiser la vitesse de votre site</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>Le Largest Contentful Paint mesure le temps de chargement du plus grand élément visible d'une page, avec un seuil optimal de 2,5 secondes ou moins</li>
 <li>Google PageSpeed Insights et les outils développeur Chrome permettent d'identifier et diagnostiquer les problèmes LCP en temps réel</li>
@@ -200,11 +210,11 @@
 <li>Un LCP optimisé peut doubler le taux de conversion : les pages avec un LCP de 2 secondes convertissent deux fois mieux que celles à 5 secondes</li>
 </ul>
 </blockquote>
-<p>Votre site met plus de 2,5 secondes à afficher son contenu principal ? 
+<p class="speakable-intro">Votre site met plus de 2,5 secondes à afficher son contenu principal ? 
 Vous faites partie des 41% de sites mobiles qui échouent aux <a href="https://blotmkt.com/ia/audit/core-web-vitals.html">Core Web Vitals</a> en 2024
 . Cette lenteur fait fuir vos visiteurs avant même qu'ils voient votre offre. Le Largest Contentful Paint n'est pas qu'une métrique technique : c'est le baromètre de la première impression de votre site. Heureusement, avec les bonnes techniques d'optimisation, vous pouvez transformer cette faiblesse en avantage concurrentiel.</p>
 <hr />
-<h2>Définition : qu'est-ce que le Largest Contentful Paint (LCP) ?</h2>
+<h2 class="speakable">Définition : qu'est-ce que le Largest Contentful Paint (LCP) ?</h2>
 <p>Le LCP est une métrique stable des Core Web Vitals qui mesure la <a href="https://blotmkt.com/ia/audit/vitesse-de-chargement.html">Vitesse de chargement</a> perçue, marquant le moment où le contenu principal de la page s'est probablement chargé
 . Contrairement aux métriques traditionnelles, il se concentre sur l'expérience utilisateur réelle.</p>
 <p>Le LCP prend en compte les éléments les plus volumineux : images, vidéos (temps de présentation de la première image), éléments avec images de fond CSS, et blocs de texte
@@ -217,7 +227,7 @@ Un mauvais LCP ne fait pas seulement attendre vos utilisateurs : il peut empêch
 <h3>L'évolution du LCP pendant le chargement</h3>
 <p>Le navigateur identifie initialement un petit élément comme candidat LCP, puis met à jour cette valeur au fur et à mesure que des éléments plus grands se chargent, jusqu'à ce qu'un élément comme une Image hero ou un bloc de texte principal devienne le LCP final
 .</p>
-<h2>Comment mesurer votre LCP et diagnostiquer les problèmes ?</h2>
+<h2 class="speakable">Comment mesurer votre LCP et diagnostiquer les problèmes ?</h2>
 <h3>Google PageSpeed Insights : l'outil de référence</h3>
 <p>PageSpeed Insights combine deux types de Données essentielles : 
 les Données du Chrome User Experience Report (CrUX) qui reflètent l'expérience réelle de vos visiteurs sur les 28 derniers jours, et les tests en laboratoire pour un diagnostic approfondi
@@ -232,7 +242,7 @@ Vous verrez directement des suggestions comme "Preload Largest Contentful Paint 
 <h3>Google Search Console pour le suivi global</h3>
 <p>Le rapport Core Web Vitals de la Search Console groupe vos URL par statut (Bon, À améliorer, Insuffisant) et par métrique, basé sur les données utilisateurs réelles pour LCP, INP et CLS
 . C'est votre tableau de bord pour suivre l'évolution de l'ensemble de votre site.</p>
-<h2>4 stratégies pour optimiser et corriger un LCP lent</h2>
+<h2 class="speakable">4 stratégies pour optimiser et corriger un LCP lent</h2>
 <h3>Stratégie 1 : Optimiser les images et ressources critiques</h3>
 <p>Les images LCP préchargées atteignent 100% de scores "bons" avec un 75e percentile de 364ms, contre 720ms pour les images en lazy loading. La règle d'or : préchargez votre image LCP et ne la mettez jamais en lazy loading
 .</p>
@@ -257,7 +267,7 @@ Si vos utilisateurs sont géographiquement éloignés de vos serveurs, un CDN ra
 .</p>
 <p>Les fonctionnalités Remove Unused CSS, Optimize critical images et Preload fonts aident à réduire la priorité donnée aux autres éléments de la page
 . Différez le JavaScript non essentiel avec les Attributs 'defer' et 'async'.</p>
-<h2>L'impact business d'un LCP rapide : au-delà du score technique</h2>
+<h2 class="speakable">L'impact business d'un LCP rapide : au-delà du score technique</h2>
 <h3>Impact direct sur les conversions</h3>
 <p>Les études de cas montrent que les pages produits peuvent voir une baisse de 40% à 50% du taux de conversion en comparant un LCP de 2 secondes vs 4-5 secondes. Une page spécifique a montré que les utilisateurs convertissaient deux fois plus souvent avec un LCP de 2 secondes vs 5 secondes
 .</p>
@@ -272,7 +282,7 @@ The Economic Times a réduit son Taux de rebond de 43% en améliorant son LCP de
 <p>53% des utilisateurs quittent un site qui met plus de 3 secondes à charger. Charger votre plus grand élément avant ce délai améliore l'engagement utilisateur, le taux de clic (CTR), et les pages vues par session
 . Un LCP rapide renforce la perception de professionnalisme et la confiance des utilisateurs.</p>
 <hr />
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Qu'est-ce qu'un bon score LCP ?</h3>
 <p>Un bon score LCP est de 2,5 secondes ou moins. Les scores entre 2,5 et 4 secondes nécessitent une amélioration, et tout ce qui dépasse 4 secondes est considéré comme insuffisant
 .</p>

@@ -27,8 +27,10 @@ related_articles:
 
 # Analyse de content gap en SEO : la méthode pour identifier et combler vos lacunes de contenu
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Une Analyse de content gap évalue la différence entre les mots-clés pour lesquels vous et vos concurrents êtes classés dans les résultats de recherche
 
 > - 
@@ -244,6 +246,10 @@ L'analyse de keyword gap compare les mots-clés pour lesquels votre site Web se 
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

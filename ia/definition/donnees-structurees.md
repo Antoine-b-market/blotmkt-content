@@ -27,8 +27,10 @@ related_articles:
 
 # Données structurées : le guide complet pour obtenir des résultats de recherche enrichis
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Les données structurées permettent aux moteurs de recherche de mieux comprendre le contenu de votre site web et peuvent améliorer votre classement dans les résultats de recherche
 
 > - 
@@ -219,6 +221,10 @@ JSON-LD est le format recommandé par Google car il est le plus récent et le pl
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

@@ -27,11 +27,13 @@ related_articles:
 
 # Cocon sémantique : le guide pour structurer votre site et améliorer votre SEO
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un cocon sémantique est une [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site.html) basée sur un maillage interne strict pour renforcer la pertinence thématique et prouver son expertise à Google
 > - La construction se fait en 4 étapes : définir la requête cible, identifier les sous-thèmes, créer le contenu hiérarchisé et implémenter le maillage interne
 > - Le cocon sémantique impose un maillage plus rigide que le topic cluster, créant des silos étanches pour concentrer l'autorité
 > - Les résultats incluent une meilleure pertinence thématique, un positionnement renforcé sur les mots-clés cibles et une capture naturelle de la longue traîne
+<!-- speakable:end -->
 
 Le cocon sémantique n'est pas une astuce SEO temporaire mais une méthode structurée pour organiser votre site comme un ensemble cohérent
 . Dans un environnement où Google privilégie l'expertise et la pertinence (E-E-A-T), cette stratégie devient essentielle pour dominer vos thématiques et dépasser la concurrence qui se contente d'optimisations superficielles.
@@ -192,6 +194,10 @@ Le maillage interne en silos concentre le jus SEO vers vos pages stratégiques a
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

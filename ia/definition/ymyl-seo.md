@@ -27,11 +27,13 @@ related_articles:
 
 # SEO YMYL : le guide pratique pour maîtriser l'E-E-A-T et sécuriser vos classements
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - **Les sites YMYL concernent les sujets impactant directement la santé, les finances ou la sécurité des utilisateurs**, avec des critères de qualité plus stricts de Google
 > - **E-E-A-T (Experience, Expertise, Authoritativeness, Trust) est le framework central pour évaluer la qualité du contenu**, particulièrement critique pour les sites YMYL  
 > - **L'Optimisation des signaux E-E-A-T passe par des biographies détaillées, des sources crédibles, des [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) et une transparence maximale**
 > - **Les moteurs génératifs privilégient les Contenus YMYL avec une expérience de première main et des attributions claires**, transformant les exigences SEO traditionnelles
+<!-- speakable:end -->
 
 L'époque où il suffisait d'optimiser quelques mots-clés pour ranker sur des sujets sensibles est révolue. 
 Google applique désormais les principes E-E-A-T à tout Contenu, mais scrute particulièrement les contenus YMYL (Your Money or Your Life)
@@ -201,6 +203,10 @@ Inclure des biographies d'auteurs détaillées avec identifiants, qualifications
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

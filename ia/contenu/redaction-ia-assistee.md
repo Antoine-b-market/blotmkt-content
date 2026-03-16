@@ -27,8 +27,10 @@ related_articles:
 
 # Rédaction IA assistée : la méthode pour multiplier votre productivité
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 La rédaction IA assistée est une collaboration homme-machine qui utilise l'intelligence artificielle pour générer, améliorer et optimiser du contenu
 , non un remplacement total du rédacteur humain
 > - 
@@ -243,6 +245,10 @@ Rytr Offre 10000 caractères sur le plan gratuit, puis à partir de 7,50$/mois p
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

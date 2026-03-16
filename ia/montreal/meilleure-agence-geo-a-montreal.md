@@ -22,11 +22,13 @@ sources:
 
 # Comment choisir la meilleure agence GEO à Montréal pour votre croissance
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - La GEO (Generative Engine Optimization) est la discipline qui optimise votre contenu pour apparaître dans les réponses générées par les IA comme ChatGPT, Perplexity ou Google SGE, et non plus seulement dans les liens bleus classiques.
 > - Une excellente agence GEO se distingue d'une agence SEO par sa maîtrise des LLMs, son suivi de la part de voix dans les réponses générées et sa capacité à structurer le contenu comme une base de connaissance fiable pour les IA.
 > - Une campagne GEO réussie repose sur quatre phases : [Audit sémantique](https://blotmkt.com/ia/audit/audit-semantique.html) et d'entités, construction d'une base de connaissance, optimisation technique via Schema.org, puis monitoring continu de la visibilité dans les réponses générées.
 > - Le budget d'une stratégie GEO dépasse celui du SEO traditionnel en raison de l'expertise requise, mais le ROI se mesure à travers l'autorité de marque, la fréquence de citation et la résistance à la désintermédiation par les IA.
+<!-- speakable:end -->
 
 Le trafic organique de votre site recule sans que votre classement Google ait bougé d'un rang. Ce n'est pas un bug : c'est la réalité de la recherche en 2025. 
 Les études indépendantes menées en 2024 et 2025 montrent une réduction du taux de clics allant de 34 % à 46 % lorsque des résumés IA apparaissent dans les résultats.
@@ -131,6 +133,10 @@ Les LLMs ne citent que 2 à 7 domaines en moyenne par réponse. Sans expertise d
 ---
 
 *Sources : Valuates Reports — GEO Services Market, 2024 | Marketing LTB — GEO Statistics 2025 | IMD — Generative Engine Optimization, 2025 | Dataslayer — GEO AI Search Guide, 2025 | Search Engine Journal — AI Overviews Impact on Publishers, 2025 | Insightland — GEO Everything You Need to Know, 2025 | Profound — 10-step framework for GEO, 2025*
+
+---
+
+---
 
 ---
 

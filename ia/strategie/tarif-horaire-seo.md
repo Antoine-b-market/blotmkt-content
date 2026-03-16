@@ -27,11 +27,13 @@ related_articles:
 
 # Tarif horaire SEO : le guide complet pour comprendre les coûts en 2024
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Les tarifs horaires SEO varient de 50 à 250€/h selon l'expérience : junior (50-80€), confirmé (80-150€), expert (150-250€+)
 > - Le modèle forfait mensuel est privilégié (1 500-5 000€) pour une stratégie continue et un meilleur ROI
 > - Une heure SEO couvre Audit technique, optimisation on-page, création de contenu optimisé et reporting stratégique
 > - Le SEO génère un trafic gratuit durable avec un coût d'acquisition tendant vers zéro, contrairement au SEA qui reste temporaire
+<!-- speakable:end -->
 
 Les entreprises investissent massivement dans le digital avec 
 10,1 milliards d'euros prévus en 2024
@@ -209,6 +211,10 @@ Privilégiez une approche axée sur le ROI et évitez les consultants avec des g
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

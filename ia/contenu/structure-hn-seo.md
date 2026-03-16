@@ -27,8 +27,10 @@ related_articles:
 
 # Structure HN : le guide complet pour un SEO sémantique optimisé pour les IA
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Ces balises dites « sémantiques » vont venir indiquer à Google quelles sont les informations importantes de votre page en hiérarchisant vos titres.
 
 > - 
@@ -191,6 +193,10 @@ Pour Auditer rapidement votre structure, saisissez l'URL de votre page dans le t
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

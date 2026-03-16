@@ -27,10 +27,12 @@ related_articles:
 
 # Backlink de qualité : le guide pour acquérir des liens qui renforcent votre E-E-A-T
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un backlink de qualité se caractérise par la pertinence thématique, l'autorité du domaine référent et son alignement avec les signaux E-E-A-T
 > - Les stratégies efficaces incluent le guest-blogging ciblé, les relations presse digitales et la création de contenu de référence
 > - 
+<!-- speakable:end -->
 Le prix médian d'un backlink en France est le plus bas d'Europe (87 €)
  mais un lien cher n'est pas forcément plus efficace
 > - Au-delà du lien, les mentions de marque et un excellent SEO on-page constituent des alternatives complémentaires au netlinking traditionnel
@@ -215,6 +217,10 @@ Les liens dofollow transmettent de l'autorité SEO, tandis que les nofollow n'en
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

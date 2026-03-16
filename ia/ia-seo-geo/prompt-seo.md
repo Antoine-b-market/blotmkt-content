@@ -27,9 +27,11 @@ related_articles:
 
 # Le prompt SEO : votre guide pour une visibilité accrue en ligne et sur l'IA
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le prompt SEO fusionne l'ingénierie de prompt avec l'Optimisation SEO pour répondre aux besoins des moteurs traditionnels et génératifs
 > - 
+<!-- speakable:end -->
 Ajouter des citations et des statistiques augmente la visibilité générative de 30 à 40 %
  selon une étude Princeton/Georgia Tech (2023)
 > - 
@@ -245,6 +247,10 @@ Les prompts SEO sont de véritables outils d'Analyse éditoriale, capables de tr
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

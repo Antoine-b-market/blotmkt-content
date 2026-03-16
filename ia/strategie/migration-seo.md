@@ -27,8 +27,10 @@ related_articles:
 
 # Migration SEO : la méthode complète pour une refonte de site sans perte de trafic
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Une migration SEO prend en moyenne 523 jours pour retrouver le niveau de trafic initial, avec 17% des sites qui n'y parviennent jamais
 
 > - 
@@ -200,6 +202,10 @@ Auditez exhaustivement le site existant, créez un plan de redirection rigoureux
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

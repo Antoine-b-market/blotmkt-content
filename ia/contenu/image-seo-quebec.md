@@ -27,10 +27,12 @@ related_articles:
 
 # Image SEO Québec : optimisez votre visibilité pour la recherche visuelle et l'IA
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le SEO pour images englobe une stratégie complète de visibilité sur les moteurs de recherche visuels, dépassant la simple balise alt pour générer du trafic qualifié depuis Google Images et Google Lens.
 > - L'optimisation comprend le nommage sémantique des fichiers, les balises alt descriptives, les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) Schema.org et l'intégration géolocalisée pour le marché québécois.
 > - 
+<!-- speakable:end -->
 Une stratégie image SEO génère un ROI positif dans les 6 à 12 mois et peut délivrer un retour sur investissement 8 fois supérieur au coût initial
 .
 
@@ -185,6 +187,10 @@ Neil Patel (2025)
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

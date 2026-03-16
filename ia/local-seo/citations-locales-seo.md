@@ -27,12 +27,14 @@ related_articles:
 
 # Le guide complet des citations locales pour dominer le SEO local
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Une citation locale est une mention en ligne du nom, adresse et téléphone (NAP) d'une entreprise qui valide son existence et améliore sa crédibilité aux yeux de Google
 > - La stratégie efficace combine Audit des citations existantes, priorisation des annuaires majeurs, puis construction manuelle ou automatisée selon le budget
 > - L'investissement coûte 100-500€/an pour les services automatisés ou du temps en gestion manuelle, avec un ROI indirect mesurable par l'amélioration du classement local
 > - Au-delà des annuaires, les sources performantes incluent les partenariats locaux, réseaux sociaux, mentions dans la presse et balisage Schema sur votre site
 > - Les citations renforcent votre fiche Google Business Profile par validation croisée, créant une cohérence qui améliore la confiance et le classement dans le pack local
+<!-- speakable:end -->
 
 Votre entreprise locale peine à apparaître dans les résultats de recherche Google Maps ? Cette invisibilité vous fait perdre des clients potentiels chaque jour. Pourtant, une stratégie de citations locales bien construite peut transformer votre visibilité en ligne et générer un flux constant de nouveaux prospects.
 
@@ -235,6 +237,10 @@ Vérifiez régulièrement l'exactitude des citations en utilisant des outils gra
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

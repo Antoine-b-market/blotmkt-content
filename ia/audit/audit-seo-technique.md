@@ -27,9 +27,11 @@ related_articles:
 
 # Audit SEO technique : le guide pour identifier les freins et optimiser votre ROI
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un audit SEO technique Analyse les fondations de votre site (crawl, indexation, performance) pour garantir l'accessibilité aux moteurs de recherche et identifier les freins bloquants
 > - 
+<!-- speakable:end -->
 Le prix d'un Audit SEO se situe entre 500€ et 10 000€ avec un tarif moyen qui se situe autour de 2 000€ HT
 , mais son ROI se mesure via l'augmentation du trafic organique qualifié et des conversions
 > - Il faut prioriser l'Audit technique avant toute refonte majeure, en cas de problèmes d'indexation suspectés ou quand la performance technique semble impacter les positions
@@ -194,6 +196,10 @@ Sales Odyssey (2024)
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

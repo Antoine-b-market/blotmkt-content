@@ -27,8 +27,10 @@ related_articles:
 
 # Le salaire d'un spécialiste SEO en 2024 : guide complet (junior, senior, freelance)
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - En 2024, 
+<!-- speakable:end -->
 le salaire moyen d'un spécialiste SEO en France est de 44 400 € brut par an
 , avec des disparités selon l'expérience et la région
 > - 
@@ -215,6 +217,10 @@ En 2026, le référencement SEO est un métier qui paie correctement avec des pe
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

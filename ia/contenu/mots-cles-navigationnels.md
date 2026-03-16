@@ -27,8 +27,10 @@ related_articles:
 
 # Mots-clés navigationnels : guide complet pour comprendre et optimiser votre présence en ligne
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Les mots-clés navigationnels révèlent une intention de navigation lorsqu'une personne saisit le nom d'une entreprise ou d'une marque dans un moteur de recherche, ces personnes étant déjà familières avec l'entreprise et cherchant à trouver le bon site web
 
 > - 
@@ -180,6 +182,10 @@ Les leads provenant du SEO convertissent en moyenne à 14,6%
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

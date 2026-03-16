@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/definition/lien-ugc.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,8 +201,8 @@
     <div class="article-col">
       <article>
         <h1>Lien ugc : le guide complet de l'attribut rel="ugc" pour le seo</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>L'attribut rel="ugc" (User-Generated Content) sert à identifier les liens créés par les utilisateurs dans les commentaires, forums et autres contenus générés par l'utilisateur</li>
 <li>Il se différencie de rel="sponsored" (liens payants) et rel="nofollow" (liens non cautionnés) par sa spécificité pour le Contenu utilisateur</li>
@@ -200,11 +210,11 @@
 <li>Google traite les liens UGC comme des indices ("hints") qui ne transmettent généralement pas d'autorité mais aident à identifier la nature du lien</li>
 </ul>
 </blockquote>
-<p>Face à l'essor du contenu généré par l'utilisateur, les webmasters se retrouvent confrontés à un défi majeur : comment protéger leur site des liens potentiellement problématiques tout en préservant leur référencement ? 
+<p class="speakable-intro">Face à l'essor du contenu généré par l'utilisateur, les webmasters se retrouvent confrontés à un défi majeur : comment protéger leur site des liens potentiellement problématiques tout en préservant leur référencement ? 
 Google a introduit l'attribut rel="ugc" en septembre 2019
  pour résoudre cette problématique complexe. Cette solution offre aux propriétaires de sites un moyen précis de signaler la nature des liens utilisateurs sans compromettre leur <a href="https://blotmkt.com/ia/strategie/strategie-seo.html">Stratégie SEO</a>.</p>
 <hr />
-<h2>Définition : qu'est-ce que l'attribut rel="ugc" ?</h2>
+<h2 class="speakable">Définition : qu'est-ce que l'attribut rel="ugc" ?</h2>
 <p>L'attribut 'Rel=ugc' (User Generated Content) est utilisé en HTML pour indiquer qu'un lien hypertexte fait partie d'un contenu généré par l'utilisateur, comme les commentaires, forums ou publications
 . 
 L'Attribut UGC (rel='ugc') signifie User Generated Content. Il doit être utilisé si le lien est créé par des utilisateurs sur le site web
@@ -213,7 +223,7 @@ L'Attribut UGC (rel='ugc') signifie User Generated Content. Il doit être utilis
 . Cette évolution répond à un besoin de <a href="https://blotmkt.com/ia/ia-seo-geo/precision-semantique.html">Précision sémantique</a> dans la gestion des liens sortants.</p>
 <p>Les moteurs de recherche apprécient de connaître la nature des liens sur une page web. En marquant les liens générés par l'utilisateur avec rel="ugc", les plateformes peuvent fournir de la clarté sur la source de leurs liens
 . L'objectif principal est de distinguer les liens éditoriaux des liens ajoutés par des tiers, contribuant ainsi à la lutte contre le spam de liens (Source : SimpleTiger, 2024).</p>
-<h2>UGC vs Nofollow vs Sponsored : le comparatif des attributs de lien</h2>
+<h2 class="speakable">UGC vs Nofollow vs Sponsored : le comparatif des attributs de lien</h2>
 <p>rel="sponsored" marque les liens payants ; rel="ugc" désigne le contenu généré par l'utilisateur. rel="nofollow" signale à Google qu'il ne doit pas associer votre site à la page liée ou l'explorer
 .</p>
 <p>L'Attribut rel="ugc" s'utilise spécifiquement pour les liens dans les commentaires de blog, les messages de forum et les profils utilisateurs. 
@@ -224,7 +234,7 @@ Plusieurs valeurs rel peuvent être utilisées ensemble
 , permettant des combinaisons comme rel="ugc nofollow" pour une sémantique plus précise. 
 Selon une étude récente, moins de 1% de tous les sites web utilisent l'Attribut UGC
  (Source : Ahrefs, 2024).</p>
-<h2>Implémentation pratique : où et comment ajouter rel="ugc" ?</h2>
+<h2 class="speakable">Implémentation pratique : où et comment ajouter rel="ugc" ?</h2>
 <p>La plupart des systèmes de gestion de contenu modernes (comme WordPress, Medium, Substack, etc.) appliquent automatiquement l'attribut rel="ugc" aux liens dans la section commentaires. Cela indique à Google que le lien n'a pas été placé par l'auteur
 .</p>
 <p>Les cas d'usage typiques incluent les sections commentaires, forums de discussion, annuaires de Profils et avis clients. 
@@ -233,7 +243,7 @@ Ajoutez rel="ugc" à tous les liens que les utilisateurs incluent dans les secti
 <p>L'implémentation technique consiste simplement à ajouter l'attribut <code>rel="ugc"</code> à la balise <code>&amp;lt;a&gt;</code>. Exemple : <code>&amp;lt;a href="http://example.com" rel="ugc"&gt;Lien d'un utilisateur&amp;lt;/a&gt;</code>. 
 De nombreuses plateformes de commentaires de sites web ajoutent automatiquement un Attribut UGC aux liens dans les commentaires soumis par les utilisateurs. Ou fournissent une option pour le faire
  (Source : SEMrush, 2024).</p>
-<h2>Impact SEO : comment Google interprète-t-il les liens UGC ?</h2>
+<h2 class="speakable">Impact SEO : comment Google interprète-t-il les liens UGC ?</h2>
 <p>L'instruction est maintenant devenue conseil. Semblable au traitement des balises H[reflang, Google enregistrera les attributs de lien, mais ne les utilisera que comme indicateur pour le traitement correct du lien
 . 
 Google traite maintenant les attributs de lien comme des indices. Cela signifie que Google peut considérer un lien UGC dans ses systèmes de classement de recherche
@@ -242,7 +252,7 @@ Google traite maintenant les attributs de lien comme des indices. Cela signifie 
 . Cependant, 
 Google a également dit qu'il Analyse ces attributs pour détecter les modèles de liens non naturels ou de spam. Par exemple, certains webmasters laissent des commentaires de spam sur des forums et blogs, avec un lien vers leurs sites. En utilisant l'attribut rel="ugc", vous pouvez aider Google à combattre le spam de commentaires
  (Source : SEMrush, 2024).</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Faut-il remplacer tous les nofollow par ugc ?</h3>
 <p>Il n'est pas obligatoire d'utiliser les nouveaux Attributs (un site peut choisir de continuer à utiliser l'ancien nofollow)
 . Le remplacement systématique n'est pas nécessaire car les deux attributs coexistent parfaitement selon les besoins spécifiques.</p>

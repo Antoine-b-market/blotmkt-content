@@ -27,8 +27,10 @@ related_articles:
 
 # Spam score : le guide pour comprendre, vérifier et réduire le risque SEO
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Le Spam Score est une métrique propriétaire de Moz qui mesure la probabilité qu'un site soit pénalisé par Google, basée sur l'Analyse de liens et 27 signaux de spam
 
 > - 
@@ -197,6 +199,10 @@ Pour les Link Spam Updates spécifiquement, les changements peuvent ne pas gén�
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

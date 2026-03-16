@@ -27,12 +27,14 @@ related_articles:
 
 # Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un accompagnement SEO annuel est un partenariat stratégique sur 12 mois incluant Audit, optimisations techniques, création de contenu et suivi continu des performances
 > - La différence majeure avec une prestation ponctuelle : l'adaptation continue aux évolutions algorithmiques et l'ajustement permanent de la stratégie
 > - Le Budget varie de 600€ à 2 500€/mois selon la complexité, avec un ROI moyen de 14,6% et un retour sur investissement en 6-12 mois
 > - L'accompagnement se déroule en 4 phases : Audit et stratégie, déploiement des optimisations, suivi mensuel et ajustements continus
 > - Indispensable pour les secteurs concurrentiels, les sites e-commerce et les entreprises B2B visant une croissance durable
+<!-- speakable:end -->
 
 Le référencement naturel ne s'improvise plus en 2024. Avec 
 69% des spécialistes du marketing qui investissent dans le SEO et ce canal considéré comme le plus intéressant en termes de ROI
@@ -213,6 +215,10 @@ L'efficacité se mesure via des KPIs business concrets : progression du trafic o
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

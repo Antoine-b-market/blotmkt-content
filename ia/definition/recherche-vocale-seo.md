@@ -27,8 +27,10 @@ related_articles:
 
 # Recherche vocale SEO : décrypter les enjeux et optimiser sa stratégie
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - La recherche vocale SEO consiste à optimiser son contenu pour les requêtes formulées oralement, qui représentent 
+<!-- speakable:end -->
 50% des recherches d'ici 2024 et 30% des recherches mobiles
 
 > - 
@@ -215,6 +217,10 @@ Les prévisions suggèrent que plus de 50% des requêtes seront vocales d'ici la
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

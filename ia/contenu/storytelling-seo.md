@@ -27,11 +27,13 @@ related_articles:
 
 # Storytelling SEO : l'art de captiver audience et moteurs de recherche
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - **Le storytelling SEO** fusionne la narration émotionnelle avec l'optimisation technique pour créer des liens durables avec les utilisateurs et améliorer le positionnement
 > - **Une stratégie efficace** s'appuie sur la connaissance de l'audience, un arc narratif clair et l'intégration naturelle des mots-clés sans sacrifier l'authenticité
 > - **Les impacts mesurables** montrent que le contenu narratif génère 3 fois plus de leads que les approches traditionnelles et améliore l'engagement de 131%
 > - **Le reporting narratif** transforme les Données brutes en histoires compréhensibles, augmentant l'impact des présentations SEO de 20% auprès des décideurs
+<!-- speakable:end -->
 
 Dans un écosystème digital saturé où 
 plus de la moitié des utilisateurs d'Internet effectuent des recherches en ligne sur une marque ou un produit avant de faire un achat
@@ -179,6 +181,10 @@ Oui, mais l'approche varie selon le secteur. Les entreprises B2B privilégieront
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

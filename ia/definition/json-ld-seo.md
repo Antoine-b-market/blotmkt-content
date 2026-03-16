@@ -27,9 +27,11 @@ related_articles:
 
 # JSON-LD pour le SEO : décuplez votre visibilité et vos rich results
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le JSON-LD est un format de [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) préféré par Google qui permet aux moteurs de recherche de comprendre le contenu sémantiquement
 > - 
+<!-- speakable:end -->
 Les pages avec JSON-LD génèrent 35% plus de clics grâce aux rich results, avec une amélioration du CTR pouvant atteindre 30%
 
 > - 
@@ -242,6 +244,10 @@ Google recommande JSON-LD plutôt que Microdata ou RDFa. Il est plus facile à i
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/definition/attribut-nofollow.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,13 +201,13 @@
     <div class="article-col">
       <article>
         <h1>L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>L'Attribut <code>rel="nofollow"</code> indique aux moteurs de recherche de ne pas suivre un lien ni transmettre d'autorité (PageRank) à la page liée</li>
 <li>Google a introduit <code>rel="sponsored"</code> pour les liens payants et <code>rel="ugc"</code> pour le contenu généré par les utilisateurs en 2019, complétant l'usage du nofollow</li>
 <li>
-<p>Tous les Attributs de liens sont désormais traités comme des "indices" plutôt que des directives strictes</p>
+<p class="speakable-intro">Tous les Attributs de liens sont désormais traités comme des "indices" plutôt que des directives strictes</p>
 </li>
 <li>
 <p>Le PageRank "sculpté" via nofollow est simplement perdu et non redistribué
@@ -209,7 +219,7 @@
 <p>L'attribut nofollow signale aux Moteurs de recherche de ne pas associer votre site à la page liée et de ne pas la crawler
 . Cette technique SEO, introduite en 2005 pour lutter contre le spam de commentaires, influence directement la transmission d'autorité entre les pages web. Comprendre son fonctionnement et ses évolutions récentes est essentiel pour optimiser votre stratégie de liens en 2024.</p>
 <hr />
-<h2>Définition : qu'est-ce que l'attribut rel="nofollow" et son rôle en SEO ?</h2>
+<h2 class="speakable">Définition : qu'est-ce que l'attribut rel="nofollow" et son rôle en SEO ?</h2>
 <p>L'attribut nofollow a été créé à l'origine par Google pour combattre le spam de commentaires sur les blogs
 . Sa fonction principale consiste à indiquer aux moteurs de recherche qu'un lien ne doit pas être considéré comme un vote de confiance ou une recommandation éditoriale.</p>
 <p>techniquement, 
@@ -220,7 +230,7 @@ pour l'utilisateur, il est impossible de différencier visuellement un lien nofo
 <p>L'objectif initial était de préserver l'intégrité des Algorithmes de classement en empêchant la manipulation via des liens artificiels. 
 Les liens nofollow ne transmettent pas de PageRank et n'impactent probablement pas les classements des moteurs de recherche
  (Source : Backlinko, 2024).</p>
-<h2>Nofollow vs sponsored vs ugc : comprendre les nuances des attributs de lien</h2>
+<h2 class="speakable">Nofollow vs sponsored vs ugc : comprendre les nuances des attributs de lien</h2>
 <p>En septembre 2019, Google a évolué le système nofollow en introduisant deux nouveaux attributs : "sponsored" et "ugc", tous traités désormais comme des indices plutôt que des directives
 .</p>
 <p>L'attribut <code>rel="sponsored"</code> s'applique exclusivement aux liens payants ou commerciaux. 
@@ -234,7 +244,7 @@ L'attribut UGC agit comme un bouclier de sécurité en informant les moteurs de 
 <p>L'Attribut <code>rel="nofollow"</code> conserve son rôle de joker pour tous les autres cas. 
 Il est possible d'utiliser plusieurs attributs ensemble, comme rel="ugc sponsored" ou rel="nofollow ugc" pour maintenir la compatibilité ascendante
  (Source : Google, 2019).</p>
-<h2>Mise en pratique : comment implémenter un lien nofollow ?</h2>
+<h2 class="speakable">Mise en pratique : comment implémenter un lien nofollow ?</h2>
 <p>L'implémentation technique d'un lien nofollow suit une syntaxe HTML simple : <code>&amp;lt;a href="https://exemple.com" rel="nofollow"&gt;Texte du lien&amp;lt;/a&gt;</code>. 
 Il suffit d'ajouter l'attribut rel="nofollow" dans le code HTML du lien
 .</p>
@@ -245,7 +255,7 @@ tous les liens de commentaires WordPress ont automatiquement l'attribut nofollow
 <p>Pour vérifier la présence de l'attribut, faites un clic droit sur votre navigateur, sélectionnez "AfFicher le code source de la page" et cherchez le lien dans le HTML. Si vous voyez un attribut rel="nofollow", le lien est en nofollow
 .</p>
 <p>Des outils comme l'extension Chrome "Strike Out Nofollow Links" automatisent cette vérification en barrant visuellement tous les liens nofollow d'une page (Source : Backlinko, 2024).</p>
-<h2>Impact SEO : mythes et réalités du nofollow sur le PageRank et le crawl</h2>
+<h2 class="speakable">Impact SEO : mythes et réalités du nofollow sur le PageRank et le crawl</h2>
 <p>Depuis 2019, tous les attributs de liens sont traités comme des indices sur les liens à considérer ou exclure dans la recherche, avec d'autres signaux pour mieux Analyser les liens
 . Cette évolution marque une rupture fondamentale avec l'approche historique.</p>
 <p>Le mythe du "PageRank sculpting" reste répandu mais obsolète. 
@@ -258,7 +268,7 @@ les pages liées peuvent toujours être trouvées par d'autres moyens comme les 
 . 
 Pour le crawling et l'Indexation, le nofollow est devenu un indice depuis mars 2020
 , permettant à Google de décider s'il suit ou non ces liens (Source : Google, 2020).</p>
-<h2>Utilisation stratégique : quand faut-il utiliser l'attribut nofollow ?</h2>
+<h2 class="speakable">Utilisation stratégique : quand faut-il utiliser l'attribut nofollow ?</h2>
 <p>L'usage stratégique du nofollow se concentre sur quatre cas principaux. Premièrement, les liens vers des sites externes non fiables ou que vous ne souhaitez pas cautionner. 
 Les liens vers du Contenu éditorial de qualité informent l'algorithme de Google de la confiance et valeur de votre site - ne les mettez jamais en nofollow
 .</p>
@@ -271,7 +281,7 @@ selon les directives de Google, tous les liens payants doivent être en nofollow
 <p>Enfin, pour la gestion de liens internes avancée, 
 John Mueller de Google explique qu'utiliser nofollow sur les liens internes pour éviter le crawl d'URLs non souhaitées est une option, mais recommande plutôt d'utiliser la balise canonical ou le disallow dans Robots.txt
  (Source : Lumar, 2024).</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Quelle est la différence entre un lien dofollow et nofollow ?</h3>
 <p>En termes d'Optimisation pour les moteurs de recherche, il existe une grande différence : les liens dofollow aident vos classements tandis que les liens nofollow n'ont pas d'impact SEO
 . Les liens dofollow transmettent l'autorité (PageRank) tandis que les nofollow servent d'indices sans garantie de transmission.</p>

@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/audit/core-web-vitals.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,10 +201,10 @@
     <div class="article-col">
       <article>
         <h1>Core web vitals : le guide pour maîtriser les signaux web essentiels de google</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
-<h2>- Les Core Web Vitals sont trois métriques spécifiques (LCP, INP, CLS) qui mesurent l'expérience utilisateur réelle et influencent directement les classements SEO depuis 2021</h2>
-<p>LCP mesure la <a href="https://blotmkt.com/ia/audit/vitesse-de-chargement.html">Vitesse de chargement</a> (objectif : moins de 2,5 secondes), INP évalue la réactivité (moins de 200 millisecondes) et CLS quantifie la stabilité visuelle (moins de 0,1)</p>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
+<h2 class="speakable">- Les Core Web Vitals sont trois métriques spécifiques (LCP, INP, CLS) qui mesurent l'expérience utilisateur réelle et influencent directement les classements SEO depuis 2021</h2>
+<p class="speakable-intro">LCP mesure la <a href="https://blotmkt.com/ia/audit/vitesse-de-chargement.html">Vitesse de chargement</a> (objectif : moins de 2,5 secondes), INP évalue la réactivité (moins de 200 millisecondes) et CLS quantifie la stabilité visuelle (moins de 0,1)</p>
 <ul>
 <li>
 <p>Seules les Données utilisateurs réels (CrUX) via PageSpeed Insights et Search Console impactent le SEO, pas les scores Lighthouse</p>
@@ -210,7 +220,7 @@ elles constituent un signal de classement confirmé qui alimente les systèmes d
 56,3% des sites respectent tous les seuils Core Web Vitals en 2024
 , transformant ces métriques en avantage concurrentiel déterminant.</p>
 <hr />
-<h2>Core Web Vitals : définition d'un pilier de l'expérience page</h2>
+<h2 class="speakable">Core Web Vitals : définition d'un pilier de l'expérience page</h2>
 <p>Les Core Web Vitals représentent une initiative de Google pour fournir des conseils unifiés sur les signaux de qualité essentiels à une excellente expérience utilisateur sur le web
 . 
 Ces métriques s'appliquent à toutes les pages web, doivent être mesurées par tous les propriétaires de sites et reflètent l'expérience réelle d'un résultat critique centré sur l'utilisateur
@@ -220,7 +230,7 @@ le Chrome User Experience Report collecte des données de mesure d'utilisateurs 
 . Cette approche garantit une évaluation basée sur l'expérience vécue plutôt que sur des simulations théoriques.</p>
 <p>Google a confirmé explicitement le 12 mars 2024 dans sa documentation officielle que les Core Web Vitals sont utilisés par ses systèmes de classement, supprimant toute ambiguïté restante
 . Cette intégration dans les signaux "Page Experience" influence directement les résultats de recherche, récompensant les sites qui offrent une expérience fluide et sans frustration.</p>
-<h2>Décryptage des 3 métriques : LCP, INP et CLS</h2>
+<h2 class="speakable">Décryptage des 3 métriques : LCP, INP et CLS</h2>
 <h3>Largest Contentful Paint (LCP) : la vitesse perçue</h3>
 <p>LCP mesure la performance de chargement et devrait se produire dans les 2,5 secondes suivant le début du chargement de la page
 . Cette métrique marque le moment où le plus grand élément de contenu devient visible, qu'il s'agisse d'une image, vidéo ou bloc de texte substantiel.</p>
@@ -242,7 +252,7 @@ Pour offrir une bonne expérience utilisateur, les pages doivent avoir un INP de
 . Cette métrique quantifie les changements de mise en page inattendus qui peuvent frustrer les utilisateurs en provoquant des clics accidentels.</p>
 <p>La stabilité visuelle joue un rôle clé, notamment dans les sites e-commerce et médias, les utilisateurs jugeant particulièrement les pages où les clics sont perturbés par des changements visuels inattendus, les mises en page stables se traduisant par un boost direct des signaux utilisateurs
 .</p>
-<h2>Les outils indispensables pour auditer vos Core Web Vitals</h2>
+<h2 class="speakable">Les outils indispensables pour auditer vos Core Web Vitals</h2>
 <h3>Google Search Console : la référence SEO</h3>
 <p>Search Console fournit un rapport Core Web Vitals alimenté par les données Chrome User Experience Report
 . Ce rapport groupe les URLs par statut (bon, à améliorer, médiocre) et reflète exactement les données utilisées par Google pour le classement.</p>
@@ -255,7 +265,7 @@ les données de terrain (mesures d'utilisateurs réels) qui affectent les classe
 <h3>Chrome DevTools : diagnostic avancé</h3>
 <p>L'onglet Performance de Chrome DevTools est votre outil principal pour l'Analyse en temps réel, permettant d'enregistrer et revoir une chronologie des métriques comme LCP, INP et CLS
 . L'intégration de Lighthouse offre des recommandations d'amélioration concrètes pour identifier les goulots d'étranglement.</p>
-<h2>Plan d'action : stratégies concrètes pour optimiser vos scores</h2>
+<h2 class="speakable">Plan d'action : stratégies concrètes pour optimiser vos scores</h2>
 <h3>Optimiser le LCP : vitesse de chargement</h3>
 <p>Les stratégies prioritaires incluent l'Optimisation et compression des images aux formats WebP/AVIF, le préchargement des ressources critiques, l'utilisation d'un CDN et la réduction du temps de réponse serveur (TTFB). 
 Les techniques efficaces comprennent le format WebP, la compression, le "lazy loading", charger d'abord le contenu visible puis le reste, utiliser un bon hébergement et CDN, réduire le poids du code CSS et JavaScript
@@ -266,7 +276,7 @@ Les techniques efficaces comprennent le format WebP, la compression, le "lazy lo
 <h3>Corriger le CLS : stabilité garantie</h3>
 <p>Une amélioration de 0,1 dans le score CLS augmente les conversions de 12% en moyenne
 . Les solutions consistent à spécifier les dimensions (width, height) pour toutes les images et vidéos, réserver l'espace pour les contenus dynamiques (publicités, bannières), et éviter d'insérer du contenu au-dessus du contenu existant.</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Qu'est-ce qu'un bon score Core Web Vitals ?</h3>
 <p>Un bon score respecte les seuils LCP &lt; 2,5 secondes, INP &lt; 200ms et CLS &lt; 0,1, mesurés au 75e percentile des chargements de page
 . Ces seuils garantissent une expérience satisfaisante pour la majorité des utilisateurs.</p>

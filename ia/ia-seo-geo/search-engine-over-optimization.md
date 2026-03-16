@@ -24,17 +24,15 @@ related_articles:
   - title: "Récupération SEO : Stratégies avancées pour regagner votre visibilité à l'ère de l'IA"
     url: "/ia/popularite/recuperation-seo"
 ---
-
-Je vais d'abord rechercher des sources récentes et crédibles sur la sur-Optimisation SEO pour étayer le contenu.
-Maintenant que j'ai collecté des sources récentes et pertinentes, je vais rédiger l'article selon les instructions fournies.
-
 # Sur-optimisation seo : les signes qui ne trompent pas et comment éviter la pénalité
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - La sur-Optimisation se distingue du SEO white hat par son caractère artificiel qui nuit à l'expérience utilisateur plutôt que de l'améliorer
 > - Les signaux d'alerte incluent le keyword stuffing (densité >6%), les liens artificiels massifs et les contenus dupliqués sans valeur ajoutée
 > - Une pénalité pour sur-optimisation entraîne une chute de 70% du trafic en moyenne selon les études 2024, avec un impact direct sur le ROI
 > - L'approche durable privilégie les topic clusters et l'optimisation sémantique aux répétitions mécaniques de mots-clés
+<!-- speakable:end -->
 
 La sur-optimisation SEO représente un piège redoutable pour les référenceurs zélés. Cette pratique transforme des techniques légitimes en manipulation artificielle, déclenchant les filtres algorithmiques de Google. 
 Une étude menée en 2024 révèle que les entreprises sanctionnées perdent en moyenne 70% de leur trafic organique dans les 30 jours suivant l'application de la pénalité.
@@ -188,6 +186,10 @@ Lorsque les sanctions infligées par Google sont liées à la qualité des liens
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

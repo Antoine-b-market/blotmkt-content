@@ -24,15 +24,12 @@ related_articles:
   - title: "Données structurées : le guide complet pour obtenir des résultats de recherche enrichis"
     url: "/ia/definition/donnees-structurees"
 ---
-
-Je vais d'abord rechercher des sources récentes et crédibles sur la densité de mots-clés pour m'assurer de fournir des informations actualisées et factuelles.
-Maintenant je vais rechercher des informations sur l'Optimisation pour les LLM et l'optimisation GEO.
-Parfait ! Maintenant j'ai toutes les informations nécessaires pour rédiger un contenu complet et actualisé sur la densité de mots-clés. Je vais maintenant rédiger l'article en suivant la structure demandée.
-
 # Densité de mots-clés : le guide pratique pour le SEO et la GEO
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 La densité de mots-clés désigne le taux d'apparition d'un mot-clé dans un texte calculé par la formule : (Nombre d'occurrences du mot-clé / Nombre total de mots dans le texte) x 100
 
 > - 
@@ -225,6 +222,10 @@ Sans un bon positionnement organique, votre Contenu ne sera pas dans la base de 
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

@@ -27,8 +27,10 @@ related_articles:
 
 # Expert SEO au Québec : optimisez votre visibilité pour l'ère des IA
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 97% des consommateurs québécois commencent leurs Recherches par le web, mais les IA de recherche représentent désormais jusqu'à 2% du volume total des requêtes
 , créant de nouveaux enjeux de visibilité
 > - 
@@ -195,6 +197,10 @@ Agence SEO Zenith, CyberPerformance, Desire Marketing
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

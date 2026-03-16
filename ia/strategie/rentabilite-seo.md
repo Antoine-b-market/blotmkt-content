@@ -27,11 +27,13 @@ related_articles:
 
 # Calculer et optimiser la rentabilité SEO : le guide pratique
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - La rentabilité SEO se mesure par le ROI : (Gains - Coûts) / Coûts × 100, avec un ROI moyen de 747% selon les études récentes
 > - Le coût d'acquisition client (CAC) en SEO est généralement 3 fois inférieur au SEA (10€ vs 30-80€) et diminue dans le temps
 > - Le SEO génère un actif durable contrairement au SEA qui fonctionne comme une location de Visibilité
 > - L'intelligence artificielle décuple la rentabilité en automatisant l'Analyse, réduisant les coûts de production et personnalisant l'expérience utilisateur
+<!-- speakable:end -->
 
 Vous investissez dans le SEO mais peinez à justifier sa rentabilité auprès de votre direction ? Cette situation génère souvent des tensions budgétaires et des remises en question. 
 Les études démontrent pourtant que le SEO génère un ROI moyen de 747%, soit deux fois plus élevé que les publicités pay-per-click
@@ -198,6 +200,10 @@ Le calcul est basé sur le nombre de visiteurs mensuels, le taux de conversion e
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

@@ -27,9 +27,11 @@ related_articles:
 
 # Méta description SEO: Guide complet pour optimiser votre visibilité et votre CTR
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - La méta description est une Balise HTML qui influence indirectement le référencement via l'amélioration du taux de clics (CTR)
 > - 
+<!-- speakable:end -->
 Les pages avec des méta descriptions optimisées génèrent 5,8% de clics supplémentaires par rapport aux pages sans description
 
 > - 
@@ -232,6 +234,10 @@ Une formulation claire, concise et attrayante peut augmenter votre CTR de 20% ou
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

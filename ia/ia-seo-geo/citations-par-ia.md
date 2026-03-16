@@ -27,12 +27,14 @@ related_articles:
 
 # Citations par IA : comment l'intelligence artificielle réinvente votre contenu
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Une citation par IA est la mention explicite de votre contenu dans les réponses générées par les modèles de langage (ChatGPT, Gemini, Perplexity)
 > - Les citations par IA offrent un avantage sémantique en alignant sur l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) et génèrent du contenu à grande échelle
 > - Les outils leaders incluent Jasper (19$/mois), Copy.ai (36$/mois), Writesonic (17$/mois) et des solutions spécialisées comme AI-Writer.com
 > - L'intégration efficace passe par l'enrichissement d'articles, la création pour les réseaux sociaux et la dynamisation des newsletters
 > - La supervision humaine reste cruciale pour éviter les Contenus génériques et garantir l'authenticité de votre marque
+<!-- speakable:end -->
 
 L'ère de l'intelligence artificielle transforme radicalement notre approche du Contenu. 
 Être citée signifie que votre site est reconnu comme une référence fiable par les Algorithmes d'intelligence artificielle
@@ -182,6 +184,10 @@ Des outils spécialisés comme OtterlyAI, Profound ou Peec AI permettent désorm
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

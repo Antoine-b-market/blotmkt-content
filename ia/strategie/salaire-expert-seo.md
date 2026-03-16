@@ -27,11 +27,13 @@ related_articles:
 
 # Salaire expert SEO : le guide 2024 des rémunérations par niveau d'expérience
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un expert SEO junior gagne entre 35 000€ et 42 000€ bruts annuels, tandis qu'un profil confirmé atteint 42 000€ à 55 000€ et un senior dépasse les 55 000€
 > - En freelance, le TJM varie de 270€ (junior) à 600€+ (Expert), soit un potentiel de revenus supérieur au salariat
 > - Les compétences techniques avancées (Python, [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html), data) peuvent justifier un salaire premium de 15 à 20% supplémentaires
 > - Le ROI généré par un expert SEO peut atteindre 400% selon la formule (gains - coûts)/coûts, prouvant la Rentabilité de l'investissement
+<!-- speakable:end -->
 
 Le secteur du SEO connaît une tension sur les talents : 
 le Salaire moyen (base déclarative des participants) a légèrement augmenté puisqu'il est passé à 44,4 K€/an, contre 40 K€/an en 2021
@@ -166,6 +168,10 @@ Mettez en avant vos certifications, vos résultats mesurables (ROI généré, po
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

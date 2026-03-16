@@ -27,8 +27,10 @@ related_articles:
 
 # Maîtriser les redirections 301 pour un SEO sans faille
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Une redirection 301 est un signal permanent qui transfère 
+<!-- speakable:end -->
 jusqu'à 99 % de l'autorité SEO
  vers la nouvelle URL
 > - Contrairement aux 302, les redirections 301 
@@ -204,6 +206,10 @@ Créer des chaînes de redirection (où une redirection mène à une autre, puis
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

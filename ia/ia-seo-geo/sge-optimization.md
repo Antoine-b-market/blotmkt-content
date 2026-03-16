@@ -27,10 +27,12 @@ related_articles:
 
 # Optimisation SGE : Maîtriser le nouveau paradigme de la recherche IA
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - L'Optimisation SGE (Search Generative Experience) vise à positionner votre contenu dans les AI Overviews de Google, qui apparaissent désormais dans plus de 85% des recherches
 > - Les stratégies GEO incluent l'optimisation sémantique, la structuration pour la citabilité et l'implémentation de [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) pour améliorer la compréhension par les IA
 > - Le SEO traditionnel reste fondamental pour le SGE : 
+<!-- speakable:end -->
 99% des AI Overviews citent le top 10 organique, ce qui signifie qu'il faut d'abord bien se classer pour avoir une chance d'être cité
 
 > - 
@@ -244,6 +246,10 @@ Non,
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

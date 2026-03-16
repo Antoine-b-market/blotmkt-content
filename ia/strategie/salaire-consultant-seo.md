@@ -27,12 +27,14 @@ related_articles:
 
 # Quel est le salaire d'un consultant SEO en 2024 ? Comprendre les rémunérations et la valeur ajoutée
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Les consultants SEO français gagnent entre 25 000 et 60 000 € bruts par an selon leur expérience, avec une moyenne de 38 651 € à 43 000 € annuels
 > - En freelance, les TJM varient de 200-300 € pour les juniors à 500-900 € pour les seniors expérimentés
 > - Les facteurs déterminants incluent l'expérience (junior vs senior), la localisation (Paris +15 à +25%), les spécialisations techniques et le type de structure
 > - Le ROI d'un consultant SEO expert génère des revenus directs mesurables, avec le référencement naturel représentant 49% du ROI marketing contre 19% pour la publicité
 > - Les modèles de tarification incluent le TJM (le plus recherché), les forfaits, les abonnements mensuels et les success fees selon la nature des missions
+<!-- speakable:end -->
 
 Le marché du consultant SEO en France connaît une transformation majeure en 2024. Entre tensions sur les talents, évolution des compétences requises et diversification des modèles économiques, comprendre les rémunérations devient essentiel pour faire des choix éclairés. Cette Analyse révèle pourquoi investir dans un expert SEO senior indépendant peut générer un ROI supérieur aux alternatives traditionnelles.
 
@@ -178,6 +180,10 @@ Le freelance senior offre un rapport expertise/prix optimal pour les entreprises
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

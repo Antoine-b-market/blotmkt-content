@@ -27,11 +27,13 @@ related_articles:
 
 # Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - L'architecture de site est le plan d'organisation logique de votre contenu qui guide utilisateurs et robots d'exploration, servant de pilier technique pour le SEO et manifestation de votre expertise et autorité
 > - L'architecture en silo convient aux sites e-commerce pour concentrer l'autorité par thème, tandis que le modèle en topic cluster favorise la domination d'une niche sémantique pour les blogs
 > - L'Audit architectural avec des outils comme Screaming Frog permet d'identifier les pages orphelines et d'optimiser le maillage interne pour une meilleure distribution du PageRank
 > - Une refonte d'architecture génère un ROI mesurable à travers l'amélioration du taux d'Indexation, des positions moyennes et la réduction du [Taux de rebond](https://blotmkt.com/ia/audit/taux-de-rebond.html)
+<!-- speakable:end -->
 
 La majorité des sites web souffrent d'un problème critique souvent ignoré : 
 90,63% des pages web n'attirent pas de trafic organique sur Google
@@ -203,6 +205,10 @@ Un site bien structuré présente un taux de rebond inférieur à 50%, permet d'
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

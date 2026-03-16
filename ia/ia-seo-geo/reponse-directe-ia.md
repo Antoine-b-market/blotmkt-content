@@ -27,11 +27,13 @@ related_articles:
 
 # Réponse directe IA : la nouvelle frontière du SEO face à SGE
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Une réponse directe IA est une synthèse générée par un LLM directement dans la SERP, compilant plusieurs sources pour créer une réponse contextuelle unique, différente d'un [Featured Snippet](https://blotmkt.com/ia/definition/featured-snippet.html) traditionnel.
 > - Le GEO (Generative Engine Optimization) vise à faire citer son contenu par les IA génératifs plutôt qu'à simplement le positionner dans les résultats organiques, marquant un passage du ranking vers l'intégration.
 > - L'optimisation pour les réponses IA nécessite une structuration claire (balises Hn, listes, tableaux), un enrichissement avec des données vérifiables et une densité sémantique élevée plutôt qu'une répétition de mots-clés.
 > - 
+<!-- speakable:end -->
 Les bénéfices incluent une visibilité maximale en "position zéro+", avec des études Princeton montrant une augmentation de la visibilité jusqu'à 40%
 , renforçant l'autorité de marque et captant des requêtes conversationnelles qualifiées.
 
@@ -211,6 +213,10 @@ Les moteurs génératifs synthétisent une réponse unique en puisant dans plusi
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

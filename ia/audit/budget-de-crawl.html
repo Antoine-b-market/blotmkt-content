@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/audit/budget-de-crawl.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,11 +201,11 @@
     <div class="article-col">
       <article>
         <h1>Budget de crawl : le guide pour l'optimiser et accélérer votre indexation</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>
-<p>Le budget de crawl correspond aux ressources que Google alloue pour explorer les pages d'un site web sur une période donnée</p>
+<p class="speakable-intro">Le budget de crawl correspond aux ressources que Google alloue pour explorer les pages d'un site web sur une période donnée</p>
 </li>
 <li>
 <p>Chaque requête de crawl dépensée sur du contenu de faible valeur ou dupliqué représente une opportunité manquée d'indexer des pages à fort potentiel de trafic</p>
@@ -212,7 +222,7 @@
 Le véritable enjeu n'est plus simplement d'être crawlé, mais d'être crawlé efficacement
  pour accélérer l'Indexation des contenus stratégiques.</p>
 <hr />
-<h2>Qu'est-ce que le budget de crawl et pourquoi est-il essentiel ?</h2>
+<h2 class="speakable">Qu'est-ce que le budget de crawl et pourquoi est-il essentiel ?</h2>
 <p>Google définit le budget de crawl comme l'ensemble d'URLs que ses robots peuvent et veulent explorer sur un site
 . Cette limitation découle de deux Facteurs principaux : 
 la capacité de crawl (nombre maximum de connexions parallèles sans surcharger le serveur) et la demande de crawl (popularité et fraîcheur du Contenu)
@@ -224,7 +234,7 @@ les seules façons d'augmenter le budget de crawl sont d'améliorer la capacité
 <p>L'importance stratégique se révèle particulièrement critique pour les sites e-commerce, médias et marketplaces où 
 la dérive Structurelle peut créer des dizaines de milliers d'URLs parasites qui absorbent l'activité de crawl au détriment des catégories et produits à fort enjeu
 .</p>
-<h2>Les principaux facteurs de gaspillage du budget de crawl</h2>
+<h2 class="speakable">Les principaux facteurs de gaspillage du budget de crawl</h2>
 <p>Sans guidance appropriée, Google tente d'explorer la majorité des URLs connues d'un site. Si beaucoup sont dupliquées ou non désirées, cela gaspille énormément de temps de crawl
 . Les URLs de navigation à facettes représentent un piège courant : 
 elles peuvent générer un nombre effectivement infini d'URLs à travers les combinaisons de filtres, options de tri et Pagination
@@ -239,7 +249,7 @@ elles nécessitent plusieurs requêtes et étapes de traitement pour atteindre u
 . Cette problématique s'amplifie avec les sites utilisant massivement JavaScript où 
 le rendu côté client consomme davantage de ressources et ralentit l'Exploration
 .</p>
-<h2>Analyser son budget de crawl avec Google Search Console et Screaming Frog</h2>
+<h2 class="speakable">Analyser son budget de crawl avec Google Search Console et Screaming Frog</h2>
 <p>Le rapport Statistiques de crawl dans Google Search Console offre des analyses détaillées sur le comportement de Googlebot sur les 90 derniers jours. On y accède en naviguant vers Paramètres puis Statistiques de crawl
 . 
 Le nombre total de requêtes de crawl divisé par 90 donne une estimation du Budget quotidien
@@ -253,7 +263,7 @@ les outils spécialisés comme Screaming Frog Log Analyzer, Botify ou OnCrawl pe
 . Cette approche révèle 
 si les URLs de haute valeur sont crawlées fréquemment ou ignorées, si les pages de recherche et filtres accaparent le budget, et si les pages importantes sont complètement évitées
 .</p>
-<h2>Stratégies concrètes pour optimiser son budget de crawl</h2>
+<h2 class="speakable">Stratégies concrètes pour optimiser son budget de crawl</h2>
 <p>L'utilisation de Robots.txt pour bloquer les URLs sans valeur SEO évite le gaspillage de ressources, mais ne doit pas servir à réallouer temporairement le budget vers d'autres pages
 . 
 Le <a href="https://blotmkt.com/ia/audit/fichier-robots.txt.html">Fichier Robots.txt</a> signale à Googlebot les URLs à éviter, permettant de bloquer les endpoints API, URLs de flux ou pages de commande qui n'apportent aucune valeur de ranking
@@ -266,7 +276,7 @@ les URLs populaires sur internet tendent à être crawlées plus souvent pour ma
 . 
 Après Optimisation du robots.txt, les mesures montrent une réduction d'environ 25% du temps d'indexation pour les nouveaux produits et collections
 .</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Comment augmenter le budget de crawl ?</h3>
 <p>Les seules méthodes pour augmenter le budget de crawl sont d'améliorer la capacité de service pour les explorations et, plus important encore, d'augmenter la valeur du contenu du site pour les utilisateurs
 . L'optimisation technique et l'élimination du contenu de faible qualité constituent les leviers principaux.</p>

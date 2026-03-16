@@ -27,9 +27,11 @@ related_articles:
 
 # Transcription vidéo SEO : le guide pour optimiser votre contenu pour Google et l'IA
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - La transcription vidéo SEO transforme le contenu audio en texte exploitable par les crawlers, nourrissant les algorithmes sémantiques avec un contexte complet au-delà des simples métadonnées
 > - 
+<!-- speakable:end -->
 La transcription automatique coûte entre 0,10 et 0,30 € par minute contre 1,50 à 4,00 € pour la transcription Manuelle, soit jusqu'à 90% d'économies
 
 > - 
@@ -186,6 +188,10 @@ Surveillez l'évolution des positions sur les mots-clés de longue traîne, l'au
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

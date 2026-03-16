@@ -27,11 +27,13 @@ related_articles:
 
 # Mots-clés transactionnels : le guide pour cibler l'intention d'achat avec l'IA
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un mot-clé transactionnel signale une intention d'achat immédiate avec des marqueurs comme "acheter", "prix", "livraison" ou des localisateurs géographiques
 > - L'IA et les LLM permettent de générer des variantes de longue traîne et d'Analyser l'intention commerciale avec une précision inégalée
 > - L'Optimisation on-page doit placer ces mots-clés dans les zones chaudes (titre, H1, CTA) et créer du contenu qui lève les dernières objections avant l'achat
 > - 
+<!-- speakable:end -->
 Le trafic issu des mots-clés transactionnels convertit jusqu'à 14,6% contre 2-5% en moyenne, générant un ROI directement mesurable sur le chiffre d'affaires
 
 Vous perdez des ventes parce que vos contenus n'interceptent pas les clients prêts à acheter ? 
@@ -188,6 +190,10 @@ Drujok, 2019
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

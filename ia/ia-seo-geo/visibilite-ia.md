@@ -27,8 +27,10 @@ related_articles:
 
 # Visibilité IA : être reconnu par les algorithmes sans devenir invisible
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 La visibilité IA désigne la probabilité d'être cité par une IA générative, avec des techniques GEO permettant d'améliorer cette visibilité jusqu'à 40%
 
 > - 
@@ -187,6 +189,10 @@ Les meilleures stratégies post-2025 combinent SEO et GEO : créer du Contenu qu
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

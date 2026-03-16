@@ -27,8 +27,10 @@ related_articles:
 
 # Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Un budget SEO mensuel varie de 500€ à 5000€ pour les PME, représentant un investissement récurrent dans l'amélioration de la Visibilité organique
 
 > - 
@@ -192,6 +194,10 @@ Contrairement au SEA où le trafic s'arrête dès que vous coupez le budget, le 
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

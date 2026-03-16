@@ -27,8 +27,10 @@ related_articles:
 
 # Expertise SEO technique : le levier stratégique pour votre performance digitale
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Les leads provenant du SEO convertissent en moyenne à 14,6%
 , soit 9 fois plus que l'outbound marketing
 > - Un expert SEO senior facture entre 600 et 1000€/jour, 
@@ -171,6 +173,10 @@ Un expert utilise des outils avancés comme Screaming Frog pour les audits de cr
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

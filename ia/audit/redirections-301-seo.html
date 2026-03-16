@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/audit/redirections-301-seo.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,14 +201,14 @@
     <div class="article-col">
       <article>
         <h1>Maîtriser les redirections 301 pour un SEO sans faille</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>Une redirection 301 est un signal permanent qui transfère 
 jusqu'à 99 % de l'autorité SEO
  vers la nouvelle URL</li>
 <li>
-<p>Contrairement aux 302, les redirections 301 
+<p class="speakable-intro">Contrairement aux 302, les redirections 301 
 transfèrent l'autorité et la puissance de classement de l'ancienne URL vers la nouvelle</p>
 </li>
 <li>
@@ -211,7 +221,7 @@ transfèrent l'autorité et la puissance de classement de l'ancienne URL vers la
 85 % des pertes de trafic lors d'un changement de domaine proviennent de redirections mal configurées
 . Heureusement, la redirection 301 constitue votre meilleur allié pour préserver des années de travail SEO et maintenir votre visibilité dans Google.</p>
 <hr />
-<h2>Qu'est-ce qu'une redirection 301 et son rôle crucial en SEO ?</h2>
+<h2 class="speakable">Qu'est-ce qu'une redirection 301 et son rôle crucial en SEO ?</h2>
 <p>La redirection 301 "Moved Permanently" indique que la ressource a été déplacée de manière permanente vers une nouvelle adresse, signalant aux navigateurs et aux moteurs de Recherche que l'ancienne URL ne sera plus jamais utilisée
 . Ce code HTTP 301 fonctionne comme un déménagement officiel : il informe Google que votre contenu a définitivement changé d'adresse.</p>
 <p>Son rôle principal consiste à 
@@ -225,7 +235,7 @@ les utilisateurs qui cliquent sur d'anciens liens ne tombent pas sur une page d'
 <h3>Signal positif pour les moteurs de recherche</h3>
 <p>Les redirections donnent un signal positif aux moteurs de recherche, permettant d'indiquer clairement que le Contenu a été déplacé, ce qui leur permet de mettre à jour leurs index rapidement et d'éviter de pénaliser votre site pour contenu manquant
 .</p>
-<h2>Redirection 301 vs 302 : choisir le bon signal pour Google</h2>
+<h2 class="speakable">Redirection 301 vs 302 : choisir le bon signal pour Google</h2>
 <p>La distinction entre ces deux redirections conditionne le succès de votre <a href="https://blotmkt.com/ia/strategie/strategie-seo.html">Stratégie SEO</a>. 
 Les moteurs de recherche traitent les redirections 301 et 302 différemment : avec une 301, Google transfère l'autorité, la puissance de classement et tous les backlinks associés à l'ancienne URL vers la nouvelle localisation, ce qui signifie que la nouvelle URL hérite de la valeur SEO que la page originale a construite au fil du temps
 .</p>
@@ -241,7 +251,7 @@ les tests A/B, guider une portion du trafic vers chaque version pour décider Qu
  ou pour 
 tester une page web pour la fonctionnalité ou le Design, obtenir des commentaires client sur une nouvelle page sans impacter le classement du site, ou mettre à jour une page web tout en fournissant une expérience cohérente aux visiteurs
 .</p>
-<h2>Mise en place d'une redirection 301 : la méthode pratique</h2>
+<h2 class="speakable">Mise en place d'une redirection 301 : la méthode pratique</h2>
 <p>La méthode technique la plus courante consiste à 
 modifier le Fichier .htaccess sur un serveur Apache
 . Voici la syntaxe de base :</p>
@@ -256,7 +266,7 @@ Tapez l'ancienne adresse de la page concernée : si vous arrivez sur la nouvelle
 <p>La documentation est essentielle : 
 un simple fichier Excel avec l'ancienne URL, la nouvelle destination et la date de création vous fera gagner des heures lors des futures Migrations
 .</p>
-<h2>Gérer les erreurs 404 : quand la redirection 301 n'est pas la solution</h2>
+<h2 class="speakable">Gérer les erreurs 404 : quand la redirection 301 n'est pas la solution</h2>
 <p>Le principe fondamental : 
 ne faites pas de redirection systématique vers votre page d'accueil, cela aura un impact négatif sur vos positions
 . Cette erreur courante dilue votre autorité SEO au lieu de la concentrer.</p>
@@ -271,7 +281,7 @@ refonte, migration technique, changement de structure d'URL ou suppression de pa
 <p>L'alternative recommandée consiste à 
 créer une page 404 personnalisée qui guide l'utilisateur vers des contenus populaires ou un moteur de recherche interne
 , transformant une impasse en opportunité de navigation.</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Comment savoir si une redirection 301 fonctionne ?</h3>
 <p>Tapez l'ancienne adresse dans votre navigateur : si vous arrivez sur la nouvelle page, la redirection fonctionne. Si vous tombez sur une erreur 404, il y a un problème à rectifier rapidement
 .</p>

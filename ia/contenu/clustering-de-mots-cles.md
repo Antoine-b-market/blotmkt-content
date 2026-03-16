@@ -27,10 +27,12 @@ related_articles:
 
 # Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le clustering de mots-clés regroupe des requêtes par [Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) commune plutôt que par similarité lexicale, permettant de créer des pages pilier qui répondent exhaustivement aux besoins des utilisateurs
 > - Cette méthode s'appuie sur l'Analyse des SERP pour identifier les requêtes partageant les mêmes URL dans les résultats de recherche, optimisant ainsi la structure du contenu pour les algorithmes sémantiques de Google
 > - 
+<!-- speakable:end -->
 Une page peut se positionner sur tellement de requêtes différentes
  grâce au clustering, évitant la cannibalisation et concentrant l'autorité SEO sur des URL uniques
 
@@ -181,6 +183,10 @@ Les outils spécialisés comme Keyword Insights, Ranxplorer, ou les fonctionnali
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

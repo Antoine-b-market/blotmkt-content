@@ -27,11 +27,13 @@ related_articles:
 
 # Erreurs 404 et SEO : le guide pour les identifier et les corriger efficacement
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Une erreur 404 ne pénalise pas directement le SEO mais peut impacter votre site indirectement via l'expérience utilisateur et le [Budget de crawl](https://blotmkt.com/ia/audit/budget-de-crawl.html)
 > - Utilisez la Google Search Console (section "Pages > Introuvable (404)") et Screaming Frog pour identifier les erreurs 404 problématiques 
 > - Choisissez une redirection 301 si une page de remplacement pertinente existe, sinon utilisez un code 404 ou 410 pour les suppressions définitives
 > - Priorisez la correction des 404 qui reçoivent du trafic ou possèdent des Backlinks de qualité pour préserver votre "jus de lien"
+<!-- speakable:end -->
 
 Les erreurs 404 n'impactent pas directement le référencement naturel mais l'expérience utilisateur étant négative, par conséquent, le référencement va en être impacté.
  Cette nuance est cruciale à comprendre : Google ne pénalise pas votre site pour quelques erreurs 404, mais leur accumulation peut signaler un site mal entretenu. 
@@ -197,6 +199,10 @@ Une 404 indique que la page n'existe pas (côté client), tandis qu'une erreur 5
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

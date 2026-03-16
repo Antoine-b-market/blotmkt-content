@@ -27,8 +27,10 @@ related_articles:
 
 # Le rayon de visibilité : comment être reconnu par l'ia, pas seulement vu
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Le rayon de visibilité à l'ère des IA désigne la capacité d'une entité à être reconnue et citée par les moteurs génératifs (GEO), au-delà de la simple géolocalisation du [SEO local](https://blotmkt.com/ia/definition/seo-local.html)
 
 > - 
@@ -192,6 +194,10 @@ Contrairement aux moteurs de recherche traditionnels qui classent les pages selo
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

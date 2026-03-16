@@ -27,8 +27,10 @@ related_articles:
 
 # Réponses IA Google : le guide pour adapter votre SEO à la SGE et aux AI Overviews
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Google SGE (Search Generative Experience) génère des résumés synthétiques alimentés par l'IA qui apparaissent en tête des résultats de recherche, répondant directement aux requêtes sans nécessiter de clic
 
 > - 
@@ -210,6 +212,10 @@ Créez des tableaux de bord utilisant les données de Google Search Console pour
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

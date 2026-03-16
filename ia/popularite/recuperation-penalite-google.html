@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/popularite/recuperation-penalite-google.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,11 +201,11 @@
     <div class="article-col">
       <article>
         <h1>Récupération pénalité Google : le guide pour nettoyer votre site et retrouver votre trafic</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>
-<p>Une <a href="https://blotmkt.com/ia/popularite/penalite-google.html">Pénalité Google</a> est une sanction directe ou automatisée qui entraîne 
+<p class="speakable-intro">Une <a href="https://blotmkt.com/ia/popularite/penalite-google.html">Pénalité Google</a> est une sanction directe ou automatisée qui entraîne 
 une chute brutale de visibilité ou une désIndexation</p>
 </li>
 <li>
@@ -211,7 +221,7 @@ Les statistiques démontrent que les trois premiers résultats naturels captent 
 les délais de rétablissement varient selon le type de pénalité : 2 à 8 semaines pour les sanctions manuelles, 3 à 12 mois pour les pénalités algorithmiques
 .</p>
 <hr />
-<h2>Identifier une pénalité Google : symptômes et diagnostic</h2>
+<h2 class="speakable">Identifier une pénalité Google : symptômes et diagnostic</h2>
 <h3>Les signaux d'alarme à surveiller</h3>
 <p>La courbe d'audience se brise net, laissant place à un silence statistique inquiétant. Cette disparition soudaine des SERP et du trafic web confirme souvent une sévère pénalité Google
 . Analysez d'abord vos données Google Analytics pour détecter une chute de trafic organique supérieure à 30% sur une période courte.</p>
@@ -221,7 +231,7 @@ La première étape consiste à identifier précisément les problèmes signalé
 <p>En l'absence de notification, 
 superposez la date de votre chute de trafic avec le calendrier officiel des mises à jour Google pour identifier la nature de la sanction
 . Cette corrélation temporelle révèle souvent une pénalité algorithmique silencieuse.</p>
-<h2>Pénalité manuelle vs filtre algorithmique : comprendre la différence</h2>
+<h2 class="speakable">Pénalité manuelle vs filtre algorithmique : comprendre la différence</h2>
 <h3>Mécanismes de sanction distincts</h3>
 <p>La différence la plus notable entre une pénalité et un événement algorithmique est la nécessité et la possibilité d'interagir directement avec Google. Un site pénalisé recevra un rapport d'action manuelle via Google Search Console
 .</p>
@@ -231,7 +241,7 @@ Contrairement aux filtres automatisés, une action manuelle ne se lève pas seul
 <p>Le filtre algorithmique fonctionne automatiquement lors des mises à jour. 
 La seule issue réside dans l'amélioration substantielle de la qualité du site pour satisfaire à nouveau les critères de l'Algorithme). Il n'est pas nécessaire (ni possible) de déposer une demande de réexamen pour échapper à une pénalité algorithmique
 .</p>
-<h2>Le plan d'action pour lever une pénalité (cas des liens toxiques)</h2>
+<h2 class="speakable">Le plan d'action pour lever une pénalité (cas des liens toxiques)</h2>
 <h3>Méthodologie de nettoyage systématique</h3>
 <p>Commencez par mener un Audit complet de vos backlinks via Google Search Console, Ahrefs ou SEMrush. 
 Utilisez des outils comme Ahrefs, Majestic ou SEMrush pour extraire la liste complète de vos backlinks dans l'index "fresh index" qui permet d'avoir une liste récente
@@ -245,7 +255,7 @@ Tout d'abord, nous vous conseillons de retirer du Web le maximum de liens de mau
 <p>En dernier recours, utilisez l'outil de désaveu de Google. 
 Créez une liste des pages ou des domaines à désavouer dans un Fichier texte que vous importerez dans Google. Il peut s'écouler quelques semaines avant que votre liste soit intégrée dans l'index Google
 .</p>
-<h2>Les outils essentiels pour la récupération et la prévention</h2>
+<h2 class="speakable">Les outils essentiels pour la récupération et la prévention</h2>
 <h3>Arsenal technique pour le diagnostic et la correction</h3>
 <p>Google Search Console reste l'outil n°1 pour identifier les pénalités manuelles et soumettre les demandes de réexamen. 
 La Search Console est l'outil officiel pour identifier les pénalités manuelles et Analyser les performances. Section "Actions manuelles" pour les pénalités explicites
@@ -257,7 +267,7 @@ Le monitoring via Google Analytics et Google Search Console permet de mesurer l'
 Semrush attribue des métriques telles que l'Autorité des domaines et le Score de toxicité aux liens. Concentrez-vous sur les liens avec un score de toxicité élevé
 .</p>
 <p>Complétez votre arsenal avec PageSpeed Insights et les outils de <a href="https://blotmkt.com/ia/definition/donnees-structurees.html">Données structurées</a> pour garantir la conformité technique post-récupération. Une approche holistique maximise vos chances de retrouver vos positions durablement.</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Comment savoir si on a une pénalité Google ?</h3>
 <p>Connectez-vous à la Google Search Console, allez dans "Sécurité et actions manuelles" &gt; "Actions manuelles". S'il y a un message, il précise la nature du problème (liens artificiels, contenu faible, spam)
 . En l'absence de notification, Analysez les corrélations entre vos chutes de trafic et les dates de mises à jour algorithmiques.</p>

@@ -27,9 +27,11 @@ related_articles:
 
 # Topique d'autorité : comment transformer votre expertise en actif cognitif SEO
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un Topique d'autorité transcende le topic cluster classique en créant et possédant une catégorie de pensée plutôt que de simplement couvrir un sujet existant
 > - 
+<!-- speakable:end -->
 Le ROI d'un actif cognitif se mesure par l'autorité construite et la reconnaissance par les moteurs de recherche, renforçant le critère E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) désormais au cœur des stratégies SEO 2026
 
 > - La méthode comprend 4 étapes : idéation d'un angle propriétaire, modélisation sémantique, création structurée et amplification via publications scientifiques et conférences
@@ -215,6 +217,10 @@ Les Contenus longs, pages piliers et études de marché restent la base pour nou
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

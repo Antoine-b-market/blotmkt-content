@@ -24,14 +24,12 @@ related_articles:
   - title: "SEO YMYL : le guide pratique pour maîtriser l'E-E-A-T et sécuriser vos classements"
     url: "/ia/definition/ymyl-seo"
 ---
-
-Je vais d'abord rechercher des sources récentes et fiables sur l'optimisation des fiches établissement Google pour enrichir le contenu avec des données actuelles.
-Maintenant, je vais rédiger le contenu en utilisant les sources trouvées et en respectant le brief fourni.
-
 # Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Une fiche établissement Google est un profil gratuit permettant aux entreprises de gérer leur présence locale sur Google Search et Maps, indispensable pour 
+<!-- speakable:end -->
 80% des consommateurs américains qui recherchent des entreprises locales chaque semaine
 
 > - L'Optimisation efficace passe par la complétude des informations NAP (nom, adresse, téléphone), une gestion active des avis clients et l'utilisation régulière des fonctionnalités comme les posts Google
@@ -269,6 +267,10 @@ Dans votre interface Google Business Profile, accédez à la section "Produits" 
 ---
 
 FAQ_JSON-->
+
+---
+
+---
 
 ---
 

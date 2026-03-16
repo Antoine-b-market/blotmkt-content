@@ -27,8 +27,10 @@ related_articles:
 
 # Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Un algorithme de pénalité fonctionne de manière automatisée et se déclenche lors des mises à jour de Google
 , sans notification préalable
 > - 
@@ -210,6 +212,10 @@ Pour les pénalités manuelles, utilisez l'interface Search Console qui inclut d
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

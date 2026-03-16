@@ -27,8 +27,10 @@ related_articles:
 
 # Trust flow SEO : le guide pour aligner votre métrique avec l'E-E-A-T de Google
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Le Trust Flow est une métrique SEO de Majestic notée de 0 à 100 qui évalue la qualité d'un site web basé sur ses Backlinks
 
 > - 
@@ -215,6 +217,10 @@ Les métriques TF et CF répondent positivement aux efforts d'amélioration. Cr�
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

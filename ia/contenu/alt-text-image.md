@@ -27,11 +27,13 @@ related_articles:
 
 # Alt text image : le guide pour optimiser votre SEO et votre accessibilité
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - L'alt text est un attribut HTML qui décrit une image pour les lecteurs d'écran et les moteurs de recherche, jouant un rôle crucial en accessibilité et SEO
 > - Il se distingue du titre d'Image (tooltip) et de la légende (texte visible) par sa fonction spécifique d'assistance aux robots et personnes malvoyantes
 > - Un bon alt text doit être descriptif, concis (70-125 caractères), contextuel et intégrer naturellement les mots-clés pertinents
 > - L'automatisation par IA peut traiter des milliers d'images mais nécessite une supervision humaine pour garantir qualité et pertinence SEO
+<!-- speakable:end -->
 
 L'alt text d'une image représente bien plus qu'un simple Attribut HTML. Dans un contexte où 
 Google Image Search était responsable de plus de 22% de toutes les recherches internet effectuées en 2018 et 3% de tous les clics Google
@@ -193,6 +195,10 @@ Bien que l'alt text seul ne propulsera pas une page au sommet des résultats de 
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

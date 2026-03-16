@@ -27,11 +27,13 @@ related_articles:
 
 # Interaction to next paint (inp) : le guide complet pour une réactivité web optimale
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - L'INP remplace le FID depuis mars 2024 car il mesure toutes les interactions (pas seulement la première) et capture l'intégralité du processus d'interaction.
 > - Mesurez l'INP avec les données CrUX dans Google Search Console ou PageSpeed Insights, puis diagnostiquez localement avec Chrome DevTools.
 > - Optimisez en fractionnant les tâches JavaScript longues, réduisant la complexité du DOM et différant les scripts non critiques.
 > - Utilisez le feedback visuel immédiat et les animations ludiques pour améliorer la perception de l'attente et transformer l'expérience utilisateur.
+<!-- speakable:end -->
 
 L'Interaction to Next Paint (INP) est officiellement devenu une métrique [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) depuis mars 2024, remplaçant le First Input Delay (FID)
 . Cette transition marque une évolution fondamentale dans l'évaluation de la performance web. Contrairement au FID qui ne mesurait que le premier délai d'interaction, 
@@ -190,6 +192,10 @@ Un bon score INP est de 200ms ou moins, avec un LCP ≤2.5s et un CLS <0.1 pour 
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

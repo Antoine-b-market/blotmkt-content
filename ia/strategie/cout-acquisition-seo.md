@@ -27,9 +27,11 @@ related_articles:
 
 # Coût d'acquisition SEO : calcul, benchmarks et stratégies pour le réduire
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le coût d'acquisition SEO se calcule avec la formule : (Total des dépenses SEO) / (Nombre de nouveaux clients acquis via le SEO), en lissant sur 6 à 12 mois minimum
 > - 
+<!-- speakable:end -->
 Le CAC peut atteindre 147 € dans le secteur financier et dépasser 395 € dans le secteur technologique
 , tandis que le SEO génère 
 un ROI moyen de 747%
@@ -197,6 +199,10 @@ Il est crucial de ne pas voir le tarif d'une agence SEO comme une dépense, mais
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

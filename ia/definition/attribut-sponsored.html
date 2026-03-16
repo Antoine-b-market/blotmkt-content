@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/definition/attribut-sponsored.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,11 +201,11 @@
     <div class="article-col">
       <article>
         <h1>Attribut sponsored : le guide complet pour vos liens payants en SEO</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>
-<p>L'Attribut rel="sponsored" identifie les liens créés dans le cadre d'annonces publicitaires, de partenariats ou d'accords similaires</p>
+<p class="speakable-intro">L'Attribut rel="sponsored" identifie les liens créés dans le cadre d'annonces publicitaires, de partenariats ou d'accords similaires</p>
 </li>
 <li>
 <p>Google traite désormais les attributs sponsored, nofollow et ugc comme des "hints" (indices) et non plus comme des directives strictes</p>
@@ -210,7 +220,7 @@
 </blockquote>
 <p>L'attribut <code>sponsored</code> représente une évolution majeure dans l'écosystème SEO. Face aux schémas de liens artificiels qui polluent le web, Google a créé cet outil de transparence permettant aux webmasters de déclarer leurs liens commerciaux sans craindre de pénalités. Cette approche pragmatique transforme une contrainte technique en opportunité stratégique pour construire un <a href="https://blotmkt.com/ia/definition/profil-de-liens.html">Profil de liens</a> sain et durable.</p>
 <hr />
-<h2>Définition : qu'est-ce que l'attribut rel="sponsored" ?</h2>
+<h2 class="speakable">Définition : qu'est-ce que l'attribut rel="sponsored" ?</h2>
 <p>Introduit en 2019, l'Attribut "sponsored" (rel="sponsored") est destiné à être utilisé pour les URLs qui sont des publicités, des parrainages ou toute autre forme d'arrangements compensés
 . Cette innovation de Google répond à un besoin de granularité dans la qualification des liens sortants.</p>
 <p>L'attribut rel=sponsored est un attribut HTML utilisé pour identifier les hyperliens sur une page web qui sont sponsorisés ou payants. C'est un moyen pour les webmasters de signaler aux moteurs de recherche qu'un lien particulier a été créé dans le cadre d'une publicité, d'un parrainage ou d'autres accords de compensation
@@ -221,7 +231,7 @@ Cette innovation fait partie des efforts de Google pour garantir la transparence
 <h3>L'évolution du nofollow</h3>
 <p>À partir de maintenant, chacun de ces trois attributs sera traité comme des indices sur les liens à exclure comme signaux de classement
 . Cette évolution marque un changement fondamental : Google ne perd plus l'information précieuse contenue dans ces liens tout en permettant aux propriétaires de sites d'indiquer leur nature commerciale.</p>
-<h2>Sponsored vs nofollow vs UGC : le guide pour bien choisir</h2>
+<h2 class="speakable">Sponsored vs nofollow vs UGC : le guide pour bien choisir</h2>
 <p>Le choix du bon Attribut dépend de la nature exacte de votre lien et de la relation commerciale sous-jacente.</p>
 <h3>Utilisation de rel="sponsored"</h3>
 <p>Rel="sponsored" est réservé aux liens payants (publicités et placements payants)
@@ -237,7 +247,7 @@ Selon John Mueller, il serait préférable d'utiliser l'attribut "sponsored" pou
 <h3>Combinaison d'attributs</h3>
 <p>Plus d'un attribut peut être utilisé sur un seul lien. Par exemple, rel="ugc sponsored" serait acceptable pour un lien sponsorisé qui apparaît dans du Contenu généré par l'utilisateur
 .</p>
-<h2>Impact SEO : quel effet sur votre référencement et le link juice ?</h2>
+<h2 class="speakable">Impact SEO : quel effet sur votre référencement et le link juice ?</h2>
 <p>L'impact réel de l'attribut <code>sponsored</code> sur le SEO diffère des idées reçues. Contrairement aux anciennes pratiques où les liens <code>nofollow</code> étaient complètement ignorés, Google adopte désormais une approche plus nuancée.</p>
 <p>Google est également passé à un modèle d'indices avec l'introduction de ces attributs. Les attributs de lien sont maintenant traités comme des indices sur les liens qui doivent être ignorés
 . Cette évolution signifie que 
@@ -249,7 +259,7 @@ ce n'est pas une garantie que Google ne crawlera pas ces liens ou ne transmettra
 <p>L'utilisation correcte de cet attribut constitue un signal de confiance et de transparence. 
 Les liens sponsorisés non signalés sont considérés par Google comme de la manipulation et peuvent entraîner une sanction du site
 .</p>
-<h2>Implémentation : comment et où ajouter l'attribut sponsored ?</h2>
+<h2 class="speakable">Implémentation : comment et où ajouter l'attribut sponsored ?</h2>
 <p>L'implémentation technique de l'attribut <code>sponsored</code> reste simple et accessible à tous les niveaux de compétence technique.</p>
 <h3>Syntaxe HTML</h3>
 <p>L'attribut s'ajoute directement dans la Balise de lien hypertexte <code>&amp;lt;a&gt;</code>. 
@@ -262,7 +272,7 @@ Derrière les coulisses, un lien avec un attribut ressemble à quelque chose com
 <p>Il est crucial d'appliquer cet attribut à tous les formats de liens payants : liens textes, bannières publicitaires, liens d'affiliation, articles sponsorisés. 
 Effectuez des Audits réguliers du profil de liens de votre site pour vous assurer que les liens sponsorisés sont correctement étiquetés et conformes aux directives SEO
 .</p>
-<h2>Cas d'usage et risques : quand son utilisation est-elle critique ?</h2>
+<h2 class="speakable">Cas d'usage et risques : quand son utilisation est-elle critique ?</h2>
 <p>L'utilisation de l'attribut <code>sponsored</code> devient critique dans plusieurs contextes commerciaux où la transparence est exigée par Google.</p>
 <h3>Articles sponsorisés et native advertising</h3>
 <p>Pour les articles sponsorisés et invités, Google demande d'appliquer les valeurs "rel" appropriées à ces liens, de la même manière que pour les liens d'affiliation
@@ -275,7 +285,7 @@ Effectuez des Audits réguliers du profil de liens de votre site pour vous assur
 . 
 Le risque d'un malus de visibilité sur 3 à 12 mois en cas de détection manuelle par Google existe, mais depuis 2019, l'introduction de l'attribut rel='sponsored' a créé une forme de tolérance pragmatique
 .</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Dois-je remplacer tous mes anciens liens nofollow par sponsored ?</h3>
 <p>Non, ce n'est pas nécessaire. 
 Vous n'avez pas besoin de revenir sur chaque page de votre site web pour mettre à jour les liens existants vers l'un des nouveaux attributs. Google ne vous récompensera ni ne vous pénalisera pour cela

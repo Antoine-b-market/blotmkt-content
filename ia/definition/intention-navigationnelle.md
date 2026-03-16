@@ -27,8 +27,10 @@ related_articles:
 
 # L'intention navigationnelle : le signal client à intégrer dans votre tracking omnicanal
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 L'Intention navigationnelle correspond aux utilisateurs qui savent exactement où ils veulent aller et utilisent le moteur de recherche pour accéder à une page spécifique d'une marque connue
 
 > - 
@@ -199,6 +201,10 @@ Les entreprises doivent s'assurer que leur site est bien référencé pour ces t
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

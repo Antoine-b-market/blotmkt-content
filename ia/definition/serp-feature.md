@@ -27,8 +27,10 @@ related_articles:
 
 # SERP feature : le guide complet pour capturer plus de trafic organique
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Une SERP feature est un composant supplémentaire sur une page de résultats qui introduit du nouveau contenu au-delà du texte habituel décrivant un lien web
 
 > - 
@@ -194,6 +196,10 @@ Les rich snippets améliorent l'affichage d'un résultat organique existant (ét
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

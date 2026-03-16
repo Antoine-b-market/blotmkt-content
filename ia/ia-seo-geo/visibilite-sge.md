@@ -27,9 +27,11 @@ related_articles:
 
 # Visibilité SGE : comment le knowledge branding devient votre meilleur atout
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - La SGE transforme les règles du jeu SEO en privilégiant l'intégration et la citation directe plutôt que le clic sur des liens traditionnels
 > - 
+<!-- speakable:end -->
 Les études prévoient une baisse de 18 à 64% du trafic organique due à la généralisation des réponses générées par l'IA
 
 > - Le knowledge branding s'impose comme stratégie durable en créant des contenus uniques, des Analyses originales et une expertise vérifiable
@@ -44,7 +46,7 @@ les marques peuvent tisser une relation de confiance durable en captant l'attent
 
 ## SGE vs SEO : la fin de la visibilité paresseuse
 
-La [Search Generative Experience (SGE)](https://blotmkt.com/ia/ia-seo-geo/search-generative-experience-(sge).html).html).html).html).html)))))) utilise l'IA générative dans les résultats de recherche pour donner aux utilisateurs des réponses claires et concises à leurs requêtes
+La [Search Generative Experience (SGE)](https://blotmkt.com/ia/ia-seo-geo/search-generative-experience-(sge).html).html).html).html).html).html).html)))))) utilise l'IA générative dans les résultats de recherche pour donner aux utilisateurs des réponses claires et concises à leurs requêtes
 . Cette technologie marque une rupture fondamentale avec le SEO traditionnel. **Là où le SEO classique vise le clic sur un lien, la SGE privilégie l'intégration directe de votre expertise dans la réponse générée par l'IA**.
 
 Google affiche un élément Search Generative pour 86,83% de toutes les requêtes : 65,9% déclenchent une SGE avec un petit bouton "générer" et 34,1% présentent du Contenu pré-rempli avec un lien "Afficher plus"
@@ -187,6 +189,10 @@ E-E-A-T signifie Experience, Expertise, Authoritativeness et Trustworthiness. La
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

@@ -27,11 +27,13 @@ related_articles:
 
 # Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un filtre Google est un ajustement algorithmique automatique qui dévalue les pages ne respectant pas les consignes de qualité, entraînant une chute de positions significative sur les mots-clés stratégiques
 > - Les pénalités algorithmiques sont automatisées et non notifiées, contrairement aux actions manuelles qui apparaissent dans la section "Actions manuelles" de la Search Console avec des explications détaillées
 > - Le diagnostic passe par la vérification des actions manuelles dans la Search Console et l'Analyse des corrélations entre les chutes de trafic et les dates de mises à jour algorithmiques connues
 > - Lever un filtre nécessite d'identifier la cause (contenu faible, liens artificiels, sur-Optimisation), de corriger méthodiquement les problèmes et d'attendre la prochaine évaluation algorithmique
+<!-- speakable:end -->
 
 Votre trafic SEO s'effondre du jour au lendemain, vos positions dégringolent sur vos mots-clés stratégiques ? Une [Pénalité Google](https://blotmkt.com/ia/popularite/penalite-google.html) frappe près d'un site sur six, avec des conséquences dramatiques : 
 une étude menée en 2024 révèle que les entreprises sanctionnées perdent en moyenne 70% de leur trafic organique dans les 30 jours
@@ -188,6 +190,10 @@ Après correction des problèmes identifiés dans l'action manuelle, cliquez sur
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

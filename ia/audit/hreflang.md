@@ -27,8 +27,10 @@ related_articles:
 
 # Comprendre et implémenter l'attribut hreflang pour un SEO international optimal
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 L'attribut hreflang est un signal qui aide Google à comprendre la relation entre les pages internationales et la version la plus pertinente selon la langue et/ou la localisation de l'utilisateur
 
 > - 
@@ -208,6 +210,10 @@ Google Search Console permet de surveiller l'utilisation et les erreurs de jusqu
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

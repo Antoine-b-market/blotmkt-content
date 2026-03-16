@@ -27,11 +27,13 @@ related_articles:
 
 # Refonte site SEO : le guide pour moderniser votre site sans perdre votre trafic
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Une refonte SEO diffère d'une refonte graphique en intégrant l'Optimisation technique, la structure, le contenu et l'UX dès la conception, là où la graphique se concentre uniquement sur l'apparence.
 > - Le coût d'une refonte SEO varie de 3 000 € à 50 000 € selon la complexité, avec un ROI attendu de 300 à 500% sur 2-3 ans (Source : Optimize360, 2025).
 > - La méthodologie en 3 phases (Audit-Préparation, Conception-Développement, Lancement-Suivi) garantit une migration sans perte en préservant les pages génératrices de trafic et en établissant un plan de redirection 301 exhaustif.
 > - Une refonte complète s'impose quand la Structure devient un frein à la performance : obsolescence technique, chute des métriques d'engagement ou changement d'offre majeur.
+<!-- speakable:end -->
 
 Votre site web accumule les années et peine à attirer de nouveaux visiteurs ? Vous observez une baisse du temps passé sur vos pages et un taux de retour décevant ? 
 Beaucoup d'entreprises constatent une baisse de trafic après la mise en ligne
@@ -184,6 +186,10 @@ Une faible baisse pendant quelques jours est possible, due aux perturbations cau
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

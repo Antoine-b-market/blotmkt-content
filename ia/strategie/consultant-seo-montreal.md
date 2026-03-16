@@ -27,8 +27,10 @@ related_articles:
 
 # Consultant SEO Montréal : transformez votre site en un actif de croissance
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Le consultant SEO freelance offre un service personnalisé et flexible avec des tarifs se situant autour de 100-125$ de l'heure
 
 > - 
@@ -218,6 +220,10 @@ Le SEO (référencement naturel) vise la visibilité organique gratuite, contrai
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

@@ -27,11 +27,13 @@ related_articles:
 
 # L'API d'indexation Google : guide complet pour une indexation quasi-instantanée
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - L'API d'indexation Google permet de notifier directement Google lors d'ajouts ou de modifications de pages, en contournant l'Exploration naturelle pour accélérer l'indexation.
 > - Officiellement limitée aux pages avec [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) JobPosting et BroadcastEvent, elle peut être utilisée avec précaution pour d'autres contenus urgents ou volatiles.
 > - La mise en place nécessite un projet Google Cloud Platform, un compte de service configuré et son ajout comme propriétaire dans Google Search Console.
 > - L'API complète efficacement les Sitemaps : elle excelle pour l'urgence et la fraîcheur des contenus tandis que les sitemaps garantissent l'exhaustivité de l'exploration.
+<!-- speakable:end -->
 
 Pour les propriétaires de sites web confrontés à des délais d'indexation qui peuvent s'étendre sur plusieurs jours, l'attente devient un frein concurrentiel majeur. Pendant qu'une page attend d'être découverte par Googlebot, la concurrence peut déjà capter le trafic et les conversions. 
 L'API d'indexation permet aux propriétaires de sites de notifier directement Google lorsque leurs pages d'offres d'emploi ou de vidéos en direct sont ajoutées ou supprimées.
@@ -212,6 +214,10 @@ Les sitemaps XML restent la méthode standard et recommandée. L'API IndexNow de
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

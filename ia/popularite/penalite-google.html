@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/popularite/penalite-google.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,8 +201,8 @@
     <div class="article-col">
       <article>
         <h1>Pénalité Google : le guide pour la détecter, la comprendre et la corriger</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>Une pénalité Google est une sanction directe ou algorithmique qui provoque une chute brutale de trafic organique et se distingue par sa présence ou non dans la section "actions manuelles" de la Google Search Console</li>
 <li>Les pénalités manuelles nécessitent une notification officielle et une demande de réexamen, tandis que les impacts algorithmiques sont automatiques et silencieux, nécessitant une amélioration globale du site</li>
@@ -201,18 +211,18 @@
 <li>La levée d'une pénalité exige trois étapes cruciales : corriger la cause racine, documenter toutes les actions menées, puis soumettre une demande de réexamen honnête et détaillée via la Search Console</li>
 </ul>
 </blockquote>
-<p>Votre trafic SEO s'effondre du jour au lendemain ? Vos mots-clés stratégiques disparaissent des résultats Google ? 
+<p class="speakable-intro">Votre trafic SEO s'effondre du jour au lendemain ? Vos mots-clés stratégiques disparaissent des résultats Google ? 
 Une étude menée en 2024 révèle que les entreprises sanctionnées perdent en moyenne 70% de leur trafic organique dans les 30 jours suivant l'application de la pénalité.
  Face à cette urgence business, il est crucial de distinguer rapidement une vraie pénalité d'une simple fluctuation algorithmique. Ce guide vous livre une méthode infaillible pour diagnostiquer, comprendre et corriger les sanctions Google grâce aux outils officiels.</p>
 <hr />
-<h2>Qu'est-ce qu'une pénalité Google et comment la reconnaître ?</h2>
+<h2 class="speakable">Qu'est-ce qu'une pénalité Google et comment la reconnaître ?</h2>
 <p>Une pénalité Google est une sanction directe ou automatisée entraînant une chute brutale de visibilité ou une désIndexation d'un site web. Elle survient lorsque les consignes aux webmasters ne sont pas respectées.
  Contrairement aux idées reçues, toutes les baisses de trafic ne sont pas des pénalités au sens strict.</p>
 <p>Les symptômes d'une vraie pénalité se manifestent par plusieurs signaux distincts. 
 Son ou sa propriétaire s'en occupait bien, faisait les mises à jour, travaillait le référencement naturel (SEO), s'assurait de publier des bons contenus… Jusqu'au moment où un drame se produisit : la personne gérant le site remarqua que les courbes s'étaient effondrées ! Trafic, nombre de mots-clés, position sur les moteurs de recherche, pages indexées, etc. Les chiffres étaient en chute libre.</p>
 <p>Une pénalité réelle se caractérise par une chute verticale et durable du trafic organique, souvent accompagnée de la disparition des mots-clés stratégiques des SERPs. 
 Les statistiques démontrent que les trois premiers résultats naturels captent 60% des clics, tandis que la seconde page de résultats ne reçoit que 2% du trafic total. Une chute de la première à la troisième page équivaut donc à une quasi-disparition de la visibilité digitale.</p>
-<h2>Pénalité manuelle vs. impact algorithmique : la distinction cruciale</h2>
+<h2 class="speakable">Pénalité manuelle vs. impact algorithmique : la distinction cruciale</h2>
 <p>La compréhension de cette différence est fondamentale pour adopter la bonne stratégie de récupération. 
 Une action manuelle fait référence à une mesure prise par les équipes de Google pour évaluer et traiter les problèmes de qualité des sites web. Contrairement aux pénalités automatiques déclenchées par les algorithmes de Google, les actions manuelles sont prises par des évaluateurs humains spécialement formés : la Search Quality Team.</p>
 <p>Google a détecté un format de liens factices, artificiels, trompeurs ou manipulateurs redirigeant vers des pages de votre site. L'achat de liens ou la participation à des systèmes de liens dans le but de manipuler le classement dans les résultats de recherche Google vont à l'encontre de nos règles concernant le spam. Cette pratique peut être sanctionnée par l'application d'une action manuelle sur tout ou partie de votre site.
@@ -262,14 +272,14 @@ Contrairement à une action manuelle, qui résulte d'une intervention humaine, u
 </tr>
 </tbody>
 </table>
-<h2>Diagnostiquer une sanction avec la Google Search Console : la méthode infaillible</h2>
+<h2 class="speakable">Diagnostiquer une sanction avec la Google Search Console : la méthode infaillible</h2>
 <p>Notez que si votre site fait l'objet d'actions manuelles, une notification s'affiche dans son tableau de bord, et une notification par e-mail vous est envoyée lorsque l'événement se produit. Si ce tableau de bord n'affiche aucune action manuelle, vous n'avez pas besoin de consulter ce rapport.</p>
 <p>Le processus de diagnostic suit une logique précise. 
 Connectez-vous à votre compte Google Search Console et sélectionnez le site web concerné. Dans le menu de gauche, recherchez la section "Actions manuelles" ou "Pénalités manuelles". Si votre site fait l'objet d'une action manuelle, vous y trouverez des informations détaillées sur la nature de l'action et les mesures à prendre pour y remédier.</p>
 <p>En l'absence de notification dans cette section, l'Analyse se porte sur les courbes de performance. 
 Pour identifier ce type de pénalité, surveillez les modulations du trafic de votre site par le biais de Google Analytics qui est un bon indicateur en cas d'anomalies statistiques. Les outils de suivi de positionnement seront également des alliés clés pour détecter une pénalité algorithmique.</p>
 <p>L'outil d'inspection d'URL complète le diagnostic en permettant de vérifier l'état d'indexation des pages stratégiques et de détecter d'éventuels problèmes techniques qui pourraient simuler une pénalité.</p>
-<h2>Les causes fréquentes de pénalités : spam, liens artificiels et contenu de faible qualité</h2>
+<h2 class="speakable">Les causes fréquentes de pénalités : spam, liens artificiels et contenu de faible qualité</h2>
 <p>Google répertorie l'ensemble des pratiques pouvant entraîner une action manuelle dans son centre d'aide aux webmasters. Ces pénalités sont surtout relatives à des abus en matière d'échanges de liens.
  Les liens non naturels représentent la cause principale des sanctions manuelles, incluant l'achat de liens, les réseaux de sites privés (PBN) et les échanges excessifs de liens.</p>
 <p>Le contenu de faible valeur constitue la seconde cause majeure. 
@@ -278,7 +288,7 @@ Google a détecté des pages de faible qualité ou qui présentent peu d'intér�
 <p>Aujourd'hui, Google utilise l'IA pour détecter les sites qui abusent d'un générateur de contenu ia pour produire des textes sans expertise réelle. La mise à jour « Helpful Content » de 2024 a été le point de départ d'une désindexation massive des sites s'appuyant exclusivement sur le <a href="https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html">Contenu IA SEO</a>.
  Cette évolution récente montre l'importance croissante de la valeur ajoutée humaine dans le contenu.</p>
 <p>Les techniques de spam complètent ce triptyque avec le cloaking (affichage de contenu différent pour Google et les utilisateurs), le texte ou les liens cachés, et diverses formes d'ingénierie sociale.</p>
-<h2>Le plan d'action pour lever une pénalité : correction et demande de réexamen</h2>
+<h2 class="speakable">Le plan d'action pour lever une pénalité : correction et demande de réexamen</h2>
 <p>La récupération d'une pénalité manuelle suit un processus structuré en trois étapes critiques. 
 Le processus de soumission d'une demande de réexamen commence par identifier les problèmes signalés par Google et les corriger. Ensuite, le webmaster doit accéder à Google Search Console et remplir un formulaire de demande de réexamen. Dans ce formulaire, il est important de fournir une explication claire des mesures correctives prises, en expliquant les problèmes précédents et les actions spécifiques prises pour les résoudre.</p>
 <p>La documentation des actions correctives s'avère cruciale pour la réussite de la démarche. 

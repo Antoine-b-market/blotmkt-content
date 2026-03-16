@@ -27,10 +27,12 @@ related_articles:
 
 # Optimisation JavaScript SEO : le guide complet pour le rendu et l'indexation
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - L'optimisation JavaScript SEO consiste à gérer le processus de crawl-render-index de Googlebot, qui traite désormais le contenu JS mais avec des délais de rendu pouvant affecter l'indexation
 > - Le Server-Side Rendering (SSR) offre une Indexation immédiate avec du HTML complet, contrairement au Client-Side Rendering (CSR) qui nécessite l'exécution JavaScript côté navigateur
 > - 
+<!-- speakable:end -->
 Le rendu côté client peut être problématique pour le SEO car les éléments critiques ne deviennent visibles qu'après le rendu, et Google indexe d'abord le HTML puis met à jour l'index avec le contenu JavaScript rendu
 
 > - 
@@ -196,6 +198,10 @@ L'équipe Chrome Aurora travaille étroitement avec les auteurs de frameworks co
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

@@ -27,8 +27,10 @@ related_articles:
 
 # Le taux horaire d'une agence digitale : décryptage pour une collaboration réussie
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Le taux horaire minimum d'une agence web en France se situe à 500€ par jour
 , avec 
 une fourchette entre 500 € et 1000 € par jour selon les prestations et leur complexité
@@ -252,6 +254,10 @@ Les agences full-service facturent entre 3 000 et 15 000 €/mois
 ---
 
 FAQ_JSON-->
+
+---
+
+---
 
 ---
 

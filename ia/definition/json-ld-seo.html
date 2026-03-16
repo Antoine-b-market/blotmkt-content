@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/definition/json-ld-seo.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,10 +201,10 @@
     <div class="article-col">
       <article>
         <h1>JSON-LD pour le SEO : décuplez votre visibilité et vos rich results</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
-<h2>- Le JSON-LD est un format de <a href="https://blotmkt.com/ia/definition/donnees-structurees.html">Données structurées</a> préféré par Google qui permet aux moteurs de recherche de comprendre le contenu sémantiquement</h2>
-<p>Les pages avec JSON-LD génèrent 35% plus de clics grâce aux rich results, avec une amélioration du CTR pouvant atteindre 30%</p>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
+<h2 class="speakable">- Le JSON-LD est un format de <a href="https://blotmkt.com/ia/definition/donnees-structurees.html">Données structurées</a> préféré par Google qui permet aux moteurs de recherche de comprendre le contenu sémantiquement</h2>
+<p class="speakable-intro">Les pages avec JSON-LD génèrent 35% plus de clics grâce aux rich results, avec une amélioration du CTR pouvant atteindre 30%</p>
 <ul>
 <li>
 <p>Google recommande officiellement l'utilisation du JSON-LD comme format privilégié pour les données structurées</p>
@@ -207,7 +217,7 @@
 </blockquote>
 <p>Le référencement moderne exige bien plus que du contenu optimisé et des liens de qualité. Face à l'émergence des IA de recherche et des rich results, les sites web qui négligent les données structurées perdent en visibilité. Tandis que vos concurrents captent l'attention avec des étoiles, des FAQs déroulantes et des extraits enrichis, votre contenu passe inaperçu dans les SERP classiques. Le JSON-LD transforme cette réalité en offrant une solution élégante pour communiquer directement avec les algorithmes de Google et maximiser votre présence en ligne.</p>
 <hr />
-<h2>Qu'est-ce que le JSON-LD et son rôle fondamental en SEO ?</h2>
+<h2 class="speakable">Qu'est-ce que le JSON-LD et son rôle fondamental en SEO ?</h2>
 <p>Le JSON-LD (JavaScript Object Notation for Linked Data) représente un format léger et standardisé permettant d'encoder des Données structurées directement dans les pages web. 
 Ce système crée des données lisibles par les machines depuis les sites web, facilitant l'indexation par les robots d'Exploration
 . </p>
@@ -218,7 +228,7 @@ Cette séparation maintient les données structurées entièrement distinctes de
 <p>En 2026, la valeur primaire du JSON-LD bien implémenté ne réside plus uniquement dans les rich snippets, mais dans la visibilité IA. Quand ChatGPT parcourt votre site, il Analyse votre JSON-LD. Quand Perplexity récupère votre page comme source de citation, il extrait les données structurées
 .</p>
 <p>Le format contribue au <a href="https://blotmkt.com/ia/definition/knowledge-graph.html">Knowledge Graph</a> de Google en créant un réseau d'informations interconnectées, permettant aux moteurs de recherche de comprendre non seulement le Contenu, mais aussi les relations entre entités (personnes, lieux, événements, organisations).</p>
-<h2>L'impact direct du JSON-LD sur les Rich Results et la visibilité</h2>
+<h2 class="speakable">L'impact direct du JSON-LD sur les Rich Results et la visibilité</h2>
 <p>Les Rich Results, ou résultats enrichis, transforment l'apparence de vos pages dans les SERP en affichant des informations supplémentaires comme les étoiles d'avis, les prix, les images ou les FAQs déroulantes. 
 Ces éléments génèrent 35% de clics supplémentaires par rapport aux résultats standards
 .</p>
@@ -228,7 +238,7 @@ Ces éléments génèrent 35% de clics supplémentaires par rapport aux résulta
 <p>Un JSON-LD valide vous rend éligible aux rich results, mais Google décide de les afficher selon la qualité du Contenu, l'autorité de la page, la pertinence de la requête et l'exactitude du schéma par rapport au contenu visible
 . Cette approche garantit que seules les pages offrant une valeur réelle bénéficient de ces améliorations visuelles.</p>
 <p>Bien que le balisage structuré ne constitue pas un facteur de classement direct, l'augmentation du CTR qu'il génère envoie des signaux positifs d'engagement utilisateur, influençant indirectement le positionnement à long terme.</p>
-<h2>Les schémas JSON-LD essentiels pour votre stratégie SEO</h2>
+<h2 class="speakable">Les schémas JSON-LD essentiels pour votre stratégie SEO</h2>
 <p><a href="https://blotmkt.com/ia/definition/schema.org.html">Schema.org</a> fournit le vocabulaire universel reconnu par tous les moteurs de Recherche majeurs. 
 Bien que la plupart des données structurées utilisent le vocabulaire schema.org, Google et Bing appliquent leurs propres modifications aux champs de données
 .</p>
@@ -241,7 +251,7 @@ Google exige l'@id, l'adresse et le nom de l'Organisation
 Un schéma Product manquant la propriété AggregateRating requise ne génèrera pas d'étoiles, tandis qu'un schéma Article sans champ auteur n'affichera pas l'Attribution d'auteur
 .</p>
 <p><strong>FAQPage, HowTo, VideoObject</strong> : Ces schémas ciblent des formats spécifiques. FAQPage affiche questions/réponses directement dans les SERP, HowTo structure les guides étape par étape, VideoObject optimise la visibilité vidéo avec détails enrichis.</p>
-<h2>Implémentation, validation et suivi de votre balisage JSON-LD</h2>
+<h2 class="speakable">Implémentation, validation et suivi de votre balisage JSON-LD</h2>
 <p>L'intégration du JSON-LD peut s'effectuer via plusieurs méthodes selon votre environnement technique. 
 Google Tag Manager permet d'ajouter ou modifier des schémas sans éditer directement le HTML du site, particulièrement utile pour le contenu dynamique ou les tests de balisage
 .</p>
@@ -256,7 +266,7 @@ Pour WordPress, l'approche la plus propre consiste à générer le JSON-LD via w
 .</p>
 <p>Surveillez les performances dans le rapport Améliorations de Google Search Console, où Google signale les données structurées détectées et les problèmes. Mettez régulièrement à jour votre JSON-LD pour refléter les nouveaux Contenus et évolutions des standards
 .</p>
-<h2>Pourquoi choisir JSON-LD : Comparaison avec Microdata et RDFa</h2>
+<h2 class="speakable">Pourquoi choisir JSON-LD : Comparaison avec Microdata et RDFa</h2>
 <p>Avant l'avènement du JSON-LD, les développeurs utilisaient principalement Microdata et RDFa. 
 Microdata communique les mêmes informations que JSON-LD mais s'intègre dans le HTML du site, ce qui peut compliquer l'ajout et la suppression de données structurées
 .</p>
@@ -268,7 +278,7 @@ Microdata communique les mêmes informations que JSON-LD mais s'intègre dans le
 John Mueller de Google a clairement indiqué : "Nous préférons actuellement le balisage JSON-LD. La plupart des nouvelles données structurées sortent d'abord en JSON-LD. C'est donc ce que nous préférons"
 .</p>
 <p>Cette préférence officielle s'explique par la flexibilité du format, sa facilité de traitement par les robots et son indépendance vis-à-vis de la structure HTML, réduisant les risques d'Erreurs et facilitant la maintenance à grande échelle.</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Comment ajouter du JSON-LD à mon site WordPress sans coder ?</h3>
 <p>Utilisez des plugins SEO comme Yoast, RankMath ou Schema Pro qui génèrent automatiquement le JSON-LD. Ces extensions offrent des interfaces graphiques pour configurer les schémas sans connaissances techniques.</p>
 <h3>Le JSON-LD améliore-t-il directement mon classement dans les résultats de recherche ?</h3>

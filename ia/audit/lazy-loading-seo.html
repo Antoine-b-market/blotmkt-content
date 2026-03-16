@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/audit/lazy-loading-seo.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,8 +201,8 @@
     <div class="article-col">
       <article>
         <h1>Lazy loading et SEO : le guide pour accélérer votre site sans nuire au référencement</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>Le lazy loading est une technique qui différé le chargement des ressources (images, vidéos, iframes) jusqu'à ce qu'elles soient visibles dans le viewport de l'utilisateur</li>
 <li>Il améliore les <a href="https://blotmkt.com/ia/audit/core-web-vitals.html">Core Web Vitals</a> en réduisant le temps de chargement initial (LCP) de 40-60% en moyenne, mais peut nuire au SEO si mal implémenté</li>
@@ -201,11 +211,11 @@
 <li>Des alternatives complémentaires existent : optimisation des images (WebP, AVIF), CDN et stratégies de cache avancées</li>
 </ul>
 </blockquote>
-<p>Vous cherchez à réduire les temps de chargement de votre site, mais redoutez que Google ne puisse plus indexer correctement vos contenus ? Le lazy loading semble être la solution miracle, mais attention aux pièges ! 
+<p class="speakable-intro">Vous cherchez à réduire les temps de chargement de votre site, mais redoutez que Google ne puisse plus indexer correctement vos contenus ? Le lazy loading semble être la solution miracle, mais attention aux pièges ! 
 Cette technique peut inadvertantly masquer du Contenu à Google si elle n'est pas implémentée correctement
 . Voici comment exploiter cette stratégie d'Optimisation sans compromettre votre référencement naturel.</p>
 <hr />
-<h2>Qu'est-ce que le lazy loading : principe et fonctionnement</h2>
+<h2 class="speakable">Qu'est-ce que le lazy loading : principe et fonctionnement</h2>
 <p>Le lazy loading est une technique où un site web ou une application ne charge le contenu (comme les images, vidéos ou données) que lorsqu'il devient visible pour l'utilisateur
 . 
 Les autres éléments de la page sont chargés au fur et à mesure que l'utilisateur fait défiler vers le bas
@@ -216,7 +226,7 @@ Le report du chargement de Contenu non critique ou non visible, aussi communéme
 <p>Il existe une différence fondamentale entre le lazy loading natif (utilisant l'Attribut HTML <code>loading='lazy'</code>) et les solutions basées sur JavaScript. 
 Le lazy loading est devenu un standard web en 2019 et aujourd'hui loading="lazy" pour les Images est supporté par la plupart des navigateurs majeurs
 . Cette méthode native est privilégiée car elle ne dépend pas de l'exécution de scripts.</p>
-<h2>Lazy loading : un atout majeur pour les Core Web Vitals</h2>
+<h2 class="speakable">Lazy loading : un atout majeur pour les Core Web Vitals</h2>
 <p>Cette technique de chargement différé réduit les temps de chargement initial des pages de 40 à 60% en moyenne, impactant directement les classements SEO et les taux de conversion
 . Plus spécifiquement, 
 le LCP est l'un des indicateurs Core Web Vitals clés de Google. En différant le chargement d'images et de composants non critiques, le temps de rendu du plus grand élément visible dans le viewport initial est significativement réduit
@@ -229,7 +239,7 @@ Les sites implémentant le lazy loading voient des améliorations de classement 
 <p>Cependant, une mise en garde s'impose : 
 le risque du lazy loading est qu'il pourrait augmenter l'instabilité de la mise en page, conduisant à un score <a href="https://blotmkt.com/ia/audit/cumulative-layout-shift.html">Cumulative Layout Shift</a> (CLS) plus mauvais
 . Cette dégradation peut survenir si les dimensions des images ne sont pas réservées dans le HTML.</p>
-<h2>Comment implémenter un lazy loading qui plaît à Google</h2>
+<h2 class="speakable">Comment implémenter un lazy loading qui plaît à Google</h2>
 <p>L'utilisation de l'Attribut loading="lazy" natif pour les images et iframes peut faciliter la charge, car il ne dépend pas lourdement de JavaScript, ce qui est meilleur pour le SEO
 . Cette approche est recommandée par Google car elle respecte les standards web.</p>
 <p>La règle fondamentale à respecter : 
@@ -241,7 +251,7 @@ La façon de mitiger ce problème est d'utiliser des placeholders de faible qual
 <p>Enfin, 
 pour le lazy loading basé sur JavaScript, assurez-vous que le Contenu critique reste accessible aux moteurs de recherche même lorsque JS est désactivé. Le rendu côté serveur peut aider dans ce cas
 .</p>
-<h2>Les pièges SEO à éviter absolument avec le lazy loading</h2>
+<h2 class="speakable">Les pièges SEO à éviter absolument avec le lazy loading</h2>
 <p>Si le contenu ne se charge que lors du scroll, et que Googlebot ne scrolle pas, il pourrait ne jamais être indexé
 . C'est pourquoi il faut éviter d'appliquer le lazy loading sur du Contenu textuel essentiel ou des liens internes cruciaux pour la navigation.</p>
 <p>Vous devriez toujours éviter de lazy loader l'élément LCP. Si vous lazy loadez l'élément LCP, le lazy loading basé sur JavaScript est particulièrement mauvais pour la Vitesse de page
@@ -251,7 +261,7 @@ le scanner de préchargement du navigateur ne reconnaît pas l'Attribut data-src
 <p>Pour vérifier l'Indexation, utilisez l'Outil d'Inspection d'URL de la Google Search Console. 
 crawlez votre site web avec des outils SEO techniques comme Screaming Frog, Sitebulb, ou DeepCrawl configurés pour rendre le JavaScript. De grandes différences dans les liens découverts, le nombre de mots, ou la structure de page entre les deux modes de crawl indiquent une forte dépendance au JavaScript qui peut causer des problèmes d'indexation
 .</p>
-<h2>Au-delà du lazy loading : stratégies complémentaires</h2>
+<h2 class="speakable">Au-delà du lazy loading : stratégies complémentaires</h2>
 <p>L'Optimisation des images reste la priorité absolue avant même d'implémenter le lazy loading. 
 Les images et vidéos ont le plus gros impact sur le temps de chargement de votre site. Ces Fichiers tendent à être plus volumineux que la plupart des fichiers sur votre site. Si vous voulez aider votre page à charger encore plus rapidement, optimiser vos images et vidéos aidera
 .</p>
@@ -259,7 +269,7 @@ Les images et vidéos ont le plus gros impact sur le temps de chargement de votr
 Les équipes marketing gérant des sites de contenu à fort trafic rapportent une réduction de 20-30% des coûts de bande passante grâce à l'implémentation du lazy loading
 .</p>
 <p>Les stratégies de cache avancées (cache navigateur, cache serveur) complètent efficacement le lazy loading pour réduire les temps de chargement lors des visites répétées. Cette approche multicouche maximise les bénéfices de performance tout en préservant l'accessibilité pour les moteurs de Recherche.</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Est-ce que le lazy loading est bon pour le SEO ?</h3>
 <p>Le lazy loading peut impacter positivement le SEO en améliorant la Vitesse de chargement des pages, en améliorant l'expérience utilisateur et en permettant une meilleure efficacité de crawl
 . Cependant, il faut l'implémenter correctement pour éviter que Google ne puisse indexer le Contenu.</p>

@@ -27,8 +27,10 @@ related_articles:
 
 # Mots-clés de marque : le guide stratégique pour protéger et monétiser votre notoriété
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Les mots-clés de marque génèrent le trafic le plus qualifié avec 
+<!-- speakable:end -->
 un internaute effectuant une recherche qui inclut le nom de votre marque est un visiteur qui sait déjà exactement ce qu'il veut
 
 > - 
@@ -178,6 +180,10 @@ Le premier résultat dans les résultats de recherche organique de Google a un C
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

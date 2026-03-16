@@ -27,8 +27,10 @@ related_articles:
 
 # Profil de liens : le guide complet pour analyser et optimiser votre autorité SEO
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Un profil de liens constitue l'ensemble des Backlinks pointant vers un site, agissant comme des recommandations qui renforcent l'autorité et la crédibilité d'un domaine aux yeux des moteurs de recherche
 
 > - 
@@ -222,6 +224,10 @@ Les backlinks DoFollow augmentent effectivement le classement d'un site web, tan
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

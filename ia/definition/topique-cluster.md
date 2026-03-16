@@ -27,10 +27,12 @@ related_articles:
 
 # Topique cluster : la méthode pour structurer votre contenu et devenir une autorité thématique
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le topique cluster organise votre contenu autour d'une page pilier centrale reliée à des pages satellites par un maillage interne stratégique
 > - Cette Architecture permet de démontrer votre expertise à Google et aux IA génératives pour renforcer votre autorité thématique
 > - 
+<!-- speakable:end -->
 Les sites utilisant des clusters génèrent 3,2x plus de trafic organique que ceux avec du Contenu isolé
 
 > - La méthode combine SEO traditionnel et Optimisation GEO pour maximiser votre visibilité dans les réponses des moteurs IA
@@ -189,6 +191,10 @@ Wikipédia
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

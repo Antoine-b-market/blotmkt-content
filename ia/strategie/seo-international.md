@@ -24,17 +24,15 @@ related_articles:
   - title: "Structure HN : le guide complet pour un SEO sémantique optimisé pour les IA"
     url: "/ia/Contenu/structure-hn-seo"
 ---
-
-Je vais rechercher des sources récentes et crédibles sur le SEO international avant de rédiger cet article.
-Maintenant, je vais rédiger l'article selon les instructions données, en utilisant les sources trouvées et en respectant strictement la Structure demandée.
-
 # SEO international : le guide pour une stratégie mondiale à l'ère de l'IA
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le SEO international optimise un site pour être visible dans plusieurs pays et/ou langues via une Architecture technique adaptée ([Hreflang](https://blotmkt.com/ia/audit/hreflang.html), structure URL)
 > - Une approche multilingue cible des langues communes à plusieurs pays, tandis qu'une stratégie multi-pays vise spécifiquement des marchés géographiques distincts
 > - Les Structures d'URL ccTLD offrent les signaux de géolocalisation les plus forts, les sous-dossiers consolident l'autorité de domaine
 > - 
+<!-- speakable:end -->
 Le ROI du SEO international peut atteindre plus de 3x l'investissement
 , avec un Budget mensuel généralement compris entre 3 000€ et 15 000€
 > - 
@@ -193,6 +191,10 @@ Combinez recherche de Mots-clés locaux, adaptation culturelle du contenu, archi
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

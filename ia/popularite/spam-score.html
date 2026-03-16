@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/popularite/spam-score.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,11 +201,11 @@
     <div class="article-col">
       <article>
         <h1>Spam score : le guide pour comprendre, vérifier et réduire le risque SEO</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>
-<p>Le Spam Score est une métrique propriétaire de Moz qui mesure la probabilité qu'un site soit pénalisé par Google, basée sur l'Analyse de liens et 27 signaux de spam</p>
+<p class="speakable-intro">Le Spam Score est une métrique propriétaire de Moz qui mesure la probabilité qu'un site soit pénalisé par Google, basée sur l'Analyse de liens et 27 signaux de spam</p>
 </li>
 <li>
 <p>L'interprétation suit une échelle simple : 1-30% (risque faible), 31-60% (risque moyen), 61-100% (risque élevé)</p>
@@ -209,7 +219,7 @@
 Google a confirmé ne pas utiliser les métriques tierces comme le spam score pour classer les pages
 , pourtant cette donnée reste un précieux indicateur de risque pour optimiser votre <a href="https://blotmkt.com/ia/definition/profil-de-liens.html">Profil de liens</a>.</p>
 <hr />
-<h2>Qu'est-ce que le spam score et comment est-il calculé ?</h2>
+<h2 class="speakable">Qu'est-ce que le spam score et comment est-il calculé ?</h2>
 <p>Le spam score est un système développé par Moz en 2015 pour déterminer si un site web est fiable ou potentiellement spam
 . Cette métrique propriétaire prédit la probabilité qu'un site soit pénalisé par Google en analysant sa similarité avec des sites déjà sanctionnés.</p>
 <p>Le score Analyse 27 signaux différents que Moz a identifiés comme récurrents chez les sites pénalisés, utilisant un modèle d'apprentissage automatique
@@ -217,7 +227,7 @@ Google a confirmé ne pas utiliser les métriques tierces comme le spam score po
 <p>Cruciale distinction : 
 le spam score repose sur la corrélation, non la causalité. Moz identifie les attributs partagés par les sites pénalisés plutôt que les causes directes des pénalités
 . L'objectif est d'aider les SEO à identifier proactivement les problèmes potentiels dans leur profil de backlinks avant qu'une sanction Google ne survienne.</p>
-<h2>Comment vérifier et interpréter le spam score de votre site ?</h2>
+<h2 class="speakable">Comment vérifier et interpréter le spam score de votre site ?</h2>
 <p>Pour vérifier votre spam score, connectez-vous à Moz et naviguez vers l'outil "Link Explorer", puis entrez l'URL de votre site
 . Des alternatives existent avec des métriques similaires comme l'Authority Score de Semrush ou le DR d'Ahrefs qui évaluent également la qualité globale.</p>
 <p>Le spam score s'affiche sous forme de pourcentage de 1 à 100 dans Moz Link Explorer
@@ -226,7 +236,7 @@ le spam score repose sur la corrélation, non la causalité. Moz identifie les a
 .</p>
 <p>Un score entre 1-30% suggère un faible risque, tandis qu'un score dépassant 60% mérite une investigation approfondie des 27 signaux analysés
 . Plus important que le chiffre global : Analyser les domaines référents spécifiques qui contribuent à un score élevé pour identifier les liens problématiques à traiter en priorité.</p>
-<h2>Les causes d'un spam score élevé et comment le réduire ?</h2>
+<h2 class="speakable">Les causes d'un spam score élevé et comment le réduire ?</h2>
 <p>Les causes courantes d'un spam score élevé incluent les liens non naturels, le contenu de faible qualité, et le spam généré par les utilisateurs comme les commentaires promotionnels
 . Ces pratiques se connectent directement aux Link Spam Updates de Google qui ciblent et dévaluent ces schémas manipulateurs.</p>
 <p>La mise à jour Link Spam de juin 2024 a pénalisé les tactiques de liens de faible qualité, notamment les articles invités non pertinents, le texte d'ancrage en correspondance exacte et le contenu généré par IA
@@ -239,7 +249,7 @@ Utilisez l'option de désaveu avec prudence car désavouer des liens précieux p
 <p>La meilleure défense reste proactive : 
 les stratégies de link building qui semblent les plus résistantes au spam se concentrent sur du contenu informatif de valeur, des études de données propriétaires, et des rapports
 .</p>
-<h2>Spam score vs Google : quels signaux l'algorithme surveille-t-il vraiment ?</h2>
+<h2 class="speakable">Spam score vs Google : quels signaux l'algorithme surveille-t-il vraiment ?</h2>
 <p>Google n'utilise PAS le Spam Score de Moz et a réitéré qu'il ne considère pas les métriques tierces comme le spam score lors du classement des pages
 . 
 Google utilise ses propres systèmes sophistiqués comme SpamBrain, un système de prévention du spam basé sur l'IA qu'il améliore régulièrement
@@ -250,7 +260,7 @@ Google évalue désormais si les gens lient par utilité du Contenu ou par des a
 <p>Les véritables mécanismes de sanction sont les Core Updates (évaluation globale de la qualité) et les Spam Updates (détection automatique de patterns de spam) annoncés par Google
 . Le Spam Score reste un proxy utile pour diagnostiquer un profil de lien à risque, mais la <a href="https://blotmkt.com/ia/strategie/strategie-seo.html">Stratégie SEO</a> doit se concentrer sur la satisfaction des critères de qualité réels de Google.</p>
 <hr />
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Comment savoir si un site est spammy ?</h3>
 <p>Le Spam Score de Moz indique le pourcentage de sites similaires ayant subi des pénalités Google, fonctionnant comme un outil d'évaluation des risques analysant les patterns identifiés chez les sites pénalisés
 . Vérifiez également la qualité du Contenu, la diversité des liens et l'autorité du domaine.</p>

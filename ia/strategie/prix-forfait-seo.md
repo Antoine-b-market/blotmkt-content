@@ -27,10 +27,12 @@ related_articles:
 
 # Prix forfait SEO : le guide pour comprendre les tarifs et choisir le bon investissement
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un forfait SEO inclut un Audit complet, l'optimisation technique et de contenu, la création de contenus ciblés, le netlinking de qualité et un suivi régulier des performances via des reportings détaillés
 > - Les tarifs varient de 500€ à 15 000€/mois selon votre secteur d'activité, l'état actuel de votre site web, vos ambitions géographiques et l'étendue des prestations incluses dans votre forfait
 > - Le retour sur investissement atteint 
+<!-- speakable:end -->
 entre 230% et 1772% avec une moyenne de 816% de CA gagné pour 1€ investi
 , faisant du SEO un investissement stratégique à long terme
 > - Choisissez selon vos objectifs : forfait 'Start' (500-1500€/mois) pour le local, 'Croissance' (1500-4000€/mois) pour les PME, 'Premium' (+4000€/mois) pour les grands comptes
@@ -181,6 +183,10 @@ Le TJM d'une agence ne descend jamais en dessous de 1.000€ – 1.200€, tandi
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

@@ -27,11 +27,13 @@ related_articles:
 
 # Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Une ancre de lien est le texte cliquable d'un hyperlien qui informe Google sur le contenu de la page de destination et transmet le "jus SEO"
 > - Il existe 6 types d'ancres : exacte, partielle, marque, générique, URL et image, chacune avec un rôle spécifique dans un profil naturel
 > - Un profil optimisé respecte un ratio de sécurité : 70-75% d'ancres génériques, 15-20% de marque, 5-15% d'optimisées pour éviter Google Penguin
 > - Une ancre efficace combine pertinence sémantique, contexte de la page source et diversité progressive sans répétition
+<!-- speakable:end -->
 
 L'ancre de lien représente bien plus qu'un simple texte cliquable : c'est un signal SEO déterminant qui peut propulser votre référencement ou déclencher une pénalité algorithmique. 
 Les Backlinks qui sont des liens pointant vers votre site web, sont un excellent moyen d'optimiser votre référencement naturel.
@@ -182,6 +184,10 @@ Une ancre sur-optimisée répète mécaniquement le même mot-clé exact sur de 
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

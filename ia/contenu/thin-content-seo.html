@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/contenu/thin-content-seo.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,8 +201,8 @@
     <div class="article-col">
       <article>
         <h1>Le thin content en seo : le guide pour l'identifier et le corriger avant la pénalité</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>Le thin Content désigne une page apportant peu de valeur utilisateur, avec moins de 300 mots et un taux d'unicité inférieur à 40%</li>
 <li>Les risques post-mise à jour "Scaled Content Abuse" incluent des pénalités manuelles et une dégradation algorithmique majeure</li>
@@ -200,13 +210,13 @@
 <li>Trois stratégies efficaces : enrichir le contenu, consolider les pages similaires, ou supprimer/déindexer les pages sans valeur</li>
 </ul>
 </blockquote>
-<p>Le contenu de faible qualité menace désormais directement votre visibilité SEO. 
+<p class="speakable-intro">Le contenu de faible qualité menace désormais directement votre visibilité SEO. 
 Depuis mars 2024, Google a réduit de 45% le contenu non-original dans ses résultats
 , s'attaquant agressivement aux pages sans valeur ajoutée. 
 La politique "Scaled Content Abuse" introduite en mars 2024 cible spécifiquement la production massive de pages quasi-identiques
 . Face à ces évolutions, identifier et corriger le thin content devient une priorité absolue pour éviter les sanctions.</p>
 <hr />
-<h2>Qu'est-ce que le "thin content" selon les critères SEO actuels ?</h2>
+<h2 class="speakable">Qu'est-ce que le "thin content" selon les critères SEO actuels ?</h2>
 <h3>Définition et métriques clés</h3>
 <p>Le thin content désigne des pages générées principalement pour manipuler les classements de recherche sans aider les utilisateurs
 . Cette définition va bien au-delà du simple décompte de mots pour englober la valeur réelle apportée aux visiteurs.</p>
@@ -217,7 +227,7 @@ Google évalue désormais si le contenu montre des signes d'effort réel, d'orig
 <p>Les exemples typiques incluent les pages doorway, 
 les articles générés par IA sans commentaire ni recherche ajoutée
 , et le contenu dupliqué ou scrappé sans valeur originale.</p>
-<h2>Les risques concrets du "thin content" après la mise à jour "Scaled Content Abuse"</h2>
+<h2 class="speakable">Les risques concrets du "thin content" après la mise à jour "Scaled Content Abuse"</h2>
 <p>L'algorithme de février 2025 a introduit des outils de détection de spam avancés avec une application plus stricte des politiques d'abus de réputation de site
 . Cette évolution marque une rupture dans l'approche de Google face au Contenu de masse.</p>
 <p>Les pénalités vont de la rétrogradation de classement à la suppression complète des résultats de recherche, avec des actions manuelles déjà déclenchées selon les analyses sectorielles
@@ -227,7 +237,7 @@ SpamBrain, l'engine anti-spam IA de Google, apprend continuellement les nouveaux
 <p>L'impact sur le SEO Health Score est significatif, le thin content pesant lourdement sur le score de qualité du contenu (25% du score global). 
 La récupération après marquage comme spam est lente et gourmande en ressources, nécessitant parfois des semaines pour obtenir une réponse suite à une demande de réexamen
 .</p>
-<h2>Comment auditer méthodiquement un site pour identifier les pages à faible valeur ajoutée ?</h2>
+<h2 class="speakable">Comment auditer méthodiquement un site pour identifier les pages à faible valeur ajoutée ?</h2>
 <h3>Processus d'audit en 4 étapes</h3>
 <p>Utilisez Screaming Frog SEO Spider pour scanner jusqu'à 500 URLs gratuitement et produire des rapports sur les liens brisés, les métadonnées manquantes et le contenu dupliqué
 . Cette première étape permet d'identifier rapidement les problèmes techniques fondamentaux.</p>
@@ -238,7 +248,7 @@ Intégrez les données de Google Analytics et Google Search Console pour connect
 <p>L'analyse croisée avec les données de trafic révèle les pages sans engagement ou avec un fort <a href="https://blotmkt.com/ia/audit/taux-de-rebond.html">Taux de rebond</a>. 
 Identifiez les pages sans trafic organique depuis six mois et surveillez celles avec un déclin constant sur 12 mois
 . Finalement, vérifiez le taux de contenu unique sur les pages suspectes avec des outils anti-plagiat.</p>
-<h2>Plan d'action : 3 stratégies pour corriger le "thin content"</h2>
+<h2 class="speakable">Plan d'action : 3 stratégies pour corriger le "thin content"</h2>
 <h3>Approche stratégique de remédiation</h3>
 <p><strong>Stratégie 1 - Enrichissement</strong> : Approfondissez les pages existantes en ajoutant des données exclusives, des exemples concrets et en répondant mieux à l'<a href="https://blotmkt.com/ia/contenu/intention-de-recherche.html">Intention de recherche</a>. 
 Assurez-vous que le contenu IA soit révisé par un humain, apporte de nouvelles perspectives et bénéficie réellement à votre audience
@@ -248,7 +258,7 @@ Assurez-vous que le contenu IA soit révisé par un humain, apporte de nouvelles
 Posez-vous la question : "cette page existerait-elle si les moteurs de recherche n'existaient pas ?" Si la réponse est non, vous créez probablement un abus de contenu à grande échelle
 . Déindexez (noindex) ou supprimez (410) les pages sans valeur utilisateur ni potentiel SEO.</p>
 <p>Après correction, renforcez le maillage interne en ajoutant 3 à 5 liens pertinents pour 1000 mots, optimisant ainsi la circulation de l'autorité et l'expérience utilisateur.</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Comment réparer le thin content efficacement ?</h3>
 <p>Enrichissez d'abord les pages avec moins de 300 mots en ajoutant des données exclusives, des exemples pratiques et des insights originaux. Consolidez ensuite les pages similaires en contenu pilier plus complet, puis supprimez définitivement les pages sans valeur ajoutée pour l'utilisateur.</p>
 <h3>Le contenu court est-il toujours pénalisant pour le SEO ?</h3>

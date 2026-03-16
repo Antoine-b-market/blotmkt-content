@@ -27,11 +27,13 @@ related_articles:
 
 # Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un audit mobile-first Analyse en priorité l'expérience, les performances et le contenu de la version mobile d'un site, contrairement à l'audit SEO classique qui peut traiter le mobile comme accessoire
 > - Depuis juillet 2024, Google explore tous les sites avec Googlebot Smartphone, rendant l'Audit mobile-first indispensable pour maintenir sa visibilité sur Google
 > - La méthode complète comprend 4 étapes : crawl technique avec user-agent mobile, analyse des [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html), Audit de contenu/UX et tests en conditions réelles
 > - Le ROI d'un Audit mobile-first se mesure par l'amélioration des positions SEO, l'augmentation du trafic organique mobile et la hausse des taux de conversion
+<!-- speakable:end -->
 
 Face à l'évolution constante des Algorithmes de Google et à l'explosion du trafic mobile, de nombreux sites perdent de la visibilité sans comprendre pourquoi. 
 D'ici à 2025, près de 73 % des internautes devraient accéder à internet uniquement grâce à un appareil mobile
@@ -181,6 +183,10 @@ Un site responsive s'adapte à différentes tailles d'écrans mais peut priorise
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

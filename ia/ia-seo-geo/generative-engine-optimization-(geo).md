@@ -27,11 +27,13 @@ related_articles:
 
 # Generative Engine Optimization (GEO) : le guide complet pour l'ère de l'IA
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le GEO est l'art d'optimiser un contenu pour être cité par les modèles d'IA générative (LLM) dans leurs réponses, transformant l'objectif du trafic vers la citation
 > - Contrairement au SEO traditionnel qui vise les clics et à l'AIO qui englobe tous les Algorithmes IA, le GEO se concentre spécifiquement sur la citation par les moteurs génératifs
 > - L'Optimisation GEO nécessite un contenu factuel structuré, des signaux E-E-A-T renforcés, un balisage [Schema.org](https://blotmkt.com/ia/definition/schema.org.html) avancé et une base de connaissances interne solide
 > - Le ROI du GEO se mesure par la "part de citation" et la notoriété de marque, avec des outils de suivi des réponses IA et une approche centrée sur l'autorité thématique
+<!-- speakable:end -->
 
 L'émergence de l'IA générative bouleverse les codes du SEO. 
 Les études montrent que le GEO peut augmenter la visibilité jusqu'à 40% dans les réponses d'IA générative
@@ -197,6 +199,10 @@ Les rapports de recherche, articles basés sur des données, FAQ complètes, gui
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

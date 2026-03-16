@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/popularite/desindexation-google.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,10 +201,10 @@
     <div class="article-col">
       <article>
         <h1>Désindexation google: guide pratique pour contrôler votre visibilité en ligne</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
-<h2>- La désIndexation Google consiste à retirer définitivement une URL de l'index de Google, empêchant son apparition dans les résultats de recherche</h2>
-<p>Google estime que la méthode la plus efficace de désindexation est la Balise meta noindex (dans le code HTML) ou via les entêtes HTTP X-Robots-Tag</p>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
+<h2 class="speakable">- La désIndexation Google consiste à retirer définitivement une URL de l'index de Google, empêchant son apparition dans les résultats de recherche</h2>
+<p class="speakable-intro">Google estime que la méthode la plus efficace de désindexation est la Balise meta noindex (dans le code HTML) ou via les entêtes HTTP X-Robots-Tag</p>
 <ul>
 <li>L'outil de suppression Google Search Console traite les demandes en 24 heures maximum
 , mais pour une suppression temporaire de 6 mois uniquement</li>
@@ -208,7 +218,7 @@
 </blockquote>
 <p>La gestion de votre empreinte numérique sur Google nécessite parfois de retirer certains contenus des résultats de recherche. Que ce soit pour supprimer des pages obsolètes, protéger des informations confidentielles ou optimiser votre référencement, la désindexation devient un outil stratégique incontournable. Ce guide vous présente toutes les méthodes techniques et les meilleures pratiques pour maîtriser parfaitement votre visibilité en ligne.</p>
 <hr />
-<h2>Comprendre la désindexation google: définition et enjeux</h2>
+<h2 class="speakable">Comprendre la désindexation google: définition et enjeux</h2>
 <p>Désindexer consiste à demander à Google de ne plus afficher une page dans ses résultats de recherche. Une page désindexée ne s'affiche plus lors des recherches et sort de la base de données que Google utilise pour ses résultats, tout en pouvant continuer d'exister en ligne
 .</p>
 <h3>Motivations stratégiques courantes</h3>
@@ -218,7 +228,7 @@ Le respect de la confidentialité et du RGPD nécessite également de retirer le
 .</p>
 <p>La désindexation représente une vraie <a href="https://blotmkt.com/ia/strategie/strategie-seo.html">Stratégie SEO</a> qui aide à mieux contrôler l'indexation, maximiser le crawl Budget et booster la performance des pages essentielles
 . (Source : Leptidigital, 2024)</p>
-<h2>Les méthodes techniques de désindexation: noindex et X-Robots-Tag</h2>
+<h2 class="speakable">Les méthodes techniques de désindexation: noindex et X-Robots-Tag</h2>
 <h3>La balise meta noindex</h3>
 <p>La balise noindex, implémentée via une balise meta ou un en-tête HTTP, empêche l'indexation par les moteurs de recherche. Quand Googlebot crawle une page contenant cette directive, Google retire complètement cette page des résultats de recherche
 .</p>
@@ -229,7 +239,7 @@ Le respect de la confidentialité et du RGPD nécessite également de retirer le
 . 
 Cette méthode permet de spécifier des règles de crawl appliquées globalement sur un site avec un haut niveau de flexibilité grâce aux expressions régulières
 .</p>
-<h2>Désindexation via la Google Search Console: l'outil de suppression</h2>
+<h2 class="speakable">Désindexation via la Google Search Console: l'outil de suppression</h2>
 <p>L'outil "Suppressions temporaires" existe dans Google Search Console depuis 2015. Cette action de retrait de l'index est réversible
 . 
 Cet outil supprime l'URL des résultats de recherche Google pendant environ six mois, après quoi la page peut réapparaître
@@ -241,7 +251,7 @@ Cet outil ne doit pas servir à nettoyer le site ou corriger des Erreurs d'index
 .</p>
 <p>La suppression temporaire offre un délai de six mois pour agir définitivement sur le site, mais ne remplace pas une stratégie de désindexation durable
 . (Source : Lawtechjournal, 2024)</p>
-<h2>Distinguer désindexation, robots.txt et suppression de contenu</h2>
+<h2 class="speakable">Distinguer désindexation, robots.txt et suppression de contenu</h2>
 <h3>Différences fondamentales</h3>
 <p>La grosse différence entre robots.txt et noindex réside dans le crawl : robots.txt empêche le crawl donc logiquement l'indexation, tandis qu'avec noindex il y a crawl mais pas d'indexation
 . 
@@ -252,7 +262,7 @@ Pour que la règle noindex soit effective, la page ne doit pas être bloquée pa
 .</p>
 <p>Les Redirections 301 vers une autre page s'utilisent quand l'URL à supprimer possédait de bons backlinks, mais sur de gros volumes, Google peut considérer cela comme des soft 404 et les pages peuvent ne pas être désindexées
 . (Source : Webrankinfo, 2024)</p>
-<h2>Cas d'usage stratégiques et erreurs à éviter en désindexation</h2>
+<h2 class="speakable">Cas d'usage stratégiques et erreurs à éviter en désindexation</h2>
 <p>La désindexation peut être utile pour nettoyer le SEO, éviter les doublons ou respecter des obligations légales. La méthode varie selon que la page est déjà indexée, son format et le degré de contrôle sur le site
 .</p>
 <h3>Pages de test et contenus sensibles</h3>
@@ -265,7 +275,7 @@ La balise meta robot noindex évite les pénalités pour contenu dupliqué et em
 . 
 Le noindex s'utilise plutôt au niveau page par page : articles trop courts, catégories sans produits, fiches produits avec descriptions courtes
 . (Source : Abondance, 2024)</p>
-<h2>Suivi et impact SEO de la désindexation sur votre site</h2>
+<h2 class="speakable">Suivi et impact SEO de la désindexation sur votre site</h2>
 <h3>Vérification et monitoring</h3>
 <p>Pour accélérer la prise en compte de nouvelles directives noindex sur des centaines de pages, créez un Sitemap.xml contenant les pages avec directive noindex puis soumettez-le via Search Console
 . Cette approche offre visibilité sur l'évolution de la désindexation.</p>
@@ -276,7 +286,7 @@ Selon l'importance de la page, il peut falloir des mois à Googlebot pour revisi
 .</p>
 <p>Google ne supprime pas immédiatement une page en noindex, il doit crawler la page pour découvrir ce changement. Pour des contenus à retirer pour raisons légales, cela peut prendre plusieurs semaines selon la popularité de la page
 . (Source : Kalelia, 2024)</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Combien de temps faut-il pour désindexer une page de Google ?</h3>
 <p>Avec l'outil de suppression Google Search Console, la demande est traitée en 24 heures maximum
 . 

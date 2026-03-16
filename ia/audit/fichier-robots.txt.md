@@ -27,11 +27,13 @@ related_articles:
 
 # Fichier robots.txt : le guide pour maîtriser l'exploration de votre site
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le fichier robots.txt est un fichier texte placé à la racine d'un site qui guide les robots d'exploration vers les pages importantes tout en préservant le [Budget de crawl](https://blotmkt.com/ia/audit/budget-de-crawl.html)
 > - Contrairement à la balise meta `noindex`, le robots.txt agit sur l'Exploration (crawl) et non sur l'indexation : une page bloquée peut quand même être indexée si elle reçoit des liens externes
 > - Créer un robots.txt optimisé nécessite un éditeur texte simple, une syntaxe précise (User-agent, Disallow) et un test via Google Search Console
 > - Utilisez le robots.txt pour bloquer les pages techniques sans valeur SEO : recherche interne, connexion, paramètres de session ou fichiers administratifs
+<!-- speakable:end -->
 
 Le fichier robots.txt reste l'un des outils les plus mal compris du SEO technique. Beaucoup le confondent avec un moyen de désIndexation, créant des problèmes d'exploration majeurs. En réalité, 
 il s'agit de faciliter l'Exploration de votre site web en éliminant les URLs à faible valeur ajoutée afin d'optimiser le crawl budget des robots
@@ -213,6 +215,10 @@ L'intérêt, c'est que l'on peut définir quel robot de moteur de recherche aura
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

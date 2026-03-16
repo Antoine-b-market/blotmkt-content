@@ -27,8 +27,10 @@ related_articles:
 
 # PageRank Google : comprendre l'algorithme historique et son rôle actuel en SEO
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 PageRank, développé par Larry Page et Sergey Brin à Stanford University dans les années 1990, mesure l'importance d'une page basée sur les liens entrants, transformant chaque lien en vote de confiance pondéré selon l'importance de la page source
 
 > - 
@@ -189,6 +191,10 @@ Non, mais les fuites d'API Google de 2024 confirment que plusieurs variantes mod
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

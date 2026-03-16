@@ -27,10 +27,12 @@ related_articles:
 
 # Le SEO pour Google Discover : stratégies pour le flux d'actualités sans recherche
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Google Discover est un flux de contenu proactif qui optimise pour les entités et intérêts utilisateurs plutôt que pour des mots-clés traditionnels
 > - Les signaux E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) et les images haute qualité (1200px minimum) sont cruciaux pour l'optimisation
 > - 
+<!-- speakable:end -->
 Le taux de clic moyen sur Google Discover est de 11%
 , avec une visibilité concentrée sur 3-4 jours après publication
 > - 
@@ -231,6 +233,10 @@ Utilisez Google Search Console (rapport recommandations) pour découvrir la fré
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

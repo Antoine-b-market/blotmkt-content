@@ -27,11 +27,13 @@ related_articles:
 
 # NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le NAP (Nom, Adresse, Téléphone) est le pilier fondamental de votre [SEO local](https://blotmkt.com/ia/definition/seo-local.html), servant de "carte d'identité numérique" qui prouve votre légitimité aux yeux de Google et des IA génératives
 > - Pour Auditer votre NAP, définissez une version canonique unique et surveillez sa cohérence sur toutes les plateformes majeures (Google Business Profile, Yelp, Apple Maps, Pages Jaunes)
 > - Un NAP cohérent est le facteur n°1 pour être inclus dans les listes "meilleurs de" générées par les IA, renforçant votre entité commerciale pour le GEO (Generative Engine Optimization)
 > - Enrichissez votre stratégie NAP avec des schémas LocalBusiness, des citations locales qualitatives et des photos géolocalisées pour maximiser vos signaux de confiance
+<!-- speakable:end -->
 
 Le référencement local ne pardonne aucune approximation. 
 Les moteurs de recherche, comme Google, valorisent des listings précis et uniformes à travers le web pour déterminer la légitimité et la pertinence de votre entreprise. Lorsque le nom, l'adresse et le numéro de téléphone de votre entreprise sont cités de manière cohérente sur les annuaires, plateformes sociales et votre site web, les moteurs de recherche vous récompensent par une meilleure visibilité
@@ -190,6 +192,10 @@ Des données NAP incohérentes peuvent conduire à des classements plus bas dans
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

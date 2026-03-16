@@ -27,9 +27,11 @@ related_articles:
 
 # Serp : définition complète de la page de résultats de recherche
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Une SERP (Search Engine) Results Page) est la page de résultats générée par un moteur de recherche en réponse à une requête utilisateur, constituant l'interface principale entre l'internaute et l'information
 > - Les SERP modernes intègrent diverses fonctionnalités (Featured Snippets, knowledge panels, local pack) qui représentent 
+<!-- speakable:end -->
 92% des recherches sur Google
 
 > - L'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) (informationnelle, navigationnelle, commerciale, transactionnelle) détermine la composition et l'organisation de chaque SERP
@@ -229,6 +231,10 @@ Les outils n'ont pas de jugement contextuel contrairement à vous - utilisez-les
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

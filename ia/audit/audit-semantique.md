@@ -27,11 +27,13 @@ related_articles:
 
 # Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - L'audit sémantique est une Analyse approfondie des thématiques et intentions de recherche qui va au-delà du simple ciblage de mots-clés pour identifier les contenus manquants et opportunités business
 > - La méthode hybride en 4 étapes (extraction, mapping d'intentions, clusterisation, plan d'action) permet d'optimiser sa stratégie en combinant analyse data et intelligence artificielle
 > - Le coût varie de 800 à 5 000 € selon la complexité du projet, avec un ROI mesurable via l'augmentation du trafic qualifié et l'amélioration des positions sur les requêtes Longue traîne
 > - Contrairement à l'Audit de contenu qui évalue l'existant, l'audit sémantique se concentre sur la stratégie future et les opportunités de conquête
+<!-- speakable:end -->
 
 Votre site stagne dans les résultats de recherche malgré des contenus de qualité ? Le problème ne vient peut-être pas de votre technique, mais de votre alignement sémantique. Face aux évolutions des algorithmes de Google et l'émergence de l'IA générative, comprendre les véritables intentions de recherche devient crucial. 
 L'Audit sémantique est une base de travail indispensable pour l'élaboration de votre [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html)
@@ -203,6 +205,10 @@ L'audit sémantique produit ses effets dans la durée sur 3 à 6 mois et permet 
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

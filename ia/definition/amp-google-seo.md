@@ -27,8 +27,10 @@ related_articles:
 
 # AMP et SEO : le guide pour comprendre son impact réel aujourd'hui
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 L'AMP n'est plus un avantage concurrentiel depuis juin 2021, quand Google a supprimé sa priorité dans les résultats de recherche au profit des [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html)
 
 > - 
@@ -230,6 +232,10 @@ utilisez le plugin "Accelerated Mobile Pages" > Paramètres avancés > Désactiv
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

@@ -27,8 +27,10 @@ related_articles:
 
 # Récupération pénalité Google : le guide pour nettoyer votre site et retrouver votre trafic
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Une [Pénalité Google](https://blotmkt.com/ia/popularite/penalite-google.html) est une sanction directe ou automatisée qui entraîne 
+<!-- speakable:end -->
 une chute brutale de visibilité ou une désIndexation
 
 > - La différence cruciale entre pénalité manuelle (notifiée dans Search Console) et filtre algorithmique (silencieux) détermine votre stratégie de récupération
@@ -182,6 +184,10 @@ Il faut être patient et attendre quelques mois avant de remonter dans les résu
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

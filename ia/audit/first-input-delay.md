@@ -27,8 +27,10 @@ related_articles:
 
 # First Input Delay (FID) : le guide pour optimiser l'ancienne métrique et réussir la transition vers l'INP
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Le FID mesure le temps entre la première interaction utilisateur (clic, bouton) et le début du traitement par le navigateur
 
 > - 
@@ -216,6 +218,10 @@ Le FID mesure uniquement le délai de la première interaction, tandis que l'INP
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

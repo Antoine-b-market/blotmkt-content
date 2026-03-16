@@ -27,8 +27,10 @@ related_articles:
 
 # Featured snippet : le guide complet pour conquérir la position zéro
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Un featured snippet apparaît dans 12,29% des recherches Google
 , représentant une opportunité majeure d'augmenter drastiquement la Visibilité et le taux de clics
 > - 
@@ -204,6 +206,10 @@ Ajoutez la Balise meta "nosnippet" à votre page ou modifiez votre contenu pour 
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

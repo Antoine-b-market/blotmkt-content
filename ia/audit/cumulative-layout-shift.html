@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/audit/cumulative-layout-shift.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -190,11 +200,9 @@
     </nav>
     <div class="article-col">
       <article>
-        <p>Je vais d'abord rechercher des sources récentes et crédibles sur le Cumulative Layout Shift pour enrichir cet article.
-Maintenant, je vais rédiger l'article optimisé SEO sur le Cumulative Layout Shift en me basant sur les sources trouvées et en respectant la Structure demandée.</p>
-<h1>Cumulative Layout Shift (CLS) : le guide pour atteindre un score inférieur à 0.1</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+        <h1>Cumulative Layout Shift (CLS) : le guide pour atteindre un score inférieur à 0.1</h1>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>Le Cumulative Layout Shift (CLS) est un Core Web Vital qui mesure la stabilité visuelle d'une page, avec un seuil optimal inférieur à 0.1</li>
 <li>Pour diagnostiquer le CLS, utilisez Google Search Console pour les données terrain et Chrome DevTools pour l'Analyse en temps réel</li>
@@ -202,11 +210,11 @@ Maintenant, je vais rédiger l'article optimisé SEO sur le Cumulative Layout Sh
 <li>Depuis mars 2024, le CLS fonctionne en synergie avec LCP et le nouveau métrique INP pour évaluer l'expérience utilisateur globale</li>
 </ul>
 </blockquote>
-<p>Le décalage de mise en page frustre vos utilisateurs et nuit à vos conversions. Imaginez un visiteur prêt à acheter qui clique accidentellement sur une publicité parce qu'un bouton s'est déplacé au moment du chargement. 
+<p class="speakable-intro">Le décalage de mise en page frustre vos utilisateurs et nuit à vos conversions. Imaginez un visiteur prêt à acheter qui clique accidentellement sur une publicité parce qu'un bouton s'est déplacé au moment du chargement. 
 Les pages avec des scores CLS élevés peuvent conduire à une mauvaise expérience utilisateur, car les éléments qui se déplacent peuvent amener les utilisateurs à cliquer accidentellement sur les mauvaises parties d'une page
 . La solution ? Maîtriser le Cumulative Layout Shift pour créer des sites web stables et performants.</p>
 <hr />
-<h2>Qu'est-ce que le Cumulative Layout Shift (CLS) et pourquoi est-il essentiel ?</h2>
+<h2 class="speakable">Qu'est-ce que le Cumulative Layout Shift (CLS) et pourquoi est-il essentiel ?</h2>
 <p>Le Cumulative Layout Shift (CLS) est une métrique <a href="https://blotmkt.com/ia/audit/core-web-vitals.html">Core Web Vitals</a> qui mesure la stabilité visuelle sur une page web. Il quantifie combien de contenu, comme les images ou le texte, bouge de manière inattendue pendant le chargement de la page
 . Cette métrique capture l'essence même d'une expérience utilisateur fluide : la préVisibilité visuelle.</p>
 <p>Le calcul du CLS repose sur deux composants fondamentaux. 
@@ -217,7 +225,7 @@ la fraction d'impact est 0.75 et la fraction de distance est 0.25, donc le score
 <p>Google définit trois seuils critiques pour le CLS : 
 un bon score CLS est 0.1 ou inférieur. Google catégorise cette plage de score comme 'Bon', ce qui signifie qu'il atteint le seuil idéal pour la stabilité visuelle dans l'évaluation des Core Web Vitals
 . Les scores entre 0.1 et 0.25 nécessitent une amélioration, tandis que ceux supérieurs à 0.25 sont considérés comme problématiques (Source : Infidigit, 2025).</p>
-<h2>Comment mesurer et diagnostiquer précisément votre score CLS ?</h2>
+<h2 class="speakable">Comment mesurer et diagnostiquer précisément votre score CLS ?</h2>
 <p>La mesure du CLS nécessite une approche différenciée entre les Données de terrain et de laboratoire. 
 Le CLS de laboratoire est mesuré dans des environnements de test contrôlés (Lighthouse), tandis que le CLS de terrain provient d'utilisateurs réels (CrUX). Le laboratoire ne mesure que le chargement initial, mais le terrain capture toute la session de page, y compris le défilement et l'Interaction. Les données de terrain sont ce que Google utilise pour les signaux de classement
 .</p>
@@ -227,7 +235,7 @@ Utilisez des outils comme Google PageSpeed Insights, Search Console, et Lighthou
 <p>Chrome DevTools offre une Analyse en temps réel particulièrement précieuse. 
 Chrome DevTools : Partie du navigateur Chrome, DevTools vous permet de mesurer le CLS en temps réel pendant que vous interagissez avec la page, permettant une identification immédiate des décalages de mise en page
 . Cette approche vous permet de visualiser exactement quand et où se produisent les décalages (Source : Infidigit, 2025).</p>
-<h2>Quelles sont les causes communes d'un CLS élevé et comment les corriger ?</h2>
+<h2 class="speakable">Quelles sont les causes communes d'un CLS élevé et comment les corriger ?</h2>
 <h3>Images et médias sans dimensions</h3>
 <p>Quand les attributs width et height sont manquants, les navigateurs ne peuvent pas allouer l'espace approprié pendant le chargement. Cela provoque des décalages de contenu une fois que le média est entièrement chargé et dimensionné
 . La solution consiste à toujours spécifier les dimensions dans le HTML ou utiliser la propriété CSS <code>aspect-ratio</code> pour les Designs responsifs.</p>
@@ -237,7 +245,7 @@ Chrome DevTools : Partie du navigateur Chrome, DevTools vous permet de mesurer l
 <h3>Polices web problématiques</h3>
 <p>Les polices qui se chargent après le rendu initial de la page peuvent causer des décalages de texte
 . Utilisez <code>font-display: swap</code> et préchargez vos polices critiques avec <code>&amp;lt;link rel="preload"&gt;</code> pour minimiser l'impact visuel du changement de police (Source : BrowserStack, 2025).</p>
-<h2>CLS, LCP, INP : la synergie des Core Web Vitals pour l'UX</h2>
+<h2 class="speakable">CLS, LCP, INP : la synergie des Core Web Vitals pour l'UX</h2>
 <p>Depuis mars 2024, 
 l'Interaction to Next Paint (INP) est maintenant l'une des métriques Core Web Vitals de Google, remplaçant <a href="https://blotmkt.com/ia/audit/first-input-delay.html">First Input Delay</a> (FID) le 12 mars 2024
 . Cette évolution renforce l'importance d'une approche holistique des performances web.</p>
@@ -246,7 +254,7 @@ l'Interaction to Next Paint (INP) est maintenant l'une des métriques Core Web V
 <p>L'interaction entre ces métriques est cruciale : une image qui se charge lentement (mauvais LCP) sans dimensions définies provoque aussi un CLS élevé. 
 Au-delà des effets directs sur le classement, le CLS influence les métriques de comportement utilisateur comme le Taux de rebond et le temps de session, qui affectent indirectement le SEO
  (Source : Status218, 2025).</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Comment corriger un problème de CLS ?</h3>
 <p>Définissez toujours les dimensions des Images et médias, réservez l'espace pour le contenu dynamique, et optimisez le chargement des polices web. Utilisez Chrome DevTools pour identifier précisément les éléments problématiques.</p>
 <h3>C'est quoi un bon score CLS ?</h3>

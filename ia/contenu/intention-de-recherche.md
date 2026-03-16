@@ -27,9 +27,11 @@ related_articles:
 
 # L'intention de recherche : le guide pour décrypter et optimiser votre stratégie SEO
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - L'intention de recherche désigne l'objectif réel de l'utilisateur derrière une requête, classée en 4 types : informationnelle (s'informer), navigationnelle (accéder à un site), commerciale (comparer avant achat) et transactionnelle (acheter/agir).
 > - 
+<!-- speakable:end -->
 L'alignement du contenu sur l'intention multiplie par 9 les conversions par rapport au marketing traditionnel, avec 51,8% des recherches informationnelles, 33% navigationnelles et 14,5% commerciales selon une étude sur 332 millions de requêtes
 .
 > - 
@@ -214,6 +216,10 @@ Les outils comme Semrush identifient automatiquement l'intention et aident à cr
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

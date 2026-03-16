@@ -27,11 +27,13 @@ related_articles:
 
 # Précision sémantique : le guide pour optimiser votre contenu pour les LLM et le GEO
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - La précision sémantique dépasse la [Densité de mots-clés](https://blotmkt.com/ia/contenu/densite-de-mots-cles.html) en alignant le contenu sur l'intention complète et nuancée de l'utilisateur, traitant les questions posées et implicites
 > - Elle améliore le classement SEO via la Longue traîne et augmente les chances d'être citée par les IA génératives (probabilité multipliée par 2 selon Semji, 2024)
 > - L'[Audit sémantique](https://blotmkt.com/ia/audit/audit-semantique.html) utilise des outils d'Analyse lexicale, l'étude de la SERP, l'identification des entités clés et la structuration via données structurées Schema.org
 > - La dominance sémantique étend ce concept au niveau macro, créant une autorité thématique complète qui positionne le site comme référence incontournable
+<!-- speakable:end -->
 
 Dans un écosystème digital où 
 les AI Overviews de Google sont désormais présents dans plus de 50% des recherches
@@ -187,6 +189,10 @@ Depuis 2013, le classement des pages se fait plus intelligemment grâce à l'alg
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

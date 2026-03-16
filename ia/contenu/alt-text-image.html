@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/contenu/alt-text-image.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,8 +201,8 @@
     <div class="article-col">
       <article>
         <h1>Alt text image : le guide pour optimiser votre SEO et votre accessibilité</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>L'alt text est un attribut HTML qui décrit une image pour les lecteurs d'écran et les moteurs de recherche, jouant un rôle crucial en accessibilité et SEO</li>
 <li>Il se distingue du titre d'Image (tooltip) et de la légende (texte visible) par sa fonction spécifique d'assistance aux robots et personnes malvoyantes</li>
@@ -200,13 +210,13 @@
 <li>L'automatisation par IA peut traiter des milliers d'images mais nécessite une supervision humaine pour garantir qualité et pertinence SEO</li>
 </ul>
 </blockquote>
-<p>L'alt text d'une image représente bien plus qu'un simple Attribut HTML. Dans un contexte où 
+<p class="speakable-intro">L'alt text d'une image représente bien plus qu'un simple Attribut HTML. Dans un contexte où 
 Google Image Search était responsable de plus de 22% de toutes les recherches internet effectuées en 2018 et 3% de tous les clics Google
 , et où 
 seulement 26% des sites web utilisent un texte alternatif pour leurs images
 , maîtriser cette technique devient un avantage concurrentiel déterminant pour votre visibilité en ligne.</p>
 <hr />
-<h2>Qu'est-ce qu'un texte alternatif (Alt Text) et quelle est sa double fonction ?</h2>
+<h2 class="speakable">Qu'est-ce qu'un texte alternatif (Alt Text) et quelle est sa double fonction ?</h2>
 <p>L'alt text, ou texte alternatif, est 
 un texte descriptif qui transmet le sens d'une image dans le contenu numérique. Il est conçu pour rendre le contenu visuel accessible aux personnes ayant des déficiences visuelles
 . Cet Attribut HTML remplit deux fonctions essentielles : l'accessibilité et le référencement.</p>
@@ -217,7 +227,7 @@ du point de vue SEO, l'alt text joue un rôle majeur dans la façon dont les mot
 <p>L'alt text s'afFiche également lorsqu'une image ne parvient pas à se charger, servant de solution de secours pour maintenir l'expérience utilisateur. 
 L'alt text est une exigence d'accessibilité minimale et vous ne pouvez atteindre aucun niveau de conformité WCAG (A, AA, AAA) sans lui. L'alt text pour vos figures est nécessaire pour la conformité à l'European Accessibility Act et à l'ADA Title II
 .</p>
-<h2>Alt text, titre, légende : quelles différences pour le SEO et l'utilisateur ?</h2>
+<h2 class="speakable">Alt text, titre, légende : quelles différences pour le SEO et l'utilisateur ?</h2>
 <p>Ces trois éléments répondent à des besoins différents et ont des impacts SEO distincts. 
 Alt Text : Invisible aux utilisateurs voyants, lu par les lecteurs d'écran et utilisé par les moteurs de recherche. Attribut Title : Métadonnées optionnelles qui apparaissent comme une info-bulle lorsqu'un utilisateur survole une image. Pas systématiquement pris en charge par tous les navigateurs ou lecteurs d'écran. Légendes : Texte visible près de l'image qui la décrit ou la contextualise pour tous les utilisateurs
 .</p>
@@ -226,7 +236,7 @@ les moteurs de recherche comme Google explorent l'alt text pour déterminer ce q
 .</p>
 <p>L'Attribut title d'image a un impact minimal sur le SEO ou l'accessibilité
 , tandis que les légendes contribuent au contexte global de la page. La priorité pour le référencement suit cette hiérarchie : alt text (essentiel), légende (contextuelle), Titre (accessoire).</p>
-<h2>Comment rédiger le alt text parfait : méthode et bonnes pratiques</h2>
+<h2 class="speakable">Comment rédiger le alt text parfait : méthode et bonnes pratiques</h2>
 <p>Gardez les descriptions spécifiques, concises et concentrées sur le but de l'image. Évitez les phrases redondantes comme "image de..." et abstenez-vous du bourrage de mots-clés. Visez moins de 125 caractères pour la clarté et l'utilisabilité
 . Les bonnes pratiques incluent l'intégration naturelle des mots-clés pertinents sans forcer leur inclusion.</p>
 <p>L'alt text doit faire référence au contenu pertinent fourni par l'image, plutôt que de simplement décrire à quoi ressemble l'image. L'alt text ne doit contenir aucune information supplémentaire ou inutile, et ne doit pas répéter des informations déjà fournies dans le texte
@@ -234,7 +244,7 @@ les moteurs de recherche comme Google explorent l'alt text pour déterminer ce q
 <p>Pour optimiser efficacement, 
 privilégiez les informations les plus importantes en début d'alt text. Les utilisateurs de lecteurs d'écran peuvent choisir d'arrêter l'écoute prématurément, donc commencer par le message essentiel, comme ce que l'image fait ou ajoute au contenu, garantit qu'ils reçoivent cette valeur fondamentale
 . Cette approche maximise l'impact SEO tout en préservant l'accessibilité.</p>
-<h2>Automatisation et IA : une alternative pour générer les alt text ?</h2>
+<h2 class="speakable">Automatisation et IA : une alternative pour générer les alt text ?</h2>
 <p>L'intelligence artificielle transforme la génération d'alt text en permettant 
 aux modèles de légende d'images de générer des descriptions d'une phrase du contenu visuel d'une image. Vous pouvez utiliser ces légendes générées par IA comme alt text pour vos images
 . 
@@ -248,7 +258,7 @@ Ces solutions Offrent des connecteurs pré-construits pour Zapier, Pabbly, Albat
 <p>Cependant, 
 vous pouvez utiliser des outils IA pour générer de l'alt text, ce qui peut faire gagner énormément de temps pour les sites avec des milliers d'images. Cependant, vous devriez traiter les descriptions générées par IA comme un premier jet. L'IA peut souvent être générique, manquer un contexte important ou échouer à décrire l'image d'une manière qui s'aligne avec les objectifs de votre Contenu. Pour des résultats optimaux, ayez toujours un humain qui révise, édite et approuve l'alt text généré par IA, surtout pour les images importantes
 .</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Faut-il mettre un alt text sur toutes les images ?</h3>
 <p>Toutes les images informatives — graphiques, graphiques, photos, infographies — nécessitent un alt text. Les images décoratives n'en ont pas besoin et devraient utiliser des Balises alt vides (alt="") pour éviter d'encombrer la sortie du lecteur d'écran
 .</p>

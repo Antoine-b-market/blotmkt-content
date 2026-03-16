@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/audit/erreurs-404-seo.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,8 +201,8 @@
     <div class="article-col">
       <article>
         <h1>Erreurs 404 et SEO : le guide pour les identifier et les corriger efficacement</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>Une erreur 404 ne pénalise pas directement le SEO mais peut impacter votre site indirectement via l'expérience utilisateur et le <a href="https://blotmkt.com/ia/audit/budget-de-crawl.html">Budget de crawl</a></li>
 <li>Utilisez la Google Search Console (section "Pages &gt; Introuvable (404)") et Screaming Frog pour identifier les erreurs 404 problématiques </li>
@@ -200,12 +210,12 @@
 <li>Priorisez la correction des 404 qui reçoivent du trafic ou possèdent des Backlinks de qualité pour préserver votre "jus de lien"</li>
 </ul>
 </blockquote>
-<p>Les erreurs 404 n'impactent pas directement le référencement naturel mais l'expérience utilisateur étant négative, par conséquent, le référencement va en être impacté.
+<p class="speakable-intro">Les erreurs 404 n'impactent pas directement le référencement naturel mais l'expérience utilisateur étant négative, par conséquent, le référencement va en être impacté.
  Cette nuance est cruciale à comprendre : Google ne pénalise pas votre site pour quelques erreurs 404, mais leur accumulation peut signaler un site mal entretenu. 
 Chaque fois qu'un robot rencontre une erreur 404, il gaspille une partie de votre budget de crawl, c'est-à-dire le nombre de pages que Google peut explorer sur votre site dans un temps donné.
  L'enjeu réside donc dans une approche stratégique pour distinguer les erreurs critiques de celles qu'il vaut mieux laisser telles Quelles.</p>
 <hr />
-<h2>Comprendre l'erreur 404 : mythes et réalités de son impact SEO</h2>
+<h2 class="speakable">Comprendre l'erreur 404 : mythes et réalités de son impact SEO</h2>
 <p>L'erreur 404, également appelée « 404 Not Found », est un code de statut HTTP qui indique que le serveur n'a pas pu trouver la page demandée.
  Contrairement aux idées reçues, 
 les erreurs 404 ne nuisent pas et ne comptent pas contre vous dans les résultats de recherche de Google
@@ -216,7 +226,7 @@ les visiteurs qui se retrouvent sur une page introuvable sont susceptibles de qu
 si votre site contient trop d'erreurs 404, Google pourrait ignorer des pages importantes, ce qui nuit à l'Indexation de votre contenu.
  Troisièmement, 
 lorsqu'un site externe fait un lien vers une de vos pages qui affiche une erreur 404, les backlinks associés deviennent inutiles et ne profitent plus à votre site, résultant en une perte de jus SEO et une diminution du PageRank.</p>
-<h2>Comment trouver les erreurs 404 avec Google Search Console et d'autres outils</h2>
+<h2 class="speakable">Comment trouver les erreurs 404 avec Google Search Console et d'autres outils</h2>
 <p>Pour trouver les erreurs 404 avec Google Search Console, connectez-vous et sélectionnez votre site web, cliquez sur "Couverture" dans le menu de gauche, sélectionnez l'onglet "Exclues" et filtrez les pages par "Erreur", vous verrez alors la liste des pages exclues de l'index de Google à cause d'une erreur, dont les erreurs 404.</p>
 <p>La Search Console présente une limite : 
 Google liste les erreurs 404 rencontrées (1000 exemples au maximum)
@@ -225,7 +235,7 @@ Screaming Frog est un outil extrêmement puissant qui permet de crawler en profo
 <p>Pour identifier les Backlinks pointant vers des 404, 
 utilisez votre outil préféré d'Analyse de backlinks (Majestic, Ahrefs ou Moz) et récupérez la liste des backlinks pointant vers une erreur 404.
  Ces erreurs sont souvent les plus critiques car elles représentent une perte directe d'autorité SEO.</p>
-<h2>404, 410 ou redirection 301 : choisir la bonne solution pour chaque cas</h2>
+<h2 class="speakable">404, 410 ou redirection 301 : choisir la bonne solution pour chaque cas</h2>
 <p>La décision entre ces trois options dépend entièrement du contexte. 
 Utilisez une redirection 301 quand les signaux comme les backlinks ou la pertinence doivent être consolidés vers une autre URL - si votre objectif est la préservation d'autorité, la 301 est appropriée. Si votre objectif est une suppression propre sans consolidation, le 410 est plus net.</p>
 <p>Si un contenu équivalent existe (nouvelle version, produit de remplacement, catégorie parente pertinente), privilégiez une 301 pour transférer les signaux SEO (backlinks, historique, popularité).
@@ -235,7 +245,7 @@ si vous avez supprimé définitivement un Contenu et que vous ne comptez pas le 
 une 404 signifie "introuvable" et peut être interprétée comme temporaire, une 410 signifie "supprimée définitivement" : la ressource a existé, mais elle ne reviendra pas. Pour Google, le 410 est un signal plus explicite et peut accélérer la désIndexation.</p>
 <p><strong>Attention</strong> : ne jamais rediriger massivement toutes les 404 vers la page d'accueil. 
 L'affichage d'un code autre que 404 ou 410 lorsqu'une page n'existe pas (ou la redirection des internautes vers une autre page, telle que la page d'accueil, au lieu de l'affichage d'une erreur 404) peut poser problème. Il s'agit d'erreurs de type "soft 404".</p>
-<h2>Stratégies avancées : transformer les pages 404 en opportunités SEO</h2>
+<h2 class="speakable">Stratégies avancées : transformer les pages 404 en opportunités SEO</h2>
 <h3>Prioriser selon l'impact SEO</h3>
 <p>Pour savoir si une page 404 peut poser un problème technique d'un point de vue SEO, il faut remonter à la source et analyser son historique. Est-elle maillée depuis d'autres pages de votre site Internet ? Reçoit-elle des liens externes depuis des sites référents ? Génère-t-elle du trafic en tant que page de destination SEO ?</p>
 <p>Si une page générait du trafic (SEO) et se retrouve en erreur (404 ou autre), c'est un réel problème de référencement, qu'il faut absolument corriger.
@@ -246,7 +256,7 @@ Si vous utilisez une 404, laissez votre page 404 personnalisée aider les utilis
 <h3>Monitoring et maintenance proactive</h3>
 <p>En e-commerce, il est essentiel de surveiller régulièrement l'apparition des erreurs 404 via la Google Search Console. Cela vous permet de réagir rapidement et d'optimiser constamment l'expérience utilisateur.
  Mettez en place des alertes pour être informé des nouvelles erreurs, particulièrement après des Migrations de site ou des restructurations importantes.</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Est-ce que les erreurs 404 sont mauvaises pour le SEO ?</h3>
 <p>Les erreurs 404 ne nuisent pas et ne comptent pas contre vous dans les résultats de Recherche de Google.
  Cependant, elles peuvent impacter indirecte)ment votre SEO via l'expérience utilisateur et le gaspillage de budget de crawl.</p>

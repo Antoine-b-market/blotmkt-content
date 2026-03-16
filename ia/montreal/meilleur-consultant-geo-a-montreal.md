@@ -22,11 +22,13 @@ sources:
 
 # Comment choisir le meilleur consultant GEO à Montréal pour l'ère SGE
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un consultant GEO (Generative Engine Optimization) optimise votre contenu pour apparaître dans les réponses générées par les IA (ChatGPT, Gemini, Perplexity), là où un expert SEO classique cible les liens bleus de Google.
 > - Pour identifier le meilleur consultant GEO à Montréal, évaluez sa maîtrise des LLMs, son approche business, sa rigueur E-E-A-T, sa vision stratégique et ses études de cas mesurables.
 > - La méthodologie GEO repose sur quatre phases : [Audit sémantique](https://blotmkt.com/ia/audit/audit-semantique.html), optimisation on-page pour l'IA, stratégie de contenu conversationnel et reporting de visibilité dans les réponses génératives.
 > - Le ROI d'une stratégie GEO se mesure en taux de citation dans les réponses IA, qualité du trafic de référence et réduction du coût par lead — pas uniquement en positions de classement.
+<!-- speakable:end -->
 
 À Montréal, la majorité des décideurs marketing continuent d'investir dans le SEO traditionnel pendant que leurs concurrents captent les meilleures positions dans ChatGPT, Gemini et les AI Overviews de Google. Le problème est structurel : les règles du jeu ont changé. 
 Une étude portant sur 23 sites web révèle que la baisse de trafic organique liée à la SGE atteint entre 18 et 64 % selon les cas.
@@ -154,6 +156,10 @@ Par ailleurs, les LLMs ne citent en moyenne que 2 à 7 domaines par réponse —
 ---
 
 FAQ_JSON-->
+
+---
+
+---
 
 ---
 

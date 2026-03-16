@@ -27,10 +27,12 @@ related_articles:
 
 # L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - L'Attribut `rel="nofollow"` indique aux moteurs de recherche de ne pas suivre un lien ni transmettre d'autorité (PageRank) à la page liée
 > - Google a introduit `rel="sponsored"` pour les liens payants et `rel="ugc"` pour le contenu généré par les utilisateurs en 2019, complétant l'usage du nofollow
 > - 
+<!-- speakable:end -->
 Tous les Attributs de liens sont désormais traités comme des "indices" plutôt que des directives strictes
 
 > - 
@@ -222,6 +224,10 @@ Les liens nofollow ne sont pas mauvais pour le SEO. Bien qu'ils ne soient techni
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

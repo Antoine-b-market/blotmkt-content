@@ -27,8 +27,10 @@ related_articles:
 
 # Maîtriser l'optimisation google maps pour propulser votre visibilité locale
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - L'optimisation Google Maps est l'ensemble des techniques pour améliorer la visibilité d'un établissement sur Google Maps et dans les recherches locales, essentielle pour capter 
+<!-- speakable:end -->
 plus de 5,9 millions de recherches "near me" mensuelles aux États-Unis
 
 > - Les stratégies clés incluent l'optimisation complète du Google Business Profile, la gestion proactive des avis clients, et l'implémentation de [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) locales pour maximiser le classement
@@ -229,6 +231,10 @@ Google considère trois facteurs principaux : Relevance (correspondance profil-r
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

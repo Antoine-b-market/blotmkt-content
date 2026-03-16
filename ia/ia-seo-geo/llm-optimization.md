@@ -27,11 +27,13 @@ related_articles:
 
 # Optimisation llm (llmo) : le guide pratique pour adapter votre seo à l'ère de l'ia
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - **L'Optimisation LLM (LLMO)** vise à rendre un contenu facilement parsable et citable par les IA génératives, contrairement au SEO traditionnel qui cible le clic depuis une SERP
 > - **Les stratégies concrètes** incluent une structuration impeccable du contenu (balises Hn, listes, tableaux), des [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) Schema.org et un renforcement des signaux E-E-A-T
 > - **La mesure de l'impact** se base sur de nouveaux KPIs : mentions de marque dans les réponses IA, Analyse des crawlers IA et suivi de la visibilité dans les AI Overviews
 > - **Ignorer le LLMO** risque une perte totale de visibilité sur les requêtes informationnelles, avec 
+<!-- speakable:end -->
 un impact moyen de 24% de perte de trafic organique
 
 Face à l'essor des IA génératives et des AI Overviews de Google, 
@@ -195,6 +197,10 @@ Des outils comme Qwairy mesurent l'impact des actions GEO en suivant l'évolutio
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

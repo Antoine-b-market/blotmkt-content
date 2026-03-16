@@ -27,11 +27,13 @@ related_articles:
 
 # Exploration Googlebot : le guide complet pour optimiser votre budget de crawl
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - L'exploration Googlebot est un processus algorithmique où le robot de Google découvre et Analyse les pages web en suivant les liens et utilisant les sitemaps, géré par un [Budget de crawl](https://blotmkt.com/ia/audit/budget-de-crawl.html) déterminé par la popularité du site et sa santé technique
 > - L'optimisation du budget de crawl consiste à améliorer la [Vitesse de chargement](https://blotmkt.com/ia/audit/vitesse-de-chargement.html), éliminer le contenu dupliqué avec les balises canoniques et corriger les erreurs techniques pour maximiser le nombre de pages importantes explorées
 > - Le [Fichier Robots.txt](https://blotmkt.com/ia/audit/fichier-robots.txt.html) bloque l'accès à certaines zones, le sitemap XML invite à l'exploration avec métadonnées, et Google Search Console permet le pilotage et l'analyse des performances d'exploration
 > - Le diagnostic d'Erreurs d'exploration s'effectue via le rapport Couverture dans Search Console, identifiant les erreurs 404, 5xx et blocages robots.txt, nécessitant des corrections de liens et optimisations serveur
+<!-- speakable:end -->
 
 Googlebot joue un rôle crucial dans la compréhension du paysage internet par Google, scannant continuellement des millions de domaines
 . Pourtant, de nombreux propriétaires de sites ignorent comment ce robot fonctionne et comment optimiser leur Budget de crawl. Cette méconnaissance peut limiter considérablement la visibilité de leur contenu, même avec d'excellentes pages et une stratégie SEO solide. 
@@ -245,6 +247,10 @@ Medium - Tomas Laurinavicius, 2024
 ---
 
 FAQ_JSON-->
+
+---
+
+---
 
 ---
 

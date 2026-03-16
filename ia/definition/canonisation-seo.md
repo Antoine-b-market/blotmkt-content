@@ -27,8 +27,10 @@ related_articles:
 
 # Maîtriser la canonisation SEO pour optimiser votre indexation Google
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 La canonisation SEO gère le fait qu'environ 25 à 30 % du contenu web est dupliqué selon Google
 , en désignant l'URL principale à indexer parmi plusieurs versions similaires
 > - 
@@ -254,6 +256,10 @@ Dans un certain nombre de cas, Google lira la balise Canonical mais pourra prend
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

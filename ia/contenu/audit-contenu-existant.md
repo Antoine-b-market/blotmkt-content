@@ -27,10 +27,12 @@ related_articles:
 
 # Audit de contenu existant : la méthode complète pour optimiser votre SEO
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un Audit de contenu est un inventaire systématique qui permet d'identifier les contenus performants, obsolètes et les opportunités cachées pour améliorer votre SEO global
 > - La méthode complète comprend 4 étapes : inventaire des URLs, collecte des données quantitatives/qualitatives, classification des pages et définition d'un plan d'action précis
 > - 
+<!-- speakable:end -->
 Le coût varie entre 1 800 € et 5 000 € selon la complexité, avec un ROI mesurable qui peut augmenter le trafic de 111% après Optimisation
 
 Votre site regorge de Contenus accumulés au fil des mois, mais savez-vous vraiment lesquels travaillent pour vous ? 
@@ -187,6 +189,10 @@ Emmanuelle Wiesemes SEO 2026, Les Makers statistiques, Occeo Audit pricing, Incr
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

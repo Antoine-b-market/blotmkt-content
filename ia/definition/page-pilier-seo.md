@@ -27,11 +27,13 @@ related_articles:
 
 # Page pilier SEO : le guide pour structurer votre autorité thématique
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Une page pilier est un contenu exhaustif qui couvre un sujet large et sert de hub central pour un topic cluster, distribuant l'autorité à des articles spécialisés
 > - Elle diffère d'un article de blog par sa portée généraliste, sa longueur (>2000 mots) et son rôle de liaison vers des Contenus spécifiques
 > - La création d'une page pilier suit 5 étapes : choix du sujet, recherche de mots-clés, structuration, maillage interne et optimisation technique
 > - Le ROI se mesure via le classement sur le mot-clé principal, le trafic du cluster entier et l'augmentation de l'autorité thématique
+<!-- speakable:end -->
 
 Le référencement naturel évolue vers une approche thématique où l'autorité sur un sujet prime sur l'Optimisation d'une seule page. 
 Cette notion de topic cluster peut se résumer à une tactique de recherche organique qui lie et regroupe plusieurs éléments de Contenu autour de la même thématique afin que votre site web puisse gagner en autorité sur un sujet donné
@@ -213,6 +215,10 @@ Les trois piliers du référencement naturel sont le pilier technique (Explorati
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

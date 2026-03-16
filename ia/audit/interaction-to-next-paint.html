@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/audit/interaction-to-next-paint.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,8 +201,8 @@
     <div class="article-col">
       <article>
         <h1>Interaction to next paint (inp) : le guide complet pour une réactivité web optimale</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>L'INP remplace le FID depuis mars 2024 car il mesure toutes les interactions (pas seulement la première) et capture l'intégralité du processus d'interaction.</li>
 <li>Mesurez l'INP avec les données CrUX dans Google Search Console ou PageSpeed Insights, puis diagnostiquez localement avec Chrome DevTools.</li>
@@ -200,12 +210,12 @@
 <li>Utilisez le feedback visuel immédiat et les animations ludiques pour améliorer la perception de l'attente et transformer l'expérience utilisateur.</li>
 </ul>
 </blockquote>
-<p>L'Interaction to Next Paint (INP) est officiellement devenu une métrique <a href="https://blotmkt.com/ia/audit/core-web-vitals.html">Core Web Vitals</a> depuis mars 2024, remplaçant le First Input Delay (FID)
+<p class="speakable-intro">L'Interaction to Next Paint (INP) est officiellement devenu une métrique <a href="https://blotmkt.com/ia/audit/core-web-vitals.html">Core Web Vitals</a> depuis mars 2024, remplaçant le First Input Delay (FID)
 . Cette transition marque une évolution fondamentale dans l'évaluation de la performance web. Contrairement au FID qui ne mesurait que le premier délai d'interaction, 
 l'INP évalue chaque interaction de l'utilisateur avec la page et rapporte une valeur unique qui représente la réactivité globale de la page
 . Cette métrique influence directement votre classement Google et l'expérience utilisateur.</p>
 <hr />
-<h2>Qu'est-ce que l'interaction to next paint (inp) ?</h2>
+<h2 class="speakable">Qu'est-ce que l'interaction to next paint (inp) ?</h2>
 <p>L'INP mesure le temps total entre le moment de l'interaction utilisateur et le moment où la prochaine image est peinte à l'écran
 . Cette métrique révolutionnaire 
 élimine les limitations fondamentales du FID : alors que FID ne mesurait que la première interaction, l'INP considère toutes les interactions tout au long de la session
@@ -215,7 +225,7 @@ Contrairement au FID qui ignorait complètement le temps d'exécution des gestio
 .</p>
 <p>Un bon score INP est de 200 millisecondes ou moins au 75e percentile, tandis qu'un INP supérieur à 500 millisecondes est considéré comme mauvais
  et peut impacter négativement vos classements Google.</p>
-<h2>Comment mesurer et diagnostiquer un mauvais score inp ?</h2>
+<h2 class="speakable">Comment mesurer et diagnostiquer un mauvais score inp ?</h2>
 <p>La mesure de l'INP s'appuie sur deux approches complémentaires. 
 Le moyen le plus simple de voir les performances INP de votre site web est d'utiliser PageSpeed Insights, qui présente les Données du Chrome User Experience Report (CrUX), le dataset officiel du programme Web Vitals
 .</p>
@@ -224,7 +234,7 @@ Jusqu'en octobre 2024, vous deviez utiliser l'extension Chrome Web Vitals, mais 
 .</p>
 <p>Idéalement, vous avez besoin de Données de surveillance d'utilisateurs réels pour suivre quels éléments causent de mauvaises performances et à quelle fréquence. Par exemple, DebugBear peut collecter ces données et montrer à quel point certaines interactions sont courantes
 . L'identification précise des interactions problématiques évite les approximations et l'effort gaspillé.</p>
-<h2>Optimisation technique : les stratégies pour réduire la latence inp</h2>
+<h2 class="speakable">Optimisation technique : les stratégies pour réduire la latence inp</h2>
 <p>L'optimisation technique de l'INP repose sur quatre piliers fondamentaux. 
 Optimisez l'utilisation du thread principal en divisant les tâches JavaScript Longues en tâches plus petites et asynchrones
 . 
@@ -238,7 +248,7 @@ Gardez la Structure DOM aussi petite que possible. Notre recommandation optimise
 <p>L'Optimisation des gestionnaires d'événements est cruciale. 
 Optimisez les event listeners pour qu'ils soient non-bloquants et efficaces, incluant le debouncing ou throttling pour les événements qui se déclenchent rapidement (scroll, resize)
 .</p>
-<h2>L'ux au service de l'inp : améliorer la perception de la réactivité</h2>
+<h2 class="speakable">L'ux au service de l'inp : améliorer la perception de la réactivité</h2>
 <p>L'expérience utilisateur transforme la perception technique de l'attente en expérience gérée et plaisante. 
 L'animation comble le fossé entre ce que les utilisateurs veulent et comment le système répond. Quand quelqu'un tape, glisse ou clique, le mouvement donne un feedback instantané
 .</p>
@@ -248,7 +258,7 @@ Un bouton peut changer d'apparence lorsqu'on clique dessus, donnant un feedback 
 <p>Les animations ludiques modifient radicalement la perception de l'attente. Selon le contexte Knowledge base fourni, les animations statiques créent une perception d'attente longue, les animations en mouvement la réduisent, tandis que les animations ludiques rendent l'attente plaisante, voire positive.</p>
 <p>L'animation peut masquer ce temps de chargement en occupant visuellement l'utilisateur
 . Les notifications non-interruptives, comme les badges numériques ou les icônes clignotantes, informent sans interrompre le flux de travail utilisateur.</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Qu'est-ce que l'Interaction to Next Paint (INP) et pourquoi remplace-t-il le FID ?</h3>
 <p>L'INP est une métrique Core Web Vitals plus complète car elle mesure toutes les interactions durant la visite d'une page (pas seulement la première) et capture l'intégralité du cycle de vie de l'interaction incluant l'Input delay, le processing time et le presentation delay
 .</p>

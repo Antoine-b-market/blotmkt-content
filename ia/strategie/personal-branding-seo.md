@@ -27,8 +27,10 @@ related_articles:
 
 # Personal branding SEO : comment construire votre autorité pour Google et l'IA
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Le Personal branding SEO redéfinit l'identité numérique comme une "entité" que l'Algorithme peut catégoriser avec certitude
 , dépassant la simple Optimisation de mots-clés pour créer une marque personnelle reconnue.
 > - Les 5 étapes clés incluent l'Audit e-réputation, la définition de votre entité numérique, l'optimisation des plateformes de confiance, la création de contenu d'autorité et une stratégie de Digital PR pour les citations IA.
@@ -188,6 +190,10 @@ Search Engine Land Personal SEO Guide, 2025
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

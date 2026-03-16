@@ -27,11 +27,13 @@ related_articles:
 
 # SEO pour Google Business Profile : le guide complet pour dominer la recherche locale
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le SEO pour Google Business Profile optimise votre visibilité dans le Local Pack, Google Maps et les résultats géolocalisés par rapport au SEO traditionnel centré sur la pertinence thématique.
 > - Les Optimisations fondamentales incluent la cohérence NAP, le choix stratégique des catégories, une description complète et des Google Posts réguliers.
 > - Les horaires d'ouverture constituent un facteur de classement top 5, tandis que les avis détaillés alimentent le nouveau format Stories sur Google Maps mobile.
 > - L'Optimisation GBP devient cruciale pour les AI Overviews car Google utilise ces [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) comme source privilégiée pour ses réponses génératives.
+<!-- speakable:end -->
 
 Le marketing local se transforme radicalement. Votre fiche Google Business Profile n'est plus une simple présence passive : elle détermine votre visibilité face à des clients potentiels qui recherchent activement vos services. Avec 
 61% d'augmentation des appels téléphoniques via Google) Business Profile
@@ -185,6 +187,10 @@ En 2026, le "Taux de Décroissance" de la visibilité est plus rapide que jamais
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

@@ -27,8 +27,10 @@ related_articles:
 
 # Seo ia : le guide pratique pour optimiser et automatiser votre référencement
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Le SEO IA combine l'intelligence artificielle et l'optimisation pour automatiser l'Analyse, la création de contenu et les audits techniques, avec 86% des professionnels SEO ayant déjà intégré l'IA dans leur stratégie
 
 > - 
@@ -214,6 +216,10 @@ L'IA automatise les tâches répétitives mais l'expertise humaine reste indispe
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/audit/first-input-delay.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,11 +201,11 @@
     <div class="article-col">
       <article>
         <h1>First Input Delay (FID) : le guide pour optimiser l'ancienne métrique et réussir la transition vers l'INP</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>
-<p>Le FID mesure le temps entre la première interaction utilisateur (clic, bouton) et le début du traitement par le navigateur</p>
+<p class="speakable-intro">Le FID mesure le temps entre la première interaction utilisateur (clic, bouton) et le début du traitement par le navigateur</p>
 </li>
 <li>
 <p>L'INP remplace officiellement le FID depuis mars 2024 et mesure toutes les interactions pour identifier la plus lente</p>
@@ -212,7 +222,7 @@
 Le First Input Delay (FID) n'est plus une métrique <a href="https://blotmkt.com/ia/audit/core-web-vitals.html">Core Web Vitals</a> et a été remplacé par l'Interaction to Next Paint (INP)
 . Toutefois, comprendre le FID reste essentiel car ses principes et Optimisations constituent un fondement précieux pour maîtriser l'INP, la nouvelle référence en matière de réactivité web. Cette transition marque une évolution importante dans l'évaluation des performances interactives des pages.</p>
 <hr />
-<h2>Définition : qu'est-ce que le First Input Delay (FID) ?</h2>
+<h2 class="speakable">Définition : qu'est-ce que le First Input Delay (FID) ?</h2>
 <p>Le FID mesure le temps entre la première interaction utilisateur avec une page (clic sur un lien, tap sur un bouton, utilisation d'un contrôle JavaScript) et le moment où le navigateur peut traiter cette interaction
 . Cette métrique reflète la "première impression" de réactivité que ressent l'utilisateur lors de sa première tentative d'interaction avec le site.</p>
 <p>Pour offrir une expérience utilisateur optimale, le FID doit être inférieur à 100 millisecondes, mesuré au 75e percentile des visites
@@ -220,7 +230,7 @@ Le First Input Delay (FID) n'est plus une métrique <a href="https://blotmkt.com
 <h3>Spécificités techniques du FID</h3>
 <p>Le FID ne mesure que le "délai" dans le traitement des événements, sans inclure la durée totale d'exécution ni le temps nécessaire pour mettre à jour l'interface
 . Cette limitation explique en partie pourquoi Google a développé l'INP comme métrique plus complète.</p>
-<h2>FID vs INP : la transition vers une nouvelle métrique Core Web Vitals</h2>
+<h2 class="speakable">FID vs INP : la transition vers une nouvelle métrique Core Web Vitals</h2>
 <p>L'INP remplace officiellement le FID comme Core Web Vital depuis mars 2024
 , marquant une évolution majeure dans l'évaluation de la réactivité web. Cette transition répond aux limitations identifiées du FID par l'équipe Chrome de Google.</p>
 <p>La différence fondamentale entre ces deux métriques réside dans leur approche : 
@@ -233,7 +243,7 @@ Contrairement au FID qui mesure le délai entre la première interaction et une 
 . 
 L'équipe Chrome cherchait une métrique qui adresse plus efficacement les limitations du FID
 , offrant une vision plus réaliste de l'expérience utilisateur sur l'ensemble de la session de navigation.</p>
-<h2>Comment diagnostiquer et optimiser le FID (et préparer l'INP)</h2>
+<h2 class="speakable">Comment diagnostiquer et optimiser le FID (et préparer l'INP)</h2>
 <h3>Outils de mesure et diagnostic</h3>
 <p>Le FID reste présent dans de nombreux outils Google, avec une période de dépréciation de six mois dans PageSpeed Insights et CrUX
 . 
@@ -250,7 +260,7 @@ Les Web Workers permettent d'exécuter JavaScript sur un thread en arrière-plan
 <p><strong>Optimisation du JavaScript</strong> : 
 Limiter la quantité de JavaScript réduit le temps de parsing, compilation et exécution, permettant une Réponse plus rapide aux interactions
 . Le code splitting et le chargement différé des ressources non critiques s'avèrent particulièrement efficaces.</p>
-<h2>Impact du FID sur l'UX et le SEO : leçons pour l'avenir</h2>
+<h2 class="speakable">Impact du FID sur l'UX et le SEO : leçons pour l'avenir</h2>
 <h3>Conséquences sur l'expérience utilisateur</h3>
 <p>Un FID élevé crée une sensation de page "gelée" ou non réactive, frustrant les utilisateurs lors de leurs premières tentatives d'interaction. 
 Un Fichier JavaScript monolithique bloquant le thread principal peut provoquer des délais perceptibles dans la réactivité interactive, résultant en de mauvaises performances FID
@@ -262,7 +272,7 @@ Le FID devrait s'améliorer significativement en adoptant les bonnes pratiques, 
 .</p>
 <p>Bien que remplacé, le FID conserve une valeur pédagogique importante. Sa philosophie d'Optimisation - réduction des tâches longues, optimisation JavaScript, amélioration de la réactivité - reste directement applicable à l'INP. Les développeurs ayant maîtrisé l'optimisation du FID disposent des connaissances fondamentales pour réussir avec l'INP.</p>
 <hr />
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Quel est un bon score First Input Delay ?</h3>
 <p>Un bon score FID doit être inférieur à 100 millisecondes pour offrir une expérience utilisateur optimale
 . Cette mesure s'effectue au 75e percentile des visites pour représenter l'expérience de la majorité des utilisateurs réels.</p>

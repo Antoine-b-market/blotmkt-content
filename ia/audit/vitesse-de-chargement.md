@@ -27,9 +27,11 @@ related_articles:
 
 # Vitesse de chargement : le guide pour accélérer votre site et booster vos conversions
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - La vitesse de chargement est le temps nécessaire pour qu'une page web s'afFiche complètement, mesuré par des métriques clés comme le LCP, FCP et TTFB
 > - 
+<!-- speakable:end -->
 Pour chaque seconde de délai supplémentaire, les conversions peuvent diminuer de jusqu'à 20 % sur mobile
  et 
 40 % des visiteurs abandonnent les pages web qui mettent plus de 3 secondes à s'afFicher
@@ -195,6 +197,10 @@ Pour obtenir les Données de performance de la version mobile d'une URL, demande
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

@@ -27,9 +27,11 @@ related_articles:
 
 # Call to action : le guide complet pour créer des CTA qui convertissent
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un call to action (CTA) est un élément visuel incitant l'utilisateur à une action précise, transformant les visiteurs en prospects qualifiés
 > - 
+<!-- speakable:end -->
 Les verbes d'action peuvent augmenter les conversions de 122% et le taux de clic moyen des CTA est de 4,23%
 
 > - 
@@ -218,6 +220,10 @@ créez un sentiment d'urgence avec des offres à durée limitée
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

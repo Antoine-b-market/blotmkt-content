@@ -27,11 +27,13 @@ related_articles:
 
 # Heatmap SEO audit : la méthode visuelle pour diagnostiquer votre site
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un heatmap SEO Audit transforme les données complexes d'un audit traditionnel en représentation visuelle avec un code couleur rouge/orange/vert pour prioriser instantanément les actions
 > - Cette méthode agrège et pondère les scores de différentes catégories (technique, contenu, performance) pour créer une vue d'ensemble actionnable plutôt qu'un rapport de centaines de lignes
 > - Les outils spécialisés émergent via des plateformes SaaS avec des interfaces visuelles, mais il est possible de créer ses propres heatmaps avec Google Sheets et des règles de mise en forme conditionnelle
 > - L'interprétation suit une logique simple : rouge = actions critiques, orange = opportunités d'Optimisation, vert = points forts à maintenir
+<!-- speakable:end -->
 
 L'audit SEO traditionnel génère souvent des rapports complexes de centaines de points à Analyser, noyant les véritables priorités dans un océan de données techniques. Face à ce défi, l'audit SEO par heatmap révolutionne l'approche en transformant ces données en visualisation instantanément compréhensible. Cette méthode utilise un code couleur pour révéler d'un coup d'œil les forces et faiblesses de votre site, permettant aux équipes de prioriser leurs actions et d'aligner leurs efforts sur les véritables enjeux SEO.
 
@@ -199,6 +201,10 @@ Traitez d'abord le rouge (critiques : Indexation, vitesse), puis l'orange (oppor
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

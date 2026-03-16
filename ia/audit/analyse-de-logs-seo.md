@@ -27,10 +27,12 @@ related_articles:
 
 # Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - **L'analyse de logs SEO examine les Fichiers serveur pour révéler comment Googlebot explore réellement votre site**, offrant des données 100% fiables contrairement aux outils tiers
 > - **La méthode implique 4 étapes : collecte des logs bruts, parsing et filtrage des robots, enrichissement avec d'autres Données, puis analyse des tendances et anomalies**
 > - **Les outils spécialisés comme Screaming Frog Log File Analyser (99£/an) permettent un ROI mesurable en redirigeant le [Budget de crawl](https://blotmkt.com/ia/audit/budget-de-crawl.html) des pages inutiles vers les URLs stratégiques**
+<!-- speakable:end -->
 
 L'explosion du contenu en ligne et l'intelligence artificielle compliquent aujourd'hui l'Indexation de Google. 
 L'état du Budget Crawl de Google en 2024 est compliqué, les contenus IA ayant envahi le web
@@ -186,6 +188,10 @@ Le Screaming Frog Log File Analyser est un outil d'Audit SEO, conçu par de vrai
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

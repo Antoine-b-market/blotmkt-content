@@ -27,11 +27,13 @@ related_articles:
 
 # Nettoyage de liens : le guide pour assainir votre profil de backlinks
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le nettoyage de liens consiste à identifier et neutraliser les backlinks nuisibles pour prévenir ou corriger les pénalités algorithmiques, constituant la base nécessaire avant toute stratégie de netlinking d'autorité.
 > - Les signaux d'alerte nécessitant un Audit incluent les chutes de trafic soudaines, les notifications de liens artificiels dans Google Search Console, ou l'historique de netlinking agressif non maîtrisé.
 > - La méthode manuelle tripartite comprend l'audit complet via outils spécialisés, l'Analyse humaine selon critères précis (pertinence, autorité, ancres), puis l'action par contact webmasters ou désaveu Google en dernier recours.
 > - L'approche artisanale surpasse les outils automatiques par sa précision contextuelle, évitant le désaveu erroné de liens qualitatifs qui représente un risque majeur de perte de positions.
+<!-- speakable:end -->
 
 Le profil de backlinks est l'épine dorsale de toute stratégie SEO performante. Mais quand des liens toxiques s'infiltrent, ils transforment cet atout en vulnérabilité. 
 Ces liens envoient un mauvais signal à Google qui peut décider de pénaliser votre site web s'il conclut que ces backlinks ont été artificiellement créés, constituant un backlink toxique qui pénalise potentiellement votre site et fait chuter votre classement
@@ -185,6 +187,10 @@ Le désaveu est pris en compte en quelques jours, mais les effets concrets sur l
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

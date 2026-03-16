@@ -27,10 +27,12 @@ related_articles:
 
 # Audit de site web : le guide complet pour un diagnostic SEO actionnable
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un audit de site web est un état des lieux complet qui Analyse technique, contenu et popularité pour identifier les freins et opportunités SEO
 > - Il comprend 3 piliers : l'infrastructure technique ([Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html), crawlabilité), l'analyse sémantique (intentions de recherche) et l'Audit de popularité (backlinks)  
 > - 
+<!-- speakable:end -->
 Le prix varie de 500€ à 10 000€ selon la complexité du site, avec une moyenne de 600€ à 2 500€
 
 > - Vous pouvez utiliser des outils gratuits (Google Search Console) ou faire appel à un expert pour un diagnostic plus approfondi et actionnable
@@ -204,6 +206,10 @@ Consultant Marketing (2024), Autoseo (2025), Semrush (2024), Seomix (2024), Code
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

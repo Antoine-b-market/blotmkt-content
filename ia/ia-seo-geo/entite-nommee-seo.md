@@ -27,8 +27,10 @@ related_articles:
 
 # Entité nommée SEO : le guide pour devenir une référence aux yeux de Google
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Une entité nommée désigne le processus par lequel un système identifie automatiquement dans un texte des objets sémantiques appelés entités. Il peut s'agir de personnes, d'organisations, de lieux, de dates, de produits
 
 > - 
@@ -206,6 +208,10 @@ Complétez avec des outils comme Contentsprout AI, Google Trends et Text Razor p
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

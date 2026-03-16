@@ -27,8 +27,10 @@ related_articles:
 
 # Budget de crawl : le guide pour l'optimiser et accélérer votre indexation
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Le budget de crawl correspond aux ressources que Google alloue pour explorer les pages d'un site web sur une période donnée
 
 > - 
@@ -198,6 +200,10 @@ Si Googlebot n'a pas crawlé une page, il ne peut pas la classer. Le budget de c
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

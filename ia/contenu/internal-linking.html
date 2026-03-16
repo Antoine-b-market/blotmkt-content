@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/contenu/internal-linking.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -190,10 +200,9 @@
     </nav>
     <div class="article-col">
       <article>
-        <p>Maintenant que j'ai rassemblé des sources fiables sur l'internal linking, les cocons sémantiques, et le <a href="https://blotmkt.com/ia/audit/budget-de-crawl.html">Budget de crawl</a>, je vais rédiger l'article selon les consignes.</p>
-<h1>Internal linking : le guide pour un maillage interne seo parfait</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+        <h1>Internal linking : le guide pour un maillage interne seo parfait</h1>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>L'internal linking désigne l'ensemble des liens HTML qui relient les pages d'un même site entre elles, influençant directement la distribution du PageRank et l'Indexation</li>
 <li>Les liens contextuels (dans le corps du texte) possèdent le plus fort poids sémantique, tandis que les liens de navigation Structurent l'expérience utilisateur</li>
@@ -201,12 +210,12 @@
 <li>Les liens internes brisés, les chaînes de redirection et les pages orphelines gaspillent le Budget de crawl et pénalisent l'indexation</li>
 </ul>
 </blockquote>
-<p>Les sites avec un Maillage interne bien structuré voient une augmentation de 40% de leur trafic organique
+<p class="speakable-intro">Les sites avec un Maillage interne bien structuré voient une augmentation de 40% de leur trafic organique
 . Pourtant, 
 25% des pages web n'ont aucun lien interne entrant
 , laissant un potentiel SEO inexploité. À l'ère des LLMs et de l'IA générative, l'internal linking devient plus stratégique que jamais pour guider algorithmes et utilisateurs vers vos Contenus prioritaires.</p>
 <hr />
-<h2>Qu'est-ce que l'internal linking : le pilier de votre architecture SEO</h2>
+<h2 class="speakable">Qu'est-ce que l'internal linking : le pilier de votre architecture SEO</h2>
 <p>L'internal linking désigne les liens hypertextes qui connectent une page de votre site vers une autre page du même domaine
 . Au-delà de la simple navigation, 
 ces liens aident les moteurs de recherche à comprendre la structure de votre site, distribuer l'autorité des pages et guider les utilisateurs vers du Contenu pertinent
@@ -218,7 +227,7 @@ Google utilise ces liens internes pour découvrir et indexer les nouvelles pages
 .</p>
 <p>Les pages avec plus de liens internes entrants génèrent davantage de trafic : celles avec 0-4 liens ne reçoivent que 2 clics en moyenne depuis Google Search, contre 4 fois plus pour les pages avec 40-44 liens
 . Cette distribution stratégique de l'autorité interne transforme votre site en un écosystème cohérent où chaque page contribue au succès global.</p>
-<h2>Les types de liens internes et leur impact stratégique</h2>
+<h2 class="speakable">Les types de liens internes et leur impact stratégique</h2>
 <p>Les liens contextuels, insérés dans le corps du texte, connectent des pages liées thématiquement
  et possèdent le plus fort poids sémantique car leur ancre est entourée de contenu pertinent. 
 Les pages avec au moins une Ancre exact match ont cinq fois plus de trafic que les autres
@@ -229,7 +238,7 @@ Les liens dans le Contenu principal offrent la plus haute valeur SEO et sont les
 , tandis que les liens de navigation apportent moins de poids SEO mais une valeur UX élevée.</p>
 <p>L'ancre de texte doit être pertinente et décrire précisément le Contenu de la page de destination, en évitant les phrases génériques comme "cliquez ici"
 . Cette approche permet aux moteurs de recherche de mieux comprendre la relation sémantique entre les pages connectées, renforçant la cohérence thématique de votre architecture.</p>
-<h2>Construire une architecture de maillage performante : méthodes et schémas</h2>
+<h2 class="speakable">Construire une architecture de maillage performante : méthodes et schémas</h2>
 <p>Le Cocon sémantique, popularisé par Laurent Bourrelly, repose sur un maillage interne rigoureusement organisé pour guider utilisateur et moteur de recherche à travers une structure logique, du général au spécifique
 . 
 La force du cocon réside dans son étanchéité : aucun lien ne sort du silo, le maillage guide l'internaute dans un tunnel de contenu homogène
@@ -242,7 +251,7 @@ La page pilier est maillée avec des contenus satellites (cluster content) qui a
 , tandis que 
 le topic cluster convient aux cycles de vente longs et aux Stratégies de haut d'entonnoir : informer, éduquer, sensibiliser
 . (Source : Laplume, 2025)</p>
-<h2>Auditer et corriger les erreurs qui gaspillent votre budget de crawl</h2>
+<h2 class="speakable">Auditer et corriger les erreurs qui gaspillent votre budget de crawl</h2>
 <p>Les Erreurs 404 et liens cassés peuvent réduire l'engagement utilisateur de 15% et impacter négativement le classement dans les moteurs de recherche
 . 
 Lorsque les spiders tentent d'Analyser des pages 404, cela entraîne une erreur d'exploration et gaspille le budget de crawl inutilement
@@ -255,7 +264,7 @@ Les pages à plus de 3 clics de profondeur ont peu de chances de bien se classer
 , tandis que 
 un budget mal géré se gaspille sur des pages sans valeur, laissant les Contenus stratégiques invisibles
 . La solution : Auditer régulièrement avec des outils comme Screaming Frog pour identifier liens cassés, pages orphelines et chaînes de redirection. (Source : Semrush, 2021)</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Comment optimiser les ancres de liens internes ?</h3>
 <p>L'ancre de texte doit signaler clairement le Contenu de la page liée, en utilisant des phrases descriptives de 2-5 mots plutôt que des termes vagues
 . Privilégiez un langage naturel et conversationnel, surtout avec l'essor de la recherche vocale.</p>

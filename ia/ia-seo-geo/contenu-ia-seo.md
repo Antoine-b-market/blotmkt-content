@@ -27,10 +27,12 @@ related_articles:
 
 # Contenu IA SEO : le guide pour une stratégie de référencement sémantique
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le contenu IA SEO remplace l'approche par mots-clés traditionnelle par une stratégie sémantique qui comprend l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) grâce au traitement automatique du langage naturel (NLP)
 > - La méthode combine Analyse sémantique, prompt engineering structuré et supervision humaine pour créer des contenus pertinents et authentiques
 > - 
+<!-- speakable:end -->
 Les marketeurs constatent une réduction de 38 % du temps de production avec l'IA tout en augmentant de 31 % les taux de conversion
 
 > - 
@@ -209,6 +211,10 @@ Le Blog du Communicant, 2026
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

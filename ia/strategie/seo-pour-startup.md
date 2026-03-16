@@ -27,8 +27,10 @@ related_articles:
 
 # SEO pour startup : comment devenir une référence dans votre niche
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le SEO est un levier de croissance essentiel qui génère 
+<!-- speakable:end -->
 1 000% de trafic supplémentaire par rapport aux réseaux sociaux et convertit à 14,6% contre 1,7% pour l'outbound marketing
 
 > - Une [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) pour startup repose sur trois piliers : diagnostic technique initial, construction de contenus d'expertise, et développement de l'autorité via l'E-E-A-T
@@ -194,6 +196,10 @@ Si vous pouvez réparer votre propre voiture, il vaut mieux déléguer beaucoup 
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

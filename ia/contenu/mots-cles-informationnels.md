@@ -27,12 +27,14 @@ related_articles:
 
 # Mots-clés informationnels : guide pour optimiser votre stratégie SEO avec l'IA
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un mot-clé informationnel traduit une [Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) d'information (comment, pourquoi, guide, définition) et se distingue des requêtes commerciales ou transactionnelles par sa vocation éducative
 > - Les outils SEO classiques (Semrush, Ahrefs, AnswerThePublic) et l'Analyse des PAA (People Also Ask) permettent d'identifier efficacement ces requêtes
 > - Les entreprises exploitent ces mots-clés pour créer du contenu éducatif de qualité, renforcer leur E-A-T et capter du trafic en amont du funnel de conversion
 > - L'IA révolutionne leur identification via l'analyse sémantique et l'automatisation, permettant de prédire les tendances et d'optimiser le contenu pour les featured snippets
 > - 
+<!-- speakable:end -->
 Les leads provenant du SEO convertissent à 14,6% contre 1,7% pour l'outbound marketing
 , démontrant l'impact mesurable des mots-clés informationnels sur le ROI
 
@@ -213,6 +215,10 @@ Créez un contenu approfondi (1890 mots en moyenne pour les premiers résultats)
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

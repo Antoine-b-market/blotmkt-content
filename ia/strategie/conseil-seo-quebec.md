@@ -27,12 +27,14 @@ related_articles:
 
 # Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - **Le conseil SEO au Québec** est essentiel pour Structurer vos actifs numériques et maximiser votre visibilité dans un contexte francophone spécifique
 > - **L'approche GEO moderne** optimise vos contenus pour être cités par les intelligences artificielles (ChatGPT, Gemini) tout en conservant votre performance sur Google
 > - **L'expertise locale** offre une connaissance approfondie du marché québécois et un accompagnement personnalisé face aux solutions génériques
 > - **Le ROI du SEO** génère un taux de conversion de 14,6% en moyenne et un rendement 5 fois supérieur à la publicité payante sur le long terme
 > - **L'accompagnement expert** s'avère indispensable lors de lancements, stagnations de trafic, expansions de marché ou évolutions technologiques
+<!-- speakable:end -->
 
 Le référencement naturel au Québec traverse une mutation profonde. Alors que 
 53 % du trafic total des sites web provient de la recherche organique
@@ -202,6 +204,10 @@ Le taux de conversion pour les leads SEO est en moyenne de 14,6%. Le référence
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

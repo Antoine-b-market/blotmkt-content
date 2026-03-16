@@ -27,8 +27,10 @@ related_articles:
 
 # Compression image WebP : le guide complet pour accélérer votre site
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Le format WebP développé par Google offre une compression 25 à 35% plus efficace que JPEG à qualité visuelle équivalente
 
 > - 
@@ -194,6 +196,10 @@ Selon CanIUse.com, environ 94,25% des utilisateurs globaux peuvent utiliser WebP
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

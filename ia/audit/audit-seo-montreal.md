@@ -27,9 +27,11 @@ related_articles:
 
 # Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un Audit SEO à Montréal combine l'analyse technique classique avec la spécificité du marché québécois et les enjeux de référencement local sur Google.ca
 > - 
+<!-- speakable:end -->
 Le prix varie entre 500 $ et 10 000 $ selon la complexité : 500-2000 $ pour un site vitrine, 2000-5000 $ pour une PME, jusqu'à 10 000 $ pour un e-commerce
 
 > - Une méthodologie rigoureuse en 3 phases : technique, sémantique et popularité, avec un plan d'action priorisé pour un impact maximal
@@ -201,6 +203,10 @@ L'audit SEO est la première étape de toute stratégie d'Optimisation efficace,
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

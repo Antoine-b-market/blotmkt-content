@@ -27,8 +27,10 @@ related_articles:
 
 # La longue traîne en SEO : le guide pour attirer un trafic ultra qualifié
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - La longue traîne désigne des mots-clés de 3 mots ou plus, spécifiques et peu concurrentiels qui représentent 
+<!-- speakable:end -->
 70% du trafic de recherche provient désormais d'expressions de longue traîne
 
 > - 
@@ -168,6 +170,10 @@ Utilisez Google Suggest et les PAA, exploitez des outils comme AnswerThePublic o
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

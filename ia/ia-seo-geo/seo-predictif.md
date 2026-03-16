@@ -27,8 +27,10 @@ related_articles:
 
 # SEO prédictif : anticipez l'avenir pour dominer les moteurs génératifs
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Le SEO prédictif utilise l'intelligence artificielle pour anticiper les changements d'Algorithmes des moteurs de recherche et les tendances de recherche futures
 
 > - 
@@ -219,6 +221,10 @@ Le GEO s'appuie sur les fondamentaux du SEO traditionnel, optimisant pour les me
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

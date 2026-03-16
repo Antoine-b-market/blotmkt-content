@@ -27,9 +27,11 @@ related_articles:
 
 # Rédaction SEO : transformez votre contenu en actif stratégique au Québec
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - La rédaction SEO diffère de la rédaction web classique par son focus sur la performance, l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) et l'autorité thématique basée sur E-E-A-T
 > - 
+<!-- speakable:end -->
 Le coût varie de 500$ à 1000$ par mois pour une prestation complète, avec un ROI mesurable grâce à un taux de conversion de 14,6% (9 fois supérieur au marketing sortant)
 
 > - Notre méthodologie intègre l'Optimisation pour le GEO (Generative Engine Optimization), préparant vos contenus aux moteurs de recherche conversationnels
@@ -162,6 +164,10 @@ L'Optimisation sémantique enrichit un contenu avec le vocabulaire et les concep
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

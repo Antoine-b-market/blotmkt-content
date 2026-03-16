@@ -27,9 +27,11 @@ related_articles:
 
 # Contenu evergreen : le pilier de votre stratégie SEO durable
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le contenu evergreen est un contenu pérenne qui reste pertinent dans le temps, contrairement au contenu d'actualité qui génère un pic de trafic éphémère puis retombe rapidement.
 > - 
+<!-- speakable:end -->
 Selon une étude de HubSpot, les articles evergreen génèrent en moyenne 90% du trafic d'un site web au fil du temps
 .
 > - La création d'un contenu evergreen performant repose sur quatre étapes : recherche de mots-clés intemporels, structuration approfondie, Optimisation multimédia et plan de maintenance régulier.
@@ -213,6 +215,10 @@ Programmez des révisions semestrielles pour actualiser les statistiques, exempl
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

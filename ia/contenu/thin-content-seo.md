@@ -27,11 +27,13 @@ related_articles:
 
 # Le thin content en seo : le guide pour l'identifier et le corriger avant la pénalité
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le thin Content désigne une page apportant peu de valeur utilisateur, avec moins de 300 mots et un taux d'unicité inférieur à 40%
 > - Les risques post-mise à jour "Scaled Content Abuse" incluent des pénalités manuelles et une dégradation algorithmique majeure
 > - L'audit méthodique utilise Screaming Frog pour identifier les pages <300 mots, puis Google Analytics pour Analyser l'engagement
 > - Trois stratégies efficaces : enrichir le contenu, consolider les pages similaires, ou supprimer/déindexer les pages sans valeur
+<!-- speakable:end -->
 
 Le contenu de faible qualité menace désormais directement votre visibilité SEO. 
 Depuis mars 2024, Google a réduit de 45% le contenu non-original dans ses résultats
@@ -196,6 +198,10 @@ Cette politique renforcée se concentre sur le comportement abusif de production
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/ia-seo-geo/provenance-des-donnees.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,19 +201,19 @@
     <div class="article-col">
       <article>
         <h1>Provenance des données : le signal de confiance pour l'E-E-A-T et les IA génératives</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>La provenance des données est la traçabilité complète d'une information depuis sa source originale, documentant ses transformations et son parcours pour établir sa fiabilité</li>
 <li>Les <a href="https://blotmkt.com/ia/definition/donnees-structurees.html">Données structurées</a> schema.org permettent d'implémenter la provenance via les propriétés <code>author</code>, <code>publisher</code> et <code>citation</code>, créant une chaîne de confiance vérifiable algorithmiquement</li>
 <li>La provenance devient un pilier fondamental de l'E-E-A-T en prouvant l'expertise et l'autorité des contenus, distinguant ainsi les sources authentiques du spam et des contenus générés sans supervision</li>
 </ul>
 </blockquote>
-<p>À l'ère de l'intelligence artificielle générative, distinguer l'information fiable du bruit numérique représente l'enjeu majeur des moteurs de recherche. 
+<p class="speakable-intro">À l'ère de l'intelligence artificielle générative, distinguer l'information fiable du bruit numérique représente l'enjeu majeur des moteurs de recherche. 
 L'IA générative y est explicitement mentionnée comme signal de qualité basse potentielle
  selon les dernières guidelines de Google. Face à cette prolifération de contenus artificiels, la provenance des données émerge comme le bouclier défensif ultime pour préserver la visibilité à long terme.</p>
 <hr />
-<h2>Qu'est-ce que la provenance des données : le pilier de la confiance numérique ?</h2>
+<h2 class="speakable">Qu'est-ce que la provenance des données : le pilier de la confiance numérique ?</h2>
 <p>La provenance des données, ou 'data lineage', constitue la documentation exhaustive traçant l'origine d'une donnée, ses différentes transformations et son parcours complet. C'est véritablement sa 'carte d'identité' numérique qui permet d'établir sa légitimité.</p>
 <p>Pour Google, cette traçabilité aide à évaluer la fiabilité d'une source, élément central du pilier 'Trustworthiness' de l'E-E-A-T. 
 L'EEAT représente des critères destinés à définir si les Contenus positionnés sont utiles et pertinents pour les utilisateurs, mettant en avant Experience, Expertise, Authoritativeness et Trustworthiness
@@ -212,7 +222,7 @@ L'EEAT représente des critères destinés à définir si les Contenus positionn
 <p>La provenance claire des données d'entraînement permet de réduire les 'hallucinations' des LLMs, d'attribuer correctement les sources et d'offrir des réponses plus fiables aux utilisateurs. 
 ChatGPT Search et Perplexity puisent massivement dans les Contenus structurés pour générer leurs synthèses
 , rendant cette traçabilité cruciale pour l'Optimisation GEO (Generative Engine Optimization).</p>
-<h2>Implémenter la provenance avec schema.org : un guide pratique</h2>
+<h2 class="speakable">Implémenter la provenance avec schema.org : un guide pratique</h2>
 <h3>Propriétés d'entité essentielles</h3>
 <p>Article Schema permet de préciser l'auteur, la date de publication, la date de modification, l'organisation éditrice, et l'image principale. Ces informations aident Google à évaluer la fraîcheur et la provenance du contenu
 . Implémentez des Balises <a href="https://blotmkt.com/ia/definition/schema.org.html">Schema.org</a> précises comme <code>author</code> et <code>publisher</code> pour identifier clairement les créateurs du contenu.</p>
@@ -223,7 +233,7 @@ ORCID est une organisation mondiale à but non lucratif qui fournit aux chercheu
 . 
 Zenodo permet le dépôt et le partage des produits de la recherche dans une grande variété de formats avec Attribution d'un identifiant pérenne (DOI)
 .</p>
-<h2>Cas d'usage : de la publication scientifique aux résultats enrichis</h2>
+<h2 class="speakable">Cas d'usage : de la publication scientifique aux résultats enrichis</h2>
 <h3>Contenu éditorial et articles</h3>
 <p>Associez chaque article à son auteur via un profil détaillé (type <code>Person</code>) lié à ses publications ORCID et réseaux professionnels. 
 Les pages démontrant une expérience concrète affichent un taux de clic supérieur de 23% à la moyenne, se matérialisant par des témoignages personnels, des captures d'écran originales et des données exclusives
@@ -234,7 +244,7 @@ Les données internes Trustpilot montrent une corrélation positive entre signau
 .</p>
 <h3>Données et études</h3>
 <p>Pour la publication de recherches, utilisez le type <code>Dataset</code> et citez les sources de données brutes. Mentionner l'auteur via son identifiant Zenodo ou ORCID renforce la crédibilité scientifique et facilite l'intégration automatique dans les profils de recherche.</p>
-<h2>L'impact de la provenance sur l'E-E-A-T et la lutte anti-spam</h2>
+<h2 class="speakable">L'impact de la provenance sur l'E-E-A-T et la lutte anti-spam</h2>
 <h3>Signal de confiance majeur</h3>
 <p>Les sites ayant renforcé leur E-E-A-T entre janvier 2024 et juin 2025 enregistrent une progression moyenne de +34% de leur visibilité organique, tandis que les domaines présentant des signaux E-E-A-T faibles subissent une baisse moyenne de -28%
 .</p>
@@ -244,7 +254,7 @@ Les données internes Trustpilot montrent une corrélation positive entre signau
 L'IA peut compiler de l'expertise à partir de sources existantes, mais elle ne peut pas avoir vécu une crise, testé un produit physiquement, ou géré un projet sur le terrain
 .</p>
 <hr />
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Comment Google vérifie-t-il la source d'une information ?</h3>
 <p>Google utilise les données structurées [Schema.org et les signaux E-E-A-T pour évaluer la provenance. Les propriétés comme <code>author</code>, <code>publisher</code> et <code>citation</code> créent une chaîne de confiance algorithmique vérifiable.</p>
 <h3>Est-ce que les LLMs tiennent compte de la provenance des données ?</h3>

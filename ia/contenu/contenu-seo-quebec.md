@@ -27,12 +27,14 @@ related_articles:
 
 # Le contenu SEO au Québec : une approche optimisée pour Google et les réponses génératives
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le contenu SEO au Québec doit intégrer les spécificités linguistiques québécoises et répondre aux intentions de recherche locales
 > - Le GEO (Generative Engine Optimization) complète le SEO en optimisant le contenu pour être cité par les IA comme ChatGPT et Google SGE
 > - Une stratégie efficace combine recherche de mots-clés, création de piliers de contenu et optimisation technique pour une autorité thématique
 > - L'investissement dans le contenu SEO varie de 300 $ à 3 500 $ par mois selon le secteur et les objectifs
 > - Les Contenus performants incluent les articles experts, pages de services localisées et guides comparatifs
+<!-- speakable:end -->
 
 68% des expériences en ligne commencent par un moteur de recherche
  et 
@@ -187,6 +189,10 @@ Le SEO optimise pour les classements Google traditionnels, le GEO structure le c
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

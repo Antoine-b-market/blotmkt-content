@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/audit/pagination-seo.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,8 +201,8 @@
     <div class="article-col">
       <article>
         <h1>Pagination SEO : le guide des bonnes pratiques pour ne pas pénaliser votre site</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>La pagination SEO consiste à diviser un contenu volumineux en une série de pages séquentielles reliées entre elles ; mal gérée, elle génère du contenu dupliqué, dilue l'autorité et épuise le <a href="https://blotmkt.com/ia/audit/budget-de-crawl.html">Budget de crawl</a>.</li>
 <li>Les meilleures pratiques techniques reposent sur des balises <code>&amp;lt;a href&gt;</code> crawlables, des canoniques auto-référencées par page et l'absence de blocage via robots.txt ou noindex.</li>
@@ -200,9 +210,9 @@
 <li>Un budget de crawl bien géré grâce à une pagination structurée guide Googlebot vers les pages à haute valeur, améliorant l'indexation et le ROI SEO à long terme.</li>
 </ul>
 </blockquote>
-<p>Votre site e-commerce compte des milliers de produits, votre blog affiche des centaines d'articles, et pourtant Google en ignore une large partie. Le problème est souvent invisible : une pagination mal configurée. Elle crée du contenu dupliqué, disperse l'autorité et gaspille un budget de crawl déjà limité. Résultat : vos pages stratégiques ne sont jamais indexées. Ce guide vous donne les clés techniques et éditoriales pour transformer votre pagination en levier SEO, et non en frein.</p>
+<p class="speakable-intro">Votre site e-commerce compte des milliers de produits, votre blog affiche des centaines d'articles, et pourtant Google en ignore une large partie. Le problème est souvent invisible : une pagination mal configurée. Elle crée du contenu dupliqué, disperse l'autorité et gaspille un budget de crawl déjà limité. Résultat : vos pages stratégiques ne sont jamais indexées. Ce guide vous donne les clés techniques et éditoriales pour transformer votre pagination en levier SEO, et non en frein.</p>
 <hr />
-<h2>Comprendre la pagination SEO : définition et enjeux stratégiques</h2>
+<h2 class="speakable">Comprendre la pagination SEO : définition et enjeux stratégiques</h2>
 <p>La pagination est un dispositif technique qui divise un contenu en plusieurs pages tout en maintenant une cohérence thématique avec la page principale. Elle est couramment utilisée sur les pages de catégories e-commerce, les archives de blogs et les fils de forums.</p>
 <p>Ses enjeux sont doubles. D'un côté, 
 une pagination bien mise en œuvre améliore le SEO en aidant les moteurs de recherche à crawler et indexer le site plus efficacement, en organisant de grands ensembles de contenu en pages plus petites et reliées, et en garantissant une meilleure navigation pour les utilisateurs.</p>
@@ -213,7 +223,7 @@ les problèmes de pagination impactent des éléments cruciaux comme la découvr
  Sur les grands sites, 
 la question du budget de crawl doit jouer un rôle dans la réflexion autour de l'indexation des variantes paginées.</p>
 <hr />
-<h2>Les meilleures pratiques techniques pour une pagination optimisée</h2>
+<h2 class="speakable">Les meilleures pratiques techniques pour une pagination optimisée</h2>
 <p>Google recommandait auparavant d'utiliser les balises rel=prev/next pour indiquer les séquences paginées, mais en 2019, il a confirmé qu'il avait ignoré ces balises pendant des années. Désormais, les algorithmes de Google reconnaissent automatiquement les structures de pagination.
  Ces balises sont donc obsolètes pour Google : concentrez-vous sur les signaux actuels.</p>
 <p>Le premier signal est la crawlabilité des liens. 
@@ -224,7 +234,7 @@ chaque page paginée doit disposer d'une balise canonique auto-référencée poi
  Enfin, ne bloquez jamais vos pages paginées. 
 Appliquer un noindex sur des pages paginées semble une bonne idée pour éviter le contenu dupliqué ou économiser le budget de crawl, mais cela fait souvent plus de mal que de bien. Si des produits ou des articles importants se trouvent sur des pages paginées plus profondes, ils risquent de ne jamais être découverts ni indexés.</p>
 <hr />
-<h2>Pagination, scroll infini ou "Voir plus" : quelle est la meilleure option SEO ?</h2>
+<h2 class="speakable">Pagination, scroll infini ou "Voir plus" : quelle est la meilleure option SEO ?</h2>
 <p>Les moteurs de recherche ne "scrollent" pas : ils suivent des liens pour crawler et indexer le contenu. C'est ce qui rend la pagination et le scroll infini fondamentalement différents dans leur manière de servir le SEO.</p>
 <p>La pagination classique reste la plus simple à crawler. 
 La pagination est généralement considérée comme plus fiable pour le SEO, car elle crée des URLs statiques qui facilitent l'exploration, l'indexation et le classement des pages individuelles par les moteurs de recherche.</p>
@@ -235,7 +245,7 @@ il est très similaire au scroll infini. La différence principale réside dans 
 <p>Selon Antoine BLOT, Expert SEO et marketing à Montréal, pour les sites e-commerce, une pagination claire garantit que chaque fiche produit est accessible en quelques clics depuis la page de catégorie, ce qui est fondamental pour l'indexation. Un scroll infini sans fallback HTML revient à rendre invisible une partie de votre catalogue aux yeux de Google.</p>
 <p>Le scroll infini n'est pas un mauvais choix pour le SEO en soi : tout dépend de l'exécution. Lorsqu'il est configuré correctement, avec du lazy loading et une logique push-state, notamment grâce à des snapshots HTML, le scroll infini peut être parfaitement géré du point de vue des robots.</p>
 <hr />
-<h2>Impact sur le budget de crawl et le retour sur investissement SEO</h2>
+<h2 class="speakable">Impact sur le budget de crawl et le retour sur investissement SEO</h2>
 <p>Les moteurs de recherche allouent un nombre spécifique de pages qu'ils vont crawler sur un site dans une période donnée : c'est le budget de crawl. Une pagination efficace garantit que ce budget est utilisé judicieusement, en se concentrant sur les pages importantes plutôt que sur les doublons. À l'inverse, une pagination mal gérée peut épuiser ce budget sur des pages à faible valeur, laissant du contenu critique inexploré.</p>
 <p>Un cas concret illustre ce gaspillage : 
 un grand site e-commerce peut avoir des pages et des pages d'avis produits pour un seul article, en plus des pages de listing produits. Mais il peut ne pas avoir le budget de crawl pour les deux. Dans ce cas, il faut prioriser : il est plus pertinent, d'un point de vue business et SEO, de s'assurer que Google crawle les liens des pages de listing produits afin de découvrir les produits et transmettre le PageRank.</p>
@@ -244,7 +254,7 @@ un grand site e-commerce peut avoir des pages et des pages d'avis produits pour 
 une structure de pagination correcte améliore la compréhension par les moteurs de recherche des relations entre les pages, garantissant un crawl et une indexation plus fluides.</p>
 <p>Il est recommandé d'exclure les URLs paginées profondes du sitemap XML afin de préserver le budget de crawl pour les pages à plus haute valeur, comme les fiches produits ou les contenus piliers.</p>
 <hr />
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Faut-il utiliser noindex sur les pages paginées ?</h3>
 <p>Appliquer un noindex sur les pages paginées semble intuitif pour éviter le contenu dupliqué, mais c'est souvent contre-productif. Les moteurs de recherche finissent par cesser de les crawler, ce qui peut empêcher l'indexation de produits ou d'articles situés en profondeur. Cela brise aussi la chaîne de liens internes, rendant les pages encore plus difficiles à atteindre.
  Sauf si une page paginée n'a aucune valeur unique, elle doit rester indexable.</p>

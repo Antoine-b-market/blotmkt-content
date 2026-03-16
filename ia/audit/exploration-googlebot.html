@@ -178,6 +178,16 @@
       }
     },
     {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/audit/exploration-googlebot.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
+    },
+    {
       "@type": "FAQPage",
       "@id": "https://blotmkt.com/ia/audit/exploration-googlebot.html#faq",
       "mainEntity": [
@@ -213,8 +223,8 @@
     <div class="article-col">
       <article>
         <h1>Exploration Googlebot : le guide complet pour optimiser votre budget de crawl</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>L'exploration Googlebot est un processus algorithmique où le robot de Google découvre et Analyse les pages web en suivant les liens et utilisant les sitemaps, géré par un <a href="https://blotmkt.com/ia/audit/budget-de-crawl.html">Budget de crawl</a> déterminé par la popularité du site et sa santé technique</li>
 <li>L'optimisation du budget de crawl consiste à améliorer la <a href="https://blotmkt.com/ia/audit/vitesse-de-chargement.html">Vitesse de chargement</a>, éliminer le contenu dupliqué avec les balises canoniques et corriger les erreurs techniques pour maximiser le nombre de pages importantes explorées</li>
@@ -222,12 +232,12 @@
 <li>Le diagnostic d'Erreurs d'exploration s'effectue via le rapport Couverture dans Search Console, identifiant les erreurs 404, 5xx et blocages robots.txt, nécessitant des corrections de liens et optimisations serveur</li>
 </ul>
 </blockquote>
-<p>Googlebot joue un rôle crucial dans la compréhension du paysage internet par Google, scannant continuellement des millions de domaines
+<p class="speakable-intro">Googlebot joue un rôle crucial dans la compréhension du paysage internet par Google, scannant continuellement des millions de domaines
 . Pourtant, de nombreux propriétaires de sites ignorent comment ce robot fonctionne et comment optimiser leur Budget de crawl. Cette méconnaissance peut limiter considérablement la visibilité de leur contenu, même avec d'excellentes pages et une stratégie SEO solide. 
 Le budget de crawl représente l'ensemble des URL que Google peut et veut explorer sur votre site
 , déterminant directement quelles pages seront découvertes et indexées.</p>
 <hr />
-<h2>Comprendre le processus d'exploration de Googlebot</h2>
+<h2 class="speakable">Comprendre le processus d'exploration de Googlebot</h2>
 <p>Googlebot est le robot d'exploration automatisé de Google, un programme logiciel qui découvre, récupère et traite systématiquement les pages web sur internet pour construire et mettre à jour continuellement la base de données consultable de Google, appelée l'index
 . 
 Le processus d'exploration consiste à découvrir de nouvelles pages web et à revisiter celles mises à jour, en téléchargeant leur contenu. Googlebot obtient une URL, effectue une requête HTTP au serveur qui l'héberge, puis traite la réponse de ce serveur
@@ -241,7 +251,7 @@ Pour éviter de surcharger les serveurs, Googlebot calcule une limite de capacit
 <h3>La gestion intelligente des ressources</h3>
 <p>La plupart des sites ne voient que quelques milliers d'explorations quotidiennes, et le volume de requêtes de Googlebot dans un laps de temps donné peut être mesuré en requêtes par seconde ou en explorations quotidiennes consultables dans les rapports d'exploration de Google Search Console
 . Cette approche équilibrée permet à Google de maintenir la fraîcheur de son index tout en respectant les infraStructures des sites web.</p>
-<h2>Optimiser son budget de crawl : stratégies et bonnes pratiques</h2>
+<h2 class="speakable">Optimiser son budget de crawl : stratégies et bonnes pratiques</h2>
 <p>L'Optimisation du budget de crawl vise à augmenter le nombre de pages que Google explore à chaque visite de votre site
 . Cette démarche devient critique pour les sites de moyenne et grande taille. 
 Si Google explore seulement 2 500 pages lors de sa visite alors que votre site en compte 10 000, cela signifie qu'environ 7 500 pages passent à côté des bénéfices SEO simplement parce que Googlebot ne les a pas encore explorées
@@ -255,7 +265,7 @@ Une stratégie efficace consiste à retourner un code de statut 404 ou 410 pour 
 <h3>Élimination des goulets d'étranglement techniques</h3>
 <p>Plusieurs configurations de site peuvent drainer le budget de crawl en obligeant Googlebot à dépenser ses ressources sur des pages de faible valeur ou dupliquées : l'inflation des paramètres URL, notamment la navigation à facettes, les ID de session, les paramètres de tri et de filtrage peuvent créer des milliers d'URL uniques pointant vers un Contenu quasi-identique, particulièrement problématique pour les sites e-commerce
 . La correction de ces aspects techniques libère des ressources pour l'exploration des pages stratégiques.</p>
-<h2>Piloter Googlebot : le rôle de robots.txt, sitemaps et Search Console</h2>
+<h2 class="speakable">Piloter Googlebot : le rôle de robots.txt, sitemaps et Search Console</h2>
 <p>Le fichier robots.txt permet de contrôler quels fichiers les robots d'exploration peuvent accéder sur votre site, c'est un fichier texte simple qui respecte le standard d'exclusion des robots
 . 
 Robots.txt est un fichier texte placé dans le répertoire racine de votre site qui indique aux robots d'exploration des Moteurs de recherche quelles pages ou sections ils sont autorisés à accéder, comme des panneaux "Défense d'entrer" pour des zones spécifiques
@@ -273,7 +283,7 @@ Le rapport Statistiques d'exploration montre quand Google a rencontré des probl
 , ce qui permet d'utiliser robots.txt pour guider efficacement Googlebot sans gaspiller de ressources. 
 En incluant votre sitemap dans le fichier robots.txt, vous guidez les moteurs de recherche vers les bons endroits grâce au système de découverte automatique des sitemaps introduit en avril 2007, ce qui signifie que même si vous ne soumettez pas le sitemap aux moteurs de recherche individuels, ils trouvent l'emplacement du sitemap dans votre fichier robots.txt
 .</p>
-<h2>Diagnostiquer et résoudre les erreurs d'exploration</h2>
+<h2 class="speakable">Diagnostiquer et résoudre les erreurs d'exploration</h2>
 <p>Pour diagnostiquer les problèmes d'exploration, vérifiez si Googlebot rencontre des problèmes de disponibilité sur votre site, si vous avez des pages qui ne sont pas explorées mais devraient l'être, et si certaines parties de votre site doivent être explorées plus rapidement
 . 
 Les erreurs serveur (5XX) génèrent des avertissements de disponibilité et doivent être corrigées dans la mesure du possible, le graphique miniature indiquant à quel moment ces erreurs se sont produites
@@ -287,7 +297,7 @@ La méthode de validation consiste à effectuer une recherche DNS inversée sur 
 <h3>Méthodes de résolution systémique</h3>
 <p>Si Googlebot consacre l'essentiel de son budget d'exploration à des pages supprimées, il risque de négliger les nouveaux contenus ou pages stratégiques, pouvant entraîner une baisse de visibilité globale. Lorsqu'un robot consacre trop de ressources à explorer des pages indisponibles, il en consacre moins aux pages stratégiques à indexer
 . La surveillance continue via Google Search Console et l'analyse des logs serveur permettent d'identifier rapidement ces problématiques et d'ajuster la stratégie d'exploration.</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Comment savoir si Googlebot a exploré mon site ?</h3>
 <p>Vous pouvez inspecter les logs de votre site pour voir si des URL spécifiques ont été explorées par Googlebot, bien que Search) Console ne fournisse pas d'historique d'exploration filtrable par URL ou chemin
 . Le rapport Statistiques d'exploration dans Search Console indique également l'activité récente.</p>

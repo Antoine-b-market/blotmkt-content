@@ -27,11 +27,13 @@ related_articles:
 
 # Search Generative Experience (SGE) : le guide complet pour l'optimisation SEO à l'ère de l'IA
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - La Search Generative Experience (SGE) est une surcouche d'IA intégrée à Google qui génère des réponses synthétiques (AI Overviews) en haut des SERPs, analysant plusieurs sources pour répondre aux requêtes complexes
 > - Le passage du SEO traditionnel à la GEO (Generative Engine Optimization) nécessite d'optimiser pour devenir une source fiable citée par l'IA plutôt que de se concentrer uniquement sur le classement des mots-clés
 > - Pour optimiser votre contenu pour la SGE, adoptez un style conversationnel, structurez avec des données sémantiques, renforcez l'E-E-A-T et ciblez les requêtes YMYL avec une expertise démontrée
 > - La SGE impacte le trafic organique avec une baisse des clics (jusqu'à 34,5% pour certaines requêtes) mais offre l'opportunité de renforcer l'autorité de marque en étant cité comme source de référence
+<!-- speakable:end -->
 
 L'intelligence artificielle transforme radicalement l'écosystème de la recherche en ligne. 
 Google affiche un élément Search Generative pour 86,83 % de toutes les requêtes de recherche
@@ -212,6 +214,10 @@ Les Mots-clés comptent encore. Mais ils ne sont qu'une entrée dans un système
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

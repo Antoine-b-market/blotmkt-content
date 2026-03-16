@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/audit/hreflang.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,11 +201,11 @@
     <div class="article-col">
       <article>
         <h1>Comprendre et implémenter l'attribut hreflang pour un SEO international optimal</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>
-<p>L'attribut hreflang est un signal qui aide Google à comprendre la relation entre les pages internationales et la version la plus pertinente selon la langue et/ou la localisation de l'utilisateur</p>
+<p class="speakable-intro">L'attribut hreflang est un signal qui aide Google à comprendre la relation entre les pages internationales et la version la plus pertinente selon la langue et/ou la localisation de l'utilisateur</p>
 </li>
 <li>
 <p>Implémentez la Balise hreflang dans le &lt;head&gt; de chaque page et de chaque version linguistique alternative de cette page</p>
@@ -213,14 +223,14 @@
 </blockquote>
 <p>Face aux enjeux de l'expansion internationale digitale, de nombreuses entreprises voient leurs efforts d'internationalisation compromis par une mauvaise gestion technique. L'attribut hreflang représente pourtant la solution clé pour guider Google vers la bonne version de votre contenu selon l'audience cible. Une implémentation défaillante peut fragmenter votre visibilité globale et diluer vos investissements marketing. Ce guide vous accompagne vers une maîtrise complète de l'hreflang pour optimiser votre performance SEO internationale.</p>
 <hr />
-<h2>Qu'est-ce que l'attribut hreflang et pourquoi est-il essentiel pour le SEO international ?</h2>
+<h2 class="speakable">Qu'est-ce que l'attribut hreflang et pourquoi est-il essentiel pour le SEO international ?</h2>
 <p>L'attribut hreflang est un signal qui aide Google à comprendre la relation entre les pages internationales et quelle version de votre page est la plus pertinente pour un utilisateur basé sur sa langue et/ou sa localisation
 . Contrairement à la balise <code>lang</code> HTML qui ne fait que déclarer la langue du Contenu, l'hreflang agit comme un guide stratégique pour les moteurs de recherche.</p>
 <p>L'hreflang est un attribut HTML qui aide Google décider quelle page doit être montrée et à qui la montrer. Les annotations hreflang visent à croiser-référencer des pages similaires en contenu, mais qui ciblent différentes audiences selon leur langue et/ou pays
 . Cette distinction est fondamentale : là où les Redirections IP géolocalisées peuvent nuire au SEO et frustrer les utilisateurs, l'hreflang offre une solution élégante et respectueuse.</p>
 <p>Si vous avez du Contenu similaire sur différentes pages web mais dans différentes langues, les balises hreflang peuvent aider les moteurs de recherche à les reconnaître comme des variations et éviter de pénaliser votre site web pour du contenu dupliqué
 . Cette capacité de consolidation des signaux SEO représente un avantage concurrentiel majeur pour les sites multilingues.</p>
-<h2>Comment implémenter correctement l'attribut hreflang sur votre site web : méthodes et syntaxe ?</h2>
+<h2 class="speakable">Comment implémenter correctement l'attribut hreflang sur votre site web : méthodes et syntaxe ?</h2>
 <p>L'implémentation de l'hreflang suit trois approches principales. 
 La plus commune consiste à ajouter le code hreflang dans la section &lt;head&gt; de chaque page web, spécifiant la langue et tout ciblage régional
 . Pour les sites à Contenu non-HTML comme les PDF, 
@@ -231,7 +241,7 @@ utilisez les codes ISO 639-1 corrects pour la langue et optionnellement les code
 . Cette précision technique conditionne l'efficacité de votre stratégie internationale.</p>
 <p>Incluez toujours une balise hreflang x-default pour définir une version de secours pour les utilisateurs non appariés
 . Cette balise critique guide Google vers votre page par défaut lorsqu'aucune correspondance linguistique ou régionale spécifique n'est trouvée, évitant les erreurs d'affichage.</p>
-<h2>Erreurs courantes d'implémentation et quand considérer des alternatives techniques ?</h2>
+<h2 class="speakable">Erreurs courantes d'implémentation et quand considérer des alternatives techniques ?</h2>
 <p>Les balises hreflang ne sont pas des annotations à sens unique. Pour que votre SEO international fonctionne, chaque fois qu'une version d'une page pointe vers une alternative, cette alternative doit pointer en retour. Si vous manquez ce "lien de retour", Google peut ignorer la déclaration hreflang
 . Cette réciprocité représente l'erreur la plus fréquente et la plus coûteuse.</p>
 <p>Utiliser "en-UK" au lieu du correct "en-GB" suffit à invalider votre signal. Les codes mal appliqués ou incohérents restent un problème répandu
@@ -241,7 +251,7 @@ utilisez les codes ISO 639-1 corrects pour la langue et optionnellement les code
 <p>Concernant les alternatives, 
 bien que Google n'utilise pas les Redirections basées sur IP pour le classement, il se fie aux indices structurels
 . Les redirections géolocalisées restent déconseillées pour le SEO, privilégiez plutôt une combinaison hreflang et ciblage géographique via Google Search Console.</p>
-<h2>Quels sont les bénéfices concrets de l'hreflang pour le SEO et comment mesurer son ROI ?</h2>
+<h2 class="speakable">Quels sont les bénéfices concrets de l'hreflang pour le SEO et comment mesurer son ROI ?</h2>
 <p>Les statistiques préliminaires suggèrent une augmentation considérable de l'engagement utilisateur pour les sites ayant rapidement adopté les nouveaux protocoles hreflang. Les sites qui ont négligé ces mises à jour voient déjà une baisse du trafic international
 . Cette donnée de 2024 confirme l'impact direct sur les performances.</p>
 <p>Une étude a révélé que les sites ayant corrigé les erreurs hreflang avec l'aide d'outils de validation ont vu une augmentation du trafic international en moyenne de 15,7%
@@ -251,7 +261,7 @@ bien que Google n'utilise pas les Redirections basées sur IP pour le classement
 <p>Pour mesurer le ROI, 
 vous pouvez surveiller l'utilisation et les erreurs de jusqu'à 1000 balises hreflang sur votre site via le rapport de ciblage international de Google
 . Cette surveillance systématique permet d'identifier rapidement les opportunités d'Optimisation et les dysfonctionnements.</p>
-<h2>Comment hreflang s'intègre-t-il dans une stratégie SEO internationale globale avec d'autres signaux ?</h2>
+<h2 class="speakable">Comment hreflang s'intègre-t-il dans une stratégie SEO internationale globale avec d'autres signaux ?</h2>
 <p>L'équité des liens circule entre les variantes hreflang, pas vers elles : les backlinks vers toute variante hreflang bénéficient à toutes les variantes du cluster grâce aux signaux consolidés. Vous n'avez pas besoin de construire des liens vers chaque version linguistique séparément
 . Cette synergie multiplie l'impact de vos efforts de netlinking.</p>
 <p>Les domaines ccTLD signalent le ciblage par pays le plus clairement : les domaines de premier niveau de code pays (ex : .de, .fr, .jp) envoient le signal de géociblage le plus fort à Google. Les sous-répertoires sur un domaine unique (/de/, /fr/) sont la deuxième meilleure option et préférés pour la consolidation d'autorité SEO
@@ -260,7 +270,7 @@ vous pouvez surveiller l'utilisation et les erreurs de jusqu'à 1000 balises hre
 Le ROI du SEO international se développe sur 12-24 mois : contrairement à la recherche payante qui s'arrête quand le Budget s'arrête, les classements internationaux organiques continuent à générer du trafic indéfiniment. Les entreprises ciblant 3+ marchés internationaux voient 40-60% de leur trafic organique provenir de marchés non-primaires en 18 mois
 .</p>
 <hr />
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>L'hreflang est-il obligatoire pour un site multilingue ?</h3>
 <p>L'hreflang n'est pas techniquement obligatoire mais reste essentiel pour éviter la cannibalisation entre versions linguistiques et assurer une visibilité optimale sur chaque marché cible.</p>
 <h3>Comment choisir entre hreflang et les redirections IP géolocalisées ?</h3>

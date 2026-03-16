@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/definition/schema.org.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,8 +201,8 @@
     <div class="article-col">
       <article>
         <h1>Schema.org : le guide pratique pour booster votre SEO avec les données structurées</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li><strong>Schema.org est un vocabulaire de balises sémantiques</strong> que les webmasters ajoutent à leur HTML pour aider Google à comprendre le contenu et obtenir des rich snippets qui augmentent le taux de clics</li>
 <li><strong>JSON-LD est le format recommandé par Google</strong> car il sépare les données de la structure HTML, simplifie la maintenance et réduit les Erreurs comparé aux microdonnées intégrées dans le HTML</li>
@@ -200,13 +210,13 @@
 <li><strong>Privilégiez Product, localBusiness, Article et BreadcrumbList</strong> tout en évitant HowTo (déprécié depuis septembre 2023) et FAQPage (restreint aux sites gouvernementaux/santé depuis 2023)</li>
 </ul>
 </blockquote>
-<p>Schema.org représente aujourd'hui un pilier incontournable du SEO technique. Pourtant, 
+<p class="speakable-intro">Schema.org représente aujourd'hui un pilier incontournable du SEO technique. Pourtant, 
 seuls 30% des pages web utilisent Schema.org pour le balisage
 , créant une opportunité significative pour les sites qui l'implémentent correctement. Les enjeux sont considérables : 
 les utilisateurs cliquent sur les résultats enrichis 58% du temps contre 41% pour les résultats classiques
 . Ce guide vous révèle comment maîtriser Schema.org pour transformer vos listings de recherche en extraits attractifs qui captent l'attention et boostent votre Visibilité.</p>
 <hr />
-<h2>Qu'est-ce que Schema.org : un langage commun pour les moteurs de recherche</h2>
+<h2 class="speakable">Qu'est-ce que Schema.org : un langage commun pour les moteurs de recherche</h2>
 <p>Schema.org est un vocabulaire structuré créé en 2011 par Google, Yahoo, Bing et Yandex pour établir une cohérence des <a href="https://blotmkt.com/ia/definition/donnees-structurees.html">Données structurées</a> sur internet
 . Ce projet indépendant fonctionne comme un dictionnaire universel que les webmasters utilisent pour décrire le contenu de leurs pages web de manière non ambiguë.</p>
 <p>Concrètement, Schema.org permet d'indiquer aux Moteurs de recherche qu'une information spécifique correspond à un prix, une note d'évaluation, une adresse ou tout autre élément défini dans leur vocabulaire. 
@@ -220,7 +230,7 @@ En aidant les moteurs de recherche à comprendre le Contenu, vous leur permettez
  (Source : Search)metrics, 2024). Plus important encore, 
 l'adoption des Données structurées JSON-LD sur mobile est passée de 37% en 2022 à 43% en 2024
 , confirmant la tendance croissante vers cette technologie.</p>
-<h2>JSON-LD : le format de balisage recommandé par Google</h2>
+<h2 class="speakable">JSON-LD : le format de balisage recommandé par Google</h2>
 <p>Les trois formats disponibles pour implémenter Schema.org sont les microdonnées (intégrées dans le HTML), RDFa (Resource Description Framework in Attributes) et JSON-LD (JavaScript Object Notation for Linked Data). 
 Google recommande explicitement JSON-LD comme format préféré pour les données structurées
 .</p>
@@ -233,7 +243,7 @@ les erreurs de données structurées chutent de 90% lors du passage des microdon
 . De plus, 
 les scripts JSON-LD peuvent être ajoutés à une page de manière à être templateisés dans un site web, facilitant l'ajout, la mise à jour et la suppression
 .</p>
-<h2>Implémenter et valider son balisage Schema.org : la méthode pratique</h2>
+<h2 class="speakable">Implémenter et valider son balisage Schema.org : la méthode pratique</h2>
 <p>L'implémentation réussie de Schema.org suit un processus structuré en trois étapes essentielles qui garantit une compatibilité optimale avec les moteurs de recherche.</p>
 <p><strong>Étape 1 - Identification du schéma approprié</strong> : Analysez le contenu de votre page et identifiez le type principal (article, produit, entreprise locale, événement). 
 Consultez Schema.org pour trouver le schéma le plus pertinent pour votre site web
@@ -246,7 +256,7 @@ Utilisez la plateforme dédiée de Google pour prévisualiser et tester, et Anal
 . 
 Les rapports de résultats enrichis de Google Search Console se mettent à jour lorsque Googlebot explore et retraite ces pages, avec généralement 1-4 semaines pour la plupart des pages et quelques jours pour les pages prioritaires
 .</p>
-<h2>Les schémas à prioriser et ceux à éviter absolument</h2>
+<h2 class="speakable">Les schémas à prioriser et ceux à éviter absolument</h2>
 <p>La stratégie Schema.org 2025 doit tenir compte des récentes évolutions de Google concernant la prise en charge des différents types de balisage.</p>
 <h3>Schémas à fort impact ROI</h3>
 <p>Pour les sites e-commerce, le schéma Product peut aider à connecter les points entre votre marque et vos produits, incluant un élément d'évaluation
@@ -261,7 +271,7 @@ les résultats enrichis FAQ ne seront désormais affichés que pour les sites go
 . 
 Google a également précisé que le balisage FAQPage ne doit jamais être utilisé à des fins publicitaires ou promotionnelles et appartient uniquement aux véritables pages FAQ créées pour répondre aux questions des utilisateurs
 .</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Comment savoir si un site utilise Schema.org ?</h3>
 <p>Utilisez l'outil de test des résultats enrichis de Google ou inspectez le code source pour rechercher des balises <code>&amp;lt;script type="application/ld+json"&gt;</code>. Les outils comme Screaming Frog permettent également d'Auditer l'ensemble d'un site pour détecter les données structurées existantes.</p>
 <h3>Quel est l'impact de Schema.org sur le classement SEO ?</h3>

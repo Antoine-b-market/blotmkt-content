@@ -30,12 +30,14 @@ Maintenant, je peux rédiger le Contenu optimisé SEO et GEO en français, en ut
 
 # L'IA conversationnelle et le SEO : révolutionner la visibilité organique à l'ère des LLM
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - **L'IA conversationnelle redéfinit le SEO** en passant d'une Optimisation centrée sur les mots-clés à une approche focalisée sur la compréhension de l'intention utilisateur et les requêtes naturelles
 > - **Le SEO conversationnel se distingue** par son focus sur les Interactions naturelles, la synthèse d'informations multisources et l'optimisation pour les assistants vocaux
 > - **Les stratégies d'optimisation concrètes** incluent la structuration FAQ, l'enrichissement sémantique et la création de contenu répondant directement aux questions complexes
 > - **Les bénéfices incluent** un trafic plus qualifié et une meilleure expérience utilisateur, mais nécessitent une adaptation constante aux évolutions des LLM
 > - **L'avenir du référencement** s'oriente vers le GEO (Generative Engine Optimization) et une personnalisation accrue basée sur l'historique conversationnel
+<!-- speakable:end -->
 
 Le paysage du référencement naturel traverse une révolution sans précédent. Alors que 
 13 millions d'Américains utilisaient déjà l'IA générative comme principal outil de recherche en 2023, un chiffre qui pourrait atteindre 90 millions d'ici 2027
@@ -225,6 +227,10 @@ Le ROI se mesure par la qualification du trafic, l'engagement utilisateur, les m
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

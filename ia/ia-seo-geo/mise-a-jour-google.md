@@ -27,11 +27,13 @@ related_articles:
 
 # Mise à jour Google : le guide complet pour comprendre et s'adapter
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Une mise à jour Google est une modification des systèmes de classement pour améliorer la pertinence et la qualité des résultats de recherche
 > - Les Core Updates réévaluent globalement la qualité des sites, tandis que les mises à jour ciblées adressent des problèmes spécifiques (spam, contenu utile)
 > - Face à une baisse de trafic, attendez la fin du déploiement puis Analysez via Google Search Console sans changer drastiquement votre stratégie
 > - Modifier artificiellement les dates sans améliorer réellement le Contenu ne fonctionne pas et peut être pénalisé par Google
+<!-- speakable:end -->
 
 Chaque année, Google déploie des centaines de mises à jour qui peuvent bouleverser votre visibilité en ligne. Ces changements suscitent souvent l'inquiétude des propriétaires de sites qui voient leur trafic fluctuer du jour au lendemain. Mais plutôt que de paniquer, comprendre la logique derrière ces évolutions vous permettra de construire une [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) durable et résiliente.
 
@@ -196,6 +198,10 @@ La December 2025 Core Update a été lancée le 11 décembre 2025, avec un dépl
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

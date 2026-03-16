@@ -26,11 +26,13 @@ related_articles:
 
 # Pagination SEO : le guide des bonnes pratiques pour ne pas pénaliser votre site
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - La pagination SEO consiste à diviser un contenu volumineux en une série de pages séquentielles reliées entre elles ; mal gérée, elle génère du contenu dupliqué, dilue l'autorité et épuise le [Budget de crawl](https://blotmkt.com/ia/audit/budget-de-crawl.html).
 > - Les meilleures pratiques techniques reposent sur des balises `<a href>` crawlables, des canoniques auto-référencées par page et l'absence de blocage via robots.txt ou noindex.
 > - La pagination classique reste la solution la plus fiable pour le SEO ; le scroll infini et le "Voir plus" exigent une implémentation technique rigoureuse pour ne pas masquer le contenu aux robots.
 > - Un budget de crawl bien géré grâce à une pagination structurée guide Googlebot vers les pages à haute valeur, améliorant l'indexation et le ROI SEO à long terme.
+<!-- speakable:end -->
 
 Votre site e-commerce compte des milliers de produits, votre blog affiche des centaines d'articles, et pourtant Google en ignore une large partie. Le problème est souvent invisible : une pagination mal configurée. Elle crée du contenu dupliqué, disperse l'autorité et gaspille un budget de crawl déjà limité. Résultat : vos pages stratégiques ne sont jamais indexées. Ce guide vous donne les clés techniques et éditoriales pour transformer votre pagination en levier SEO, et non en frein.
 
@@ -117,6 +119,10 @@ La pagination aide les moteurs de recherche à crawler efficacement en créant u
 ---
 
 *Sources : Gray Dot Co – Pagination SEO Best Practices (2025) ; SearchX – Pagination SEO Best Practices for Crawl Efficiency (2025) ; SEOClarity – SEO Pagination Best Practices (janvier 2025) ; Search Engine Land – Pagination and SEO: What you need to know in 2025 (mars 2025) ; SEMrush – Pagination and SEO: A Complete Guide (février 2025) ; Ninja Tables – Infinite Scroll vs Pagination (2025) ; Jasmine Directory – Pagination vs. Infinite Scroll: SEO Implications (2025)*
+
+---
+
+---
 
 ---
 

@@ -27,8 +27,10 @@ related_articles:
 
 # AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 L'AEO vise à être cité dans les réponses générées par l'IA, contrairement au SEO traditionnel qui se concentre sur le classement dans les résultats de recherche
 
 > - 
@@ -221,6 +223,10 @@ Les KPIs traditionnels cèdent la place aux citations, mentions et présence de 
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

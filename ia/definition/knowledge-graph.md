@@ -24,15 +24,13 @@ related_articles:
   - title: "Structure HN : le guide complet pour un SEO sémantique optimisé pour les IA"
     url: "/ia/Contenu/structure-hn-seo"
 ---
-
-Je vais d'abord rechercher des sources récentes et crédibles sur le Knowledge Graph pour étayer le contenu.
-Maintenant, je vais rédiger le Contenu en respectant le brief et en utilisant les sources trouvées.
-
 # Knowledge Graph : le guide complet pour le SEO et la recherche sémantique
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un Knowledge Graph est une base de connaissance sémantique qui relie des entités (personnes, marques, lieux) via des relations contextuelles pour permettre aux moteurs de comprendre le monde réel
 > - Il améliore directe)ment l'E-A-T en permettant l'obtention de Knowledge Panels et d'informations enrichies, avec un impact mesurable : 
+<!-- speakable:end -->
 jusqu'à 30% d'augmentation du trafic organique selon Search Engine) Journal
 
 > - Les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) Schema.org (Organization, Person, Product) sont le langage principal pour communiquer avec les moteurs et alimenter le Knowledge Graph
@@ -193,6 +191,10 @@ Il fournit des réponses immédiates et précises directement dans les SERPs, é
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

@@ -27,6 +27,7 @@ related_articles:
 
 # Netlinking : définition complète, fonctionnement et bénéfices SEO
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le netlinking est l'acquisition stratégique de 'votes de confiance' via des liens externes de qualité pour renforcer l'autorité de domaine
 > - Les stratégies d'acquisition incluent le guest blogging, le broken link building et la création de contenus linkables
@@ -34,6 +35,7 @@ related_articles:
 > - Les bénéfices comprennent l'augmentation du DA, l'amélioration des positions et la génération de trafic qualifié
 > - L'identification des mauvais liens via des outils SEO permet d'éviter les pénalités algorithmiques
 > - Le Budget netlinking varie de 20€ à 1300€ par lien selon l'autorité du site, avec un ROI mesurable à long terme
+<!-- speakable:end -->
 
 Le netlinking reste aujourd'hui un défi majeur pour les entreprises cherchant à se démarquer sur Google. Face à la concurrence accrue et l'évolution constante des Algorithmes, nombreux sont ceux qui se demandent comment acquérir des liens de qualité sans risquer de pénalités. La solution réside dans une approche stratégique et méthodique de l'acquisition de 'votes de confiance', comme le définit l'expert Antoine Blot.
 
@@ -222,6 +224,10 @@ Le netlinking est considéré comme l'un des 3 grands piliers du SEO
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

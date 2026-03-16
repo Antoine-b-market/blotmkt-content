@@ -24,17 +24,15 @@ related_articles:
   - title: "Optimisation llm (llmo) : le guide pratique pour adapter votre seo à l'ère de l'ia"
     url: "/ia/ia-seo-geo/llm-optimization"
 ---
-
-Je vais d'abord rechercher des sources récentes et crédibles sur les stratégies SEO pour enrichir le contenu avec des données actualisées.
-Maintenant que j'ai trouvé des sources réelles et récentes, je vais rédiger le Contenu selon les instructions du brief.
-
 # Stratégie SEO : le guide pour aligner contenu, ROI et IA générative
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Une stratégie SEO est une feuille de route structurée qui aligne le Contenu sur le parcours d'achat client et maximise la croissance de la visibilité numérique
 > - Les 4 piliers d'une stratégie gagnante : audit technique, création de contenu à forte valeur, netlinking et Analyse continue
 > - Le ROI SEO atteint en moyenne 747% selon SearchEngineJournal, avec des résultats mesurables sous 6-12 mois
 > - L'intégration du GEO (Generative Engine Optimization) devient essentielle pour optimiser sa visibilité dans les [Moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/moteurs-de-reponse.html) basés sur l'IA
+<!-- speakable:end -->
 
 Dans un paysage digital où 
 58% des utilisateurs ont déjà remplacé les moteurs de recherche traditionnels par des outils basés sur l'IA
@@ -189,6 +187,10 @@ Commencez par un Audit complet identifiant les freins techniques et les opportun
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

@@ -27,8 +27,10 @@ related_articles:
 
 # SEO B2B : stratégies pour une croissance numérique durable
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le SEO B2B cible des cycles d'achat plus longs avec 
+<!-- speakable:end -->
 plusieurs décideurs professionnels recherchant des solutions fiables
 , contrairement au B2C axé sur l'émotion
 > - Une stratégie SEO B2B performante combine 
@@ -230,6 +232,10 @@ les campagnes SEO atteignant un ROI positif dans les 6-12 mois
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

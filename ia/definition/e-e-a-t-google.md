@@ -27,9 +27,11 @@ related_articles:
 
 # E-E-A-T Google : le guide complet des nouvelles directives 2025
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - L'E-E-A-T (Expérience, Expertise, Autorité, Confiance) est devenu le framework central d'évaluation de Google, étendu à tous les contenus concurrentiels depuis la Core Update de décembre 2025
 > - 
+<!-- speakable:end -->
 La December 2025 core update applique E-E-A-T à pratiquement toutes les recherches concurrentielles, y compris les avis e-commerce, les comparaisons SaaS et les guides pratiques
 
 > - 
@@ -232,6 +234,10 @@ Analyses de la Google Core Update décembre 2025
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

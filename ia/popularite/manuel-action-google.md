@@ -27,8 +27,10 @@ related_articles:
 
 # Action manuelle Google : le guide complet pour l'identifier et la corriger
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - 
+<!-- speakable:end -->
 Une action manuelle est une sanction appliquée par un examinateur humain de Google lorsque des pages d'un site ne respectent pas les Règles Google concernant le spam
 
 > - 
@@ -230,6 +232,10 @@ Expliquez les mesures correctives que vous avez prises et fournissez des preuves
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

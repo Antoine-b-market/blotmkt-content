@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/definition/donnees-structurees.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,11 +201,11 @@
     <div class="article-col">
       <article>
         <h1>Données structurées : le guide complet pour obtenir des résultats de recherche enrichis</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>
-<p>Les données structurées permettent aux moteurs de recherche de mieux comprendre le contenu de votre site web et peuvent améliorer votre classement dans les résultats de recherche</p>
+<p class="speakable-intro">Les données structurées permettent aux moteurs de recherche de mieux comprendre le contenu de votre site web et peuvent améliorer votre classement dans les résultats de recherche</p>
 </li>
 <li>
 <p>Les rich Snippets peuvent améliorer le taux de clic (CTR) de 30%
@@ -217,7 +227,7 @@ les données structurées soient identifiées comme l'un des Facteurs on-page le
 cette technologie peut augmenter votre CTR de 35% sans Budget publicitaire supplémentaire
 , transformant directement votre visibilité en trafic qualifié.</p>
 <hr />
-<h2>Comprendre les données structurées : le langage des moteurs de recherche</h2>
+<h2 class="speakable">Comprendre les données structurées : le langage des moteurs de recherche</h2>
 <p>Contrairement au HTML classique qui gère principalement la visualisation, le balisage Schema.org ajoute un niveau de signification sémantique aux données grâce à des schémas prédéfinis comme Product, Event ou Recipe
 . Concrètement, 
 les données structurées ajoutent des Balises supplémentaires au HTML qui disent aux moteurs de recherche : "cette information décrit ce film spécifique, ce lieu ou cette personne"
@@ -226,7 +236,7 @@ les données structurées ajoutent des Balises supplémentaires au HTML qui dise
 Quand un moteur de recherche explore votre site et trouve ce balisage, il comprend le contexte avec plus de nuance : il ne voit plus simplement "Note: 4,5/5 (150 votes)" mais comprend qu'il s'agit d'une note agrégée pour un produit spécifique
 . </p>
 <p>L'analogie est simple : imaginez un supermarché où tous les produits affichent uniquement leur nom. Avec les données structurées, vous ajoutez des étiquettes précisant le prix, les ingrédients, le temps de cuisson. Le client (Google) sait immédiatement à quoi il a affaire et peut présenter ces informations de manière enrichie dans ses résultats.</p>
-<h2>Données structurées vs métadonnées : l'impact sur les rich snippets</h2>
+<h2 class="speakable">Données structurées vs métadonnées : l'impact sur les rich snippets</h2>
 <p>La différence fondamentale réside dans leur fonction : 
 les données structurées constituent un modèle linguistique utilisé pour aider les moteurs de recherche à mieux comprendre le Contenu, rendant intrinsèquement plus facile pour eux de classer appropriément votre site
 . Contrairement aux métadonnées (title, meta description) qui suggèrent de quoi parle la page, les données structurées affirment et décrivent précisément les entités qu'elle contient.</p>
@@ -237,7 +247,7 @@ Selon les données de First Page Sage 2025, un rich snippet en première positio
 , 
 un CTR élevé envoie un signal puissant à Google que les utilisateurs trouvent votre contenu très pertinent, ce qui peut influencer positivement vos classements
 . (Source : Ignite Visibility, 2024)</p>
-<h2>Guide pratique : implémenter les données structurées avec JSON-LD</h2>
+<h2 class="speakable">Guide pratique : implémenter les données structurées avec JSON-LD</h2>
 <p>JSON-LD (JavaScript Object Notation for Linked Data) est le format le plus commun et recommandé par Google car il peut s'insérer comme un bloc de script unique dans le HTML, séparé du contenu principal
 . Cette indépendance le rend plus facile à gérer et à maintenir que les autres formats comme Microdata ou RDFa.</p>
 <p><strong>Processus d'implémentation en 4 étapes :</strong></p>
@@ -262,7 +272,7 @@ Testez votre balisage schema.org avec l'outil de test des rich snippets de Googl
 <p><strong>Règle d'or</strong> : 
 Ne balisez que le Contenu visible aux visiteurs de la page web, pas le contenu dans des div cachées ou autres éléments masqués
 . (Source : Schema.org, 2024)</p>
-<h2>Choisir les bons schémas : les cas d'usage essentiels pour votre site</h2>
+<h2 class="speakable">Choisir les bons schémas : les cas d'usage essentiels pour votre site</h2>
 <p>En 2024, Schema.org comprend 803 types différents, 1461 propriétés, 14 types de données et 87 énumérations
 , mais certains schémas dominent les SERP par leur efficacité immédiate.</p>
 <p><strong>Les incontournables par secteur :</strong>
@@ -281,7 +291,7 @@ Concentrez-vous sur les éléments qui peuvent bénéficier des rich snippets : 
 .</p>
 <p>Les schémas FAQ et How-to gagnent en importance dans les SERP, Google les affichant de plus en plus souvent. Le schéma FAQPage Structure facilement une page de questions fréquentes avec des réponses directes visibles dans les résultats
 . Pour découvrir toutes les possibilités, la galerie de recherche Google reste la meilleure ressource pour explorer les types de résultats enrichis disponibles. (Source : SEOZoom, 2024)</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>C'est quoi un rich snippet ?</h3>
 <p>Un rich snippet est un résultat de recherche enrichi qui affiche des informations supplémentaires comme les notes, images et prix
 , rendant votre annonce plus attractive et augmentant significativement les chances de clic.</p>

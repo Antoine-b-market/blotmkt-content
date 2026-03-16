@@ -176,6 +176,16 @@
       "founder": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/audit/fichier-robots.txt.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2",
+        ".faq-speakable"
+      ]
     }
   ]
 }
@@ -191,8 +201,8 @@
     <div class="article-col">
       <article>
         <h1>Fichier robots.txt : le guide pour maîtriser l'exploration de votre site</h1>
-<blockquote>
-<h2>L'essentiel à retenir</h2>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>Le fichier robots.txt est un fichier texte placé à la racine d'un site qui guide les robots d'exploration vers les pages importantes tout en préservant le <a href="https://blotmkt.com/ia/audit/budget-de-crawl.html">Budget de crawl</a></li>
 <li>Contrairement à la balise meta <code>noindex</code>, le robots.txt agit sur l'Exploration (crawl) et non sur l'indexation : une page bloquée peut quand même être indexée si elle reçoit des liens externes</li>
@@ -200,11 +210,11 @@
 <li>Utilisez le robots.txt pour bloquer les pages techniques sans valeur SEO : recherche interne, connexion, paramètres de session ou fichiers administratifs</li>
 </ul>
 </blockquote>
-<p>Le fichier robots.txt reste l'un des outils les plus mal compris du SEO technique. Beaucoup le confondent avec un moyen de désIndexation, créant des problèmes d'exploration majeurs. En réalité, 
+<p class="speakable-intro">Le fichier robots.txt reste l'un des outils les plus mal compris du SEO technique. Beaucoup le confondent avec un moyen de désIndexation, créant des problèmes d'exploration majeurs. En réalité, 
 il s'agit de faciliter l'Exploration de votre site web en éliminant les URLs à faible valeur ajoutée afin d'optimiser le crawl budget des robots
 . Découvrez comment maîtriser cet outil essentiel pour concentrer l'attention de Googlebot sur vos contenus stratégiques.</p>
 <hr />
-<h2>Définition et rôle du fichier robots.txt pour le SEO</h2>
+<h2 class="speakable">Définition et rôle du fichier robots.txt pour le SEO</h2>
 <p>Le robots.txt file est un fichier texte placé dans le répertoire racine de votre site web. Il agit comme un ensemble d'instructions pour les robots web (crawlers) concernant les parties de votre site auxQuelles ils sont autorisés à accéder
 . Son rôle principal n'est pas d'empêcher l'Indexation, mais bien de gérer l'exploration : 
 il va pouvoir autoriser ou interdire des accès à des pages, ou à des dossiers, qui ne sont pas pertinents pour le SEO, et qui, de ce fait, vont consommer inutilement du Budget crawl. Les robots ne vont alors pas perdre de temps sur vos pages sans intérêt, et concentrer toute leur attention sur vos pages importantes
@@ -219,7 +229,7 @@ Le budget de crawl fait référence au nombre de pages que Googlebot va crawler 
 . 
 Empêchez donc les robots de charger via un fichier robots.txt : pas la peine de les faire Analyser quelque chose qu'ils ne pourraient pas comprendre !
  (Source : Semrush, 2021)</p>
-<h2>Robots.txt vs meta <code>noindex</code> : ne plus confondre exploration et indexation</h2>
+<h2 class="speakable">Robots.txt vs meta <code>noindex</code> : ne plus confondre exploration et indexation</h2>
 <p>La différence fondamentale entre ces deux outils réside dans leur moment d'action. 
 Le robots.txt va interdire le crawl par les robots aux zones qui sont listées par les directives Disallow
 . 
@@ -262,7 +272,7 @@ Pour que la règle noindex soit efficace, la page ou ressource ne doit pas être
 </tr>
 </tbody>
 </table>
-<h2>Tutoriel : créer et configurer votre fichier robots.txt</h2>
+<h2 class="speakable">Tutoriel : créer et configurer votre fichier robots.txt</h2>
 <p>Le robots.txt est un simple fichier texte, qu'on peut éditer à partir de n'importe quel éditeur de texte, et dans lequel on renseigne ses instructions
 . 
 Dans votre barre de navigateur, tapez simplement votre domaine racine et ajoutez « /robots.txt » : si vous voyez un fichier texte, c'est que vous en avez un. Sinon, il vous faudra le créer
@@ -275,7 +285,7 @@ Dans votre barre de navigateur, tapez simplement votre domaine racine et ajoutez
 . 
 Si vous avez un Prestashop, vous verrez le robots.txt généré plus fourni que pour les autres CMS. Surtout des éléments internes sont listés : empêcher leur visite aidera à améliorer votre budget crawl
 . (Source : Hugo Domeur, 2024)</p>
-<h2>Cas d'usage : quand utiliser le robots.txt pour un impact SEO positif</h2>
+<h2 class="speakable">Cas d'usage : quand utiliser le robots.txt pour un impact SEO positif</h2>
 <p>Cette règle du robots.txt est particulièrement intéressante pour votre SEO, puisque vous pouvez demander aux robots de ne pas explorer vos pages à faible valeur ajoutée
 . Voici les applications concrètes les plus efficaces :</p>
 <p><strong>Pages de recherche interne</strong> : 
@@ -288,7 +298,7 @@ Celles générées par les identifiants de session. Par exemple, la connexion à
 <p>L'objectif reste constant : 
 en éliminant ces URLs, vous vous assurerez que vos pages ayant réellement de la valeur seront explorées et indexées. De ce fait, vous augmenterez grandement vos chances d'être bien référencé
 . (Source : My Little Big Web, 2025)</p>
-<h2>Questions fréquentes</h2>
+<div class="faq-speakable">
 <h3>Où placer le fichier robots.txt ?</h3>
 <p>Placé à la racine de votre site web, à la base de l'arborescence des dossiers hébergés sur le serveur
 . Il doit être accessible via www.votredomaine.com/robots.txt pour être reconnu par les Moteurs de recherche.</p>

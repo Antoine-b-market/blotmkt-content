@@ -27,12 +27,14 @@ related_articles:
 
 # Pénalité Google : le guide pour la détecter, la comprendre et la corriger
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Une pénalité Google est une sanction directe ou algorithmique qui provoque une chute brutale de trafic organique et se distingue par sa présence ou non dans la section "actions manuelles" de la Google Search Console
 > - Les pénalités manuelles nécessitent une notification officielle et une demande de réexamen, tandis que les impacts algorithmiques sont automatiques et silencieux, nécessitant une amélioration globale du site
 > - La Google Search Console reste l'outil de diagnostic infaillible : elle confirme les actions manuelles via des notifications spécifiques et permet d'Analyser les chutes de trafic pour identifier les impacts algorithmiques
 > - Les causes principales incluent les liens artificiels (achat, PBN, échanges excessifs), le contenu de faible qualité (duplicate content, texte automatisé) et les techniques de spam (cloaking, texte caché)
 > - La levée d'une pénalité exige trois étapes cruciales : corriger la cause racine, documenter toutes les actions menées, puis soumettre une demande de réexamen honnête et détaillée via la Search Console
+<!-- speakable:end -->
 
 Votre trafic SEO s'effondre du jour au lendemain ? Vos mots-clés stratégiques disparaissent des résultats Google ? 
 Une étude menée en 2024 révèle que les entreprises sanctionnées perdent en moyenne 70% de leur trafic organique dans les 30 jours suivant l'application de la pénalité.
@@ -196,6 +198,10 @@ Une pénalité manuelle implique une intervention humaine avec notification obli
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

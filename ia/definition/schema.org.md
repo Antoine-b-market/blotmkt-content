@@ -27,11 +27,13 @@ related_articles:
 
 # Schema.org : le guide pratique pour booster votre SEO avec les données structurées
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - **Schema.org est un vocabulaire de balises sémantiques** que les webmasters ajoutent à leur HTML pour aider Google à comprendre le contenu et obtenir des rich snippets qui augmentent le taux de clics
 > - **JSON-LD est le format recommandé par Google** car il sépare les données de la structure HTML, simplifie la maintenance et réduit les Erreurs comparé aux microdonnées intégrées dans le HTML
 > - **L'implémentation suit 3 étapes** : identifier le type de schéma approprié sur Schema.org, générer le code JSON-LD via des outils, puis valider avec l'Outil de test des résultats enrichis de Google
 > - **Privilégiez Product, localBusiness, Article et BreadcrumbList** tout en évitant HowTo (déprécié depuis septembre 2023) et FAQPage (restreint aux sites gouvernementaux/santé depuis 2023)
+<!-- speakable:end -->
 
 Schema.org représente aujourd'hui un pilier incontournable du SEO technique. Pourtant, 
 seuls 30% des pages web utilisent Schema.org pour le balisage
@@ -210,6 +212,10 @@ Sur WordPress, utilisez des plugins comme RankMath ou Yoast SEO qui génèrent a
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

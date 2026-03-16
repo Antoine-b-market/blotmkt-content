@@ -24,17 +24,15 @@ related_articles:
   - title: "Largest Contentful Paint (LCP) : le guide complet pour optimiser la vitesse de votre site"
     url: "/ia/audit/largest-contentful-paint"
 ---
-
-Je vais d'abord rechercher des sources récentes et crédibles sur le Cumulative Layout Shift pour enrichir cet article.
-Maintenant, je vais rédiger l'article optimisé SEO sur le Cumulative Layout Shift en me basant sur les sources trouvées et en respectant la Structure demandée.
-
 # Cumulative Layout Shift (CLS) : le guide pour atteindre un score inférieur à 0.1
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le Cumulative Layout Shift (CLS) est un Core Web Vital qui mesure la stabilité visuelle d'une page, avec un seuil optimal inférieur à 0.1
 > - Pour diagnostiquer le CLS, utilisez Google Search Console pour les données terrain et Chrome DevTools pour l'Analyse en temps réel
 > - Les principales causes sont les images sans dimensions, le contenu dynamique non réservé et les polices web mal optimisées
 > - Depuis mars 2024, le CLS fonctionne en synergie avec LCP et le nouveau métrique INP pour évaluer l'expérience utilisateur globale
+<!-- speakable:end -->
 
 Le décalage de mise en page frustre vos utilisateurs et nuit à vos conversions. Imaginez un visiteur prêt à acheter qui clique accidentellement sur une publicité parce qu'un bouton s'est déplacé au moment du chargement. 
 Les pages avec des scores CLS élevés peuvent conduire à une mauvaise expérience utilisateur, car les éléments qui se déplacent peuvent amener les utilisateurs à cliquer accidentellement sur les mauvaises parties d'une page
@@ -188,6 +186,10 @@ Le CLS fait partie des Core Web Vitals utilisés par Google comme facteur de cla
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

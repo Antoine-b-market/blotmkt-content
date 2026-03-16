@@ -30,16 +30,18 @@ Maintenant je dispose de sources solides et récentes pour rédiger un Contenu o
 
 # Moteurs de réponse : le guide de la Generative Engine Optimization (GEO)
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un moteur de réponse utilise l'IA pour générer une réponse directe et synthétisée, contrairement aux moteurs de recherche classiques qui affichent une liste de liens
 > - Les Large Language Models (LLM) couplés au RAG permettent aux moteurs de réponse de consulter le web en temps réel et d'éviter les hallucinations
 > - Les moteurs de réponse amplifient l'importance de l'E-E-A-T et transforment la visibilité en ligne : être cité devient aussi crucial qu'être en première position Google
 > - La GEO consiste à optimiser son Contenu pour être utilisé comme source fiable par les IA génératives via une structure claire, des données factuelles et une expertise reconnue
 > - Les modèles économiques émergent avec Perplexity Pro (20$/mois), la publicité intégrée et les solutions B2B, créant de nouveaux cas d'usage professionnels
+<!-- speakable:end -->
 
 L'essor des intelligences artificielles conversationnelles révolutionne l'accès à l'information. 
 Pour la première fois depuis l'invention de Google en 1998, le modèle fondamental de l'accès à l'information en ligne est remis en question. Les utilisateurs n'ont plus besoin de parcourir plusieurs pages web et de synthétiser eux-mêmes l'information : l'IA le fait pour eux.
- Cette évolution nécessite une nouvelle approche strategique : la [Generative Engine Optimization (GEO)](https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo).html).html).html).html).html)))))).
+ Cette évolution nécessite une nouvelle approche strategique : la [Generative Engine Optimization (GEO)](https://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo).html).html).html).html).html).html).html)))))).
 
 ---
 
@@ -238,6 +240,10 @@ Absolument. Les IA amplifient l'importance de l'E-E-A-T car elles privilégient 
 ---
 
 FAQ_JSON-->
+
+---
+
+---
 
 ---
 

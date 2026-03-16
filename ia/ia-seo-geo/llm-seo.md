@@ -27,10 +27,12 @@ related_articles:
 
 # LLM SEO : le guide pratique pour optimiser votre contenu pour les AI Overviews
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - **Le LLM SEO vise la citation directe** dans les réponses génératives d'IA plutôt que les clics traditionnels, transformant l'[Optimisation de contenu](https://blotmkt.com/ia/contenu/optimisation-de-contenu.html) en stratégie d'autorité informationnelle
 > - **L'Optimisation concrète repose sur** une structuration claire (H2/H3 questions-réponses), un style factuel avec données chiffrées, et un renforcement de l'E-E-A-T interprétable par les machines
 > - **Le ROI se mesure différemment** : suivi des citations dans les AI Overviews plutôt que du trafic traditionnel, avec un impact double sur la notoriété de marque et l'autorité perçue
+<!-- speakable:end -->
 
 Les professionnels du SEO font face à une révolution silencieuse : 
 les modèles de langage de grande taille deviendront bientôt une source majeure de trafic web, rivalisant potentiellement avec les canaux traditionnels comme l'email, les médias sociaux et les liens de référence
@@ -177,6 +179,10 @@ Le LLM SEO est l'art de devenir la réponse. Cela signifie posséder un concept 
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

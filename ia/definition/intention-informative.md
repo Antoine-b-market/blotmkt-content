@@ -27,6 +27,7 @@ related_articles:
 
 # Intention informative : le guide SEO complet à l'ère de l'IA (SGE)
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - L'Intention informative désigne la recherche d'informations ou d'apprentissage, se situant au sommet du tunnel de conversion (phase de découverte)
 > - Elle se distingue de l'intention transactionnelle par l'absence d'objectif d'achat immédiat, privilégiant l'acquisition de connaissances
@@ -34,6 +35,7 @@ related_articles:
 > - L'optimisation nécessite d'Analyser la SERP, structurer l'article et intégrer un champ sémantique riche pour faciliter la compréhension par l'IA
 > - Le ROI réside dans la construction de confiance, d'autorité thématique et la génération de Backlinks naturels
 > - Les formats gagnants incluent guides complets, tutoriels pratiques et études de cas apportant une valeur unique difficile à copier
+<!-- speakable:end -->
 
 L'avènement de l'intelligence artificielle dans la recherche révolutionne la façon dont nous concevons le Contenu informatif. Alors que 
 68% des expériences en ligne commencent par les Moteurs de recherche et que les résultats organiques captent 53,3% du trafic web
@@ -197,6 +199,10 @@ La stratégie optimale combine les deux approches. Le contenu informatif constru
   ]
 }
 ```
+
+---
+
+---
 
 ---
 

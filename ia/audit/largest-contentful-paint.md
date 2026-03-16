@@ -27,11 +27,13 @@ related_articles:
 
 # Largest Contentful Paint (LCP) : le guide complet pour optimiser la vitesse de votre site
 
+<!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Le Largest Contentful Paint mesure le temps de chargement du plus grand élément visible d'une page, avec un seuil optimal de 2,5 secondes ou moins
 > - Google PageSpeed Insights et les outils développeur Chrome permettent d'identifier et diagnostiquer les problèmes LCP en temps réel
 > - L'Optimisation passe par quatre axes : améliorer le TTFB, précharger l'élément LCP, optimiser la taille des ressources et éliminer le code bloquant
 > - 
+<!-- speakable:end -->
 Un LCP optimisé peut doubler le taux de conversion : les pages avec un LCP de 2 secondes convertissent deux fois mieux que celles à 5 secondes
 
 Votre site met plus de 2,5 secondes à afficher son contenu principal ? 
@@ -235,6 +237,10 @@ Le FCP mesure le temps d'apparition du premier élément visuel dans la zone d'a
   ]
 }
 ```
+
+---
+
+---
 
 ---
 
