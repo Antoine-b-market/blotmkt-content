@@ -290,43 +290,43 @@ un CTR élevé envoie un signal puissant à Google que les utilisateurs trouvent
 <h2 class="speakable">Guide pratique : implémenter les données structurées avec JSON-LD</h2>
 <p>JSON-LD (JavaScript Object Notation for Linked Data) est le format le plus commun et recommandé par Google car il peut s'insérer comme un bloc de script unique dans le HTML, séparé du contenu principal
 . Cette indépendance le rend plus facile à gérer et à maintenir que les autres formats comme Microdata ou RDFa.</p>
-<p><strong>Processus d'implémentation en 4 étapes :</strong></p>
+<p>Processus d'implémentation en 4 étapes :</p>
 <ol>
 <li>
-<p><strong>Identifier le type de contenu</strong> : 
+<p>Identifier le type de contenu : 
 Déterminez le type de Contenu que vous avez, car différents contenus nécessitent différents balisages Schema. Utilisez le schéma Review pour les avis produits, Recipe pour les instructions culinaires</p>
 </li>
 <li>
-<p><strong>Générer le code</strong> : 
+<p>Générer le code : 
 Utilisez des outils comme JSON-LD Generator pour créer rapidement le code approprié</p>
 </li>
 <li>
-<p><strong>Intégrer le script</strong> : 
+<p>Intégrer le script : 
 Ajoutez le script JSON-LD dans la section &lt;head&gt; de votre HTML pour permettre aux Moteurs de recherche de lire les données structurées</p>
 </li>
 <li>
-<p><strong>Valider et tester</strong> : 
+<p>Valider et tester : 
 Testez votre balisage schema.org avec l'outil de test des rich snippets de Google pour identifier les Erreurs</p>
 </li>
 </ol>
-<p><strong>Règle d'or</strong> : 
+<p>Règle d'or : 
 Ne balisez que le Contenu visible aux visiteurs de la page web, pas le contenu dans des div cachées ou autres éléments masqués
 . (Source : Schema.org, 2024)</p>
 <h2 class="speakable">Choisir les bons schémas : les cas d'usage essentiels pour votre site</h2>
 <p>En 2024, Schema.org comprend 803 types différents, 1461 propriétés, 14 types de données et 87 énumérations
 , mais certains schémas dominent les SERP par leur efficacité immédiate.</p>
-<p><strong>Les incontournables par secteur :</strong>
-- <strong>e-commerce</strong> : 
+<p>Les incontournables par secteur :
+- e-commerce : 
 Product schema
  pour afFicher prix, notes et disponibilité
-- <strong>Entreprises locales</strong> : 
+- Entreprises locales : 
 LocalBusiness schema pour baliser adresse, téléphone, horaires et avis</p>
 <ul>
-<li><strong>contenu éditorial</strong> : 
+<li>contenu éditorial : 
 Article + FAQ schema
  pour Structurer les informations</li>
 </ul>
-<p><strong>Stratégie de sélection :</strong> La pertinence prime sur la quantité. 
+<p>Stratégie de sélection : La pertinence prime sur la quantité. 
 Concentrez-vous sur les éléments qui peuvent bénéficier des rich snippets : articles de blog, produits, recettes, événements et avis clients, en utilisant les types de schémas appropriés pour chaque catégorie
 .</p>
 <p>Les schémas FAQ et How-to gagnent en importance dans les SERP, Google les affichant de plus en plus souvent. Le schéma FAQPage Structure facilement une page de questions fréquentes avec des réponses directes visibles dans les résultats
