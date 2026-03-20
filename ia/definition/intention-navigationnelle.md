@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 09:09"
 date_modified: "2026-03-09 09:09"
 slug: "intention-navigationnelle"
-url: "https://blotmkt.com/ia/definition/intention-navigationnelle"
+url: "https://blotmkt.com/ia/definition/intention-navigationnelle.html"
 canonical: "https://blotmkt.com/ia/definition/intention-navigationnelle.html"
 related_articles:
   - title: "L'intention de recherche : le guide pour décrypter et optimiser votre stratégie SEO"

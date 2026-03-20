@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 08:35"
 date_modified: "2026-03-09 08:35"
 slug: "ymyl-seo"
-url: "https://blotmkt.com/ia/definition/ymyl-seo"
+url: "https://blotmkt.com/ia/definition/ymyl-seo.html"
 canonical: "https://blotmkt.com/ia/definition/ymyl-seo.html"
 related_articles:
   - title: "Audit de site web : le guide complet pour un diagnostic SEO actionnable"

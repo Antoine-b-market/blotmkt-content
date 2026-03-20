@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 07:48"
 date_modified: "2026-03-09 07:48"
 slug: "audit-contenu-existant"
-url: "https://blotmkt.com/ia/contenu/audit-contenu-existant"
+url: "https://blotmkt.com/ia/contenu/audit-contenu-existant.html"
 canonical: "https://blotmkt.com/ia/contenu/audit-contenu-existant.html"
 related_articles:
   - title: "Audit SEO technique : le guide pour identifier les freins et optimiser votre ROI"

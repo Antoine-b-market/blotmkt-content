@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 18:49"
 date_modified: "2026-03-09 18:49"
 slug: "prompt-seo"
-url: "https://blotmkt.com/ia/ia-seo-geo/prompt-seo"
+url: "https://blotmkt.com/ia/ia-seo-geo/prompt-seo.html"
 canonical: "https://blotmkt.com/ia/ia-seo-geo/prompt-seo.html"
 related_articles:
   - title: "LLM SEO : le guide pratique pour optimiser votre contenu pour les AI Overviews"

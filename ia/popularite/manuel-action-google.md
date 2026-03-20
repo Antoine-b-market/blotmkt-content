@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 19:50"
 date_modified: "2026-03-09 19:50"
 slug: "manuel-action-google"
-url: "https://blotmkt.com/ia/popularite/manuel-action-google"
+url: "https://blotmkt.com/ia/popularite/manuel-action-google.html"
 canonical: "https://blotmkt.com/ia/popularite/manuel-action-google.html"
 related_articles:
   - title: "Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité"

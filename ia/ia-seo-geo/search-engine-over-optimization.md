@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 18:19"
 date_modified: "2026-03-09 18:19"
 slug: "search-engine-over-optimization"
-url: "https://blotmkt.com/ia/ia-seo-geo/search-engine-over-optimization"
+url: "https://blotmkt.com/ia/ia-seo-geo/search-engine-over-optimization.html"
 canonical: "https://blotmkt.com/ia/ia-seo-geo/search-engine-over-optimization.html"
 related_articles:
   - title: "Optimisation SGE : Maîtriser le nouveau paradigme de la recherche IA"

@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 19:53"
 date_modified: "2026-03-09 19:53"
 slug: "algorithme-penalite"
-url: "https://blotmkt.com/ia/popularite/algorithme-penalite"
+url: "https://blotmkt.com/ia/popularite/algorithme-penalite.html"
 canonical: "https://blotmkt.com/ia/popularite/algorithme-penalite.html"
 related_articles:
   - title: "Pénalité Google : le guide pour la détecter, la comprendre et la corriger"

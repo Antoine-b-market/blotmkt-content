@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 09:00"
 date_modified: "2026-03-09 09:00"
 slug: "page-pilier-seo"
-url: "https://blotmkt.com/ia/definition/page-pilier-seo"
+url: "https://blotmkt.com/ia/definition/page-pilier-seo.html"
 canonical: "https://blotmkt.com/ia/definition/page-pilier-seo.html"
 related_articles:
   - title: "Maillage interne en silo : le guide pour une architecture seo optimisée"

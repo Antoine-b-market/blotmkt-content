@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 07:55"
 date_modified: "2026-03-09 07:55"
 slug: "backlink-de-qualite"
-url: "https://blotmkt.com/ia/definition/backlink-de-qualite"
+url: "https://blotmkt.com/ia/definition/backlink-de-qualite.html"
 canonical: "https://blotmkt.com/ia/definition/backlink-de-qualite.html"
 related_articles:
   - title: "Nettoyage de liens : le guide pour assainir votre profil de backlinks"

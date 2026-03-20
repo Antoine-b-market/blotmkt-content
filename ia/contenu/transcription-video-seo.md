@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 07:38"
 date_modified: "2026-03-09 07:38"
 slug: "transcription-video-seo"
-url: "https://blotmkt.com/ia/contenu/transcription-video-seo"
+url: "https://blotmkt.com/ia/contenu/transcription-video-seo.html"
 canonical: "https://blotmkt.com/ia/contenu/transcription-video-seo.html"
 related_articles:
   - title: "AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes"

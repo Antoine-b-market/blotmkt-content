@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 19:30"
 date_modified: "2026-03-09 19:30"
 slug: "content-gap-seo"
-url: "https://blotmkt.com/ia/contenu/content-gap-seo"
+url: "https://blotmkt.com/ia/contenu/content-gap-seo.html"
 canonical: "https://blotmkt.com/ia/contenu/content-gap-seo.html"
 related_articles:
   - title: "Le thin content en seo : le guide pour l'identifier et le corriger avant la pénalité"

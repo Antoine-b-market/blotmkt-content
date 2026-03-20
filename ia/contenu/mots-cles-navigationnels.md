@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 19:27"
 date_modified: "2026-03-09 19:27"
 slug: "mots-cles-navigationnels"
-url: "https://blotmkt.com/ia/contenu/mots-cles-navigationnels"
+url: "https://blotmkt.com/ia/contenu/mots-cles-navigationnels.html"
 canonical: "https://blotmkt.com/ia/contenu/mots-cles-navigationnels.html"
 related_articles:
   - title: "Mots-clés informationnels : guide pour optimiser votre stratégie SEO avec l'IA"

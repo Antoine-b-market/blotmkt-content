@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 17:05"
 date_modified: "2026-03-09 17:05"
 slug: "accompagnement-seo-annuel"
-url: "https://blotmkt.com/ia/strategie/accompagnement-seo-annuel"
+url: "https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html"
 canonical: "https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html"
 related_articles:
   - title: "Audit SEO technique : le guide pour identifier les freins et optimiser votre ROI"

@@ -13,7 +13,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-16 05:30"
 date_modified: "2026-03-16 05:30"
 slug: "redirection-301-vs-302"
-url: "https://blotmkt.com/ia/audit/redirection-301-vs-302"
+url: "https://blotmkt.com/ia/audit/redirection-301-vs-302.html"
 schema_type: "TechArticle"
 sources:
   - blotmkt.com

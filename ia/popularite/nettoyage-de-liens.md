@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 15:56"
 date_modified: "2026-03-09 15:56"
 slug: "nettoyage-de-liens"
-url: "https://blotmkt.com/ia/popularite/nettoyage-de-liens"
+url: "https://blotmkt.com/ia/popularite/nettoyage-de-liens.html"
 canonical: "https://blotmkt.com/ia/popularite/nettoyage-de-liens.html"
 related_articles:
   - title: "Profil de liens : le guide complet pour analyser et optimiser votre autorité SEO"

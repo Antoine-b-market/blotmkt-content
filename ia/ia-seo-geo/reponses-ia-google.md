@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 18:02"
 date_modified: "2026-03-09 18:02"
 slug: "reponses-ia-google"
-url: "https://blotmkt.com/ia/ia-seo-geo/reponses-ia-google"
+url: "https://blotmkt.com/ia/ia-seo-geo/reponses-ia-google.html"
 canonical: "https://blotmkt.com/ia/ia-seo-geo/reponses-ia-google.html"
 related_articles:
   - title: "Search Generative Experience (SGE) : le guide complet pour l'optimisation SEO à l'ère de l'IA"

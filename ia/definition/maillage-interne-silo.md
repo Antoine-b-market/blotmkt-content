@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 08:57"
 date_modified: "2026-03-09 08:57"
 slug: "maillage-interne-silo"
-url: "https://blotmkt.com/ia/definition/maillage-interne-silo"
+url: "https://blotmkt.com/ia/definition/maillage-interne-silo.html"
 canonical: "https://blotmkt.com/ia/definition/maillage-interne-silo.html"
 related_articles:
   - title: "Cocon sémantique : le guide pour structurer votre site et améliorer votre SEO"

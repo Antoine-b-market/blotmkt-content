@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 18:54"
 date_modified: "2026-03-09 18:54"
 slug: "rayon-de-visibilite"
-url: "https://blotmkt.com/ia/local-seo/rayon-de-visibilite"
+url: "https://blotmkt.com/ia/local-seo/rayon-de-visibilite.html"
 canonical: "https://blotmkt.com/ia/local-seo/rayon-de-visibilite.html"
 related_articles:
   - title: "Visibilité IA : être reconnu par les algorithmes sans devenir invisible"

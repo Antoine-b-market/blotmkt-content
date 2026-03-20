@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 09:25"
 date_modified: "2026-03-09 09:25"
 slug: "ux-design-seo"
-url: "https://blotmkt.com/ia/definition/ux-design-seo"
+url: "https://blotmkt.com/ia/definition/ux-design-seo.html"
 canonical: "https://blotmkt.com/ia/definition/ux-design-seo.html"
 related_articles:
   - title: "Refonte site SEO : le guide pour moderniser votre site sans perdre votre trafic"

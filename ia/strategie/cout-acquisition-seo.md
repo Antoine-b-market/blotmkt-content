@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 17:31"
 date_modified: "2026-03-09 17:31"
 slug: "cout-acquisition-seo"
-url: "https://blotmkt.com/ia/strategie/cout-acquisition-seo"
+url: "https://blotmkt.com/ia/strategie/cout-acquisition-seo.html"
 canonical: "https://blotmkt.com/ia/strategie/cout-acquisition-seo.html"
 related_articles:
   - title: "Prix forfait SEO : le guide pour comprendre les tarifs et choisir le bon investissement"

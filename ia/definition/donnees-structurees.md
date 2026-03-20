@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 08:24"
 date_modified: "2026-03-09 08:24"
 slug: "donnees-structurees"
-url: "https://blotmkt.com/ia/definition/donnees-structurees"
+url: "https://blotmkt.com/ia/definition/donnees-structurees.html"
 canonical: "https://blotmkt.com/ia/definition/donnees-structurees.html"
 related_articles:
   - title: "Schema.org : le guide pratique pour booster votre SEO avec les données structurées"

@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 18:25"
 date_modified: "2026-03-09 18:25"
 slug: "contextualisation-seo"
-url: "https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo"
+url: "https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html"
 canonical: "https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html"
 related_articles:
   - title: "Le contenu SEO au Québec : une approche optimisée pour Google et les réponses génératives"

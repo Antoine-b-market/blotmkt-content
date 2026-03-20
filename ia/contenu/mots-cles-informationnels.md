@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 19:24"
 date_modified: "2026-03-09 19:24"
 slug: "mots-cles-informationnels"
-url: "https://blotmkt.com/ia/contenu/mots-cles-informationnels"
+url: "https://blotmkt.com/ia/contenu/mots-cles-informationnels.html"
 canonical: "https://blotmkt.com/ia/contenu/mots-cles-informationnels.html"
 related_articles:
   - title: "L'intention de recherche : le guide pour décrypter et optimiser votre stratégie SEO"

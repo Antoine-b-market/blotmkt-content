@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 19:14"
 date_modified: "2026-03-09 19:14"
 slug: "longue-traine-seo"
-url: "https://blotmkt.com/ia/contenu/longue-traine-seo"
+url: "https://blotmkt.com/ia/contenu/longue-traine-seo.html"
 canonical: "https://blotmkt.com/ia/contenu/longue-traine-seo.html"
 related_articles:
   - title: "Contenu IA SEO : le guide pour une stratégie de référencement sémantique"

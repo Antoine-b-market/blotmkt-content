@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 07:16"
 date_modified: "2026-03-09 07:16"
 slug: "meta-description"
-url: "https://blotmkt.com/ia/contenu/meta-description"
+url: "https://blotmkt.com/ia/contenu/meta-description.html"
 canonical: "https://blotmkt.com/ia/contenu/meta-description.html"
 related_articles:
   - title: "Structure HN : le guide complet pour un SEO sémantique optimisé pour les IA"

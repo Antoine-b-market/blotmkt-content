@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 06:12"
 date_modified: "2026-03-09 06:12"
 slug: "analyse-de-logs-seo"
-url: "https://blotmkt.com/ia/audit/analyse-de-logs-seo"
+url: "https://blotmkt.com/ia/audit/analyse-de-logs-seo.html"
 canonical: "https://blotmkt.com/ia/audit/analyse-de-logs-seo.html"
 related_articles:
   - title: "Budget de crawl : le guide pour l'optimiser et accélérer votre indexation"

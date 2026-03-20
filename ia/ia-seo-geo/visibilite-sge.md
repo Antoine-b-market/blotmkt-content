@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 18:33"
 date_modified: "2026-03-09 18:33"
 slug: "visibilite-sge"
-url: "https://blotmkt.com/ia/ia-seo-geo/visibilite-sge"
+url: "https://blotmkt.com/ia/ia-seo-geo/visibilite-sge.html"
 canonical: "https://blotmkt.com/ia/ia-seo-geo/visibilite-sge.html"
 related_articles:
   - title: "Expertise SEO technique : le levier stratégique pour votre performance digitale"

@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 06:48"
 date_modified: "2026-03-09 06:48"
 slug: "taux-de-rebond"
-url: "https://blotmkt.com/ia/audit/taux-de-rebond"
+url: "https://blotmkt.com/ia/audit/taux-de-rebond.html"
 canonical: "https://blotmkt.com/ia/audit/taux-de-rebond.html"
 related_articles:
   - title: "Récupération SEO : Stratégies avancées pour regagner votre visibilité à l'ère de l'IA"

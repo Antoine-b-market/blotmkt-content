@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 09:19"
 date_modified: "2026-03-09 09:19"
 slug: "discover-google-seo"
-url: "https://blotmkt.com/ia/definition/discover-google-seo"
+url: "https://blotmkt.com/ia/definition/discover-google-seo.html"
 canonical: "https://blotmkt.com/ia/definition/discover-google-seo.html"
 related_articles:
   - title: "Image SEO Québec : optimisez votre visibilité pour la recherche visuelle et l'IA"

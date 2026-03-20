@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 07:14"
 date_modified: "2026-03-09 07:14"
 slug: "structure-hn-seo"
-url: "https://blotmkt.com/ia/contenu/structure-hn-seo"
+url: "https://blotmkt.com/ia/contenu/structure-hn-seo.html"
 canonical: "https://blotmkt.com/ia/contenu/structure-hn-seo.html"
 related_articles:
   - title: "Comment rédiger un titre SEO accrocheur : le guide pratique pour booster vos clics"

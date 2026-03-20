@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 18:36"
 date_modified: "2026-03-09 18:36"
 slug: "algorithme-de-recommandation"
-url: "https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation"
+url: "https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html"
 canonical: "https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html"
 related_articles:
   - title: "Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche"

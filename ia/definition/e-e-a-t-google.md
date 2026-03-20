@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 08:32"
 date_modified: "2026-03-09 08:32"
 slug: "e-e-a-t-google"
-url: "https://blotmkt.com/ia/definition/e-e-a-t-google"
+url: "https://blotmkt.com/ia/definition/e-e-a-t-google.html"
 canonical: "https://blotmkt.com/ia/definition/e-e-a-t-google.html"
 related_articles:
   - title: "SEO YMYL : le guide pratique pour maîtriser l'E-E-A-T et sécuriser vos classements"

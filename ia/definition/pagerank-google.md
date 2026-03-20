@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 08:09"
 date_modified: "2026-03-09 08:09"
 slug: "pagerank-google"
-url: "https://blotmkt.com/ia/definition/pagerank-google"
+url: "https://blotmkt.com/ia/definition/pagerank-google.html"
 canonical: "https://blotmkt.com/ia/definition/pagerank-google.html"
 related_articles:
   - title: "Le mandat SEO pour entreprise : de la stratégie à la performance et la visibilité"

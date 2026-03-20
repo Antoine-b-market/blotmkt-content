@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 17:57"
 date_modified: "2026-03-09 17:57"
 slug: "visibilite-ia"
-url: "https://blotmkt.com/ia/ia-seo-geo/visibilite-ia"
+url: "https://blotmkt.com/ia/ia-seo-geo/visibilite-ia.html"
 canonical: "https://blotmkt.com/ia/ia-seo-geo/visibilite-ia.html"
 related_articles:
   - title: "Le rayon de visibilité : comment être reconnu par l'ia, pas seulement vu"

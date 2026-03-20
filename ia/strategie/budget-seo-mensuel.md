@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 17:28"
 date_modified: "2026-03-09 17:28"
 slug: "budget-seo-mensuel"
-url: "https://blotmkt.com/ia/strategie/budget-seo-mensuel"
+url: "https://blotmkt.com/ia/strategie/budget-seo-mensuel.html"
 canonical: "https://blotmkt.com/ia/strategie/budget-seo-mensuel.html"
 related_articles:
   - title: "Calculer et optimiser la rentabilité SEO : le guide pratique"

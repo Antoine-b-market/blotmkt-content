@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 17:44"
 date_modified: "2026-03-09 17:44"
 slug: "taux-horaire-agence"
-url: "https://blotmkt.com/ia/strategie/taux-horaire-agence"
+url: "https://blotmkt.com/ia/strategie/taux-horaire-agence.html"
 canonical: "https://blotmkt.com/ia/strategie/taux-horaire-agence.html"
 related_articles:
   - title: "Agence SEO Montréal : votre partenaire stratégique pour une croissance durable"

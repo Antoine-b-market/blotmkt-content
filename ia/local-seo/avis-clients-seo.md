@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 19:03"
 date_modified: "2026-03-09 19:03"
 slug: "avis-clients-seo"
-url: "https://blotmkt.com/ia/local-seo/avis-clients-seo"
+url: "https://blotmkt.com/ia/local-seo/avis-clients-seo.html"
 canonical: "https://blotmkt.com/ia/local-seo/avis-clients-seo.html"
 related_articles:
   - title: "Agence SEO Montréal : votre partenaire stratégique pour une croissance durable"

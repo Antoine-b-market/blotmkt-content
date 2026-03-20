@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 17:46"
 date_modified: "2026-03-09 17:46"
 slug: "search-generative-experience-(sge)"
-url: "https://blotmkt.com/ia/ia-seo-geo/search-generative-experience-(sge)"
+url: "https://blotmkt.com/ia/ia-seo-geo/search-generative-experience-(sge).html"
 canonical: "https://blotmkt.com/ia/ia-seo-geo/search-generative-experience-(sge).html"
 related_articles:
   - title: "Réponses IA Google : le guide pour adapter votre SEO à la SGE et aux AI Overviews"

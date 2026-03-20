@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 16:39"
 date_modified: "2026-03-09 16:39"
 slug: "seo-b2b"
-url: "https://blotmkt.com/ia/strategie/seo-b2b"
+url: "https://blotmkt.com/ia/strategie/seo-b2b.html"
 canonical: "https://blotmkt.com/ia/strategie/seo-b2b.html"
 related_articles:
   - title: "SEO pour startup : comment devenir une référence dans votre niche"

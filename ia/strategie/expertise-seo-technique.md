@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 17:13"
 date_modified: "2026-03-09 17:13"
 slug: "expertise-seo-technique"
-url: "https://blotmkt.com/ia/strategie/expertise-seo-technique"
+url: "https://blotmkt.com/ia/strategie/expertise-seo-technique.html"
 canonical: "https://blotmkt.com/ia/strategie/expertise-seo-technique.html"
 related_articles:
   - title: "Salaire expert SEO : le guide 2024 des rémunérations par niveau d'expérience"

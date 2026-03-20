@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 06:38"
 date_modified: "2026-03-09 06:38"
 slug: "sitemap-xml-audit"
-url: "https://blotmkt.com/ia/audit/sitemap-xml-audit"
+url: "https://blotmkt.com/ia/audit/sitemap-xml-audit.html"
 canonical: "https://blotmkt.com/ia/audit/sitemap-xml-audit.html"
 related_articles:
   - title: "Audit de contenu existant : la méthode complète pour optimiser votre SEO"

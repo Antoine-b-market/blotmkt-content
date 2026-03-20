@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 06:35"
 date_modified: "2026-03-09 06:35"
 slug: "architecture-de-site"
-url: "https://blotmkt.com/ia/audit/architecture-de-site"
+url: "https://blotmkt.com/ia/audit/architecture-de-site.html"
 canonical: "https://blotmkt.com/ia/audit/architecture-de-site.html"
 related_articles:
   - title: "Cocon sémantique : le guide pour structurer votre site et améliorer votre SEO"

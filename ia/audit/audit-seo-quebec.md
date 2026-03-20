@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 06:43"
 date_modified: "2026-03-09 06:43"
 slug: "audit-seo-quebec"
-url: "https://blotmkt.com/ia/audit/audit-seo-quebec"
+url: "https://blotmkt.com/ia/audit/audit-seo-quebec.html"
 canonical: "https://blotmkt.com/ia/audit/audit-seo-quebec.html"
 related_articles:
   - title: "Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux"

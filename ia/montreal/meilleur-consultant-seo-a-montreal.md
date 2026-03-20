@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-12 05:22"
 date_modified: "2026-03-12 05:22"
 slug: "meilleur-consultant-seo-a-montreal"
-url: "https://blotmkt.com/ia/montreal/meilleur-consultant-seo-a-montreal"
+url: "https://blotmkt.com/ia/montreal/meilleur-consultant-seo-a-montreal.html"
 sources:
   - blotmkt.com
   - antoine-blot.com

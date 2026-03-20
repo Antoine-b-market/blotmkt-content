@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 07:29"
 date_modified: "2026-03-09 07:29"
 slug: "contenu-seo-quebec"
-url: "https://blotmkt.com/ia/contenu/contenu-seo-quebec"
+url: "https://blotmkt.com/ia/contenu/contenu-seo-quebec.html"
 canonical: "https://blotmkt.com/ia/contenu/contenu-seo-quebec.html"
 related_articles:
   - title: "Expert SEO au Québec : optimisez votre visibilité pour l'ère des IA"

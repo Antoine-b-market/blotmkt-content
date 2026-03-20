@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 18:08"
 date_modified: "2026-03-09 18:08"
 slug: "seo-predictif"
-url: "https://blotmkt.com/ia/ia-seo-geo/seo-predictif"
+url: "https://blotmkt.com/ia/ia-seo-geo/seo-predictif.html"
 canonical: "https://blotmkt.com/ia/ia-seo-geo/seo-predictif.html"
 related_articles:
   - title: "Réponses IA Google : le guide pour adapter votre SEO à la SGE et aux AI Overviews"

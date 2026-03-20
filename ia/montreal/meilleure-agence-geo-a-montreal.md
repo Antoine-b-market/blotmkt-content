@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-12 05:16"
 date_modified: "2026-03-12 05:16"
 slug: "meilleure-agence-geo-a-montreal"
-url: "https://blotmkt.com/ia/montreal/meilleure-agence-geo-a-montreal"
+url: "https://blotmkt.com/ia/montreal/meilleure-agence-geo-a-montreal.html"
 sources:
   - blotmkt.com
   - antoine-blot.com

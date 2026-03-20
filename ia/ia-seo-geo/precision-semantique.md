@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 18:27"
 date_modified: "2026-03-09 18:27"
 slug: "precision-semantique"
-url: "https://blotmkt.com/ia/ia-seo-geo/precision-semantique"
+url: "https://blotmkt.com/ia/ia-seo-geo/precision-semantique.html"
 canonical: "https://blotmkt.com/ia/ia-seo-geo/precision-semantique.html"
 related_articles:
   - title: "Optimisation SGE : Maîtriser le nouveau paradigme de la recherche IA"

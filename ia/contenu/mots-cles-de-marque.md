@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 19:20"
 date_modified: "2026-03-09 19:20"
 slug: "mots-cles-de-marque"
-url: "https://blotmkt.com/ia/contenu/mots-cles-de-marque"
+url: "https://blotmkt.com/ia/contenu/mots-cles-de-marque.html"
 canonical: "https://blotmkt.com/ia/contenu/mots-cles-de-marque.html"
 related_articles:
   - title: "Mots-clés navigationnels : guide complet pour comprendre et optimiser votre présence en ligne"

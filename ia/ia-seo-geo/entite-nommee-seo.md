@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 18:13"
 date_modified: "2026-03-09 18:13"
 slug: "entite-nommee-seo"
-url: "https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo"
+url: "https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo.html"
 canonical: "https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo.html"
 related_articles:
   - title: "Personal branding SEO : comment construire votre autorité pour Google et l'IA"

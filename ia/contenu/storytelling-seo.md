@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 07:31"
 date_modified: "2026-03-09 07:31"
 slug: "storytelling-seo"
-url: "https://blotmkt.com/ia/contenu/storytelling-seo"
+url: "https://blotmkt.com/ia/contenu/storytelling-seo.html"
 canonical: "https://blotmkt.com/ia/contenu/storytelling-seo.html"
 related_articles:
   - title: "Recherche vocale SEO : décrypter les enjeux et optimiser sa stratégie"

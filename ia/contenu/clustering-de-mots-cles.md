@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 07:26"
 date_modified: "2026-03-09 07:26"
 slug: "clustering-de-mots-cles"
-url: "https://blotmkt.com/ia/contenu/clustering-de-mots-cles"
+url: "https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html"
 canonical: "https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html"
 related_articles:
   - title: "Topique cluster : la méthode pour structurer votre contenu et devenir une autorité thématique"

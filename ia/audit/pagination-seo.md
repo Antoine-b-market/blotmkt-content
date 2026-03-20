@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-12 05:08"
 date_modified: "2026-03-12 05:08"
 slug: "pagination-seo"
-url: "https://blotmkt.com/ia/audit/pagination-seo"
+url: "https://blotmkt.com/ia/audit/pagination-seo.html"
 related_articles:
   - title: "Budget de crawl : le guide pour l'optimiser et accélérer votre indexation"
     url: "/ia/audit/budget-de-crawl"

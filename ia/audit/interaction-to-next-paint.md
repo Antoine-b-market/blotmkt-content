@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 06:07"
 date_modified: "2026-03-09 06:07"
 slug: "interaction-to-next-paint"
-url: "https://blotmkt.com/ia/audit/interaction-to-next-paint"
+url: "https://blotmkt.com/ia/audit/interaction-to-next-paint.html"
 canonical: "https://blotmkt.com/ia/audit/interaction-to-next-paint.html"
 related_articles:
   - title: "Largest Contentful Paint (LCP) : le guide complet pour optimiser la vitesse de votre site"

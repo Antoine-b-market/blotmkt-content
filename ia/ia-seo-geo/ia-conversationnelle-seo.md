@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 18:11"
 date_modified: "2026-03-09 18:11"
 slug: "ia-conversationnelle-seo"
-url: "https://blotmkt.com/ia/ia-seo-geo/ia-conversationnelle-seo"
+url: "https://blotmkt.com/ia/ia-seo-geo/ia-conversationnelle-seo.html"
 canonical: "https://blotmkt.com/ia/ia-seo-geo/ia-conversationnelle-seo.html"
 related_articles:
   - title: "Expert SEO au Québec : optimisez votre visibilité pour l'ère des IA"

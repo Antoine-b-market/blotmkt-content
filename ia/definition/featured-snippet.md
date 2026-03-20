@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 08:19"
 date_modified: "2026-03-09 08:19"
 slug: "featured-snippet"
-url: "https://blotmkt.com/ia/definition/featured-snippet"
+url: "https://blotmkt.com/ia/definition/featured-snippet.html"
 canonical: "https://blotmkt.com/ia/definition/featured-snippet.html"
 related_articles:
   - title: "Image SEO Québec : optimisez votre visibilité pour la recherche visuelle et l'IA"

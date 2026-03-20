@@ -14,7 +14,7 @@ organization_url: "https://blotmkt.com"
 date: "2026-03-09 19:33"
 date_modified: "2026-03-09 19:33"
 slug: "thin-content-seo"
-url: "https://blotmkt.com/ia/contenu/thin-content-seo"
+url: "https://blotmkt.com/ia/contenu/thin-content-seo.html"
 canonical: "https://blotmkt.com/ia/contenu/thin-content-seo.html"
 related_articles:
   - title: "Mise à jour de contenu : la méthode pour un SEO durable et centré sur l'utilisateur"
