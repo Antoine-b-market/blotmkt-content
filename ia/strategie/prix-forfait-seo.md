@@ -37,7 +37,7 @@ entre 230% et 1772% avec une moyenne de 816% de CA gagné pour 1€ investi
 , faisant du SEO un investissement stratégique à long terme
 > - Choisissez selon vos objectifs : forfait 'Start' (500-1500€/mois) pour le local, 'Croissance' (1500-4000€/mois) pour les PME, 'Premium' (+4000€/mois) pour les grands comptes
 
-Une question revient constamment chez les dirigeants : combien coûte réellement une [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) efficace ? Entre les promesses miraculeuses à 200€ par mois et les devis d'agence à plusieurs milliers d'euros, difficile de s'y retrouver. Cette confusion pousse 
+Une question revient constamment chez les dirigeants : combien coûte réellement une [Stratégie SEO](https://blotmkt.comhttps://blotmkt.com/ia/strategie/strategie-seo.html.html) efficace ? Entre les promesses miraculeuses à 200€ par mois et les devis d'agence à plusieurs milliers d'euros, difficile de s'y retrouver. Cette confusion pousse 
 89 % des petites entreprises à renoncer à une prestation SEO faute de transparence tarifaire
 . Ce guide vous explique les vrais prix du marché 2026 et comment calculer la rentabilité de votre investissement pour faire le bon choix.
 
@@ -68,7 +68,7 @@ Un Audit SEO complet prend 2-3 jours, une stratégie de contenu 3-5 jours, et le
 .
 
 L'ambition géographique modifie substantiellement l'investissement requis. 
-Le [SEO local](https://blotmkt.com/ia/definition/seo-local.html) est généralement plus accessible (200€ à 800€/mois) que le SEO national (800€ à 3 000€+/mois)
+Le [SEO local](https://blotmkt.comhttps://blotmkt.com/ia/definition/seo-local.html.html) est généralement plus accessible (200€ à 800€/mois) que le SEO national (800€ à 3 000€+/mois)
  car la concurrence reste limitée géographiquement. Enfin, l'envergure des prestations détermine le forfait final : création de Contenu, netlinking actif et support technique font grimper les tarifs mais augmentent proportionnellement les résultats.
 
 ## Grille tarifaire des forfaits SEO : quels prix pour quels résultats ?
@@ -224,10 +224,12 @@ Le TJM d'une agence ne descend jamais en dessous de 1.000€ – 1.200€, tandi
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html)
-- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
-- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web.html)
-- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel.html)
-- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)
+- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.comhttps://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html.html)
+- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.comhttps://blotmkt.com/ia/strategie/agence-seo-montreal.html.html)
+- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.comhttps://blotmkt.com/ia/strategie/audit-site-web.html.html)
+- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.comhttps://blotmkt.com/ia/strategie/budget-seo-mensuel.html.html)
+- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.comhttps://blotmkt.com/ia/strategie/conseil-seo-quebec.html.html)

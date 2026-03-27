@@ -49,7 +49,7 @@ Plus de 50% des entreprises ayant migré sans planification minutieuse subissent
 
 Une migration SEO désigne tout changement majeur affectant l'Architecture, le domaine, les URLs ou la technologie d'un site web. Contrairement à une simple mise à jour, elle implique une restructuration profonde qui impacte directement la façon dont les moteurs de recherche perçoivent et indexent votre contenu.
 
-Les objectifs stratégiques d'une migration sont multiples : améliorer l'expérience utilisateur, optimiser les performances techniques comme les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html), fusionner plusieurs sites ou adopter une nouvelle technologie. 
+Les objectifs stratégiques d'une migration sont multiples : améliorer l'expérience utilisateur, optimiser les performances techniques comme les [Core Web Vitals](https://blotmkt.comhttps://blotmkt.com/ia/audit/core-web-vitals.html.html), fusionner plusieurs sites ou adopter une nouvelle technologie. 
 Une migration bien exécutée peut améliorer le SEO, tandis qu'une migration ratée provoque des pertes durables et difficiles à récupérer
 .
 
@@ -60,7 +60,7 @@ Les risques sont considérables : sans Redirections 301 correctement implément�
 
 ### Phase 1 : pré-migration, l'audit exhaustif
 
-La préparation inclut un backup complet avec tous les éléments critiques : versions AMP, [Hreflang](https://blotmkt.com/ia/audit/hreflang.html), Données structurées, et dépendances JavaScript
+La préparation inclut un backup complet avec tous les éléments critiques : versions AMP, [Hreflang](https://blotmkt.comhttps://blotmkt.com/ia/audit/hreflang.html.html), Données structurées, et dépendances JavaScript
 . L'audit technique doit identifier chaque URL, Analyser les performances actuelles et créer le mapping de redirection. 
 Intégrez les sitemaps XML au crawl et connectez Google Analytics et Search Console pour détecter les pages orphelines et les indicateurs de performance
 .
@@ -243,10 +243,12 @@ Auditez exhaustivement le site existant, créez un plan de redirection rigoureux
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html)
-- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
-- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web.html)
-- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel.html)
-- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)
+- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.comhttps://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html.html)
+- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.comhttps://blotmkt.com/ia/strategie/agence-seo-montreal.html.html)
+- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.comhttps://blotmkt.com/ia/strategie/audit-site-web.html.html)
+- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.comhttps://blotmkt.com/ia/strategie/budget-seo-mensuel.html.html)
+- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.comhttps://blotmkt.com/ia/strategie/conseil-seo-quebec.html.html)

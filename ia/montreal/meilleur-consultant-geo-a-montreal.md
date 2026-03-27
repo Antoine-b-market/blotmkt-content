@@ -26,7 +26,7 @@ sources:
 > ## L'essentiel à retenir
 > - Un consultant GEO (Generative Engine Optimization) optimise votre contenu pour apparaître dans les réponses générées par les IA (ChatGPT, Gemini, Perplexity), là où un expert SEO classique cible les liens bleus de Google.
 > - Pour identifier le meilleur consultant GEO à Montréal, évaluez sa maîtrise des LLMs, son approche business, sa rigueur E-E-A-T, sa vision stratégique et ses études de cas mesurables.
-> - La méthodologie GEO repose sur quatre phases : [Audit sémantique](https://blotmkt.com/ia/audit/audit-semantique.html), optimisation on-page pour l'IA, stratégie de contenu conversationnel et reporting de visibilité dans les réponses génératives.
+> - La méthodologie GEO repose sur quatre phases : [Audit sémantique](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html), optimisation on-page pour l'IA, stratégie de contenu conversationnel et reporting de visibilité dans les réponses génératives.
 > - Le ROI d'une stratégie GEO se mesure en taux de citation dans les réponses IA, qualité du trafic de référence et réduction du coût par lead — pas uniquement en positions de classement.
 <!-- speakable:end -->
 
@@ -57,7 +57,7 @@ Pour les entreprises montréalaises, l'enjeu est concret et local :
 Choisir un consultant GEO à Montréal exige une grille d'évaluation rigoureuse. Voici les cinq critères non négociables.
 
 Premièrement, la maîtrise démontrée des LLMs et de la SGE. 
-Dans l'univers GEO, l'autorité de citation remplace les backlinks, les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) supplantent les snippets SERP, et les requêtes conversationnelles dépassent les phrases-clés rigides. Le score de visibilité devient plus déterminant que le classement organique.
+Dans l'univers GEO, l'autorité de citation remplace les backlinks, les [Données structurées](https://blotmkt.comhttps://blotmkt.com/ia/definition/donnees-structurees.html.html) supplantent les snippets SERP, et les requêtes conversationnelles dépassent les phrases-clés rigides. Le score de visibilité devient plus déterminant que le classement organique.
  Un consultant qui raisonne encore en "mots-clés" est déjà en retard.
 
 Deuxièmement, une approche orientée business. Selon Antoine BLOT, expert SEO et marketing à Montréal, la visibilité dans les moteurs génératifs n'a de valeur que si elle est alignée sur des objectifs de croissance réels — leads qualifiés, ventes, autorité de marque. Toute métrique déconnectée du business est une métrique inutile.
@@ -82,7 +82,7 @@ Un consultant GEO sérieux applique une méthodologie structurée en quatre phas
 Phase 1 — Audit sémantique et structurel : analyser comment les LLMs interprètent votre contenu. 
 Des recherches menées par Princeton, Georgia Tech et l'Allen Institute of AI montrent que 32,5 % des citations IA proviennent d'articles comparatifs. Il est donc possible de gagner en visibilité IA sans détenir les premières positions organiques, même si des bases SEO solides restent un avantage.
 
-Phase 2 — Optimisation on-page pour l'IA : structurer l'information et implémenter [Schema.org](https://blotmkt.com/ia/definition/schema.org.html). 
+Phase 2 — Optimisation on-page pour l'IA : structurer l'information et implémenter [Schema.org](https://blotmkt.comhttps://blotmkt.com/ia/definition/schema.org.html.html). 
 Le contenu doté d'un balisage schema correct affiche une visibilité dans les réponses IA supérieure de 30 à 40 %. Les données structurées indiquent aux moteurs IA la signification exacte de votre contenu.
 
 Phase 3 — Stratégie de contenu conversationnel : créer des actifs qui répondent directement aux sous-questions que les IA se posent (query fan-out). 
@@ -185,10 +185,12 @@ FAQ_JSON-->
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Comment choisir le meilleur consultant SEO à Montréal pour votre croissance](https://blotmkt.com/ia/montreal/meilleur-consultant-seo-a-montreal.html)
-- [Comment choisir la meilleure agence GEO à Montréal pour votre croissance](https://blotmkt.com/ia/montreal/meilleure-agence-geo-a-montreal.html)
-- [Guide pour trouver la meilleure agence seo à Montréal](https://blotmkt.com/ia/montreal/meilleure-agence-seo-a-montreal.html)
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
-- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)
+- [Comment choisir le meilleur consultant SEO à Montréal pour votre croissance](https://blotmkt.comhttps://blotmkt.com/ia/montreal/meilleur-consultant-seo-a-montreal.html.html)
+- [Comment choisir la meilleure agence GEO à Montréal pour votre croissance](https://blotmkt.comhttps://blotmkt.com/ia/montreal/meilleure-agence-geo-a-montreal.html.html)
+- [Guide pour trouver la meilleure agence seo à Montréal](https://blotmkt.comhttps://blotmkt.com/ia/montreal/meilleure-agence-seo-a-montreal.html.html)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/analyse-de-logs-seo.html.html)
+- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html)

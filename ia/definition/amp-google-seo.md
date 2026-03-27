@@ -31,7 +31,7 @@ related_articles:
 > ## L'essentiel à retenir
 > - 
 <!-- speakable:end -->
-L'AMP n'est plus un avantage concurrentiel depuis juin 2021, quand Google a supprimé sa priorité dans les résultats de recherche au profit des [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html)
+L'AMP n'est plus un avantage concurrentiel depuis juin 2021, quand Google a supprimé sa priorité dans les résultats de recherche au profit des [Core Web Vitals](https://blotmkt.comhttps://blotmkt.com/ia/audit/core-web-vitals.html.html)
 
 > - 
 L'AMP aura un effet minimal sur le SEO en 2025, car il n'est plus nécessaire pour optimiser la Vitesse mobile
@@ -111,8 +111,8 @@ L'objectif était d'avoir des métriques mesurables sur le terrain qui reflèten
 
 Les Core Web Vitals mesurent directement ce qui compte : Vitesse de chargement, interactivité et stabilité visuelle. Optimiser pour ces métriques améliore le classement indépendamment de l'utilisation d'AMP
 . Ces trois métriques essentielles sont : le Largest Contentful Paint (LCP), l'Interaction to Next Paint (INP) qui 
-a remplacé le [First Input Delay](https://blotmkt.com/ia/audit/first-input-delay.html) en mars 2024, capturant la réactivité sur toutes les interactions pendant la session utilisateur
-, et le [Cumulative Layout Shift](https://blotmkt.com/ia/audit/cumulative-layout-shift.html) (CLS).
+a remplacé le [First Input Delay](https://blotmkt.comhttps://blotmkt.com/ia/audit/first-input-delay.html.html) en mars 2024, capturant la réactivité sur toutes les interactions pendant la session utilisateur
+, et le [Cumulative Layout Shift](https://blotmkt.comhttps://blotmkt.com/ia/audit/cumulative-layout-shift.html.html) (CLS).
 
 ### Techniques d'optimisation modernes
 
@@ -273,10 +273,12 @@ utilisez le plugin "Accelerated Mobile Pages" > Paramètres avancés > Désactiv
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)
-- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien.html)
-- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow.html)
-- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored.html)
-- [Backlink de qualité : le guide pour acquérir des liens qui renforcent votre E-E-A-T](https://blotmkt.com/ia/definition/backlink-de-qualite.html)
+- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.comhttps://blotmkt.com/ia/definition/algorithme-google.html.html)
+- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.comhttps://blotmkt.com/ia/definition/ancre-de-lien.html.html)
+- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-nofollow.html.html)
+- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-sponsored.html.html)
+- [Backlink de qualité : le guide pour acquérir des liens qui renforcent votre E-E-A-T](https://blotmkt.comhttps://blotmkt.com/ia/definition/backlink-de-qualite.html.html)

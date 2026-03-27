@@ -32,7 +32,7 @@ related_articles:
 > - L'architecture de site est le plan d'organisation logique de votre contenu qui guide utilisateurs et robots d'exploration, servant de pilier technique pour le SEO et manifestation de votre expertise et autorité
 > - L'architecture en silo convient aux sites e-commerce pour concentrer l'autorité par thème, tandis que le modèle en topic cluster favorise la domination d'une niche sémantique pour les blogs
 > - L'Audit architectural avec des outils comme Screaming Frog permet d'identifier les pages orphelines et d'optimiser le maillage interne pour une meilleure distribution du PageRank
-> - Une refonte d'architecture génère un ROI mesurable à travers l'amélioration du taux d'Indexation, des positions moyennes et la réduction du [Taux de rebond](https://blotmkt.com/ia/audit/taux-de-rebond.html)
+> - Une refonte d'architecture génère un ROI mesurable à travers l'amélioration du taux d'Indexation, des positions moyennes et la réduction du [Taux de rebond](https://blotmkt.comhttps://blotmkt.com/ia/audit/taux-de-rebond.html.html)
 <!-- speakable:end -->
 
 La majorité des sites web souffrent d'un problème critique souvent ignoré : 
@@ -246,10 +246,12 @@ Un site bien structuré présente un taux de rebond inférieur à 50%, permet d'
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
-- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first.html)
-- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique.html)
-- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal.html)
-- [Audit SEO Québec : votre guide complet pour une visibilité optimisée](https://blotmkt.com/ia/audit/audit-seo-quebec.html)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/analyse-de-logs-seo.html.html)
+- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-mobile-first.html.html)
+- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html)
+- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-montreal.html.html)
+- [Audit SEO Québec : votre guide complet pour une visibilité optimisée](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-quebec.html.html)

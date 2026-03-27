@@ -42,7 +42,7 @@ Dans un contexte où
 le e-commerce français a atteint 175 milliards d'euros en 2024 avec une hausse de 9,6%
 , les boutiques en ligne font face à une concurrence acharnée. Le défi ? Se démarquer dans 
 les 153 000 sites marchands actifs en France
-. La solution réside dans une [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) e-commerce adaptée aux enjeux actuels, qui intègre désormais l'Optimisation pour l'intelligence artificielle et renforce la confiance utilisateur grâce aux critères E-E-A-T.
+. La solution réside dans une [Stratégie SEO](https://blotmkt.comhttps://blotmkt.com/ia/strategie/strategie-seo.html.html) e-commerce adaptée aux enjeux actuels, qui intègre désormais l'Optimisation pour l'intelligence artificielle et renforce la confiance utilisateur grâce aux critères E-E-A-T.
 
 ---
 
@@ -62,7 +62,7 @@ Cette confiance devient cruciale pour transformer le visiteur en acheteur, parti
 
 ### Le pilier technique : fondations solides
 
-L'Audit technique constitue le socle de toute stratégie SEO e-commerce. Il s'agit d'optimiser la [Vitesse de chargement](https://blotmkt.com/ia/audit/vitesse-de-chargement.html), garantir la compatibilité mobile et structurer un maillage interne efficace. 
+L'Audit technique constitue le socle de toute stratégie SEO e-commerce. Il s'agit d'optimiser la [Vitesse de chargement](https://blotmkt.comhttps://blotmkt.com/ia/audit/vitesse-de-chargement.html.html), garantir la compatibilité mobile et structurer un maillage interne efficace. 
 Google privilégiant l'index mobile-First, l'expérience mobile devient prioritaire car la majorité des acheteurs e-commerce débutent ou finalisent leurs achats en ligne
 .
 
@@ -86,7 +86,7 @@ Les pages catégories agissent comme des points centraux distribuant l'autorité
 ### Fiches produits : conversion optimisée
 
 Les fiches produits performantes combinent titres descriptifs (marque + modèle), descriptions uniques évitant le contenu fournisseur générique, et images haute qualité avec Balises alt détaillées. 
-L'utilisation de [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) pour clarifier la signification du contenu, le choix de la bonne méthode de partage des données produit et la conception d'une structure d'URL efficace sont des actions clés
+L'utilisation de [Données structurées](https://blotmkt.comhttps://blotmkt.com/ia/definition/donnees-structurees.html.html) pour clarifier la signification du contenu, le choix de la bonne méthode de partage des données produit et la conception d'une structure d'URL efficace sont des actions clés
 .
 
 Les avis clients renforcent la crédibilité et ajoutent du contenu frais. 
@@ -250,10 +250,12 @@ Distinguez les intentions informationnelles (blog, guides) des intentions transa
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html)
-- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
-- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web.html)
-- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel.html)
-- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)
+- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.comhttps://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html.html)
+- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.comhttps://blotmkt.com/ia/strategie/agence-seo-montreal.html.html)
+- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.comhttps://blotmkt.com/ia/strategie/audit-site-web.html.html)
+- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.comhttps://blotmkt.com/ia/strategie/budget-seo-mensuel.html.html)
+- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.comhttps://blotmkt.com/ia/strategie/conseil-seo-quebec.html.html)

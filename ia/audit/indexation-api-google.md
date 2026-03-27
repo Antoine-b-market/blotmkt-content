@@ -30,7 +30,7 @@ related_articles:
 <!-- speakable:start -->
 > ## L'essentiel à retenir
 > - L'API d'indexation Google permet de notifier directement Google lors d'ajouts ou de modifications de pages, en contournant l'Exploration naturelle pour accélérer l'indexation.
-> - Officiellement limitée aux pages avec [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) JobPosting et BroadcastEvent, elle peut être utilisée avec précaution pour d'autres contenus urgents ou volatiles.
+> - Officiellement limitée aux pages avec [Données structurées](https://blotmkt.comhttps://blotmkt.com/ia/definition/donnees-structurees.html.html) JobPosting et BroadcastEvent, elle peut être utilisée avec précaution pour d'autres contenus urgents ou volatiles.
 > - La mise en place nécessite un projet Google Cloud Platform, un compte de service configuré et son ajout comme propriétaire dans Google Search Console.
 > - L'API complète efficacement les Sitemaps : elle excelle pour l'urgence et la fraîcheur des contenus tandis que les sitemaps garantissent l'exhaustivité de l'exploration.
 <!-- speakable:end -->
@@ -255,10 +255,12 @@ Les sitemaps XML restent la méthode standard et recommandée. L'API IndexNow de
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
-- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)
-- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first.html)
-- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique.html)
-- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal.html)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/analyse-de-logs-seo.html.html)
+- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html)
+- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-mobile-first.html.html)
+- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html)
+- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-montreal.html.html)

@@ -29,9 +29,9 @@ related_articles:
 
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - La précision sémantique dépasse la [Densité de mots-clés](https://blotmkt.com/ia/contenu/densite-de-mots-cles.html) en alignant le contenu sur l'intention complète et nuancée de l'utilisateur, traitant les questions posées et implicites
+> - La précision sémantique dépasse la [Densité de mots-clés](https://blotmkt.comhttps://blotmkt.com/ia/contenu/densite-de-mots-cles.html.html) en alignant le contenu sur l'intention complète et nuancée de l'utilisateur, traitant les questions posées et implicites
 > - Elle améliore le classement SEO via la Longue traîne et augmente les chances d'être citée par les IA génératives (probabilité multipliée par 2 selon Semji, 2024)
-> - L'[Audit sémantique](https://blotmkt.com/ia/audit/audit-semantique.html) utilise des outils d'Analyse lexicale, l'étude de la SERP, l'identification des entités clés et la structuration via données structurées Schema.org
+> - L'[Audit sémantique](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html) utilise des outils d'Analyse lexicale, l'étude de la SERP, l'identification des entités clés et la structuration via données structurées Schema.org
 > - La dominance sémantique étend ce concept au niveau macro, créant une autorité thématique complète qui positionne le site comme référence incontournable
 <!-- speakable:end -->
 
@@ -46,7 +46,7 @@ les AI Overviews de Google sont désormais présents dans plus de 50% des recher
 ## Définition : au-delà du mot-clé, la pertinence du contexte
 
 La sémantique en rédaction Web désigne l'organisation des concepts et des relations de sens au sein d'un contenu afin d'en améliorer la compréhension par les moteurs de recherche et les utilisateurs
-. Contrairement à l'ancienne approche quantitative de densité de mots-clés, la précision sémantique privilégie l'alignement qualitatif entre le contenu et l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) complète.
+. Contrairement à l'ancienne approche quantitative de densité de mots-clés, la précision sémantique privilégie l'alignement qualitatif entre le contenu et l'[Intention de recherche](https://blotmkt.comhttps://blotmkt.com/ia/contenu/intention-de-recherche.html.html) complète.
 
 Cette évolution répond aux transformations comportementales : 
 avant, on tapait des mots clés précis, par exemple « rédacteur web SEO pas cher freelance ». Aujourd'hui, on pose plutôt une question : « Quels sont les tarifs d'un rédacteur web SEO freelance et comment sont-ils calculés ? »
@@ -230,10 +230,12 @@ Depuis 2013, le classement des pages se fait plus intelligemment grâce à l'alg
 
 ---
 
+---
+
 ## Articles connexes
 
-- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
-- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
-- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
-- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
-- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
+- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html.html)
+- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html.html)
+- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html.html)
+- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html.html)
+- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html.html)

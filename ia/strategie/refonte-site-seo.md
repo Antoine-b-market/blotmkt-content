@@ -47,7 +47,7 @@ Contrairement à une refonte de site classique qui se concentre principalement s
 . Tandis qu'une refonte graphique se limite à l'interface utilisateur, la charte graphique et l'esthétique, la refonte SEO englobe la structure technique, l'Architecture de l'information et l'optimisation des contenus.
 
 Sauf en cas de refonte purement Graphique, avec une structure et une architecture du site conservée à l'identique, il est probable que les Urls (adresses) de vos pages aient changé
-. Cette différence fondamentale explique pourquoi une approche purement visuelle représente un risque majeur de perte de visibilité organique. La refonte SEO intègre dès la conception les objectifs business et la performance technique ([Vitesse de chargement](https://blotmkt.com/ia/audit/vitesse-de-chargement.html), crawlabilité), créant une synergie entre l'attractivité visuelle et l'efficacité algorithmique.
+. Cette différence fondamentale explique pourquoi une approche purement visuelle représente un risque majeur de perte de visibilité organique. La refonte SEO intègre dès la conception les objectifs business et la performance technique ([Vitesse de chargement](https://blotmkt.comhttps://blotmkt.com/ia/audit/vitesse-de-chargement.html.html), crawlabilité), créant une synergie entre l'attractivité visuelle et l'efficacité algorithmique.
 
 ### L'impact sur les métriques qualitatives
 
@@ -227,10 +227,12 @@ Une faible baisse pendant quelques jours est possible, due aux perturbations cau
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html)
-- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
-- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web.html)
-- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel.html)
-- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)
+- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.comhttps://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html.html)
+- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.comhttps://blotmkt.com/ia/strategie/agence-seo-montreal.html.html)
+- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.comhttps://blotmkt.com/ia/strategie/audit-site-web.html.html)
+- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.comhttps://blotmkt.com/ia/strategie/budget-seo-mensuel.html.html)
+- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.comhttps://blotmkt.com/ia/strategie/conseil-seo-quebec.html.html)

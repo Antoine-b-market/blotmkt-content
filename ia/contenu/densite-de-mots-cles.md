@@ -146,7 +146,7 @@ si votre article contient 500 mots et si le mot-clé principal apparaît 5 fois,
 
 Avec l'évolution des algorithmes des moteurs de recherche, l'importance de cette métrique a diminué, les moteurs de recherche favorisant désormais la qualité du contenu et la pertinence contextuelle
 . 
-Sans un bon positionnement organique, votre Contenu ne sera pas dans la base de données des LLM. La [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) et la stratégie GEO ne sont pas en compétition, elles sont en séquence : d'abord un socle SEO solide, ensuite une couche GEO pour amplifier votre visibilité dans les réponses génératives
+Sans un bon positionnement organique, votre Contenu ne sera pas dans la base de données des LLM. La [Stratégie SEO](https://blotmkt.comhttps://blotmkt.com/ia/strategie/strategie-seo.html.html) et la stratégie GEO ne sont pas en compétition, elles sont en séquence : d'abord un socle SEO solide, ensuite une couche GEO pour amplifier votre visibilité dans les réponses génératives
 .
 
 ---
@@ -263,10 +263,12 @@ Sans un bon positionnement organique, votre Contenu ne sera pas dans la base de 
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)
-- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant.html)
-- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo.html)
-- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action.html)
-- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)
+- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.comhttps://blotmkt.com/ia/contenu/alt-text-image.html.html)
+- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/contenu/audit-contenu-existant.html.html)
+- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.comhttps://blotmkt.com/ia/contenu/balise-h1-seo.html.html)
+- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.comhttps://blotmkt.com/ia/contenu/call-to-action.html.html)
+- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.comhttps://blotmkt.com/ia/contenu/clustering-de-mots-cles.html.html)

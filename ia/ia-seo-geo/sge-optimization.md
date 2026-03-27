@@ -30,7 +30,7 @@ related_articles:
 <!-- speakable:start -->
 > ## L'essentiel à retenir
 > - L'Optimisation SGE (Search Generative Experience) vise à positionner votre contenu dans les AI Overviews de Google, qui apparaissent désormais dans plus de 85% des recherches
-> - Les stratégies GEO incluent l'optimisation sémantique, la structuration pour la citabilité et l'implémentation de [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) pour améliorer la compréhension par les IA
+> - Les stratégies GEO incluent l'optimisation sémantique, la structuration pour la citabilité et l'implémentation de [Données structurées](https://blotmkt.comhttps://blotmkt.com/ia/definition/donnees-structurees.html.html) pour améliorer la compréhension par les IA
 > - Le SEO traditionnel reste fondamental pour le SGE : 
 <!-- speakable:end -->
 99% des AI Overviews citent le top 10 organique, ce qui signifie qu'il faut d'abord bien se classer pour avoir une chance d'être cité
@@ -102,7 +102,7 @@ La GEO vise à établir l'autorité. Si ChatGPT cite votre recherche, les utilis
 . Cette différence fondamentale modifie les métriques de succès : de la génération de clics vers l'établissement d'autorité.
 
 L'E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) devient encore plus critique. 
-Les signaux E-E-A-T sont la base de la [Visibilité SGE](https://blotmkt.com/ia/ia-seo-geo/visibilite-sge.html), nécessitant des références démontrables et des connaissances de première main pour obtenir des citations
+Les signaux E-E-A-T sont la base de la [Visibilité SGE](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/visibilite-sge.html.html), nécessitant des références démontrables et des connaissances de première main pour obtenir des citations
 . Les IA évaluent la crédibilité différemment des Algorithmes traditionnels.
 
 Les signaux de marque prennent une importance accrue. 
@@ -287,10 +287,12 @@ Non,
 
 ---
 
+---
+
 ## Articles connexes
 
-- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
-- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
-- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
-- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
-- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
+- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html.html)
+- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html.html)
+- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html.html)
+- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html.html)
+- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html.html)

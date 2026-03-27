@@ -34,13 +34,13 @@ related_articles:
 Le format WebP développé par Google offre une compression 25 à 35% plus efficace que JPEG à qualité visuelle équivalente
 
 > - 
-WebP améliore directement les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html), notamment le LCP (Largest Contentful Paint) grâce à des temps de chargement réduits
+WebP améliore directement les [Core Web Vitals](https://blotmkt.comhttps://blotmkt.com/ia/audit/core-web-vitals.html.html), notamment le LCP (Largest Contentful Paint) grâce à des temps de chargement réduits
 
 > - 
 Le format AVIF surpasse WebP avec 50% de compression supplémentaire mais reste limité par sa compatibilité navigateur (92% contre 97% pour WebP)
 
 Vous perdez des visiteurs à cause d'images trop lourdes ? 
-Seulement 62% des sites mobiles atteignent un bon score LCP ([Largest Contentful Paint](https://blotmkt.com/ia/audit/largest-contentful-paint.html)) en 2024
+Seulement 62% des sites mobiles atteignent un bon score LCP ([Largest Contentful Paint](https://blotmkt.comhttps://blotmkt.com/ia/audit/largest-contentful-paint.html.html)) en 2024
 , l'un des critères essentiels des Core Web Vitals de Google. La compression WebP représente la solution la plus efficace pour réduire le poids de vos Images sans compromettre leur qualité visuelle, améliorant ainsi instantanément votre SEO et l'expérience utilisateur.
 
 ---
@@ -237,10 +237,12 @@ Selon CanIUse.com, environ 94,25% des utilisateurs globaux peuvent utiliser WebP
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
-- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)
-- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first.html)
-- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique.html)
-- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal.html)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/analyse-de-logs-seo.html.html)
+- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html)
+- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-mobile-first.html.html)
+- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html)
+- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-montreal.html.html)

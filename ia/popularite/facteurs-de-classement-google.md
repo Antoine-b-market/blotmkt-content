@@ -36,7 +36,7 @@ Google utilise plus de 200 facteurs de classement
 la qualité du contenu, les backlinks et les aspects techniques
  restent les piliers fondamentaux
 > - 
-Les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) sont un facteur de classement confirmé depuis juin 2021
+Les [Core Web Vitals](https://blotmkt.comhttps://blotmkt.com/ia/audit/core-web-vitals.html.html) sont un facteur de classement confirmé depuis juin 2021
 , mais 
 leur poids reste modéré comparé à la pertinence du contenu
 
@@ -115,7 +115,7 @@ Google n'utilise pas le score Lighthouse pour le classement, uniquement les donn
 
 ### Test des résultats enrichis
 
-Les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) ne peuvent être mesurées que sur le terrain avec des utilisateurs réels
+Les [Données structurées](https://blotmkt.comhttps://blotmkt.com/ia/definition/donnees-structurees.html.html) ne peuvent être mesurées que sur le terrain avec des utilisateurs réels
 , d'où l'importance de valider leur implémentation avec les outils officiels de Google pour s'assurer qu'elles génèrent bien des résultats enrichis.
 
 ## Le ROI des optimisations avancées : données structurées et résultats enrichis
@@ -267,10 +267,12 @@ Utilisez les outils gratuits de Google comme PageSpeed Insights, Search Console 
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO](https://blotmkt.com/ia/popularite/algorithme-penalite.html)
-- [Désindexation google: guide pratique pour contrôler votre visibilité en ligne](https://blotmkt.com/ia/popularite/desindexation-google.html)
-- [Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité](https://blotmkt.com/ia/popularite/filtre-google.html)
-- [Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne](https://blotmkt.com/ia/popularite/guest-blogging-seo.html)
-- [Action manuelle Google : le guide complet pour l'identifier et la corriger](https://blotmkt.com/ia/popularite/manuel-action-google.html)
+- [Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/popularite/algorithme-penalite.html.html)
+- [Désindexation google: guide pratique pour contrôler votre visibilité en ligne](https://blotmkt.comhttps://blotmkt.com/ia/popularite/desindexation-google.html.html)
+- [Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité](https://blotmkt.comhttps://blotmkt.com/ia/popularite/filtre-google.html.html)
+- [Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne](https://blotmkt.comhttps://blotmkt.com/ia/popularite/guest-blogging-seo.html.html)
+- [Action manuelle Google : le guide complet pour l'identifier et la corriger](https://blotmkt.comhttps://blotmkt.com/ia/popularite/manuel-action-google.html.html)

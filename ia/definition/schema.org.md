@@ -45,7 +45,7 @@ les utilisateurs cliquent sur les résultats enrichis 58% du temps contre 41% po
 
 ## Qu'est-ce que Schema.org : un langage commun pour les moteurs de recherche
 
-Schema.org est un vocabulaire structuré créé en 2011 par Google, Yahoo, Bing et Yandex pour établir une cohérence des [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) sur internet
+Schema.org est un vocabulaire structuré créé en 2011 par Google, Yahoo, Bing et Yandex pour établir une cohérence des [Données structurées](https://blotmkt.comhttps://blotmkt.com/ia/definition/donnees-structurees.html.html) sur internet
 . Ce projet indépendant fonctionne comme un dictionnaire universel que les webmasters utilisent pour décrire le contenu de leurs pages web de manière non ambiguë.
 
 Concrètement, Schema.org permet d'indiquer aux Moteurs de recherche qu'une information spécifique correspond à un prix, une note d'évaluation, une adresse ou tout autre élément défini dans leur vocabulaire. 
@@ -253,10 +253,12 @@ Sur WordPress, utilisez des plugins comme RankMath ou Yoast SEO qui génèrent a
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)
-- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo.html)
-- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien.html)
-- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow.html)
-- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored.html)
+- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.comhttps://blotmkt.com/ia/definition/algorithme-google.html.html)
+- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.comhttps://blotmkt.com/ia/definition/amp-google-seo.html.html)
+- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.comhttps://blotmkt.com/ia/definition/ancre-de-lien.html.html)
+- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-nofollow.html.html)
+- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-sponsored.html.html)

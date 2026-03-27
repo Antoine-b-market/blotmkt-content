@@ -53,7 +53,7 @@ Un spécialiste SEO expérimenté avec une expérience minimum de 5 années
 Une page en première position sur un moteur de recherche a un taux de clics moyen d'environ 39,8 %
 , justifiant l'importance de cette expertise.
 
-La stratégie de contenu implique de piloter la création de contenu qui répond à l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) tout en générant des conversions. Le netlinking développe la popularité du site via des stratégies d'acquisition de liens de qualité. Enfin, l'analyse et le reporting transforment les données (trafic, positions, conversions) en insights actionnables pour la direction.
+La stratégie de contenu implique de piloter la création de contenu qui répond à l'[Intention de recherche](https://blotmkt.comhttps://blotmkt.com/ia/contenu/intention-de-recherche.html.html) tout en générant des conversions. Le netlinking développe la popularité du site via des stratégies d'acquisition de liens de qualité. Enfin, l'analyse et le reporting transforment les données (trafic, positions, conversions) en insights actionnables pour la direction.
 
 ## Agence, annonceur, freelance : quel écosystème SEO choisir ?
 
@@ -86,13 +86,13 @@ Le calcul du ROI démontre qu'un bon SEO génère un trafic qualifié durable, r
 En 2025, une PME montréalaise investit en moyenne 1 289 $ par mois pour améliorer sa Visibilité organique, avec une fourchette courante allant de 800 $ à 2 500 $/mois
 .
 
-L'impact business se mesure par la corrélation directe entre la visibilité organique sur des [Mots-clés transactionnels](https://blotmkt.com/ia/contenu/mots-cles-transactionnels.html) et l'augmentation du chiffre d'affaires. Chaque position gagnée et chaque contenu performant valorise l'entreprise sur le long terme.
+L'impact business se mesure par la corrélation directe entre la visibilité organique sur des [Mots-clés transactionnels](https://blotmkt.comhttps://blotmkt.com/ia/contenu/mots-cles-transactionnels.html.html) et l'augmentation du chiffre d'affaires. Chaque position gagnée et chaque contenu performant valorise l'entreprise sur le long terme.
 
 ## Les compétences clés pour un emploi SEO performant à Montréal
 
 ### Expertise technique et soft skills indispensables
 
-La maîtrise technique inclut le SEO on-page, l'[Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site.html), l'analyse des logs et une compréhension des langages web (HTML/CSS/JS). 
+La maîtrise technique inclut le SEO on-page, l'[Architecture de site](https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html), l'analyse des logs et une compréhension des langages web (HTML/CSS/JS). 
 Il faut maîtriser parfaitement les outils et techniques du SEO ainsi qu'avoir une solide connaissance de la suite office et des outils SEO
 .
 
@@ -244,10 +244,12 @@ L'avantage des formations certifiantes est l'accès à l'expertise d'un formateu
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html)
-- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
-- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web.html)
-- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel.html)
-- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)
+- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.comhttps://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html.html)
+- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.comhttps://blotmkt.com/ia/strategie/agence-seo-montreal.html.html)
+- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.comhttps://blotmkt.com/ia/strategie/audit-site-web.html.html)
+- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.comhttps://blotmkt.com/ia/strategie/budget-seo-mensuel.html.html)
+- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.comhttps://blotmkt.com/ia/strategie/conseil-seo-quebec.html.html)

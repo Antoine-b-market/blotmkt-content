@@ -29,7 +29,7 @@ related_articles:
 
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - Le fichier robots.txt est un fichier texte placé à la racine d'un site qui guide les robots d'exploration vers les pages importantes tout en préservant le [Budget de crawl](https://blotmkt.com/ia/audit/budget-de-crawl.html)
+> - Le fichier robots.txt est un fichier texte placé à la racine d'un site qui guide les robots d'exploration vers les pages importantes tout en préservant le [Budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/budget-de-crawl.html.html)
 > - Contrairement à la balise meta `noindex`, le robots.txt agit sur l'Exploration (crawl) et non sur l'indexation : une page bloquée peut quand même être indexée si elle reçoit des liens externes
 > - Créer un robots.txt optimisé nécessite un éditeur texte simple, une syntaxe précise (User-agent, Disallow) et un test via Google Search Console
 > - Utilisez le robots.txt pour bloquer les pages techniques sans valeur SEO : recherche interne, connexion, paramètres de session ou fichiers administratifs
@@ -256,10 +256,12 @@ L'intérêt, c'est que l'on peut définir quel robot de moteur de recherche aura
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
-- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)
-- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first.html)
-- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique.html)
-- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal.html)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/analyse-de-logs-seo.html.html)
+- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html)
+- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-mobile-first.html.html)
+- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html)
+- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-montreal.html.html)

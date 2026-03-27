@@ -82,7 +82,7 @@ Les agences québécoises proposent généralement trois forfaits distincts pour
 
 La tarification à la performance, basée sur les leads générés ou les ventes, aligne parfaitement les intérêts des SaaS avec leurs prestataires. 
 Certaines entreprises adoptent une approche hybride : un profil SEO en interne qui gère les opérations quotidiennes et une agence externe qui pilote la stratégie et les aspects complexes
-. Cette combinaison optimise les coûts tout en conservant l'expertise nécessaire pour les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) et le netlinking avancé.
+. Cette combinaison optimise les coûts tout en conservant l'expertise nécessaire pour les [Core Web Vitals](https://blotmkt.comhttps://blotmkt.com/ia/audit/core-web-vitals.html.html) et le netlinking avancé.
 
 ## Facteurs clés influençant les coûts et la valeur du SEO au Québec
 
@@ -124,9 +124,9 @@ Une fois qu'un site atteint une position élevée, il peut maintenir sa Visibili
 
 ### Compétences techniques et certifications valorisées
 
-L'expertise moderne couvre trois piliers : [Optimisation de contenu](https://blotmkt.com/ia/contenu/optimisation-de-contenu.html) pour les utilisateurs et moteurs de recherche, amélioration des performances techniques, et développement du netlinking pour accroître l'autorité du domaine
+L'expertise moderne couvre trois piliers : [Optimisation de contenu](https://blotmkt.comhttps://blotmkt.com/ia/contenu/optimisation-de-contenu.html.html) pour les utilisateurs et moteurs de recherche, amélioration des performances techniques, et développement du netlinking pour accroître l'autorité du domaine
 . 
-Les Core Web Vitals deviennent non négociables : [Vitesse de chargement](https://blotmkt.com/ia/audit/vitesse-de-chargement.html), stabilité visuelle, interactivité représentent des métriques cruciales que Google utilise pour évaluer l'expérience utilisateur
+Les Core Web Vitals deviennent non négociables : [Vitesse de chargement](https://blotmkt.comhttps://blotmkt.com/ia/audit/vitesse-de-chargement.html.html), stabilité visuelle, interactivité représentent des métriques cruciales que Google utilise pour évaluer l'expérience utilisateur
 . (Source : La Fusée, SMBCoach, 2025)
 
 ### Évolution professionnelle et entrepreneuriat
@@ -269,10 +269,12 @@ En DIY, comptez 0-500 $/mois pour des outils. En accompagnement stratégique (DI
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html)
-- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
-- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web.html)
-- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel.html)
-- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)
+- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.comhttps://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html.html)
+- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.comhttps://blotmkt.com/ia/strategie/agence-seo-montreal.html.html)
+- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.comhttps://blotmkt.com/ia/strategie/audit-site-web.html.html)
+- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.comhttps://blotmkt.com/ia/strategie/budget-seo-mensuel.html.html)
+- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.comhttps://blotmkt.com/ia/strategie/conseil-seo-quebec.html.html)

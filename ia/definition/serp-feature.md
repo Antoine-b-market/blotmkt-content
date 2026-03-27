@@ -53,9 +53,9 @@ près de 99% des recherches Google incluent au moins une SERP feature
 ## Définition et typologie des SERP features incontournables
 
 Une SERP feature est un composant supplémentaire d'une page de résultats qui introduit du nouveau Contenu au-delà du texte habituel décrivant un lien web, améliorant l'expérience utilisateur
-. Ces éléments englobent les featured snippets (position zéro), les blocs "People Also Ask" (PAA), les knowledge panels, les rich snippets avec [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html), ainsi que les carrousels vidéos, images et actualités.
+. Ces éléments englobent les featured snippets (position zéro), les blocs "People Also Ask" (PAA), les knowledge panels, les rich snippets avec [Données structurées](https://blotmkt.comhttps://blotmkt.com/ia/definition/donnees-structurees.html.html), ainsi que les carrousels vidéos, images et actualités.
 
-La distinction cruciale à retenir : un rich snippet améliore un résultat organique existant via [Schema.org](https://blotmkt.com/ia/definition/schema.org.html) (étoiles, prix, temps de cuisson), tandis qu'une SERP feature constitue un bloc de résultat distinct que Google génère. 
+La distinction cruciale à retenir : un rich snippet améliore un résultat organique existant via [Schema.org](https://blotmkt.comhttps://blotmkt.com/ia/definition/schema.org.html.html) (étoiles, prix, temps de cuisson), tandis qu'une SERP feature constitue un bloc de résultat distinct que Google génère. 
 Les featured snippets afFichent généralement 40-60 mots contre 169 mots en moyenne pour les AI Overviews
 . Cette différenciation technique impacte directement les stratégies d'optimisation et les métriques de performance.
 
@@ -237,10 +237,12 @@ Les rich snippets améliorent l'affichage d'un résultat organique existant (ét
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)
-- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo.html)
-- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien.html)
-- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow.html)
-- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored.html)
+- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.comhttps://blotmkt.com/ia/definition/algorithme-google.html.html)
+- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.comhttps://blotmkt.com/ia/definition/amp-google-seo.html.html)
+- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.comhttps://blotmkt.com/ia/definition/ancre-de-lien.html.html)
+- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-nofollow.html.html)
+- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-sponsored.html.html)

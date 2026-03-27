@@ -29,7 +29,7 @@ related_articles:
 
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - Une erreur 404 ne pénalise pas directement le SEO mais peut impacter votre site indirectement via l'expérience utilisateur et le [Budget de crawl](https://blotmkt.com/ia/audit/budget-de-crawl.html)
+> - Une erreur 404 ne pénalise pas directement le SEO mais peut impacter votre site indirectement via l'expérience utilisateur et le [Budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/budget-de-crawl.html.html)
 > - Utilisez la Google Search Console (section "Pages > Introuvable (404)") et Screaming Frog pour identifier les erreurs 404 problématiques 
 > - Choisissez une redirection 301 si une page de remplacement pertinente existe, sinon utilisez un code 404 ou 410 pour les suppressions définitives
 > - Priorisez la correction des 404 qui reçoivent du trafic ou possèdent des Backlinks de qualité pour préserver votre "jus de lien"
@@ -50,7 +50,7 @@ les erreurs 404 ne nuisent pas et ne comptent pas contre vous dans les résultat
  selon la documentation officielle de Google. 
 
 L'impact réel se manifeste de trois façons : premièrement, sur l'expérience utilisateur où 
-les visiteurs qui se retrouvent sur une page introuvable sont susceptibles de quitter immédiatement votre site, ce qui augmente le [Taux de rebond](https://blotmkt.com/ia/audit/taux-de-rebond.html) et réduit le temps passé sur le site.
+les visiteurs qui se retrouvent sur une page introuvable sont susceptibles de quitter immédiatement votre site, ce qui augmente le [Taux de rebond](https://blotmkt.comhttps://blotmkt.com/ia/audit/taux-de-rebond.html.html) et réduit le temps passé sur le site.
  Deuxièmement, sur le Budget de crawl : 
 si votre site contient trop d'erreurs 404, Google pourrait ignorer des pages importantes, ce qui nuit à l'Indexation de votre contenu.
  Troisièmement, 
@@ -240,10 +240,12 @@ Une 404 indique que la page n'existe pas (côté client), tandis qu'une erreur 5
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
-- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)
-- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first.html)
-- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique.html)
-- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal.html)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/analyse-de-logs-seo.html.html)
+- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html)
+- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-mobile-first.html.html)
+- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html)
+- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-montreal.html.html)

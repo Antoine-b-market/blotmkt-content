@@ -49,7 +49,7 @@ Dans l'écosystème SEO actuel,
 ## Google Discover : le SEO au-delà de la recherche par mot-clé
 
 Google Discover est un flux de contenu personnalisé qui affiche des articles et vidéos basés sur l'historique de recherche, la localisation, les intérêts et le comportement des utilisateurs
-. Contrairement au SEO traditionnel centré sur l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html), 
+. Contrairement au SEO traditionnel centré sur l'[Intention de recherche](https://blotmkt.comhttps://blotmkt.com/ia/contenu/intention-de-recherche.html.html), 
 vous n'apparaissez pas dans Discover en utilisant des mots-clés, mais par pertinence, actualité et intérêt utilisateur
 .
 
@@ -78,7 +78,7 @@ Il faut se concentrer au maximum sur les facteurs E-E-A-T, car c'est extrêmemen
 
 La performance technique reste déterminante : 
 L'un des facteurs de classement les plus clairs pour Google Discover et Google Search est la Vitesse de page. Google privilégie toujours les pages rapides
-. Les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) optimisés et la compatibilité mobile constituent des prérequis non négociables.
+. Les [Core Web Vitals](https://blotmkt.comhttps://blotmkt.com/ia/audit/core-web-vitals.html.html) optimisés et la compatibilité mobile constituent des prérequis non négociables.
 
 ### Signaux techniques spécifiques
 
@@ -109,7 +109,7 @@ Les types de Contenus les plus pertinents pour Discover incluent : actualités e
 Bien que 46% des URL Discover proviennent de sites d'actualités et 44% d'e-commerce
 , la performance varie selon l'engagement généré.
 
-Le [Contenu evergreen](https://blotmkt.com/ia/contenu/contenu-evergreen.html) offre une pertinence durable, mais Discover tend à favoriser les actualités récentes, les tendances et les pièces liées à des événements
+Le [Contenu evergreen](https://blotmkt.comhttps://blotmkt.com/ia/contenu/contenu-evergreen.html.html) offre une pertinence durable, mais Discover tend à favoriser les actualités récentes, les tendances et les pièces liées à des événements
 . La stratégie gagnante combine Contenu d'actualité et angles frais sur des sujets établis.
 
 ### Optimisation éditoriale spécifique
@@ -274,10 +274,12 @@ Utilisez Google Search Console (rapport recommandations) pour découvrir la fré
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)
-- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo.html)
-- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien.html)
-- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow.html)
-- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored.html)
+- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.comhttps://blotmkt.com/ia/definition/algorithme-google.html.html)
+- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.comhttps://blotmkt.com/ia/definition/amp-google-seo.html.html)
+- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.comhttps://blotmkt.com/ia/definition/ancre-de-lien.html.html)
+- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-nofollow.html.html)
+- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-sponsored.html.html)

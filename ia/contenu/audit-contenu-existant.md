@@ -49,7 +49,7 @@ Un Audit de contenu existant consiste en un inventaire systématique et une éva
 72% des spécialistes du marketing considèrent que la création de Contenu pertinent est la tactique la plus efficace pour améliorer le ROI
 , mais encore faut-il savoir identifier ce qui fonctionne réellement.
 
-L'objectif stratégique principal consiste à catégoriser vos contenus entre trois groupes : les "winners" (contenus performants générant du trafic et des conversions), les "losers" (pages obsolètes ou peu performantes), et les opportunités cachées (contenus à potentiel inexploité). Cette classification permet d'optimiser votre [Budget de crawl](https://blotmkt.com/ia/audit/budget-de-crawl.html), de résoudre les problèmes de cannibalisation de mots-clés et d'augmenter l'autorité thématique globale de votre site.
+L'objectif stratégique principal consiste à catégoriser vos contenus entre trois groupes : les "winners" (contenus performants générant du trafic et des conversions), les "losers" (pages obsolètes ou peu performantes), et les opportunités cachées (contenus à potentiel inexploité). Cette classification permet d'optimiser votre [Budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/budget-de-crawl.html.html), de résoudre les problèmes de cannibalisation de mots-clés et d'augmenter l'autorité thématique globale de votre site.
 
 ## La méthode en 4 étapes pour un audit de contenu efficace
 
@@ -58,7 +58,7 @@ L'objectif stratégique principal consiste à catégoriser vos contenus entre tr
 La première étape consiste à réaliser un inventaire exhaustif de vos URLs en utilisant un crawler professionnel comme Screaming Frog pour lister tout le contenu indexable. Cette phase technique révèle souvent des surprises : pages dupliquées, URLs orphelines ou contenus cachés dans l'Architecture.
 
 L'étape suivante implique la collecte et l'agrégation des données quantitatives (trafic organique via Google Analytics, backlinks via Ahrefs, positions dans Search Console) et qualitatives (temps passé sur la page, taux de retour, partages sociaux). Ces métriques d'engagement révèlent la valeur perçue par l'utilisateur, au-delà des simples chiffres SEO. 
-Une [Méta description](https://blotmkt.com/ia/contenu/meta-description.html) optimisée peut augmenter le CTR de +43%
+Une [Méta description](https://blotmkt.comhttps://blotmkt.com/ia/contenu/meta-description.html.html) optimisée peut augmenter le CTR de +43%
 , illustrant l'impact direct de l'Optimisation sur les performances.
 
 La troisième phase Analyse et classifie chaque URL selon sa performance, sa pertinence et sa qualité pour lui attribuer un score ou une catégorie. Enfin, la dernière étape définit une action précise pour chaque contenu dans une feuille de route priorisée et budgétée.
@@ -230,10 +230,12 @@ Emmanuelle Wiesemes SEO 2026, Les Makers statistiques, Occeo Audit pricing, Incr
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)
-- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo.html)
-- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action.html)
-- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)
-- [Analyse de content gap en SEO : la méthode pour identifier et combler vos lacunes de contenu](https://blotmkt.com/ia/contenu/content-gap-seo.html)
+- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.comhttps://blotmkt.com/ia/contenu/alt-text-image.html.html)
+- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.comhttps://blotmkt.com/ia/contenu/balise-h1-seo.html.html)
+- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.comhttps://blotmkt.com/ia/contenu/call-to-action.html.html)
+- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.comhttps://blotmkt.com/ia/contenu/clustering-de-mots-cles.html.html)
+- [Analyse de content gap en SEO : la méthode pour identifier et combler vos lacunes de contenu](https://blotmkt.comhttps://blotmkt.com/ia/contenu/content-gap-seo.html.html)

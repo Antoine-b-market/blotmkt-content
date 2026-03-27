@@ -97,7 +97,7 @@ Le contenu de faible valeur constitue la seconde cause majeure.
 Google a détecté des pages de faible qualité ou qui présentent peu d'intérêt sur votre site. Voici quelques exemples courants de pages dont le contenu est peu informatif et ne présente que peu ou pas d'intérêt : ... Contenu provenant d'autres sources (par exemple, contenu détourné ou articles de blog de mauvaise qualité rédigés par des invités)
  Le duplicate Content, le texte généré automatiquement et les pages satellites (doorway pages) entrent dans cette catégorie.
 
-Aujourd'hui, Google utilise l'IA pour détecter les sites qui abusent d'un générateur de contenu ia pour produire des textes sans expertise réelle. La mise à jour « Helpful Content » de 2024 a été le point de départ d'une désindexation massive des sites s'appuyant exclusivement sur le [Contenu IA SEO](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html).
+Aujourd'hui, Google utilise l'IA pour détecter les sites qui abusent d'un générateur de contenu ia pour produire des textes sans expertise réelle. La mise à jour « Helpful Content » de 2024 a été le point de départ d'une désindexation massive des sites s'appuyant exclusivement sur le [Contenu IA SEO](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html.html).
  Cette évolution récente montre l'importance croissante de la valeur ajoutée humaine dans le contenu.
 
 Les techniques de spam complètent ce triptyque avec le cloaking (affichage de contenu différent pour Google et les utilisateurs), le texte ou les liens cachés, et diverses formes d'ingénierie sociale.
@@ -239,10 +239,12 @@ Une pénalité manuelle implique une intervention humaine avec notification obli
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO](https://blotmkt.com/ia/popularite/algorithme-penalite.html)
-- [Désindexation google: guide pratique pour contrôler votre visibilité en ligne](https://blotmkt.com/ia/popularite/desindexation-google.html)
-- [Facteurs de classement google : le guide basé sur la documentation officielle](https://blotmkt.com/ia/popularite/facteurs-de-classement-google.html)
-- [Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité](https://blotmkt.com/ia/popularite/filtre-google.html)
-- [Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne](https://blotmkt.com/ia/popularite/guest-blogging-seo.html)
+- [Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/popularite/algorithme-penalite.html.html)
+- [Désindexation google: guide pratique pour contrôler votre visibilité en ligne](https://blotmkt.comhttps://blotmkt.com/ia/popularite/desindexation-google.html.html)
+- [Facteurs de classement google : le guide basé sur la documentation officielle](https://blotmkt.comhttps://blotmkt.com/ia/popularite/facteurs-de-classement-google.html.html)
+- [Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité](https://blotmkt.comhttps://blotmkt.com/ia/popularite/filtre-google.html.html)
+- [Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne](https://blotmkt.comhttps://blotmkt.com/ia/popularite/guest-blogging-seo.html.html)

@@ -86,7 +86,7 @@ Pour les algorithmiques, la mise en place de correctifs est plus compliquée mai
 La surveillance des modulations du trafic via Google Analytics constitue un bon indicateur en cas d'anomalies statistiques
 . Une chute brutale, verticale et non saisonnière représente le premier signal d'alarme à investiguer.
 
-La corrélation temporelle est cruciale : mettez en parallèle la date de perte de trafic avec celle d'une [Mise à jour Google](https://blotmkt.com/ia/ia-seo-geo/mise-a-jour-google.html) connue
+La corrélation temporelle est cruciale : mettez en parallèle la date de perte de trafic avec celle d'une [Mise à jour Google](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/mise-a-jour-google.html.html) connue
 . 
 Les sources comme SERoundtable ou MozCast publient régulièrement des chronologies de mises à jour pour croiser les données avec vos statistiques
 .
@@ -95,7 +95,7 @@ La perte de positionnement massive s'observe via les outils de suivi de rankings
 Les outils de suivi de positionnement permettent de suivre le classement d'un site sur les moteurs de recherche et d'effectuer un Audit pour détecter les facteurs impactant ce positionnement
 .
 
-L'Audit des causes potentielles doit examiner : le [Profil de liens](https://blotmkt.com/ia/definition/profil-de-liens.html) (backlinks toxiques identifiables via Ahrefs ou SEMrush), la qualité du contenu (thin content, duplicate content), et les aspects techniques comme la sur-optimisation. 
+L'Audit des causes potentielles doit examiner : le [Profil de liens](https://blotmkt.comhttps://blotmkt.com/ia/definition/profil-de-liens.html.html) (backlinks toxiques identifiables via Ahrefs ou SEMrush), la qualité du contenu (thin content, duplicate content), et les aspects techniques comme la sur-optimisation. 
 Le duplicate Content concerne environ 29% des sites web selon les dernières études sectorielles, constituant la principale cause de pénalisation
 .
 
@@ -131,7 +131,7 @@ Les corrections peuvent prendre plusieurs mois avant que Google re-crawle et ré
 
 ### Qu'est-ce que l'algorithme Google Panda ?
 
-Panda est un [Filtre Google](https://blotmkt.com/ia/popularite/filtre-google.html) qui identifie les sites de faible qualité et combat le spam en les pénalisant
+Panda est un [Filtre Google](https://blotmkt.comhttps://blotmkt.com/ia/popularite/filtre-google.html.html) qui identifie les sites de faible qualité et combat le spam en les pénalisant
 . Il évalue la qualité éditoriale, détecte le Contenu dupliqué et sanctionne les pratiques de "content farming".
 
 ### Comment faire une demande de réexamen à Google ?
@@ -253,10 +253,12 @@ Pour les pénalités manuelles, utilisez l'interface Search Console qui inclut d
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Désindexation google: guide pratique pour contrôler votre visibilité en ligne](https://blotmkt.com/ia/popularite/desindexation-google.html)
-- [Facteurs de classement google : le guide basé sur la documentation officielle](https://blotmkt.com/ia/popularite/facteurs-de-classement-google.html)
-- [Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité](https://blotmkt.com/ia/popularite/filtre-google.html)
-- [Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne](https://blotmkt.com/ia/popularite/guest-blogging-seo.html)
-- [Action manuelle Google : le guide complet pour l'identifier et la corriger](https://blotmkt.com/ia/popularite/manuel-action-google.html)
+- [Désindexation google: guide pratique pour contrôler votre visibilité en ligne](https://blotmkt.comhttps://blotmkt.com/ia/popularite/desindexation-google.html.html)
+- [Facteurs de classement google : le guide basé sur la documentation officielle](https://blotmkt.comhttps://blotmkt.com/ia/popularite/facteurs-de-classement-google.html.html)
+- [Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité](https://blotmkt.comhttps://blotmkt.com/ia/popularite/filtre-google.html.html)
+- [Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne](https://blotmkt.comhttps://blotmkt.com/ia/popularite/guest-blogging-seo.html.html)
+- [Action manuelle Google : le guide complet pour l'identifier et la corriger](https://blotmkt.comhttps://blotmkt.com/ia/popularite/manuel-action-google.html.html)

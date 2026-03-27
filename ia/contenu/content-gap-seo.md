@@ -34,7 +34,7 @@ related_articles:
 Une Analyse de content gap évalue la différence entre les mots-clés pour lesquels vous et vos concurrents êtes classés dans les résultats de recherche
 
 > - 
-Les 4 étapes clés comprennent l'identification des concurrents, l'extraction via un outil SEO, le croisement des données et l'analyse par [Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html)
+Les 4 étapes clés comprennent l'identification des concurrents, l'extraction via un outil SEO, le croisement des données et l'analyse par [Intention de recherche](https://blotmkt.comhttps://blotmkt.com/ia/contenu/intention-de-recherche.html.html)
 
 > - 
 Les outils indispensables sont SEMrush, Ahrefs et Moz avec leurs fonctionnalités "Keyword Gap" ou "Content Gap"
@@ -157,7 +157,7 @@ L'objectif évolue de la couverture de mots-clés manquants vers la couverture d
 
 ### Impact sur la recherche générative
 
-Pour rester visible, il faut se concentrer sur l'Information Gain - fournir l'expertise unique et les données sur lesquelles les [Moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/moteurs-de-reponse.html) s'appuient. Le "content gap" moderne n'est pas un manque de mots-clés mais un manque de gain informationnel, et le succès nécessite l'optimisation pour les agents IA
+Pour rester visible, il faut se concentrer sur l'Information Gain - fournir l'expertise unique et les données sur lesquelles les [Moteurs de réponse](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/moteurs-de-reponse.html.html) s'appuient. Le "content gap" moderne n'est pas un manque de mots-clés mais un manque de gain informationnel, et le succès nécessite l'optimisation pour les agents IA
 . Un contenu structuré autour des entités prépare mieux votre site pour les citations dans les réponses d'intelligence artificielle.
 
 ## Questions fréquentes
@@ -287,10 +287,12 @@ L'analyse de keyword gap compare les mots-clés pour lesquels votre site Web se 
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)
-- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant.html)
-- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo.html)
-- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action.html)
-- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)
+- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.comhttps://blotmkt.com/ia/contenu/alt-text-image.html.html)
+- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/contenu/audit-contenu-existant.html.html)
+- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.comhttps://blotmkt.com/ia/contenu/balise-h1-seo.html.html)
+- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.comhttps://blotmkt.com/ia/contenu/call-to-action.html.html)
+- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.comhttps://blotmkt.com/ia/contenu/clustering-de-mots-cles.html.html)

@@ -40,7 +40,7 @@ Les rich Snippets peuvent améliorer le taux de clic (CTR) de 30%
 JSON-LD est le format recommandé par Google : léger, flexible et parfait pour le SEO 2024
 
 > - 
-[Schema.org](https://blotmkt.com/ia/definition/schema.org.html) offre un vocabulaire hiérarchique pour décrire les entités avec 803 types, 1461 propriétés et 14 types de données
+[Schema.org](https://blotmkt.comhttps://blotmkt.com/ia/definition/schema.org.html.html) offre un vocabulaire hiérarchique pour décrire les entités avec 803 types, 1461 propriétés et 14 types de données
 
 Dans un environnement concurrentiel où 
 les 5 premiers résultats Google captent 70% des clics
@@ -262,10 +262,12 @@ JSON-LD est le format recommandé par Google car il est le plus récent et le pl
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)
-- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo.html)
-- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien.html)
-- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow.html)
-- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored.html)
+- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.comhttps://blotmkt.com/ia/definition/algorithme-google.html.html)
+- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.comhttps://blotmkt.com/ia/definition/amp-google-seo.html.html)
+- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.comhttps://blotmkt.com/ia/definition/ancre-de-lien.html.html)
+- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-nofollow.html.html)
+- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-sponsored.html.html)

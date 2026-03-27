@@ -288,10 +288,12 @@ Les prompts SEO sont de véritables outils d'Analyse éditoriale, capables de tr
 
 ---
 
+---
+
 ## Articles connexes
 
-- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
-- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
-- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
-- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
-- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
+- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html.html)
+- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html.html)
+- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html.html)
+- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html.html)
+- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html.html)

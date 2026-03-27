@@ -37,7 +37,7 @@ related_articles:
 
 Face à l'essor du contenu généré par l'utilisateur, les webmasters se retrouvent confrontés à un défi majeur : comment protéger leur site des liens potentiellement problématiques tout en préservant leur référencement ? 
 Google a introduit l'attribut rel="ugc" en septembre 2019
- pour résoudre cette problématique complexe. Cette solution offre aux propriétaires de sites un moyen précis de signaler la nature des liens utilisateurs sans compromettre leur [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html).
+ pour résoudre cette problématique complexe. Cette solution offre aux propriétaires de sites un moyen précis de signaler la nature des liens utilisateurs sans compromettre leur [Stratégie SEO](https://blotmkt.comhttps://blotmkt.com/ia/strategie/strategie-seo.html.html).
 
 ---
 
@@ -49,7 +49,7 @@ L'Attribut UGC (rel='ugc') signifie User Generated Content. Il doit être utilis
 .
 
 En 2019, Google a divisé la Balise nofollow en balises nofollow, sponsored et user-generated content et spécifié les conditions dans lesquelles elles peuvent être utilisées
-. Cette évolution répond à un besoin de [Précision sémantique](https://blotmkt.com/ia/ia-seo-geo/precision-semantique.html) dans la gestion des liens sortants.
+. Cette évolution répond à un besoin de [Précision sémantique](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/precision-semantique.html.html) dans la gestion des liens sortants.
 
 Les moteurs de recherche apprécient de connaître la nature des liens sur une page web. En marquant les liens générés par l'utilisateur avec rel="ugc", les plateformes peuvent fournir de la clarté sur la source de leurs liens
 . L'objectif principal est de distinguer les liens éditoriaux des liens ajoutés par des tiers, contribuant ainsi à la lutte contre le spam de liens (Source : SimpleTiger, 2024).
@@ -60,7 +60,7 @@ rel="sponsored" marque les liens payants ; rel="ugc" désigne le contenu génér
 .
 
 L'Attribut rel="ugc" s'utilise spécifiquement pour les liens dans les commentaires de blog, les messages de forum et les profils utilisateurs. 
-L'[Attribut Sponsored](https://blotmkt.com/ia/definition/attribut-sponsored.html) (rel="sponsored") est spécifiquement utilisé pour les hyperliens de nature promotionnelle. Avant leur création, les liens payants étaient catégorisés comme liens nofollow, ce qui s'avérait extrêmement trompeur. Le nouvel attribut sponsored aide Google à identifier les liens publicitaires séparément
+L'[Attribut Sponsored](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-sponsored.html.html) (rel="sponsored") est spécifiquement utilisé pour les hyperliens de nature promotionnelle. Avant leur création, les liens payants étaient catégorisés comme liens nofollow, ce qui s'avérait extrêmement trompeur. Le nouvel attribut sponsored aide Google à identifier les liens publicitaires séparément
 .
 
 L'Attribut rel="nofollow" reste l'option générique pour les liens non cautionnés. 
@@ -230,10 +230,12 @@ Actuellement, très peu de sites web utilisent les attributs rel="sponsored" et 
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)
-- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo.html)
-- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien.html)
-- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow.html)
-- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored.html)
+- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.comhttps://blotmkt.com/ia/definition/algorithme-google.html.html)
+- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.comhttps://blotmkt.com/ia/definition/amp-google-seo.html.html)
+- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.comhttps://blotmkt.com/ia/definition/ancre-de-lien.html.html)
+- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-nofollow.html.html)
+- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-sponsored.html.html)

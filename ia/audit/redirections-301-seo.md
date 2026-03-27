@@ -67,7 +67,7 @@ Les redirections donnent un signal positif aux moteurs de recherche, permettant 
 
 ## Redirection 301 vs 302 : choisir le bon signal pour Google
 
-La distinction entre ces deux redirections conditionne le succès de votre [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html). 
+La distinction entre ces deux redirections conditionne le succès de votre [Stratégie SEO](https://blotmkt.comhttps://blotmkt.com/ia/strategie/strategie-seo.html.html). 
 Les moteurs de recherche traitent les redirections 301 et 302 différemment : avec une 301, Google transfère l'autorité, la puissance de classement et tous les backlinks associés à l'ancienne URL vers la nouvelle localisation, ce qui signifie que la nouvelle URL hérite de la valeur SEO que la page originale a construite au fil du temps
 .
 
@@ -247,10 +247,12 @@ Créer des chaînes de redirection (où une redirection mène à une autre, puis
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
-- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)
-- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first.html)
-- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique.html)
-- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal.html)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/analyse-de-logs-seo.html.html)
+- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html)
+- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-mobile-first.html.html)
+- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html)
+- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-montreal.html.html)

@@ -36,7 +36,7 @@ related_articles:
 <!-- speakable:end -->
 
 Votre site stagne dans les résultats de recherche malgré des contenus de qualité ? Le problème ne vient peut-être pas de votre technique, mais de votre alignement sémantique. Face aux évolutions des algorithmes de Google et l'émergence de l'IA générative, comprendre les véritables intentions de recherche devient crucial. 
-L'Audit sémantique est une base de travail indispensable pour l'élaboration de votre [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html)
+L'Audit sémantique est une base de travail indispensable pour l'élaboration de votre [Stratégie SEO](https://blotmkt.comhttps://blotmkt.com/ia/strategie/strategie-seo.html.html)
  (Source : SEO Mix, 2024).
 
 ---
@@ -246,10 +246,12 @@ L'audit sémantique produit ses effets dans la durée sur 3 à 6 mois et permet 
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
-- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)
-- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first.html)
-- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal.html)
-- [Audit SEO Québec : votre guide complet pour une visibilité optimisée](https://blotmkt.com/ia/audit/audit-seo-quebec.html)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/analyse-de-logs-seo.html.html)
+- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html)
+- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-mobile-first.html.html)
+- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-montreal.html.html)
+- [Audit SEO Québec : votre guide complet pour une visibilité optimisée](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-quebec.html.html)

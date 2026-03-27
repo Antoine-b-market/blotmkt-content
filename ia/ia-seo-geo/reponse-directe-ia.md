@@ -29,7 +29,7 @@ related_articles:
 
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - Une réponse directe IA est une synthèse générée par un LLM directement dans la SERP, compilant plusieurs sources pour créer une réponse contextuelle unique, différente d'un [Featured Snippet](https://blotmkt.com/ia/definition/featured-snippet.html) traditionnel.
+> - Une réponse directe IA est une synthèse générée par un LLM directement dans la SERP, compilant plusieurs sources pour créer une réponse contextuelle unique, différente d'un [Featured Snippet](https://blotmkt.comhttps://blotmkt.com/ia/definition/featured-snippet.html.html) traditionnel.
 > - Le GEO (Generative Engine Optimization) vise à faire citer son contenu par les IA génératifs plutôt qu'à simplement le positionner dans les résultats organiques, marquant un passage du ranking vers l'intégration.
 > - L'optimisation pour les réponses IA nécessite une structuration claire (balises Hn, listes, tableaux), un enrichissement avec des données vérifiables et une densité sémantique élevée plutôt qu'une répétition de mots-clés.
 > - 
@@ -254,10 +254,12 @@ Les moteurs génératifs synthétisent une réponse unique en puisant dans plusi
 
 ---
 
+---
+
 ## Articles connexes
 
-- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
-- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
-- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
-- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
-- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
+- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html.html)
+- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html.html)
+- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html.html)
+- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html.html)
+- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html.html)

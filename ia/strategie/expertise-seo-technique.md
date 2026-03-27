@@ -37,7 +37,7 @@ Les leads provenant du SEO convertissent en moyenne à 14,6%
 l'Audit technique peut coûter entre 1500 € et 6000 € HT
 
 > - L'expertise technique se distingue par la résolution de problématiques complexes d'Architecture, de crawl et de performance
-> - Un expert devient indispensable pour les migrations, le [SEO international](https://blotmkt.com/ia/strategie/seo-international.html) et les sites e-commerce volumineux
+> - Un expert devient indispensable pour les migrations, le [SEO international](https://blotmkt.comhttps://blotmkt.com/ia/strategie/seo-international.html.html) et les sites e-commerce volumineux
 
 Dans un écosystème digital où 
 Google effectue 500 mises à jour par an de son Algorithme
@@ -52,7 +52,7 @@ L'expertise SEO technique se distingue fondamentalement de l'Optimisation on-pag
 Cette différenciation cruciale réside dans la capacité à interpréter les signaux techniques avancés. Un expert maîtrise l'Analyse des logs serveur pour identifier les problèmes de crawl budget, optimise l'architecture de l'information pour maximiser l'indexation stratégique, et résout les problématiques de rendu JavaScript qui peuvent bloquer la visibilité de contenus critiques.
 
 L'expertise technique moderne intègre également la maîtrise des 
-[Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) : LCP (Largest Contentful Paint), INP (Interaction to Next Paint) et CLS (Cumulative Layout Shift)
+[Core Web Vitals](https://blotmkt.comhttps://blotmkt.com/ia/audit/core-web-vitals.html.html) : LCP (Largest Contentful Paint), INP (Interaction to Next Paint) et CLS (Cumulative Layout Shift)
 . 
 Les sites optimisant ces métriques vers les seuils "good" rapportent des améliorations de taux de conversion de 15-30%
 , démontrant l'impact Business direct d'une approche technique avancée.
@@ -85,7 +85,7 @@ Les gains concrets incluent l'augmentation du trafic organique qualifié (souven
 
 Les outils SEO automatisés excellent dans la détection de symptômes mais échouent dans le diagnostic des causes profondes. Un outil peut signaler 1000 pages avec des temps de chargement élevés, mais seul l'expert identifiera que le problème provient d'une mauvaise configuration du CDN ou d'un code JavaScript bloquant le rendu.
 
-Cette limitation devient critique dans des contextes complexes : refonte de site nécessitant la préservation de l'équité de lien, migration vers un nouveau CMS avec gestion des redirections stratégiques, implémentation du [Hreflang](https://blotmkt.com/ia/audit/hreflang.html) pour le SEO international, ou optimisation de sites e-commerce volumineuses avec des milliers de variantes produits.
+Cette limitation devient critique dans des contextes complexes : refonte de site nécessitant la préservation de l'équité de lien, migration vers un nouveau CMS avec gestion des redirections stratégiques, implémentation du [Hreflang](https://blotmkt.comhttps://blotmkt.com/ia/audit/hreflang.html.html) pour le SEO international, ou optimisation de sites e-commerce volumineuses avec des milliers de variantes produits.
 
 L'expert agit comme un partenaire stratégique alignant les contraintes techniques avec les objectifs business. Il traduit les recommandations techniques en impacts commerciaux mesurables, priorise les actions selon leur ROI potentiel, et adapte les solutions aux ressources de développement disponibles. Cette approche holistique transforme l'investissement technique en levier de croissance durable.
 
@@ -214,10 +214,12 @@ Un expert utilise des outils avancés comme Screaming Frog pour les audits de cr
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html)
-- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
-- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web.html)
-- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel.html)
-- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)
+- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.comhttps://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html.html)
+- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.comhttps://blotmkt.com/ia/strategie/agence-seo-montreal.html.html)
+- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.comhttps://blotmkt.com/ia/strategie/audit-site-web.html.html)
+- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.comhttps://blotmkt.com/ia/strategie/budget-seo-mensuel.html.html)
+- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.comhttps://blotmkt.com/ia/strategie/conseil-seo-quebec.html.html)

@@ -60,7 +60,7 @@ L'objectif fondamental consiste à transformer les suppositions en plan d'action
 
 ### Exploration et indexation : la visibilité fondamentale
 
-L'analyse débute par l'étude des fichiers logs, du [Budget de crawl](https://blotmkt.com/ia/audit/budget-de-crawl.html) et de la configuration robots.txt, sitemap.xml. 
+L'analyse débute par l'étude des fichiers logs, du [Budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/budget-de-crawl.html.html) et de la configuration robots.txt, sitemap.xml. 
 L'indexabilité et les directives : Robots.txt erreurs, balises noindex non intentionnelles, sitemap mal structuré. HTTP statuses : erreurs 404 sur des pages qui devraient exister, erreurs 5xx récurrentes, redirections temporaires non voulues (302), chaînes de redirections. Duplication et canonicalisation : versions http/https, www/non-www, slashes finaux, paramètres URL
 .
 
@@ -97,7 +97,7 @@ L'audit technique (le contenant) s'assure que le site constitue une base saine, 
 La technique est le fondement sur lequel toutes vos autres Stratégies SEO s'appuient - un site techniquement défaillant ne pourra jamais atteindre son plein potentiel
 . Il représente le prérequis indispensable.
 
-L'[Audit sémantique](https://blotmkt.com/ia/audit/audit-semantique.html) (le contenu) vérifie que le contenu répond parfaitement à l'intention de recherche utilisateur, analysant la pertinence des mots-clés et la structure éditoriale. L'audit de backlinks (l'autorité) évalue la popularité et la confiance perçue par l'écosystème numérique.
+L'[Audit sémantique](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html) (le contenu) vérifie que le contenu répond parfaitement à l'intention de recherche utilisateur, analysant la pertinence des mots-clés et la structure éditoriale. L'audit de backlinks (l'autorité) évalue la popularité et la confiance perçue par l'écosystème numérique.
 
 Prioriser l'audit technique quand des problèmes d'Indexation ou de performance sont suspectés, ou avant toute refonte majeure. Avant une refonte de site, un changement de domaine ou l'élargissement de votre catalogue. Dans une phase de croissance, pour conquérir un nouveau marché
 . Cette approche stratégique garantit des fondations solides pour vos autres Optimisations SEO.
@@ -108,7 +108,7 @@ Prioriser l'audit technique quand des problèmes d'Indexation ou de performance 
 L'audit SEO technique analyse les fondations technologiques de votre site (crawl, indexation, performance) pour identifier les freins qui empêchent les moteurs de recherche de comprendre et valoriser correctement votre Contenu, constituant le prérequis de toute stratégie SEO efficace.
 
 ### Comment réaliser un audit technique complet avec quels outils ?
-Utilisez une combinaison de crawlers (Screaming Frog, Oncrawl), Google Search Console pour l'indexation, et outils de performance (PageSpeed Insights, GTmetrix). Analysez successivement l'exploration, l'indexation, les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) et l'Architecture du maillage interne.
+Utilisez une combinaison de crawlers (Screaming Frog, Oncrawl), Google Search Console pour l'indexation, et outils de performance (PageSpeed Insights, GTmetrix). Analysez successivement l'exploration, l'indexation, les [Core Web Vitals](https://blotmkt.comhttps://blotmkt.com/ia/audit/core-web-vitals.html.html) et l'Architecture du maillage interne.
 
 ### Quel budget prévoir et comment mesurer le ROI d'un audit technique ?
 Comptez entre 700€ et 5 000€ selon la complexité du site. Le ROI se mesure via l'augmentation du trafic organique qualifié (+14,6% de taux de conversion moyen), l'amélioration des positions et la hausse des conversions post-implémentation des recommandations.
@@ -237,10 +237,12 @@ Sales Odyssey (2024)
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
-- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)
-- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first.html)
-- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique.html)
-- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal.html)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/analyse-de-logs-seo.html.html)
+- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html)
+- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-mobile-first.html.html)
+- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html)
+- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-montreal.html.html)

@@ -107,7 +107,7 @@ Google a changé le fonctionnement du PageRank il y a plus d'un an : les cinq li
 Le PageRank potentiel qui aurait pu être transmis à la page est annulé et n'est pas redistribué aux autres pages liées
 .
 
-Pour le [Budget de crawl](https://blotmkt.com/ia/audit/budget-de-crawl.html), 
+Pour le [Budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/budget-de-crawl.html.html), 
 les pages liées peuvent toujours être trouvées par d'autres moyens comme les Sitemaps ou des liens d'autres sites, et peuvent donc être crawlées
 . 
 Pour le crawling et l'Indexation, le nofollow est devenu un indice depuis mars 2020
@@ -148,7 +148,7 @@ Utilisez nofollow pour les liens externes non cautionnés, le Contenu généré 
 
 ### Est-ce que les liens nofollow sont bons pour le SEO ?
 
-Les liens nofollow ne sont pas mauvais pour le SEO. Bien qu'ils ne soient techniquement pas comptabilisés pour vos classements SEO, ils peuvent avoir un impact positif et font partie naturelle d'un [Profil de liens](https://blotmkt.com/ia/definition/profil-de-liens.html) sain et robuste
+Les liens nofollow ne sont pas mauvais pour le SEO. Bien qu'ils ne soient techniquement pas comptabilisés pour vos classements SEO, ils peuvent avoir un impact positif et font partie naturelle d'un [Profil de liens](https://blotmkt.comhttps://blotmkt.com/ia/definition/profil-de-liens.html.html) sain et robuste
 . Ils génèrent du trafic de référence et participent à la diversité naturelle des liens.
 
 ---
@@ -265,10 +265,12 @@ Les liens nofollow ne sont pas mauvais pour le SEO. Bien qu'ils ne soient techni
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)
-- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo.html)
-- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien.html)
-- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored.html)
-- [Backlink de qualité : le guide pour acquérir des liens qui renforcent votre E-E-A-T](https://blotmkt.com/ia/definition/backlink-de-qualite.html)
+- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.comhttps://blotmkt.com/ia/definition/algorithme-google.html.html)
+- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.comhttps://blotmkt.com/ia/definition/amp-google-seo.html.html)
+- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.comhttps://blotmkt.com/ia/definition/ancre-de-lien.html.html)
+- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-sponsored.html.html)
+- [Backlink de qualité : le guide pour acquérir des liens qui renforcent votre E-E-A-T](https://blotmkt.comhttps://blotmkt.com/ia/definition/backlink-de-qualite.html.html)

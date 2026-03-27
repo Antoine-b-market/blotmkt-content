@@ -29,7 +29,7 @@ related_articles:
 
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - Un cocon sémantique est une [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site.html) basée sur un maillage interne strict pour renforcer la pertinence thématique et prouver son expertise à Google
+> - Un cocon sémantique est une [Architecture de site](https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html) basée sur un maillage interne strict pour renforcer la pertinence thématique et prouver son expertise à Google
 > - La construction se fait en 4 étapes : définir la requête cible, identifier les sous-thèmes, créer le contenu hiérarchisé et implémenter le maillage interne
 > - Le cocon sémantique impose un maillage plus rigide que le topic cluster, créant des silos étanches pour concentrer l'autorité
 > - Les résultats incluent une meilleure pertinence thématique, un positionnement renforcé sur les mots-clés cibles et une capture naturelle de la longue traîne
@@ -44,7 +44,7 @@ Le cocon sémantique n'est pas une astuce SEO temporaire mais une méthode struc
 
 Le cocon sémantique se résume en une phrase : "qui est en relation avec quoi et pourquoi"
 . 
-Il s'agit d'un regroupement logique de Contenus liés entre eux, organisé autour d'une [Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) précise
+Il s'agit d'un regroupement logique de Contenus liés entre eux, organisé autour d'une [Intention de recherche](https://blotmkt.comhttps://blotmkt.com/ia/contenu/intention-de-recherche.html.html) précise
 . Contrairement aux architectures classiques, le cocon crée des liens uniquement pertinents entre pages traitant du même univers sémantique.
 
 L'objectif principal est de renforcer le positionnement des pages stratégiques (landing pages, pages services) grâce à une Structure thématique puissante
@@ -235,10 +235,12 @@ Le maillage interne en silos concentre le jus SEO vers vos pages stratégiques a
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)
-- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo.html)
-- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien.html)
-- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow.html)
-- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored.html)
+- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.comhttps://blotmkt.com/ia/definition/algorithme-google.html.html)
+- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.comhttps://blotmkt.com/ia/definition/amp-google-seo.html.html)
+- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.comhttps://blotmkt.com/ia/definition/ancre-de-lien.html.html)
+- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-nofollow.html.html)
+- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-sponsored.html.html)

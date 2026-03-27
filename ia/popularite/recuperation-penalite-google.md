@@ -29,7 +29,7 @@ related_articles:
 
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - Une [Pénalité Google](https://blotmkt.com/ia/popularite/penalite-google.html) est une sanction directe ou automatisée qui entraîne 
+> - Une [Pénalité Google](https://blotmkt.comhttps://blotmkt.com/ia/popularite/penalite-google.html.html) est une sanction directe ou automatisée qui entraîne 
 <!-- speakable:end -->
 une chute brutale de visibilité ou une désIndexation
 
@@ -107,11 +107,11 @@ Google Analytics quantifie précisément l'impact de la pénalité sur votre tra
 Le monitoring via Google Analytics et Google Search Console permet de mesurer l'efficacité des actions correctives et d'ajuster la stratégie si nécessaire
 .
 
-Les outils d'Audit de backlinks (Ahrefs, SEMrush, Majestic) permettent une analyse approfondie du [Profil de liens](https://blotmkt.com/ia/definition/profil-de-liens.html). 
+Les outils d'Audit de backlinks (Ahrefs, SEMrush, Majestic) permettent une analyse approfondie du [Profil de liens](https://blotmkt.comhttps://blotmkt.com/ia/definition/profil-de-liens.html.html). 
 Semrush attribue des métriques telles que l'Autorité des domaines et le Score de toxicité aux liens. Concentrez-vous sur les liens avec un score de toxicité élevé
 .
 
-Complétez votre arsenal avec PageSpeed Insights et les outils de [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) pour garantir la conformité technique post-récupération. Une approche holistique maximise vos chances de retrouver vos positions durablement.
+Complétez votre arsenal avec PageSpeed Insights et les outils de [Données structurées](https://blotmkt.comhttps://blotmkt.com/ia/definition/donnees-structurees.html.html) pour garantir la conformité technique post-récupération. Une approche holistique maximise vos chances de retrouver vos positions durablement.
 
 ## Questions fréquentes
 
@@ -225,10 +225,12 @@ Il faut être patient et attendre quelques mois avant de remonter dans les résu
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO](https://blotmkt.com/ia/popularite/algorithme-penalite.html)
-- [Désindexation google: guide pratique pour contrôler votre visibilité en ligne](https://blotmkt.com/ia/popularite/desindexation-google.html)
-- [Facteurs de classement google : le guide basé sur la documentation officielle](https://blotmkt.com/ia/popularite/facteurs-de-classement-google.html)
-- [Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité](https://blotmkt.com/ia/popularite/filtre-google.html)
-- [Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne](https://blotmkt.com/ia/popularite/guest-blogging-seo.html)
+- [Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/popularite/algorithme-penalite.html.html)
+- [Désindexation google: guide pratique pour contrôler votre visibilité en ligne](https://blotmkt.comhttps://blotmkt.com/ia/popularite/desindexation-google.html.html)
+- [Facteurs de classement google : le guide basé sur la documentation officielle](https://blotmkt.comhttps://blotmkt.com/ia/popularite/facteurs-de-classement-google.html.html)
+- [Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité](https://blotmkt.comhttps://blotmkt.com/ia/popularite/filtre-google.html.html)
+- [Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne](https://blotmkt.comhttps://blotmkt.com/ia/popularite/guest-blogging-seo.html.html)

@@ -34,7 +34,7 @@ related_articles:
 L'algorithme Google moderne repose sur des systèmes d'IA comme RankBrain (2015) et BERT (2019) qui privilégient la compréhension sémantique de l'intention utilisateur plutôt que la simple correspondance de mots-clés
 
 > - 
-L'évolution majeure transforme l'algorithme d'un modèle basé sur la [Densité de mots-clés](https://blotmkt.com/ia/contenu/densite-de-mots-cles.html) vers une approche centrée sur l'intention de recherche, avec RankBrain traitant désormais l'ensemble des requêtes pour comprendre le contexte
+L'évolution majeure transforme l'algorithme d'un modèle basé sur la [Densité de mots-clés](https://blotmkt.comhttps://blotmkt.com/ia/contenu/densite-de-mots-cles.html.html) vers une approche centrée sur l'intention de recherche, avec RankBrain traitant désormais l'ensemble des requêtes pour comprendre le contexte
 
 > - 
 Les stratégies SEO et GEO (Generative Engine Optimization) permettent d'augmenter la visibilité jusqu'à 40% dans les moteurs génératifs en structurant le contenu pour l'IA, offrant un ROI tangible
@@ -237,10 +237,12 @@ L'évolution propulsée par l'IA a un impact considérable sur le référencemen
 
 ---
 
+---
+
 ## Articles connexes
 
-- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo.html)
-- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien.html)
-- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow.html)
-- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored.html)
-- [Backlink de qualité : le guide pour acquérir des liens qui renforcent votre E-E-A-T](https://blotmkt.com/ia/definition/backlink-de-qualite.html)
+- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.comhttps://blotmkt.com/ia/definition/amp-google-seo.html.html)
+- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.comhttps://blotmkt.com/ia/definition/ancre-de-lien.html.html)
+- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-nofollow.html.html)
+- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-sponsored.html.html)
+- [Backlink de qualité : le guide pour acquérir des liens qui renforcent votre E-E-A-T](https://blotmkt.comhttps://blotmkt.com/ia/definition/backlink-de-qualite.html.html)

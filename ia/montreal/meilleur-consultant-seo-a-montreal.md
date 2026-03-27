@@ -30,7 +30,7 @@ sources:
 > - Une méthodologie orientée résultats comprend trois phases : diagnostic complet, feuille de route priorisée, implémentation avec suivi de KPIs.
 <!-- speakable:end -->
 
-Votre site web est invisible sur Google. Vos concurrents occupent la première page et captent les clients que vous méritez. Chaque jour sans [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) est un manque à gagner concret. À Montréal, le marché numérique est dense et bilangue, ce qui rend le choix d'un expert SEO encore plus déterminant. La bonne nouvelle : un consultant SEO de haut niveau transforme votre site en un actif financier performant, capable de générer des leads qualifiés en continu, sans dépendre d'un budget publicitaire permanent.
+Votre site web est invisible sur Google. Vos concurrents occupent la première page et captent les clients que vous méritez. Chaque jour sans [Stratégie SEO](https://blotmkt.comhttps://blotmkt.com/ia/strategie/strategie-seo.html.html) est un manque à gagner concret. À Montréal, le marché numérique est dense et bilangue, ce qui rend le choix d'un expert SEO encore plus déterminant. La bonne nouvelle : un consultant SEO de haut niveau transforme votre site en un actif financier performant, capable de générer des leads qualifiés en continu, sans dépendre d'un budget publicitaire permanent.
 
 ---
 
@@ -94,7 +94,7 @@ Une stratégie SEO efficace ne s'improvise pas. Elle suit un processus rigoureux
 
 ### Phase 1 — Diagnostic complet
 
-Toute intervention commence par une analyse approfondie : audit technique (vitesse, indexation, Core Web Vitals), [Audit sémantique](https://blotmkt.com/ia/audit/audit-semantique.html) (opportunités de mots-clés, cannibalisation), et analyse concurrentielle locale. Cette étape identifie les freins à la croissance et les opportunités inexploitées sur le marché québécois. 
+Toute intervention commence par une analyse approfondie : audit technique (vitesse, indexation, Core Web Vitals), [Audit sémantique](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html) (opportunités de mots-clés, cannibalisation), et analyse concurrentielle locale. Cette étape identifie les freins à la croissance et les opportunités inexploitées sur le marché québécois. 
 90,63 % des pages web n'attirent aucun trafic organique sur Google, soulignant l'importance d'une stratégie SEO technique solide.
  Sans diagnostic, toute action est une supposition.
 
@@ -181,10 +181,12 @@ FAQ_JSON-->
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Comment choisir le meilleur consultant GEO à Montréal pour l'ère SGE](https://blotmkt.com/ia/montreal/meilleur-consultant-geo-a-montreal.html)
-- [Comment choisir la meilleure agence GEO à Montréal pour votre croissance](https://blotmkt.com/ia/montreal/meilleure-agence-geo-a-montreal.html)
-- [Guide pour trouver la meilleure agence seo à Montréal](https://blotmkt.com/ia/montreal/meilleure-agence-seo-a-montreal.html)
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
-- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)
+- [Comment choisir le meilleur consultant GEO à Montréal pour l'ère SGE](https://blotmkt.comhttps://blotmkt.com/ia/montreal/meilleur-consultant-geo-a-montreal.html.html)
+- [Comment choisir la meilleure agence GEO à Montréal pour votre croissance](https://blotmkt.comhttps://blotmkt.com/ia/montreal/meilleure-agence-geo-a-montreal.html.html)
+- [Guide pour trouver la meilleure agence seo à Montréal](https://blotmkt.comhttps://blotmkt.com/ia/montreal/meilleure-agence-seo-a-montreal.html.html)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/analyse-de-logs-seo.html.html)
+- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html)

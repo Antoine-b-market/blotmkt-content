@@ -30,7 +30,7 @@ related_articles:
 <!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Un audit de site web est un état des lieux complet qui Analyse technique, contenu et popularité pour identifier les freins et opportunités SEO
-> - Il comprend 3 piliers : l'infrastructure technique ([Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html), crawlabilité), l'analyse sémantique (intentions de recherche) et l'Audit de popularité (backlinks)  
+> - Il comprend 3 piliers : l'infrastructure technique ([Core Web Vitals](https://blotmkt.comhttps://blotmkt.com/ia/audit/core-web-vitals.html.html), crawlabilité), l'analyse sémantique (intentions de recherche) et l'Audit de popularité (backlinks)  
 > - 
 <!-- speakable:end -->
 Le prix varie de 500€ à 10 000€ selon la complexité du site, avec une moyenne de 600€ à 2 500€
@@ -58,7 +58,7 @@ Identifier et corriger les problèmes techniques aide les moteurs de recherche �
 
 ### L'audit d'infrastructure technique
 
-L'audit technique teste la crawlabilité, l'indexabilité, les codes de statut, les directives robots, la couverture du sitemap, les balises canoniques et les données structurées pour s'assurer qu'aucun élément n'empêche les moteurs de recherche de trouver et lire votre contenu. Il analyse également la [Vitesse de chargement](https://blotmkt.com/ia/audit/vitesse-de-chargement.html), la compatibilité mobile et les Core Web Vitals
+L'audit technique teste la crawlabilité, l'indexabilité, les codes de statut, les directives robots, la couverture du sitemap, les balises canoniques et les données structurées pour s'assurer qu'aucun élément n'empêche les moteurs de recherche de trouver et lire votre contenu. Il analyse également la [Vitesse de chargement](https://blotmkt.comhttps://blotmkt.com/ia/audit/vitesse-de-chargement.html.html), la compatibilité mobile et les Core Web Vitals
 .
 
 Cette dimension constitue la fondation de toute stratégie SEO performante. 
@@ -70,7 +70,7 @@ Au mois de janvier 2024, plus de la moitié (60,08%) du trafic web se produit su
 Le Contenu est roi, mais il doit être optimisé de manière sémantique : évaluation de la qualité et de la pertinence du contenu
 . Cette analyse va au-delà de la simple vérification des Balises title et meta descriptions. Elle examine l'alignement entre votre contenu et les intentions de recherche de vos audiences cibles.
 
-L'[Audit sémantique](https://blotmkt.com/ia/audit/audit-semantique.html) révèle les "content gaps" - ces opportunités manquées où vos concurrents captent du trafic qualifié que vous pourriez obtenir. Il optimise également le CTR (taux de clic) dans les SERPs en analysant la performance de vos snippets par rapport à la concurrence.
+L'[Audit sémantique](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html) révèle les "content gaps" - ces opportunités manquées où vos concurrents captent du trafic qualifié que vous pourriez obtenir. Il optimise également le CTR (taux de clic) dans les SERPs en analysant la performance de vos snippets par rapport à la concurrence.
 
 ### L'audit de popularité
 
@@ -247,10 +247,12 @@ Consultant Marketing (2024), Autoseo (2025), Semrush (2024), Seomix (2024), Code
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html)
-- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
-- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel.html)
-- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)
-- [Consultant SEO Montréal : transformez votre site en un actif de croissance](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)
+- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.comhttps://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html.html)
+- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.comhttps://blotmkt.com/ia/strategie/agence-seo-montreal.html.html)
+- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.comhttps://blotmkt.com/ia/strategie/budget-seo-mensuel.html.html)
+- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.comhttps://blotmkt.com/ia/strategie/conseil-seo-quebec.html.html)
+- [Consultant SEO Montréal : transformez votre site en un actif de croissance](https://blotmkt.comhttps://blotmkt.com/ia/strategie/consultant-seo-montreal.html.html)

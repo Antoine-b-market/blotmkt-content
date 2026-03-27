@@ -26,7 +26,7 @@ sources:
 > ## L'essentiel à retenir
 > - La GEO (Generative Engine Optimization) est la discipline qui optimise votre contenu pour apparaître dans les réponses générées par les IA comme ChatGPT, Perplexity ou Google SGE, et non plus seulement dans les liens bleus classiques.
 > - Une excellente agence GEO se distingue d'une agence SEO par sa maîtrise des LLMs, son suivi de la part de voix dans les réponses générées et sa capacité à structurer le contenu comme une base de connaissance fiable pour les IA.
-> - Une campagne GEO réussie repose sur quatre phases : [Audit sémantique](https://blotmkt.com/ia/audit/audit-semantique.html) et d'entités, construction d'une base de connaissance, optimisation technique via Schema.org, puis monitoring continu de la visibilité dans les réponses générées.
+> - Une campagne GEO réussie repose sur quatre phases : [Audit sémantique](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html) et d'entités, construction d'une base de connaissance, optimisation technique via Schema.org, puis monitoring continu de la visibilité dans les réponses générées.
 > - Le budget d'une stratégie GEO dépasse celui du SEO traditionnel en raison de l'expertise requise, mais le ROI se mesure à travers l'autorité de marque, la fréquence de citation et la résistance à la désintermédiation par les IA.
 <!-- speakable:end -->
 
@@ -88,7 +88,7 @@ L'E-E-A-T reste un indicateur central pour la GEO : un contenu avec des biograph
 
 Phase 3 — Optimisation technique. 
 Les entreprises investissent dans la structure des pages, les signaux techniques et la présentation du contenu pour que leur information soit correctement interprétée et citée par des plateformes comme ChatGPT, Gemini ou Perplexity.
- Nous implémentons les schémas [Schema.org](https://blotmkt.com/ia/definition/schema.org.html) adaptés à chaque type de contenu.
+ Nous implémentons les schémas [Schema.org](https://blotmkt.comhttps://blotmkt.com/ia/definition/schema.org.html.html) adaptés à chaque type de contenu.
 
 Phase 4 — Monitoring et itération. 
 Le suivi inclut les sessions issues des outils de recherche IA (ChatGPT, Perplexity), le CTR provenant des réponses IA, l'impact sur les conversions via GA4, et la visibilité de marque comme source citée.
@@ -116,7 +116,7 @@ Les bénéfices à long terme sont structurels : devenir la source citée par d�
 
 ### C'est quoi la Generative Engine Optimization ?
 
-La Generative Engine Optimization (GEO) est la pratique qui consiste à optimiser le contenu d'un site pour apparaître dans les réponses générées par les IA comme ChatGPT, Google SGE, Perplexity ou Gemini. Contrairement au SEO qui vise le classement dans les liens de recherche, la GEO vise la citation directe dans une réponse synthétisée. Elle repose sur la structuration factuelle du contenu, les signaux E-E-A-T et l'implémentation de [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) (Schema.org).
+La Generative Engine Optimization (GEO) est la pratique qui consiste à optimiser le contenu d'un site pour apparaître dans les réponses générées par les IA comme ChatGPT, Google SGE, Perplexity ou Gemini. Contrairement au SEO qui vise le classement dans les liens de recherche, la GEO vise la citation directe dans une réponse synthétisée. Elle repose sur la structuration factuelle du contenu, les signaux E-E-A-T et l'implémentation de [Données structurées](https://blotmkt.comhttps://blotmkt.com/ia/definition/donnees-structurees.html.html) (Schema.org).
 
 ### Quelle est la différence entre SEO et GEO ?
 
@@ -170,10 +170,12 @@ Les LLMs ne citent que 2 à 7 domaines en moyenne par réponse. Sans expertise d
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Comment choisir le meilleur consultant GEO à Montréal pour l'ère SGE](https://blotmkt.com/ia/montreal/meilleur-consultant-geo-a-montreal.html)
-- [Comment choisir le meilleur consultant SEO à Montréal pour votre croissance](https://blotmkt.com/ia/montreal/meilleur-consultant-seo-a-montreal.html)
-- [Guide pour trouver la meilleure agence seo à Montréal](https://blotmkt.com/ia/montreal/meilleure-agence-seo-a-montreal.html)
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
-- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)
+- [Comment choisir le meilleur consultant GEO à Montréal pour l'ère SGE](https://blotmkt.comhttps://blotmkt.com/ia/montreal/meilleur-consultant-geo-a-montreal.html.html)
+- [Comment choisir le meilleur consultant SEO à Montréal pour votre croissance](https://blotmkt.comhttps://blotmkt.com/ia/montreal/meilleur-consultant-seo-a-montreal.html.html)
+- [Guide pour trouver la meilleure agence seo à Montréal](https://blotmkt.comhttps://blotmkt.com/ia/montreal/meilleure-agence-seo-a-montreal.html.html)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/analyse-de-logs-seo.html.html)
+- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html)

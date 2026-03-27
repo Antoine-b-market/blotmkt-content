@@ -33,7 +33,7 @@ related_articles:
 <!-- speakable:end -->
 jusqu'à 30% d'augmentation du trafic organique selon Search Engine) Journal
 
-> - Les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) Schema.org (Organization, Person, Product) sont le langage principal pour communiquer avec les moteurs et alimenter le Knowledge Graph
+> - Les [Données structurées](https://blotmkt.comhttps://blotmkt.com/ia/definition/donnees-structurees.html.html) Schema.org (Organization, Person, Product) sont le langage principal pour communiquer avec les moteurs et alimenter le Knowledge Graph
 > - Les Knowledge Graphs agissent comme source de vérité pour les LLM, réduisant les hallucinations des IA et optimisant la visibilité dans les Réponses génératives (GEO)
 
 Dans un univers où 
@@ -79,7 +79,7 @@ Le Knowledge Graph résout l'ambiguïté en s'appuyant sur les relations entre e
 
 ## Construire son Knowledge Graph : le rôle des données structurées
 
-Les Données structurées et le balisage [Schema.org](https://blotmkt.com/ia/definition/schema.org.html) définissent ce pour quoi votre marque est reconnue et permettent aux IA et moteurs de faire des inférences plus précises
+Les Données structurées et le balisage [Schema.org](https://blotmkt.comhttps://blotmkt.com/ia/definition/schema.org.html.html) définissent ce pour quoi votre marque est reconnue et permettent aux IA et moteurs de faire des inférences plus précises
 . Ces Balises transforment votre site en source lisible par les machines.
 
 Les schémas fondamentaux à implémenter prioritairement sont : `Organization` pour décrire votre entreprise avec nom, logo et coordonnées ; `Person` pour les dirigeants et experts ; `Product` avec `Brand` pour vos solutions ; `WebSite` avec `sameAs` pour lier vos Profils sociaux. 
@@ -232,10 +232,12 @@ Il fournit des réponses immédiates et précises directement dans les SERPs, é
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)
-- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo.html)
-- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien.html)
-- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow.html)
-- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored.html)
+- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.comhttps://blotmkt.com/ia/definition/algorithme-google.html.html)
+- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.comhttps://blotmkt.com/ia/definition/amp-google-seo.html.html)
+- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.comhttps://blotmkt.com/ia/definition/ancre-de-lien.html.html)
+- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-nofollow.html.html)
+- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-sponsored.html.html)

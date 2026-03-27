@@ -42,7 +42,7 @@ Les pages avec des scores CLS élevés peuvent conduire à une mauvaise expérie
 
 ## Qu'est-ce que le Cumulative Layout Shift (CLS) et pourquoi est-il essentiel ?
 
-Le Cumulative Layout Shift (CLS) est une métrique [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) qui mesure la stabilité visuelle sur une page web. Il quantifie combien de contenu, comme les images ou le texte, bouge de manière inattendue pendant le chargement de la page
+Le Cumulative Layout Shift (CLS) est une métrique [Core Web Vitals](https://blotmkt.comhttps://blotmkt.com/ia/audit/core-web-vitals.html.html) qui mesure la stabilité visuelle sur une page web. Il quantifie combien de contenu, comme les images ou le texte, bouge de manière inattendue pendant le chargement de la page
 . Cette métrique capture l'essence même d'une expérience utilisateur fluide : la préVisibilité visuelle.
 
 Le calcul du CLS repose sur deux composants fondamentaux. 
@@ -89,10 +89,10 @@ Les polices qui se chargent après le rendu initial de la page peuvent causer de
 ## CLS, LCP, INP : la synergie des Core Web Vitals pour l'UX
 
 Depuis mars 2024, 
-l'Interaction to Next Paint (INP) est maintenant l'une des métriques Core Web Vitals de Google, remplaçant [First Input Delay](https://blotmkt.com/ia/audit/first-input-delay.html) (FID) le 12 mars 2024
+l'Interaction to Next Paint (INP) est maintenant l'une des métriques Core Web Vitals de Google, remplaçant [First Input Delay](https://blotmkt.comhttps://blotmkt.com/ia/audit/first-input-delay.html.html) (FID) le 12 mars 2024
 . Cette évolution renforce l'importance d'une approche holistique des performances web.
 
-Google a finalisé Core Web Vitals 2.0, remplaçant First Input Delay (FID) par [Interaction to Next Paint](https://blotmkt.com/ia/audit/interaction-to-next-paint.html) (INP) et continuant de s'appuyer sur LCP (Largest Contentful Paint) et CLS (Cumulative Layout Shift) comme les trois métriques d'expérience utilisateur mesurées sur le terrain. Les sites qui atteignent les seuils pour LCP, INP et CLS (75e percentile) offrent aux utilisateurs des expériences plus rapides, plus stables et plus réactives
+Google a finalisé Core Web Vitals 2.0, remplaçant First Input Delay (FID) par [Interaction to Next Paint](https://blotmkt.comhttps://blotmkt.com/ia/audit/interaction-to-next-paint.html.html) (INP) et continuant de s'appuyer sur LCP (Largest Contentful Paint) et CLS (Cumulative Layout Shift) comme les trois métriques d'expérience utilisateur mesurées sur le terrain. Les sites qui atteignent les seuils pour LCP, INP et CLS (75e percentile) offrent aux utilisateurs des expériences plus rapides, plus stables et plus réactives
  (Source : Medium, 2025).
 
 L'interaction entre ces métriques est cruciale : une image qui se charge lentement (mauvais LCP) sans dimensions définies provoque aussi un CLS élevé. 
@@ -227,10 +227,12 @@ Le CLS fait partie des Core Web Vitals utilisés par Google comme facteur de cla
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
-- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)
-- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first.html)
-- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique.html)
-- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal.html)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/analyse-de-logs-seo.html.html)
+- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html)
+- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-mobile-first.html.html)
+- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html)
+- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-montreal.html.html)

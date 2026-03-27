@@ -50,7 +50,7 @@ Les principales raisons incluent les contenus dupliqués pour éviter les pénal
 Le respect de la confidentialité et du RGPD nécessite également de retirer les contenus contenant des données personnelles
 .
 
-La désindexation représente une vraie [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) qui aide à mieux contrôler l'indexation, maximiser le crawl Budget et booster la performance des pages essentielles
+La désindexation représente une vraie [Stratégie SEO](https://blotmkt.comhttps://blotmkt.com/ia/strategie/strategie-seo.html.html) qui aide à mieux contrôler l'indexation, maximiser le crawl Budget et booster la performance des pages essentielles
 . (Source : Leptidigital, 2024)
 
 ## Les méthodes techniques de désindexation: noindex et X-Robots-Tag
@@ -254,10 +254,12 @@ Elle permet de maîtriser la visibilité dans les résultats de recherche, d'év
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO](https://blotmkt.com/ia/popularite/algorithme-penalite.html)
-- [Facteurs de classement google : le guide basé sur la documentation officielle](https://blotmkt.com/ia/popularite/facteurs-de-classement-google.html)
-- [Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité](https://blotmkt.com/ia/popularite/filtre-google.html)
-- [Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne](https://blotmkt.com/ia/popularite/guest-blogging-seo.html)
-- [Action manuelle Google : le guide complet pour l'identifier et la corriger](https://blotmkt.com/ia/popularite/manuel-action-google.html)
+- [Algorithme de pénalité : comprendre, détecter et corriger pour protéger votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/popularite/algorithme-penalite.html.html)
+- [Facteurs de classement google : le guide basé sur la documentation officielle](https://blotmkt.comhttps://blotmkt.com/ia/popularite/facteurs-de-classement-google.html.html)
+- [Filtre Google : identifier et corriger une pénalité SEO pour retrouver votre visibilité](https://blotmkt.comhttps://blotmkt.com/ia/popularite/filtre-google.html.html)
+- [Le guest blogging SEO : strategie incontournable pour votre visibilite en ligne](https://blotmkt.comhttps://blotmkt.com/ia/popularite/guest-blogging-seo.html.html)
+- [Action manuelle Google : le guide complet pour l'identifier et la corriger](https://blotmkt.comhttps://blotmkt.com/ia/popularite/manuel-action-google.html.html)

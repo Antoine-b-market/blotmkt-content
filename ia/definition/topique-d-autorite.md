@@ -90,7 +90,7 @@ L'objectif : définir un concept que vous serez le premier à nommer et structur
 ### Étape 2 : Modélisation sémantique et architecture
 
 Structurez votre Contenu via des listes à puces, des titres structurés et des articles de style liste. L'IA tend à extraire du contenu extrêmement structuré
-. Créez un [Knowledge Graph](https://blotmkt.com/ia/definition/knowledge-graph.html) de votre concept central avec ses entités sémantiques, relations et sous-concepts.
+. Créez un [Knowledge Graph](https://blotmkt.comhttps://blotmkt.com/ia/definition/knowledge-graph.html.html) de votre concept central avec ses entités sémantiques, relations et sous-concepts.
 
 Les LLMs sont 28-40% plus susceptibles de citer du contenu avec un formatage clair : titres hiérarchiques, puces, listes numérotées et tableaux
 , démontrant l'importance de la présentation structurée.
@@ -101,7 +101,7 @@ Produisez les contenus piliers en appliquant une architecture "answer-First" :
 commencez par la réponse la plus directe à la question de l'utilisateur avant d'ajouter les détails, exemples ou contexte. Au lieu d'enfouir le point clé à mi-page, surfacez immédiatement l'information importante dans un format propre et facilement extractible
 .
 
-Intégrez des [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) (JSON-LD) et créez un maillage interne conceptuel reliant tous les aspects de votre topique d'autorité.
+Intégrez des [Données structurées](https://blotmkt.comhttps://blotmkt.com/ia/definition/donnees-structurees.html.html) (JSON-LD) et créez un maillage interne conceptuel reliant tous les aspects de votre topique d'autorité.
 
 ### Étape 4 : Amplification et légitimation
 
@@ -258,10 +258,12 @@ Les Contenus longs, pages piliers et études de marché restent la base pour nou
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)
-- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo.html)
-- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien.html)
-- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow.html)
-- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored.html)
+- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.comhttps://blotmkt.com/ia/definition/algorithme-google.html.html)
+- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.comhttps://blotmkt.com/ia/definition/amp-google-seo.html.html)
+- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.comhttps://blotmkt.com/ia/definition/ancre-de-lien.html.html)
+- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-nofollow.html.html)
+- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-sponsored.html.html)

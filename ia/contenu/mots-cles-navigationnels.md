@@ -50,10 +50,10 @@ Les entreprises françaises perdent chaque jour des opportunités commerciales p
 
 ### Une intention de recherche spécifique et directe
 
-Un autre type de mot-clé à prendre en considération est celui qui révèle une [Intention navigationnelle](https://blotmkt.com/ia/definition/intention-navigationnelle.html). Lorsqu'une personne saisit le nom d'une entreprise ou d'une marque dans un moteur de recherche, elle effectue une recherche navigationnelle
+Un autre type de mot-clé à prendre en considération est celui qui révèle une [Intention navigationnelle](https://blotmkt.comhttps://blotmkt.com/ia/definition/intention-navigationnelle.html.html). Lorsqu'une personne saisit le nom d'une entreprise ou d'une marque dans un moteur de recherche, elle effectue une recherche navigationnelle
 . Ces requêtes se distinguent fondamentalement des autres types d'intentions : informationnelles (apprendre), transactionnelles (acheter) et commerciales (comparer).
 
-L'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) navigationnelle vise à accéder à une page, un site spécifique, d'une entreprise qu'on connaît déjà
+L'[Intention de recherche](https://blotmkt.comhttps://blotmkt.com/ia/contenu/intention-de-recherche.html.html) navigationnelle vise à accéder à une page, un site spécifique, d'une entreprise qu'on connaît déjà
 . Cette différence cruciale impacte directement les pages de résultats des moteurs de recherche (SERP), caractérisées par l'affichage du site officiel, des sitelinks étendus, ou des résultats Google My Business. L'utilisateur manifeste une connaissance préalable de votre marque, traduisant une reconnaissance établie et une confiance accordée à votre entreprise dans son domaine d'expertise.
 
 ## Stratégies d'identification et d'optimisation pour votre site
@@ -62,7 +62,7 @@ L'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche
 
 L'identification des mots-clés navigationnels nécessite une approche méthodique utilisant Google Search Console pour Analyser les requêtes de marque et les pages d'entrée directes. Cette analyse révèle les variations orthographiques courantes, les abréviations et les associations de marque utilisées par votre audience.
 
-L'optimisation on-page exige une cohérence stricte : nom de marque, produits phares et URLs doivent être parfaitement alignés dans les balises titre (H1, title tag), meta descriptions et contenu de page. Une [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site.html) claire, complétée par des sitemaps XML et des données structurées Schema.org, facilite l'indexation et encourage l'affichage de sitelinks pertinents. La surveillance régulière de votre réputation en ligne permet d'identifier de nouvelles requêtes navigationnelles émergentes et d'adapter votre stratégie en conséquence.
+L'optimisation on-page exige une cohérence stricte : nom de marque, produits phares et URLs doivent être parfaitement alignés dans les balises titre (H1, title tag), meta descriptions et contenu de page. Une [Architecture de site](https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html) claire, complétée par des sitemaps XML et des données structurées Schema.org, facilite l'indexation et encourage l'affichage de sitelinks pertinents. La surveillance régulière de votre réputation en ligne permet d'identifier de nouvelles requêtes navigationnelles émergentes et d'adapter votre stratégie en conséquence.
 
 ## L'impact des mots-clés navigationnels sur le SEO et l'expérience utilisateur
 
@@ -223,10 +223,12 @@ Les leads provenant du SEO convertissent en moyenne à 14,6%
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)
-- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant.html)
-- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo.html)
-- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action.html)
-- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)
+- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.comhttps://blotmkt.com/ia/contenu/alt-text-image.html.html)
+- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/contenu/audit-contenu-existant.html.html)
+- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.comhttps://blotmkt.com/ia/contenu/balise-h1-seo.html.html)
+- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.comhttps://blotmkt.com/ia/contenu/call-to-action.html.html)
+- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.comhttps://blotmkt.com/ia/contenu/clustering-de-mots-cles.html.html)

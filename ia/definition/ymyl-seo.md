@@ -31,7 +31,7 @@ related_articles:
 > ## L'essentiel à retenir
 > - **Les sites YMYL concernent les sujets impactant directement la santé, les finances ou la sécurité des utilisateurs**, avec des critères de qualité plus stricts de Google
 > - **E-E-A-T (Experience, Expertise, Authoritativeness, Trust) est le framework central pour évaluer la qualité du contenu**, particulièrement critique pour les sites YMYL  
-> - **L'Optimisation des signaux E-E-A-T passe par des biographies détaillées, des sources crédibles, des [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) et une transparence maximale**
+> - **L'Optimisation des signaux E-E-A-T passe par des biographies détaillées, des sources crédibles, des [Données structurées](https://blotmkt.comhttps://blotmkt.com/ia/definition/donnees-structurees.html.html) et une transparence maximale**
 > - **Les moteurs génératifs privilégient les Contenus YMYL avec une expérience de première main et des attributions claires**, transformant les exigences SEO traditionnelles
 <!-- speakable:end -->
 
@@ -244,10 +244,12 @@ Inclure des biographies d'auteurs détaillées avec identifiants, qualifications
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)
-- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo.html)
-- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien.html)
-- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow.html)
-- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored.html)
+- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.comhttps://blotmkt.com/ia/definition/algorithme-google.html.html)
+- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.comhttps://blotmkt.com/ia/definition/amp-google-seo.html.html)
+- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.comhttps://blotmkt.com/ia/definition/ancre-de-lien.html.html)
+- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-nofollow.html.html)
+- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-sponsored.html.html)

@@ -89,7 +89,7 @@ Des mots-clés sur lesquels vous êtes bien positionnés avec une page mais dont
 
 Une différence en position aussi minime soit-elle (0,6 en moyenne) impacte massivement le CTR en SEO
 . 
-Un titre et une méta description qui semblent beaucoup plus répondre à l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) que les premiers résultats peuvent considérablement améliorer les performances
+Un titre et une méta description qui semblent beaucoup plus répondre à l'[Intention de recherche](https://blotmkt.comhttps://blotmkt.com/ia/contenu/intention-de-recherche.html.html) que les premiers résultats peuvent considérablement améliorer les performances
 .
 
 ## Outils et méthodes : maîtrisez la gestion de vos méta descriptions
@@ -130,7 +130,7 @@ Les méta descriptions sont également cruciales sur les réseaux sociaux, où e
 
 ### La méta description influence-t-elle directement le classement SEO ?
 
-La méta description influence le taux de clics (CTR) sans être un facteur direct de classement Google, mais elle est le levier principal de votre taux de clics et un signal fort pour les [Moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/moteurs-de-reponse.html) basés sur l'IA
+La méta description influence le taux de clics (CTR) sans être un facteur direct de classement Google, mais elle est le levier principal de votre taux de clics et un signal fort pour les [Moteurs de réponse](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/moteurs-de-reponse.html.html) basés sur l'IA
 .
 
 ### Quelle est la longueur idéale d'une méta description en 2024 ?
@@ -145,7 +145,7 @@ Utiliser des descriptions uniques pour chaque page aide à la fois les utilisate
 
 ### Comment Google choisit-il la méta description à afficher ?
 
-Dans environ 60% des cas, l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google.html) sélectionne lui-même la méta description qui lui paraît la plus convaincante ou la plus pertinente pour la requête spécifique de l'utilisateur, souvent en extrayant un passage du contenu
+Dans environ 60% des cas, l'[Algorithme Google](https://blotmkt.comhttps://blotmkt.com/ia/definition/algorithme-google.html.html) sélectionne lui-même la méta description qui lui paraît la plus convaincante ou la plus pertinente pour la requête spécifique de l'utilisateur, souvent en extrayant un passage du contenu
 .
 
 ### Peut-on utiliser des emojis ou caractères spéciaux dans les méta descriptions ?
@@ -275,10 +275,12 @@ Une formulation claire, concise et attrayante peut augmenter votre CTR de 20% ou
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)
-- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant.html)
-- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo.html)
-- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action.html)
-- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)
+- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.comhttps://blotmkt.com/ia/contenu/alt-text-image.html.html)
+- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/contenu/audit-contenu-existant.html.html)
+- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.comhttps://blotmkt.com/ia/contenu/balise-h1-seo.html.html)
+- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.comhttps://blotmkt.com/ia/contenu/call-to-action.html.html)
+- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.comhttps://blotmkt.com/ia/contenu/clustering-de-mots-cles.html.html)

@@ -28,7 +28,7 @@ related_articles:
 
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - La pagination SEO consiste à diviser un contenu volumineux en une série de pages séquentielles reliées entre elles ; mal gérée, elle génère du contenu dupliqué, dilue l'autorité et épuise le [Budget de crawl](https://blotmkt.com/ia/audit/budget-de-crawl.html).
+> - La pagination SEO consiste à diviser un contenu volumineux en une série de pages séquentielles reliées entre elles ; mal gérée, elle génère du contenu dupliqué, dilue l'autorité et épuise le [Budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/budget-de-crawl.html.html).
 > - Les meilleures pratiques techniques reposent sur des balises `<a href>` crawlables, des canoniques auto-référencées par page et l'absence de blocage via robots.txt ou noindex.
 > - La pagination classique reste la solution la plus fiable pour le SEO ; le scroll infini et le "Voir plus" exigent une implémentation technique rigoureuse pour ne pas masquer le contenu aux robots.
 > - Un budget de crawl bien géré grâce à une pagination structurée guide Googlebot vers les pages à haute valeur, améliorant l'indexation et le ROI SEO à long terme.
@@ -156,10 +156,12 @@ La pagination aide les moteurs de recherche à crawler efficacement en créant u
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
-- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)
-- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first.html)
-- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique.html)
-- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal.html)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/analyse-de-logs-seo.html.html)
+- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html)
+- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-mobile-first.html.html)
+- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html)
+- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-montreal.html.html)

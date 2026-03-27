@@ -55,7 +55,7 @@ un Contenu d'actualité connaît un pic de trafic juste après sa publication av
 , le contenu evergreen suit une courbe ascendante stable.
 
 Les formats privilégiés incluent 
-des guides détaillés, des tutoriels pas-à-pas, des glossaires, et des FAQ qui permettent de capter un trafic organique stable, essentiel pour toute [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html)
+des guides détaillés, des tutoriels pas-à-pas, des glossaires, et des FAQ qui permettent de capter un trafic organique stable, essentiel pour toute [Stratégie SEO](https://blotmkt.comhttps://blotmkt.com/ia/strategie/strategie-seo.html.html)
 . Un guide "Comment choisir le meilleur logiciel de comptabilité" restera pertinent pendant des années, contrairement à "Les tendances comptables 2024" qui perdra rapidement sa valeur.
 
 ### Contenu evergreen vs contenu d'actualité : deux courbes opposées
@@ -84,7 +84,7 @@ Un bon contenu evergreen peut devenir une ressource de référence, et ainsi gé
 ### Étape 1 : Recherche de mots-clés intemporels
 
 Utilisez des outils comme Answer the Public pour découvrir les questions que les internautes se posent, Analysez les mots-clés à fort volume de recherche et faible saisonnalité avec des outils comme Semrush ou Ahrefs, et servez-vous de Google Trends pour repérer les sujets stables sur plusieurs années
-. L'objectif : cibler des requêtes informationnelles avec un volume stable et une [Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) claire qui transcende les modes passagères.
+. L'objectif : cibler des requêtes informationnelles avec un volume stable et une [Intention de recherche](https://blotmkt.comhttps://blotmkt.com/ia/contenu/intention-de-recherche.html.html) claire qui transcende les modes passagères.
 
 ### Étape 2 : Structuration et rédaction approfondie
 
@@ -93,7 +93,7 @@ Un contenu evergreen performant repose sur une structuration claire, une rédact
 
 ### Étape 3 : Optimisation multimédia et UX
 
-L'engagement utilisateur détermine la performance à long terme. Intégrez des visuels, infographies ou vidéos pour améliorer le temps de lecture et réduire le [Taux de rebond](https://blotmkt.com/ia/audit/taux-de-rebond.html). 
+L'engagement utilisateur détermine la performance à long terme. Intégrez des visuels, infographies ou vidéos pour améliorer le temps de lecture et réduire le [Taux de rebond](https://blotmkt.comhttps://blotmkt.com/ia/audit/taux-de-rebond.html.html). 
 Les pages piliers peuvent augmenter la durée des visites (environ 1:22 minute pour les sites B2B) et le nombre de pages visitées par session (environ 2 pages pour les sites B2B)
 .
 
@@ -256,10 +256,12 @@ Programmez des révisions semestrielles pour actualiser les statistiques, exempl
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)
-- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant.html)
-- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo.html)
-- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action.html)
-- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)
+- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.comhttps://blotmkt.com/ia/contenu/alt-text-image.html.html)
+- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/contenu/audit-contenu-existant.html.html)
+- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.comhttps://blotmkt.com/ia/contenu/balise-h1-seo.html.html)
+- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.comhttps://blotmkt.com/ia/contenu/call-to-action.html.html)
+- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.comhttps://blotmkt.com/ia/contenu/clustering-de-mots-cles.html.html)

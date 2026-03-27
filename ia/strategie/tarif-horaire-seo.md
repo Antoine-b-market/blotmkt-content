@@ -63,7 +63,7 @@ L'e-commerce commande des tarifs 20% plus élevés que les services généraux
  en raison de la complexité technique (gestion du catalogue, Optimisation des fiches produits) et des enjeux commerciaux directs.
 
 Chez CVMH Solutions, les tarifs varient entre 90€ et 130€ HT de l'heure selon la nature des dossiers
-. Cette modulation reflète la réalité : un Audit technique simple ne requiert pas la même expertise qu'une stratégie de netlinking international ou qu'une [Migration SEO](https://blotmkt.com/ia/strategie/migration-seo.html) complexe.
+. Cette modulation reflète la réalité : un Audit technique simple ne requiert pas la même expertise qu'une stratégie de netlinking international ou qu'une [Migration SEO](https://blotmkt.comhttps://blotmkt.com/ia/strategie/migration-seo.html.html) complexe.
 
 ## Grille des prix SEO : du taux horaire au forfait mensuel
 
@@ -84,7 +84,7 @@ Moins fréquente mais parfois proposée, la rémunération basée sur l'atteinte
 ## Audit, optimisation, reporting : que couvre une heure de prestation SEO ?
 
 ### Phase d'analyse et d'audit technique
-Une heure d'expertise SEO en phase d'Analyse comprend : recherche et analyse de mots-clés stratégiques, audit technique complet (crawl, indexation, [Vitesse de chargement](https://blotmkt.com/ia/audit/vitesse-de-chargement.html)), analyse concurrentielle approfondie et audit de contenu existant. Ces tâches à forte valeur ajoutée permettent d'identifier les quick-wins et d'établir une roadmap prioritaire.
+Une heure d'expertise SEO en phase d'Analyse comprend : recherche et analyse de mots-clés stratégiques, audit technique complet (crawl, indexation, [Vitesse de chargement](https://blotmkt.comhttps://blotmkt.com/ia/audit/vitesse-de-chargement.html.html)), analyse concurrentielle approfondie et audit de contenu existant. Ces tâches à forte valeur ajoutée permettent d'identifier les quick-wins et d'établir une roadmap prioritaire.
 
 Le coût d'un Audit SEO varie de 500€ à 15000€ selon l'ampleur et la profondeur
 . Un audit technique basique sur un site vitrine de 20 pages ne demande pas la même expertise qu'une analyse complète d'un e-commerce de 10 000 références avec problématiques de duplication et d'Architecture.
@@ -252,10 +252,12 @@ Privilégiez une approche axée sur le ROI et évitez les consultants avec des g
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html)
-- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
-- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web.html)
-- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel.html)
-- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)
+- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.comhttps://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html.html)
+- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.comhttps://blotmkt.com/ia/strategie/agence-seo-montreal.html.html)
+- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.comhttps://blotmkt.com/ia/strategie/audit-site-web.html.html)
+- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.comhttps://blotmkt.com/ia/strategie/budget-seo-mensuel.html.html)
+- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.comhttps://blotmkt.com/ia/strategie/conseil-seo-quebec.html.html)

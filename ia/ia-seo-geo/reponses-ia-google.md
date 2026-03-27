@@ -54,7 +54,7 @@ la SGE Analyse plusieurs sources pour présenter des insights contextuels qui vo
 
 ### Fonctionnement technique
 
-Cette technologie consulte simultanément les bases de données indexées, le [Knowledge Graph](https://blotmkt.com/ia/definition/knowledge-graph.html) et des contenus spécialisés pour proposer des réponses précises, chaque réponse étant accompagnée de liens vers les sites sources
+Cette technologie consulte simultanément les bases de données indexées, le [Knowledge Graph](https://blotmkt.comhttps://blotmkt.com/ia/definition/knowledge-graph.html.html) et des contenus spécialisés pour proposer des réponses précises, chaque réponse étant accompagnée de liens vers les sites sources
 . 
 Les études montrent que Google affiche un élément SGE pour 86,83% des requêtes, avec 65,9% déclenchant un petit bouton "générer" et 34,1% du Contenu pré-rempli
 .
@@ -62,7 +62,7 @@ Les études montrent que Google affiche un élément SGE pour 86,83% des requêt
 ### Distinction avec les résultats traditionnels
 
 La différence majeure réside dans l'approche : 
-les AI Overviews sont conçus pour répondre à l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) de l'utilisateur tout en l'encourageant à continuer son parcours depuis l'interface, illustrant l'évolution de Google d'un moteur de recherche vers un moteur de réponses
+les AI Overviews sont conçus pour répondre à l'[Intention de recherche](https://blotmkt.comhttps://blotmkt.com/ia/contenu/intention-de-recherche.html.html) de l'utilisateur tout en l'encourageant à continuer son parcours depuis l'interface, illustrant l'évolution de Google d'un moteur de recherche vers un moteur de réponses
 .
 
 ## Impact sur le trafic SEO : la fin du clic ?
@@ -98,7 +98,7 @@ Le GEO se concentre sur l'optimisation du contenu pour être favorablement inter
 
 ### Le rôle crucial des données structurées
 
-La SGE s'appuie fortement sur les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) pour comprendre et catégoriser efficacement l'information — les sites utilisant le balisage schema (FAQ, How-To, Article, Review) auront de meilleures chances d'apparaître dans les extraits SGE
+La SGE s'appuie fortement sur les [Données structurées](https://blotmkt.comhttps://blotmkt.com/ia/definition/donnees-structurees.html.html) pour comprendre et catégoriser efficacement l'information — les sites utilisant le balisage schema (FAQ, How-To, Article, Review) auront de meilleures chances d'apparaître dans les extraits SGE
 . 
 Le balisage schema fournit aux grands modèles de langage le contexte essentiel sur le contenu et les entreprises
 .
@@ -253,10 +253,12 @@ Créez des tableaux de bord utilisant les données de Google Search Console pour
 
 ---
 
+---
+
 ## Articles connexes
 
-- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
-- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
-- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
-- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
-- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
+- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html.html)
+- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html.html)
+- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html.html)
+- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html.html)
+- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html.html)

@@ -37,7 +37,7 @@ Une entité nommée désigne le processus par lequel un système identifie autom
 Un mot-clé comme "Apple" est ambiguë, tandis qu'une entité comme Apple Inc. est clairement définie comme une entreprise technologique avec des produits, fondateurs et concurrents. Google stocke cette entité avec des identifiants uniques
 
 > - 
-Le balisage [Schema.org](https://blotmkt.com/ia/definition/schema.org.html), notamment les types "Person", "Organization", "Product" et "LocalBusiness", permet à Google d'identifier et connecter les entités de votre site au web plus large
+Le balisage [Schema.org](https://blotmkt.comhttps://blotmkt.com/ia/definition/schema.org.html.html), notamment les types "Person", "Organization", "Product" et "LocalBusiness", permet à Google d'identifier et connecter les entités de votre site au web plus large
 
 > - 
 99 % des sources citées dans les blocs IA proviennent du top 10 des résultats organiques. L'Optimisation pour l'IA n'est donc pas distincte du SEO classique
@@ -50,7 +50,7 @@ Google) ne fonctionne plus avec une logique de correspondance exacte, mais dans 
 
 ## Définition : qu'est-ce qu'une entité nommée en SEO ?
 
-Une entité nommée est un concept, un objet, une personne, un lieu ou une idée qui est unique, distincte et bien définie. Pour Google, une entité n'est pas un mot, c'est un identifiant unique dans sa base de données ([Knowledge Graph](https://blotmkt.com/ia/definition/knowledge-graph.html))
+Une entité nommée est un concept, un objet, une personne, un lieu ou une idée qui est unique, distincte et bien définie. Pour Google, une entité n'est pas un mot, c'est un identifiant unique dans sa base de données ([Knowledge Graph](https://blotmkt.comhttps://blotmkt.com/ia/definition/knowledge-graph.html.html))
 . Ce concept révolutionne la façon dont les moteurs de recherche comprennent et organisent l'information.
 
 Les triplets sémantiques sont les briques de base des graphes de connaissances (knowledge graphs) comme celui de Google. Une fois les entités reconnues, elles sont liées entre elles via des relations
@@ -249,10 +249,12 @@ Complétez avec des outils comme Contentsprout AI, Google Trends et Text Razor p
 
 ---
 
+---
+
 ## Articles connexes
 
-- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
-- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
-- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
-- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
-- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
+- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html.html)
+- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html.html)
+- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html.html)
+- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html.html)
+- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html.html)

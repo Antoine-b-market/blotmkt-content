@@ -29,7 +29,7 @@ related_articles:
 
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - **Le LLM SEO vise la citation directe** dans les réponses génératives d'IA plutôt que les clics traditionnels, transformant l'[Optimisation de contenu](https://blotmkt.com/ia/contenu/optimisation-de-contenu.html) en stratégie d'autorité informationnelle
+> - **Le LLM SEO vise la citation directe** dans les réponses génératives d'IA plutôt que les clics traditionnels, transformant l'[Optimisation de contenu](https://blotmkt.comhttps://blotmkt.com/ia/contenu/optimisation-de-contenu.html.html) en stratégie d'autorité informationnelle
 > - **L'Optimisation concrète repose sur** une structuration claire (H2/H3 questions-réponses), un style factuel avec données chiffrées, et un renforcement de l'E-E-A-T interprétable par les machines
 > - **Le ROI se mesure différemment** : suivi des citations dans les AI Overviews plutôt que du trafic traditionnel, avec un impact double sur la notoriété de marque et l'autorité perçue
 <!-- speakable:end -->
@@ -57,7 +57,7 @@ Les LLM ne correspondent pas aux mots-clés ; ils interprètent le sens. Bourrer
 ### Le framework d'optimisation technique et sémantique
 
 Concentrez-vous sur la qualité. Tout comme les moteurs de recherche, les LLM valorisent le Contenu unique, utile et faisant autorité qui s'aligne avec un public et une intention spécifiques
-. L'optimisation concrète repose sur trois piliers : structurer le Contenu pour la machine avec des titres clairs (H2, H3) qui posent et répondent à des questions précises, des listes à puces et un balisage [Schema.org](https://blotmkt.com/ia/definition/schema.org.html) pertinent.
+. L'optimisation concrète repose sur trois piliers : structurer le Contenu pour la machine avec des titres clairs (H2, H3) qui posent et répondent à des questions précises, des listes à puces et un balisage [Schema.org](https://blotmkt.comhttps://blotmkt.com/ia/definition/schema.org.html.html) pertinent.
 
 Une étude de 2024 citée par Surfer a trouvé que le contenu bien organisé et complet augmentait l'inclusion dans les réponses IA jusqu'à 37%
 . Le style rédactionnel doit privilégier des phrases concises avec des données chiffrées et des citations sourcées. 
@@ -220,10 +220,12 @@ Le LLM SEO est l'art de devenir la réponse. Cela signifie posséder un concept 
 
 ---
 
+---
+
 ## Articles connexes
 
-- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
-- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
-- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
-- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
-- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
+- [AEO : le guide de l'Answer Engine Optimization pour la recherche vocale et les réponses directes](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html.html)
+- [Algorithme de recommandation : le guide complet pour éviter les biais et la sur-dépendance](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html.html)
+- [Citations par IA : comment l'intelligence artificielle réinvente votre contenu](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html.html)
+- [Contenu IA SEO : le guide pour une stratégie de référencement sémantique](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html.html)
+- [Contextualisation SEO : le guide pour optimiser au-delà des mots-clés](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html.html)

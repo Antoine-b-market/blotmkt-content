@@ -45,7 +45,7 @@ Cette notion de topic cluster peut se résumer à une tactique de recherche orga
 
 Une page pilier, également connue sous le nom pillar topic ou pillar content, est un contenu long (plus de 1 000 mots). Cette page couvre une thématique donnée aussi largement que possible, abordant les sujets les plus importants qui gravitent autour de celle-ci
 . 
-Un topic cluster est une [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) qui se focalise sur la création d'un ensemble de pages autour d'une thématique, avec une page pilier en son centre
+Un topic cluster est une [Stratégie SEO](https://blotmkt.comhttps://blotmkt.com/ia/strategie/strategie-seo.html.html) qui se focalise sur la création d'un ensemble de pages autour d'une thématique, avec une page pilier en son centre
 .
 
 Le rôle de hub central s'articule autour de trois fonctions clés. D'abord, elle offre une vue d'ensemble exhaustive d'un sujet large comme "marketing de Contenu" ou "référencement naturel". 
@@ -63,7 +63,7 @@ En travaillant ainsi la sémantique de l'ensemble de votre site internet, vous t
 ## Page pilier vs article de blog : des objectifs différents
 
 La distinction entre une page pilier et un article de blog s'observe sur plusieurs dimensions stratégiques. 
-C'est ce qui a donné l'approche du Topic Cluster ou [Cocon sémantique](https://blotmkt.com/ia/definition/cocon-semantique.html) : plutôt que de positionner une seule page sur un seul mot-clé, on utilise un groupe de pages (le cocon) sur une thématique. Et pour organiser ce groupe, on va créer une page « centrale », qui rayonnera ensuite sur d'autres contenus (les satellites) du cocon : c'est la page pilier
+C'est ce qui a donné l'approche du Topic Cluster ou [Cocon sémantique](https://blotmkt.comhttps://blotmkt.com/ia/definition/cocon-semantique.html.html) : plutôt que de positionner une seule page sur un seul mot-clé, on utilise un groupe de pages (le cocon) sur une thématique. Et pour organiser ce groupe, on va créer une page « centrale », qui rayonnera ensuite sur d'autres contenus (les satellites) du cocon : c'est la page pilier
 .
 
 Au niveau du ciblage des mots-clés, la page pilier vise des termes génériques à fort volume de recherche ("short tail"). 
@@ -102,7 +102,7 @@ Tous ces contenus sont reliés entre eux grâce à un maillage interne intellige
 
 ### 5. Optimisation technique et on-page
 
-L'optimisation englobe le balisage HTML, l'amélioration de la [Vitesse de chargement](https://blotmkt.com/ia/audit/vitesse-de-chargement.html), l'expérience utilisateur et l'intégration de contenus multimédias. 
+L'optimisation englobe le balisage HTML, l'amélioration de la [Vitesse de chargement](https://blotmkt.comhttps://blotmkt.com/ia/audit/vitesse-de-chargement.html.html), l'expérience utilisateur et l'intégration de contenus multimédias. 
 Une bonne page pilier fait plus de 1 500 mots et rassemble toutes les informations nécessaires dont l'internaute a besoin
 .
 
@@ -256,10 +256,12 @@ Les trois piliers du référencement naturel sont le pilier technique (Explorati
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)
-- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo.html)
-- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien.html)
-- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow.html)
-- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored.html)
+- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.comhttps://blotmkt.com/ia/definition/algorithme-google.html.html)
+- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.comhttps://blotmkt.com/ia/definition/amp-google-seo.html.html)
+- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.comhttps://blotmkt.com/ia/definition/ancre-de-lien.html.html)
+- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-nofollow.html.html)
+- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-sponsored.html.html)

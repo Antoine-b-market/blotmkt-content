@@ -31,7 +31,7 @@ related_articles:
 > - Une stratégie SEO est une feuille de route structurée qui aligne le Contenu sur le parcours d'achat client et maximise la croissance de la visibilité numérique
 > - Les 4 piliers d'une stratégie gagnante : audit technique, création de contenu à forte valeur, netlinking et Analyse continue
 > - Le ROI SEO atteint en moyenne 747% selon SearchEngineJournal, avec des résultats mesurables sous 6-12 mois
-> - L'intégration du GEO (Generative Engine Optimization) devient essentielle pour optimiser sa visibilité dans les [Moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/moteurs-de-reponse.html) basés sur l'IA
+> - L'intégration du GEO (Generative Engine Optimization) devient essentielle pour optimiser sa visibilité dans les [Moteurs de réponse](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/moteurs-de-reponse.html.html) basés sur l'IA
 <!-- speakable:end -->
 
 Dans un paysage digital où 
@@ -56,7 +56,7 @@ L'essence d'une stratégie SEO réside dans sa dimension évolutive. Elle intèg
 
 ### L'audit technique et sémantique : des fondations solides
 
-L'audit constitue le diagnostic préalable indispensable à toute stratégie performante. Il révèle les freins techniques ([Vitesse de chargement](https://blotmkt.com/ia/audit/vitesse-de-chargement.html), indexation, Architecture) qui limitent votre potentiel de croissance. Parallèlement, l'analyse sémantique identifie les opportunités de mots-clés alignés sur l'intention utilisateur et votre valeur commerciale. Cette double approche garantit des fondations solides pour déployer vos actions ultérieures.
+L'audit constitue le diagnostic préalable indispensable à toute stratégie performante. Il révèle les freins techniques ([Vitesse de chargement](https://blotmkt.comhttps://blotmkt.com/ia/audit/vitesse-de-chargement.html.html), indexation, Architecture) qui limitent votre potentiel de croissance. Parallèlement, l'analyse sémantique identifie les opportunités de mots-clés alignés sur l'intention utilisateur et votre valeur commerciale. Cette double approche garantit des fondations solides pour déployer vos actions ultérieures.
 
 ### La création de contenu à forte valeur ajoutée
 
@@ -228,10 +228,12 @@ Commencez par un Audit complet identifiant les freins techniques et les opportun
 
 ---
 
+---
+
 ## Articles connexes
 
-- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html)
-- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
-- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web.html)
-- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel.html)
-- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)
+- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.comhttps://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html.html)
+- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.comhttps://blotmkt.com/ia/strategie/agence-seo-montreal.html.html)
+- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.comhttps://blotmkt.com/ia/strategie/audit-site-web.html.html)
+- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.comhttps://blotmkt.com/ia/strategie/budget-seo-mensuel.html.html)
+- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.comhttps://blotmkt.com/ia/strategie/conseil-seo-quebec.html.html)
