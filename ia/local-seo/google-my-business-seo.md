@@ -3,7 +3,6 @@ title: "SEO pour Google Business Profile : le guide complet pour dominer la rech
 description: "Optimisez votre fiche Google Business Profile (ex-GMB) pour le SEO local. Suivez notre guide pratique pour améliorer votre classement et performer dans les AI Overviews."
 keyword: "Google My Business SEO"
 category: "local-seo"
-schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"
@@ -11,124 +10,89 @@ author_github: "https://github.com/Antoine-b-market"
 author_orcid: "https://orcid.org/0009-0005-6450-4528"
 organization: "BlotMKT"
 organization_url: "https://blotmkt.com"
-date: "2026-03-09 19:05"
-date_modified: "2026-03-09 19:05"
+date: "2026-03-27 23:36"
+date_modified: "2026-03-27 23:36"
 slug: "google-my-business-seo"
-url: "https://blotmkt.com/ia/local-seo/google-my-business-seo.html"
-canonical: "https://blotmkt.com/ia/local-seo/google-my-business-seo.html"
-related_articles:
-  - title: "Optimiser votre seo local : le guide complet pour attirer des clients de proximité"
-    url: "/ia/definition/seo-local"
-  - title: "NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA"
-    url: "/ia/local-seo/nap-seo-local"
-  - title: "Maîtriser l'optimisation google maps pour propulser votre visibilité locale"
-    url: "/ia/local-seo/optimisation-google-maps"
+url: "https://blotmkt.com/ia/local-seo/google-my-business-seo"
+schema_type: "TechArticle"
+sources:
+  - blotmkt.com
+  - antoine-blot.com
 ---
 
 # SEO pour Google Business Profile : le guide complet pour dominer la recherche locale
 
+La plupart des entreprises locales créent leur fiche Google Business Profile puis l'oublient. Résultat : elles restent invisibles dans le pack local, perdent des clients au profit de concurrents mieux optimisés et manquent les opportunités offertes par les AI Overviews. Pourtant, le SEO pour Google Business Profile repose sur des optimisations concrètes et mesurables. Ce guide détaille les techniques essentielles pour transformer votre fiche d'établissement en véritable levier d'acquisition locale, y compris face aux résultats génératifs de Google.
+
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - Le SEO pour Google Business Profile optimise votre visibilité dans le Local Pack, Google Maps et les résultats géolocalisés par rapport au SEO traditionnel centré sur la pertinence thématique.
-> - Les Optimisations fondamentales incluent la cohérence NAP, le choix stratégique des catégories, une description complète et des Google Posts réguliers.
-> - Les horaires d'ouverture constituent un facteur de classement top 5, tandis que les avis détaillés alimentent le nouveau format Stories sur Google Maps mobile.
-> - L'Optimisation GBP devient cruciale pour les AI Overviews car Google utilise ces [Données structurées](https://blotmkt.comhttps://blotmkt.com/ia/definition/donnees-structurees.html.html) comme source privilégiée pour ses réponses génératives.
-<!-- speakable:end -->
-
-Le marketing local se transforme radicalement. Votre fiche Google Business Profile n'est plus une simple présence passive : elle détermine votre visibilité face à des clients potentiels qui recherchent activement vos services. Avec 
-61% d'augmentation des appels téléphoniques via Google) Business Profile
- depuis 2020 et l'émergence des AI Overviews, maîtriser le SEO pour votre fiche d'établissement devient un avantage concurrentiel décisif.
+> - Le SEO pour Google Business Profile maximise la visibilité dans le pack local, Google Maps et les résultats géolocalisés.
+> - Complétude du NAP, catégories stratégiques et description optimisée sont les piliers d'une fiche performante.
+> - Les avis détaillés, photos régulières et horaires précis figurent parmi les cinq premiers facteurs de classement local.
+> - Une fiche GBP bien structurée alimente directement les AI Overviews grâce à ses données factuelles et vérifiables.
 
 ---
 
-## Comprendre le SEO pour Google Business Profile (GBP) : bien plus qu'une simple fiche
+## Comprendre le SEO pour Google Business Profile : bien plus qu'une simple fiche
 
-Les résultats locaux sont principalement basés sur la pertinence, la distance et la popularité. Ensemble, ces facteurs aident Google à trouver la meilleure correspondance pour les recherches des clients.
- Le SEO pour Google Business Profile englobe l'ensemble des techniques visant à maximiser votre visibilité dans le Local Pack, Google Maps et les résultats de recherche géolocalisés.
+Le SEO pour Google Business Profile désigne l'ensemble des techniques visant à maximiser la visibilité d'une entreprise dans le pack local, Google Maps et les résultats de recherche géolocalisés. Contrairement au SEO traditionnel, centré sur la pertinence thématique à large échelle, le [SEO local](https://blotmkt.com/ia/definition/seo-local.html) repose sur trois piliers : la proximité géographique, la pertinence par rapport à la requête et la notoriété de l'établissement. Selon une étude BrightLocal de 2024, 98 % des consommateurs ont utilisé internet pour trouver des informations sur une entreprise locale en 2023 (Source : BrightLocal, 2024). Le GBP agit comme une vitrine numérique : il est souvent le premier point de contact entre un client potentiel et l'entreprise. Il génère directement du trafic en magasin, des appels téléphoniques et des visites sur le site web. Ignorer cette fiche revient à laisser sa devanture éteinte dans une rue passante.
 
-Contrairement au SEO traditionnel qui se concentre sur la pertinence thématique à large échelle, 
-l'Algorithme de recherche locale de Google utilise trois composants clés pour déterminer quelles entreprises apparaissent : la proximité, la pertinence et la proéminence. La proximité fait référence à la distance physique entre la requête de recherche de l'utilisateur et l'entreprise.
+## Les optimisations essentielles pour améliorer le classement d'une fiche d'établissement
 
-Votre fiche GBP agit comme une vitrine numérique et constitue souvent le premier point de contact avec vos clients potentiels. 
-Votre Google Business Profile est le facteur le plus important pour classer dans le pack Google Maps. En fait, les données de l'industrie montrent que les signaux GBP peuvent représenter jusqu'à 32% de tous les facteurs de classement du pack maps.
- Cette importance directe sur le ROI des entreprises locales justifie l'investissement dans une Optimisation systématique de votre profil.
+La première étape consiste à garantir la complétude et la cohérence du NAP (nom, adresse, téléphone) sur toutes les plateformes où l'entreprise apparaît. Toute incohérence entre la fiche GBP, le site web et les annuaires tiers envoie un signal négatif aux algorithmes de Google. Le choix des catégories est stratégique : sélectionnez une catégorie primaire qui correspond exactement à votre activité principale, puis ajoutez des catégories secondaires pour couvrir vos services complémentaires. Selon Antoine Blot, expert SEO et marketing à Montréal, la description d'entreprise doit adopter un ton clair et informatif, intégrer naturellement des mots-clés pertinents et mettre en avant la proposition de valeur unique. Pensez à rédiger des phrases factuelles, facilement compréhensibles par les humains comme par les moteurs génératifs. Enfin, publiez régulièrement des Google Posts pour signaler à Google que votre fiche est active : actualités, offres spéciales et événements démontrent un engagement constant (Source : Moz, Local Search Ranking Factors, 2024).
 
-## Les optimisations fondamentales de votre fiche d'établissement
+## Comment les avis, les photos et les horaires influencent le référencement local
 
-L'un des principaux problèmes SEO qui peuvent affecter la visibilité est de s'assurer que le nom de l'entreprise, l'adresse physique et le numéro de téléphone (NAP) sont corrects et cohérents sur le web. Lorsque le NAP est incorrect dans un Google Business Profile, cela peut considérablement impacter les classements dans le pack maps et dans les résultats organiques.
+Les horaires d'ouverture figurent parmi les cinq premiers facteurs de classement local selon le rapport Whitespark 2024 (Source : Whitespark, Local Search Ranking Factors, 2024). Des horaires inexacts provoquent des visites infructueuses, des avis négatifs et une perte de confiance algorithmique. Utilisez les horaires spéciaux pour les jours fériés et les horaires étendus si votre établissement propose des services complémentaires en dehors des heures principales.
 
-La sélection des catégories primaires et secondaires nécessite une approche stratégique. 
-Selon ces experts, choisir la mauvaise catégorie primaire dans Google Business Profile est le facteur de classement négatif le plus impactant pour le [SEO local](https://blotmkt.comhttps://blotmkt.com/ia/definition/seo-local.html.html). Cette option a reçu un score de 176, ce qui l'a mise en première place.
- Alignez précisément vos catégories avec les services que vous offrez et les requêtes de vos utilisateurs.
+Les avis clients constituent un signal de confiance majeur. Encouragez les avis détaillés et descriptifs plutôt que de simples notes. Google valorise désormais les avis accompagnés de photos, qui alimentent le format "Stories" visible sur Google Maps mobile. Répondez systématiquement à chaque avis, positif comme négatif, de manière professionnelle et personnalisée. Cette interaction démontre un engagement actif et renforce la preuve sociale.
 
-Pour la description d'entreprise, adoptez une approche claire et informative inspirée du framework B.I.S.C.U.I.T. pour être compris par les IA. Utilisez des mots-clés pertinents naturellement intégrés et mettez en avant votre proposition de valeur unique. 
-Votre description d'entreprise fait plus qu'aider les gens à parcourir votre profil. C'est aussi un signal clé pour les systèmes IA qui cherchent à comprendre votre entreprise. Rédiger des phrases claires et complètes qui expliquent ce que vous faites, qui vous aidez, et comment vous servez votre région facilite la génération de résumés précis par les outils IA.
+L'ajout régulier de photos et vidéos de haute qualité — locaux, équipe, produits, prestations — augmente le temps d'interaction des utilisateurs sur la fiche et améliore son attractivité dans les résultats visuels.
 
-Les Google Posts démontrent une activité constante et un engagement. Utilisez-les pour communiquer vos actualités, offres et événements avec une fréquence régulière qui signale votre présence active sur la plateforme.
-
-## Facteurs de classement clés : avis, médias et horaires
-
-Les heures d'ouverture sont un autre champ Google Business Profile qui impacte les classements. Nous avons vu de première main, en testant les heures d'ouverture comme facteur de classement, que les classements Google Business Profile changent souvent drastiquement selon quelles entreprises sont ouvertes ou fermées au moment d'une recherche. Quand une entreprise est ouverte, elle est plus susceptible de classer dans les recherches pertinentes, alors qu'une entreprise peut complètement disparaître des classements quand elle est fermée.
- Les horaires d'ouverture représentent un facteur de classement top 5 selon le rapport Whitespark. Maintenez une précision absolue et envisagez des horaires étendus si possible.
-
-Les avis qui incluent des photos sont maintenant affichés dans un format story. Cela rend les avis plus dynamiques et visuellement engageants, permettant aux clients potentiels de voir l'expérience du point de vue d'autres acheteurs.
- Ce nouveau format Stories sur Google Maps mobile valorise les avis détaillés et descriptifs accompagnés de photos.
-
-Développez une stratégie systématique pour encourager les avis clients. 
-Quand Localo a analysé les pages d'entreprises de Google Business Profile, ils ont remarqué que les entreprises qui classent plus haut reçoivent des avis plus longs et plus détaillés. Spécifiquement, les entreprises dans les trois premières positions de Google reçoivent des avis qui font juste moins de 350 mots de long.
- Répondez systématiquement à tous les avis de manière professionnelle pour maximiser l'engagement et la preuve sociale.
-
-L'ajout régulier de photos et vidéos de haute qualité (local, équipe, produits) augmente l'attractivité et le temps d'Interaction sur votre fiche. 
-Les photos pertinentes et de haute qualité de votre Google Business Profile sont essentielles pour les classements SEO locaux. Elles donnent à votre entreprise un contexte visuel, ce qui attire plus de clients potentiels et booste l'engagement.
+| Facteur | Impact sur le classement | Action recommandée |
+|---|---|---|
+| Horaires d'ouverture | Top 5 des facteurs locaux | Mise à jour hebdomadaire, horaires spéciaux inclus |
+| Avis clients détaillés | Signal de confiance fort | Solliciter des avis descriptifs avec photos |
+| Photos et vidéos | Engagement utilisateur accru | Ajouter 3 à 5 visuels par mois minimum |
+| Réponses aux avis | Preuve d'engagement actif | Répondre sous 48 heures à chaque avis |
 
 ## Optimiser pour le futur : le GBP et les AI Overviews
 
-Brad explique que les fonctionnalités IA de Google, comme AI Overview et le mode IA, tirent déjà des données directement des profils GBP. Il l'a testé lui-même en optimisant un profil puis en demandant à l'IA des informations sur l'entreprise. L'IA a répété les phrases exactes qu'il avait incluses dans la liste. C'est la preuve que ce que vous mettez dans votre GBP est utilisé pour entraîner et alimenter les réponses IA de Google.
+Les AI Overviews de Google s'appuient sur des [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) et factuelles pour générer leurs synthèses. Une fiche Google Business Profile complète et bien optimisée constitue une source d'information privilégiée pour les modèles de langage qui alimentent ces résultats génératifs. Une description claire, des services bien définis et une section Questions/Réponses active permettent de répondre directement aux requêtes complexes traitées par l'IA.
 
-Les données structurées et factuelles d'une fiche GBP bien optimisée constituent une source d'information privilégiée pour les LLM qui génèrent les AI Overviews. 
-Cette Analyse d'hyperlocal confirme que les Google AI Overviews représentent un changement significatif par rapport au système de classement traditionnel basé sur la localisation de Google, avec beaucoup plus d'accent sur la pertinence du contenu et l'intention de requête que la proximité géographique. Pour les entreprises locales, cela signifie qu'optimiser pour la pertinence locale reste important, la qualité et l'autorité du contenu a un impact beaucoup plus grand sur la visibilité Google AI Overviews que la proximité physique du chercheur.
+Pour maximiser vos chances d'apparaître dans les AI Overviews, formulez le contenu de vos posts, descriptions et réponses aux avis de manière conversationnelle et informative. Chaque phrase doit pouvoir être extraite et réutilisée sans contexte supplémentaire par un moteur génératif. Évitez le jargon marketing creux et privilégiez les affirmations factuelles vérifiables.
 
-Une description claire, des services bien définis et une section Q&R active permettent de répondre directement aux requêtes complexes traitées par l'IA de Google. 
-Pour gagner dans cette ère "Answer Engine", vous devez passer du SEO traditionnel à l'Optimisation de Moteur Génératif (GEO). Votre objectif est de fournir à l'IA le meilleur "matériau source" possible.
- Formulez votre contenu de manière conversationnelle et informative pour qu'il soit facilement ingérable par les moteurs génératifs.
-
-La pertinence et l'autorité locale construites via le GBP sont des signaux de confiance forts, essentiels pour être mis en avant dans les synthèses IA. 
-L'IA de Google priorise le Contenu qui est clair, autoritaire, et répond directement à la question d'un utilisateur. Cela signifie que le contenu de votre site web, votre Google Business Profile, et votre réputation en ligne sont tous évalués pour déterminer si vous êtes une source digne de confiance.
+[!IMPORTANT] La pertinence et l'autorité locale construites via le GBP sont des signaux de confiance essentiels pour les synthèses IA : une fiche négligée sera exclue des réponses génératives au profit de concurrents mieux documentés.
 
 ## Questions fréquentes
 
 ### Comment apparaître dans le pack local de Google ?
-
-Les trois principaux facteurs de classement de recherche locale sont les signaux de votre Google Business Profile, vos avis en ligne, et le SEO on-page de votre site web.
- Optimisez votre fiche GBP complètement, collectez des avis clients régulièrement et assurez-vous que votre site web contient des informations cohérentes avec votre profil.
-
-### Est-ce que Google Business Profile est gratuit ?
-Oui, Google Business Profile est entièrement gratuit. C'est un outil fourni par Google pour aider les entreprises à gérer leur présence en ligne sur la recherche Google, Google Maps et Google Shopping sans aucun coût.
+Pour apparaître dans le pack local, revendiquez et complétez votre fiche Google Business Profile avec un NAP cohérent, des catégories précises et une description optimisée. Encouragez les avis clients, publiez régulièrement des Google Posts et assurez-vous que vos horaires sont toujours à jour. La proximité géographique avec l'utilisateur, la pertinence par rapport à la requête et la notoriété de votre établissement sont les trois critères principaux évalués par Google.
 
 ### Comment améliorer son référencement sur Google Maps ?
+L'optimisation pour Google Maps passe par une fiche GBP complète, des avis clients réguliers et détaillés, et l'ajout fréquent de photos de qualité. Maintenez vos horaires à jour, répondez à chaque avis et utilisez les Google Posts pour signaler une activité constante. Assurez la cohérence de vos informations sur tous les annuaires locaux et intégrez des mots-clés géolocalisés dans votre description d'entreprise.
 
-Pour classer dans les AI Overviews localement, optimisez complètement votre Google Business Profile, publiez des pages spécifiques à la localisation, ajoutez du schema local, et collectez des avis et du Contenu généré par les utilisateurs.
- Maintenez des informations NAP cohérentes et publiez régulièrement du contenu frais.
+### Est-ce que Google Business Profile est gratuit ?
+Oui, Google Business Profile est entièrement gratuit. La création, la revendication et la gestion de votre fiche d'établissement ne nécessitent aucun paiement. Google propose cet outil pour permettre aux entreprises locales de gérer leur présence en ligne dans la recherche Google et sur Google Maps. Des fonctionnalités publicitaires payantes existent via Google Ads, mais l'optimisation organique de la fiche reste accessible sans frais.
 
 ### Pourquoi ma fiche d'établissement n'apparaît pas ?
-Les causes principales incluent des informations NAP incohérentes, une mauvaise catégorie primaire, un profil incomplet ou un manque d'activité récente. 
-En 2026, le "Taux de Décroissance" de la visibilité est plus rapide que jamais. Une mise à jour récente a rapporté des chutes drastiques dans certaines impressions GBP pour les entreprises qui n'avaient pas publié une mise à jour ou photo en plus de 30 jours.
+Plusieurs raisons peuvent expliquer l'invisibilité d'une fiche : elle n'est pas revendiquée ou vérifiée, les informations sont incomplètes, le NAP est incohérent avec d'autres sources en ligne, ou la fiche a été suspendue pour non-respect des consignes de Google. Vérifiez également que votre adresse est bien enregistrée dans la zone de service ciblée et que votre catégorie principale correspond aux requêtes visées.
 
 ---
 
-*Sources : Google Business Profile Help (Google, 2024), Local SEO Ranking Factors (Whitespark, 2026), BrightLocal Local Search Study (2025), Local Falcon Research (2025)*
+*Sources : BrightLocal, Local Consumer Review Survey 2024 — Whitespark, Local Search Ranking Factors 2024 — Moz, Local Search Ranking Factors 2024*
 
 ```json
 {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
+      "@type": "TechArticle",
       "headline": "SEO pour Google Business Profile : le guide complet pour dominer la recherche locale",
       "description": "Optimisez votre fiche Google Business Profile (ex-GMB) pour le SEO local. Suivez notre guide pratique pour améliorer votre classement et performer dans les AI Overviews.",
-      "url": "https://blotmkt.com/ia/Local SEO/google-my-business-seo",
-      "datePublished": "2026-03-09 19:05",
-      "dateModified": "2026-03-09 19:05",
+      "url": "https://blotmkt.com/ia/local-seo/google-my-business-seo",
+      "datePublished": "2026-03-27 23:36",
+      "dateModified": "2026-03-27 23:36",
       "author": {
         "@type": "Person",
         "name": "Antoine Blot",
@@ -144,7 +108,7 @@ En 2026, le "Taux de Décroissance" de la visibilité est plus rapide que jamais
         "name": "BlotMKT",
         "url": "https://blotmkt.com"
       },
-      "inLanguage": "fr-FR",
+      "inLanguage": "fr-CA",
       "keywords": "optimisation fiche établissement google, SEO local, référencement Google Maps, Google Business Profile, avis clients google, pack local"
     },
     {
@@ -155,15 +119,7 @@ En 2026, le "Taux de Décroissance" de la visibilité est plus rapide que jamais
           "name": "Comment apparaître dans le pack local de Google ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Les trois principaux facteurs sont l'optimisation complète de votre Google Business Profile, la collecte d'avis clients réguliers, et l'optimisation SEO on-page de votre site web avec des informations cohérentes."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Est-ce que Google Business Profile est gratuit ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Oui, Google Business Profile est entièrement gratuit. C'est un outil fourni par Google pour gérer votre présence en ligne sur la recherche, Maps et Shopping sans aucun coût."
+            "text": "Pour apparaître dans le pack local, revendiquez et complétez votre fiche Google Business Profile avec un NAP cohérent, des catégories précises et une description optimisée. Encouragez les avis clients, publiez régulièrement des Google Posts et assurez-vous que vos horaires sont toujours à jour. La proximité géographique avec l'utilisateur, la pertinence par rapport à la requête et la notoriété de votre établissement sont les trois critères principaux évalués par Google."
           }
         },
         {
@@ -171,7 +127,15 @@ En 2026, le "Taux de Décroissance" de la visibilité est plus rapide que jamais
           "name": "Comment améliorer son référencement sur Google Maps ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Optimisez complètement votre GBP, publiez des pages spécifiques à votre localisation, ajoutez du schema local, collectez des avis clients, maintenez des informations NAP cohérentes et publiez du contenu frais régulièrement."
+            "text": "L'optimisation pour Google Maps passe par une fiche GBP complète, des avis clients réguliers et détaillés, et l'ajout fréquent de photos de qualité. Maintenez vos horaires à jour, répondez à chaque avis et utilisez les Google Posts pour signaler une activité constante. Assurez la cohérence de vos informations sur tous les annuaires locaux et intégrez des mots-clés géolocalisés dans votre description d'entreprise."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Est-ce que Google Business Profile est gratuit ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui, Google Business Profile est entièrement gratuit. La création, la revendication et la gestion de votre fiche d'établissement ne nécessitent aucun paiement. Google propose cet outil pour permettre aux entreprises locales de gérer leur présence en ligne dans la recherche Google et sur Google Maps. Des fonctionnalités publicitaires payantes existent via Google Ads, mais l'optimisation organique de la fiche reste accessible sans frais."
           }
         },
         {
@@ -179,9 +143,9 @@ En 2026, le "Taux de Décroissance" de la visibilité est plus rapide que jamais
           "name": "Pourquoi ma fiche d'établissement n'apparaît pas ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Les causes principales incluent des informations NAP incohérentes, une mauvaise catégorie primaire, un profil incomplet ou un manque d'activité récente. Les entreprises inactives depuis plus de 30 jours peuvent voir leur visibilité chuter drastiquement."
+            "text": "Plusieurs raisons peuvent expliquer l'invisibilité d'une fiche : elle n'est pas revendiquée ou vérifiée, les informations sont incomplètes, le NAP est incohérent avec d'autres sources en ligne, ou la fiche a été suspendue pour non-respect des consignes de Google. Vérifiez également que votre adresse est bien enregistrée dans la zone de service ciblée et que votre catégorie principale correspond aux requêtes visées."
           }
-        }
+        },
       ]
     }
   ]
@@ -190,50 +154,10 @@ En 2026, le "Taux de Décroissance" de la visibilité est plus rapide que jamais
 
 ---
 
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
 ## Articles connexes
 
-- [Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence](https://blotmkt.comhttps://blotmkt.com/ia/local-seo/avis-clients-seo.html.html)
-- [Le guide complet des citations locales pour dominer le SEO local](https://blotmkt.comhttps://blotmkt.com/ia/local-seo/citations-locales-seo.html.html)
-- [Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA](https://blotmkt.comhttps://blotmkt.com/ia/local-seo/fiche-etablissement-google.html.html)
-- [NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA](https://blotmkt.comhttps://blotmkt.com/ia/local-seo/nap-seo-local.html.html)
-- [Maîtriser l'optimisation google maps pour propulser votre visibilité locale](https://blotmkt.comhttps://blotmkt.com/ia/local-seo/optimisation-google-maps.html.html)
+- [Avis clients SEO : le guide pour décrypter les témoignages et choisir la bonne agence](https://blotmkt.com/ia/local-seo/avis-clients-seo.html)
+- [Le guide complet des citations locales pour dominer le SEO local](https://blotmkt.com/ia/local-seo/citations-locales-seo.html)
+- [Optimiser votre fiche établissement google pour une visibilité locale accrue à l'ère de l'IA](https://blotmkt.com/ia/local-seo/fiche-etablissement-google.html)
+- [NAP en SEO local : le guide pour optimiser votre visibilité sur Google et les IA](https://blotmkt.com/ia/local-seo/nap-seo-local.html)
+- [Maîtriser l'optimisation google maps pour propulser votre visibilité locale](https://blotmkt.com/ia/local-seo/optimisation-google-maps.html)

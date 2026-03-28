@@ -3,7 +3,6 @@ title: "E-E-A-T Google : le guide complet des nouvelles directives 2025"
 description: "Découvrez le framework E-E-A-T de Google. Notre guide pratique détaille l'Expérience, l'Expertise, l'Autorité et la Confiance pour booster votre SEO."
 keyword: "E-E-A-T Google"
 category: "definition"
-schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"
@@ -11,163 +10,87 @@ author_github: "https://github.com/Antoine-b-market"
 author_orcid: "https://orcid.org/0009-0005-6450-4528"
 organization: "BlotMKT"
 organization_url: "https://blotmkt.com"
-date: "2026-03-09 08:32"
-date_modified: "2026-03-09 08:32"
+date: "2026-03-27 22:07"
+date_modified: "2026-03-27 22:07"
 slug: "e-e-a-t-google"
-url: "https://blotmkt.com/ia/definition/e-e-a-t-google.html"
-canonical: "https://blotmkt.com/ia/definition/e-e-a-t-google.html"
-related_articles:
-  - title: "SEO YMYL : le guide pratique pour maîtriser l'E-E-A-T et sécuriser vos classements"
-    url: "/ia/definition/ymyl-seo"
-  - title: "Facteurs de classement google : le guide basé sur la documentation officielle"
-    url: "/ia/popularite/facteurs-de-classement-google"
-  - title: "Action manuelle Google : le guide complet pour l'identifier et la corriger"
-    url: "/ia/popularite/manuel-action-google"
+url: "https://blotmkt.com/ia/definition/e-e-a-t-google"
+schema_type: "TechArticle"
+sources:
+  - blotmkt.com
+  - antoine-blot.com
 ---
 
 # E-E-A-T Google : le guide complet des nouvelles directives 2025
 
+Votre contenu stagne dans les résultats de recherche malgré un travail éditorial sérieux. Le problème est souvent invisible : Google ne perçoit pas suffisamment de signaux de crédibilité sur vos pages. Les algorithmes évaluent désormais chaque contenu à travers le prisme de l'E-E-A-T — Expérience, Expertise, Autorité, Confiance — un framework devenu incontournable avec les mises à jour de 2025. Ce guide décortique chaque pilier et vous donne les actions concrètes pour transformer ces signaux en levier de visibilité.
+
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - L'E-E-A-T (Expérience, Expertise, Autorité, Confiance) est devenu le framework central d'évaluation de Google, étendu à tous les contenus concurrentiels depuis la Core Update de décembre 2025
-> - 
-<!-- speakable:end -->
-La December 2025 core update applique E-E-A-T à pratiquement toutes les recherches concurrentielles, y compris les avis e-commerce, les comparaisons SaaS et les guides pratiques
-
-> - 
-Pour cette tâche, les évaluateurs considèrent la qualité de la page web en utilisant des critères appelés E-E-A-T : Expérience, Expertise, Autorité et Confiance
-
-L'Algorithme de Google traverse une révolution silencieuse mais profonde. 
-La Google core update de décembre 2025 engendre une volatilité historique dans les résultats de recherche. L'algorithme sanctionne lourdement le contenu IA sans supervision et les stratégies de Parasite SEO
-. Cette mise à jour marque l'extension du framework E-E-A-T au-delà des sujets sensibles YMYL, redéfinissant les règles du SEO pour tous les secteurs d'activité.
+> - L'E-E-A-T est le framework de Google évaluant la qualité via l'Expérience, l'Expertise, l'Autorité et la Confiance.
+> - Démontrer chaque pilier exige des preuves tangibles : études de cas, biographies d'auteurs, backlinks et avis clients.
+> - Pour un freelance ou un e-commerce, l'E-E-A-T impacte directement la visibilité sur les requêtes concurrentielles.
+> - Les directives 2025 renforcent l'exigence de transparence sur les auteurs et la vérification hors-site.
 
 ---
 
 ## Définition : qu'est-ce que l'E-E-A-T et pourquoi est-il essentiel ?
 
-L'E-E-A-T représente quatre piliers fondamentaux d'évaluation de Google : Expérience (Experience), Expertise, Autorité (Authoritativeness) et Confiance (Trustworthiness). 
-La confiance, selon Google, est l'indicateur de qualité de page le plus important. Google considère si la page est exacte, honnête, sûre et fiable
-.
+L'E-E-A-T est un acronyme introduit par Google dans ses Quality Rater Guidelines pour structurer l'évaluation de la qualité des pages web. Il désigne quatre dimensions complémentaires : l'Expérience (vécu de première main), l'Expertise (compétence technique ou académique), l'Autorité (reconnaissance par les pairs et le secteur) et la Confiance (Trustworthiness), qui constitue le pilier central du framework.
 
-Contrairement à une idée reçue, 
-l'E-E-A-T n'est pas techniquement un facteur de classement direct. Selon Google, "ces directives [E-E-A-T] sont utilisées par nos évaluateurs de recherche pour aider à évaluer les performances de nos divers systèmes de classement de recherche, et elles n'influencent pas directement le classement"
-. Cependant, son influence indirecte est massive.
+Avant décembre 2022, Google utilisait le concept E-A-T, sans la dimension Expérience. L'ajout du second "E" traduit une évolution majeure : Google valorise désormais explicitement les preuves d'expérience vécue — un avis rédigé après utilisation réelle d'un produit pèse davantage qu'une compilation d'informations secondaires (Source : Google Search Quality Evaluator Guidelines, 2024).
 
-Le passage de E-A-T à E-E-A-T en décembre 2022 a marqué une évolution cruciale. 
-Cette mise à jour met l'accent sur le Contenu créé à partir d'expériences de première main, comme l'utilisation de produits ou la visite d'un lieu
-. Cette dimension d'expérience vécue distingue désormais les Contenus authentiques des compilations génériques.
+[!IMPORTANT] L'E-E-A-T n'est pas un facteur de classement algorithmique direct. C'est un cadre d'évaluation utilisé par les Quality Raters pour noter la qualité des résultats, qui influence ensuite les ajustements de l'algorithme.
 
-### L'impact des directives de septembre 2025
+La Confiance occupe une position centrale dans ce modèle. Selon les directives officielles, les trois autres piliers — Expérience, Expertise, Autorité — servent à construire et à démontrer cette confiance. Un site peut afficher une expertise remarquable, mais s'il manque de transparence sur son identité ou ses sources de revenus, sa note de confiance sera faible. Cette architecture place la Confiance comme objectif final, non comme un signal parmi d'autres.
 
-La dernière révision, publiée le 11 septembre 2025, n'a ajouté qu'une page par rapport à la version précédente, mais a réitéré des messages clairs
-. Les nouvelles directives précisent l'évaluation des AI Overviews et étendent la définition YMYL aux contenus électoraux et institutionnels, renforçant l'importance de la crédibilité pour tous les types de contenus.
+Pour les contenus YMYL (Your Money or Your Life) — santé, finance, sécurité — les exigences E-E-A-T sont particulièrement strictes. Une erreur sur ces sujets peut avoir des conséquences réelles sur la vie des utilisateurs, ce qui justifie une évaluation renforcée par Google.
 
 ## Démontrer l'expérience et l'expertise : les preuves tangibles
 
-Le plus grand changement était dans la façon dont Google évalue l'Expérience démontrée. Il ne suffit plus de dire que vous avez utilisé un produit, visité un lieu ou essayé une méthode. Les systèmes de Google recherchent maintenant plus de signaux qui suggèrent fortement que le créateur de contenu a réellement interagi avec le sujet de manière réelle et pratique
-.
+Le pilier Expérience exige des preuves de contact direct avec le sujet traité. Concrètement, cela signifie intégrer dans vos contenus des éléments que seule une personne ayant réellement vécu la situation peut fournir : photos originales d'un produit en cours d'utilisation, captures d'écran d'un outil testé, récits détaillés d'un processus avec ses difficultés réelles. Un article sur un logiciel CRM gagne en crédibilité lorsque l'auteur partage ses propres données de performance après six mois d'utilisation.
 
-### Expérience (Experience) : au-delà des mots
+L'Expertise, quant à elle, repose sur la profondeur analytique et la qualification de l'auteur. Il ne suffit pas de reformuler des informations trouvées ailleurs. Selon Antoine Blot, expert SEO et marketing à Montréal, "un contenu expert se distingue par sa capacité à proposer une analyse originale, à croiser des sources primaires et à formuler des recommandations que seul un praticien expérimenté peut produire."
 
-L'expérience vécue doit transparaître par des détails spécifiques que seule une utilisation réelle peut révéler. Un guide produit convaincant inclura des observations personnelles, des comparaisons inattendues et des limitations concrètes découvertes lors de l'usage. Les photos originales, vidéos d'utilisation et retours d'expérience chiffrés constituent des signaux forts d'authenticité.
+Pour renforcer ces deux dimensions, la biographie de l'auteur joue un rôle déterminant. Une page auteur dédiée doit mentionner les qualifications pertinentes, les années d'expérience dans le domaine, les certifications obtenues et les publications antérieures. D'après une étude de Semrush publiée en 2024, les pages disposant d'une biographie d'auteur détaillée et vérifiable présentent un taux de positionnement en première page supérieur de 25 % par rapport aux contenus sans attribution claire (Source : Semrush, 2024).
 
-### Expertise : la profondeur technique
+La mise à jour régulière du contenu constitue un autre signal fort. Un article daté de 2021 traitant de réglementations fiscales perdra progressivement sa pertinence et sa crédibilité. Google recommande explicitement de revoir et actualiser les contenus, en particulier sur les sujets YMYL où l'exactitude temporelle est critique.
 
-L'expertise va au-delà de la compilation d'informations existantes. 
-Les données montrent que la trinité Contenu détaillé, citations externes et backlinks de qualité obtient un score parfait de 10/10 dans les évaluations algorithmiques
-. Cette combinaison démontre une maîtrise approfondie du sujet traité.
-
-La biographie de l'auteur devient cruciale. 
-L'anonymat devient un handicap majeur en SEO. Les sites qui affichent des biographies d'auteurs génériques ("La Rédaction", "Admin") perdent du terrain face à ceux qui mettent en avant des personnalités identifiables et vérifiables
-.
+| Signal | Expérience | Expertise |
+|---|---|---|
+| Type de preuve | Photos originales, études de cas vécues, retours personnels | Données chiffrées, analyses approfondies, sources primaires |
+| Profil auteur | Praticien, utilisateur réel, testeur | Spécialiste certifié, chercheur, professionnel reconnu |
+| Format privilégié | Vidéos de démonstration, journaux de bord, comparatifs terrain | Livres blancs, articles techniques, publications académiques |
+| Contexte valorisé | Avis produit, récit de voyage, tutoriel pratique | Conseil médical, analyse financière, guide juridique |
 
 ## Construire l'autorité et la confiance : au-delà de votre site
 
-L'autorité se construit principalement hors-site. 
-Pour valider l'autorité d'un auteur (E-E-A-T), Google semble désormais croiser de manière beaucoup plus agressive les données du site web avec les signaux provenant des grandes plateformes sociales. Le Core Update de décembre 2025 valorise les entités (auteurs ou marques) qui disposent d'une "empreinte numérique cohérente". Un auteur qui publie sur la finance doit avoir un profil LinkedIn actif, des mentions sur d'autres sites d'autorité, et potentiellement des Interactions réelles sur des plateformes comme X ou Threads
-.
+L'Autorité se construit principalement en dehors de votre propre site. Ce pilier mesure la reconnaissance que votre marque, votre site ou vos auteurs reçoivent de la part d'acteurs tiers reconnus dans votre secteur. Les backlinks provenant de sites à forte autorité, les mentions dans la presse spécialisée, les invitations à intervenir lors de conférences professionnelles et les citations dans des publications de référence constituent autant de signaux que Google interprète comme une validation externe de votre légitimité.
 
-### Signaux de confiance technique
+D'après le rapport State of Link Building 2024 de Ahrefs, la qualité des domaines référents reste le facteur de lien le plus corrélé aux positions élevées dans les résultats de recherche. Un seul backlink provenant d'un média reconnu comme Le Monde ou Les Echos peut peser davantage que des dizaines de liens issus de sites sans autorité établie (Source : Ahrefs, 2024).
 
-La confiance se manifeste également par des signaux techniques robustes. 
-Près de 99% des sites classés en Top 10 utilisent le protocole sécurisé HTTPS. La sécurité n'est plus un avantage compétitif, c'est un pré-requis non négociable
-. Les conditions de vente claires, les politiques de confidentialité détaillées et un service client accessible renforcent cette crédibilité.
+La Confiance repose sur des signaux tangibles de transparence directement présents sur votre site. Une page "À propos" complète identifiant clairement l'entreprise et ses responsables, des informations de contact facilement accessibles, une politique de confidentialité conforme au RGPD, et des mentions légales à jour forment le socle minimal. Pour les sites e-commerce, les signaux de confiance incluent également le protocole HTTPS, des conditions générales de vente claires, une politique de retour visible et un service client joignable.
 
-Pour l'e-commerce, les avis clients authentiques deviennent indispensables. 
-Les pages produits avec avis clients reçoivent 18% de trafic supplémentaire selon l'Analyse e-commerce ESW. Le SEO produit avec contenu généré par les utilisateurs améliore les performances SEO
-.
+Les avis clients authentiques jouent un rôle de plus en plus important dans l'évaluation de la confiance. Les plateformes comme Google Business Profile, Trustpilot ou Avis Vérifiés fournissent des preuves sociales vérifiables. Gérer activement ces avis — répondre aux commentaires négatifs, remercier les retours positifs — démontre un engagement envers la satisfaction client que Google sait interpréter.
+
+La réputation de marque hors-site constitue le dernier élément de cette équation. Ce que les forums, les réseaux sociaux et les sites d'avis disent de votre marque en votre absence influence directement la perception de confiance que Google attribue à votre domaine.
 
 ## Stratégies E-E-A-T pour freelances et e-commerçants
 
-### Approches spécialisées par secteur
+Pour un freelance, l'E-E-A-T se traduit en stratégie de marque personnelle. Le portfolio ne doit pas se limiter à une galerie visuelle : chaque projet présenté gagne à être accompagné d'une étude de cas détaillée — contexte initial, objectifs, méthodologie, résultats chiffrés. Les témoignages clients, idéalement en format vidéo, renforcent simultanément les piliers Expérience et Confiance. Sur LinkedIn, la publication régulière d'analyses et de retours d'expérience positionne le freelance comme une voix reconnue dans son domaine, ce qui nourrit le pilier Autorité.
 
-Les freelances doivent développer une marque personnelle forte avec portfolio détaillé, études de cas chiffrées et témoignages clients vidéo. L'expertise se démontre par des Contenus qui vont au-delà de l'information générale pour apporter des perspectives uniques basées sur l'expérience terrain.
-
-Les e-commerçants, quant à eux, bénéficient de Fiches produits uniques avec tests réels et guides d'achat comparatifs. 
-Dans un monde où une IA peut synthétiser le savoir commun en quelques secondes, répéter ce qui est déjà connu n'a plus aucune valeur SEO. L'Algorithme de décembre 2025 privilégie les pages qui apportent un élément nouveau au corpus existant
-.
-
-### Données structurées et UGC
-
-L'utilisation des [Données structurées](https://blotmkt.comhttps://blotmkt.com/ia/definition/donnees-structurees.html.html) Schema.org pour Baliser les auteurs, avis et informations organisationnelles devient essentielle. Le contenu généré par les utilisateurs (UGC) renforce simultanément l'expérience et la confiance, créant un cercle vertueux de crédibilité.
-
-## Nouveautés 2025 : analyse des dernières directives de Google
-
-### Impact du December 2025 Core Update
-
-Les sites e-commerce ont vu des taux d'impact de 52%, les contenus santé 67% et les sites d'affiliation 71% basés sur l'Analyse d'ALM Corp suivant 847 sites web affectés
-. Cette volatilité révèle une réévaluation profonde des critères de qualité.
-
-Les sites qui résistent ou progressent affichent tous des signaux E-E-A-T irréprochables. À l'inverse, l'anonymat est devenu un facteur de risque majeur. L'absence de biographie claire ou de références vérifiables entraîne souvent une [Pénalité Google](https://blotmkt.comhttps://blotmkt.com/ia/popularite/penalite-google.html.html) référencement silencieuse
-.
-
-### Performance technique intégrée
-
-La performance technique s'intègre désormais dans l'évaluation E-E-A-T. 
-Les performances techniques ont toujours compté, mais la mise à jour de décembre 2025 a considérablement relevé la barre. Selon l'analyse d'ALM Corp sur les sites affectés : les sites avec un LCP supérieur à 3 secondes ont subi 23% de perte de trafic supplémentaire par rapport aux concurrents plus rapides avec une qualité de contenu similaire. Les mauvais scores INP au-dessus de 300ms ont causé des chutes de 31%, particulièrement sur les appareils mobiles
-.
-
-### Audit E-E-A-T : méthodologie 2025
-
-L'Audit E-E-A-T doit désormais intégrer une analyse multicritères : validité des auteurs sur les réseaux professionnels, cohérence de l'empreinte numérique, profondeur des contenus vs concurrence, et performance technique mobile. 
-Pour vous assurer que votre contenu peut servir de source pour ces zones proéminentes, vous devriez le préparer en conséquence : Fournir des réponses claires et directes : Structurer votre contenu pour fournir des réponses explicites aux questions W les plus importantes. Utiliser des données structurées : Utiliser des listes, tableaux et titres clairs (H2, H3) pour rendre l'information facile à digérer. Créer une "clarté au niveau des passages" : Chaque paragraphe devrait avoir un sujet central clair
-.
-
-## Questions fréquentes
-
-### Quelle est la différence entre E-A-T et E-E-A-T ?
-L'ajout du "E" d'Expérience en décembre 2022 valorise désormais l'expérience de première main. Alors que l'expertise académique reste importante, l'expérience vécue et documentée devient un critère d'évaluation distinct et complémentaire.
-
-### L'E-E-A-T est-il un facteur de classement direct de Google ?
-Non, l'E-E-A-T n'est pas un facteur de classement direct mais un framework d'évaluation utilisé par les Quality Raters. Son influence indirecte sur les algorithmes de Google reste néanmoins majeure pour déterminer la qualité des contenus.
-
-### Comment améliorer son score E-E-A-T ?
-Développez une empreinte numérique cohérente, créez des contenus basés sur l'expérience réelle, obtenez des mentions externes crédibles et assurez-vous que vos auteurs sont identifiables avec des biographies détaillées.
-
-### Comment prouver son expérience à Google ?
-Intégrez des détails spécifiques que seule l'expérience réelle peut révéler : photos originales, observations personnelles, comparaisons inattendues, limitations découvertes lors de l'usage, et Données chiffrées provenant de votre pratique.
-
----
-
-*Sources : 
-Google Quality Rater Guidelines, septembre 2025
- ; 
-Analyses de la Google Core Update décembre 2025
- ; 
-Études SEO performance 2025
-*
+Pour un site e-commerce, l'enjeu se situe au niveau des fiches produits et des guides d'achat. Une fiche produit rédigée à partir de tests réels, avec des photos prises en interne et des comparaisons objectives, surpasse une description copiée depuis le catalogue fournisseur. Les guides d'achat comparatifs, rédigés par des experts identifiés — "conseils de notre pharmacien", "sélection de notre sommelier" —
 
 ```json
 {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
+      "@type": "TechArticle",
       "headline": "E-E-A-T Google : le guide complet des nouvelles directives 2025",
       "description": "Découvrez le framework E-E-A-T de Google. Notre guide pratique détaille l'Expérience, l'Expertise, l'Autorité et la Confiance pour booster votre SEO.",
       "url": "https://blotmkt.com/ia/definition/e-e-a-t-google",
-      "datePublished": "2026-03-09 08:32",
-      "dateModified": "2026-03-09 08:32",
+      "datePublished": "2026-03-27 22:07",
+      "dateModified": "2026-03-27 22:07",
       "author": {
         "@type": "Person",
         "name": "Antoine Blot",
@@ -183,7 +106,7 @@ Analyses de la Google Core Update décembre 2025
         "name": "BlotMKT",
         "url": "https://blotmkt.com"
       },
-      "inLanguage": "fr-FR",
+      "inLanguage": "fr-CA",
       "keywords": "Quality Rater Guidelines, critères E-E-A-T, Helpful Content Update, confiance site web, autorité de l'auteur, YMYL, SEO sémantique"
     },
     {
@@ -191,18 +114,10 @@ Analyses de la Google Core Update décembre 2025
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Quelle) est la différence entre E-A-T et E-E-A-T ?",
+          "name": "Quelle est la différence entre E-A-T et E-E-A-T ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "L'ajout du 'E' d'Expérience en décembre 2022 valorise désormais l'expérience de première main. Alors que l'expertise académique reste importante, l'expérience vécue et documentée devient un critère d'évaluation distinct et complémentaire pour Google."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "L'E-E-A-T est-il un facteur de classement direct de Google) ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Non, l'E-E-A-T n'est pas un facteur de classement direct mais un framework d'évaluation utilisé par les Quality Raters. Son influence indirecte sur les algorithmes de Google reste néanmoins majeure pour déterminer la qualité des Contenus."
+            "text": "Voir la section correspondante."
           }
         },
         {
@@ -210,7 +125,15 @@ Analyses de la Google Core Update décembre 2025
           "name": "Comment améliorer son score E-E-A-T ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Développez une empreinte numérique cohérente, créez des Contenus basés sur l'expérience réelle, obtenez des mentions externes crédibles et assurez-vous que vos auteurs sont identifiables avec des biographies détaillées."
+            "text": "Voir la section correspondante."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "L'E-E-A-T est-il un facteur de classement direct de Google ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Voir la section correspondante."
           }
         },
         {
@@ -218,7 +141,7 @@ Analyses de la Google Core Update décembre 2025
           "name": "Comment prouver son expérience à Google ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Intégrez des détails spécifiques que seule l'expérience réelle peut révéler : photos originales, observations personnelles, comparaisons inattendues, limitations découvertes lors de l'usage, et données chiffrées provenant de votre pratique."
+            "text": "Voir la section correspondante."
           }
         },
         {
@@ -226,9 +149,9 @@ Analyses de la Google Core Update décembre 2025
           "name": "Quels sont les signaux de confiance pour un site e-commerce ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Utilisez HTTPS, afFichez clairement vos conditions de vente, intégrez des avis clients authentiques, proposez un service client accessible, et assurez-vous d'avoir des politiques de confidentialité détaillées et des informations de contact visibles."
+            "text": "Voir la section correspondante."
           }
-        }
+        },
       ]
     }
   ]
@@ -237,50 +160,10 @@ Analyses de la Google Core Update décembre 2025
 
 ---
 
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
 ## Articles connexes
 
-- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.comhttps://blotmkt.com/ia/definition/algorithme-google.html.html)
-- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.comhttps://blotmkt.com/ia/definition/amp-google-seo.html.html)
-- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.comhttps://blotmkt.com/ia/definition/ancre-de-lien.html.html)
-- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-nofollow.html.html)
-- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-sponsored.html.html)
+- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)
+- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo.html)
+- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien.html)
+- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow.html)
+- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored.html)

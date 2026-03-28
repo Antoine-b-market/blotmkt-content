@@ -3,7 +3,6 @@ title: "L'api d'indexation google : guide complet pour une indexation quasi-inst
 description: "Découvrez comment utiliser l'API d'indexation de Google pour notifier les changements de pages et accélérer votre SEO. Guide pratique, cas d'usage et limites."
 keyword: "Indexation API Google"
 category: "audit"
-schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"
@@ -11,151 +10,86 @@ author_github: "https://github.com/Antoine-b-market"
 author_orcid: "https://orcid.org/0009-0005-6450-4528"
 organization: "BlotMKT"
 organization_url: "https://blotmkt.com"
-date: "2026-03-09 06:54"
-date_modified: "2026-03-09 06:54"
+date: "2026-03-27 20:41"
+date_modified: "2026-03-27 20:41"
 slug: "indexation-api-google"
-url: "https://blotmkt.com/ia/audit/indexation-api-google.html"
-canonical: "https://blotmkt.com/ia/audit/indexation-api-google.html"
-related_articles:
-  - title: "Désindexation google: guide pratique pour contrôler votre visibilité en ligne"
-    url: "/ia/popularite/desindexation-google"
-  - title: "Facteurs de classement google : le guide basé sur la documentation officielle"
-    url: "/ia/popularite/facteurs-de-classement-google"
-  - title: "Budget de crawl : le guide pour l'optimiser et accélérer votre indexation"
-    url: "/ia/audit/budget-de-crawl"
+url: "https://blotmkt.com/ia/audit/indexation-api-google"
+schema_type: "TechArticle"
+sources:
+  - blotmkt.com
+  - antoine-blot.com
 ---
 
-# L'API d'indexation Google : guide complet pour une indexation quasi-instantanée
+# L'api d'indexation Google : guide complet pour une indexation quasi-instantanée
+
+Attendre des jours, voire des semaines, pour qu'une page stratégique apparaisse dans Google est un problème récurrent pour les SEO et développeurs. Ce délai coûte du trafic, des conversions et un avantage concurrentiel. Pendant ce temps, vos concurrents captent les clics que vous méritez. La solution existe : l'API d'indexation Google permet de notifier directement Googlebot pour qu'il explore vos URL en priorité, réduisant le délai d'indexation de plusieurs jours à quelques minutes dans les meilleurs cas.
 
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - L'API d'indexation Google permet de notifier directement Google lors d'ajouts ou de modifications de pages, en contournant l'Exploration naturelle pour accélérer l'indexation.
-> - Officiellement limitée aux pages avec [Données structurées](https://blotmkt.comhttps://blotmkt.com/ia/definition/donnees-structurees.html.html) JobPosting et BroadcastEvent, elle peut être utilisée avec précaution pour d'autres contenus urgents ou volatiles.
-> - La mise en place nécessite un projet Google Cloud Platform, un compte de service configuré et son ajout comme propriétaire dans Google Search Console.
-> - L'API complète efficacement les Sitemaps : elle excelle pour l'urgence et la fraîcheur des contenus tandis que les sitemaps garantissent l'exhaustivité de l'exploration.
-<!-- speakable:end -->
-
-Pour les propriétaires de sites web confrontés à des délais d'indexation qui peuvent s'étendre sur plusieurs jours, l'attente devient un frein concurrentiel majeur. Pendant qu'une page attend d'être découverte par Googlebot, la concurrence peut déjà capter le trafic et les conversions. 
-L'API d'indexation permet aux propriétaires de sites de notifier directement Google lorsque leurs pages d'offres d'emploi ou de vidéos en direct sont ajoutées ou supprimées.
- Cette solution révolutionne l'approche traditionnelle de l'indexation en proposant une alternative proactive.
+> - L'API d'indexation Google notifie directement Googlebot pour explorer une URL en priorité via des requêtes HTTP POST authentifiées.
+> - Elle est officiellement conçue pour les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) JobPosting et BroadcastEvent, avec des limites de quotas strictes.
+> - La mise en place nécessite un projet Google Cloud, un compte de service et une autorisation dans Search Console.
+> - API et sitemap sont complémentaires : l'API pour l'urgence, le sitemap pour la couverture globale du site.
 
 ---
 
 ## Qu'est-ce que l'API d'indexation Google : définition et fonctionnement
 
-L'API d'indexation permet aux propriétaires de sites de notifier directement Google lorsque leurs pages d'offres d'emploi ou de vidéos en direct sont ajoutées ou supprimées. Cela permet à Google de programmer les pages pour une exploration récente, ce qui peut conduire à un trafic utilisateur de meilleure qualité.
- Cette technologie représente un changement fondamental dans la relation entre les sites web et les moteurs de Recherche.
-
-Le fonctionnement technique repose sur l'envoi de requêtes HTTP POST vers un endpoint dédié de Google, après authentification sécurisée via un compte de service. 
-Les actions possibles incluent la notification d'une nouvelle URL à explorer ou qu'un contenu d'une URL précédemment soumise a été mis à jour, ainsi que la suppression d'une URL après sa suppression des serveurs.
-
-Il est crucial de comprendre que 
-cela permet à Google de programmer les pages pour une exploration récente, ce qui peut conduire à un trafic utilisateur de meilleure qualité
-, mais ne garantit ni l'indexation ni un meilleur classement. La qualité du Contenu reste le facteur décisif pour l'indexation finale.
-
-### Comment fonctionne l'authentification
-
-L'API utilise OAuth 2.0 avec un compte de service pour sécuriser les communications. 
-Vous vous authentifiez via OAuth 2.0 en utilisant un compte de service, puis envoyez l'un des deux types de notifications : URL_UPDATED (re-explorer une page nouvelle ou modifiée) ou URL_DELETED (la page a disparu).
- Cette approche garantit que seuls les propriétaires légitimes peuvent soumettre des URLs pour leur domaine.
+L'API d'indexation Google (Google Indexing API) est un protocole permettant aux propriétaires de sites de notifier directement Google lorsqu'une page est ajoutée, mise à jour ou supprimée, sans attendre une exploration naturelle par Googlebot. Son objectif principal est d'accélérer drastiquement la prise en compte de contenus urgents ou à courte durée de vie, comme les offres d'emploi ou les événements en direct. Techniquement, elle fonctionne via des requêtes HTTP POST envoyées à un endpoint dédié de Google, après une authentification sécurisée via un compte de service Google Cloud. Selon la documentation officielle de Google, l'API prend en charge deux types de notifications : URL_UPDATED pour signaler un ajout ou une modification, et URL_DELETED pour indiquer une suppression (Source : Google Search Central, 2024). Clarification importante : cette soumission URL Google ne garantit ni l'indexation ni un meilleur classement. Elle demande simplement à Google d'explorer l'URL en priorité. La qualité du contenu, sa conformité aux guidelines et sa valeur pour l'utilisateur restent les facteurs décisifs pour l'indexation effective.
 
 ## Cas d'usage officiels et limites à ne pas franchir
 
-L'API d'indexation ne peut être utilisée que pour explorer les pages avec soit JobPosting soit BroadcastEvent intégré dans un VideoObject.
- Cette restriction officielle reflète l'intention initiale de Google de cibler des Contenus spécifiques à durée de vie courte.
+L'utilisation officielle de la Google Indexing API est strictement recommandée par Google pour les pages contenant des données structurées de type JobPosting (offres d'emploi) et BroadcastEvent (vidéos en direct). En dehors de ces cas, l'usage est toléré mais non garanti. De nombreux professionnels du SEO l'utilisent avec succès pour des contenus à forte volatilité : articles d'actualité, pages de stock produit en e-commerce, résultats sportifs ou annonces immobilières. Selon Antoine BLOT, expert SEO et marketing à Montréal, "l'API d'indexation est un levier puissant, mais elle ne remplace jamais les sitemaps XML, qui restent essentiels pour la découverte complète et récurrente de l'architecture d'un site." Comme le souligne Tomek Rudzki dans une étude publiée sur Onely, l'API peut réduire significativement les délais d'exploration même hors des cas d'usage officiels (Source : Onely, 2023). Les risques d'abus sont réels : soumettre des URL non modifiées, des pages de faible qualité ou dépasser les quotas de manière répétée peut entraîner l'ignorance totale de vos requêtes par Google, voire une perte de confiance algorithmique.
 
-Cependant, la réalité du terrain montre une utilisation plus large. 
-Officiellement, l'API d'indexation Google ne devrait être utilisée que pour explorer les pages contenant des Données structurées de type JobPosting ou BroadcastEvent dans un élément VideoObject. Cela peut fonctionner pour tout type d'URL, mais à utiliser avec parcimonie et seulement si vous avez des préoccupations d'indexation majeures.
+[!IMPORTANT] Le quota par défaut est de 200 requêtes par jour par projet. Tout abus systématique peut compromettre l'efficacité future de vos soumissions.
 
-### Les restrictions importantes
+## Mettre en place l'API d'indexation : le guide technique étape par étape
 
-L'API d'indexation fournit un quota par défaut initial pour les tests, et nécessite une approbation supplémentaire pour l'utilisation et l'approvisionnement en ressources. L'API d'indexation fournit le quota par défaut suivant pour l'intégration API initiale et les soumissions de test.
- Le quota de base est de 
-200 requêtes 'publish' par jour et 180 requêtes en lecture seule par minute par projet.
+La mise en place de l'API d'indexation Google suit quatre étapes précises. Premièrement, créez un projet sur Google Cloud Platform et activez l'Indexing API dans la bibliothèque d'API. Deuxièmement, générez un compte de service Google dédié qui agira comme un utilisateur robotisé autorisé. Téléchargez sa clé d'identification au format JSON : ce fichier contient l'adresse e-mail du compte de service et les informations d'authentification. Troisièmement, dans Google Search Console, ajoutez cette adresse e-mail comme propriétaire de votre propriété de site. Sans cette étape, les requêtes seront rejetées. Quatrièmement, construisez et envoyez des requêtes POST authentifiées vers l'endpoint https://indexing.googleapis.com/v3/urlNotifications:publish, en spécifiant l'URL cible et le type d'action (URL_UPDATED ou URL_DELETED). Pour automatiser ce processus, des bibliothèques clientes existent en Python, PHP, Java et Node.js. Selon Ahrefs, l'intégration peut être réalisée en moins d'une heure par un développeur familier avec les API Google (Source : Ahrefs Blog, 2024). Des plugins WordPress comme Instant Indexing ou Rank Math proposent également une interface simplifiée pour les non-développeurs.
 
-Les changements récents de septembre 2024 ont durci l'accès : 
-L'accès nécessite maintenant une approbation pour l'utilisation en production. Le guide de démarrage rapide de Google liste "Demander l'approbation et le quota" comme une étape explicite. Le quota par défaut de 200/jour est disponible pour les tests, mais l'utilisation étendue nécessite de remplir un formulaire de demande.
+## API vs sitemap : quelle stratégie pour un meilleur ROI SEO ?
 
-## Mettre en place l'API d'indexation : le guide technique
+L'API d'indexation et le sitemap XML ne s'opposent pas : ils se complètent. L'API est un scalpel conçu pour l'urgence et la fraîcheur des contenus stratégiques. Le sitemap est un filet qui assure l'exhaustivité et la découverte de fond de toutes les pages du site. Le retour sur investissement de l'API est maximal lorsque la vitesse d'indexation constitue un avantage concurrentiel direct : publication d'actualités, lancement de produits en e-commerce, mises à jour de prix ou d'annonces. L'API est gratuite dans la limite des quotas journaliers. Le coût principal réside dans le temps de développement initial pour l'intégration technique et la maintenance.
 
-La configuration technique suit un processus en quatre étapes principales, chacune étant critique pour le bon fonctionnement de l'API.
+| Critère | API d'indexation | Sitemap XML |
+|---|---|---|
+| Vitesse de prise en compte | Minutes à heures | Heures à jours |
+| Volume de pages | 200 URL/jour (par défaut) | Illimité (50 000 URL par fichier) |
+| Cas d'usage idéal | Contenus urgents et volatils | Couverture complète du site |
+| Coût | Gratuit (temps de dev initial) | Gratuit (génération automatisée) |
+| Garantie d'indexation | Non | Non |
 
-### Étape 1 : Configuration Google Cloud Platform
-
-Visitez la Console Google Cloud, créez un nouveau projet et fournissez un nom. Activez l'API d'indexation pour votre projet afin d'accorder l'accès à ses fonctionnalités.
- Cette étape établit l'environnement technique nécessaire pour accéder aux services Google.
-
-### Étape 2 : Création du compte de service
-
-Configurez un compte de service via la page Comptes de service. Donnez-lui un nom et une description significatifs. Générez une clé JSON pour votre compte de service. Ce Fichier contient les identifiants que votre site d'emploi utilisera pour communiquer avec les serveurs de Google. Téléchargez-le et stockez-le en sécurité.
-
-### Étape 3 : Autorisation dans Search Console
-
-Entrez l'adresse e-mail fournie par le compte de service précédemment créé. Assurez-vous de sélectionner "Propriétaire" dans le champ Permission pour éviter l'erreur 403 lors de la soumission des URLs pour indexation.
- Cette étape est souvent négligée mais reste indispensable.
-
-### Étape 4 : Envoi des requêtes
-
-Pour notifier Google d'une nouvelle URL à explorer ou qu'un contenu d'une URL précédemment soumise a été mis à jour, soumettez une requête HTTP POST à l'endpoint spécifique avec la syntaxe appropriée. Google répond aux appels API d'indexation réussis avec un HTTP 200. Une réponse HTTP 200 signifie que Google peut essayer de re-explorer cette URL bientôt.
-
-## API vs Sitemap : quelle stratégie pour un meilleur ROI SEO ?
-
-La question de l'opposition entre API et Sitemap révèle une incompréhension fondamentale : ces outils sont complémentaires, non concurrents. 
-Ces APIs sont encore expérimentales et ne remplacent pas vos sitemaps XML.
-
-### L'approche stratégique hybride
-
-L'API excelle dans la réactivité pour les contenus urgents. 
-Les sites qui soumettent des URLs directement via l'API d'indexation apparaissent dans Google for Jobs en quelques minutes.
- Cette rapidité représente un avantage concurrentiel direct pour les Contenus à forte volatilité.
-
-Le retour sur investissement de l'API se mesure principalement sur les contenus où la Vitesse d'indexation crée un avantage concurrentiel. 
-Dans un marché où la plupart des candidatures arrivent dans les 72 premières heures d'une annonce en ligne, ce délai est un problème de revenus direct.
-
-### Analyse des coûts et bénéfices
-
-Toute utilisation de l'API d'indexation est disponible sans paiement.
- Le coût principal réside dans le temps de développement initial et la maintenance. Le quota gratuit de 
-200 requêtes de publication quotidiennes par projet
- suffit pour de nombreux cas d'usage.
-
-La stratégie optimale combine l'automatisation API pour les contenus stratégiques volatiles et le maintien d'un sitemap XML dynamique pour l'ensemble du site, maximisant ainsi la couverture d'indexation tout en optimisant la Vitesse pour les contenus prioritaires.
+La stratégie hybride recommandée consiste à automatiser la soumission via l'API pour les contenus à forte volatilité et à maintenir un sitemap XML dynamique et à jour pour l'ensemble du site. Selon SEMrush, les sites combinant les deux approches constatent une amélioration mesurable de leur couverture d'indexation globale (Source : SEMrush Blog, 2024).
 
 ## Questions fréquentes
 
 ### Comment savoir si une page est indexée par Google ?
-Utilisez l'opérateur "site:" dans Google ou l'outil d'inspection d'URL dans Search Console. L'API d'indexation ne garantit pas l'indexation, elle demande seulement une exploration prioritaire. La réponse HTTP 200 confirme la réception de la demande, pas l'indexation effective.
-
-### L'API d'indexation Google fonctionne-t-elle pour les nouveaux sites ?
-Oui, mais l'efficacité dépend de la qualité du Contenu et des signaux de confiance du domaine. 
-De nombreux développeurs signalent des Erreurs 403 jusqu'à ce que leur accès soit explicitement approuvé, particulièrement pour les nouveaux projets Google Cloud.
- Une configuration correcte reste essentielle.
+Utilisez l'outil d'inspection d'URL dans Google Search Console. Saisissez l'URL concernée pour obtenir le statut d'indexation, la date du dernier crawl et les éventuelles erreurs. Vous pouvez aussi taper "site:votreurl.com" dans Google pour vérifier si la page apparaît dans les résultats. L'API Search Console permet également de vérifier le statut d'indexation via des requêtes programmatiques pour un suivi à grande échelle.
 
 ### Combien de temps faut-il pour indexer une page avec l'API ?
+L'API d'indexation Google permet d'obtenir une exploration de Googlebot en quelques minutes à quelques heures après la soumission, contre plusieurs jours voire semaines avec la découverte naturelle. Ce délai varie selon l'autorité du domaine, la qualité du contenu et la charge des serveurs de Google. L'indexation effective n'est jamais garantie : l'API accélère l'exploration, pas la décision d'indexer.
 
-Googlebot re-explore ces pages en quelques minutes au lieu de jours.
- Cependant, l'exploration n'équivaut pas à l'indexation. Le délai réel varie selon la qualité du contenu, la charge serveur et les priorités algorithmiques de Google.
+### L'API d'indexation Google fonctionne-t-elle pour les nouveaux sites ?
+Oui, l'API fonctionne pour les nouveaux sites à condition de compléter toutes les étapes de configuration : projet Google Cloud, compte de service et vérification dans Search Console. Cependant, les nouveaux domaines sans autorité établie peuvent constater des délais d'indexation plus longs même avec l'API. Combiner l'API avec un sitemap XML et des backlinks de qualité maximise les chances d'une indexation rapide pour un site récent.
 
 ### Quelles sont les alternatives à l'API d'indexation ?
-Les sitemaps XML restent la méthode standard et recommandée. L'API IndexNow de Microsoft/Bing Offre une alternative multi-moteurs. 
-200 requêtes par jour pour Google, 10 000 pour Bing.
- Les signaux de découverte naturels (liens internes, réseaux sociaux) demeurent fondamentaux.
+Plusieurs alternatives existent pour indexer une page rapidement. Le protocole IndexNow, soutenu par Bing et Yandex, permet de notifier plusieurs moteurs de recherche simultanément. La soumission manuelle via l'outil d'inspection d'URL de Google Search Console reste une option pour des volumes faibles. Les sitemaps XML avec un ping de mise à jour constituent une méthode passive mais fiable. Enfin, le maillage interne depuis des pages déjà indexées accélère naturellement la découverte par Googlebot.
 
 ---
 
-*Sources : Google Search Central Documentation (2024-2025), Cavuno Blog (2026), SEOPress Support Guide (2024), Swipe Insight (2024)*
+*Sources : Google Search Central – Documentation Indexing API (2024) ; Onely – Étude sur l'efficacité de l'Indexing API hors cas officiels (2023) ; A
 
 ```json
 {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
-      "headline": "L'api d'indexation Google : guide complet pour une indexation quasi-instantanée",
+      "@type": "TechArticle",
+      "headline": "L'api d'indexation google : guide complet pour une indexation quasi-instantanée",
       "description": "Découvrez comment utiliser l'API d'indexation de Google pour notifier les changements de pages et accélérer votre SEO. Guide pratique, cas d'usage et limites.",
       "url": "https://blotmkt.com/ia/audit/indexation-api-google",
-      "datePublished": "2026-03-09 06:54",
-      "dateModified": "2026-03-09 06:54",
+      "datePublished": "2026-03-27 20:41",
+      "dateModified": "2026-03-27 20:41",
       "author": {
         "@type": "Person",
         "name": "Antoine Blot",
@@ -171,7 +105,7 @@ Les sitemaps XML restent la méthode standard et recommandée. L'API IndexNow de
         "name": "BlotMKT",
         "url": "https://blotmkt.com"
       },
-      "inLanguage": "fr-FR",
+      "inLanguage": "fr-CA",
       "keywords": "Google Indexing API, soumission URL Google, API Search Console, indexation rapide, compte de service google, indexer une page rapidement"
     },
     {
@@ -182,15 +116,7 @@ Les sitemaps XML restent la méthode standard et recommandée. L'API IndexNow de
           "name": "Comment savoir si une page est indexée par Google ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Utilisez l'opérateur 'site:' dans Google ou l'outil d'inspection d'URL dans Search Console. L'API d'indexation ne garantit pas l'indexation, elle demande seulement une exploration prioritaire. La Réponse HTTP 200 confirme la réception de la demande, pas l'indexation effective."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "L'API d'indexation Google fonctionne-t-elle pour les nouveaux sites ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Oui, mais l'efficacité dépend de la qualité du contenu et des signaux de confiance du domaine. De nombreux développeurs signalent des Erreurs 403 pour les nouveaux projets Google Cloud jusqu'à approbation explicite. Une configuration correcte reste essentielle."
+            "text": "Utilisez l'outil d'inspection d'URL dans Google Search Console. Saisissez l'URL concernée pour obtenir le statut d'indexation, la date du dernier crawl et les éventuelles erreurs. Vous pouvez aussi taper 'site:votreurl.com' dans Google pour vérifier si la page apparaît dans les résultats. L'API Search Console permet également de vérifier le statut d'indexation via des requêtes programmatiques pour un suivi à grande échelle."
           }
         },
         {
@@ -198,7 +124,15 @@ Les sitemaps XML restent la méthode standard et recommandée. L'API IndexNow de
           "name": "Combien de temps faut-il pour indexer une page avec l'API ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Googlebot re-explore les pages soumises en quelques minutes au lieu de jours. Cependant, l'exploration n'équivaut pas à l'indexation. Le délai réel varie selon la qualité du contenu, la charge serveur et les priorités algorithmiques de Google."
+            "text": "L'API d'indexation Google permet d'obtenir une exploration de Googlebot en quelques minutes à quelques heures après la soumission, contre plusieurs jours voire semaines avec la découverte naturelle. Ce délai varie selon l'autorité du domaine, la qualité du contenu et la charge des serveurs de Google. L'indexation effective n'est jamais garantie : l'API accélère l'exploration, pas la décision d'indexer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "L'API d'indexation Google fonctionne-t-elle pour les nouveaux sites ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui, l'API fonctionne pour les nouveaux sites à condition de compléter toutes les étapes de configuration : projet Google Cloud, compte de service et vérification dans Search Console. Cependant, les nouveaux domaines sans autorité établie peuvent constater des délais d'indexation plus longs même avec l'API. Combiner l'API avec un sitemap XML et des backlinks de qualité maximise les chances d'une indexation rapide pour un site récent."
           }
         },
         {
@@ -206,9 +140,9 @@ Les sitemaps XML restent la méthode standard et recommandée. L'API IndexNow de
           "name": "Quelles sont les alternatives à l'API d'indexation ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Les sitemaps XML restent la méthode standard recommandée. L'API IndexNow de Microsoft/Bing offre une alternative multi-Moteurs avec 200 requêtes/jour pour Google et 10 000 pour Bing. Les signaux de découverte naturels demeurent fondamentaux."
+            "text": "Plusieurs alternatives existent pour indexer une page rapidement. Le protocole IndexNow, soutenu par Bing et Yandex, permet de notifier plusieurs moteurs de recherche simultanément. La soumission manuelle via l'outil d'inspection d'URL de Google Search Console reste une option pour des volumes faibles. Les sitemaps XML avec un ping de mise à jour constituent une méthode passive mais fiable. Enfin, le maillage interne depuis des pages déjà indexées accélère naturellement la découverte par Googlebot."
           }
-        }
+        },
       ]
     }
   ]
@@ -217,50 +151,10 @@ Les sitemaps XML restent la méthode standard et recommandée. L'API IndexNow de
 
 ---
 
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
 ## Articles connexes
 
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/analyse-de-logs-seo.html.html)
-- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html)
-- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-mobile-first.html.html)
-- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html)
-- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-montreal.html.html)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
+- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)
+- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first.html)
+- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique.html)
+- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal.html)

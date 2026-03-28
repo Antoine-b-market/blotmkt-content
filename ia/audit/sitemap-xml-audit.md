@@ -3,7 +3,6 @@ title: "Audit de sitemap XML : le guide complet pour optimiser votre crawl"
 description: "Découvrez comment réaliser un audit de sitemap XML complet. Identifiez et corrigez les erreurs pour améliorer l'indexation de votre site par les moteurs de recherche."
 keyword: "Sitemap XML audit"
 category: "audit"
-schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"
@@ -11,167 +10,90 @@ author_github: "https://github.com/Antoine-b-market"
 author_orcid: "https://orcid.org/0009-0005-6450-4528"
 organization: "BlotMKT"
 organization_url: "https://blotmkt.com"
-date: "2026-03-09 06:38"
-date_modified: "2026-03-09 06:38"
+date: "2026-03-27 20:55"
+date_modified: "2026-03-27 20:55"
 slug: "sitemap-xml-audit"
-url: "https://blotmkt.com/ia/audit/sitemap-xml-audit.html"
-canonical: "https://blotmkt.com/ia/audit/sitemap-xml-audit.html"
-related_articles:
-  - title: "Audit de contenu existant : la méthode complète pour optimiser votre SEO"
-    url: "/ia/contenu/audit-contenu-existant"
-  - title: "Audit de site web : le guide complet pour un diagnostic SEO actionnable"
-    url: "/ia/strategie/audit-site-web"
-  - title: "Exploration Googlebot : le guide complet pour optimiser votre budget de crawl"
-    url: "/ia/audit/exploration-googlebot"
+url: "https://blotmkt.com/ia/audit/sitemap-xml-audit"
+schema_type: "TechArticle"
+sources:
+  - blotmkt.com
+  - antoine-blot.com
 ---
 
 # Audit de sitemap XML : le guide complet pour optimiser votre crawl
 
+Votre sitemap XML contient peut-être des dizaines d'URLs en erreur 404 ou en redirection, et vous ne le savez pas. Résultat : Googlebot gaspille son [Budget de crawl](https://blotmkt.com/ia/audit/budget-de-crawl.html) sur des pages inutiles pendant que vos contenus stratégiques restent invisibles. La solution passe par un audit de sitemap XML rigoureux, rendu accessible grâce aux outils de Generative Engine Optimization qui transforment une tâche technique complexe en une analyse rapide et actionnable.
+
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - Un Audit de sitemap XML détecte les erreurs qui freinent l'indexation de vos pages stratégiques et gaspillent le [Budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/budget-de-crawl.html.html)
-> - L'automatisation via des outils GEO comme `/seo sitemap <url>` transforme une tâche technique complexe en Analyse rapide et actionnable 
-> - Les Erreurs critiques incluent les pages 4xx/5xx, redirections, URLs bloquées par robots.txt et pages en noindex
-> - Un sitemap propre améliore l'efficacité d'Exploration de 60% selon les données de performance des moteurs de recherche
-> - L'Audit mensuel automatisé permet un ROI immédiat en libérant les équipes SEO des tâches manuelles chronophages
-<!-- speakable:end -->
-
-Dans l'écosystème SEO actuel où 
-60% des recherches Google se terminent sans clic
-, votre sitemap XML devient crucial pour maximiser les chances d'indexation. Pourtant, de nombreux sites traînent des sitemaps défaillants qui compromettent leur visibilité. La solution ? Automatiser l'Audit avec des outils de [Generative Engine Optimization (GEO)](https://blotmkt.comhttps://blotmkt.com/ia/ia-seo-geo/generative-engine-optimization-(geo).html.html).html).html).html).html).html).html).html).html).html).html).html).html).html).html).html))))) qui transforment une vérification technique fastidieuse en analyse stratégique instantanée.
+> - Un audit de sitemap XML vérifie que votre feuille de route pour les robots ne contient aucune erreur d'indexation.
+> - Un outil GEO permet d'auditer un sitemap en une commande, détectant erreurs 404, redirections et conflits noindex.
+> - Les cinq erreurs critiques sont les URLs 4xx/5xx, les redirections, les blocages robots.txt, le noindex et l'obsolescence.
+> - L'automatisation surpasse l'audit manuel en rapidité, exhaustivité et fiabilité, surtout sur les sites volumineux.
 
 ---
 
 ## Pourquoi un audit de sitemap XML est indispensable à votre stratégie SEO
 
-Un sitemap XML sert d'asset stratégique qui aide les moteurs comme Google à découvrir vos pages et les crawler, render, indexer et classer dans les résultats de recherche
-. Contrairement à une simple carte des lieux, votre sitemap fonctionne comme 
-un annuaire téléphonique qui indique au moteur de recherche quel Contenu est disponible et comment y accéder
-.
-
-L'impact est particulièrement significatif pour 
-les grands sites dont toutes les pages ne sont pas liées internement, les nouveaux sites sans liens entrants externes, et les sites utilisant vidéos et images
-. Dans ces contextes, le sitemap devient le principal vecteur de découverte pour les robots d'exploration comme Googlebot.
-
-Plus strategiquement, un sitemap bien structuré permet de 
-tenir Google informé de tout Contenu nouveau ou mis à jour sur votre site
-, accélérant ainsi le processus d'Indexation de vos publications les plus récentes et stratégiques.
+Un sitemap XML est la feuille de route que vous fournissez aux robots d'exploration comme Googlebot. Il leur indique quelles pages explorer, à quelle fréquence et quand elles ont été modifiées. Sans audit régulier, ce fichier peut devenir un frein plutôt qu'un levier. Selon la documentation officielle de Google, un sitemap est particulièrement utile pour les sites volumineux, les sites comportant de nombreux médias ou les pages nouvellement publiées qui manquent de liens internes (Source : Google Search Central, 2024). Un sitemap obsolète ou truffé d'erreurs envoie des signaux contradictoires aux moteurs de recherche. Cela impacte directement la vitesse et l'exhaustivité de l'indexation de vos pages stratégiques, et peut masquer des pages orphelines que vous souhaitez rendre visibles. L'optimisation du crawl budget commence ici.
 
 ## La méthode complète pour auditer votre sitemap avec un outil GEO
 
-L'automatisation révolutionne l'Audit de sitemap en remplaçant des heures de vérifications manuelles par une commande simple comme `/seo sitemap <url>`. Cette approche GEO analyse instantanément les points critiques sans intervention humaine.
-
-La vérification technique débute par 
-la conformité du format XML et l'inclusion exclusive de pages indexables
-. L'outil contrôle automatiquement que 
-votre sitemap respecte les limites Google de 50 000 URLs ou 50 MB non compressé
-, évitant les problèmes de parsing qui ralentissent l'exploration.
-
-L'Analyse des codes de réponse constitue l'étape suivante. 
-L'Audit vérifie que toutes les URLs retournent un statut 200, évitent les chaînes de redirection, et garantissent que seules les pages canoniques et indexables sont incluses
-. Cette vérification automatisée élimine le risque d'erreur humaine sur des milliers d'URLs.
-
-Enfin, l'outil examine les directives d'Indexation en croisant les données du sitemap avec 
-l'accessibilité pour les Moteurs de recherche (pas d'exclusion dans robots.txt) et l'absence de directives interdisant l'indexation
-.
+L'audit de sitemap XML automatisé via un outil GEO se déroule en quelques étapes simples. Tout commence par le lancement d'une analyse avec une commande du type /seo sitemap suivi de l'URL de votre site. L'outil procède alors à une vérification de conformité technique : format XML valide, encodage UTF-8 respecté, respect de la limite de 50 000 URLs et 50 Mo par fichier. Ensuite, chaque URL listée est inspectée pour détecter les codes de réponse non-200, notamment les erreurs 404 et 5xx. Enfin, l'outil croise les données avec votre [Fichier Robots.txt](https://blotmkt.com/ia/audit/fichier-robots.txt.html) et vos balises meta pour identifier les URLs bloquées, marquées noindex ou non canoniques. Selon Antoine BLOT, Expert SEO et marketing à Montréal, cette approche permet de passer de plusieurs heures d'audit manuel à un diagnostic complet en quelques minutes, libérant du temps pour l'analyse stratégique.
 
 ## Les 5 erreurs critiques à corriger dans votre sitemap XML
 
-### URLs avec codes d'erreur 4xx et 5xx
+Cinq erreurs reviennent systématiquement lors d'un audit de sitemap et méritent une correction immédiate :
 
-Votre sitemap XML ne devrait inclure que des URLs indexables, excluant toutes celles pointant vers des Redirections (statut 301) et des pages manquantes (statut 404)
-. Ces erreurs 
-entraînent Google à crawler plusieurs URLs avant d'atteindre l'URL finale, consommant inutilement le Budget de crawl
-.
+| Erreur | Impact | Correction |
+|---|---|---|
+| URLs en 4xx ou 5xx | Gaspillage du budget de crawl | Supprimer du sitemap ou corriger la page |
+| Pages redirigées (301/302) | Crawl inefficace, signaux dilués | Remplacer par l'URL de destination finale |
+| URLs bloquées par robots.txt | Signaux contradictoires pour Googlebot | Retirer du sitemap ou débloquer dans robots.txt |
+| Pages en noindex | Annule l'objectif même du sitemap | Retirer du sitemap ou supprimer le noindex |
+| Sitemap obsolète | Architecture réelle non reflétée | Régénérer après chaque modification structurelle |
 
-### Pages redirigées présentes dans le sitemap
-
-Si l'implémentation de Redirections permanentes est récurrente sur votre site, considérez l'automatisation du processus
-. Les URLs redirigées dans le sitemap créent des chemins de crawl inefficaces qui détournent l'attention des Moteurs de vos pages prioritaires.
-
-### URLs bloquées par robots.txt
-
-Cette erreur crée des 
-signaux contradictoires car le sitemap indique aux moteurs de recherche quelles URLs vous voulez crawler et considérer pour l'indexation, alors que robots.txt les bloque
-. Cette incohérence diminue la crédibilité de votre sitemap comme source fiable.
-
-### Pages avec balise noindex incluses
-
-Les pages sans lien canonique auto-référentiel indiquent à Google qu'une autre version de la page doit être indexée, résultant en un crawl de la page canonique sans indexation
-. Retirer ces pages canoniques du sitemap évite un crawl inutile.
-
-### Sitemaps obsolètes non maintenus
-
-Un sitemap doit fournir une image actuelle de votre site web. Quand une page est supprimée, elle doit être retirée du sitemap XML. Si vous utilisez la balise lastmod optionnelle, assurez-vous de mettre à jour l'horodatage à chaque modification de page
-.
+Selon Ahrefs, inclure des URLs non indexables dans un sitemap est l'une des erreurs techniques les plus fréquentes détectées lors de leurs audits de sites (Source : Ahrefs, 2024). Corriger ces erreurs dans la Google Search Console est une priorité pour toute équipe SEO.
 
 ## Audit de sitemap : le verdict entre l'approche manuelle et l'automatisation
 
-L'audit manuel révèle rapidement ses limites : 
-les crawlers et vérificateurs retournent souvent des milliers d'éléments, dont beaucoup constituent du "bruit". Pour rester orienté business, la priorisation doit être basée sur l'impact potentiel (indexation, classements, CTR, conversion), l'effort (temps, dépendances, cycles de release) et le risque
-.
-
-L'automatisation via les outils GEO transforme cette complexité en avantage stratégique. 
-Certaines agences dépensent des centaines d'heures de travail manuel pour réaliser des Audits de sites web qui peuvent être automatisés en quelques secondes
-. Cette efficacité libère les équipes SEO pour des Analyses à plus forte valeur ajoutée.
-
-Le ROI de l'automatisation devient évident quand on considère que 
-les moteurs de recherche travaillent avec un budget de crawl limité, rendant l'audit régulier du sitemap essentiel. Supprimer les pages non appropriées maintient la propreté et garantit que les moteurs se concentrent sur votre contenu le plus important
-.
-
-L'approche automatisée génère également 
-des preuves, une priorisation et une feuille de route utilisable (backlog, validation, re-mesure). Sans ces éléments, vous vous retrouvez avec un rapport d'observations plutôt qu'un plan d'exécution réaliste
-.
+L'audit manuel d'un sitemap XML consiste à ouvrir le fichier, vérifier chaque URL individuellement et croiser les données avec le robots.txt et les balises meta. Sur un site de 50 pages, c'est faisable. Sur un site e-commerce de 10 000 URLs, c'est illusoire. L'erreur humaine devient inévitable et le temps investi disproportionné. L'automatisation via un outil d'analyse sitemap ou une plateforme GEO change la donne : un rapport exhaustif et actionnable est généré en quelques secondes. Semrush souligne que l'audit automatisé permet de détecter en temps réel les incohérences entre sitemap, robots.txt et balises d'indexation, ce qui serait impossible manuellement à grande échelle (Source : Semrush, 2024). Le retour sur investissement est clair : les équipes SEO se concentrent sur la prise de décision plutôt que sur la collecte de données.
 
 ## Optimisation post-audit : générer un nouveau sitemap performant
 
-Une fois les erreurs identifiées, la génération d'un sitemap propre devient prioritaire. 
-Les sitemaps statiques sont fixes et nécessitent des mises à jour manuelles à chaque changement de contenu, tandis que les sitemaps dynamiques sont automatiquement générés via des scripts côté serveur ou des plugins, s'assurant qu'ils reflètent toujours vos mises à jour les plus récentes
-.
+Une fois les erreurs identifiées et corrigées, il est souvent nécessaire de générer un nouveau sitemap XML propre. Cette étape s'impose après une refonte de site, une migration ou une correction massive d'URLs. Un sitemap generator intégré à un outil GEO, accessible via une commande comme /seo sitemap generate, produit un fichier respectant les bonnes pratiques : inclusion exclusive des pages canoniques retournant un statut 200, segmentation en fichiers distincts si le volume dépasse 50 000 URLs, et ajout d'un index sitemap. Après génération, soumettez le nouveau sitemap via la Google Search Console et surveillez le rapport de couverture d'indexation pendant les semaines suivantes pour mesurer l'impact concret sur le taux de pages indexées.
 
-L'utilisation d'une commande comme `/seo sitemap generate` permet de créer un sitemap respectant automatiquement les bonnes pratiques : 
-votre sitemap XML ne devrait lister que les pages canoniques et pertinentes SEO que vous voulez indexer et classer, en se concentrant sur les URLs canoniques tout en excluant les doublons, pages de faible valeur ou Contenu non aligné avec votre stratégie SEO
-.
-
-La segmentation devient nécessaire pour les gros volumes. 
-Si vous avez plus de 50 000 URLs indexables, divisez votre fichier sitemap en plusieurs sitemaps. Vous pouvez aussi créer un fichier d'index de sitemap qui contient les emplacements de tous vos sitemaps individuels
-.
-
-Après génération, 
-soumettez votre sitemap à Google via Google Search Console pour informer Google de tout contenu nouveau ou mis à jour. Il est également recommandé d'inclure l'emplacement de votre sitemap.xml dans le [Fichier Robots.txt](https://blotmkt.comhttps://blotmkt.com/ia/audit/fichier-robots.txt.html.html) pour diriger directement les moteurs vers votre sitemap
-.
+[!IMPORTANT] Après chaque soumission de sitemap, vérifiez le rapport "Pages" de la Search Console sous 2 à 4 semaines pour confirmer l'amélioration de l'indexation.
 
 ## Questions fréquentes
 
 ### Comment savoir si mon sitemap est correct ?
-Utilisez un validateur XML et vérifiez que toutes les URLs retournent un code 200, sont canoniques et ne sont pas bloquées par robots.txt. Un Audit automatisé via `/seo sitemap <url>` détecte instantanément ces problèmes critiques.
+Pour vérifier votre sitemap XML, soumettez-le dans la Google Search Console et consultez le rapport de couverture. L'outil signale les URLs en erreur, les pages non indexées et les avertissements. Complétez avec un outil d'analyse sitemap qui croise les données du sitemap avec les codes HTTP réels, le robots.txt et les balises noindex pour un diagnostic complet.
 
 ### Où trouver le fichier sitemap.xml d'un site ?
-Le sitemap se trouve généralement à `/sitemap.xml` ou `/sitemap_index.xml` depuis la racine du domaine. Vérifiez aussi le fichier robots.txt qui doit contenir la ligne "Sitemap: URL_du_sitemap".
+Le fichier sitemap.xml se trouve généralement à la racine du site, accessible via l'URL votredomaine.com/sitemap.xml. Il peut aussi être référencé dans le fichier robots.txt via la directive "Sitemap:". Si aucune de ces méthodes ne fonctionne, consultez la Google Search Console du site pour voir les sitemaps soumis, ou utilisez un outil de crawl pour le détecter automatiquement.
 
 ### Quelle est la différence entre un sitemap XML et un sitemap HTML ?
-
-Le sitemap XML est conçu pour aider Google, tandis que vous pouvez créer un sitemap HTML pour aider vos utilisateurs à naviguer sur votre site
-. L'un optimise l'exploration automatique, l'autre l'expérience utilisateur.
+Un sitemap XML est un fichier technique destiné aux robots d'exploration des moteurs de recherche. Il liste les URLs à indexer avec des métadonnées comme la date de modification. Un sitemap HTML est une page web visible par les utilisateurs, conçue pour faciliter la navigation humaine. Les deux sont complémentaires : le XML optimise le crawl, le HTML améliore l'expérience utilisateur.
 
 ### Comment corriger les erreurs de sitemap dans la Search Console ?
-Identifiez d'abord le type d'erreur (404, redirection, noindex), corrigez le problème à la source, mettez à jour le sitemap, puis resoumettez-le dans GSC pour déclencher une nouvelle exploration.
+Identifiez les erreurs dans le rapport "Sitemaps" de la Google Search Console : URLs introuvables, problèmes de format ou pages non indexables. Corrigez chaque type en supprimant les URLs en erreur du sitemap, en remplaçant les redirections par les URLs finales et en retirant les pages noindex. Resoumettez le sitemap corrigé et utilisez l'outil d'inspection d'URL pour valider les corrections.
 
 ---
 
-*Sources : (SEO with EWE, 2024), (Conductor Academy, 2024), (SearchX, 2025), (TrySight.ai, 2025), (Search Engine) Land, 2025), (ALT Agency, 2026), (Intero Digital, 2024), (Search Engine Journal, 2025), (Loganix, 2024), (Audit Raven, 2024), (Incremys, 2025), (Web Analyste, 2025)*
+*Sources : Google Search Central – Documentation Sitemaps (2024), Ahrefs – Site Audit Documentation (2024), Semrush – Site Audit Tool Documentation (2024)*
 
 ```json
 {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
+      "@type": "TechArticle",
       "headline": "Audit de sitemap XML : le guide complet pour optimiser votre crawl",
       "description": "Découvrez comment réaliser un audit de sitemap XML complet. Identifiez et corrigez les erreurs pour améliorer l'indexation de votre site par les moteurs de recherche.",
       "url": "https://blotmkt.com/ia/audit/sitemap-xml-audit",
-      "datePublished": "2026-03-09 06:38",
-      "dateModified": "2026-03-09 06:38",
+      "datePublished": "2026-03-27 20:55",
+      "dateModified": "2026-03-27 20:55",
       "author": {
         "@type": "Person",
         "name": "Antoine Blot",
@@ -187,8 +109,8 @@ Identifiez d'abord le type d'erreur (404, redirection, noindex), corrigez le pro
         "name": "BlotMKT",
         "url": "https://blotmkt.com"
       },
-      "inLanguage": "fr-FR",
-      "keywords": "vérifier sitemap xml, sitemap generator, erreur sitemap google search console, Optimisation crawl budget, indexation site, outil analyse sitemap, sitemap best practices"
+      "inLanguage": "fr-CA",
+      "keywords": "vérifier sitemap xml, sitemap generator, erreur sitemap google search console, optimisation crawl budget, indexation site, outil analyse sitemap, sitemap best practices"
     },
     {
       "@type": "FAQPage",
@@ -198,7 +120,7 @@ Identifiez d'abord le type d'erreur (404, redirection, noindex), corrigez le pro
           "name": "Comment savoir si mon sitemap est correct ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Utilisez un validateur XML et vérifiez que toutes les URLs retournent un code 200, sont canoniques et ne sont pas bloquées par robots.txt. Un audit automatisé via des outils GEO détecte instantanément ces problèmes critiques sans intervention Manuelle."
+            "text": "Pour vérifier votre sitemap XML, soumettez-le dans la Google Search Console et consultez le rapport de couverture. L'outil signale les URLs en erreur, les pages non indexées et les avertissements. Complétez avec un outil d'analyse sitemap qui croise les données du sitemap avec les codes HTTP réels, le robots.txt et les balises noindex pour un diagnostic complet."
           }
         },
         {
@@ -206,15 +128,15 @@ Identifiez d'abord le type d'erreur (404, redirection, noindex), corrigez le pro
           "name": "Où trouver le fichier sitemap.xml d'un site ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Le sitemap se trouve généralement à /sitemap.xml ou /sitemap_index.xml depuis la racine du domaine. Vérifiez aussi le fichier robots.txt qui doit contenir la ligne 'Sitemap: URL_du_sitemap' pour faciliter sa découverte par les moteurs."
+            "text": "Le fichier sitemap.xml se trouve généralement à la racine du site, accessible via l'URL votredomaine.com/sitemap.xml. Il peut aussi être référencé dans le fichier robots.txt via la directive 'Sitemap:'. Si aucune de ces méthodes ne fonctionne, consultez la Google Search Console du site pour voir les sitemaps soumis, ou utilisez un outil de crawl pour le détecter automatiquement."
           }
         },
         {
           "@type": "Question",
-          "name": "Quelle) est la différence entre un sitemap XML et un sitemap HTML ?",
+          "name": "Quelle est la différence entre un sitemap XML et un sitemap HTML ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Le sitemap XML est conçu pour aider les moteurs de recherche à découvrir et indexer vos pages, tandis que le sitemap HTML aide vos utilisateurs à naviguer sur votre site. L'un optimise l'exploration automatique, l'autre l'expérience utilisateur."
+            "text": "Un sitemap XML est un fichier technique destiné aux robots d'exploration des moteurs de recherche. Il liste les URLs à indexer avec des métadonnées comme la date de modification. Un sitemap HTML est une page web visible par les utilisateurs, conçue pour faciliter la navigation humaine. Les deux sont complémentaires : le XML optimise le crawl, le HTML améliore l'expérience utilisateur."
           }
         },
         {
@@ -222,9 +144,9 @@ Identifiez d'abord le type d'erreur (404, redirection, noindex), corrigez le pro
           "name": "Comment corriger les erreurs de sitemap dans la Search Console ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Identifiez d'abord le type d'erreur (404, redirection, noindex), corrigez le problème à la source, mettez à jour le sitemap en supprimant les URLs problématiques, puis resoumettez-le dans Google Search Console pour déclencher une nouvelle exploration."
+            "text": "Identifiez les erreurs dans le rapport 'Sitemaps' de la Google Search Console : URLs introuvables, problèmes de format ou pages non indexables. Corrigez chaque type en supprimant les URLs en erreur du sitemap, en remplaçant les redirections par les URLs finales et en retirant les pages noindex. Resoumettez le sitemap corrigé et utilisez l'outil d'inspection d'URL pour valider les corrections."
           }
-        }
+        },
       ]
     }
   ]
@@ -233,50 +155,10 @@ Identifiez d'abord le type d'erreur (404, redirection, noindex), corrigez le pro
 
 ---
 
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
 ## Articles connexes
 
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/analyse-de-logs-seo.html.html)
-- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html)
-- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-mobile-first.html.html)
-- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html)
-- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-montreal.html.html)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
+- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)
+- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first.html)
+- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique.html)
+- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal.html)

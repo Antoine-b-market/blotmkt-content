@@ -3,7 +3,6 @@ title: "Densité de mots-clés : le guide pratique pour le SEO et la GEO"
 description: "La densité de mots-clés est-elle un mythe SEO ? Découvrez son vrai rôle pour Google et les IA, comment la calculer et l'optimiser sans sur-optimiser."
 keyword: "Densité de mots-clés"
 category: "contenu"
-schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"
@@ -11,159 +10,86 @@ author_github: "https://github.com/Antoine-b-market"
 author_orcid: "https://orcid.org/0009-0005-6450-4528"
 organization: "BlotMKT"
 organization_url: "https://blotmkt.com"
-date: "2026-03-09 07:22"
-date_modified: "2026-03-09 07:22"
+date: "2026-03-27 21:14"
+date_modified: "2026-03-27 21:14"
 slug: "densite-de-mots-cles"
-url: "https://blotmkt.com/ia/contenu/densite-de-mots-cles.html"
-canonical: "https://blotmkt.com/ia/contenu/densite-de-mots-cles.html"
-related_articles:
-  - title: "Moteurs de réponse : le guide de la Generative Engine Optimization (GEO)"
-    url: "/ia/ia-seo-geo/moteurs-de-reponse"
-  - title: "Optimisation SGE : Maîtriser le nouveau paradigme de la recherche IA"
-    url: "/ia/ia-seo-geo/sge-optimization"
-  - title: "Données structurées : le guide complet pour obtenir des résultats de recherche enrichis"
-    url: "/ia/definition/donnees-structurees"
+url: "https://blotmkt.com/ia/contenu/densite-de-mots-cles"
+schema_type: "TechArticle"
+sources:
+  - blotmkt.com
+  - antoine-blot.com
 ---
+
 # Densité de mots-clés : le guide pratique pour le SEO et la GEO
+
+Beaucoup de rédacteurs web se demandent encore combien de fois répéter un mot-clé dans leur texte. Cette obsession du pourcentage idéal conduit souvent à deux écueils : un contenu robotique bourré de répétitions ou, à l'inverse, un texte trop vague que ni Google ni les IA ne parviennent à rattacher à une requête précise. La solution ne réside pas dans une formule magique, mais dans une approche sémantique et structurelle qui satisfait à la fois les moteurs de recherche, les modèles génératifs et les lecteurs humains.
 
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - 
-<!-- speakable:end -->
-La densité de mots-clés désigne le taux d'apparition d'un mot-clé dans un texte calculé par la formule : (Nombre d'occurrences du mot-clé / Nombre total de mots dans le texte) x 100
-
-> - 
-Google a confirmé que la densité de mots-clés n'est plus prise en compte comme facteur de classement direct depuis 2012
-
-> - 
-Le TF-IDF et la pertinence sémantique sont devenus les nouveaux critères d'évaluation de la relation entre mots-clés et contenus par Google
-
-> - 
-Pour la GEO (Optimisation pour les IA génératives), l'objectif n'est plus une question de position mais de citation par les modèles comme ChatGPT ou Perplexity
-
-> - 
-Une densité pratique recommandée se situe autour de 1% soit 1 occurrence du mot-clé pour 100 mots, privilégiant la naturalité
-
-**Problème :** Beaucoup de créateurs de contenu croient encore qu'une densité de mots-clés élevée garantit un meilleur référencement. **Agitation :** Cette croyance obsolète peut conduire au keyword stuffing et nuire à la qualité rédactionnelle, voire entraîner des pénalités algorithmiques. **Solution :** Comprendre l'évolution vers la pertinence sémantique et l'optimisation pour les IA génératives permet d'adapter sa stratégie de contenu aux vrais critères actuels.
+> - La densité de mots-clés se calcule ainsi : (occurrences du mot-clé / nombre total de mots) multiplié par 100.
+> - La densité n'est plus un facteur de classement direct pour Google, mais reste un indicateur thématique.
+> - Le TF-IDF mesure l'importance relative d'un terme dans un corpus, dépassant la simple répétition.
+> - Pour les LLM, placez le mot-clé dans les zones chaudes puis enrichissez avec le champ sémantique.
 
 ---
 
 ## Définition : qu'est-ce que la densité de mots-clés ?
 
-La formule de calcul de la densité de Mots-clés est la suivante : Densité = (Nombre d'occurrences du mot-clé / Nombre total de mots dans le texte) x 100
-. Cette métrique exprime donc un pourcentage qui indique la proportion d'un terme spécifique par rapport à l'ensemble du Contenu.
-
-On parle également de fréquence de Mots-clés
-, mais il convient de distinguer ces deux concepts : la fréquence correspond au nombre brut d'occurrences, tandis que la densité représente le ratio proportionnel. Par exemple, 
-si votre mot-clé apparaît 20 fois dans une page web de 800 mots, votre indice est égal à 2,5%
-.
-
-Longtemps considéré comme un levier de visibilité majeur, cet indicateur a été énormément utilisé au début des années 2000 avec le moteur de recherche AltaVista et durant les premières années de Google
-. Cette période correspond à une approche lexicale stricte des Algorithmes de recherche.
+La densité de mots-clés est le ratio entre le nombre d'occurrences d'un terme cible et le nombre total de mots d'un texte, exprimé en pourcentage. La formule est simple : (nombre d'occurrences du mot-clé / nombre total de mots) x 100. Si un article de 1 000 mots contient 15 fois l'expression visée, la densité est de 1,5 %. Il est important de distinguer la fréquence de mots-clés, qui correspond au nombre brut d'apparitions, et la densité, qui rapporte ce nombre à la longueur du document. Cette distinction compte car un texte long peut contenir beaucoup d'occurrences tout en conservant une densité faible. Historiquement, les premiers algorithmes de recherche, dans les années 1990 et au début des années 2000, utilisaient fortement ce ratio pour déterminer la pertinence d'une page. Selon Moz, cette ère a engendré des pratiques de keyword stuffing massives avant que les moteurs ne raffinent leurs méthodes d'évaluation (Source : Moz, 2024).
 
 ## Un facteur SEO direct ou un concept dépassé ?
 
-Dans une vidéo publiée sur YouTube en 2012, Matt Cutts (responsable de l'équipe webspam chez Google) a clairement indiqué que se focaliser sur la densité de mots-clés ne servait à rien
-. Cette déclaration officielle marque un tournant dans l'approche du référencement naturel.
-
-Avec l'avènement de mises à jour algorithmiques majeures par des moteurs de recherche comme Google, qui ont introduit des concepts tels que Panda et Penguin, la qualité du Contenu et la pertinence ont commencé à primer sur la simple quantité de mots-clés
-. L'algorithme privilégie désormais une compréhension contextuelle et sémantique du contenu.
-
-Le véritable danger réside dans la sur-Optimisation : 
-Les règles Google ont changé et le bourrage de mots-clés est désormais considéré comme un spam
-. Une densité excessive peut donc nuire au classement plutôt que de l'améliorer. Néanmoins, une présence stratégique reste pertinente : 
-La présence du mot-clé dans le Titre de l'article, dans l'introduction ou encore dans au moins un sous-titre est ainsi pertinente, même si sa densité avoisine "seulement" 1 % au bout du compte
-.
+Google a considérablement évolué depuis ses débuts. Avec des mises à jour comme Hummingbird en 2013, puis l'intégration de systèmes comme BERT et MUM, le moteur est passé d'une analyse lexicale stricte à une compréhension sémantique de l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html). Selon Antoine BLOT, Expert SEO et marketing à Montréal, la densité de mots-clés n'est plus un facteur de classement direct et fort en 2024, mais elle reste un indicateur utile pour s'assurer que le contenu est bien rattaché à sa thématique principale. Le vrai danger est l'excès. Une densité trop élevée déclenche les filtres anti-spam de Google. Le keyword stuffing, soit la répétition artificielle et excessive d'un terme, est explicitement sanctionné par les directives de Google relatives au spam (Source : Google Search Central, 2024). Plutôt que de viser un pourcentage précis, il faut observer une cohérence thématique globale.
 
 ## Au-delà de la densité : pertinence thématique et TF-IDF
 
-Le TF-IDF s'agit d'un véritable outil d'optimisation on-page et de construction de contenu sémantique pertinent
-. Cette métrique combine deux Facteurs : 
-la fréquence du terme étudié dans le texte (TF) et le nombre de documents contenant ce terme (IDF)
-.
+Le TF-IDF, pour Term Frequency-Inverse Document Frequency, est une mesure statistique qui évalue l'importance d'un mot non pas dans un seul texte, mais par rapport à un corpus entier de documents. Un terme fréquent dans votre page mais rare dans l'ensemble du web obtient un score TF-IDF élevé, signalant une forte pertinence. À l'inverse, un mot courant comme "le" ou "est" obtient un score quasi nul. Cette approche dépasse radicalement la simple densité. Aujourd'hui, le SEO sémantique prime : Google valorise un champ lexical riche incluant synonymes, co-occurrences et entités nommées autour du sujet traité. Selon une étude de SEMrush sur les facteurs de contenu, les pages les mieux classées couvrent un sujet en profondeur avec un vocabulaire diversifié plutôt qu'en répétant un seul terme (Source : SEMrush, 2024). La pertinence thématique est devenue la nouvelle densité.
 
-Le TF-IDF highlights the "special ingredients" in your Content by comparing their usage on your page against their rarity across similar pages. Words that are common in your document but rare across the whole corpus score higher, which signals strong relevance
-. Cette approche dépasse la simple répétition pour évaluer l'importance contextuelle.
-
-Depuis quelques années, les moteurs de recherche n'Analysent plus les termes un à un dans les contenus des sites web, mais ils s'intéressent plutôt au sens des suites de mots dans chaque phrase. Avec les mises à jour Hummingbird (2013) puis BERT (2019), Google a entièrement intégré cette façon de faire dans son écosystème
-. 
-Lorsqu'on parle de sémantique en SEO, cela fait référence à l'utilisation d'un champ lexical riche autour d'un mot-clé principal afin de bien contextualiser un contenu et d'augmenter ses chances de ranker
-.
+| Concept | Ce qu'il mesure | Utilité SEO actuelle |
+|---|---|---|
+| Densité de mots-clés | Ratio occurrences / mots totaux | Indicateur basique de thématique |
+| TF-IDF | Importance relative dans un corpus | Identification de termes différenciants |
+| Pertinence sémantique | Couverture du champ lexical complet | Facteur central de classement |
 
 ## Optimisation pour la GEO : parler aux humains et aux LLM
 
-Le GEO IA, ou Generative Engine Optimization, désigne l'ensemble des techniques permettant d'optimiser un contenu pour qu'il soit sélectionné, cité ou synthétisé par les moteurs de recherche génératifs. Contrairement au SEO traditionnel qui cherche à ranker en position 1 d'une liste de liens, le GEO IA cherche à devenir la source sur laquelle l'IA s'appuie pour construire sa réponse
-.
+Les modèles de langage, comme GPT ou Gemini, analysent la proéminence des termes pour comprendre et résumer un texte. Un mot-clé placé dans le titre, l'introduction et les sous-titres a plus de poids qu'un terme enfoui au milieu d'un paragraphe. La stratégie pratique pour l'[Optimisation de contenu](https://blotmkt.com/ia/contenu/optimisation-de-contenu.html) en GEO consiste à placer le mot-clé principal dans ces zones chaudes, puis à enrichir le corps du texte avec le champ sémantique complet du sujet. Cela implique d'utiliser des synonymes, des questions connexes et des entités nommées liées au thème. L'objectif est la naturalité et la clarté. Un texte bien structuré, avec des phrases autonomes et des sections clairement délimitées, est plus facilement citable par un LLM. Chaque paragraphe doit pouvoir répondre à une question implicite sans dépendre du reste du document.
 
-Les Large Language Models (LLM) transforment la recherche en synthétisant des informations issues de multiples sources
-. Pour ces modèles, la proéminence des termes devient cruciale : un Contenu bien structuré avec le mot-clé principal dans les zones stratégiques (titre, introduction, sous-titres) facilite la compréhension et l'extraction d'informations par l'IA.
-
-Les moteurs génératifs privilégient les contenus qui contiennent des statistiques précises, des chiffres datés, des études citées. D'après Princeton University et Georgia Tech (Étude GEO, ACM SIGKDD 2024), l'ajout de statistiques vérifiables dans un contenu représente la technique GEO la plus efficace, pouvant augmenter la visibilité dans les réponses IA jusqu'à 40%
-. L'objectif n'est plus la densité mais la "citabilité" : 
-Structure, clarté, données, formats FAQ / listes / comparatifs, éléments factuels
-.
+[!IMPORTANT] Un contenu optimisé GEO n'est pas un contenu différent du SEO : c'est un contenu mieux structuré, plus clair et sémantiquement plus riche.
 
 ## Outils et méthode pour une analyse concurrentielle
 
-Pour évaluer votre densité actuelle, 
-Vous trouverez de nombreux outils en ligne gratuits pour calculer votre indice de densité comme Outils SEO par exemple
-. 
-Pour calculer l'indice de densité d'un mot-clé SEO, vous pouvez vous tourner vers un certain nombre d'outils, comme : Optimiz, Outiref, SEO Tools, etc
-.
-
-Pour une Analyse TF-IDF avancée, 
-Semrush's On Page SEO Tool peut aider. Vous pouvez l'utiliser pour comparer les scores TF-IDF entre votre contenu web et les pages concurrentes
-. Cette approche permet d'identifier les termes sémantiques manquants dans votre contenu.
-
-La méthode recommandée consiste à analyser les 5 premiers résultats de recherche pour votre requête cible, d'extraire leur Structure lexicale, puis d'identifier les concepts et champs sémantiques récurrents. 
-Dans la vie avant de faire un choix on regarde ce que les autres ont fait pour ne pas se tromper, en SEO c'est une règle d'or aussi. Regardez vos concurrents et voyez ce qui fonctionne le mieux pour eux
-. L'objectif n'est pas de copier un pourcentage spécifique, mais de s'assurer de couvrir tous les aspects thématiques attendus par les utilisateurs et les Algorithmes.
+Plusieurs outils permettent d'analyser la densité et la couverture sémantique de vos textes. En francophonie, 1.fr et YourText.Guru évaluent le score d'optimisation d'un contenu par rapport à une requête cible en analysant le champ lexical attendu. SEMrush propose également un outil d'optimisation de contenu qui compare votre texte aux pages concurrentes. La méthode recommandée consiste à extraire le contenu des cinq premiers résultats de la SERP pour votre requête cible, puis à analyser leur structure lexicale : quels termes reviennent systématiquement, quels sous-sujets sont couverts, quelle profondeur thématique est atteinte. L'objectif n'est pas de copier un pourcentage de densité, mais de s'assurer que votre contenu couvre tous les aspects sémantiques attendus par les utilisateurs et les moteurs. Cette analyse comparative révèle souvent des angles manquants plus que des problèmes de fréquence brute.
 
 ## Questions fréquentes
 
 ### Quel est le bon taux de densité de mots-clés ?
-
-Aucun pourcentage idéal n'a été officiellement défini par les Moteurs de recherche au fil du temps
-. Cependant, 
-nous conseillons à nos clients d'avoir une densité de mots-clés avoisinant les 1%. Que vous rédigiez une page de 500 ou 3 000 mots, visez 1 occurrence du mot-clé pour 100 mots
-.
+Il n'existe pas de pourcentage universel idéal. La plupart des experts s'accordent sur une fourchette indicative de 1 à 2 %, mais ce chiffre n'a aucune valeur absolue. Ce qui compte réellement, c'est que le mot-clé soit présent de manière naturelle dans les zones stratégiques du texte et que le contenu soit sémantiquement riche. Une densité artificiellement élevée nuit au classement.
 
 ### Comment éviter le keyword stuffing ?
-
-Le keyword stuffing est fortement déConseillé, car elle peut conduire à des sanctions manuelles ou algorithmiques pour spam
-. 
-Pour estimer l'acceptabilité de votre densité de Mots-clés SEO, nous vous conseillons de lire votre texte à haute voix. Si votre compréhension est claire, c'est que vous avez très sûrement utilisé intelligemment votre mot-clé
-.
+Le keyword stuffing se produit lorsqu'un mot-clé est répété de façon excessive et non naturelle dans un texte. Pour l'éviter, relisez votre contenu à voix haute : si une expression semble forcée ou redondante, remplacez-la par un synonyme ou reformulez la phrase. Utilisez des outils comme YourText.Guru ou 1.fr pour vérifier que votre optimisation de contenu reste équilibrée et diversifiée.
 
 ### Comment calculer la densité d'un mot-clé dans un texte ?
+La formule est : (nombre d'occurrences du mot-clé / nombre total de mots du texte) x 100. Par exemple, si votre mot-clé apparaît 10 fois dans un texte de 800 mots, la densité est de 1,25 %. Des outils en ligne gratuits calculent automatiquement ce ratio et identifient aussi les termes les plus fréquents dans votre contenu.
 
-L'indice = (Nb d'apparition du mot-clé / Nb total de mots) x 100
-. Par exemple, 
-si votre article contient 500 mots et si le mot-clé principal apparaît 5 fois, la densité des Mots-clés serait de (5/500) x 100. Le résultat est alors égal à 1 %
-.
-
-### Est-ce que la densité de mots-clés est importante pour Google en 2024 ?
-
-Avec l'évolution des algorithmes des moteurs de recherche, l'importance de cette métrique a diminué, les moteurs de recherche favorisant désormais la qualité du contenu et la pertinence contextuelle
-. 
-Sans un bon positionnement organique, votre Contenu ne sera pas dans la base de données des LLM. La [Stratégie SEO](https://blotmkt.comhttps://blotmkt.com/ia/strategie/strategie-seo.html.html) et la stratégie GEO ne sont pas en compétition, elles sont en séquence : d'abord un socle SEO solide, ensuite une couche GEO pour amplifier votre visibilité dans les réponses génératives
-.
+### La densité de mots-clés est-elle encore importante pour Google en 2024 ?
+En 2024, la densité de mots-clés n'est plus un facteur de classement direct pour Google. Les algorithmes privilégient la compréhension sémantique de l'intention de recherche et la couverture thématique globale d'un contenu. Cependant, une présence naturelle du mot-clé principal reste nécessaire pour signaler le sujet de la page. Le risque se situe uniquement dans l'excès, qui entraîne des pénalités.
 
 ---
 
-*Sources : Redacteur.com (2025), Semjuice (2025), Neper (2024), Abondance (2025), Semrush (2024), Princeton University & Georgia Tech (ACM SIGKDD 2024), Heroic Impulsion (2026)*
+*Sources : Google Search Central, Spam policies for Google web search, 2024 ; SEMrush Blog, On-
 
 ```json
 {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
-      "headline": "Densité de Mots-clés : le guide pratique pour le SEO et la GEO",
+      "@type": "TechArticle",
+      "headline": "Densité de mots-clés : le guide pratique pour le SEO et la GEO",
       "description": "La densité de mots-clés est-elle un mythe SEO ? Découvrez son vrai rôle pour Google et les IA, comment la calculer et l'optimiser sans sur-optimiser.",
       "url": "https://blotmkt.com/ia/contenu/densite-de-mots-cles",
-      "datePublished": "2026-03-09 07:22",
-      "dateModified": "2026-03-09 07:22",
+      "datePublished": "2026-03-27 21:14",
+      "dateModified": "2026-03-27 21:14",
       "author": {
         "@type": "Person",
         "name": "Antoine Blot",
@@ -179,18 +105,18 @@ Sans un bon positionnement organique, votre Contenu ne sera pas dans la base de 
         "name": "BlotMKT",
         "url": "https://blotmkt.com"
       },
-      "inLanguage": "fr-FR",
-      "keywords": "keyword stuffing, TF-IDF, fréquence de mots-clés, SEO sémantique, Optimisation de contenu, pertinence thématique, champ lexical"
+      "inLanguage": "fr-CA",
+      "keywords": "keyword stuffing, TF-IDF, fréquence de mots-clés, SEO sémantique, optimisation de contenu, pertinence thématique, champ lexical"
     },
     {
       "@type": "FAQPage",
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Quel est le bon taux de densité de Mots-clés ?",
+          "name": "Quel est le bon taux de densité de mots-clés ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Il n'existe pas de pourcentage idéal officiellement défini. Les experts recommandent généralement une densité autour de 1%, soit 1 occurrence pour 100 mots, en privilégiant avant tout la naturalité et la lisibilité du Contenu."
+            "text": "Il n'existe pas de pourcentage universel idéal. La plupart des experts s'accordent sur une fourchette indicative de 1 à 2 %, mais ce chiffre n'a aucune valeur absolue. Ce qui compte réellement, c'est que le mot-clé soit présent de manière naturelle dans les zones stratégiques du texte et que le contenu soit sémantiquement riche. Une densité artificiellement élevée nuit au classement."
           }
         },
         {
@@ -198,7 +124,7 @@ Sans un bon positionnement organique, votre Contenu ne sera pas dans la base de 
           "name": "Comment éviter le keyword stuffing ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pour éviter la sur-Optimisation, lisez votre texte à haute voix pour vérifier sa fluidité. Privilégiez un champ lexical riche avec des synonymes et des termes connexes plutôt que la répétition excessive du mot-clé principal."
+            "text": "Le keyword stuffing se produit lorsqu'un mot-clé est répété de façon excessive et non naturelle dans un texte. Pour l'éviter, relisez votre contenu à voix haute : si une expression semble forcée ou redondante, remplacez-la par un synonyme ou reformulez la phrase. Utilisez des outils comme YourText.Guru ou 1.fr pour vérifier que votre optimisation de contenu reste équilibrée et diversifiée."
           }
         },
         {
@@ -206,17 +132,17 @@ Sans un bon positionnement organique, votre Contenu ne sera pas dans la base de 
           "name": "Comment calculer la densité d'un mot-clé dans un texte ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Utilisez la formule : (Nombre d'occurrences du mot-clé ÷ Nombre total de mots) × 100. Par exemple, 5 occurrences dans un texte de 500 mots donnent une densité de 1%. Des outils gratuits comme Outils SEO automatisent ce calcul."
+            "text": "La formule est : (nombre d'occurrences du mot-clé / nombre total de mots du texte) x 100. Par exemple, si votre mot-clé apparaît 10 fois dans un texte de 800 mots, la densité est de 1,25 %. Des outils en ligne gratuits calculent automatiquement ce ratio et identifient aussi les termes les plus fréquents dans votre contenu."
           }
         },
         {
           "@type": "Question",
-          "name": "Est-ce que la densité de mots-clés est importante pour Google en 2024 ?",
+          "name": "La densité de mots-clés est-elle encore importante pour Google en 2024 ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "La densité n'est plus un facteur de classement direct depuis 2012. Google privilégie désormais la pertinence sémantique, le TF-IDF et la qualité contextuelle du contenu. L'accent est mis sur la compréhension thématique globale plutôt que sur la répétition de termes."
+            "text": "En 2024, la densité de mots-clés n'est plus un facteur de classement direct pour Google. Les algorithmes privilégient la compréhension sémantique de l'intention de recherche et la couverture thématique globale d'un contenu. Cependant, une présence naturelle du mot-clé principal reste nécessaire pour signaler le sujet de la page. Le risque se situe uniquement dans l'excès, qui entraîne des pénalités."
           }
-        }
+        },
       ]
     }
   ]
@@ -225,50 +151,10 @@ Sans un bon positionnement organique, votre Contenu ne sera pas dans la base de 
 
 ---
 
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
 ## Articles connexes
 
-- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.comhttps://blotmkt.com/ia/contenu/alt-text-image.html.html)
-- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/contenu/audit-contenu-existant.html.html)
-- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.comhttps://blotmkt.com/ia/contenu/balise-h1-seo.html.html)
-- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.comhttps://blotmkt.com/ia/contenu/call-to-action.html.html)
-- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.comhttps://blotmkt.com/ia/contenu/clustering-de-mots-cles.html.html)
+- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)
+- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant.html)
+- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo.html)
+- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action.html)
+- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)

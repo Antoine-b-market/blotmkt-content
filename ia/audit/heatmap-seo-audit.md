@@ -3,7 +3,6 @@ title: "Heatmap SEO audit : la méthode visuelle pour diagnostiquer votre site"
 description: "Découvrez l'audit SEO par heatmap. Visualisez instantanément les points forts et faibles de votre site (technique, contenu, performance) pour agir efficacement."
 keyword: "Heatmap SEO audit"
 category: "audit"
-schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"
@@ -11,130 +10,97 @@ author_github: "https://github.com/Antoine-b-market"
 author_orcid: "https://orcid.org/0009-0005-6450-4528"
 organization: "BlotMKT"
 organization_url: "https://blotmkt.com"
-date: "2026-03-09 06:51"
-date_modified: "2026-03-09 06:51"
+date: "2026-03-27 20:37"
+date_modified: "2026-03-27 20:37"
 slug: "heatmap-seo-audit"
-url: "https://blotmkt.com/ia/audit/heatmap-seo-audit.html"
-canonical: "https://blotmkt.com/ia/audit/heatmap-seo-audit.html"
-related_articles:
-  - title: "Audit de sitemap XML : le guide complet pour optimiser votre crawl"
-    url: "/ia/audit/sitemap-xml-audit"
-  - title: "Audit de contenu existant : la méthode complète pour optimiser votre SEO"
-    url: "/ia/contenu/audit-contenu-existant"
-  - title: "Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale"
-    url: "/ia/strategie/accompagnement-seo-annuel"
+url: "https://blotmkt.com/ia/audit/heatmap-seo-audit"
+schema_type: "TechArticle"
+sources:
+  - blotmkt.com
+  - antoine-blot.com
 ---
 
 # Heatmap SEO audit : la méthode visuelle pour diagnostiquer votre site
 
+Un audit SEO produit des centaines de données techniques. Le problème : ces rapports finissent dans un tableur que personne ne lit. Les équipes marketing décrochent, la direction ne priorise rien, les correctifs stagnent. La solution existe : le heatmap SEO audit transforme ces données brutes en une cartographie visuelle à code couleur. En un coup d'œil, chaque partie prenante identifie les zones critiques, les opportunités et les acquis de votre site.
+
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - Un heatmap SEO Audit transforme les données complexes d'un audit traditionnel en représentation visuelle avec un code couleur rouge/orange/vert pour prioriser instantanément les actions
-> - Cette méthode agrège et pondère les scores de différentes catégories (technique, contenu, performance) pour créer une vue d'ensemble actionnable plutôt qu'un rapport de centaines de lignes
-> - Les outils spécialisés émergent via des plateformes SaaS avec des interfaces visuelles, mais il est possible de créer ses propres heatmaps avec Google Sheets et des règles de mise en forme conditionnelle
-> - L'interprétation suit une logique simple : rouge = actions critiques, orange = opportunités d'Optimisation, vert = points forts à maintenir
-<!-- speakable:end -->
-
-L'audit SEO traditionnel génère souvent des rapports complexes de centaines de points à Analyser, noyant les véritables priorités dans un océan de données techniques. Face à ce défi, l'audit SEO par heatmap révolutionne l'approche en transformant ces données en visualisation instantanément compréhensible. Cette méthode utilise un code couleur pour révéler d'un coup d'œil les forces et faiblesses de votre site, permettant aux équipes de prioriser leurs actions et d'aligner leurs efforts sur les véritables enjeux SEO.
+> - Un heatmap SEO audit visualise les scores d'un audit technique et contenu, pas le comportement utilisateur.
+> - Il traduit chaque catégorie SEO en zones colorées sur un dashboard pondéré et interactif.
+> - Le format visuel accélère la priorisation des actions et simplifie la communication avec les décideurs.
+> - Google Looker Studio, Google Sheets ou des plateformes SaaS spécialisées permettent de créer ces heatmaps.
 
 ---
 
-## Définition : qu'est-ce qu'un audit SEO par heatmap ?
+## Qu'est-ce qu'un audit SEO par heatmap et en quoi diffère-t-il d'un audit classique ?
 
-Un heatmap SEO Audit représente une évolution majeure dans la présentation des résultats d'analyse SEO. 
-Contrairement aux rapports traditionnels exprimés en taux d'erreur, cette méthode propose "une autre façon d'Analyser les résultats, de façon très visuelle, en calculant des scores de performances"
-. Cette approche transforme les centaines de points de contrôle techniques et de Contenu en tableau de bord visuel utilisant un code couleur intuitif.
+Un heatmap SEO audit est une représentation visuelle des résultats d'une analyse SEO complète. Il ne suit pas les clics ou le scroll des utilisateurs comme le font Hotjar ou Crazy Egg. Il synthétise des centaines de points de contrôle — indexation, [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html), qualité du contenu, données structurées — sous forme de zones colorées : rouge pour critique, orange pour à améliorer, vert pour conforme.
 
-L'objectif principal diffère fondamentalement des heatmaps comportementales comme Hotjar qui suivent les actions des utilisateurs. Ici, la heatmap synthétise les données d'Audit pour créer une vue d'ensemble stratégique. 
-Le score de performances est calculé comme "le nombre de pages (ou de liens) SANS erreur divisé par le nombre de pages (ou de liens) étudié(e)s, exprimé en pourcentage"
-, permettant une évaluation immédiate de la santé SEO globale.
+L'objectif est de remplacer le tableur classique de 200 lignes par un dashboard lisible en quelques secondes. Selon Antoine Blot, expert SEO et marketing à Montréal, cette approche s'inscrit dans une logique de diagnostic à 360° couvrant l'infrastructure technique, la sémantique, l'autorité et la [Visibilité IA](https://blotmkt.com/ia/ia-seo-geo/visibilite-ia.html) (GEO). Moz recommande d'ailleurs de structurer tout audit autour de catégories pondérées pour faciliter la priorisation (Source : Moz, 2024).
 
-Cette visualisation transforme un rapport d'Audit complexe en dashboard actionnable, remplaçant les tableaux Excel interminables par une représentation graphique où les zones problématiques apparaissent immédiatement en rouge ou orange, facilitant ainsi la prise de décision stratégique.
+## Comment une heatmap visuelle peut-elle représenter les données d'un audit SEO ?
 
-## La mécanique : visualiser les scores de votre audit
+Le processus débute par un audit standard qui attribue un score à chaque catégorie : SEO technique (25 %), qualité du contenu (25 %), performance CWV, balisage Schema, optimisation on-page. Chaque catégorie reçoit un poids reflétant son impact sur le référencement global.
 
-Le processus de création d'un heatmap SEO audit commence par l'évaluation standardisée de différentes catégories de performance. 
-Ces évaluations génèrent "un score de 0 à 100 basé sur le respect des meilleures pratiques SEO on-page" et "le rapport détaille exactement quels Facteurs contribuent positivement ou négativement au score"
-.
+La heatmap agrège ensuite ces scores pondérés dans une grille visuelle. Chaque grande catégorie devient une zone colorée proportionnelle à son importance. Le détail reste accessible : en explorant la zone Performance affichée en rouge, on découvre par exemple un LCP supérieur à 4 secondes ou un CLS instable. Google confirme que le LCP doit rester sous 2,5 secondes pour offrir une bonne expérience utilisateur (Source : Google Developers, 2024). Ce système de couches transforme une masse de données en un outil de navigation intuitif.
 
-La pondération des catégories suit généralement cette répartition : SEO Technique (25%), Qualité du contenu (25%), SEO On-Page (20%), Schema/[Données structurées](https://blotmkt.comhttps://blotmkt.com/ia/definition/donnees-structurees.html.html) (10%), Performance CWV (10%), images (5%), et Préparation IA (5%). Cette pondération permet d'attribuer une importance relative à chaque domaine d'analyse.
+## Quels sont les avantages concrets d'un rapport d'audit SEO sous forme de heatmap ?
 
-Les outils modernes comme SEMrush permettent de "générer un rapport d'[Audit SEO technique](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-technique.html.html) visuel vous montrant très vite les erreurs techniques" avec une interface où vous pouvez rapidement identifier les problèmes prioritaires
-. La heatmap agrège ces scores pondérés pour produire une vue synthétique où chaque zone colorée représente un niveau de performance spécifique.
+Le premier bénéfice est la priorisation immédiate. Les zones rouges captent l'attention et indiquent où concentrer les ressources pour un impact maximal. Fini le temps perdu à parcourir un export de crawler ligne par ligne.
 
-Le détail reste accessible par Exploration interactive : cliquer sur une zone révèle les sous-points spécifiques, permettant de descendre du niveau stratégique au niveau opérationnel tout en conservant le contexte global.
+Le deuxième avantage concerne la communication. Présenter un tableau rouge-orange-vert à un directeur marketing ou à un comité de direction ne demande aucune explication technique. Le message passe en 30 secondes. Une étude de SEMrush souligne que les rapports visuels augmentent significativement l'adhésion des parties prenantes aux recommandations SEO (Source : SEMrush, 2024).
 
-## Les bénéfices : pourquoi passer à un rapport d'audit visuel ?
+Troisième gain : l'alignement des équipes. Développeurs, rédacteurs et marketeurs partagent un support unique. Chacun voit ses responsabilités associées à une couleur et un niveau d'urgence. Quatrième atout : le gain de temps. Un rapport visuel réduit de moitié le temps d'analyse par rapport à un document textuel détaillé.
 
-La priorisation immédiate constitue le premier avantage majeur. 
-Plutôt que de "parcourir des tableaux de Données sans fin ou des rapports de suivi de classement déconnectés, vous obtenez une vue codée par couleur de vos performances sur une carte"
-. Cette visualisation permet d'identifier instantanément où concentrer les efforts pour le plus grand impact SEO.
+## Quels outils ou templates permettent de créer un heatmap SEO audit ?
 
-La communication avec les parties prenantes non techniques se trouve considérablement simplifiée. 
-Les heatmaps permettent de "livrer des rapports visuels faciles à comprendre pour les clients" et "aident à prouver le ROI, justifier votre stratégie SEO et mettre en évidence les progrès réalisés dans des zones de service spécifiques"
-. Cette clarté visuelle facilite les présentations aux décideurs marketing ou direction générale.
+Plusieurs approches coexistent. Des plateformes SaaS proposent désormais des audits complets avec interface de type heatmap intégrée, parfois déclenchables via une simple commande. Ces outils automatisent la collecte de données en se connectant aux API de Google Search Console et PageSpeed Insights.
 
-Le gain de temps opérationnel représente un bénéfice substantiel. 
-Les outils modernes "retournent un score SEO global, une liste de tâches priorisée et un rapport détaillé" permettant d'"implémenter d'abord les corrections à fort impact et suivre les victoires rapides"
-. Cette approche structurée optimise l'allocation des ressources techniques et éditoriales.
+Pour une approche sur mesure, Google Looker Studio ou Google Sheets suffisent. La méthode consiste à établir un checklist d'audit structuré — comme ceux proposés par Ahrefs ou Moz — puis à appliquer des règles de mise en forme conditionnelle aux scores obtenus. Le vert s'affiche au-dessus de 80 %, l'orange entre 50 et 79 %, le rouge en dessous de 50 %.
 
-L'alignement des équipes devient naturel grâce au support visuel partagé, permettant aux équipes techniques, Contenu et marketing de travailler sur les mêmes priorités clairement identifiées.
+| Outil | Type | Automatisation | Coût |
+| :--- | :--- | :--- | :--- |
+| Google Looker Studio | Dashboard personnalisé | Connexion API manuelle | Gratuit |
+| Google Sheets | Template simple | Mise en forme conditionnelle | Gratuit |
+| Plateformes SaaS spécialisées | Audit intégré | Collecte automatisée | Payant |
 
-## Outils et templates pour générer votre heatmap SEO audit
+## Comment interpréter les couleurs d'une heatmap d'audit pour prioriser les actions ?
 
-Les plateformes SaaS spécialisées émergent avec des interfaces dédiées aux heatmaps SEO. 
-Ces solutions permettent de "rechercher le nom d'une entreprise, sélectionner jusqu'à 3 mots-clés suggérés ou ajouter les vôtres, puis sélectionner la zone que vous souhaitez couvrir" et "en environ une minute votre rapport de classement local heatmap gratuit apparaîtra"
-.
+Le rouge signale les freins majeurs : problèmes d'indexation, erreurs de rendu JavaScript, Core Web Vitals en échec. Ces éléments bloquent la performance globale et exigent une intervention prioritaire.
 
-Pour les solutions personnalisées, 
-il est possible "d'intégrer les données SE Ranking avec Looker Studio pour construire des tableaux de bord SEO dynamiques, visuellement riches et personnalisables" en utilisant "des modèles pré-construits pour examiner les performances des concurrents, surveiller les profils de backlinks, suivre les résultats d'Audit de site web"
-.
+L'orange identifie les opportunités d'optimisation à fort potentiel. Ce sont souvent des quick wins : balises title à reformuler, [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) manquantes, maillage interne incomplet. Le ratio effort-impact y est généralement excellent.
 
-La méthode DIY consiste à utiliser des checklists d'audit existantes et d'appliquer des règles de mise en forme conditionnelle. Les templates disponibles incluent des solutions Google Sheets avec scoring automatique basé sur les bonnes pratiques SEO reconnues.
+Le vert confirme les acquis à maintenir et surveiller. Ces zones servent aussi de référence pour corriger les sections défaillantes.
 
-Les solutions avancées "collectent des données essentielles avec l'API de SE Ranking" et permettent d'"automatiser la collecte de données, générer des rapports à grande échelle et intégrer tout cela dans vos systèmes BI, rapports ou applications"
-, offrant ainsi une intégration complète dans l'écosystème marketing existant.
-
-## Lecture et plan d'action : interpréter votre heatmap
-
-L'interprétation suit une logique de criticité croissante. Le rouge indique les actions critiques nécessitant une intervention immédiate : problèmes d'indexation, erreurs techniques majeures, ou [Core Web Vitals](https://blotmkt.comhttps://blotmkt.com/ia/audit/core-web-vitals.html.html) défaillants. Ces éléments représentent des freins directs à la performance SEO et doivent être traités en priorité absolue.
-
-La classification suit généralement une approche "Erreurs / Avertissements / Notes" avec "une méthode de scoring (ex: ICE)" pour éviter de "poursuivre les scores et plutôt se concentrer sur des recommandations contextualisées et actionnables"
-.
-
-L'orange signale les opportunités d'optimisation à fort potentiel. Ces éléments constituent souvent des quick wins avec un excellent ratio effort/impact : optimisation des Balises meta, amélioration du maillage interne, ou enrichissement du contenu existant.
-
-Le vert représente les points forts à maintenir et surveiller. Ces éléments performants peuvent servir d'exemple pour corriger les autres sections et démontrent l'efficacité des actions déjà mises en place.
-
-Pour construire votre feuille de route, "le composant le plus réutilisable est souvent la table de priorisation" qui permet de croiser la couleur (criticité) avec l'impact SEO global pour une efficacité maximale
-.
+La feuille de route optimale croise deux dimensions : la couleur (criticité) et le poids de la catégorie (impact SEO global). Un problème rouge dans une catégorie pesant 25 % du score passe avant un problème rouge dans une catégorie à 10 %. Cette matrice criticité-impact constitue le socle d'une roadmap priorisée selon la loi de Pareto.
 
 ## Questions fréquentes
 
-### Comment un audit SEO par heatmap diffère-t-il d'un audit classique ?
-L'Audit heatmap transforme les données brutes d'un audit traditionnel en représentation visuelle colorée, remplaçant les longs tableaux Excel par un dashboard intuitif où les priorités apparaissent immédiatement via un code couleur rouge/orange/vert.
+### Comment faire un rapport d'audit SEO visuel avec une heatmap ?
+Commencez par auditer votre site selon des catégories pondérées : technique, contenu, performance, autorité. Attribuez un score de 0 à 100 à chaque sous-catégorie. Importez ces scores dans Google Looker Studio ou Google Sheets, puis appliquez une mise en forme conditionnelle avec trois paliers de couleur. Le résultat est un tableau de bord lisible instantanément par toute votre organisation, sans compétence technique requise.
 
-### Quels outils permettent de créer un heatmap SEO audit ?
-Les solutions incluent des plateformes SaaS spécialisées, des intégrations avec Google Looker Studio ou des templates Google Sheets avec mise en forme conditionnelle basée sur les scores d'audit et les bonnes pratiques SEO reconnues.
+### Quel est un bon score global pour un heatmap SEO audit ?
+Un score global supérieur à 80 % indique un site en bonne santé SEO. Entre 50 et 79 %, des optimisations significatives sont nécessaires. En dessous de 50 %, des problèmes structurels freinent l'indexation ou l'expérience utilisateur. L'important reste de croiser le score global avec le détail par catégorie : un score moyen de 75 % peut masquer une performance technique critique à 30 % compensée par un contenu solide.
 
-### Comment prioriser les actions selon les couleurs de la heatmap ?
-Traitez d'abord le rouge (critiques : Indexation, vitesse), puis l'orange (opportunités : contenu, maillage), enfin maintenez le vert (acquis). Croisez la couleur avec l'impact métier pour optimiser l'allocation des ressources.
+### Existe-t-il un outil d'audit SEO gratuit et visuel ?
+Google Looker Studio combiné aux données de Google Search Console et PageSpeed Insights permet de créer gratuitement un dashboard d'audit visuel. Google Sheets avec mise en forme conditionnelle offre une alternative encore plus simple. Ces solutions demandent une configuration manuelle initiale mais fournissent un rapport heatmap fonctionnel sans abonnement payant.
 
 ---
 
-*Sources : Screaming Frog (2024), Merchynt (2024), EmbedSocial (2024), SE Ranking (2024), Drujok Web (2024)*
+*Sources : Moz, "The Beginner's Guide to SEO — SEO Audit", 2024 ; Google Developers, "Web Vitals — LCP", 2024 ; SEMrush, "How to Create an SEO Report", 2024*
 
 ```json
 {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
+      "@type": "TechArticle",
       "headline": "Heatmap SEO audit : la méthode visuelle pour diagnostiquer votre site",
       "description": "Découvrez l'audit SEO par heatmap. Visualisez instantanément les points forts et faibles de votre site (technique, contenu, performance) pour agir efficacement.",
       "url": "https://blotmkt.com/ia/audit/heatmap-seo-audit",
-      "datePublished": "2026-03-09 06:51",
-      "dateModified": "2026-03-09 06:51",
+      "datePublished": "2026-03-27 20:37",
+      "dateModified": "2026-03-27 20:37",
       "author": {
         "@type": "Person",
         "name": "Antoine Blot",
@@ -150,7 +116,7 @@ Traitez d'abord le rouge (critiques : Indexation, vitesse), puis l'orange (oppor
         "name": "BlotMKT",
         "url": "https://blotmkt.com"
       },
-      "inLanguage": "fr-FR",
+      "inLanguage": "fr-CA",
       "keywords": "visual SEO report, SEO audit dashboard, SEO scoring, rapport d'audit SEO visuel, outil audit SEO, checklist audit technique, priorisation SEO"
     },
     {
@@ -158,44 +124,28 @@ Traitez d'abord le rouge (critiques : Indexation, vitesse), puis l'orange (oppor
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Qu'est-ce qu'un Audit SEO par heatmap et en quoi diffère-t-il d'un audit classique ?",
+          "name": "Comment faire un rapport d'audit SEO visuel avec une heatmap ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Un Audit SEO par heatmap transforme les données complexes d'un audit traditionnel en représentation visuelle avec un code couleur rouge/orange/vert, remplaçant les tableaux Excel de centaines de lignes par un dashboard où les priorités apparaissent immédiatement."
+            "text": "Commencez par auditer votre site selon des catégories pondérées : technique, contenu, performance, autorité. Attribuez un score de 0 à 100 à chaque sous-catégorie. Importez ces scores dans Google Looker Studio ou Google Sheets, puis appliquez une mise en forme conditionnelle avec trois paliers de couleur. Le résultat est un tableau de bord lisible instantanément par toute votre organisation, sans compétence technique requise."
           }
         },
         {
           "@type": "Question",
-          "name": "Comment une heatmap visuelle peut-elle représenter les données d'un audit SEO ?",
+          "name": "Quel est un bon score global pour un heatmap SEO audit ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "La heatmap agrège les scores pondérés de différentes catégories SEO (technique 25%, contenu 25%, performance 10%) pour créer des zones colorées où chaque couleur indique un niveau de criticité spécifique et actionnable."
+            "text": "Un score global supérieur à 80 % indique un site en bonne santé SEO. Entre 50 et 79 %, des optimisations significatives sont nécessaires. En dessous de 50 %, des problèmes structurels freinent l'indexation ou l'expérience utilisateur. L'important reste de croiser le score global avec le détail par catégorie : un score moyen de 75 % peut masquer une performance technique critique à 30 % compensée par un contenu solide."
           }
         },
         {
           "@type": "Question",
-          "name": "Quels sont les avantages concrets d'un rapport d'Audit SEO sous forme de heatmap ?",
+          "name": "Existe-t-il un outil d'audit SEO gratuit et visuel ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Priorisation immédiate des actions critiques, communication simplifiée avec les non-experts SEO, gain de temps d'Analyse, et alignement des équipes techniques et marketing sur les mêmes priorités visuellement identifiées."
+            "text": "Google Looker Studio combiné aux données de Google Search Console et PageSpeed Insights permet de créer gratuitement un dashboard d'audit visuel. Google Sheets avec mise en forme conditionnelle offre une alternative encore plus simple. Ces solutions demandent une configuration manuelle initiale mais fournissent un rapport heatmap fonctionnel sans abonnement payant."
           }
         },
-        {
-          "@type": "Question",
-          "name": "Quels outils ou templates permettent de créer un heatmap SEO audit ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Plateformes SaaS spécialisées avec interfaces visuelles, intégrations Google Looker Studio avec SE Ranking, templates Google Sheets avec mise en forme conditionnelle, ou API connectées aux outils Google (Search Console, PageSpeed Insights)."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Comment interpréter les couleurs d'une heatmap d'audit pour prioriser les actions ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Rouge = actions critiques immédiates (indexation, Core Web Vitals), Orange = opportunités d'Optimisation à fort potentiel (quick wins), Vert = points forts à maintenir. Croisez couleur et poids de catégorie pour maximiser l'efficacité."
-          }
-        }
       ]
     }
   ]
@@ -204,50 +154,10 @@ Traitez d'abord le rouge (critiques : Indexation, vitesse), puis l'orange (oppor
 
 ---
 
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
 ## Articles connexes
 
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/analyse-de-logs-seo.html.html)
-- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html)
-- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-mobile-first.html.html)
-- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html)
-- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-montreal.html.html)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
+- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)
+- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first.html)
+- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique.html)
+- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal.html)

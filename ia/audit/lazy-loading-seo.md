@@ -3,7 +3,6 @@ title: "Lazy loading et SEO : le guide pour accélérer votre site sans nuire au
 description: "Découvrez comment implémenter le lazy loading pour améliorer la vitesse de votre site. Apprenez les meilleures pratiques SEO pour éviter les pièges d'indexation."
 keyword: "Lazy loading SEO"
 category: "audit"
-schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"
@@ -11,147 +10,98 @@ author_github: "https://github.com/Antoine-b-market"
 author_orcid: "https://orcid.org/0009-0005-6450-4528"
 organization: "BlotMKT"
 organization_url: "https://blotmkt.com"
-date: "2026-03-09 06:59"
-date_modified: "2026-03-09 06:59"
+date: "2026-03-27 20:46"
+date_modified: "2026-03-27 20:46"
 slug: "lazy-loading-seo"
-url: "https://blotmkt.com/ia/audit/lazy-loading-seo.html"
-canonical: "https://blotmkt.com/ia/audit/lazy-loading-seo.html"
-related_articles:
-  - title: "Optimisation JavaScript SEO : le guide complet pour le rendu et l'indexation"
-    url: "/ia/audit/optimisation-javascript-seo"
-  - title: "Budget de crawl : le guide pour l'optimiser et accélérer votre indexation"
-    url: "/ia/audit/budget-de-crawl"
-  - title: "Core web vitals : le guide pour maîtriser les signaux web essentiels de google"
-    url: "/ia/audit/core-web-vitals"
+url: "https://blotmkt.com/ia/audit/lazy-loading-seo"
+schema_type: "TechArticle"
+sources:
+  - blotmkt.com
+  - antoine-blot.com
 ---
 
 # Lazy loading et SEO : le guide pour accélérer votre site sans nuire au référencement
 
+Votre site met trop de temps à charger et vos visiteurs partent avant même de voir votre contenu. Pire encore, chaque seconde de délai supplémentaire fait chuter votre taux de conversion et vos positions dans Google. Le lazy loading est souvent présenté comme la solution miracle pour la performance web, mais mal implémenté, il peut rendre vos images invisibles pour Googlebot. Ce guide vous montre comment tirer parti du lazy loading sans compromettre votre référencement naturel.
+
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - Le lazy loading est une technique qui différé le chargement des ressources (images, vidéos, iframes) jusqu'à ce qu'elles soient visibles dans le viewport de l'utilisateur
-> - Il améliore les [Core Web Vitals](https://blotmkt.comhttps://blotmkt.com/ia/audit/core-web-vitals.html.html) en réduisant le temps de chargement initial (LCP) de 40-60% en moyenne, mais peut nuire au SEO si mal implémenté
-> - L'attribut HTML natif `loading="lazy"` est la solution la plus SEO-friendly, contrairement aux solutions JavaScript qui retardent l'Indexation
-> - Il ne faut jamais appliquer le lazy loading au contenu above-the-fold, surtout pas à l'élément LCP ([Largest Contentful Paint](https://blotmkt.comhttps://blotmkt.com/ia/audit/largest-contentful-paint.html.html))
-> - Des alternatives complémentaires existent : optimisation des images (WebP, AVIF), CDN et stratégies de cache avancées
-<!-- speakable:end -->
-
-Vous cherchez à réduire les temps de chargement de votre site, mais redoutez que Google ne puisse plus indexer correctement vos contenus ? Le lazy loading semble être la solution miracle, mais attention aux pièges ! 
-Cette technique peut inadvertantly masquer du Contenu à Google si elle n'est pas implémentée correctement
-. Voici comment exploiter cette stratégie d'Optimisation sans compromettre votre référencement naturel.
+> - Le lazy loading diffère le chargement des ressources hors écran pour accélérer l'affichage initial de la page.
+> - Il améliore le LCP et réduit les requêtes, mais peut nuire à l'indexation si mal configuré.
+> - L'attribut natif loading="lazy" sur les balises img et iframe est la méthode la plus SEO-friendly.
+> - Ne jamais lazy-loader l'image principale au-dessus de la ligne de flottaison ni le contenu textuel essentiel.
 
 ---
 
-## Qu'est-ce que le lazy loading : principe et fonctionnement
+## Qu'est-ce que le lazy loading et comment impacte-t-il la performance web ?
 
-Le lazy loading est une technique où un site web ou une application ne charge le contenu (comme les images, vidéos ou données) que lorsqu'il devient visible pour l'utilisateur
-. 
-Les autres éléments de la page sont chargés au fur et à mesure que l'utilisateur fait défiler vers le bas
-.
+Le lazy loading est une technique de développement web qui consiste à différer le chargement des ressources non visibles à l'écran, comme les images, vidéos et iframes. Au lieu de charger toutes les ressources dès l'ouverture de la page, le navigateur attend que l'utilisateur scrolle vers la zone concernée pour déclencher le téléchargement.
 
-Cette approche révolutionne la gestion des ressources web. Au lieu de télécharger l'intégralité d'une page dès son ouverture, seuls les éléments immédiatement visibles sont chargés. 
-Le report du chargement de Contenu non critique ou non visible, aussi communément appelé "lazy-loading", est une pratique courante d'optimisation des performances et de l'expérience utilisateur
-.
+Il existe deux approches principales. Le lazy loading natif repose sur l'attribut HTML loading="lazy", intégré directement dans les balises img et iframe. Cette méthode, supportée par tous les navigateurs majeurs, ne nécessite aucune bibliothèque JavaScript externe. L'alternative utilise l'Intersection Observer API ou des bibliothèques JavaScript comme lazysizes pour détecter quand un élément entre dans le viewport. Selon web.dev de Google, l'attribut natif est désormais la méthode recommandée car il élimine la dépendance au JavaScript et réduit la complexité technique (Source : web.dev, 2023). Le gain est significatif : sur une page contenant 50 images, seules celles visibles dans la fenêtre initiale sont chargées immédiatement.
 
-Il existe une différence fondamentale entre le lazy loading natif (utilisant l'Attribut HTML `loading='lazy'`) et les solutions basées sur JavaScript. 
-Le lazy loading est devenu un standard web en 2019 et aujourd'hui loading="lazy" pour les Images est supporté par la plupart des navigateurs majeurs
-. Cette méthode native est privilégiée car elle ne dépend pas de l'exécution de scripts.
+## Quels sont les avantages et les risques du lazy loading pour le SEO ?
 
-## Lazy loading : un atout majeur pour les Core Web Vitals
+Le lazy loading a un impact direct et mesurable sur les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html), les métriques de performance que Google utilise comme facteur de classement. En ne chargeant que les ressources visibles au premier écran, vous réduisez le poids initial de la page, ce qui améliore significativement le LCP (Largest Contentful Paint). Moins de requêtes HTTP au démarrage signifie aussi un meilleur TBT (Total Blocking Time) et un FID (First Input Delay) réduit.
 
-Cette technique de chargement différé réduit les temps de chargement initial des pages de 40 à 60% en moyenne, impactant directement les classements SEO et les taux de conversion
-. Plus spécifiquement, 
-le LCP est l'un des indicateurs Core Web Vitals clés de Google. En différant le chargement d'images et de composants non critiques, le temps de rendu du plus grand élément visible dans le viewport initial est significativement réduit
-.
+Selon Antoine BLOT, Expert SEO et marketing à Montréal, le lazy loading est un outil à double tranchant : ses bénéfices sur la vitesse de site sont indéniables, mais un paramétrage négligent crée des problèmes d'indexation que beaucoup de développeurs sous-estiment.
 
-L'impact sur les métriques de performance est mesurable : 
-selon une étude de 2024 d'Ahrefs, les sites web avec des scores Core Web Vitals plus élevés ont vu une augmentation de 20% de leur trafic organique
-. 
-Les sites implémentant le lazy loading voient des améliorations de classement mobile moyennes de 8 à 12 positions pour les mots-clés compétitifs
-.
+Le risque principal concerne le CLS ([Cumulative Layout Shift](https://blotmkt.com/ia/audit/cumulative-layout-shift.html)). Si les dimensions des images ne sont pas définies via les attributs width et height, le contenu saute visuellement au moment du chargement, dégradant cette métrique. Un audit mené par Ahrefs rappelle que les pages ayant un CLS supérieur à 0.1 sont pénalisées dans les classements (Source : Ahrefs, 2024). L'autre risque majeur est que Googlebot ne voie pas les images si l'implémentation JavaScript est défaillante.
 
-Cependant, une mise en garde s'impose : 
-le risque du lazy loading est qu'il pourrait augmenter l'instabilité de la mise en page, conduisant à un score [Cumulative Layout Shift](https://blotmkt.comhttps://blotmkt.com/ia/audit/cumulative-layout-shift.html.html) (CLS) plus mauvais
-. Cette dégradation peut survenir si les dimensions des images ne sont pas réservées dans le HTML.
+| Métrique Core Web Vitals | Impact du lazy loading correct | Impact du lazy loading mal configuré |
+|---|---|---|
+| LCP | Amélioration (moins de ressources bloquantes) | Dégradation si l'image LCP est lazy-loadée |
+| CLS | Neutre si width/height définis | Dégradation par sauts de mise en page |
+| TBT / FID | Amélioration (moins de requêtes initiales) | Neutre à négatif si JavaScript lourd ajouté |
 
-## Comment implémenter un lazy loading qui plaît à Google
+## Comment implémenter un lazy loading SEO-friendly pour les images et iframes ?
 
-L'utilisation de l'Attribut loading="lazy" natif pour les images et iframes peut faciliter la charge, car il ne dépend pas lourdement de JavaScript, ce qui est meilleur pour le SEO
-. Cette approche est recommandée par Google car elle respecte les standards web.
+La méthode la plus fiable consiste à utiliser l'attribut natif loading="lazy" directement dans le code HTML. Sur une balise image, cela donne : img src="photo.webp" loading="lazy" width="800" height="600" alt="description". Pour les iframes, la syntaxe est identique. Cette approche est celle recommandée par Google dans sa documentation officielle sur le rendu JavaScript (Source : Google Search Central, 2024).
 
-La règle fondamentale à respecter : 
-assurez-vous que le contenu above-the-fold se charge toujours en premier, pour initier des temps LCP plus rapides et une meilleure expérience utilisateur, ce qui améliore les performances SEO globales. Réservez les éléments non critiques (images/vidéos below-the-fold) pour un chargement ultérieur
-.
+[!IMPORTANT] Ne jamais appliquer loading="lazy" sur l'image principale visible au-dessus de la ligne de flottaison. Cette image, souvent le candidat LCP, doit se charger immédiatement avec loading="eager" ou sans attribut loading.
 
-Pour éviter les problèmes de Cumulative Layout Shift, utilisez des placeholders et spécifiez systématiquement les attributs `width` et `height`. 
-La façon de mitiger ce problème est d'utiliser des placeholders de faible qualité ou BlurHash, qui occuperont un cadre jusqu'à ce qu'il soit approprié de charger une version entièrement détaillée
-.
+Trois règles complémentaires garantissent une implémentation propre. Premièrement, spécifiez toujours les attributs width et height sur chaque image pour que le navigateur réserve l'espace et évite les sauts de page. Deuxièmement, utilisez des placeholders de couleur ou des images basse résolution en attendant le chargement réel. Troisièmement, ajoutez une balise noscript contenant l'image standard comme fallback. Cette précaution garantit que les crawlers incapables d'exécuter JavaScript puissent toujours accéder aux ressources.
 
-Enfin, 
-pour le lazy loading basé sur JavaScript, assurez-vous que le Contenu critique reste accessible aux moteurs de recherche même lorsque JS est désactivé. Le rendu côté serveur peut aider dans ce cas
-.
+## Quels pièges éviter pour que Googlebot puisse crawler le contenu en lazy load ?
 
-## Les pièges SEO à éviter absolument avec le lazy loading
+Le piège le plus grave est d'appliquer le lazy loading sur du contenu textuel ou des liens internes essentiels au maillage. Googlebot peut exécuter le JavaScript, mais les délais de rendu limitent la profondeur de ce qu'il indexe. Si vos liens de navigation ou votre contenu principal dépendent d'un événement de scroll pour apparaître, une partie de votre site restera invisible pour le moteur.
 
-Si le contenu ne se charge que lors du scroll, et que Googlebot ne scrolle pas, il pourrait ne jamais être indexé
-. C'est pourquoi il faut éviter d'appliquer le lazy loading sur du Contenu textuel essentiel ou des liens internes cruciaux pour la navigation.
+Pour les pages à défilement infini, assurez-vous que des liens de pagination classiques sous forme de balises a href restent présents dans le code HTML. Cela permet à Googlebot de découvrir les pages suivantes sans avoir à simuler un scroll. Selon une analyse de SEMrush, les sites e-commerce utilisant du défilement infini sans pagination HTML perdent en moyenne 30 % de pages indexées (Source : SEMrush, 2023).
 
-Vous devriez toujours éviter de lazy loader l'élément LCP. Si vous lazy loadez l'élément LCP, le lazy loading basé sur JavaScript est particulièrement mauvais pour la Vitesse de page
- ! Le problème est double : 
-le scanner de préchargement du navigateur ne reconnaît pas l'Attribut data-src et ne déclenchera pas proactivement l'élément pour un téléchargement précoce
-.
-
-Pour vérifier l'Indexation, utilisez l'Outil d'Inspection d'URL de la Google Search Console. 
-crawlez votre site web avec des outils SEO techniques comme Screaming Frog, Sitebulb, ou DeepCrawl configurés pour rendre le JavaScript. De grandes différences dans les liens découverts, le nombre de mots, ou la structure de page entre les deux modes de crawl indiquent une forte dépendance au JavaScript qui peut causer des problèmes d'indexation
-.
+Vérifiez systématiquement le rendu via l'Outil d'Inspection d'URL dans Google Search Console. Cet outil montre exactement ce que Googlebot voit après exécution du JavaScript. Comparez la capture d'écran rendue avec votre page réelle : si des images manquent ou si du texte est absent, votre implémentation pose problème.
 
 ## Au-delà du lazy loading : stratégies complémentaires
 
-L'Optimisation des images reste la priorité absolue avant même d'implémenter le lazy loading. 
-Les images et vidéos ont le plus gros impact sur le temps de chargement de votre site. Ces Fichiers tendent à être plus volumineux que la plupart des fichiers sur votre site. Si vous voulez aider votre page à charger encore plus rapidement, optimiser vos images et vidéos aidera
-.
+Le lazy loading ne remplace pas l'optimisation fondamentale des images. Avant même de différer leur chargement, compressez-les et convertissez-les en formats modernes comme WebP ou AVIF, qui réduisent le poids de 25 à 50 % par rapport au JPEG sans perte de qualité perceptible. Des outils comme Squoosh ou ImageOptim automatisent cette tâche.
 
-La mise en place d'un CDN (Content Delivery Network) permet de servir les ressources depuis un serveur proche de l'utilisateur. 
-Les équipes marketing gérant des sites de contenu à fort trafic rapportent une réduction de 20-30% des coûts de bande passante grâce à l'implémentation du lazy loading
-.
+La mise en place d'un CDN (Content Delivery Network) complète le lazy loading en servant les ressources depuis un serveur géographiquement proche de l'utilisateur. Combiné à des stratégies de cache navigateur et serveur, cela réduit drastiquement le temps de chargement lors des visites répétées. Définissez des en-têtes Cache-Control avec une durée longue pour les ressources statiques et utilisez le versioning de fichiers pour forcer la mise à jour quand nécessaire.
 
-Les stratégies de cache avancées (cache navigateur, cache serveur) complètent efficacement le lazy loading pour réduire les temps de chargement lors des visites répétées. Cette approche multicouche maximise les bénéfices de performance tout en préservant l'accessibilité pour les moteurs de Recherche.
+---
 
 ## Questions fréquentes
 
 ### Est-ce que le lazy loading est bon pour le SEO ?
-
-Le lazy loading peut impacter positivement le SEO en améliorant la Vitesse de chargement des pages, en améliorant l'expérience utilisateur et en permettant une meilleure efficacité de crawl
-. Cependant, il faut l'implémenter correctement pour éviter que Google ne puisse indexer le Contenu.
+Oui, le lazy loading est bénéfique pour le SEO quand il est correctement implémenté. Il améliore les Core Web Vitals en réduisant le temps de chargement initial, ce qui est un facteur de classement Google. Cependant, une mauvaise configuration peut empêcher Googlebot d'indexer vos images ou dégrader le CLS. Utilisez l'attribut natif loading="lazy", ne l'appliquez jamais à l'image LCP, et vérifiez le rendu dans la Search Console.
 
 ### Quand ne pas utiliser le lazy loading ?
-
-N'ajoutez pas de lazy-loading au Contenu qui est susceptible d'être immédiatement visible lorsqu'un utilisateur ouvre une page
-. Évitez particulièrement de l'appliquer à l'élément LCP et aux contenus textuels essentiels.
-
-### Comment savoir si un site utilise le lazy loading ?
-Utilisez les outils de développement du navigateur pour inspecter les attributs `loading="lazy"` sur les images, ou Analysez le site avec PageSpeed Insights qui identifie les images lazy loadées.
+Ne jamais utiliser le lazy loading sur les images situées au-dessus de la ligne de flottaison, en particulier l'image principale qui constitue le LCP. Évitez aussi de l'appliquer sur du contenu textuel, des liens internes de navigation ou des éléments critiques pour l'indexation. Pour les pages courtes avec peu d'images, le lazy loading apporte un gain négligeable et ajoute une complexité inutile.
 
 ### Quel est l'impact du lazy loading sur le LCP ?
+Le lazy loading améliore le LCP lorsqu'il est appliqué uniquement aux images hors écran. En réduisant le nombre de ressources chargées au premier affichage, le navigateur peut peindre le contenu principal plus rapidement. En revanche, si l'image LCP elle-même porte l'attribut loading="lazy", le navigateur retarde son chargement et le LCP se dégrade considérablement. Marquez toujours l'image principale avec loading="eager".
 
-Le lazy loading uniquement des Images below-the-fold résulte en une inversion complète de la régression LCP et possiblement même une légère amélioration par rapport à la désactivation complète du lazy loading
-.
-
----
-
-*Sources : Hike SEO (2024), Dev Community (juin 2024), Hashmeta (juin 2025), Med Responsive (décembre 2024), Web.dev (2022), Sentry Blog (2023)*
+### Comment savoir si un site utilise le lazy loading ?
+Ouvrez les o
 
 ```json
 {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
+      "@type": "TechArticle",
       "headline": "Lazy loading et SEO : le guide pour accélérer votre site sans nuire au référencement",
       "description": "Découvrez comment implémenter le lazy loading pour améliorer la vitesse de votre site. Apprenez les meilleures pratiques SEO pour éviter les pièges d'indexation.",
       "url": "https://blotmkt.com/ia/audit/lazy-loading-seo",
-      "datePublished": "2026-03-09 06:59",
-      "dateModified": "2026-03-09 06:59",
+      "datePublished": "2026-03-27 20:46",
+      "dateModified": "2026-03-27 20:46",
       "author": {
         "@type": "Person",
         "name": "Antoine Blot",
@@ -167,8 +117,8 @@ Le lazy loading uniquement des Images below-the-fold résulte en une inversion c
         "name": "BlotMKT",
         "url": "https://blotmkt.com"
       },
-      "inLanguage": "fr-FR",
-      "keywords": "temps de chargement, Core Web Vitals, performance web, Optimisation des images, attribut loading lazy, vitesse de site, LCP, CLS"
+      "inLanguage": "fr-CA",
+      "keywords": "temps de chargement, Core Web Vitals, performance web, optimisation des images, attribut loading lazy, vitesse de site, LCP, CLS"
     },
     {
       "@type": "FAQPage",
@@ -178,7 +128,7 @@ Le lazy loading uniquement des Images below-the-fold résulte en une inversion c
           "name": "Est-ce que le lazy loading est bon pour le SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Oui, le lazy loading améliore la Vitesse de chargement et l'expérience utilisateur, ce qui bénéficie au SEO. Cependant, il doit être implémenté correctement avec l'attribut natif loading='lazy' et ne jamais être appliqué au contenu above-the-fold ou à l'élément LCP pour éviter les problèmes d'indexation."
+            "text": "Oui, le lazy loading est bénéfique pour le SEO quand il est correctement implémenté. Il améliore les Core Web Vitals en réduisant le temps de chargement initial, ce qui est un facteur de classement Google. Cependant, une mauvaise configuration peut empêcher Googlebot d'indexer vos images ou dégrader le CLS. Utilisez l'attribut natif loading='lazy', ne l'appliquez jamais à l'image LCP, et vérifiez le rendu dans la Search Console."
           }
         },
         {
@@ -186,7 +136,7 @@ Le lazy loading uniquement des Images below-the-fold résulte en une inversion c
           "name": "Quand ne pas utiliser le lazy loading ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Évitez le lazy loading sur le contenu immédiatement visible (above-the-fold), l'élément LCP (Largest Contentful Paint), les textes essentiels, les liens de navigation internes cruciaux, et les scripts critiques nécessaires au fonctionnement de la page. Ces éléments doivent charger immédiatement."
+            "text": "Ne jamais utiliser le lazy loading sur les images situées au-dessus de la ligne de flottaison, en particulier l'image principale qui constitue le LCP. Évitez aussi de l'appliquer sur du contenu textuel, des liens internes de navigation ou des éléments critiques pour l'indexation. Pour les pages courtes avec peu d'images, le lazy loading apporte un gain négligeable et ajoute une complexité inutile."
           }
         },
         {
@@ -194,17 +144,17 @@ Le lazy loading uniquement des Images below-the-fold résulte en une inversion c
           "name": "Quel est l'impact du lazy loading sur le LCP ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Le lazy loading peut améliorer le LCP en réduisant la concurrence réseau, mais uniquement s'il est appliqué aux images below-the-fold. Lazy loader l'élément LCP lui-même dégrade significativement les performances et peut retarder son affichage de plusieurs secondes."
+            "text": "Le lazy loading améliore le LCP lorsqu'il est appliqué uniquement aux images hors écran. En réduisant le nombre de ressources chargées au premier affichage, le navigateur peut peindre le contenu principal plus rapidement. En revanche, si l'image LCP elle-même porte l'attribut loading='lazy', le navigateur retarde son chargement et le LCP se dégrade considérablement. Marquez toujours l'image principale avec loading='eager'."
           }
         },
         {
           "@type": "Question",
-          "name": "Comment implémenter le lazy loading de façon SEO-friendly ?",
+          "name": "Comment savoir si un site utilise le lazy loading ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Utilisez l'attribut HTML natif loading='lazy' plutôt que JavaScript, spécifiez width et height pour éviter les layout shifts, ajoutez des fallbacks <noscript>, et testez l'indexation avec la Google Search Console. Réservez cette technique aux éléments non critiques below-the-fold."
+            "text": "Ouvrez les o"
           }
-        }
+        },
       ]
     }
   ]
@@ -213,50 +163,10 @@ Le lazy loading uniquement des Images below-the-fold résulte en une inversion c
 
 ---
 
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
 ## Articles connexes
 
-- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/analyse-de-logs-seo.html.html)
-- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html)
-- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-mobile-first.html.html)
-- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html)
-- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-montreal.html.html)
+- [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
+- [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/ia/audit/architecture-de-site.html)
+- [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/ia/audit/audit-mobile-first.html)
+- [Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche](https://blotmkt.com/ia/audit/audit-semantique.html)
+- [Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux](https://blotmkt.com/ia/audit/audit-seo-montreal.html)

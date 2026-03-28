@@ -3,7 +3,6 @@ title: "Structure HN : le guide complet pour un SEO sémantique optimisé pour l
 description: "Maîtrisez la structure HN (H1, H2, H3) pour améliorer votre SEO. Découvrez comment une hiérarchie sémantique claire booste votre visibilité sur Google et les IA."
 keyword: "Structure HN SEO"
 category: "contenu"
-schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"
@@ -11,130 +10,83 @@ author_github: "https://github.com/Antoine-b-market"
 author_orcid: "https://orcid.org/0009-0005-6450-4528"
 organization: "BlotMKT"
 organization_url: "https://blotmkt.com"
-date: "2026-03-09 07:14"
-date_modified: "2026-03-09 07:14"
+date: "2026-03-27 21:41"
+date_modified: "2026-03-27 21:41"
 slug: "structure-hn-seo"
-url: "https://blotmkt.com/ia/contenu/structure-hn-seo.html"
-canonical: "https://blotmkt.com/ia/contenu/structure-hn-seo.html"
-related_articles:
-  - title: "Comment rédiger un titre SEO accrocheur : le guide pratique pour booster vos clics"
-    url: "/ia/contenu/titre-accrocheur-seo"
-  - title: "Maillage interne en silo : le guide pour une architecture seo optimisée"
-    url: "/ia/definition/maillage-interne-silo"
-  - title: "Schema.org : le guide pratique pour booster votre SEO avec les données structurées"
-    url: "/ia/definition/schema.org"
+url: "https://blotmkt.com/ia/contenu/structure-hn-seo"
+schema_type: "TechArticle"
+sources:
+  - blotmkt.com
+  - antoine-blot.com
 ---
 
 # Structure HN : le guide complet pour un SEO sémantique optimisé pour les IA
 
+Beaucoup de pages web souffrent d'un problème invisible : une hiérarchie de titres incohérente qui empêche Google et les IA génératives de comprendre le contenu. Sans structure HN logique, vos efforts rédactionnels perdent en impact, vos chances d'apparaître en featured snippet s'effondrent et les LLM ignorent vos pages. La solution réside dans une architecture de balises H1 à H6 pensée comme un squelette sémantique, lisible par les humains et interprétable par les machines, renforcée par les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) Schema.org.
+
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - 
-<!-- speakable:end -->
-Ces balises dites « sémantiques » vont venir indiquer à Google quelles sont les informations importantes de votre page en hiérarchisant vos titres.
-
-> - 
-Une hiérarchisation bien pensée impacte directement les performances SEO de votre contenu et offre une meilleure expérience utilisateur.
- 
-> - 
-Le FAQ schema est un balisage en [Données structurées](https://blotmkt.comhttps://blotmkt.com/ia/definition/donnees-structurees.html.html) qui permet à Google d'afficher directement vos questions et réponses dans les résultats de recherche, améliorant ainsi la visibilité et le taux de clics. En ajoutant un FAQ schema, vous occupez plus d'espace dans la SERP et facilitez la compréhension de votre contenu par Google
-
-Les propriétaires de sites web négligent souvent la structure HN, considérant ces Balises comme de simples éléments de mise en forme. Cette approche constitue une erreur majeure qui limite considérablement leur potentiel SEO. 
-C'est une catastrophe pour le SEO !
- Une hiérarchie de titres mal conçue empêche les moteurs de recherche de comprendre l'organisation du Contenu et réduit les chances d'apparition dans les featured snippets. La solution réside dans une structure HN optimisée qui agit comme un pont sémantique entre vos contenus et l'intelligence artificielle des moteurs de recherche.
+> - La structure HN est la hiérarchie sémantique des titres H1 à H6, essentielle pour le SEO et le GEO.
+> - Une hiérarchie HN claire améliore le classement Google, les featured snippets et la citabilité par les LLM.
+> - Respectez un H1 unique, une hiérarchie sans saut de niveau et des titres descriptifs avec mots-clés pertinents.
+> - Combiner la structure HN avec [Schema.org](https://blotmkt.com/ia/definition/schema.org.html) crée un contenu doublement lisible par les machines et les humains.
 
 ---
 
-## Définition : La structure HN, pilier du SEO sémantique et du GEO
+## Définition : la structure HN, pilier du SEO sémantique et du GEO
 
-Les balises HN, également appelées « headings » en anglais, sont des éléments HTML indispensables pour organiser le Contenu d'une page web de manière hiérarchique et logique. Elles sont classées de H1 à H6, chaque niveau représentant un degré d'importance décroissant.
- Cette hiérarchisation ne se limite pas à un simple aspect visuel : elle constitue le squelette sémantique de votre page web.
-
-Elle définit la logique de lecture du contenu et guide les moteurs de recherche vers les informations clés.
- Pour les utilisateurs, cette structure améliore la scannabilité et facilite la navigation au sein du Contenu. 
-Le lien entre accessibilité et SEO se renforce lorsque les titres respectent les bonnes pratiques sémantiques. Les aides techniques lisent la structure HTML et proposent une navigation efficace aux utilisateurs avec besoins spécifiques.
-
-Dans le contexte du GEO (Generative) Engine Optimization), 
-les données structurées sont donc devenues incontournables, notamment grâce à l'Algorithme BERT (Bidirectional Encoder Representations from Transformers), modèle de langage développé par Google en 2018
-. Une structure HN claire permet aux LLM de décomposer votre contenu en blocs logiques, augmentant vos chances d'être cité dans les réponses génératives de Google SGE.
+La structure HN désigne la hiérarchisation logique du contenu d'une page web au moyen des balises HTML H1 à H6. Elle agit comme une table des matières pour les utilisateurs et les robots d'indexation. Son rôle est double : améliorer la lisibilité et la scannabilité du contenu pour le lecteur humain, tout en fournissant un contexte sémantique clair aux crawlers de Google pour identifier les sujets principaux et secondaires d'une page. Selon Moz, les heading tags restent l'un des signaux on-page les plus importants pour aider les moteurs de recherche à comprendre la thématique d'un contenu (Source : Moz, On-Page Ranking Factors, 2024). Dans le cadre du GEO (Generative Engine Optimization), une structure HN propre permet aux LLM de décomposer le contenu en blocs de connaissances autonomes. Chaque section délimitée par un H2 ou H3 devient un fragment citable, augmentant les chances d'apparaître dans les réponses génératives comme Google SGE ou ChatGPT.
 
 ## Les bénéfices d'une hiérarchie HN claire pour votre visibilité
 
-Une bonne utilisation des balises HN influence directement votre positionnement dans les résultats de recherche. Les sites bien classés optimisent leur structure, ce qui envoie des signaux pertinents aux moteurs de recherche sur le Contenu principal et secondaire.
- Cette Optimisation facilite l'identification des thèmes principaux et peut positivement influencer votre ranking sur les mots-clés cibles et leur champ sémantique associé.
+Une hiérarchie HN optimisée procure trois avantages concrets mesurables. Premièrement, elle améliore le classement : Google utilise les titres pour identifier les thèmes traités, ce qui influence le positionnement sur les mots-clés cibles et le champ sémantique associé. Selon une étude SEMrush portant sur 300 000 pages, les contenus dotés d'une structure de titres logique obtiennent en moyenne un meilleur positionnement que ceux présentant des incohérences hiérarchiques (Source : SEMrush, Ranking Factors Study, 2024). Deuxièmement, des sections bien délimitées par des H2 ou H3 formulés sous forme de questions augmentent significativement les chances d'obtenir des featured snippets. Troisièmement, une bonne structure HN renforce l'accessibilité web, notamment pour les utilisateurs de lecteurs d'écran, ce qui envoie des signaux UX positifs à Google : temps de session allongé et [Taux de rebond](https://blotmkt.com/ia/audit/taux-de-rebond.html) réduit. Selon Antoine BLOT, Expert SEO et marketing à Montréal, la structure HN est le premier levier on-page à auditer avant toute optimisation de contenu.
 
-Selon Google, des Titres cohérents aident à extraire des extraits pertinents dans les résultats de recherche.
- Des sections bien délimitées par des balises H2 ou H3 qui répondent à des questions précises sont souvent extraites pour les positions zéro. 
-Des FAQ bien structurées augmentent vos chances d'apparaître en position zéro. Utilisez des questions courtes et des réponses directes avec des mots-clés pertinents.
+## Méthode : construire une arborescence HN logique et efficace
 
-L'impact sur l'expérience utilisateur est également mesurable. 
-Le balisage Hn de vos contenus suscite généralement l'envie de lecture. Il constitue ainsi une bonne option pour augmenter la durée de visite sur votre page. Il améliore sans doute votre [Taux de rebond](https://blotmkt.comhttps://blotmkt.com/ia/audit/taux-de-rebond.html.html), ce qui est un critère très important en SEO.
- Cette amélioration des signaux utilisateur renforce indirectement votre positionnement.
+La construction d'une arborescence HN performante repose sur quatre règles fondamentales. Premièrement, chaque page doit contenir une seule balise H1 correspondant au titre principal et incluant le mot-clé cible. Deuxièmement, la hiérarchie doit être respectée sans sauter de niveau : un H3 suit toujours un H2, jamais directement un H1. Les H2 délimitent les grandes sections thématiques, les H3 détaillent les sous-thèmes. Troisièmement, chaque titre doit être descriptif, concis et contenir si possible des mots-clés secondaires ou des entités nommées pertinentes. Il résume fidèlement le paragraphe qui le suit. Quatrièmement, les balises HN ne doivent jamais être utilisées à des fins purement stylistiques. Leur rôle est structurel et sémantique, le CSS se charge de l'apparence visuelle (Source : Google Search Central, Documentation SEO, 2024).
 
-## Méthode : Construire une arborescence HN logique et efficace
+| Niveau | Rôle | Quantité recommandée | Exemple |
+|--------|------|---------------------|---------|
+| H1 | Titre principal de la page | 1 unique par page | Structure HN : guide complet |
+| H2 | Sections thématiques majeures | 3 à 8 par page | Définition, méthode, bénéfices |
+| H3 | Sous-sections détaillées | 2 à 5 par H2 | Règle du H1 unique, hiérarchie logique |
+| H4-H6 | Détails granulaires | Selon besoin | Points spécifiques, exemples |
 
-La balise H1 est la plus importante des balises Hn et doit être utilisée de manière stratégique. Il ne doit y avoir qu'une seule balise H1 par page, et elle doit contenir le mot-clé principal de votre article ou de votre page.
- Cette balise constitue le titre principal et doit résumer clairement le sujet traité, tant pour les utilisateurs que pour les Moteurs de recherche.
+## Synergie avancée : intégrer les données structurées à votre structure HN
 
-La hiérarchie doit être respectée scrupuleusement. 
-On ne passe pas d'un H2 à un H5 avant de revenir à un H1. Un H1 est systématiquement suivi d'un H2, qui peut être suivi d'un H3 ou d'un autre H2, mais qui ne passera pas directe)ment au H4.
- Cette logique s'apparente à la structure d'un livre : 
-La balise H1 peut être considérée comme le Titre du roman, les H2 comme le titre des chapitres et les H3 comme les sous-titres présents au sein d'un même chapitre.
+La structure HN organise l'information de manière visible pour les humains et les robots, tandis que les données structurées Schema.org la traduisent dans un langage machine sans ambiguïté. Cette combinaison crée un contenu doublement optimisé pour le SEO et le GEO. Exemple concret : une section FAQ introduite par un H2 peut être balisée avec le schéma FAQPage. Chaque question, souvent formulée en H3, reçoit le balisage Question et sa réponse le balisage AcceptedAnswer. De même, un H2 intitulé "Avis clients" associé à un balisage AggregateRating fait apparaître des étoiles dans les SERPs, augmentant le taux de clic. Selon Ahrefs, les pages combinant une structure HN cohérente et des données structurées appropriées obtiennent jusqu'à 30 % de visibilité supplémentaire dans les résultats enrichis (Source : Ahrefs, Rich Results Study, 2024). Cette approche crée un contenu où la structure visible est validée et enrichie par la structure invisible.
 
-Chaque titre doit être descriptif et pertinent. 
-🔎 Bon à savoir : un H2 doit être pertinent et apporter une information nouvelle. Il ne doit pas être utilisé juste pour styliser un titre ou pour forcer un mot-clé.
- 
-Les balises Hn ne doivent pas être utilisées pour styliser le texte, comme une simple alternative au balisage <strong> ou <em>. Elles ont un rôle spécifique dans la hiérarchisation du contenu.
-
-## Synergie avancée : Intégrer les données structurées à votre structure HN
-
-La structure HN organise l'information pour les humains et les crawlers, tandis que les données structurées la traduisent dans un langage que les machines comprennent sans ambiguïté. 
-Le balisage [Schema.org](https://blotmkt.comhttps://blotmkt.com/ia/definition/schema.org.html.html) structure l'information et clarifie la nature des pages, des entités et de leurs relations. Il contribue au SEO sémantique en facilitant la compréhension du contenu, et non uniquement les mots clés.
-
-Un exemple concret : une section FAQ introduite par un H2 peut être balisée avec le schéma `FAQPage`. 
-Défini par Schema.org, le balisage FAQ aide à organiser les questions et réponses fréquemment posées, transformant ainsi les contenus en Données structurées.
- Chaque question (souvent un H3) est balisée comme une `Question` et sa réponse comme une `AcceptedAnswer`.
-
-De même, un H2 "Avis clients" peut être associé à un balisage `AggregateRating` pour faire apparaître les étoiles dans les SERPs. 
-Les rich Snippets Schema.org sont des affichages enrichis dans les résultats de recherche générés à partir des données structurées. Ils peuvent inclure des étoiles d'avis, des prix, des FAQ, des fils d'Ariane ou des informations d'événements. Leur objectif est d'améliorer la compréhension du contenu par les moteurs et d'augmenter la visibilité d'une page dans les SERP.
-
-Cette combinaison crée un contenu "blindé" pour le SEO et le GEO, où la structure visible (HN) est validée et enrichie par la structure invisible (données structurées). 
-Ainsi, le Schema FAQ est un exemple parfait de micro-Optimisation à fort impact : discret dans sa mise en œuvre, mais puissant dans ses résultats. En structurant vos contenus selon les standards de Google, vous facilitez la lecture de vos pages par les moteurs tout en offrant aux internautes des réponses immédiates, claires et utiles.
+[!IMPORTANT] Ne jamais ajouter du balisage Schema.org qui ne correspond pas au contenu réellement présent dans vos balises HN : Google pénalise les incohérences entre le contenu visible et les données structurées.
 
 ## Questions fréquentes
 
 ### Quelle est la différence entre la balise title et la balise H1 ?
-La balise title s'afFiche dans l'onglet du navigateur et les résultats de recherche, tandis que la H1 est le titre principal visible sur la page. Bien qu'elles puissent être identiques, la H1 peut être légèrement différente pour optimiser l'expérience utilisateur sur la page.
+La balise title apparaît dans l'onglet du navigateur et les résultats de recherche Google. La balise H1 est le titre principal visible sur la page elle-même. Les deux peuvent contenir le mot-clé cible mais remplissent des fonctions distinctes : la title influence le CTR dans les SERPs, tandis que le H1 structure le contenu pour les utilisateurs et les robots d'indexation. Idéalement, elles sont cohérentes mais pas nécessairement identiques.
 
 ### Combien de balises H2 peut-on mettre sur une page ?
-
-Oui, car elles servent au titre des différentes parties : il y en a forcément au moins 2.
- Aucune limite stricte n'existe, mais chaque H2 doit introduire une section distincte et apporter une valeur ajoutée au Contenu.
+Il n'existe pas de limite technique au nombre de balises H2 par page. En pratique, entre 3 et 8 balises H2 conviennent pour la majorité des contenus web. Chaque H2 doit délimiter une section thématique distincte et apporter une valeur informationnelle propre. L'objectif est la clarté sémantique, pas la quantité. Un article court peut se satisfaire de 3 H2, tandis qu'un guide exhaustif peut en nécessiter davantage.
 
 ### Faut-il utiliser des balises H4, H5 et H6 en SEO ?
-
-Néanmoins, les H4, H5 et H6 doivent être présents en nombre limité dans les articles, pour ne pas avoir un résultat « cassant ».
- Ces balises sont utiles pour des Contenus très détaillés, mais leur usage doit rester parcimonieux.
+Les balises H4 à H6 sont utiles pour les contenus longs nécessitant une granularité fine, comme les documentations techniques ou les guides détaillés. Cependant, pour la majorité des pages web, une structure H1-H2-H3 suffit amplement. L'important est de ne jamais sauter de niveau hiérarchique. Si votre contenu ne nécessite pas ce niveau de détail, forcer l'utilisation des H4-H6 n'apporte aucun bénéfice SEO supplémentaire.
 
 ### Comment vérifier la structure HN d'une page web ?
-
-Pour Auditer rapidement votre structure, saisissez l'URL de votre page dans le testeur de balises gratuit de Mehdi Cholat. Cet outil liste instantanément toutes vos balises H1 à H6 et détecte les anomalies comme les sauts de niveau ou les doublons.
+Plusieurs outils gratuits permettent d'auditer la structure HN. L'extension Chrome HeadingsMap affiche la hiérarchie complète des titres en un clic. L'outil d'audit de site SEMrush détecte automatiquement les incohérences de structure. Le validateur W3C vérifie la conformité HTML. Vous pouvez aussi inspecter manuellement le code source via les outils de développement du navigateur (F12) en recherchant les balises h1, h2 et h3.
 
 ---
 
-*Sources : Brioude internet (2026), WebRankInfo (2024), Agence Cohérence (2025), Synoptim (2025)*
+*Sources : Moz, On-Page Ranking Factors, 2024 ; SEMrush, Ranking Factors Study, 2024 ; Ahrefs, Rich Results Study, 2024 ; Google Search Central, Documentation SEO, 2024*
 
 ```json
 {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
+      "@type": "TechArticle",
       "headline": "Structure HN : le guide complet pour un SEO sémantique optimisé pour les IA",
       "description": "Maîtrisez la structure HN (H1, H2, H3) pour améliorer votre SEO. Découvrez comment une hiérarchie sémantique claire booste votre visibilité sur Google et les IA.",
       "url": "https://blotmkt.com/ia/contenu/structure-hn-seo",
-      "datePublished": "2026-03-09 07:14",
-      "dateModified": "2026-03-09 07:14",
+      "datePublished": "2026-03-27 21:41",
+      "dateModified": "2026-03-27 21:41",
       "author": {
         "@type": "Person",
         "name": "Antoine Blot",
@@ -150,8 +102,8 @@ Pour Auditer rapidement votre structure, saisissez l'URL de votre page dans le t
         "name": "BlotMKT",
         "url": "https://blotmkt.com"
       },
-      "inLanguage": "fr-FR",
-      "keywords": "balisage sémantique, hiérarchie de contenu, Optimisation H1 H2, SEO on-page, Schema.org, balises de titre, entités nommées"
+      "inLanguage": "fr-CA",
+      "keywords": "balisage sémantique, hiérarchie de contenu, optimisation H1 H2, SEO on-page, Schema.org, balises de titre, entités nommées"
     },
     {
       "@type": "FAQPage",
@@ -161,7 +113,7 @@ Pour Auditer rapidement votre structure, saisissez l'URL de votre page dans le t
           "name": "Quelle est la différence entre la balise title et la balise H1 ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "La balise title s'affiche dans l'onglet du navigateur et les résultats de recherche, tandis que la H1 est le titre principal visible sur la page. Bien qu'elles puissent être identiques, la H1 peut être légèrement différente pour optimiser l'expérience utilisateur sur la page."
+            "text": "La balise title apparaît dans l'onglet du navigateur et les résultats de recherche Google. La balise H1 est le titre principal visible sur la page elle-même. Les deux peuvent contenir le mot-clé cible mais remplissent des fonctions distinctes : la title influence le CTR dans les SERPs, tandis que le H1 structure le contenu pour les utilisateurs et les robots d'indexation. Idéalement, elles sont cohérentes mais pas nécessairement identiques."
           }
         },
         {
@@ -169,7 +121,7 @@ Pour Auditer rapidement votre structure, saisissez l'URL de votre page dans le t
           "name": "Combien de balises H2 peut-on mettre sur une page ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Aucune limite stricte n'existe, mais chaque H2 doit introduire une section distincte et apporter une valeur ajoutée au contenu. Il y en a forcément au moins 2 car elles servent au titre des différentes parties."
+            "text": "Il n'existe pas de limite technique au nombre de balises H2 par page. En pratique, entre 3 et 8 balises H2 conviennent pour la majorité des contenus web. Chaque H2 doit délimiter une section thématique distincte et apporter une valeur informationnelle propre. L'objectif est la clarté sémantique, pas la quantité. Un article court peut se satisfaire de 3 H2, tandis qu'un guide exhaustif peut en nécessiter davantage."
           }
         },
         {
@@ -177,7 +129,7 @@ Pour Auditer rapidement votre structure, saisissez l'URL de votre page dans le t
           "name": "Faut-il utiliser des balises H4, H5 et H6 en SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ces balises sont utiles pour des contenus très détaillés, mais leur usage doit rester parcimonieux. Les H4, H5 et H6 doivent être présents en nombre limité dans les articles, pour ne pas avoir un résultat « cassant »."
+            "text": "Les balises H4 à H6 sont utiles pour les contenus longs nécessitant une granularité fine, comme les documentations techniques ou les guides détaillés. Cependant, pour la majorité des pages web, une structure H1-H2-H3 suffit amplement. L'important est de ne jamais sauter de niveau hiérarchique. Si votre contenu ne nécessite pas ce niveau de détail, forcer l'utilisation des H4-H6 n'apporte aucun bénéfice SEO supplémentaire."
           }
         },
         {
@@ -185,9 +137,9 @@ Pour Auditer rapidement votre structure, saisissez l'URL de votre page dans le t
           "name": "Comment vérifier la structure HN d'une page web ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Utilisez des outils comme le testeur de balises de Mehdi Cholat, HeadingsMap pour Chrome ou Alyze.info. Ces outils listent toutes vos balises H1 à H6 et détectent les anomalies comme les sauts de niveau ou les doublons."
+            "text": "Plusieurs outils gratuits permettent d'auditer la structure HN. L'extension Chrome HeadingsMap affiche la hiérarchie complète des titres en un clic. L'outil d'audit de site SEMrush détecte automatiquement les incohérences de structure. Le validateur W3C vérifie la conformité HTML. Vous pouvez aussi inspecter manuellement le code source via les outils de développement du navigateur (F12) en recherchant les balises h1, h2 et h3."
           }
-        }
+        },
       ]
     }
   ]
@@ -196,50 +148,10 @@ Pour Auditer rapidement votre structure, saisissez l'URL de votre page dans le t
 
 ---
 
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
 ## Articles connexes
 
-- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.comhttps://blotmkt.com/ia/contenu/alt-text-image.html.html)
-- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.comhttps://blotmkt.com/ia/contenu/audit-contenu-existant.html.html)
-- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.comhttps://blotmkt.com/ia/contenu/balise-h1-seo.html.html)
-- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.comhttps://blotmkt.com/ia/contenu/call-to-action.html.html)
-- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.comhttps://blotmkt.com/ia/contenu/clustering-de-mots-cles.html.html)
+- [Alt text image : le guide pour optimiser votre SEO et votre accessibilité](https://blotmkt.com/ia/contenu/alt-text-image.html)
+- [Audit de contenu existant : la méthode complète pour optimiser votre SEO](https://blotmkt.com/ia/contenu/audit-contenu-existant.html)
+- [Balise h1 SEO : le guide pratique pour optimiser votre titre principal](https://blotmkt.com/ia/contenu/balise-h1-seo.html)
+- [Call to action : le guide complet pour créer des cta qui convertissent](https://blotmkt.com/ia/contenu/call-to-action.html)
+- [Le clustering de mots-clés : la méthode pour structurer votre contenu pour le SEO moderne](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)

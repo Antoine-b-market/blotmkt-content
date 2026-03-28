@@ -2,7 +2,7 @@
 title: "Contenu SEO — Index Markdown"
 summary: "Corpus Contenu SEO en version Markdown pour citation, ingestion LLM ou integration RAG."
 author: "Antoine Blot"
-date: "2026-03-27"
+date: "2026-03-28"
 license: "CC BY 4.0"
 canonical_url: "https://blotmkt.com/data/index-contenu.md"
 robots: "index, follow"

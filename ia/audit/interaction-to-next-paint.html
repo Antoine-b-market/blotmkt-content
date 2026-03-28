@@ -119,8 +119,8 @@
       "description": "Découvrez ce qu'est l'Interaction to Next Paint (INP), son rôle crucial pour le SEO et comment optimiser cette métrique Core Web Vitals. Guide pratique.",
       "url": "https://blotmkt.com/ia/audit/interaction-to-next-paint.html",
       "inLanguage": "fr-CA",
-      "datePublished": "2026-03-09 06:07",
-      "dateModified": "2026-03-09 06:07",
+      "datePublished": "2026-03-27 20:42",
+      "dateModified": "2026-03-27 20:42",
       "author": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       },
@@ -195,18 +195,10 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Qu'est-ce que l'Interaction to Next Paint (INP) et pourquoi remplace-t-il le FID ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "L'INP est une métrique Core Web Vitals plus complète car elle mesure toutes les interactions durant la visite d'une page (pas seulement la première) et capture l'intégralité du cycle de vie de l'interaction incluant l'Input delay, le processing time et le presentation delay ."
-          }
-        },
-        {
-          "@type": "Question",
           "name": "Comment corriger un mauvais INP ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fractionnez les tâches JavaScript Longues, optimisez les gestionnaires d'événements, réduisez la complexité du DOM et implémentez un feedback visuel immédiat pour améliorer la perception de la réactivité."
+            "text": "Pour corriger un mauvais INP, identifiez d'abord les interactions lentes via Chrome DevTools ou la bibliothèque web-vitals. Fractionnez ensuite les tâches JavaScript longues en unités plus petites avec setTimeout ou scheduler.postTask(). Optimisez vos gestionnaires d'événements pour n'exécuter que le minimum nécessaire au rendu visuel. Réduisez la taille de votre DOM et différez le chargement des scripts non critiques. Ajoutez un feedback visuel immédiat pour améliorer la perception de réactivité."
           }
         },
         {
@@ -214,7 +206,15 @@
           "name": "Quel est un bon score INP ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Un bon score INP est de 200ms ou moins, avec un LCP ≤2.5s et un CLS <0.1 pour directement impacter les classements de Recherche, l'expérience utilisateur et les taux de conversion ."
+            "text": "Un bon score INP est inférieur à 200 millisecondes. Cela signifie que la page répond visuellement en moins de 200 ms après une interaction utilisateur comme un clic, une pression tactile ou une saisie clavier. Entre 200 ms et 500 ms, le score nécessite une amélioration. Au-delà de 500 ms, Google considère la réactivité comme mauvaise, ce qui peut affecter négativement le positionnement dans les résultats de recherche."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Pourquoi l'INP est important pour le SEO ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "L'INP est important pour le SEO car il fait partie des Core Web Vitals de Google depuis mars 2024. Ces métriques influencent directement le classement dans les résultats de recherche via le signal Page Experience. Un mauvais INP indique une page lente à réagir, ce qui augmente le taux de rebond et réduit l'engagement. Google utilise les données réelles du CrUX pour évaluer cette métrique, rendant son optimisation incontournable pour tout site visant de bonnes performances organiques."
           }
         }
       ]
@@ -244,76 +244,59 @@
     <div class="article-col">
       <article>
         <nav class="breadcrumb" aria-label="Fil d&apos;ariane"><a class="bc-link" href="https://blotmkt.com/ia/">BlotMKT</a><span class="bc-sep">›</span><a class="bc-link" href="/ia/audit/">Audit SEO</a><span class="bc-sep">›</span><span class="bc-current">Interaction to next paint (inp) : le guide complet pour une réactivité web optimale</span></nav>
-        <div class="article-meta"><div class="meta-tags"><span class="meta-kw">Interaction to Next Paint</span></div><div class="meta-byline"><div class="meta-author-block"><img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:48px;height:48px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0"><div class="meta-author-info"><a class="meta-author" href="/ia/auteur-antoine-blot.html">Antoine Blot</a><span class="meta-jobtitle">Consultant SEO &amp; GEO</span></div></div><div class="meta-right"><span class="meta-date"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>9 mars 2026</span><span class="meta-read"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>7 min</span><a class="meta-md-btn" href="https://blotmkt.com/data/audit/interaction-to-next-paint.md">.md</a></div></div></div>
+        <div class="article-meta"><div class="meta-tags"><span class="meta-kw">Interaction to Next Paint</span></div><div class="meta-byline"><div class="meta-author-block"><img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:48px;height:48px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0"><div class="meta-author-info"><a class="meta-author" href="/ia/auteur-antoine-blot.html">Antoine Blot</a><span class="meta-jobtitle">Consultant SEO &amp; GEO</span></div></div><div class="meta-right"><span class="meta-date"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>27 mars 2026</span><span class="meta-read"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>8 min</span><a class="meta-md-btn" href="https://blotmkt.com/data/audit/interaction-to-next-paint.md">.md</a></div></div></div>
         <h1>Interaction to next paint (inp) : le guide complet pour une réactivité web optimale</h1>
+<p class="speakable-intro">Votre site met trop de temps à réagir aux clics de vos visiteurs. Chaque milliseconde de latence augmente la frustration, fait grimper le <a href="https://blotmkt.com/ia/audit/taux-de-rebond.html">Taux de rebond</a> et dégrade votre positionnement Google. Depuis mars 2024, Google évalue officiellement cette réactivité grâce à une métrique précise : l'Interaction to Next Paint. Ce guide vous explique comment comprendre, mesurer et optimiser votre INP pour offrir une expérience fluide et préserver vos performances SEO.</p>
 <blockquote class="speakable">
 <h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
-<li>L'INP remplace le FID depuis mars 2024 car il mesure toutes les interactions (pas seulement la première) et capture l'intégralité du processus d'interaction.</li>
-<li>Mesurez l'INP avec les données CrUX dans Google Search Console ou PageSpeed Insights, puis diagnostiquez localement avec Chrome DevTools.</li>
-<li>Optimisez en fractionnant les tâches JavaScript longues, réduisant la complexité du DOM et différant les scripts non critiques.</li>
-<li>Utilisez le feedback visuel immédiat et les animations ludiques pour améliorer la perception de l'attente et transformer l'expérience utilisateur.</li>
+<li>L'INP mesure la réactivité globale d'une page et remplace le FID depuis mars 2024 dans les <a href="https://blotmkt.com/ia/audit/core-web-vitals.html">Core Web Vitals</a>.</li>
+<li>PageSpeed Insights, Chrome DevTools et la bibliothèque web-vitals permettent de diagnostiquer un mauvais score INP.</li>
+<li>Fractionner les tâches longues, optimiser les event listeners et réduire le DOM améliorent concrètement la latence INP.</li>
+<li>Un feedback visuel immédiat et des animations d'attente réduisent la perception de latence chez l'utilisateur.</li>
 </ul>
 </blockquote>
-<p class="speakable-intro">L'Interaction to Next Paint (INP) est officiellement devenu une métrique <a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/core-web-vitals.html.html">Core Web Vitals</a> depuis mars 2024, remplaçant le First Input Delay (FID)
-. Cette transition marque une évolution fondamentale dans l'évaluation de la performance web. Contrairement au FID qui ne mesurait que le premier délai d'interaction, 
-l'INP évalue chaque interaction de l'utilisateur avec la page et rapporte une valeur unique qui représente la réactivité globale de la page
-. Cette métrique influence directement votre classement Google et l'expérience utilisateur.</p>
 <hr />
-<h2 class="speakable">Qu'est-ce que l'interaction to next paint (inp) ?</h2>
-<p>L'INP mesure le temps total entre le moment de l'interaction utilisateur et le moment où la prochaine image est peinte à l'écran
-. Cette métrique révolutionnaire 
-élimine les limitations fondamentales du FID : alors que FID ne mesurait que la première interaction, l'INP considère toutes les interactions tout au long de la session
-.</p>
-<p>L'INP se compose de trois phases cruciales : l'Input delay (délai d'entrée), le processing time (temps de traitement) et le presentation delay (délai de présentation). 
-Contrairement au FID qui ignorait complètement le temps d'exécution des gestionnaires d'événements et le temps de peinture visuelle, l'INP capture ces trois phases pour une vue complète de la latence d'interaction
-.</p>
-<p>Un bon score INP est de 200 millisecondes ou moins au 75e percentile, tandis qu'un INP supérieur à 500 millisecondes est considéré comme mauvais
- et peut impacter négativement vos classements Google.</p>
-<h2 class="speakable">Comment mesurer et diagnostiquer un mauvais score inp ?</h2>
-<p>La mesure de l'INP s'appuie sur deux approches complémentaires. 
-Le moyen le plus simple de voir les performances INP de votre site web est d'utiliser PageSpeed Insights, qui présente les Données du Chrome User Experience Report (CrUX), le dataset officiel du programme Web Vitals
-.</p>
-<p>Pour le diagnostic approfondi, les outils Chrome DevTools sont essentiels. 
-Jusqu'en octobre 2024, vous deviez utiliser l'extension Chrome Web Vitals, mais la dernière version de Chrome inclut maintenant des Données détaillées LCP, CLS et INP directement dans l'onglet Performance
-.</p>
-<p>Idéalement, vous avez besoin de Données de surveillance d'utilisateurs réels pour suivre quels éléments causent de mauvaises performances et à quelle fréquence. Par exemple, DebugBear peut collecter ces données et montrer à quel point certaines interactions sont courantes
-. L'identification précise des interactions problématiques évite les approximations et l'effort gaspillé.</p>
-<h2 class="speakable">Optimisation technique : les stratégies pour réduire la latence inp</h2>
-<p>L'optimisation technique de l'INP repose sur quatre piliers fondamentaux. 
-Optimisez l'utilisation du thread principal en divisant les tâches JavaScript Longues en tâches plus petites et asynchrones
-. 
-L'idée de base consiste à diviser une tâche importante en pièces plus petites et utiliser setTimeout avec un délai court (généralement 0 millisecondes) pour programmer l'exécution du prochain morceau de travail après la fin de la tâche actuelle
-.</p>
-<p>La réduction de la complexité du DOM améliore significativement les performances. 
-Gardez la Structure DOM aussi petite que possible. Notre recommandation optimise le rendu réel de l'UI dans le navigateur
-. Les calculs de style et de mise en page sont directement impactés par cette simplification.</p>
-<p>Divisez les bundles JS monolithiques importants en chunks plus petits en utilisant les imports dynamiques (import())
-. Cette approche de code splitting permet de charger seulement le JavaScript essentiel au moment critique.</p>
-<p>L'Optimisation des gestionnaires d'événements est cruciale. 
-Optimisez les event listeners pour qu'ils soient non-bloquants et efficaces, incluant le debouncing ou throttling pour les événements qui se déclenchent rapidement (scroll, resize)
-.</p>
-<h2 class="speakable">L'ux au service de l'inp : améliorer la perception de la réactivité</h2>
-<p>L'expérience utilisateur transforme la perception technique de l'attente en expérience gérée et plaisante. 
-L'animation comble le fossé entre ce que les utilisateurs veulent et comment le système répond. Quand quelqu'un tape, glisse ou clique, le mouvement donne un feedback instantané
-.</p>
-<p>Le feedback visuel immédiat est essentiel. 
-Un bouton peut changer d'apparence lorsqu'on clique dessus, donnant un feedback visuel immédiat. En fournissant un feedback sur les actions utilisateur, les animations rassurent les utilisateurs que le système est réactif
-. Cette réactivité perçue peut compenser partiellement les délais techniques.</p>
-<p>Les animations ludiques modifient radicalement la perception de l'attente. Selon le contexte Knowledge base fourni, les animations statiques créent une perception d'attente longue, les animations en mouvement la réduisent, tandis que les animations ludiques rendent l'attente plaisante, voire positive.</p>
-<p>L'animation peut masquer ce temps de chargement en occupant visuellement l'utilisateur
-. Les notifications non-interruptives, comme les badges numériques ou les icônes clignotantes, informent sans interrompre le flux de travail utilisateur.</p>
+<h2 class="speakable">Qu'est-ce que l'Interaction to Next Paint (INP) et pourquoi remplace-t-il le FID ?</h2>
+<p>L'Interaction to Next Paint est la métrique Core Web Vitals qui évalue la réactivité globale d'une page web. Contrairement au <a href="https://blotmkt.com/ia/audit/first-input-delay.html">First Input Delay</a>, qui ne mesurait que le délai avant le traitement de la toute première interaction, l'INP prend en compte l'ensemble du cycle de chaque interaction : le délai d'entrée (input delay), le temps de traitement (processing time) et le délai de présentation (presentation delay) jusqu'au prochain rendu visuel. Google a jugé le FID insuffisant car il ignorait les interactions suivantes et ne reflétait pas la durée réelle de traitement. Depuis mars 2024, l'INP est donc la métrique officielle de réactivité dans les Core Web Vitals (Source : Google Developers, web.dev, 2024). Un bon score INP se situe sous 200 millisecondes. Entre 200 ms et 500 ms, le score nécessite une amélioration. Au-delà de 500 ms, la réactivité est considérée comme mauvaise et impacte directement l'expérience utilisateur ainsi que le référencement naturel.</p>
+<h2 class="speakable">Comment mesurer et identifier les causes d'un mauvais score INP ?</h2>
+<p>Le diagnostic d'un mauvais INP repose sur deux approches complémentaires. Les données de terrain, issues du rapport Chrome User Experience Report (CrUX), sont accessibles via Google Search Console et PageSpeed Insights. Elles reflètent l'expérience réelle des utilisateurs sur 28 jours. Pour une analyse technique approfondie, Chrome DevTools offre le panneau Performance qui permet d'enregistrer une session et d'identifier les Long Tasks, ces blocs d'exécution JavaScript dépassant 50 ms qui bloquent le thread principal. La bibliothèque open source web-vitals de Google permet également de collecter des données INP en production et d'attribuer chaque mauvais score à un élément ou un gestionnaire d'événement spécifique (Source : web.dev, Attribution API, 2024). Selon Antoine BLOT, Expert SEO et marketing à Montréal, croiser données de terrain et données de laboratoire reste la méthode la plus fiable pour prioriser les optimisations à fort impact sur la réactivité.</p>
+<h2 class="speakable">Quelles sont les techniques principales pour optimiser la réactivité et améliorer son INP ?</h2>
+<p>L'optimisation technique de l'INP cible trois leviers majeurs. Le premier consiste à fractionner les tâches longues en unités plus petites grâce à des méthodes comme setTimeout ou l'API scheduler.postTask(), qui libèrent régulièrement le thread principal pour traiter les interactions en attente. Le deuxième levier porte sur les gestionnaires d'événements : chaque event listener ne doit exécuter que le strict minimum nécessaire au feedback visuel, en reportant tout travail non essentiel après le rendu. Le troisième concerne la réduction de la complexité du DOM. Un DOM volumineux ralentit les calculs de style et de mise en page déclenchés après chaque interaction. Moins il y a de nœuds à recalculer, plus la réponse visuelle est rapide (Source : Ahrefs, Core Web Vitals guide, 2024). Enfin, le code splitting et le chargement différé des scripts non critiques garantissent que seul le JavaScript essentiel est présent au moment de l'interaction.</p>
+<h2 class="speakable">Comment l'UX, via les animations et notifications, peut-elle améliorer la perception de l'INP ?</h2>
+<p>Au-delà du code, la perception de la réactivité joue un rôle décisif dans l'expérience utilisateur. Un feedback visuel immédiat, comme un changement d'état du bouton ou l'apparition d'un spinner dès le clic, signale que l'interaction a été prise en compte, même si le traitement complet prend quelques instants. Les animations d'attente en mouvement ou ludiques réduisent significativement la perception du temps écoulé.</p>
+<table>
+<thead>
+<tr>
+<th>Type d'animation</th>
+<th>Impact sur la perception de l'attente</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Statique</td>
+<td>Longue</td>
+</tr>
+<tr>
+<td>En mouvement</td>
+<td>Réduite</td>
+</tr>
+<tr>
+<td>Ludique</td>
+<td>Plaisante, voire positive</td>
+</tr>
+</tbody>
+</table>
+<p>Les notifications non-interruptives, comme les badges ou les pastilles de confirmation, permettent de valider la réussite d'une action en arrière-plan sans bloquer le parcours. L'objectif est de combler le vide entre l'action de l'utilisateur et la réponse du système, transformant une attente potentiellement frustrante en une expérience gérée et fluide. Instagram utilise cette approche avec ses animations de likes, tout comme les sites e-commerce qui affichent une confirmation visuelle d'ajout au panier instantanément.</p>
 <div class="faq-speakable">
-<h3>Qu'est-ce que l'Interaction to Next Paint (INP) et pourquoi remplace-t-il le FID ?</h3>
-<p>L'INP est une métrique Core Web Vitals plus complète car elle mesure toutes les interactions durant la visite d'une page (pas seulement la première) et capture l'intégralité du cycle de vie de l'interaction incluant l'Input delay, le processing time et le presentation delay
-.</p>
 <h3>Comment corriger un mauvais INP ?</h3>
-<p>Fractionnez les tâches JavaScript Longues, optimisez les gestionnaires d'événements, réduisez la complexité du DOM et implémentez un feedback visuel immédiat pour améliorer la perception de la réactivité.</p>
+<p>Pour corriger un mauvais INP, identifiez d'abord les interactions lentes via Chrome DevTools ou la bibliothèque web-vitals. Fractionnez ensuite les tâches JavaScript longues en unités plus petites avec setTimeout ou scheduler.postTask(). Optimisez vos gestionnaires d'événements pour n'exécuter que le minimum nécessaire au rendu visuel. Réduisez la taille de votre DOM et différez le chargement des scripts non critiques. Ajoutez un feedback visuel immédiat pour améliorer la perception de réactivité.</p>
 <h3>Quel est un bon score INP ?</h3>
-<p>Un bon score INP est de 200ms ou moins, avec un LCP ≤2.5s et un CLS &lt;0.1 pour directement impacter les classements de Recherche, l'expérience utilisateur et les taux de conversion
-.</p>
+<p>Un bon score INP est inférieur à 200 millisecondes. Cela signifie que la page répond visuellement en moins de 200 ms après une interaction utilisateur comme un clic, une pression tactile ou une saisie clavier. Entre 200 ms et 500 ms, le score nécessite une amélioration. Au-delà de 500 ms, Google considère la réactivité comme mauvaise, ce qui peut affecter négativement le positionnement dans les résultats de recherche.</p>
+<h3>Pourquoi l'INP est important pour le SEO ?</h3>
+<p>L'INP est important pour le SEO car il fait partie des Core Web Vitals de Google depuis mars 2024. Ces métriques influencent directement le classement dans les résultats de recherche via le signal Page Experience. Un mauvais INP indique une page lente à réagir, ce qui augmente le taux de rebond et réduit l'engagement. Google utilise les données réelles du CrUX pour évaluer cette métrique, rendant son optimisation incontournable pour tout site visant de bonnes performances organiques.</p>
 <hr />
-<p><em>Sources : web.dev (Source : Chrome Team, 2024), Google Search Central (Source : Google, 2024), corewebvitals.io (Source : Core Web Vitals, 2024)</em></p>
+<p><em>Sources : Google Developers, web.dev — Interaction to Next Paint documentation (2024) ; Ahrefs — Core Web Vitals: How to Improve Them (2024)</em></p>
       </article>
     </div>
   </div>
@@ -334,7 +317,7 @@ Un bouton peut changer d'apparence lorsqu'on clique dessus, donnant un feedback 
       </div>
     </div>
   </div>
-  <div style="max-width:1100px;margin:48px auto 0;padding:24px 20px 0;border-top:2px solid #f0f0f0"><h2 style="font-size:1rem;color:#555;margin-bottom:16px">Articles connexes</h2><div class="related-grid"><a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/analyse-de-logs-seo.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-mobile-first.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-montreal.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux</span><div class="related-card-meta"><span>Antoine Blot</span></div></a></div></div>
+  <div style="max-width:1100px;margin:48px auto 0;padding:24px 20px 0;border-top:2px solid #f0f0f0"><h2 style="font-size:1rem;color:#555;margin-bottom:16px">Articles connexes</h2><div class="related-grid"><a href="https://blotmkt.com/ia/audit/analyse-de-logs-seo.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.com/ia/audit/architecture-de-site.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.com/ia/audit/audit-mobile-first.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.com/ia/audit/audit-semantique.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.com/ia/audit/audit-seo-montreal.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux</span><div class="related-card-meta"><span>Antoine Blot</span></div></a></div></div>
   <footer class="site-footer">
     <div class="footer-inner">
       <div class="footer-left">

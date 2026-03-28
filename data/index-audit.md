@@ -2,7 +2,7 @@
 title: "Audit SEO — Index Markdown"
 summary: "Corpus Audit SEO en version Markdown pour citation, ingestion LLM ou integration RAG."
 author: "Antoine Blot"
-date: "2026-03-27"
+date: "2026-03-28"
 license: "CC BY 4.0"
 canonical_url: "https://blotmkt.com/data/index-audit.md"
 robots: "index, follow"
@@ -14,8 +14,6 @@ Ressources Audit SEO par Antoine Blot, consultant SEO & GEO a Montreal.
 
 Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
 
-- [Redirection 301 vs 302 : le guide pour choisir la bonne redirection SEO](https://blotmkt.com/data/audit/redirection-301-vs-302.md)
-- [Pagination SEO : le guide des bonnes pratiques pour ne pas pénaliser votre site](https://blotmkt.com/data/audit/pagination-seo.md)
 - [Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl](https://blotmkt.com/data/audit/analyse-de-logs-seo.md)
 - [Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO](https://blotmkt.com/data/audit/architecture-de-site.md)
 - [Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google](https://blotmkt.com/data/audit/audit-mobile-first.md)
@@ -38,6 +36,8 @@ Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
 - [Largest Contentful Paint (LCP) : le guide complet pour optimiser la vitesse de votre site](https://blotmkt.com/data/audit/largest-contentful-paint.md)
 - [Lazy loading et SEO : le guide pour accélérer votre site sans nuire au référencement](https://blotmkt.com/data/audit/lazy-loading-seo.md)
 - [Optimisation JavaScript SEO : le guide complet pour le rendu et l'indexation](https://blotmkt.com/data/audit/optimisation-javascript-seo.md)
+- [Pagination SEO : le guide des bonnes pratiques pour ne pas pénaliser votre site](https://blotmkt.com/data/audit/pagination-seo.md)
+- [Redirection 301 vs 302 : le guide pour choisir la bonne redirection SEO](https://blotmkt.com/data/audit/redirection-301-vs-302.md)
 - [Maîtriser les redirections 301 pour un SEO sans faille](https://blotmkt.com/data/audit/redirections-301-seo.md)
 - [Audit de sitemap XML : le guide complet pour optimiser votre crawl](https://blotmkt.com/data/audit/sitemap-xml-audit.md)
 - [Le taux de rebond est-il encore une métrique pertinente pour votre SEO ?](https://blotmkt.com/data/audit/taux-de-rebond.md)

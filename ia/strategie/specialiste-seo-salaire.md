@@ -3,7 +3,6 @@ title: "Le salaire d'un spécialiste SEO en 2024 : guide complet (junior, senior
 description: "Découvrez le salaire d'un spécialiste SEO en France. Grille de salaires 2024 pour junior, senior, et le TJM des consultants freelance. Quel profil choisir ?"
 keyword: "Spécialiste SEO salaire"
 category: "strategie"
-schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"
@@ -11,154 +10,82 @@ author_github: "https://github.com/Antoine-b-market"
 author_orcid: "https://orcid.org/0009-0005-6450-4528"
 organization: "BlotMKT"
 organization_url: "https://blotmkt.com"
-date: "2026-03-09 17:39"
-date_modified: "2026-03-09 17:39"
+date: "2026-03-28 00:53"
+date_modified: "2026-03-28 00:53"
 slug: "specialiste-seo-salaire"
-url: "https://blotmkt.com/ia/strategie/specialiste-seo-salaire.html"
-canonical: "https://blotmkt.com/ia/strategie/specialiste-seo-salaire.html"
-related_articles:
-  - title: "Quel est le salaire d'un consultant SEO en 2024 ? Comprendre les rémunérations et la valeur ajoutée"
-    url: "/ia/strategie/salaire-consultant-seo"
-  - title: "Salaire expert SEO : le guide 2024 des rémunérations par niveau d'expérience"
-    url: "/ia/strategie/salaire-expert-seo"
-  - title: "Offre d'emploi SEO : trouvez votre prochain défi en référencement naturel"
-    url: "/ia/strategie/offre-emploi-seo"
+url: "https://blotmkt.com/ia/strategie/specialiste-seo-salaire"
+schema_type: "TechArticle"
+sources:
+  - blotmkt.com
+  - antoine-blot.com
 ---
 
 # Le salaire d'un spécialiste SEO en 2024 : guide complet (junior, senior, freelance)
 
+Difficile de se positionner sur le marché du travail SEO sans repères fiables sur les rémunérations. Les écarts sont considérables : un même profil peut toucher du simple au triple selon son statut, sa localisation et ses compétences. Ce guide rassemble les données salariales actualisées pour 2024 en France, compare les modèles salariat et freelance, et identifie les leviers concrets pour maximiser ses revenus dans le référencement naturel.
+
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - En 2024, 
-<!-- speakable:end -->
-le salaire moyen d'un spécialiste SEO en France est de 44 400 € brut par an
-, avec des disparités selon l'expérience et la région
-> - 
-Les profils juniors (0-2 ans) gagnent entre 30 000 € et 38 000 €
-, tandis que 
-les seniors (8+ ans) touchent de 55 000 € à 70 000 € et plus
-  
-> - 
-Le TJM moyen d'un Consultant SEO freelance est de 494 €
-, avec des fourchettes de 
-274 € pour les juniors à 639 € pour les seniors
-
-> - 
-L'Île-de-France concentre les salaires les plus élevés avec des disparités régionales importantes
-
-Le SEO (référencement naturel) s'impose comme un pilier incontournable du marketing digital. Face à une demande croissante et une pénurie de talents qualifiés, les spécialistes SEO bénéficient d'un marché de l'emploi particulièrement dynamique. Comprendre la grille salariale devient essentiel pour les professionnels souhaitant optimiser leur rémunération et pour les entreprises cherchant à budgétiser efficacement leurs investissements en référencement naturel.
+> - En France en 2024, le salaire moyen d'un spécialiste SEO se situe entre 35 000 et 50 000 euros brut annuel.
+> - Un SEO senior salarié gagne jusqu'à 65 000 euros, tandis qu'un freelance senior peut dépasser 100 000 euros de chiffre d'affaires.
+> - Les compétences techniques avancées, la maîtrise data et la spécialisation sectorielle augmentent significativement la rémunération SEO.
+> - Le TJM freelance offre un potentiel supérieur au salaire en agence, mais implique charges, prospection et instabilité.
 
 ---
 
 ## Grille de salaire du spécialiste SEO en France : les chiffres clés 2024
 
-### Une progression salariale marquée par l'expérience
-
-Le salaire moyen dans le SEO en 2024 atteint 44 400 € brut par an
-, soit une progression notable par rapport aux années précédentes. Cette moyenne cache néanmoins de fortes disparités selon le niveau d'expérience. 
-Les profils juniors (0-2 ans d'expérience) évoluent dans une fourchette de 30 000 € à 38 000 €, se concentrant sur l'apprentissage des fondamentaux et la réalisation d'Audits
-. 
-
-Les Consultants confirmés (3-7 ans) pilotent des projets d'envergure et développent des stratégies complexes, avec des salaires entre 40 000 € et 55 000 €
-. Enfin, 
-les profils seniors (8+ ans) deviennent de véritables stratèges qui pilotent la vision SEO globale et peuvent manager des équipes, avec des Rémunérations de 55 000 € à 70 000 € et plus
-. (Source : FePSeM, 2024 ; Julien Gourdon, 2025)
-
-### Impact géographique sur la rémunération
-
-La concentration des sièges de grandes entreprises et le coût de la vie plus élevé en Île-de-France créent un véritable fossé salarial. Travailler comme spécialiste SEO à Paris assure l'accès aux salaires les plus élevés du marché, les entreprises franciliennes étant prêtes à payer plus cher pour attirer les meilleurs talents
-. 
-Les professionnels expatriés bénéficient également d'une meilleure rémunération, probablement en raison d'une fiscalité plus favorable dans certains pays
-.
+En France en 2024, la rémunération d'un spécialiste SEO dépend principalement de l'expérience. Un profil junior avec 0 à 2 ans d'expérience perçoit entre 30 000 et 38 000 euros brut annuel. Un spécialiste confirmé avec 3 à 5 ans d'expérience atteint une fourchette de 38 000 à 48 000 euros brut annuel. Un SEO senior dépassant 5 ans d'expérience se situe entre 48 000 et 65 000 euros, avec des postes de Head of SEO dépassant régulièrement 70 000 euros (Source : Glassdoor France, 2024). La localisation joue un rôle important : les salaires à Paris et en Île-de-France sont supérieurs de 10 à 15 % par rapport aux autres régions françaises. Selon Antoine BLOT, expert SEO et marketing à Montréal, cette grille française reste cohérente avec les tendances observées dans l'ensemble du marché francophone, où l'expérience et la localisation sont les deux premiers facteurs discriminants.
 
 ## Salarié ou freelance : l'impact du statut sur les revenus SEO
 
-### La sécurité du salariat face au potentiel du freelancing
+Le statut professionnel transforme radicalement l'équation financière du métier SEO. En CDI, un spécialiste bénéficie d'un salaire fixe, de congés payés, d'une mutuelle et d'une stabilité appréciable. Le potentiel de revenu reste toutefois plafonné par les grilles salariales internes. En freelance, le TJM (taux journalier moyen) ouvre un potentiel de revenus nettement supérieur. Un consultant SEO freelance senior facturant 600 euros par jour sur 220 jours ouvrés génère environ 132 000 euros de chiffre d'affaires annuel, avant déduction des charges sociales et professionnelles estimées entre 40 et 50 %. À titre de comparaison, un SEO senior en CDI à 55 000 euros brut représente un coût employeur d'environ 80 000 euros. Le choix entre ces deux modèles relève d'un arbitrage personnel entre sécurité financière et potentiel de gains.
 
-Le choix entre salariat et freelance détermine fondamentalement l'approche de la rémunération SEO. En tant que salarié, le spécialiste SEO bénéficie d'une stabilité financière avec un salaire fixe mensuel et des avantages sociaux (congés payés, assurance maladie, retraite). 
-L'échelle salariale se situe généralement entre 35 500 € (25e percentile) et 56 500 € (75e percentile) par an
-.
-
-Le statut freelance Offre un potentiel de revenus supérieur via le Taux Journalier Moyen. 
-Le TJM moyen s'établit à 494 €, variant de 274 € pour les juniors à 639 € pour les seniors
-. 
-L'enquête de la FePSeM montre que les indépendants ont un revenu moyen supérieur aux salariés, mais avec une forte hétérogénéité selon les profils et l'ancienneté
-. Cependant, cette liberté s'accompagne d'une prise de risque accrue et de la nécessité de gérer les aspects commerciaux et administratifs. (Source : FePSeM, 2024 ; Maxime Carpentier, 2025)
+| Critère | Salarié CDI (senior) | Freelance (senior) |
+|---|---|---|
+| Rémunération brute annuelle | 48 000 – 65 000 euros | 88 000 – 132 000 euros CA |
+| Revenu net estimé | 37 000 – 50 000 euros | 50 000 – 75 000 euros |
+| Stabilité | Élevée | Variable |
+| Avantages sociaux | Inclus | À financer soi-même |
+| Autonomie | Limitée | Totale |
 
 ## Les compétences qui boostent la fiche de paie d'un expert SEO
 
-### Maîtrise technique et vision stratégique
-
-L'obtention de certifications SEO reconnues (comme la QASEO ou CESEO) semble avoir un impact positif sur le niveau de rémunération
-. Les compétences techniques avancées (Audit de logs, optimisation du crawl, maîtrise des [Core Web Vitals](https://blotmkt.comhttps://blotmkt.com/ia/audit/core-web-vitals.html.html), SEO international) différencient significativement les profils sur le marché. 
-
-La capacité à aligner le SEO avec les objectifs business et à prouver le ROI via des outils d'Analyse (Google Analytics 4, Google Tag Manager) devient cruciale. 
-Le consultant SEO de 2026 n'est pas menacé par l'IA, mais doit évoluer : sa valeur ajoutée se déplace de l'exécution technique vers le pilotage stratégique, faisant de l'IA un outil à son service pour décupler son efficacité
-. Les spécialisations de niche (e-commerce, [SEO local](https://blotmkt.comhttps://blotmkt.com/ia/definition/seo-local.html.html), netlinking avancé) permettent également de justifier des tarifs premium. (Source : FePSeM, 2024)
+Toutes les compétences SEO ne se valent pas sur le plan salarial. Les expertises techniques avancées comme l'audit de logs serveur, l'optimisation du crawl budget et la maîtrise des [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) distinguent les profils les mieux rémunérés. La capacité à exploiter la data constitue un accélérateur majeur : maîtrise avancée de Google Analytics 4, Google Tag Manager et Looker Studio pour démontrer le retour sur investissement des actions SEO (Source : SEMrush, State of Search 2024). Les compétences stratégiques jouent également un rôle déterminant. Un spécialiste capable d'aligner la stratégie SEO avec les objectifs business globaux, de piloter des projets complexes et de communiquer avec des comités de direction accède aux postes et aux TJM les plus élevés. Les spécialisations de niche comme le SEO e-commerce, le SEO international ou l'expertise sur des CMS spécifiques tels que Shopify ou Magento créent une rareté qui se monétise directement.
 
 ## Agence vs consultant SEO freelance : le match de la rentabilité
 
-### Analyse comparative des modèles économiques
-
-En Agence, 
-le salaire moyen atteint 35 700 € chez les annonceurs contre 33 600 € en Agences généralistes. Les agences spécialisées SEO rémunèrent le mieux avec 37 700 € en moyenne, mais ces profils sont souvent plus expérimentés
-. La progression reste structurée mais parfois plus lente.
-
-Pour les consultants freelance, 
-le TJM varie de 479 € pour un spécialiste SEO expérimenté à 500 € en moyenne générale, selon l'Expertise du consultant
-. 
-Le tarif journalier moyen d'un consultant SEO expérimenté peut atteindre les 900 euros
-. Un consultant senior facturant 600€/jour génère 132 000€ de chiffre d'affaires annuel (220 jours facturés), mais doit déduire charges sociales, impôts et frais professionnels. Le choix dépend des priorités individuelles : sécurité versus potentiel de gains et autonomie. (Source : Blog du Modérateur, 2022 ; Embarq, 2024)
+Pour une entreprise, le choix entre une agence SEO et un consultant freelance repose sur des critères de rentabilité et de besoin opérationnel distincts. En agence, le salaire est structuré par des grilles internes avec une progression prévisible mais lente. Le collaborateur bénéficie d'un environnement formateur et d'une diversité de projets. Le TJM d'un consultant freelance varie fortement selon le niveau : de 400 euros par jour pour un profil junior à plus de 800 euros pour un expert reconnu (Source : Malt, Baromètre des freelances 2024). En revenu net annuel, un consultant senior freelance peut surpasser la rémunération d'un directeur SEO en agence. Cet avantage a une contrepartie : charge commerciale, gestion administrative et absence de filet de sécurité entre deux missions. Pour l'entreprise cliente, une agence apporte une force de frappe et des processus rodés. Un consultant expert fonctionne comme un CMO externalisé avec agilité stratégique et interlocuteur unique.
 
 ## Évolution de carrière : du spécialiste junior au directeur SEO
 
-### Les paliers d'évolution et leurs impacts salariaux
-
-La progression naturelle s'articule autour de plusieurs paliers : consultant SEO junior → confirmé → senior avec un salaire évoluant de 30 000 € à 70 000 € brut/an, puis vers des postes de Responsable SEO/Head of SEO (postes managériaux), Responsable acquisition digitale (élargissement vers SEA et analytics) ou directeur marketing digital pour une vision stratégique globale
-.
-
-Un SEO Manager voit sa rémunération partir de 33 860 € en début de carrière pour atteindre 80 000 € en fin de parcours. Concrètement : 35 770 € pour un junior (1-3 ans), 41 730 € en milieu de carrière (4-9 ans), 54 960 € pour un senior (10-20 ans) et 62 710 € en fin de carrière (20+ ans)
-. 
-Le freelance SEO peut augmenter son TJM en se spécialisant, créer une micro-agence en s'entourant de rédacteurs et développeurs, ou diversifier ses revenus via la formation, le coaching et la création de sites affiliés
-. (Source : Jobted, 2026 ; Louis Descamps, 2026)
+La carrière SEO suit une trajectoire structurée avec des paliers de rémunération bien identifiés. En début de carrière, le poste de chargé ou spécialiste SEO se concentre sur l'exécution opérationnelle : rédaction de balises, suivi de positions, production de contenus optimisés. La rémunération se situe entre 30 000 et 38 000 euros. Après 3 à 5 ans, le SEO Manager ou consultant confirmé prend en charge la stratégie globale, gère des projets transverses et pilote des équipes ou des portefeuilles clients. Le salaire atteint 38 000 à 48 000 euros. Au stade senior, les postes de Head of SEO, SEO Director ou consultant indépendant très spécialisé dépassent 55 000 euros en salariat et peuvent dépasser 100 000 euros de chiffre d'affaires en freelance. La transition vers le management ou le consulting stratégique de haut niveau offre les augmentations les plus significatives, à condition de combiner expertise technique, vision business et capacité à démontrer des résultats mesurables.
 
 ## Questions fréquentes
 
 ### Quel est le salaire d'un SEO débutant ?
-
-Un professionnel débutant peut s'attendre à une rémunération annuelle brute oscillant entre 25 000 et 32 000 euros, avec un salaire moyen qui se stabilise autour de 28 000 euros bruts annuels
- pour les profils les moins expérimentés.
+En France en 2024, un spécialiste SEO débutant avec moins de deux ans d'expérience gagne entre 30 000 et 38 000 euros brut annuel. Ce salaire varie selon la localisation, Paris offrant une prime de 10 à 15 % par rapport aux autres régions. Le type de structure, agence ou annonceur, influence également le positionnement dans cette fourchette.
 
 ### Quel est le TJM d'un consultant SEO ?
-
-En freelance, le TJM d'un consultant SEO débutant oscille entre 200 euros et 300 euros, pouvant atteindre jusqu'à 600 euros pour les consultants SEO seniors
- selon l'expérience et l'Expertise.
+Le taux journalier moyen d'un consultant SEO freelance en France oscille entre 400 euros pour un profil junior et plus de 800 euros pour un expert senior reconnu. Le TJM médian se situe autour de 550 à 600 euros par jour. La spécialisation technique, la réputation et la capacité à prouver un retour sur investissement concret font la différence dans la négociation.
 
 ### Comment augmenter son salaire en tant que SEO ?
-
-L'obtention de certifications reconnues (QASEO, CESEO) a un impact positif sur la rémunération
-. La spécialisation technique, le développement d'une expertise sectorielle et la capacité à prouver le ROI constituent les leviers principaux d'augmentation salariale.
+Trois leviers principaux permettent d'augmenter sa rémunération SEO : développer des compétences techniques rares comme l'audit de logs ou le [SEO international](https://blotmkt.com/ia/strategie/seo-international.html), acquérir une expertise data pour prouver le ROI des actions menées, et se spécialiser dans une niche sectorielle à forte valeur comme le e-commerce ou la finance. La transition vers le freelance offre aussi un saut de revenus significatif.
 
 ### Est-ce que le métier de SEO paie bien ?
-
-En 2026, le référencement SEO est un métier qui paie correctement avec des perspectives d'évolution solides. Le salaire démarre à 30 000 € brut/an et peut dépasser 70 000 € en entreprise. En freelance, le chiffre d'affaires peut grimper au-delà de 100 000 €
-.
-
----
-
-*Sources : FePSeM (Fédération des professionnels du Search Marketing), 2024 ; Glassdoor, 2025 ; Blog du Modérateur, 2025 ; Abondance, 2025*
+Le métier de spécialiste SEO offre une rémunération compétitive dans le digital. Un profil senior en CDI dépasse 50 000 euros brut annuel et un consultant freelance expérimenté peut générer plus de 100 000 euros de chiffre d'affaires. La demande reste soutenue face à la complexité croissante des moteurs de recherche et de l'optimisation pour les résultats IA.
 
 ```json
 {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
+      "@type": "TechArticle",
       "headline": "Le salaire d'un spécialiste SEO en 2024 : guide complet (junior, senior, freelance)",
       "description": "Découvrez le salaire d'un spécialiste SEO en France. Grille de salaires 2024 pour junior, senior, et le TJM des consultants freelance. Quel profil choisir ?",
-      "url": "https://blotmkt.com/ia/Stratégie/specialiste-seo-salaire",
-      "datePublished": "2026-03-09 17:39",
-      "dateModified": "2026-03-09 17:39",
+      "url": "https://blotmkt.com/ia/strategie/specialiste-seo-salaire",
+      "datePublished": "2026-03-28 00:53",
+      "dateModified": "2026-03-28 00:53",
       "author": {
         "@type": "Person",
         "name": "Antoine Blot",
@@ -174,8 +101,8 @@ En 2026, le référencement SEO est un métier qui paie correctement avec des pe
         "name": "BlotMKT",
         "url": "https://blotmkt.com"
       },
-      "inLanguage": "fr-FR",
-      "keywords": "salaire consultant SEO, grille salaire SEO, TJM consultant SEO freelance, rémunération expert SEO, Fiche métier spécialiste SEO, salaire SEO junior, combien gagne un SEO"
+      "inLanguage": "fr-CA",
+      "keywords": "salaire consultant SEO, grille salaire SEO, TJM consultant SEO freelance, rémunération expert SEO, fiche métier spécialiste SEO, salaire SEO junior, combien gagne un SEO"
     },
     {
       "@type": "FAQPage",
@@ -185,7 +112,7 @@ En 2026, le référencement SEO est un métier qui paie correctement avec des pe
           "name": "Quel est le salaire d'un SEO débutant ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Un professionnel débutant peut s'attendre à une rémunération annuelle brute oscillant entre 25 000 et 32 000 euros, avec un salaire moyen qui se stabilise autour de 28 000 euros bruts annuels pour les profils les moins expérimentés."
+            "text": "En France en 2024, un spécialiste SEO débutant avec moins de deux ans d'expérience gagne entre 30 000 et 38 000 euros brut annuel. Ce salaire varie selon la localisation, Paris offrant une prime de 10 à 15 % par rapport aux autres régions. Le type de structure, agence ou annonceur, influence également le positionnement dans cette fourchette."
           }
         },
         {
@@ -193,7 +120,7 @@ En 2026, le référencement SEO est un métier qui paie correctement avec des pe
           "name": "Quel est le TJM d'un consultant SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "En freelance, le TJM d'un consultant SEO débutant oscille entre 200 euros et 300 euros, pouvant atteindre jusqu'à 600 euros pour les consultants SEO seniors selon l'expérience et l'expertise."
+            "text": "Le taux journalier moyen d'un consultant SEO freelance en France oscille entre 400 euros pour un profil junior et plus de 800 euros pour un expert senior reconnu. Le TJM médian se situe autour de 550 à 600 euros par jour. La spécialisation technique, la réputation et la capacité à prouver un retour sur investissement concret font la différence dans la négociation."
           }
         },
         {
@@ -201,7 +128,7 @@ En 2026, le référencement SEO est un métier qui paie correctement avec des pe
           "name": "Comment augmenter son salaire en tant que SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "L'obtention de certifications reconnues (QASEO, CESEO) a un impact positif sur la rémunération. La spécialisation technique, le développement d'une expertise sectorielle et la capacité à prouver le ROI constituent les leviers principaux d'augmentation salariale."
+            "text": "Trois leviers principaux permettent d'augmenter sa rémunération SEO : développer des compétences techniques rares comme l'audit de logs ou le SEO international, acquérir une expertise data pour prouver le ROI des actions menées, et se spécialiser dans une niche sectorielle à forte valeur comme le e-commerce ou la finance. La transition vers le freelance offre aussi un saut de revenus significatif."
           }
         },
         {
@@ -209,9 +136,9 @@ En 2026, le référencement SEO est un métier qui paie correctement avec des pe
           "name": "Est-ce que le métier de SEO paie bien ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "En 2026, le référencement SEO est un métier qui paie correctement avec des perspectives d'évolution solides. Le salaire démarre à 30 000 € brut/an et peut dépasser 70 000 € en entreprise. En freelance, le chiffre d'affaires peut grimper au-delà de 100 000 €."
+            "text": "Le métier de spécialiste SEO offre une rémunération compétitive dans le digital. Un profil senior en CDI dépasse 50 000 euros brut annuel et un consultant freelance expérimenté peut générer plus de 100 000 euros de chiffre d'affaires. La demande reste soutenue face à la complexité croissante des moteurs de recherche et de l'optimisation pour les résultats IA."
           }
-        }
+        },
       ]
     }
   ]
@@ -220,50 +147,10 @@ En 2026, le référencement SEO est un métier qui paie correctement avec des pe
 
 ---
 
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
 ## Articles connexes
 
-- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.comhttps://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html.html)
-- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.comhttps://blotmkt.com/ia/strategie/agence-seo-montreal.html.html)
-- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.comhttps://blotmkt.com/ia/strategie/audit-site-web.html.html)
-- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.comhttps://blotmkt.com/ia/strategie/budget-seo-mensuel.html.html)
-- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.comhttps://blotmkt.com/ia/strategie/conseil-seo-quebec.html.html)
+- [Accompagnement SEO annuel : la stratégie durable pour votre croissance digitale](https://blotmkt.com/ia/strategie/accompagnement-seo-annuel.html)
+- [Agence SEO Montréal : votre partenaire stratégique pour une croissance durable](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
+- [Audit de site web : le guide complet pour un diagnostic SEO actionnable](https://blotmkt.com/ia/strategie/audit-site-web.html)
+- [Budget SEO mensuel : le guide pour un investissement qui maximise votre indexation](https://blotmkt.com/ia/strategie/budget-seo-mensuel.html)
+- [Conseil SEO Québec : optimisez votre visibilité pour les moteurs et les IA](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)

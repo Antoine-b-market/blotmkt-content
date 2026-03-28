@@ -119,8 +119,8 @@
       "description": "Comprenez le Cumulative Layout Shift (CLS), un Core Web Vital essentiel. Apprenez à mesurer et corriger les décalages de mise en page pour le SEO.",
       "url": "https://blotmkt.com/ia/audit/cumulative-layout-shift.html",
       "inLanguage": "fr-CA",
-      "datePublished": "2026-03-09 06:02",
-      "dateModified": "2026-03-09 06:02",
+      "datePublished": "2026-03-27 20:28",
+      "dateModified": "2026-03-27 20:28",
       "author": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       },
@@ -198,7 +198,7 @@
           "name": "Comment corriger un problème de CLS ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Définissez toujours les dimensions des Images et médias, réservez l'espace pour le contenu dynamique, et optimisez le chargement des polices web. Utilisez Chrome DevTools pour identifier précisément les éléments problématiques."
+            "text": "Pour corriger un problème de CLS, commencez par identifier les éléments instables via Chrome DevTools ou la Search Console. Ajoutez des dimensions explicites à toutes les images et iframes. Réservez un espace fixe pour les publicités et contenus dynamiques. Préchargez vos polices web avec font-display: swap. Testez chaque correction avec PageSpeed Insights pour vérifier que le score passe sous 0.1."
           }
         },
         {
@@ -206,7 +206,7 @@
           "name": "C'est quoi un bon score CLS ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Un score CLS inférieur à 0.1 est considéré comme bon par Google. Entre 0.1 et 0.25, c'est à améliorer. Au-dessus de 0.25, c'est problématique et nécessite une action immédiate."
+            "text": "Un bon score CLS est inférieur ou égal à 0.1, selon les seuils définis par Google pour les Core Web Vitals. Un score entre 0.1 et 0.25 indique que des améliorations sont nécessaires. Au-delà de 0.25, le score est considéré comme faible et peut nuire au référencement et à l'expérience utilisateur. L'objectif est de maintenir toutes vos pages sous le seuil de 0.1."
           }
         },
         {
@@ -214,7 +214,7 @@
           "name": "Quels outils pour mesurer le Cumulative Layout Shift ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Google Search Console pour les données réelles d'utilisateurs, PageSpeed Insights pour une vue d'ensemble, et Chrome DevTools pour le debug en temps réel. Lighthouse fournit également des analyses détaillées en laboratoire."
+            "text": "Les principaux outils sont la Google Search Console (données de terrain), PageSpeed Insights et Lighthouse (données de laboratoire), et Chrome DevTools pour le débogage en temps réel. Des plateformes tierces comme DebugBear et GTmetrix offrent un suivi avancé et des rapports historiques. Comparer les résultats de plusieurs outils donne une vision plus complète de la performance réelle de votre site."
           }
         },
         {
@@ -222,7 +222,7 @@
           "name": "Pourquoi le CLS est-il important pour le SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Le CLS fait partie des Core Web Vitals utilisés par Google comme facteur de classement depuis 2021. Un mauvais score peut réduire vos positions dans les résultats de recherche et augmenter votre taux de rebond."
+            "text": "Le CLS fait partie des Core Web Vitals intégrés comme signal de classement par Google. Un score CLS élevé indique une mauvaise stabilité visuelle, ce qui augmente le [Taux de rebond](https://blotmkt.com/ia/audit/taux-de-rebond.html) et réduit les conversions. Google favorise les pages offrant une expérience fluide. Optimiser le CLS améliore donc simultanément la satisfaction des utilisateurs et la visibilité organique dans les résultats de recherche."
           }
         }
       ]
@@ -252,72 +252,67 @@
     <div class="article-col">
       <article>
         <nav class="breadcrumb" aria-label="Fil d&apos;ariane"><a class="bc-link" href="https://blotmkt.com/ia/">BlotMKT</a><span class="bc-sep">›</span><a class="bc-link" href="/ia/audit/">Audit SEO</a><span class="bc-sep">›</span><span class="bc-current">Cumulative Layout Shift (CLS) : le guide pour atteindre un score inférieur à 0.1</span></nav>
-        <div class="article-meta"><div class="meta-tags"><span class="meta-kw">Cumulative Layout Shift</span></div><div class="meta-byline"><div class="meta-author-block"><img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:48px;height:48px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0"><div class="meta-author-info"><a class="meta-author" href="/ia/auteur-antoine-blot.html">Antoine Blot</a><span class="meta-jobtitle">Consultant SEO &amp; GEO</span></div></div><div class="meta-right"><span class="meta-date"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>9 mars 2026</span><span class="meta-read"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>8 min</span><a class="meta-md-btn" href="https://blotmkt.com/data/audit/cumulative-layout-shift.md">.md</a></div></div></div>
+        <div class="article-meta"><div class="meta-tags"><span class="meta-kw">Cumulative Layout Shift</span></div><div class="meta-byline"><div class="meta-author-block"><img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:48px;height:48px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0"><div class="meta-author-info"><a class="meta-author" href="/ia/auteur-antoine-blot.html">Antoine Blot</a><span class="meta-jobtitle">Consultant SEO &amp; GEO</span></div></div><div class="meta-right"><span class="meta-date"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>27 mars 2026</span><span class="meta-read"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>9 min</span><a class="meta-md-btn" href="https://blotmkt.com/data/audit/cumulative-layout-shift.md">.md</a></div></div></div>
         <h1>Cumulative Layout Shift (CLS) : le guide pour atteindre un score inférieur à 0.1</h1>
+<p class="speakable-intro">Vous cliquez sur un bouton et la page saute : vous venez de subir un layout shift. Ce décalage visuel frustrant pousse les visiteurs à quitter votre site, détériore vos conversions et envoie un signal négatif à Google. Le Cumulative Layout Shift (CLS) est le Core Web Vital qui mesure précisément cette instabilité. Ce guide vous donne les outils pour diagnostiquer, comprendre et corriger chaque source de décalage afin de passer sous le seuil critique de 0.1.</p>
 <blockquote class="speakable">
 <h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
-<li>Le Cumulative Layout Shift (CLS) est un Core Web Vital qui mesure la stabilité visuelle d'une page, avec un seuil optimal inférieur à 0.1</li>
-<li>Pour diagnostiquer le CLS, utilisez Google Search Console pour les données terrain et Chrome DevTools pour l'Analyse en temps réel</li>
-<li>Les principales causes sont les images sans dimensions, le contenu dynamique non réservé et les polices web mal optimisées</li>
-<li>Depuis mars 2024, le CLS fonctionne en synergie avec LCP et le nouveau métrique INP pour évaluer l'expérience utilisateur globale</li>
+<li>Le CLS mesure la stabilité visuelle d'une page ; un score inférieur ou égal à 0.1 est considéré bon par Google.</li>
+<li>La Google Search Console et Chrome DevTools permettent de diagnostiquer précisément les pages problématiques.</li>
+<li>Images sans dimensions, contenu injecté dynamiquement et polices web sont les trois causes principales de CLS élevé.</li>
+<li>CLS, LCP et INP forment un trio complémentaire ; optimiser l'un améliore souvent les autres.</li>
 </ul>
 </blockquote>
-<p class="speakable-intro">Le décalage de mise en page frustre vos utilisateurs et nuit à vos conversions. Imaginez un visiteur prêt à acheter qui clique accidentellement sur une publicité parce qu'un bouton s'est déplacé au moment du chargement. 
-Les pages avec des scores CLS élevés peuvent conduire à une mauvaise expérience utilisateur, car les éléments qui se déplacent peuvent amener les utilisateurs à cliquer accidentellement sur les mauvaises parties d'une page
-. La solution ? Maîtriser le Cumulative Layout Shift pour créer des sites web stables et performants.</p>
 <hr />
-<h2 class="speakable">Qu'est-ce que le Cumulative Layout Shift (CLS) et pourquoi est-il essentiel ?</h2>
-<p>Le Cumulative Layout Shift (CLS) est une métrique <a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/core-web-vitals.html.html">Core Web Vitals</a> qui mesure la stabilité visuelle sur une page web. Il quantifie combien de contenu, comme les images ou le texte, bouge de manière inattendue pendant le chargement de la page
-. Cette métrique capture l'essence même d'une expérience utilisateur fluide : la préVisibilité visuelle.</p>
-<p>Le calcul du CLS repose sur deux composants fondamentaux. 
-Le score de décalage de mise en page est le produit de deux mesures de ce mouvement : la fraction d'impact et la fraction de distance. La fraction d'impact mesure comment les éléments instables affectent la zone de viewport entre deux frames
-. Concrètement, si un élément occupe 50% de l'écran puis se déplace de 25% vers le bas, 
-la fraction d'impact est 0.75 et la fraction de distance est 0.25, donc le score de décalage de mise en page est 0.75 * 0.25 = 0.1875
-.</p>
-<p>Google définit trois seuils critiques pour le CLS : 
-un bon score CLS est 0.1 ou inférieur. Google catégorise cette plage de score comme 'Bon', ce qui signifie qu'il atteint le seuil idéal pour la stabilité visuelle dans l'évaluation des Core Web Vitals
-. Les scores entre 0.1 et 0.25 nécessitent une amélioration, tandis que ceux supérieurs à 0.25 sont considérés comme problématiques (Source : Infidigit, 2025).</p>
+<h2 class="speakable">Qu'est-ce que le Cumulative Layout Shift et pourquoi est-il essentiel ?</h2>
+<p>Le Cumulative Layout Shift est une métrique Core Web Vital qui quantifie la stabilité visuelle d'une page web pendant toute sa durée de vie. Google la considère comme un pilier fondamental de l'expérience utilisateur. Le score CLS se calcule en multipliant la fraction d'impact (proportion du viewport affectée par le décalage) par la fraction de distance (distance parcourue par l'élément instable). Google définit trois seuils : un score inférieur ou égal à 0.1 est bon, entre 0.1 et 0.25 est à améliorer, et au-delà de 0.25 est faible. Selon une étude de Google, 22 % des utilisateurs abandonnent un site à cause de changements de mise en page inattendus (Source : web.dev, 2024). Selon Antoine BLOT, Expert SEO et marketing à Montréal, un CLS mauvais impacte directement le taux de rebond, les conversions e-commerce et le positionnement dans les résultats de recherche, car Google intègre les <a href="https://blotmkt.com/ia/audit/core-web-vitals.html">Core Web Vitals</a> comme signal de classement depuis la Page Experience Update.</p>
 <h2 class="speakable">Comment mesurer et diagnostiquer précisément votre score CLS ?</h2>
-<p>La mesure du CLS nécessite une approche différenciée entre les Données de terrain et de laboratoire. 
-Le CLS de laboratoire est mesuré dans des environnements de test contrôlés (Lighthouse), tandis que le CLS de terrain provient d'utilisateurs réels (CrUX). Le laboratoire ne mesure que le chargement initial, mais le terrain capture toute la session de page, y compris le défilement et l'Interaction. Les données de terrain sont ce que Google utilise pour les signaux de classement
-.</p>
-<p>Pour identifier vos pages problématiques, commencez par Google Search Console. 
-Utilisez des outils comme Google PageSpeed Insights, Search Console, et Lighthouse dans Chrome DevTools pour voir votre score CLS. Ces outils fournissent des insights sur vos décalages de mise en page, aidant ainsi à identifier et traiter les zones nécessitant des améliorations
-.</p>
-<p>Chrome DevTools offre une Analyse en temps réel particulièrement précieuse. 
-Chrome DevTools : Partie du navigateur Chrome, DevTools vous permet de mesurer le CLS en temps réel pendant que vous interagissez avec la page, permettant une identification immédiate des décalages de mise en page
-. Cette approche vous permet de visualiser exactement quand et où se produisent les décalages (Source : Infidigit, 2025).</p>
+<p>Pour un diagnostic fiable, il faut distinguer deux types de données. Les données de terrain (field data) reflètent l'expérience réelle des utilisateurs : elles proviennent du Chrome User Experience Report (CrUX) et sont accessibles via le rapport Core Web Vitals de la Google Search Console. Ce rapport regroupe les URL par statut (bon, à améliorer, faible) et permet d'identifier les pages spécifiques posant problème (Source : Google Search Central, 2024). Les données de laboratoire (lab data) proviennent d'outils comme Lighthouse ou PageSpeed Insights et simulent un chargement contrôlé. Pour un débogage en temps réel, Chrome DevTools reste indispensable : ouvrez l'onglet Performance, lancez un enregistrement pendant le chargement de la page, et les layout shifts apparaissent en surbrillance dans la timeline du thread principal. Des outils complémentaires comme DebugBear ou GTmetrix offrent un suivi historique et des rapports plus détaillés pour comparer les résultats entre plateformes.</p>
 <h2 class="speakable">Quelles sont les causes communes d'un CLS élevé et comment les corriger ?</h2>
-<h3>Images et médias sans dimensions</h3>
-<p>Quand les attributs width et height sont manquants, les navigateurs ne peuvent pas allouer l'espace approprié pendant le chargement. Cela provoque des décalages de contenu une fois que le média est entièrement chargé et dimensionné
-. La solution consiste à toujours spécifier les dimensions dans le HTML ou utiliser la propriété CSS <code>aspect-ratio</code> pour les Designs responsifs.</p>
-<h3>Contenu dynamique non réservé</h3>
-<p>Le Contenu dynamique comme les publicités ou les frames intégrées qui se chargent de manière asynchrone peut pousser le contenu existant si leur espace n'est pas pré-alloué
-. Réservez un espace statique avec des dimensions fixes pour tous les éléments qui se chargeront après le Contenu principal.</p>
-<h3>Polices web problématiques</h3>
-<p>Les polices qui se chargent après le rendu initial de la page peuvent causer des décalages de texte
-. Utilisez <code>font-display: swap</code> et préchargez vos polices critiques avec <code>&amp;lt;link rel="preload"&gt;</code> pour minimiser l'impact visuel du changement de police (Source : BrowserStack, 2025).</p>
+<p>Trois causes principales génèrent la majorité des décalages de mise en page.</p>
+<p>La première concerne les images et iframes sans dimensions explicites. Lorsque le navigateur ignore la taille d'un média avant son chargement, il ne réserve aucun espace et repousse le contenu environnant. La solution consiste à toujours spécifier les attributs width et height dans le HTML ou à utiliser la propriété CSS aspect-ratio (Source : web.dev, 2024).</p>
+<p>La deuxième cause est le contenu injecté dynamiquement : publicités, bannières de consentement ou embeds tiers. Ces éléments apparaissent après le rendu initial et décalent le reste de la page. La correction passe par la réservation d'un espace statique (placeholder) de dimensions fixes avant le chargement du contenu dynamique.</p>
+<p>La troisième cause est le chargement des polices web personnalisées, qui provoque le phénomène FOIT (Flash of Invisible Text) ou FOUT (Flash of Unstyled Text). Pour y remédier, préchargez vos fichiers de polices avec link rel="preload" et appliquez la déclaration CSS font-display: swap afin d'afficher immédiatement une police de repli.</p>
+<table>
+<thead>
+<tr>
+<th>Cause du CLS</th>
+<th>Solution recommandée</th>
+<th>Difficulté</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Images/iframes sans dimensions</td>
+<td>Attributs width/height ou aspect-ratio</td>
+<td>Facile</td>
+</tr>
+<tr>
+<td>Contenu injecté dynamiquement</td>
+<td>Réserver un espace statique (placeholder)</td>
+<td>Moyenne</td>
+</tr>
+<tr>
+<td>Polices web (FOIT/FOUT)</td>
+<td>Preload et font-display: swap</td>
+<td>Facile</td>
+</tr>
+</tbody>
+</table>
 <h2 class="speakable">CLS, LCP, INP : la synergie des Core Web Vitals pour l'UX</h2>
-<p>Depuis mars 2024, 
-l'Interaction to Next Paint (INP) est maintenant l'une des métriques Core Web Vitals de Google, remplaçant <a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/first-input-delay.html.html">First Input Delay</a> (FID) le 12 mars 2024
-. Cette évolution renforce l'importance d'une approche holistique des performances web.</p>
-<p>Google a finalisé Core Web Vitals 2.0, remplaçant First Input Delay (FID) par <a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/interaction-to-next-paint.html.html">Interaction to Next Paint</a> (INP) et continuant de s'appuyer sur LCP (Largest Contentful Paint) et CLS (Cumulative Layout Shift) comme les trois métriques d'expérience utilisateur mesurées sur le terrain. Les sites qui atteignent les seuils pour LCP, INP et CLS (75e percentile) offrent aux utilisateurs des expériences plus rapides, plus stables et plus réactives
- (Source : Medium, 2025).</p>
-<p>L'interaction entre ces métriques est cruciale : une image qui se charge lentement (mauvais LCP) sans dimensions définies provoque aussi un CLS élevé. 
-Au-delà des effets directs sur le classement, le CLS influence les métriques de comportement utilisateur comme le Taux de rebond et le temps de session, qui affectent indirectement le SEO
- (Source : Status218, 2025).</p>
+<p>Les trois Core Web Vitals mesurent des dimensions complémentaires de l'expérience utilisateur : le CLS évalue la stabilité visuelle, le Largest Contentful Paint (LCP) mesure la vitesse de chargement perçue, et l'<a href="https://blotmkt.com/ia/audit/interaction-to-next-paint.html">Interaction to Next Paint</a> (INP), qui a remplacé le FID en mars 2024, évalue la réactivité aux interactions (Source : Chromium Blog, 2024). Ces métriques sont interdépendantes. Prenons un exemple concret : une image hero volumineuse qui se charge lentement dégrade le LCP. Si cette même image ne possède pas de dimensions définies, elle provoque un décalage de la page au moment de son apparition, augmentant aussi le CLS. De même, un script JavaScript lourd qui bloque le thread principal allonge l'INP tout en retardant le rendu d'éléments qui causeront ensuite des layout shifts. Une stratégie d'optimisation holistique est donc indispensable : compresser et dimensionner les images améliore simultanément le LCP et le CLS, tandis que le découpage du code JavaScript réduit l'INP et limite les injections tardives de contenu.</p>
 <div class="faq-speakable">
 <h3>Comment corriger un problème de CLS ?</h3>
-<p>Définissez toujours les dimensions des Images et médias, réservez l'espace pour le contenu dynamique, et optimisez le chargement des polices web. Utilisez Chrome DevTools pour identifier précisément les éléments problématiques.</p>
+<p>Pour corriger un problème de CLS, commencez par identifier les éléments instables via Chrome DevTools ou la Search Console. Ajoutez des dimensions explicites à toutes les images et iframes. Réservez un espace fixe pour les publicités et contenus dynamiques. Préchargez vos polices web avec font-display: swap. Testez chaque correction avec PageSpeed Insights pour vérifier que le score passe sous 0.1.</p>
 <h3>C'est quoi un bon score CLS ?</h3>
-<p>Un score CLS inférieur à 0.1 est considéré comme bon par Google. Entre 0.1 et 0.25, c'est à améliorer. Au-dessus de 0.25, c'est problématique et nécessite une action immédiate.</p>
+<p>Un bon score CLS est inférieur ou égal à 0.1, selon les seuils définis par Google pour les Core Web Vitals. Un score entre 0.1 et 0.25 indique que des améliorations sont nécessaires. Au-delà de 0.25, le score est considéré comme faible et peut nuire au référencement et à l'expérience utilisateur. L'objectif est de maintenir toutes vos pages sous le seuil de 0.1.</p>
 <h3>Quels outils pour mesurer le Cumulative Layout Shift ?</h3>
-<p>Google Search Console pour les données réelles d'utilisateurs, PageSpeed Insights pour une vue d'ensemble, et Chrome DevTools pour le debug en temps réel. Lighthouse fournit également des analyses détaillées en laboratoire.</p>
+<p>Les principaux outils sont la Google Search Console (données de terrain), PageSpeed Insights et Lighthouse (données de laboratoire), et Chrome DevTools pour le débogage en temps réel. Des plateformes tierces comme DebugBear et GTmetrix offrent un suivi avancé et des rapports historiques. Comparer les résultats de plusieurs outils donne une vision plus complète de la performance réelle de votre site.</p>
 <h3>Pourquoi le CLS est-il important pour le SEO ?</h3>
-<p>Le CLS fait partie des Core Web Vitals utilisés par Google comme facteur de classement depuis 2021. Un mauvais score peut réduire vos positions dans les résultats de recherche et augmenter votre taux de rebond.</p>
+<p>Le CLS fait partie des Core Web Vitals intégrés comme signal de classement par Google. Un score CLS élevé indique une mauvaise stabilité visuelle, ce qui augmente le <a href="https://blotmkt.com/ia/audit/taux-de-rebond.html">Taux de rebond</a> et réduit les conversions. Google favorise les pages offrant une expérience fluide. Optimiser le CLS améliore donc simultanément la satisfaction des utilisateurs et la visibilité organique dans les résultats de recherche.</p>
 <hr />
-<p><em>Sources : Hike SEO (2024), Status 218 (2025), Google Web.dev (2023), Infidigit (2025), BrowserStack (2025), RebelMouse (2024), GlowMetrics (2025), Medium (2025)</em></p>
+<p><em>Sources : web.dev — Cumulative Layout Shift documentation (2024) ; Google Search Central — Core Web Vitals report (2024) ; Chromium Blog — Interaction to Next Paint replaces FID (2024)</em></p>
       </article>
     </div>
   </div>
@@ -338,7 +333,7 @@ Au-delà des effets directs sur le classement, le CLS influence les métriques d
       </div>
     </div>
   </div>
-  <div style="max-width:1100px;margin:48px auto 0;padding:24px 20px 0;border-top:2px solid #f0f0f0"><h2 style="font-size:1rem;color:#555;margin-bottom:16px">Articles connexes</h2><div class="related-grid"><a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/analyse-de-logs-seo.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-mobile-first.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-montreal.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux</span><div class="related-card-meta"><span>Antoine Blot</span></div></a></div></div>
+  <div style="max-width:1100px;margin:48px auto 0;padding:24px 20px 0;border-top:2px solid #f0f0f0"><h2 style="font-size:1rem;color:#555;margin-bottom:16px">Articles connexes</h2><div class="related-grid"><a href="https://blotmkt.com/ia/audit/analyse-de-logs-seo.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.com/ia/audit/architecture-de-site.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.com/ia/audit/audit-mobile-first.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.com/ia/audit/audit-semantique.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.com/ia/audit/audit-seo-montreal.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux</span><div class="related-card-meta"><span>Antoine Blot</span></div></a></div></div>
   <footer class="site-footer">
     <div class="footer-inner">
       <div class="footer-left">

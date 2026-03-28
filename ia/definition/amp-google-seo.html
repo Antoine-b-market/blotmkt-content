@@ -119,8 +119,8 @@
       "description": "Découvrez ce qu'est l'AMP Google et son véritable impact sur le SEO. Est-ce encore une bonne stratégie ? Analyse, avantages, inconvénients et alternatives.",
       "url": "https://blotmkt.com/ia/definition/amp-google-seo.html",
       "inLanguage": "fr-CA",
-      "datePublished": "2026-03-09 09:22",
-      "dateModified": "2026-03-09 09:22",
+      "datePublished": "2026-03-27 21:50",
+      "dateModified": "2026-03-27 21:50",
       "author": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       },
@@ -195,10 +195,10 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Pourquoi Google abandonne-t-il l'AMP ?",
+          "name": "Pourquoi Google abandonne AMP ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "À partir de 2021, les grandes plateformes comme Twitter (maintenant X) et de nombreux éditeurs d'actualités ont arrêté d'utiliser l'AMP. Google a changé ses règles de classement : dans une mise à jour de juin 2021, Google a arrêté de donner aux pages AMP un avantage spécial dans les classements de recherche . L'accent s'est déplacé vers les Core Web Vitals comme mesure universelle de performance."
+            "text": "Google n'a pas officiellement abandonné l'AMP, mais a supprimé les avantages exclusifs qui le rendaient quasi obligatoire. Depuis 2021, le carrousel Top Stories et les résultats enrichis sont accessibles à toutes les pages performantes, AMP ou non. Google privilégie désormais les Core Web Vitals comme indicateur universel de performance, rendant l'AMP optionnel plutôt que stratégique pour le référencement mobile."
           }
         },
         {
@@ -206,7 +206,7 @@
           "name": "Quelle est la différence entre une page AMP et une page responsive ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Une page AMP utilise un framework restrictif qui limite le HTML, CSS et JavaScript pour garantir la vitesse, tandis qu'une page responsive s'adapte aux différentes tailles d'écran tout en conservant toutes les fonctionnalités. Les pages standard optimisées pour les Core Web Vitals atteignent les mêmes avantages de classement sans les limitations de l'AMP. La différence clé : les Core Web Vitals récompensent les résultats tandis que l'AMP impose des méthodes ."
+            "text": "Une page responsive adapte son design à toutes les tailles d'écran via des CSS media queries, sans modifier le code HTML de base. Une page AMP est une version distincte utilisant un HTML restreint et une bibliothèque JavaScript spécifique, servie depuis le cache de Google. Le responsive est une approche de design, l'AMP est un framework de performance. Les deux ne sont pas mutuellement exclusifs mais répondent à des objectifs différents."
           }
         },
         {
@@ -214,7 +214,7 @@
           "name": "Comment savoir si un site utilise AMP ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Vous pouvez vérifier si une page est AMP ou non en cherchant /amp/ à la fin d'une URL. Ou, vous pouvez voir un fil d'ariane >amp dans les résultats de recherche . Les outils comme Google Search Console permettent également d'identifier les pages AMP valides."
+            "text": "Pour vérifier si une page utilise l'AMP, examinez le code source et recherchez la balise html amp ou html ⚡ en début de document. Dans la barre d'adresse, les pages AMP servies depuis le cache Google affichent une URL commençant par cdn.ampproject.org. Vous pouvez aussi utiliser le validateur officiel validator.ampproject.org pour tester n'importe quelle URL."
           }
         },
         {
@@ -222,7 +222,7 @@
           "name": "Comment désactiver AMP sur WordPress ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pour désactiver l'AMP, utilisez le plugin \"Accelerated Mobile Pages\" > Paramètres avancés > Désactivez \"Page de résultats de recherche en AMP\" pour arrêter l'Indexation des AMP. Les directives de Google sur la suppression des AMP incluent la non-indexation des pages AMP pour ne pas afficher les posts AMP dans les résultats de recherche . Il est recommandé de mettre en place des Redirections 301 vers les pages canoniques."
+            "text": "Pour désactiver l'AMP sur WordPress, désactivez puis supprimez le plugin AMP (officiel ou tiers) depuis le menu Extensions. Ensuite, mettez en place des redirections 301 depuis les anciennes URL AMP vers les pages canoniques correspondantes pour conserver le jus SEO. Enfin, demandez la suppression des pages AMP de l'index via Google Search Console et vérifiez que vos sitemaps ne référencent plus les URL AMP."
           }
         }
       ]
@@ -252,107 +252,76 @@
     <div class="article-col">
       <article>
         <nav class="breadcrumb" aria-label="Fil d&apos;ariane"><a class="bc-link" href="https://blotmkt.com/ia/">BlotMKT</a><span class="bc-sep">›</span><a class="bc-link" href="/ia/definition/">Définitions SEO & GEO</a><span class="bc-sep">›</span><span class="bc-current">AMP et SEO : le guide pour comprendre son impact réel aujourd'hui</span></nav>
-        <div class="article-meta"><div class="meta-tags"><span class="meta-kw">AMP Google SEO</span></div><div class="meta-byline"><div class="meta-author-block"><img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:48px;height:48px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0"><div class="meta-author-info"><a class="meta-author" href="/ia/auteur-antoine-blot.html">Antoine Blot</a><span class="meta-jobtitle">Consultant SEO &amp; GEO</span></div></div><div class="meta-right"><span class="meta-date"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>9 mars 2026</span><span class="meta-read"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>10 min</span><a class="meta-md-btn" href="https://blotmkt.com/data/definition/amp-google-seo.md">.md</a></div></div></div>
+        <div class="article-meta"><div class="meta-tags"><span class="meta-kw">AMP Google SEO</span></div><div class="meta-byline"><div class="meta-author-block"><img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:48px;height:48px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0"><div class="meta-author-info"><a class="meta-author" href="/ia/auteur-antoine-blot.html">Antoine Blot</a><span class="meta-jobtitle">Consultant SEO &amp; GEO</span></div></div><div class="meta-right"><span class="meta-date"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>27 mars 2026</span><span class="meta-read"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>9 min</span><a class="meta-md-btn" href="https://blotmkt.com/data/definition/amp-google-seo.md">.md</a></div></div></div>
         <h1>AMP et SEO : le guide pour comprendre son impact réel aujourd'hui</h1>
+<p class="speakable-intro">Votre site mobile est lent et vous pensez que l'AMP est la solution miracle pour grimper dans Google. Le problème : cette technologie a perdu ses privilèges dans les résultats de recherche, et maintenir une version AMP parallèle consomme des ressources précieuses. La solution passe par une analyse lucide de ce que l'AMP apporte encore réellement en 2025, comparé aux alternatives centrées sur les <a href="https://blotmkt.com/ia/audit/core-web-vitals.html">Core Web Vitals</a> qui sont devenues la norme de performance imposée par Google.</p>
 <blockquote class="speakable">
 <h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
-<li>
-<p class="speakable-intro">L'AMP n'est plus un avantage concurrentiel depuis juin 2021, quand Google a supprimé sa priorité dans les résultats de recherche au profit des <a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/core-web-vitals.html.html">Core Web Vitals</a></p>
-</li>
-<li>
-<p>L'AMP aura un effet minimal sur le SEO en 2025, car il n'est plus nécessaire pour optimiser la Vitesse mobile</p>
-</li>
-<li>
-<p>Google a supprimé l'exigence AMP pour Top Stories en 2021, et optimiser les pages standard livre de meilleurs résultats que maintenir une infraStructure AMP</p>
-</li>
+<li>L'AMP est un framework open-source qui crée des pages mobiles ultra-rapides via un HTML restreint et un cache Google dédié.</li>
+<li>L'AMP n'a jamais été un facteur de classement direct ; son avantage SEO était lié à la vitesse et l'UX.</li>
+<li>Le retour sur investissement de l'AMP diminue face au coût de maintenance d'une version parallèle du site.</li>
+<li>Optimiser directement les Core Web Vitals sur le site principal est aujourd'hui l'alternative la plus efficace à l'AMP.</li>
 </ul>
 </blockquote>
-<p>Face à l'évolution rapide du web mobile et l'émergence des Core Web Vitals, vous vous demandez peut-être si l'AMP (Accelerated Mobile Pages) mérite encore votre attention ? 
-La position de l'AMP en 2025 est effectivement questionnable
-. Ce framework autrefois incontournable pour la performance mobile fait aujourd'hui l'objet de nombreux débats. Dans ce guide complet, nous décryptons l'impact réel de l'AMP sur votre référencement et vous aidons à prendre la meilleure décision stratégique.</p>
 <hr />
 <h2 class="speakable">Qu'est-ce que le framework AMP de Google ?</h2>
-<p>L'Accelerated Mobile Pages ou AMP est un projet lancé par Google pour créer des pages web qui se chargent rapidement et sont optimisées pour les appareils mobiles
-. Conçu comme un framework open-source, l'AMP vise à créer des pages web mobiles quasi-instantanées en imposant des contraintes strictes sur le code.</p>
-<p>Le système repose sur trois composants techniques essentiels : l'AMP HTML qui 
-élimine certains éléments pouvant ralentir les pages web
-, la bibliothèque JavaScript AMP qui 
-inclut des composants permettant un rendu rapide des pages
-, et le Google AMP Cache, 
-un réseau de distribution de contenu basé sur proxy qui aide au rendu des pages AMP
-. L'objectif initial était d'améliorer radicalement l'expérience utilisateur mobile en garantissant des temps de chargement inférieurs à la seconde.</p>
-<h3>L'évolution du positionnement Google sur l'AMP</h3>
-<p>Google a introduit l'AMP en 2015 pour aider les sites web à créer des pages mobiles se chargeant extrêmement rapidement
-. Pendant plusieurs années, 
-Google donnait une préférence aux pages AMP en les affichant dans les top stories et en les mettant en valeur avec une icône éclair dans les résultats de recherche, ce qui était populaire parmi les médias pour sa vitesse et sa visibilité
-. Cependant, 
-ils ont récemment supprimé l'icône éclair dans les résultats de Recherche
-.</p>
+<p>AMP, pour Accelerated Mobile Pages, est un framework open-source lancé par Google en 2015 pour créer des pages web mobiles au chargement quasi instantané. Il repose sur trois composants techniques complémentaires. AMP HTML est une version restreinte du HTML standard qui interdit certaines balises pour garantir la légèreté. AMP JS est une bibliothèque JavaScript optimisée qui gère le rendu asynchrone de tous les éléments et empêche le code tiers de bloquer l'affichage. Enfin, le Google AMP Cache est un CDN (réseau de diffusion de contenu) qui précharge et sert les pages AMP directement depuis les serveurs de Google, réduisant la latence au minimum. L'objectif initial était d'imposer des contraintes strictes aux éditeurs pour garantir une expérience mobile performante, à une époque où les pages mobiles étaient souvent surchargées de scripts publicitaires et de contenus lourds (Source : web.dev, Google, 2023).</p>
 <h2 class="speakable">L'impact de l'AMP sur le SEO : mythes et réalités</h2>
-<p>Contrairement aux idées reçues, 
-Google a confirmé que bien que l'AMP ait ses avantages, ce n'est pas un facteur de classement direct pour l'Optimisation des moteurs de recherche (SEO)
-. Son influence sur le référencement était principalement indirecte, à travers l'amélioration de la Vitesse de chargement et de l'expérience utilisateur.</p>
-<p>En juin 2021, Google a arrêté de donner aux pages AMP un avantage spécial dans les classements de recherche. Au lieu de cela, il a commencé à se concentrer sur un nouvel ensemble de métriques de performance appelées Core Web Vitals
-. Cette évolution majeure a fondamentalement changé la donne : 
-aujourd'hui, toute page mobile - AMP ou non - peut bien se classer dans les "Top Stories" de Google tant qu'elle offre une bonne expérience utilisateur et respecte les standards des Core Web Vitals, rendant l'AMP "largement inutile" pour la plupart des entreprises
-.</p>
-<h3>La disparition des avantages visuels</h3>
-<p>Dans le passé, l'AMP offrait également 2 avantages SEO supplémentaires : l'icône AMP qui faisait ressortir les pages dans les résultats mobiles, et l'inclusion privilégiée dans le carrousel Top Stories. Malheureusement, Google a arrêté les icônes AMP en 2021, rendant les pages AMP et non-AMP visuellement identiques dans les SERPs mobiles
-.</p>
+<p>Contrairement à une croyance répandue, l'AMP n'a jamais été un facteur de classement direct dans l'algorithme de Google. Selon Antoine BLOT, Expert SEO et marketing à Montréal, l'avantage de l'AMP était exclusivement indirect : des pages plus rapides amélioraient l'expérience utilisateur, ce qui envoyait des signaux positifs à Google. Concrètement, l'AMP offrait deux bénéfices visibles dans les SERPs : l'accès exclusif au carrousel Top Stories sur mobile et un badge éclair signalant la rapidité de la page. En 2021, Google a supprimé ces deux avantages exclusifs. Le carrousel Top Stories est désormais ouvert à toutes les pages respectant les critères de Google Actualités, et le badge éclair a disparu. Comme le souligne une étude de Ahrefs (2023), les métriques qui comptent désormais pour le classement lié à la performance sont les Core Web Vitals (LCP, INP, CLS), qui évaluent toute page, AMP ou non, sur les mêmes critères.</p>
 <h2 class="speakable">Mise en place de l'AMP : guide pratique et considérations</h2>
-<h3>Méthodes d'implémentation courantes</h3>
-<p>WordPress était un partenaire majeur du projet AMP - il n'est donc pas surprenant qu'il soit simple d'implémenter l'AMP sur WordPress. Maintenant en 2026, il est simple de configurer l'AMP sur votre site WordPress
-. Les plugins dédiés comme "AMP for WP" ou le plugin officiel "AMP" facilitent grandement l'installation. 
-Avec plus de 500 000 installations actives, AMP reste le plugin AMP le plus populaire dans le répertoire de plugins WordPress
-.</p>
-<h3>Contraintes techniques et limitations</h3>
-<p>L'AMP impose des restrictions importantes : 
-pour garantir que vos pages mobiles se chargent aussi rapidement que possible, l'AMP afFichera moins d'éléments d'interface et d'assets aux visiteurs. Et grâce au code HTML et JavaScript simplifié, les utilisateurs mobiles peuvent ne pas voir les formulaires d'inscription, boutons et CTA
-. Ces limitations peuvent impacter négativement les taux de conversion et l'engagement utilisateur.</p>
-<p>Le coût de maintenance représente un défi majeur : 
-les webmasters préconisent aussi la suppression de l'AMP car c'est un casse-tête pour les développeurs de maintenir deux versions (AMP et non-AMP) du même Contenu. De plus, les spécialistes SEO doivent surveiller les performances du contenu réparti entre deux URL dans Google Analytics et Search Console
-.</p>
+<p>L'implémentation de l'AMP se fait principalement de deux manières. Sur WordPress, le plugin officiel AMP for WordPress génère automatiquement des versions AMP des pages existantes. Sur des CMS personnalisés, il faut créer manuellement des templates conformes aux spécifications AMP HTML. Cependant, les contraintes sont significatives. Le JavaScript tiers est fortement limité, ce qui affecte le suivi analytique avancé, certains formats publicitaires et les fonctionnalités interactives. Le design est souvent simplifié par rapport au site principal, créant une expérience visuelle dégradée. Le coût principal réside dans la maintenance : il faut gérer deux versions du site en parallèle, synchroniser le contenu et déboguer des problèmes spécifiques à chaque version. Pour les grands médias à fort volume de trafic mobile, ce coût peut se justifier par le gain de quelques millisecondes via le pré-rendu du cache Google. Pour la majorité des sites, le retour sur investissement est devenu discutable (Source : SEMrush, Blog, 2024).</p>
 <h2 class="speakable">Alternatives à l'AMP : optimiser sans les contraintes</h2>
-<h3>Prioriser les Core Web Vitals</h3>
-<p>L'objectif était d'avoir des métriques mesurables sur le terrain qui reflètent les expériences réelles des utilisateurs et qui sont corrélées aux résultats comme l'engagement utilisateur. En bref, Google voulait donner au web ouvert le même focus performance que l'AMP, mais sans nécessiter un framework spécial, et récompenser les sites qui offrent de grandes expériences utilisateur de manière ouverte
-.</p>
-<p>Les Core Web Vitals mesurent directement ce qui compte : Vitesse de chargement, interactivité et stabilité visuelle. Optimiser pour ces métriques améliore le classement indépendamment de l'utilisation d'AMP
-. Ces trois métriques essentielles sont : le Largest Contentful Paint (LCP), l'Interaction to Next Paint (INP) qui 
-a remplacé le <a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/first-input-delay.html.html">First Input Delay</a> en mars 2024, capturant la réactivité sur toutes les interactions pendant la session utilisateur
-, et le <a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/cumulative-layout-shift.html.html">Cumulative Layout Shift</a> (CLS).</p>
-<h3>Techniques d'optimisation modernes</h3>
-<p>Les alternatives concrètes incluent l'optimisation directe des images avec des formats WebP/AVIF, le lazy loading, la minification CSS/JS, l'utilisation d'un CDN performant et une mise en cache efficace. 
-Les sites web réguliers non-AMP sont maintenant beaucoup plus rapides. Les développeurs peuvent atteindre d'excellentes performances mobiles en utilisant les technologies web modernes sans avoir besoin de suivre les règles restrictives de l'AMP
-.</p>
-<p>Les frameworks front-end modernes comme Next.js ou SvelteKit intègrent la performance dès la conception avec le Server-Side Rendering (SSR) et la Static Site Generation (SSG), rendant souvent l'AMP superflu.</p>
+<p>L'alternative principale à l'AMP en 2025 est l'optimisation directe des Core Web Vitals sur le site canonique. Le Largest Contentful Paint (LCP) se travaille en optimisant les images au format WebP ou AVIF, en utilisant le lazy loading et en améliorant le temps de réponse serveur. L'Interaction to Next Paint (INP) s'améliore en réduisant le JavaScript bloquant via la minification et le code-splitting. Le <a href="https://blotmkt.com/ia/audit/cumulative-layout-shift.html">Cumulative Layout Shift</a> (CLS) se corrige en définissant des dimensions explicites pour les images et les iframes. L'utilisation d'un CDN performant comme Cloudflare ou Fastly remplace avantageusement le Google AMP Cache. Les frameworks front-end modernes tels que Next.js ou SvelteKit intègrent la performance dès la conception grâce au Server-Side Rendering (SSR) et au Static Site Generation (SSG), rendant l'AMP souvent superflu (Source : Moz, 2024).</p>
+<table>
+<thead>
+<tr>
+<th>Critère</th>
+<th>AMP</th>
+<th>Optimisation Core Web Vitals</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Effort de maintenance</td>
+<td>Élevé (double version)</td>
+<td>Modéré (site unique)</td>
+</tr>
+<tr>
+<td>Limitations design/JS</td>
+<td>Fortes</td>
+<td>Aucune</td>
+</tr>
+<tr>
+<td>Avantage SERP exclusif</td>
+<td>Aucun depuis 2021</td>
+<td>Aucun (critères identiques)</td>
+</tr>
+<tr>
+<td>Performance mobile</td>
+<td>Excellente via cache Google</td>
+<td>Excellente si bien optimisé</td>
+</tr>
+<tr>
+<td>Recommandation 2025</td>
+<td>Cas spécifiques uniquement</td>
+<td>Stratégie prioritaire</td>
+</tr>
+</tbody>
+</table>
 <h2 class="speakable">Verdict : faut-il encore utiliser l'AMP aujourd'hui ?</h2>
-<p>Pour la plupart des entreprises, se concentrer sur les Core Web Vitals et le Design responsive est une meilleure stratégie à long terme que de s'appuyer sur l'AMP. Si vous utilisez déjà l'AMP, testez si sa suppression impacte le trafic, de nombreux sites ne voient aucun effet négatif
-.</p>
-<p>Le consensus actuel est clair : 
-l'AMP ne fournit plus l'avantage direct de classement SEO qu'il avait autrefois. Google a supprimé l'AMP comme exigence pour Top Stories en 2021, et les Core Web Vitals déterminent maintenant les signaux d'expérience de page. Pour la plupart des sites web, optimiser les pages standard donne de meilleurs résultats que maintenir une infraStructure AMP
-.</p>
-<p>Les rares cas où l'AMP peut encore être pertinent concernent les sites d'actualités à très fort volume cherchant le moindre gain de millisecondes via le pré-rendu du cache. 
-Seuls 0,2% des sites web utilisent l'AMP comme markup principal. Malgré une croissance de 70% en 2022, cette croissance partait d'une base faible, la plupart des sites s'appuient toujours sur le HTML standard
-.</p>
-<hr />
+<p>Le consensus actuel parmi les professionnels du SEO est clair : l'AMP n'est plus une nécessité pour la grande majorité des sites web. L'effort de développement et de maintenance est mieux investi dans l'optimisation du site principal pour les Core Web Vitals. Les rares cas où l'AMP reste pertinent concernent les sites d'actualités à très fort volume de trafic mobile, qui cherchent le moindre gain de milliseconde via le pré-rendu du Google AMP Cache, et dont l'infrastructure technique justifie cette double gestion. Pour tous les autres, la recommandation est pragmatique : concentrez vos ressources sur la performance de votre site canonique. L'AMP est une solution technique parmi d'autres, pas une <a href="https://blotmkt.com/ia/strategie/strategie-seo.html">Stratégie SEO</a> en soi. Si votre site atteint de bons scores Core Web Vitals sans AMP, cette technologie n'apportera aucun bénéfice SEO supplémentaire.</p>
 <div class="faq-speakable">
-<h3>Pourquoi Google abandonne-t-il l'AMP ?</h3>
-<p>À partir de 2021, les grandes plateformes comme Twitter (maintenant X) et de nombreux éditeurs d'actualités ont arrêté d'utiliser l'AMP. Google a changé ses règles de classement : dans une mise à jour de juin 2021, Google a arrêté de donner aux pages AMP un avantage spécial dans les classements de recherche
-. L'accent s'est déplacé vers les Core Web Vitals comme mesure universelle de performance.</p>
+<h3>Pourquoi Google abandonne AMP ?</h3>
+<p>Google n'a pas officiellement abandonné l'AMP, mais a supprimé les avantages exclusifs qui le rendaient quasi obligatoire. Depuis 2021, le carrousel Top Stories et les résultats enrichis sont accessibles à toutes les pages performantes, AMP ou non. Google privilégie désormais les Core Web Vitals comme indicateur universel de performance, rendant l'AMP optionnel plutôt que stratégique pour le référencement mobile.</p>
 <h3>Quelle est la différence entre une page AMP et une page responsive ?</h3>
-<p>Une page AMP utilise un framework restrictif qui limite le HTML, CSS et JavaScript pour garantir la vitesse, tandis qu'une page responsive s'adapte aux différentes tailles d'écran tout en conservant toutes les fonctionnalités. 
-Les pages standard optimisées pour les Core Web Vitals atteignent les mêmes avantages de classement sans les limitations de l'AMP. La différence clé : les Core Web Vitals récompensent les résultats tandis que l'AMP impose des méthodes
-.</p>
+<p>Une page responsive adapte son design à toutes les tailles d'écran via des CSS media queries, sans modifier le code HTML de base. Une page AMP est une version distincte utilisant un HTML restreint et une bibliothèque JavaScript spécifique, servie depuis le cache de Google. Le responsive est une approche de design, l'AMP est un framework de performance. Les deux ne sont pas mutuellement exclusifs mais répondent à des objectifs différents.</p>
 <h3>Comment savoir si un site utilise AMP ?</h3>
-<p>Vous pouvez vérifier si une page est AMP ou non en cherchant /amp/ à la fin d'une URL. Ou, vous pouvez voir un fil d'ariane &gt;amp dans les résultats de recherche
-. Les outils comme Google Search Console permettent également d'identifier les pages AMP valides.</p>
+<p>Pour vérifier si une page utilise l'AMP, examinez le code source et recherchez la balise html amp ou html ⚡ en début de document. Dans la barre d'adresse, les pages AMP servies depuis le cache Google affichent une URL commençant par cdn.ampproject.org. Vous pouvez aussi utiliser le validateur officiel validator.ampproject.org pour tester n'importe quelle URL.</p>
 <h3>Comment désactiver AMP sur WordPress ?</h3>
-<p>Pour désactiver l'AMP, 
-utilisez le plugin "Accelerated Mobile Pages" &gt; Paramètres avancés &gt; Désactivez "Page de résultats de recherche en AMP" pour arrêter l'Indexation des AMP. Les directives de Google sur la suppression des AMP incluent la non-indexation des pages AMP pour ne pas afficher les posts AMP dans les résultats de recherche
-. Il est recommandé de mettre en place des Redirections 301 vers les pages canoniques.</p>
+<p>Pour désactiver l'AMP sur WordPress, désactivez puis supprimez le plugin AMP (officiel ou tiers) depuis le menu Extensions. Ensuite, mettez en place des redirections 301 depuis les anciennes URL AMP vers les pages canoniques correspondantes pour conserver le jus SEO. Enfin, demandez la suppression des pages AMP de l'index via Google Search Console et vérifiez que vos sitemaps ne référencent plus les URL AMP.</p>
 <hr />
-<p><em>Sources : GTech Information Technology (2025), Hurrdat Marketing (2025), Vinova (2025), Alli AI (2025)</em></p>
+<p><em>Sources : web.dev – Documentation AMP Project (Google, 2023) ; SEMrush Blog – "AMP for SEO: Is It Still Worth It?" (2024) ; Moz – "Core Web Vitals and Page Experience" (2024)</em></p>
       </article>
     </div>
   </div>
@@ -373,7 +342,7 @@ utilisez le plugin "Accelerated Mobile Pages" &gt; Paramètres avancés &gt; Dé
       </div>
     </div>
   </div>
-  <div style="max-width:1100px;margin:48px auto 0;padding:24px 20px 0;border-top:2px solid #f0f0f0"><h2 style="font-size:1rem;color:#555;margin-bottom:16px">Articles connexes</h2><div class="related-grid"><a href="https://blotmkt.comhttps://blotmkt.com/ia/definition/algorithme-google.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Definitions</span></div><span class="related-card-title">Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.comhttps://blotmkt.com/ia/definition/ancre-de-lien.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Definitions</span></div><span class="related-card-title">Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-nofollow.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Definitions</span></div><span class="related-card-title">L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-sponsored.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Definitions</span></div><span class="related-card-title">Attribut sponsored : le guide complet pour vos liens payants en seo</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.comhttps://blotmkt.com/ia/definition/backlink-de-qualite.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Definitions</span></div><span class="related-card-title">Backlink de qualité : le guide pour acquérir des liens qui renforcent votre E-E-A-T</span><div class="related-card-meta"><span>Antoine Blot</span></div></a></div></div>
+  <div style="max-width:1100px;margin:48px auto 0;padding:24px 20px 0;border-top:2px solid #f0f0f0"><h2 style="font-size:1rem;color:#555;margin-bottom:16px">Articles connexes</h2><div class="related-grid"><a href="https://blotmkt.com/ia/definition/algorithme-google.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Definitions</span></div><span class="related-card-title">Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.com/ia/definition/ancre-de-lien.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Definitions</span></div><span class="related-card-title">Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.com/ia/definition/attribut-nofollow.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Definitions</span></div><span class="related-card-title">L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.com/ia/definition/attribut-sponsored.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Definitions</span></div><span class="related-card-title">Attribut sponsored : le guide complet pour vos liens payants en seo</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.com/ia/definition/backlink-de-qualite.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Definitions</span></div><span class="related-card-title">Backlink de qualité : le guide pour acquérir des liens qui renforcent votre E-E-A-T</span><div class="related-card-meta"><span>Antoine Blot</span></div></a></div></div>
   <footer class="site-footer">
     <div class="footer-inner">
       <div class="footer-left">

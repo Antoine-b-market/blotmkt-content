@@ -3,7 +3,6 @@ title: "L'attribut nofollow en seo : le guide pratique pour le maîtriser en 202
 description: "Découvrez ce qu'est l'attribut nofollow, son impact sur le SEO et comment l'utiliser. Apprenez la différence avec sponsored et ugc pour une stratégie de liens efficace."
 keyword: "Attribut Nofollow"
 category: "definition"
-schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"
@@ -11,161 +10,86 @@ author_github: "https://github.com/Antoine-b-market"
 author_orcid: "https://orcid.org/0009-0005-6450-4528"
 organization: "BlotMKT"
 organization_url: "https://blotmkt.com"
-date: "2026-03-09 08:48"
-date_modified: "2026-03-09 08:48"
+date: "2026-03-27 21:54"
+date_modified: "2026-03-27 21:54"
 slug: "attribut-nofollow"
-url: "https://blotmkt.com/ia/definition/attribut-nofollow.html"
-canonical: "https://blotmkt.com/ia/definition/attribut-nofollow.html"
-related_articles:
-  - title: "Lien ugc : le guide complet de l'attribut rel='ugc' pour le seo"
-    url: "/ia/definition/lien-ugc"
-  - title: "Attribut sponsored : le guide complet pour vos liens payants en seo"
-    url: "/ia/definition/attribut-sponsored"
-  - title: "Prix forfait SEO : le guide pour comprendre les tarifs et choisir le bon investissement"
-    url: "/ia/strategie/prix-forfait-seo"
+url: "https://blotmkt.com/ia/definition/attribut-nofollow"
+schema_type: "TechArticle"
+sources:
+  - blotmkt.com
+  - antoine-blot.com
 ---
 
 # L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024
 
+Vous ajoutez des liens sur votre site sans savoir si vous transmettez votre autorité SEO à des pages douteuses. Pire, une mauvaise gestion de vos attributs de lien peut diluer votre PageRank sans que vous ne vous en rendiez compte. Ce guide pratique vous explique comment maîtriser l'attribut nofollow, comprendre ses évolutions récentes (sponsored, ugc) et l'utiliser de manière stratégique pour protéger et renforcer votre référencement en 2024.
+
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - L'Attribut `rel="nofollow"` indique aux moteurs de recherche de ne pas suivre un lien ni transmettre d'autorité (PageRank) à la page liée
-> - Google a introduit `rel="sponsored"` pour les liens payants et `rel="ugc"` pour le contenu généré par les utilisateurs en 2019, complétant l'usage du nofollow
-> - 
-<!-- speakable:end -->
-Tous les Attributs de liens sont désormais traités comme des "indices" plutôt que des directives strictes
-
-> - 
-Le PageRank "sculpté" via nofollow est simplement perdu et non redistribué
-, rendant cette pratique inefficace
-> - L'attribut nofollow reste utile pour les liens externes non cautionnés, le Contenu généré par les utilisateurs et éviter les pénalités sur les liens payants
-
-L'attribut nofollow signale aux Moteurs de recherche de ne pas associer votre site à la page liée et de ne pas la crawler
-. Cette technique SEO, introduite en 2005 pour lutter contre le spam de commentaires, influence directement la transmission d'autorité entre les pages web. Comprendre son fonctionnement et ses évolutions récentes est essentiel pour optimiser votre stratégie de liens en 2024.
+> - L'attribut rel="nofollow" indique aux moteurs de recherche de ne pas transmettre l'autorité via un lien.
+> - Sponsored concerne les liens payants, ugc les contenus utilisateurs, nofollow reste le joker générique.
+> - On implémente un lien nofollow en ajoutant rel="nofollow" dans la balise HTML anchor.
+> - Depuis 2019, le nofollow est un indice pour Google, pas une directive stricte bloquant tout crawl.
 
 ---
 
-## Définition : qu'est-ce que l'attribut rel="nofollow" et son rôle en SEO ?
+## Définition : qu'est-ce que l'attribut rel="nofollow" et son rôle en seo ?
 
-L'attribut nofollow a été créé à l'origine par Google pour combattre le spam de commentaires sur les blogs
-. Sa fonction principale consiste à indiquer aux moteurs de recherche qu'un lien ne doit pas être considéré comme un vote de confiance ou une recommandation éditoriale.
-
-techniquement, 
-les liens nofollow sont des liens avec un attribut HTML rel="nofollow" appliqué, qui dit aux moteurs de recherche d'ignorer ce lien
-. Il est crucial de comprendre que 
-pour l'utilisateur, il est impossible de différencier visuellement un lien nofollow d'un lien dofollow - vous pouvez cliquer, copier et utiliser un lien nofollow comme n'importe quel autre lien
-.
-
-L'objectif initial était de préserver l'intégrité des Algorithmes de classement en empêchant la manipulation via des liens artificiels. 
-Les liens nofollow ne transmettent pas de PageRank et n'impactent probablement pas les classements des moteurs de recherche
- (Source : Backlinko, 2024).
+L'attribut rel="nofollow" est une valeur ajoutée à la balise HTML d'un lien hypertexte pour signaler aux moteurs de recherche de ne pas transmettre d'autorité (souvent appelée link juice) vers la page cible. Introduit en 2005 par Google, Yahoo et Microsoft, cet attribut a été créé spécifiquement pour lutter contre le spam de commentaires qui polluait les blogs et les forums (Source : Google Search Central, 2005). Concrètement, quand un moteur de recherche rencontre un lien nofollow, il comprend que le propriétaire du site ne cautionne pas nécessairement la ressource liée. Point important : l'attribut nofollow n'empêche jamais un utilisateur humain de cliquer sur le lien et d'accéder à la page de destination. Il agit uniquement comme un signal destiné aux robots d'indexation, pas comme un bloqueur de navigation.
 
 ## Nofollow vs sponsored vs ugc : comprendre les nuances des attributs de lien
 
-En septembre 2019, Google a évolué le système nofollow en introduisant deux nouveaux attributs : "sponsored" et "ugc", tous traités désormais comme des indices plutôt que des directives
-.
+En septembre 2019, Google a introduit deux nouveaux attributs de lien pour compléter le nofollow : sponsored et ugc. L'objectif était d'offrir une granularité plus fine dans la qualification des liens (Source : Google Search Central Blog, 2019). L'attribut rel="sponsored" doit être utilisé pour tout lien résultant d'un accord commercial, publicitaire ou sponsorisé. L'attribut rel="ugc" (User Generated Content) est destiné aux liens provenant de contenus générés par les utilisateurs, comme les commentaires de blog ou les publications de forum. Quant à rel="nofollow", il conserve son rôle de joker générique pour les cas où vous ne souhaitez pas endosser un lien sans que celui-ci entre dans les catégories précédentes. Selon Antoine BLOT, Expert SEO et marketing à Montréal, ces attributs peuvent aussi être combinés, par exemple rel="nofollow ugc", pour plus de précision.
 
-L'attribut `rel="sponsored"` s'applique exclusivement aux liens payants ou commerciaux. 
-Il indique qu'une contrepartie a été fournie pour la mise en place du Backlink, que ce soit un paiement classique ou une contrepartie d'autre nature comme des produits offerts
-.
-
-L'attribut `rel="ugc"` (User Generated Content) cible spécifiquement 
-les liens créés par les internautes
-, comme dans les commentaires de blog ou les forums. 
-L'attribut UGC agit comme un bouclier de sécurité en informant les moteurs de recherche que les contributions des utilisateurs sont responsables du lien, pas les administrateurs du domaine
-.
-
-L'Attribut `rel="nofollow"` conserve son rôle de joker pour tous les autres cas. 
-Il est possible d'utiliser plusieurs attributs ensemble, comme rel="ugc sponsored" ou rel="nofollow ugc" pour maintenir la compatibilité ascendante
- (Source : Google, 2019).
+| Attribut | Usage principal | Exemple concret |
+|---|---|---|
+| rel="nofollow" | Lien non cautionné (joker) | Lien vers une source non vérifiée |
+| rel="sponsored" | Lien payant ou publicitaire | Lien d'affiliation, article sponsorisé |
+| rel="ugc" | Contenu généré par les utilisateurs | Commentaire de blog, post de forum |
 
 ## Mise en pratique : comment implémenter un lien nofollow ?
 
-L'implémentation technique d'un lien nofollow suit une syntaxe HTML simple : `<a href="https://exemple.com" rel="nofollow">Texte du lien</a>`. 
-Il suffit d'ajouter l'attribut rel="nofollow" dans le code HTML du lien
-.
+La syntaxe HTML pour créer un lien nofollow est directe : il suffit d'ajouter l'attribut rel="nofollow" dans la balise anchor. Le code ressemble à ceci : a href="https://exemple.com" rel="nofollow" suivi du texte d'ancre. Sur WordPress, la plupart des éditeurs modernes comme Gutenberg ou les plugins comme Yoast SEO proposent une case à cocher ou un champ dédié pour ajouter cet attribut sans toucher au code. Pour vérifier qu'un lien est bien en nofollow, faites un clic droit sur le lien dans votre navigateur, sélectionnez "Inspecter l'élément" et cherchez l'attribut rel dans le code HTML affiché. Des extensions comme Ahrefs SEO Toolbar ou NoFollow Simple permettent aussi de visualiser instantanément les liens nofollow sur une page (Source : Ahrefs, 2023). Au niveau de la page entière, la balise meta robots avec la valeur nofollow empêche la transmission d'autorité via tous les liens de cette page, une option à utiliser avec prudence.
 
-Les CMS modernes facilitent cette implémentation. Dans WordPress, une case à cocher permet d'ajouter l'attribut nofollow lors de l'insertion d'un lien, sans nécessiter de manipulation de code. Pour les sites e-commerce, 
-tous les liens de commentaires WordPress ont automatiquement l'attribut nofollow, et des plugins existent pour appliquer le nofollow à tous les liens externes
-.
+## Impact seo : mythes et réalités du nofollow sur le PageRank et le crawl
 
-### Vérification de l'attribut nofollow
-
-Pour vérifier la présence de l'attribut, faites un clic droit sur votre navigateur, sélectionnez "AfFicher le code source de la page" et cherchez le lien dans le HTML. Si vous voyez un attribut rel="nofollow", le lien est en nofollow
-.
-
-Des outils comme l'extension Chrome "Strike Out Nofollow Links" automatisent cette vérification en barrant visuellement tous les liens nofollow d'une page (Source : Backlinko, 2024).
-
-## Impact SEO : mythes et réalités du nofollow sur le PageRank et le crawl
-
-Depuis 2019, tous les attributs de liens sont traités comme des indices sur les liens à considérer ou exclure dans la recherche, avec d'autres signaux pour mieux Analyser les liens
-. Cette évolution marque une rupture fondamentale avec l'approche historique.
-
-Le mythe du "PageRank sculpting" reste répandu mais obsolète. 
-Google a changé le fonctionnement du PageRank il y a plus d'un an : les cinq liens sans nofollow ne reçoivent désormais qu'un point de PageRank chacun au lieu de deux
-. 
-Le PageRank potentiel qui aurait pu être transmis à la page est annulé et n'est pas redistribué aux autres pages liées
-.
-
-Pour le [Budget de crawl](https://blotmkt.comhttps://blotmkt.com/ia/audit/budget-de-crawl.html.html), 
-les pages liées peuvent toujours être trouvées par d'autres moyens comme les Sitemaps ou des liens d'autres sites, et peuvent donc être crawlées
-. 
-Pour le crawling et l'Indexation, le nofollow est devenu un indice depuis mars 2020
-, permettant à Google de décider s'il suit ou non ces liens (Source : Google, 2020).
+Le changement le plus significatif concernant le nofollow date de mars 2020 : Google traite désormais cet attribut comme un indice (hint) plutôt qu'une directive stricte. Cela signifie que Google peut choisir de suivre un lien nofollow pour découvrir de nouvelles pages, même s'il ne transmet généralement pas de PageRank via ce lien (Source : Moz, 2020). Le mythe du PageRank sculpting, qui consistait à placer des nofollow sur certains liens internes pour concentrer le jus SEO vers d'autres pages, est obsolète depuis 2009. Le PageRank qui aurait transité par un lien nofollow est simplement perdu, pas redistribué aux autres liens dofollow de la page. En revanche, un lien nofollow conserve une valeur indirecte réelle : il peut générer du trafic de référence, renforcer la notoriété de marque et contribuer à la diversité naturelle de votre profil de backlinks.
 
 ## Utilisation stratégique : quand faut-il utiliser l'attribut nofollow ?
 
-L'usage stratégique du nofollow se concentre sur quatre cas principaux. Premièrement, les liens vers des sites externes non fiables ou que vous ne souhaitez pas cautionner. 
-Les liens vers du Contenu éditorial de qualité informent l'algorithme de Google de la confiance et valeur de votre site - ne les mettez jamais en nofollow
-.
+L'utilisation du nofollow relève d'une décision stratégique. Premier cas : les liens sortants vers des sites dont vous ne pouvez pas garantir la fiabilité ou la qualité. Cela protège votre site d'une association négative aux yeux de Google. Deuxième cas : les contenus générés par les utilisateurs sur votre site, si vous n'implémentez pas l'attribut ugc. Troisième cas : tous les liens commerciaux ou sponsorisés, bien que l'attribut sponsored soit désormais la norme recommandée par Google pour cette catégorie spécifique. Quatrième cas, plus avancé : certains liens internes pointant vers des pages à faible valeur SEO comme les pages de connexion ou les conditions générales. Cette pratique reste marginale et rarement nécessaire si votre [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site.html) est bien pensée. La règle générale est simple : si vous ne voulez pas cautionner une page ou transmettre votre autorité, utilisez le nofollow.
 
-Deuxièmement, le contenu généré par les utilisateurs nécessite une attention particulière. 
-L'introduction des liens UGC résout le problème de qualité des liens et évite les pratiques SEO manipulatrices comme le spam de liens. Trop de liens spammy dans votre contenu généré par les utilisateurs pourrait potentiellement nuire au classement SEO
-.
-
-Troisièmement, 
-selon les directives de Google, tous les liens payants doivent être en nofollow (ou utiliser l'attribut "sponsored" plus récent). Par exemple, si vous payez pour une bannière publicitaire sur un site web, Google exige que le lien soit en nofollow
-, sous peine de pénalité.
-
-Enfin, pour la gestion de liens internes avancée, 
-John Mueller de Google explique qu'utiliser nofollow sur les liens internes pour éviter le crawl d'URLs non souhaitées est une option, mais recommande plutôt d'utiliser la balise canonical ou le disallow dans Robots.txt
- (Source : Lumar, 2024).
+[!IMPORTANT] Ne jamais placer de nofollow sur vos liens internes stratégiques : cela gaspille du PageRank au lieu de le rediriger.
 
 ## Questions fréquentes
 
 ### Quelle est la différence entre un lien dofollow et nofollow ?
-
-En termes d'Optimisation pour les moteurs de recherche, il existe une grande différence : les liens dofollow aident vos classements tandis que les liens nofollow n'ont pas d'impact SEO
-. Les liens dofollow transmettent l'autorité (PageRank) tandis que les nofollow servent d'indices sans garantie de transmission.
+Un lien dofollow transmet l'autorité SEO (link juice) du site source vers la page cible, contribuant ainsi à son positionnement dans les résultats de recherche. Un lien nofollow, grâce à l'attribut rel="nofollow", signale aux moteurs de recherche de ne pas transmettre cette autorité. Par défaut, tous les liens HTML sont dofollow. Le nofollow doit être ajouté explicitement. Les deux types de liens restent cliquables pour les utilisateurs.
 
 ### Comment savoir si un lien est en nofollow ?
-
-Inspectez le code source de la page et recherchez l'attribut `rel="nofollow"` dans la Balise du lien. Des extensions navigateur comme "Strike Out Nofollow Links" facilitent cette identification en barrant visuellement les liens nofollow.
+Pour vérifier si un lien est en nofollow, faites un clic droit sur le lien dans votre navigateur et sélectionnez "Inspecter" ou "Inspecter l'élément". Dans le code HTML affiché, recherchez l'attribut rel="nofollow" dans la balise a. Vous pouvez aussi utiliser des extensions de navigateur comme Ahrefs SEO Toolbar, qui surlignent automatiquement les liens nofollow sur chaque page visitée.
 
 ### Quand doit-on utiliser l'attribut nofollow ?
+Utilisez le nofollow pour les liens vers des sites non fiables, les liens payants (ou sponsored de préférence), les contenus utilisateurs (ou ugc), et les widgets ou embeds tiers. Il protège votre [Profil de liens](https://blotmkt.com/ia/definition/profil-de-liens.html) en évitant de cautionner des ressources dont vous ne contrôlez pas la qualité. En 2024, Google recommande de privilégier les attributs sponsored et ugc quand le contexte le permet, en gardant nofollow comme option générique.
 
-Utilisez nofollow pour les liens externes non cautionnés, le Contenu généré par les utilisateurs (ou l'attribut "ugc"), et les liens payants (bien que "sponsored" soit désormais préférable). Évitez-le pour vos liens internes et vers du contenu de qualité.
-
-### Est-ce que les liens nofollow sont bons pour le SEO ?
-
-Les liens nofollow ne sont pas mauvais pour le SEO. Bien qu'ils ne soient techniquement pas comptabilisés pour vos classements SEO, ils peuvent avoir un impact positif et font partie naturelle d'un [Profil de liens](https://blotmkt.comhttps://blotmkt.com/ia/definition/profil-de-liens.html.html) sain et robuste
-. Ils génèrent du trafic de référence et participent à la diversité naturelle des liens.
+### Est-ce que les liens nofollow sont bons pour le seo ?
+Les liens nofollow ne transmettent pas directement d'autorité SEO, mais ils ne sont pas inutiles. Ils génèrent du trafic de référence, renforcent la visibilité de marque et contribuent à un profil de backlinks naturel et diversifié. Un site qui ne reçoit que des liens dofollow peut paraître suspect aux yeux de Google. Les liens nofollow provenant de sites à forte autorité peuvent aussi avoir un impact indirect sur votre référencement.
 
 ---
 
-*Sources : Google Search Central (2024), Abondance (2025), Backlinko (2024)*
+*Sources : Google Search Central Blog (2019), Moz — "Rel=nofollow, Sponsored, & UGC" (2020), Ahrefs — SEO Toolbar documentation (2023)*
 
 ```json
 {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
+      "@type": "TechArticle",
       "headline": "L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024",
       "description": "Découvrez ce qu'est l'attribut nofollow, son impact sur le SEO et comment l'utiliser. Apprenez la différence avec sponsored et ugc pour une stratégie de liens efficace.",
       "url": "https://blotmkt.com/ia/definition/attribut-nofollow",
-      "datePublished": "2026-03-09 08:48",
-      "dateModified": "2026-03-09 08:48",
+      "datePublished": "2026-03-27 21:54",
+      "dateModified": "2026-03-27 21:54",
       "author": {
         "@type": "Person",
         "name": "Antoine Blot",
@@ -181,8 +105,8 @@ Les liens nofollow ne sont pas mauvais pour le SEO. Bien qu'ils ne soient techni
         "name": "BlotMKT",
         "url": "https://blotmkt.com"
       },
-      "inLanguage": "fr-FR",
-      "keywords": "rel=nofollow, lien nofollow, seo nofollow, Attribut Sponsored, attribut ugc, link juice, budget de crawl, netlinking, dofollow vs nofollow"
+      "inLanguage": "fr-CA",
+      "keywords": "rel="nofollow", lien nofollow, seo nofollow, attribut sponsored, attribut ugc, link juice, budget de crawl, netlinking, dofollow vs nofollow"
     },
     {
       "@type": "FAQPage",
@@ -192,7 +116,7 @@ Les liens nofollow ne sont pas mauvais pour le SEO. Bien qu'ils ne soient techni
           "name": "Quelle est la différence entre un lien dofollow et nofollow ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Les liens dofollow transmettent l'autorité (PageRank) et aident les classements SEO, tandis que les liens nofollow servent d'indices aux moteurs de recherche sans garantir la transmission d'autorité. Visuellement, ils sont identiques pour l'utilisateur."
+            "text": "Un lien dofollow transmet l'autorité SEO (link juice) du site source vers la page cible, contribuant ainsi à son positionnement dans les résultats de recherche. Un lien nofollow, grâce à l'attribut rel='nofollow', signale aux moteurs de recherche de ne pas transmettre cette autorité. Par défaut, tous les liens HTML sont dofollow. Le nofollow doit être ajouté explicitement. Les deux types de liens restent cliquables pour les utilisateurs."
           }
         },
         {
@@ -200,7 +124,7 @@ Les liens nofollow ne sont pas mauvais pour le SEO. Bien qu'ils ne soient techni
           "name": "Comment savoir si un lien est en nofollow ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Inspectez le code source de la page et cherchez l'attribut rel='nofollow' dans la balise du lien. Des extensions comme 'Strike Out Nofollow Links' barrent automatiquement ces liens pour faciliter leur identification."
+            "text": "Pour vérifier si un lien est en nofollow, faites un clic droit sur le lien dans votre navigateur et sélectionnez 'Inspecter' ou 'Inspecter l'élément'. Dans le code HTML affiché, recherchez l'attribut rel='nofollow' dans la balise a. Vous pouvez aussi utiliser des extensions de navigateur comme Ahrefs SEO Toolbar, qui surlignent automatiquement les liens nofollow sur chaque page visitée."
           }
         },
         {
@@ -208,17 +132,17 @@ Les liens nofollow ne sont pas mauvais pour le SEO. Bien qu'ils ne soient techni
           "name": "Quand doit-on utiliser l'attribut nofollow ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Utilisez nofollow pour les liens externes non cautionnés, le Contenu généré par les utilisateurs, et les liens payants (bien que 'sponsored' soit préférable). Évitez-le pour vos liens internes et vers du contenu de qualité que vous recommandez."
+            "text": "Utilisez le nofollow pour les liens vers des sites non fiables, les liens payants (ou sponsored de préférence), les contenus utilisateurs (ou ugc), et les widgets ou embeds tiers. Il protège votre profil de liens en évitant de cautionner des ressources dont vous ne contrôlez pas la qualité. En 2024, Google recommande de privilégier les attributs sponsored et ugc quand le contexte le permet, en gardant nofollow comme option générique."
           }
         },
         {
           "@type": "Question",
-          "name": "Est-ce que les liens nofollow sont bons pour le SEO ?",
+          "name": "Est-ce que les liens nofollow sont bons pour le seo ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Les liens nofollow ne nuisent pas au SEO et font partie d'un profil de liens naturel et sain. Bien qu'ils ne transmettent pas d'autorité directement, ils génèrent du trafic de référence et participent à la diversité des liens, ce qui est bénéfique."
+            "text": "Les liens nofollow ne transmettent pas directement d'autorité SEO, mais ils ne sont pas inutiles. Ils génèrent du trafic de référence, renforcent la visibilité de marque et contribuent à un profil de backlinks naturel et diversifié. Un site qui ne reçoit que des liens dofollow peut paraître suspect aux yeux de Google. Les liens nofollow provenant de sites à forte autorité peuvent aussi avoir un impact indirect sur votre référencement."
           }
-        }
+        },
       ]
     }
   ]
@@ -227,50 +151,10 @@ Les liens nofollow ne sont pas mauvais pour le SEO. Bien qu'ils ne soient techni
 
 ---
 
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
 ## Articles connexes
 
-- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.comhttps://blotmkt.com/ia/definition/algorithme-google.html.html)
-- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.comhttps://blotmkt.com/ia/definition/amp-google-seo.html.html)
-- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.comhttps://blotmkt.com/ia/definition/ancre-de-lien.html.html)
-- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-sponsored.html.html)
-- [Backlink de qualité : le guide pour acquérir des liens qui renforcent votre E-E-A-T](https://blotmkt.comhttps://blotmkt.com/ia/definition/backlink-de-qualite.html.html)
+- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)
+- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo.html)
+- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien.html)
+- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored.html)
+- [Backlink de qualité : le guide pour acquérir des liens qui renforcent votre E-E-A-T](https://blotmkt.com/ia/definition/backlink-de-qualite.html)

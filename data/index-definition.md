@@ -2,7 +2,7 @@
 title: "Définitions SEO & GEO — Index Markdown"
 summary: "Corpus Définitions SEO & GEO en version Markdown pour citation, ingestion LLM ou integration RAG."
 author: "Antoine Blot"
-date: "2026-03-27"
+date: "2026-03-28"
 license: "CC BY 4.0"
 canonical_url: "https://blotmkt.com/data/index-definition.md"
 robots: "index, follow"
@@ -30,7 +30,7 @@ Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
 - [L'intention navigationnelle : le signal client à intégrer dans votre tracking omnicanal](https://blotmkt.com/data/definition/intention-navigationnelle.md)
 - [JSON-LD pour le SEO : décuplez votre visibilité et vos rich results](https://blotmkt.com/data/definition/json-ld-seo.md)
 - [Knowledge Graph : le guide complet pour le SEO et la recherche sémantique](https://blotmkt.com/data/definition/knowledge-graph.md)
-- [Lien ugc : le guide complet de l'attribut rel='ugc' pour le seo](https://blotmkt.com/data/definition/lien-ugc.md)
+- [Lien ugc : le guide complet de l'attribut rel="ugc" pour le seo](https://blotmkt.com/data/definition/lien-ugc.md)
 - [Maillage interne en silo : le guide pour une architecture seo optimisée](https://blotmkt.com/data/definition/maillage-interne-silo.md)
 - [Netlinking : définition complète, fonctionnement et bénéfices SEO](https://blotmkt.com/data/definition/netlinking-definition.md)
 - [Page pilier SEO : le guide pour structurer votre autorité thématique](https://blotmkt.com/data/definition/page-pilier-seo.md)

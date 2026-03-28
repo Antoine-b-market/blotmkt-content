@@ -119,8 +119,8 @@
       "description": "Découvrez ce qu'est un fichier robots.txt, sa différence cruciale avec noindex et comment le configurer pour optimiser votre budget de crawl et votre SEO.",
       "url": "https://blotmkt.com/ia/audit/fichier-robots.txt.html",
       "inLanguage": "fr-CA",
-      "datePublished": "2026-03-09 06:41",
-      "dateModified": "2026-03-09 06:41",
+      "datePublished": "2026-03-27 20:33",
+      "dateModified": "2026-03-27 20:33",
       "author": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       },
@@ -198,7 +198,7 @@
           "name": "Où placer le fichier robots.txt ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Placé à la racine de votre site web, à la base de l'arborescence des dossiers hébergés sur le serveur . Il doit être accessible via www.votredomaine.com/robots.txt pour être reconnu par les Moteurs de recherche."
+            "text": "Le fichier robots.txt doit être placé à la racine de votre domaine, accessible directement via l'URL https://www.votresite.com/robots.txt. Un fichier placé dans un sous-répertoire ne sera pas reconnu par les crawlers. Chaque sous-domaine nécessite son propre fichier robots.txt. Le fichier doit être nommé exactement robots.txt en minuscules et encodé en UTF-8 pour être correctement interprété par les moteurs de recherche."
           }
         },
         {
@@ -206,23 +206,7 @@
           "name": "Comment savoir si une page est bloquée par le robots.txt ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Utilisez l'outil de test de Google Search Console dans la section \"Exploration\". Le rapport robots.txt dans Google Search Console est inestimable. Il montre quels fichiers robots.txt Google a trouvés, quand ils ont été crawlés pour la dernière fois, et tous les avertissements ou Erreurs ."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Quelle est la différence entre Disallow et noindex ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Les directives allow et disallow sont utilisées pour paramétrer le crawl via le fichier robots.txt. A contrario, les balises meta index et noindex permettent de gérer l'indexation dans les bases de données Google. Elles n'ont donc pas le même objectif ."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Comment autoriser un seul bot dans le robots.txt ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Spécifiez le User-agent exact : `User-agent: Googlebot` suivi de vos directives, puis `User-agent: *` avec `Disallow: /` pour bloquer tous les autres robots. L'intérêt, c'est que l'on peut définir quel robot de moteur de recherche aura accès ou non au site, ou à certaines parties du site ."
+            "text": "Utilisez l'outil de test du robots.txt disponible dans Google Search Console. Saisissez l'URL de la page que vous souhaitez vérifier et l'outil indiquera si elle est autorisée ou ```json { \"@context\": \"https://schema.org\", \"@graph\": [ { \"@type\": \"TechArticle\", \"headline\": \"Fichier robots.txt : le guide pour maîtriser l'exploration de votre site\", \"description\": \"Découvrez ce qu'est un fichier robots.txt, sa différence cruciale avec noindex et comment le configurer pour optimiser votre budget de crawl et votre SEO.\", \"url\": \"https://blotmkt.com/ia/audit/fichier-robots.txt\", \"datePublished\": \"2026-03-27 20:33\", \"dateModified\": \"2026-03-27 20:33\", \"author\": { \"@type\": \"Person\", \"name\": \"Antoine Blot\", \"url\": \"https://antoine-blot.com\", \"sameAs\": [ \"https://www.linkedin.com/in/blotantoine/\", \"https://github.com/Antoine-b-market\", \"https://orcid.org/0009-0005-6450-4528\" ] }, \"publisher\": { \"@type\": \"Organization\", \"name\": \"BlotMKT\", \"url\": \"https://blotmkt.com\" }, \"inLanguage\": \"fr-CA\", \"keywords\": \"budget de crawl, directives robots, user-agent disallow, meta robots noindex, optimisation SEO technique, googlebot\" }, { \"@type\": \"FAQPage\", \"mainEntity\": [ { \"@type\": \"Question\", \"name\": \"Où placer le fichier robots.txt ?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Le fichier robots.txt doit être placé à la racine de votre domaine, accessible directement via l'URL https://www.votresite.com/robots.txt. Un fichier placé dans un sous-répertoire ne sera pas reconnu par les crawlers. Chaque sous-domaine nécessite son propre fichier robots.txt. Le fichier doit être nommé exactement robots.txt en minuscules et encodé en UTF-8 pour être correctement interprété par les moteurs de recherche.\" } }, { \"@type\": \"Question\", \"name\": \"Comment savoir si une page est bloquée par le robots.txt ?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Utilisez l'outil de test du robots.txt disponible dans Google Search Console. Saisissez l'URL de la page que vous souhaitez vérifier et l'outil indiquera si elle est autorisée ou\" } }, ] } ] } ```"
           }
         }
       ]
@@ -252,122 +236,87 @@
     <div class="article-col">
       <article>
         <nav class="breadcrumb" aria-label="Fil d&apos;ariane"><a class="bc-link" href="https://blotmkt.com/ia/">BlotMKT</a><span class="bc-sep">›</span><a class="bc-link" href="/ia/audit/">Audit SEO</a><span class="bc-sep">›</span><span class="bc-current">Fichier robots.txt : le guide pour maîtriser l'exploration de votre site</span></nav>
-        <div class="article-meta"><div class="meta-tags"><span class="meta-kw">Fichier Robots.txt</span></div><div class="meta-byline"><div class="meta-author-block"><img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:48px;height:48px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0"><div class="meta-author-info"><a class="meta-author" href="/ia/auteur-antoine-blot.html">Antoine Blot</a><span class="meta-jobtitle">Consultant SEO &amp; GEO</span></div></div><div class="meta-right"><span class="meta-date"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>9 mars 2026</span><span class="meta-read"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>8 min</span><a class="meta-md-btn" href="https://blotmkt.com/data/audit/fichier-robots.txt.md">.md</a></div></div></div>
+        <div class="article-meta"><div class="meta-tags"><span class="meta-kw">Fichier Robots.txt</span></div><div class="meta-byline"><div class="meta-author-block"><img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:48px;height:48px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0"><div class="meta-author-info"><a class="meta-author" href="/ia/auteur-antoine-blot.html">Antoine Blot</a><span class="meta-jobtitle">Consultant SEO &amp; GEO</span></div></div><div class="meta-right"><span class="meta-date"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>27 mars 2026</span><span class="meta-read"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>7 min</span><a class="meta-md-btn" href="https://blotmkt.com/data/audit/fichier-robots.txt.md">.md</a></div></div></div>
         <h1>Fichier robots.txt : le guide pour maîtriser l'exploration de votre site</h1>
+<p class="speakable-intro">Votre site compte des milliers de pages, mais Googlebot ne visite qu'une fraction d'entre elles à chaque passage. Si le robot gaspille son temps sur des pages de tri, de panier ou d'administration, vos contenus stratégiques restent dans l'ombre. Le fichier robots.txt est précisément l'outil qui résout ce problème : un simple fichier texte qui oriente les crawlers vers vos pages à forte valeur, tout en leur fermant la porte des zones inutiles. Encore faut-il comprendre ce qu'il fait vraiment, et surtout ce qu'il ne fait pas.</p>
 <blockquote class="speakable">
 <h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
-<li>Le fichier robots.txt est un fichier texte placé à la racine d'un site qui guide les robots d'exploration vers les pages importantes tout en préservant le <a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/budget-de-crawl.html.html">Budget de crawl</a></li>
-<li>Contrairement à la balise meta <code>noindex</code>, le robots.txt agit sur l'Exploration (crawl) et non sur l'indexation : une page bloquée peut quand même être indexée si elle reçoit des liens externes</li>
-<li>Créer un robots.txt optimisé nécessite un éditeur texte simple, une syntaxe précise (User-agent, Disallow) et un test via Google Search Console</li>
-<li>Utilisez le robots.txt pour bloquer les pages techniques sans valeur SEO : recherche interne, connexion, paramètres de session ou fichiers administratifs</li>
+<li>Le robots.txt guide les crawlers en leur interdisant l'accès à certaines zones, sans empêcher l'indexation.</li>
+<li>Le robots.txt bloque l'exploration, tandis que la balise meta noindex empêche l'indexation d'une page.</li>
+<li>Créez un fichier texte nommé robots.txt en minuscules, placé à la racine de votre domaine.</li>
+<li>Bloquez les pages de recherche interne, de connexion et les URLs à paramètres pour préserver le <a href="https://blotmkt.com/ia/audit/budget-de-crawl.html">Budget de crawl</a>.</li>
 </ul>
 </blockquote>
-<p class="speakable-intro">Le fichier robots.txt reste l'un des outils les plus mal compris du SEO technique. Beaucoup le confondent avec un moyen de désIndexation, créant des problèmes d'exploration majeurs. En réalité, 
-il s'agit de faciliter l'Exploration de votre site web en éliminant les URLs à faible valeur ajoutée afin d'optimiser le crawl budget des robots
-. Découvrez comment maîtriser cet outil essentiel pour concentrer l'attention de Googlebot sur vos contenus stratégiques.</p>
 <hr />
 <h2 class="speakable">Définition et rôle du fichier robots.txt pour le SEO</h2>
-<p>Le robots.txt file est un fichier texte placé dans le répertoire racine de votre site web. Il agit comme un ensemble d'instructions pour les robots web (crawlers) concernant les parties de votre site auxQuelles ils sont autorisés à accéder
-. Son rôle principal n'est pas d'empêcher l'Indexation, mais bien de gérer l'exploration : 
-il va pouvoir autoriser ou interdire des accès à des pages, ou à des dossiers, qui ne sont pas pertinents pour le SEO, et qui, de ce fait, vont consommer inutilement du Budget crawl. Les robots ne vont alors pas perdre de temps sur vos pages sans intérêt, et concentrer toute leur attention sur vos pages importantes
-.</p>
-<p>La syntaxe repose sur des directives simples : 
-la consigne "user-agent", suivie de deux points et de la liste des user-agents autorisés, qu'on trouve très facilement sur Google (googlebot pour Google, bingbot pour Bing…)
-. 
-Le budget de crawl fait référence au nombre de pages que Googlebot va crawler sur votre site lors d'un crawl donné
-, rendant crucial l'Optimisation de ce fichier pour les sites de grande taille.</p>
-<h3>Comprendre l'impact sur le budget de crawl</h3>
-<p>La rapidité de son site web est, de plus en plus, un enjeu SEO. L'impact de la lenteur du site est énorme, y compris dans le calcul de votre Budget de crawl
-. 
-Empêchez donc les robots de charger via un fichier robots.txt : pas la peine de les faire Analyser quelque chose qu'ils ne pourraient pas comprendre !
- (Source : Semrush, 2021)</p>
-<h2 class="speakable">Robots.txt vs meta <code>noindex</code> : ne plus confondre exploration et indexation</h2>
-<p>La différence fondamentale entre ces deux outils réside dans leur moment d'action. 
-Le robots.txt va interdire le crawl par les robots aux zones qui sont listées par les directives Disallow
-. 
-La Balise meta robots noindex par contre, c'est une balise html, une directive aussi, qui va demander aux moteurs de recherche, après avoir crawlé la page, il est demandé aux moteurs de recherche de ne pas indexer. Donc avec la balise meta robots noindex, il y a crawl, mais on demande à ce que l'indexation ne se fasse pas
-.</p>
-<p>Point crucial : 
-une page bloquée par robots.txt peut quand même être indexée si la page est liée depuis un autre site web
-. 
-Pour que la règle noindex soit efficace, la page ou ressource ne doit pas être bloquée par un fichier robots.txt, et elle doit être autrement accessible au crawler. Si la page est bloquée par un fichier robots.txt ou que le crawler ne peut pas accéder à la page, le crawler ne verra jamais la règle noindex, et la page peut encore apparaître dans les résultats de Recherche
-.</p>
-<h3>Tableau comparatif essentiel</h3>
+<p>Le fichier robots.txt est un fichier texte encodé en UTF-8, placé à la racine d'un domaine (exemple : https://www.votresite.com/robots.txt). Il s'appuie sur le Protocole d'Exclusion des Robots, formalisé en 2022 sous la norme RFC 9309 par l'IETF, pour donner des instructions d'exploration aux crawlers comme Googlebot ou Bingbot.</p>
+<p>Son rôle fondamental est la gestion du budget de crawl. Chaque moteur de recherche alloue un nombre limité de requêtes par session d'exploration à un site donné. Le robots.txt permet de concentrer ces visites sur les pages qui comptent : contenus éditoriaux, fiches produits, pages de catégories. Selon la documentation officielle de Google Search Central, le fichier robots.txt sert principalement à gérer le trafic des crawlers et non à masquer une page des résultats de recherche (Source : Google Search Central, 2024).</p>
+<p>Sa syntaxe repose sur deux directives essentielles. La directive User-agent cible un robot spécifique ou tous les robots avec le caractère joker astérisque. La directive Disallow interdit l'accès à un chemin d'URL précis. Une directive Allow peut aussi autoriser l'exploration d'un sous-chemin au sein d'un répertoire bloqué.</p>
+<div class="alert-important">Un fichier robots.txt absent (erreur 404) signifie que le site est considéré comme entièrement explorable, sans aucune restriction.</div>
+
+<hr />
+<h2 class="speakable">Robots.txt vs meta noindex : ne plus confondre exploration et indexation</h2>
+<p>Cette confusion est la plus répandue en SEO technique, et ses conséquences sont directes sur la visibilité d'un site. Le fichier robots.txt et la balise meta robots noindex agissent à deux niveaux distincts du processus de référencement.</p>
+<p>Le robots.txt agit sur l'exploration. Quand un crawler rencontre une règle Disallow, il ne visite même pas l'URL concernée. Il ne lit ni son contenu, ni ses balises, ni ses liens internes. La balise meta robots noindex agit sur l'indexation. Le robot visite la page, lit son contenu, mais obéit à l'instruction de ne pas l'inclure dans les résultats de recherche.</p>
+<p>Selon Antoine BLOT, Expert SEO et marketing à Montréal, la confusion entre ces deux mécanismes provoque des erreurs coûteuses : bloquer une page via le robots.txt en espérant la désindexer est contre-productif, car Google peut indexer cette URL sans jamais la visiter, simplement grâce aux liens externes qui pointent vers elle.</p>
 <table>
 <thead>
 <tr>
-<th style="text-align: left;">Caractéristique</th>
-<th style="text-align: left;">Robots.txt</th>
-<th style="text-align: left;">Meta <code>noindex</code></th>
+<th style="text-align: left;">Critère</th>
+<th style="text-align: left;">Fichier robots.txt</th>
+<th style="text-align: left;">Balise meta noindex</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td style="text-align: left;">Action</td>
-<td style="text-align: left;">Empêche l'exploration (Crawl)</td>
-<td style="text-align: left;">Empêche l'Indexation (Index)</td>
-</tr>
-<tr>
-<td style="text-align: left;">Moment d'intervention</td>
-<td style="text-align: left;">Avant la visite de la page</td>
-<td style="text-align: left;">Après crawl de la page</td>
+<td style="text-align: left;">Bloque l'exploration (crawl)</td>
+<td style="text-align: left;">Bloque l'indexation (index)</td>
 </tr>
 <tr>
 <td style="text-align: left;">Portée</td>
-<td style="text-align: left;">Site/répertoire</td>
+<td style="text-align: left;">Site, répertoire ou chemin d'URL</td>
 <td style="text-align: left;">Page individuelle</td>
 </tr>
 <tr>
-<td style="text-align: left;">Risque d'indexation</td>
-<td style="text-align: left;">Possible si liens externes</td>
-<td style="text-align: left;">Aucun si bien implémenté</td>
+<td style="text-align: left;">Le robot visite la page ?</td>
+<td style="text-align: left;">Non</td>
+<td style="text-align: left;">Oui</td>
+</tr>
+<tr>
+<td style="text-align: left;">Garantit la désindexation ?</td>
+<td style="text-align: left;">Non</td>
+<td style="text-align: left;">Oui</td>
+</tr>
+<tr>
+<td style="text-align: left;">Usage recommandé</td>
+<td style="text-align: left;">Sections techniques sans valeur SEO</td>
+<td style="text-align: left;">Pages à exclure activement de l'index</td>
 </tr>
 </tbody>
 </table>
+<p>Comme le souligne Moz dans son guide sur le robots.txt, une page bloquée par le robots.txt mais recevant des liens entrants peut apparaître dans les résultats de Google avec la mention "Aucune information disponible pour cette page" (Source : Moz, 2024).</p>
+<hr />
 <h2 class="speakable">Tutoriel : créer et configurer votre fichier robots.txt</h2>
-<p>Le robots.txt est un simple fichier texte, qu'on peut éditer à partir de n'importe quel éditeur de texte, et dans lequel on renseigne ses instructions
-. 
-Dans votre barre de navigateur, tapez simplement votre domaine racine et ajoutez « /robots.txt » : si vous voyez un fichier texte, c'est que vous en avez un. Sinon, il vous faudra le créer
-.</p>
-<p>Exemple de configuration de base :</p>
-<p>Il vous suffira d'aller dans l'onglet "exploration", puis sur "outil de test du fichier robots.txt". Vous pourrez alors copier les Données de votre fichier robots.txt, et lancer le test. Si le test est validé, et que la mention "autorisé" s'affiche, vous pouvez alors intégrer votre fichier à la racine de votre site Internet
-.</p>
-<h3>Configuration par type de site</h3>
-<p>Pour WordPress, indiquez d'enlever notamment l'Indexation et le crawl des fichiers de connexion et répertoires avancés
-. 
-Si vous avez un Prestashop, vous verrez le robots.txt généré plus fourni que pour les autres CMS. Surtout des éléments internes sont listés : empêcher leur visite aidera à améliorer votre budget crawl
-. (Source : Hugo Domeur, 2024)</p>
+<p>La création d'un fichier robots.txt ne nécessite aucun outil spécialisé. Ouvrez un éditeur de texte brut comme Bloc-notes sous Windows, TextEdit sous macOS (en mode texte brut) ou VS Code. Évitez les traitements de texte comme Word qui ajoutent un formatage invisible.</p>
+<p>Nommez le fichier robots.txt en minuscules strictes. Placez-le impérativement à la racine de votre domaine pour qu'il soit accessible à l'adresse https://www.votresite.com/robots.txt. Un fichier placé dans un sous-répertoire sera ignoré par les crawlers.</p>
+<p>Voici un exemple de configuration pour un site WordPress :</p>
+<p>La directive Sitemap en fin de fichier indique aux robots l'emplacement de votre sitemap XML, facilitant la découverte de vos URLs prioritaires. Selon Ahrefs, inclure la référence au sitemap dans le robots.txt reste une bonne pratique pour accélérer la découverte de nouvelles pages (Source : Ahrefs, 2024).</p>
+<p>Testez systématiquement votre fichier via l'outil de test du robots.txt dans Google Search Console avant tout déploiement. Une erreur de syntaxe, comme oublier le slash final après un répertoire, peut bloquer des pages stratégiques. Par exemple, Disallow: /blog bloque toutes les URLs commençant par /blog, y compris /blog-strategique.html, alors que Disallow: /blog/ ne bloque que le contenu du répertoire /blog/.</p>
+<hr />
 <h2 class="speakable">Cas d'usage : quand utiliser le robots.txt pour un impact SEO positif</h2>
-<p>Cette règle du robots.txt est particulièrement intéressante pour votre SEO, puisque vous pouvez demander aux robots de ne pas explorer vos pages à faible valeur ajoutée
-. Voici les applications concrètes les plus efficaces :</p>
-<p>Pages de recherche interne : 
-Disallow: /catalogsearch/ pour éviter que Googlebot ne crawle toutes les pages de résultats de recherche
-. Zones administratives : 
-Empêcher l'indexation d'une page ou répertoire sensible (admin, pages de connexion, panier e-commerce…)
-. Paramètres de session : 
-Celles générées par les identifiants de session. Par exemple, la connexion à son compte sur une boutique en ligne
-.</p>
-<p>L'objectif reste constant : 
-en éliminant ces URLs, vous vous assurerez que vos pages ayant réellement de la valeur seront explorées et indexées. De ce fait, vous augmenterez grandement vos chances d'être bien référencé
-. (Source : My Little Big Web, 2025)</p>
+<p>Le robots.txt devient un levier SEO concret lorsqu'il cible les pages qui consomment du budget de crawl sans apporter de valeur aux moteurs de recherche. Voici les quatre cas d'usage les plus fréquents.</p>
+<p>Premièrement, bloquez les pages de recherche interne. Chaque requête tapée par un visiteur génère une URL unique (/recherche?q=mot-cle) qui crée du contenu dupliqué à grande échelle. La directive Disallow: /recherche? empêche les crawlers d'explorer ces milliers de pages sans valeur.</p>
+<p>Deuxièmement, interdisez l'accès aux espaces de connexion et de gestion de compte. Les pages /mon-compte/, /panier/ ou /wp-login.php n'ont aucun intérêt pour le référencement naturel et consomment inutilement des ressources d'exploration.</p>
+<p>Troisièmement, excluez les répertoires techniques contenant des scripts, des fichiers de configuration ou des ressources administratives. Attention cependant à ne jamais bloquer les fichiers CSS et JavaScript nécessaires au rendu de vos pages, car Googlebot en a besoin pour comprendre votre mise en page.</p>
+<p>Quatrièmement, gérez les URLs à paramètres de tri, de filtres ou de session. Sur un site e-commerce, les combinaisons de filtres (/chaussures?couleur=rouge&amp;taille=42&amp;tri=prix) peuvent générer des dizaines de milliers d'URLs dupliquées. Bloquer ces chemins paramétrés libère le budget de crawl pour vos fiches produits et pages catégories.</p>
+<hr />
 <div class="faq-speakable">
 <h3>Où placer le fichier robots.txt ?</h3>
-<p>Placé à la racine de votre site web, à la base de l'arborescence des dossiers hébergés sur le serveur
-. Il doit être accessible via www.votredomaine.com/robots.txt pour être reconnu par les Moteurs de recherche.</p>
+<p>Le fichier robots.txt doit être placé à la racine de votre domaine, accessible directement via l'URL https://www.votresite.com/robots.txt. Un fichier placé dans un sous-répertoire ne sera pas reconnu par les crawlers. Chaque sous-domaine nécessite son propre fichier robots.txt. Le fichier doit être nommé exactement robots.txt en minuscules et encodé en UTF-8 pour être correctement interprété par les moteurs de recherche.</p>
 <h3>Comment savoir si une page est bloquée par le robots.txt ?</h3>
-<p>Utilisez l'outil de test de Google Search Console dans la section "Exploration". 
-Le rapport robots.txt dans Google Search Console est inestimable. Il montre quels fichiers robots.txt Google a trouvés, quand ils ont été crawlés pour la dernière fois, et tous les avertissements ou Erreurs
-.</p>
-<h3>Quelle est la différence entre Disallow et noindex ?</h3>
-<p>Les directives allow et disallow sont utilisées pour paramétrer le crawl via le fichier robots.txt. A contrario, les balises meta index et noindex permettent de gérer l'indexation dans les bases de données Google. Elles n'ont donc pas le même objectif
-.</p>
-<h3>Comment autoriser un seul bot dans le robots.txt ?</h3>
-<p>Spécifiez le User-agent exact : <code>User-agent: Googlebot</code> suivi de vos directives, puis <code>User-agent: *</code> avec <code>Disallow: /</code> pour bloquer tous les autres robots. 
-L'intérêt, c'est que l'on peut définir quel robot de moteur de recherche aura accès ou non au site, ou à certaines parties du site
-.</p>
-<hr />
-<p><em>Sources : QuickTop10 (2025), Semrush (2021), My Little Big Web (2025), NetOffensive (2021), Hugo Domeur (2024)</em></p>
+<p>Utilisez l'outil de test du robots.txt disponible dans Google Search Console. Saisissez l'URL de la page que vous souhaitez vérifier et l'outil indiquera si elle est autorisée ou</p>
       </article>
     </div>
   </div>
@@ -388,7 +337,7 @@ L'intérêt, c'est que l'on peut définir quel robot de moteur de recherche aura
       </div>
     </div>
   </div>
-  <div style="max-width:1100px;margin:48px auto 0;padding:24px 20px 0;border-top:2px solid #f0f0f0"><h2 style="font-size:1rem;color:#555;margin-bottom:16px">Articles connexes</h2><div class="related-grid"><a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/analyse-de-logs-seo.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-mobile-first.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-montreal.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux</span><div class="related-card-meta"><span>Antoine Blot</span></div></a></div></div>
+  <div style="max-width:1100px;margin:48px auto 0;padding:24px 20px 0;border-top:2px solid #f0f0f0"><h2 style="font-size:1rem;color:#555;margin-bottom:16px">Articles connexes</h2><div class="related-grid"><a href="https://blotmkt.com/ia/audit/analyse-de-logs-seo.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.com/ia/audit/architecture-de-site.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.com/ia/audit/audit-mobile-first.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.com/ia/audit/audit-semantique.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.com/ia/audit/audit-seo-montreal.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux</span><div class="related-card-meta"><span>Antoine Blot</span></div></a></div></div>
   <footer class="site-footer">
     <div class="footer-inner">
       <div class="footer-left">

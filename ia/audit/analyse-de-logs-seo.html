@@ -119,8 +119,8 @@
       "description": "Découvrez comment l'analyse de logs SEO vous aide à comprendre le passage des robots Google et à prioriser vos optimisations techniques. Optimisez votre crawl.",
       "url": "https://blotmkt.com/ia/audit/analyse-de-logs-seo.html",
       "inLanguage": "fr-CA",
-      "datePublished": "2026-03-09 06:12",
-      "dateModified": "2026-03-09 06:12",
+      "datePublished": "2026-03-27 20:10",
+      "dateModified": "2026-03-27 20:10",
       "author": {
         "@id": "https://blotmkt.com/ia/a-propos.html#person"
       },
@@ -198,15 +198,15 @@
           "name": "Comment accéder aux logs de son serveur web ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "L'accès aux logs nécessite généralement des droits d'administrateur serveur ou l'aide de votre équipe technique. Selon la solution d'hébergement ou le serveur utilisé, les fichiers de logs sont généralement stockés automatiquement et disponibles pendant une certaine période. Ils sont donc accessibles aux équipes techniques et webmasters ."
+            "text": "Les fichiers logs serveur sont accessibles via un accès FTP ou SSH à votre hébergement. Sur un serveur Apache, consultez le répertoire /var/log/apache2/. Sur Nginx, accédez à /var/log/nginx/. Certains hébergeurs comme OVH ou Kinsta proposent un accès direct depuis leur interface d'administration. Si vous utilisez un hébergement mutualisé, contactez le support technique pour demander l'activation de l'accès aux logs bruts."
           }
         },
         {
           "@type": "Question",
-          "name": "Pourquoi Google ne crawl pas toutes les pages de mon site ?",
+          "name": "Pourquoi Google ne crawle pas toutes les pages de mon site ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Le Budget de crawl est limité et Google priorise ses ressources. Si votre site a plus de pages que votre budget de crawl, certaines pages ne seront pas indexées. Ces pages peuvent être accessibles directement mais n'attireront pas de trafic des Moteurs de recherche ."
+            "text": "Google attribue un budget de crawl limité à chaque site en fonction de sa taille, de sa popularité et de la santé technique du serveur. Si votre site contient de nombreuses pages en erreur, des redirections en chaîne ou du contenu dupliqué, Googlebot consomme son budget sur ces URLs inutiles. Optimiser le maillage interne, corriger les erreurs et utiliser le [Fichier Robots.txt](https://blotmkt.com/ia/audit/fichier-robots.txt.html) pour bloquer les pages sans valeur SEO permet de mieux orienter le crawl."
           }
         },
         {
@@ -214,7 +214,7 @@
           "name": "Quel est le meilleur outil d'analyse de logs SEO ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Des outils comme Screaming Frog Log File Analyzer ou Botify dominent le marché. Le Screaming Frog Log File Analyser est un outil d'Audit SEO, conçu par de vrais SEO avec des milliers d'utilisateurs dans le monde entier . Pour débuter, la version gratuite analyse jusqu'à 1000 événements."
+            "text": "Le meilleur outil dépend de vos besoins. Screaming Frog Log File Analyser est idéal pour des audits ponctuels grâce à son interface simple et son coût accessible. Pour un monitoring continu sur des sites de grande envergure, Botify et Oncrawl offrent une ingestion automatisée des logs, des tableaux de bord visuels et un croisement natif avec les données de crawl. Le choix se fait selon la taille du site et la fréquence d'analyse souhaitée."
           }
         }
       ]
@@ -244,81 +244,82 @@
     <div class="article-col">
       <article>
         <nav class="breadcrumb" aria-label="Fil d&apos;ariane"><a class="bc-link" href="https://blotmkt.com/ia/">BlotMKT</a><span class="bc-sep">›</span><a class="bc-link" href="/ia/audit/">Audit SEO</a><span class="bc-sep">›</span><span class="bc-current">Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl</span></nav>
-        <div class="article-meta"><div class="meta-tags"><span class="meta-kw">Analyse de logs SEO</span></div><div class="meta-byline"><div class="meta-author-block"><img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:48px;height:48px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0"><div class="meta-author-info"><a class="meta-author" href="/ia/auteur-antoine-blot.html">Antoine Blot</a><span class="meta-jobtitle">Consultant SEO &amp; GEO</span></div></div><div class="meta-right"><span class="meta-date"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>9 mars 2026</span><span class="meta-read"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>8 min</span><a class="meta-md-btn" href="https://blotmkt.com/data/audit/analyse-de-logs-seo.md">.md</a></div></div></div>
+        <div class="article-meta"><div class="meta-tags"><span class="meta-kw">Analyse de logs SEO</span></div><div class="meta-byline"><div class="meta-author-block"><img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:48px;height:48px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0"><div class="meta-author-info"><a class="meta-author" href="/ia/auteur-antoine-blot.html">Antoine Blot</a><span class="meta-jobtitle">Consultant SEO &amp; GEO</span></div></div><div class="meta-right"><span class="meta-date"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>27 mars 2026</span><span class="meta-read"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>9 min</span><a class="meta-md-btn" href="https://blotmkt.com/data/audit/analyse-de-logs-seo.md">.md</a></div></div></div>
         <h1>Maîtriser l'analyse de logs SEO pour optimiser votre budget de crawl</h1>
+<p class="speakable-intro">Vous publiez du contenu stratégique, mais Google ne semble jamais le découvrir assez vite. Le problème est fréquent : sans visibilité sur le comportement réel de Googlebot, vous optimisez à l'aveugle. Chaque jour, le robot gaspille son passage sur des pages sans valeur pendant que vos URLs prioritaires restent dans l'ombre. L'analyse de logs SEO résout ce problème en vous donnant accès à la seule source de données brutes et exhaustives sur l'exploration de votre site par les moteurs de recherche.</p>
 <blockquote class="speakable">
 <h2 class="speakable">L'essentiel à retenir</h2>
 <ul>
-<li>L'analyse de logs SEO examine les Fichiers serveur pour révéler comment Googlebot explore réellement votre site, offrant des données 100% fiables contrairement aux outils tiers</li>
-<li>La méthode implique 4 étapes : collecte des logs bruts, parsing et filtrage des robots, enrichissement avec d'autres Données, puis analyse des tendances et anomalies</li>
-<li>Les outils spécialisés comme Screaming Frog Log File Analyser (99£/an) permettent un ROI mesurable en redirigeant le <a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/budget-de-crawl.html.html">Budget de crawl</a> des pages inutiles vers les URLs stratégiques</li>
+<li>L'analyse de logs SEO examine les fichiers serveur pour révéler comment Googlebot explore réellement votre site.</li>
+<li>La méthode se déroule en quatre étapes : collecte, parsing, enrichissement et analyse des anomalies.</li>
+<li>Screaming Frog Log File Analyser est la référence gratuite ; Botify et Oncrawl offrent un suivi continu.</li>
+<li>Les logs complètent la Google Search Console en fournissant des données brutes, complètes et sans échantillonnage.</li>
 </ul>
 </blockquote>
-<p class="speakable-intro">L'explosion du contenu en ligne et l'intelligence artificielle compliquent aujourd'hui l'Indexation de Google. 
-L'état du Budget Crawl de Google en 2024 est compliqué, les contenus IA ayant envahi le web
-. Face à cette saturation, maîtriser l'analyse de logs devient crucial pour s'assurer que vos pages importantes sont explorées efficacement. Cette approche technique transforme des données brutes en leviers stratégiques pour maximiser votre visibilité SEO.</p>
 <hr />
 <h2 class="speakable">Qu'est-ce que l'analyse de logs SEO : la seule source de vérité</h2>
-<p>L'analyse de logs SEO consiste à examiner les fichiers générés automatiquement par votre serveur web, qui 
-capturent chaque requête adressée à votre site, incluant les adresses IP, agents utilisateurs, URLs, horodatages, codes de statut HTTP et référents
-. Ces données représentent la réalité brute de l'Exploration par les moteurs de recherche.</p>
-<p>Pour le SEO, l'analyse de logs constitue votre fenêtre d'observation sur la façon dont la performance technique, la structure du site et la priorisation des pages influencent la capacité de crawl et, par conséquent, votre visibilité dans les recherches
-. Contrairement aux outils tiers qui peuvent présenter des limitations ou des échantillonnages, 
-les logs serveur fournissent des données non filtrées et complètes de tous les moteurs de Recherche
-.</p>
-<p>L'objectif principal consiste à optimiser le "Budget de crawl" - 
-les ressources allouées par Google à ses robots (Googlebots) pour explorer votre site
-. 
-Ce Budget de crawl est limité
-, d'où l'importance cruciale de diriger ces ressources vers vos pages les plus stratégiques plutôt que de les gaspiller sur du Contenu obsolète ou technique.</p>
+<p>L'analyse de logs SEO consiste à examiner les fichiers logs serveur générés automatiquement par votre hébergement web. Chaque requête HTTP reçue y est enregistrée : adresse IP, user-agent, URL demandée, code de statut HTTP retourné et horodatage. En filtrant ces fichiers pour isoler les visites de Googlebot et Bingbot, vous obtenez une photographie exacte de la façon dont les moteurs explorent votre site.</p>
+<p>Contrairement aux outils tiers qui reposent sur des estimations, les fichiers de logs représentent la donnée la plus fiable disponible. Selon la documentation officielle de Google sur le <a href="https://blotmkt.com/ia/audit/budget-de-crawl.html">Budget de crawl</a>, celui-ci désigne la quantité de ressources que Googlebot alloue à l'exploration d'un site donné (Source : Google Search Central, 2024). Comprendre cette allocation est stratégique : si votre budget de crawl est consommé par des pages en erreur 404 ou des URLs non indexables, vos contenus prioritaires sont explorés moins souvent. Selon Antoine BLOT, Expert SEO et marketing à Montréal, l'analyse de logs transforme le SEO technique en discipline pilotée par la donnée plutôt que par l'intuition.</p>
 <h2 class="speakable">La méthode : réaliser une analyse de logs SEO en 4 étapes clés</h2>
-<p>La mise en œuvre d'une analyse de logs efficace suit un processus structuré en quatre phases distinctes. D'abord, la collecte nécessite de récupérer les fichiers de logs bruts depuis votre serveur, généralement au format .log ou .gz, ce qui demande un accès technique ou l'aide de votre équipe IT.</p>
-<p>Ensuite, le parsing et filtrage utilise un outil spécialisé pour lire ces fichiers volumineux et isoler les visites des robots de crawl. 
-Par défaut, le Log File Analyser analyse uniquement les événements des robots de moteurs de recherche, ce qui améliore massivement les performances et réduit le temps requis en se concentrant sur les robots spécifiques plutôt que sur toutes les Données d'événements d'utilisateurs et de navigateurs
-.</p>
-<p>L'enrichissement constitue l'étape stratégique où vous croisez vos données de logs avec un crawl du site via Screaming Frog et les informations de Google Search Console. Cette fusion permet de contextualiser les comportements observés et d'identifier les écarts entre ce que vous souhaitez indexer et ce qui est réellement crawlé.</p>
-<p>Enfin, l'analyse révèle les tendances et anomalies : 
-les pièges de crawl comme les pages de calendrier infinies, les paramètres d'URL gonflés ou les boucles de redirection gaspillent le budget de crawl sur du Contenu inutile. Si Googlebot visite des milliers d'URLs légèrement différentes ou reste coincé dans une boucle de redirection, vous avez un piège
-.</p>
-<h2 class="speakable">Outils et ROI : quels logiciels pour quel retour sur investissement ?</h2>
-<p>Screaming Frog Log File Analyser permet d'analyser 1000 événements de log gratuitement, ou d'acheter une licence pour 99£ par an afin de supprimer cette limite
-. Cet outil représente la référence pour les analyses ponctuelles, tandis que des plateformes comme Botify ou Oncrawl Offrent un suivi continu pour les sites enterprise.</p>
-<p>Le calcul du ROI s'articule autour de l'identification du gaspillage de Budget de crawl. 
-Une étude de cas révèle que Googlebot peut crawler une catégorie /sale/ avec 12 produits 847 fois par jour, tandis qu'une catégorie /camping-tents/ avec 400 produits n'est crawlée que deux fois
-. Cette inefficacité représente une opportunité directe d'Optimisation.</p>
-<p>Les bénéfices se mesurent concrètement par : l'accélération de l'indexation des nouvelles pages, une meilleure réactivité aux mises à jour de contenu, et la détection précoce de problèmes techniques invisibles autrement. 
-L'alignement de l'activité de crawl avec les URLs critiques pour l'entreprise protège le budget de crawl et l'efficacité d'Indexation. La corrélation des logs de robots avec les données de performance permet des corrections proactives à mesure que les moteurs de recherche évoluent
-.</p>
+<p>La première étape est la collecte des fichiers logs bruts. Ces fichiers au format .log ou .gz se récupèrent via un accès FTP, SSH ou depuis le panneau d'administration de votre hébergeur. Sur Apache, ils se trouvent généralement dans /var/log/apache2/ ; sur Nginx, dans /var/log/nginx/.</p>
+<p>La deuxième étape consiste à parser et filtrer ces fichiers. Un outil d'analyse de logs lit chaque ligne, identifie le user-agent du visiteur et isole les requêtes provenant des robots de crawl SEO. Il est essentiel d'exclure les requêtes vers les fichiers CSS, JavaScript et images pour se concentrer sur les pages HTML réellement explorées.</p>
+<p>La troisième étape est l'enrichissement. Croisez vos données de logs avec un crawl technique réalisé via Screaming Frog pour identifier les écarts entre les pages que vous souhaitez voir crawlées et celles réellement visitées. Ajoutez les données de la Google Search Console pour contextualiser les impressions et les clics.</p>
+<p>La quatrième étape est l'analyse proprement dite. Identifiez les anomalies : pages orphelines crawlées massivement, redirections en chaîne, erreurs 5xx récurrentes, ou pages stratégiques ignorées par Googlebot. Comme le souligne Semrush dans son guide sur l'audit technique SEO, détecter les pages qui consomment du budget de crawl sans générer de trafic est la première action à fort impact (Source : Semrush, 2024).</p>
+<h2 class="speakable">Outils et ROI : quels logiciels pour quel retour sur investissement</h2>
+<p>Screaming Frog Log File Analyser reste la référence pour les analyses ponctuelles. Gratuit pour les fichiers de moins de 1 000 lignes et accessible via une licence abordable au-delà, il permet de visualiser rapidement la fréquence de crawl par URL, les codes de statut HTTP retournés et les user-agents détectés.</p>
+<p>Pour un suivi continu sur des sites volumineux, les plateformes Botify et Oncrawl proposent une ingestion automatique des logs avec des tableaux de bord dédiés. Oncrawl, dans son guide complet sur l'analyse de logs, recommande de surveiller au minimum 30 jours de données pour identifier des tendances fiables (Source : Oncrawl, 2024).</p>
+<p>Le retour sur investissement se calcule concrètement. En identifiant que 40 % du budget de crawl est gaspillé sur des URLs paginées ou des pages filtrées sans valeur SEO, vous pouvez rediriger cette exploration vers vos pages produits ou vos contenus piliers. Le résultat direct : une accélération mesurable de l'indexation des nouvelles pages et une meilleure réactivité de Google aux mises à jour de contenu existant.</p>
+<table>
+<thead>
+<tr>
+<th>Critère</th>
+<th>Screaming Frog Log Analyser</th>
+<th>Botify</th>
+<th>Oncrawl</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Type d'analyse</td>
+<td>Ponctuelle</td>
+<td>Continue</td>
+<td>Continue</td>
+</tr>
+<tr>
+<td>Coût</td>
+<td>Gratuit / licence SF</td>
+<td>Entreprise</td>
+<td>À partir de 69 €/mois</td>
+</tr>
+<tr>
+<td>Enrichissement crawl</td>
+<td>Manuel</td>
+<td>Intégré</td>
+<td>Intégré</td>
+</tr>
+<tr>
+<td>Idéal pour</td>
+<td>PME, audits ponctuels</td>
+<td>Grands sites e-commerce</td>
+<td>Sites médias et éditeurs</td>
+</tr>
+</tbody>
+</table>
 <h2 class="speakable">Analyse de logs vs Google Search Console : deux outils complémentaires</h2>
-<p>Google Search Console fournit des données sur le crawl via 
-le rapport Statistiques sur l'exploration qui permet aux propriétaires de sites de voir les totaux des données de crawl Google et les graphiques temporels pour : le total des requêtes, la taille totale de téléchargement et le temps de réponse moyen. La nouvelle version du rapport fournit également des données sur les requêtes de crawl réparties par réponse, type de fichier de l'URL récupérée, objectif de la requête de crawl et agent Googlebot
-.</p>
-<p>Cependant, 
-ce rapport s'adresse aux utilisateurs avancés. Si votre site comporte moins de 1000 pages, ce rapport ne vous sera probablement d'aucune utilité
-. Les données GSC sont simplifiées, échantillonnées et présentent un décalage temporel.</p>
-<p>Les fichiers de logs offrent une vue brute, complète et en temps réel de toutes les visites de robots, sans filtre ni interprétation de Google. 
-Les données de logs sont extrêmement précieuses car elles montrent exactement ce qui s'est passé lorsqu'un moteur de recherche ou un robot IA visite votre site web
-.</p>
-<p>La synergie optimale consiste à utiliser la GSC pour une vue d'ensemble et des tendances, puis plonger dans les logs pour investiguer une anomalie précise. 
-Il reste nécessaire de faire appel à l'analyse de logs afin d'approfondir le comportement de GoogleBot sur son site
-, car les logs révèlent des insights granulaires sur des URLs spécifiques impossibles à obtenir autrement.</p>
+<p>La Google Search Console fournit un rapport intitulé "Statistiques sur l'exploration" qui indique le nombre de requêtes de crawl, le temps de réponse moyen et le poids téléchargé. Ces données sont utiles pour détecter des tendances générales, mais elles présentent trois limites majeures : elles sont échantillonnées, simplifiées et disponibles avec un décalage de 48 à 72 heures.</p>
+<p>Les fichiers de logs serveur, en revanche, offrent une vue brute et complète de chaque requête reçue en temps réel. Vous voyez exactement quelles URLs Googlebot a demandées, à quelle fréquence, et quel code de statut HTTP votre serveur a retourné. Aucun filtre, aucune interprétation algorithmique ne s'interpose entre vous et la donnée.</p>
+<p>La synergie entre les deux outils est la bonne pratique. Utilisez la GSC pour surveiller les tendances globales de crawl et repérer les baisses d'exploration. Dès qu'une anomalie apparaît, plongez dans les logs pour investiguer à un niveau granulaire. Cette complémentarité vous permet de passer de l'observation à l'action avec des données irréfutables, ce qui est fondamental dans tout audit technique SEO rigoureux.</p>
+<div class="alert-important">Les données de la GSC ne montrent pas les visites de robots autres que Google. Seuls les logs serveur révèlent l'activité de Bingbot, Yandex ou des crawlers indésirables qui consomment vos ressources.</div>
+
 <div class="faq-speakable">
 <h3>Comment accéder aux logs de son serveur web ?</h3>
-<p>L'accès aux logs nécessite généralement des droits d'administrateur serveur ou l'aide de votre équipe technique. 
-Selon la solution d'hébergement ou le serveur utilisé, les fichiers de logs sont généralement stockés automatiquement et disponibles pendant une certaine période. Ils sont donc accessibles aux équipes techniques et webmasters
-.</p>
-<h3>Pourquoi Google ne crawl pas toutes les pages de mon site ?</h3>
-<p>Le Budget de crawl est limité
- et Google priorise ses ressources. 
-Si votre site a plus de pages que votre budget de crawl, certaines pages ne seront pas indexées. Ces pages peuvent être accessibles directement mais n'attireront pas de trafic des Moteurs de recherche
-.</p>
+<p>Les fichiers logs serveur sont accessibles via un accès FTP ou SSH à votre hébergement. Sur un serveur Apache, consultez le répertoire /var/log/apache2/. Sur Nginx, accédez à /var/log/nginx/. Certains hébergeurs comme OVH ou Kinsta proposent un accès direct depuis leur interface d'administration. Si vous utilisez un hébergement mutualisé, contactez le support technique pour demander l'activation de l'accès aux logs bruts.</p>
+<h3>Pourquoi Google ne crawle pas toutes les pages de mon site ?</h3>
+<p>Google attribue un budget de crawl limité à chaque site en fonction de sa taille, de sa popularité et de la santé technique du serveur. Si votre site contient de nombreuses pages en erreur, des redirections en chaîne ou du contenu dupliqué, Googlebot consomme son budget sur ces URLs inutiles. Optimiser le maillage interne, corriger les erreurs et utiliser le <a href="https://blotmkt.com/ia/audit/fichier-robots.txt.html">Fichier Robots.txt</a> pour bloquer les pages sans valeur SEO permet de mieux orienter le crawl.</p>
 <h3>Quel est le meilleur outil d'analyse de logs SEO ?</h3>
-<p>Des outils comme Screaming Frog Log File Analyzer ou Botify
- dominent le marché. 
-Le Screaming Frog Log File Analyser est un outil d'Audit SEO, conçu par de vrais SEO avec des milliers d'utilisateurs dans le monde entier
-. Pour débuter, la version gratuite analyse jusqu'à 1000 événements.</p>
+<p>Le meilleur outil dépend de vos besoins. Screaming Frog Log File Analyser est idéal pour des audits ponctuels grâce à son interface simple et son coût accessible. Pour un monitoring continu sur des sites de grande envergure, Botify et Oncrawl offrent une ingestion automatisée des logs, des tableaux de bord visuels et un croisement natif avec les données de crawl. Le choix se fait selon la taille du site et la fréquence d'analyse souhaitée.</p>
 <hr />
-<p><em>Sources : Search Engine) Land (2025), CrawlWP (2026), Screaming Frog (2025), Conductor (2025)</em></p>
+<p><em>Sources : Google Search Central – Crawl budget management (2024) ; Semrush – Site Audit et guide d'analyse technique (2024) ; Oncrawl – The Ultimate Guide to Log Analysis (2024)</em></p>
       </article>
     </div>
   </div>
@@ -339,7 +340,7 @@ Le Screaming Frog Log File Analyser est un outil d'Audit SEO, conçu par de vrai
       </div>
     </div>
   </div>
-  <div style="max-width:1100px;margin:48px auto 0;padding:24px 20px 0;border-top:2px solid #f0f0f0"><h2 style="font-size:1rem;color:#555;margin-bottom:16px">Articles connexes</h2><div class="related-grid"><a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/architecture-de-site.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-mobile-first.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-semantique.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-montreal.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.comhttps://blotmkt.com/ia/audit/audit-seo-quebec.html.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit SEO Québec : votre guide complet pour une visibilité optimisée</span><div class="related-card-meta"><span>Antoine Blot</span></div></a></div></div>
+  <div style="max-width:1100px;margin:48px auto 0;padding:24px 20px 0;border-top:2px solid #f0f0f0"><h2 style="font-size:1rem;color:#555;margin-bottom:16px">Articles connexes</h2><div class="related-grid"><a href="https://blotmkt.com/ia/audit/architecture-de-site.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Architecture de site : construire une base solide pour votre autorité (E-E-A-T) et votre SEO</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.com/ia/audit/audit-mobile-first.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit mobile-first : la méthode complète pour garantir votre visibilité sur Google</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.com/ia/audit/audit-semantique.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.com/ia/audit/audit-seo-montreal.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit SEO à Montréal : l'analyse experte pour dominer les résultats locaux</span><div class="related-card-meta"><span>Antoine Blot</span></div></a><a href="https://blotmkt.com/ia/audit/audit-seo-quebec.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">Audit SEO</span></div><span class="related-card-title">Audit SEO Québec : votre guide complet pour une visibilité optimisée</span><div class="related-card-meta"><span>Antoine Blot</span></div></a></div></div>
   <footer class="site-footer">
     <div class="footer-inner">
       <div class="footer-left">

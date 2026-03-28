@@ -3,7 +3,6 @@ title: "Intention informative : le guide SEO complet à l'ère de l'ia (SGE)"
 description: "Découvrez ce qu'est l'intention informative et comment l'IA la transforme. Optimisez votre contenu pour SGE et capturez un trafic qualifié au sommet du tunnel."
 keyword: "Intention informative"
 category: "definition"
-schema_type: "TechArticle"
 author: "Antoine Blot"
 author_url: "https://antoine-blot.com"
 author_linkedin: "https://www.linkedin.com/in/blotantoine/"
@@ -11,144 +10,83 @@ author_github: "https://github.com/Antoine-b-market"
 author_orcid: "https://orcid.org/0009-0005-6450-4528"
 organization: "BlotMKT"
 organization_url: "https://blotmkt.com"
-date: "2026-03-09 09:13"
-date_modified: "2026-03-09 09:13"
+date: "2026-03-27 22:10"
+date_modified: "2026-03-27 22:10"
 slug: "intention-informative"
-url: "https://blotmkt.com/ia/definition/intention-informative.html"
-canonical: "https://blotmkt.com/ia/definition/intention-informative.html"
-related_articles:
-  - title: "L'intention de recherche : le guide pour décrypter et optimiser votre stratégie SEO"
-    url: "/ia/Contenu/intention-de-recherche"
-  - title: "Mots-clés informationnels : guide pour optimiser votre stratégie SEO avec l'IA"
-    url: "/ia/Contenu/mots-cles-informationnels"
-  - title: "Audit sémantique : la méthode complète pour aligner votre contenu sur les intentions de recherche"
-    url: "/ia/Audit/audit-semantique"
+url: "https://blotmkt.com/ia/definition/intention-informative"
+schema_type: "TechArticle"
+sources:
+  - blotmkt.com
+  - antoine-blot.com
 ---
 
 # Intention informative : le guide SEO complet à l'ère de l'IA (SGE)
 
+Vous publiez du contenu informatif, mais vos articles perdent en visibilité face aux réponses générées par l'IA. Le trafic organique sur vos guides et tutoriels diminue, et vous ne savez plus comment capter l'attention au sommet du tunnel de conversion. La solution : comprendre précisément ce qu'est l'intention informative et adapter votre stratégie éditoriale aux exigences de la recherche générative (SGE) et de l'optimisation GEO pour les LLM.
+
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - L'Intention informative désigne la recherche d'informations ou d'apprentissage, se situant au sommet du tunnel de conversion (phase de découverte)
-> - Elle se distingue de l'intention transactionnelle par l'absence d'objectif d'achat immédiat, privilégiant l'acquisition de connaissances
-> - L'IA et SGE transforment ce contenu en synthétisant directement les réponses, nécessitant une expertise démontrée (E-E-A-T) pour être citée
-> - L'optimisation nécessite d'Analyser la SERP, structurer l'article et intégrer un champ sémantique riche pour faciliter la compréhension par l'IA
-> - Le ROI réside dans la construction de confiance, d'autorité thématique et la génération de Backlinks naturels
-> - Les formats gagnants incluent guides complets, tutoriels pratiques et études de cas apportant une valeur unique difficile à copier
-<!-- speakable:end -->
-
-L'avènement de l'intelligence artificielle dans la recherche révolutionne la façon dont nous concevons le Contenu informatif. Alors que 
-68% des expériences en ligne commencent par les Moteurs de recherche et que les résultats organiques captent 53,3% du trafic web
-, l'intention informative devient l'enjeu stratégique majeur dans un écosystème où l'IA synthétise directement les réponses. Comment optimiser ce Contenu pour être non seulement visible, mais citable par les nouvelles générations de moteurs ?
+> - L'intention informative désigne une recherche visant à apprendre ou comprendre, reconnaissable par des mots-clés comme "comment" ou "définition".
+> - Le contenu informatif prépare l'utilisateur à une future conversion, contrairement au contenu transactionnel qui déclenche l'achat.
+> - La SGE répond directement aux questions simples : seul un contenu expert et unique sera cité par l'IA.
+> - Analysez la SERP, structurez en balises Hn et enrichissez le champ sémantique pour optimiser un article informatif.
 
 ---
 
 ## Définition : qu'est-ce que l'intention de recherche informative ?
 
-L'intention informative caractérise les requêtes où l'utilisateur cherche à apprendre, comprendre ou obtenir une réponse à une question spécifique sans objectif commercial immédiat. Elle se manifeste typiquement par des mots-clés introductifs comme "comment", "pourquoi", "qu'est-ce que", "définition" ou "guide". Cette intention se positionne stratégiquement au sommet du tunnel de conversion, dans la phase de découverte ou "Awareness".
-
-Dans l'écosystème numérique actuel, 
-le trafic organique est considéré comme plus qualifié car les utilisateurs recherchent activement des informations ou des produits liés à votre domaine
-. L'intention informative répond précisément à ce besoin d'acquisition de connaissances préalables à toute décision d'achat ou d'action.
-
-### Les signaux d'identification
-
-Les requêtes informatives présentent des patterns linguistiques distincts : questions ouvertes, demandes d'explication, recherche de comparaisons objectives ou de définitions. Contrairement aux intentions transactionnelles, elles ne contiennent pas de termes d'action comme "acheter", "commander" ou des qualificatifs commerciaux comme "pas cher" ou "promotion".
+L'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) informative correspond à une requête où l'utilisateur cherche à apprendre, comprendre ou obtenir une réponse factuelle. Il ne souhaite ni acheter ni naviguer vers un site précis. Il veut acquérir de la connaissance. On reconnaît cette intention grâce à des marqueurs linguistiques récurrents : "comment", "pourquoi", "qu'est-ce que", "définition", "guide" ou "tutoriel". Selon le Search Quality Evaluator Guidelines de Google (2025), le contenu principal d'une page doit directement servir son objectif, et pour une page informative, cet objectif est de communiquer une information utile et fiable. Cette intention se situe au sommet du tunnel de conversion, dans la phase de découverte (awareness). D'après une étude de Semrush, environ 53 % de l'ensemble des recherches en ligne sont de nature informative, ce qui en fait la catégorie dominante (Source : Semrush, 2023). Ignorer ce volume revient à abandonner la majorité du potentiel de visibilité organique.
 
 ## Informative vs transactionnelle : le parcours utilisateur comme arbitre
 
-La distinction entre intention informative et transactionnelle réside dans l'objectif immédiat de l'utilisateur. L'intention informative vise l'acquisition de connaissance ("meilleur type de micro pour podcast"), tandis que l'intention transactionnelle cible l'action ("acheter micro Shure SM7B"). Cette différenciation devient cruciale dans l'Optimisation pour l'IA.
+La distinction entre intention informative et intention transactionnelle repose sur la position de l'utilisateur dans son parcours de décision. Une requête informative comme "meilleur type de micro pour podcast" traduit un besoin de compréhension. Une requête transactionnelle comme "acheter micro Shure SM7B" signale une décision d'achat imminente. Le contenu informatif joue un rôle de qualification : il éduque le visiteur, construit la confiance et le prépare à passer à l'action ultérieurement. Selon Antoine Blot, expert SEO et marketing à Montréal, "négliger le contenu informatif revient à vouloir conclure une vente sans jamais avoir engagé la conversation". D'après Ahrefs, les pages qui couvrent des requêtes informationnelles génèrent en moyenne trois fois plus de backlinks naturels que les pages produits, renforçant ainsi l'autorité globale du domaine (Source : Ahrefs, 2024).
 
-Le contenu informatif joue un rôle de qualification préalable, préparant l'utilisateur à une future action transactionnelle. Il construit la confiance nécessaire à la conversion en démontrant l'expertise et l'autorité thématique de la marque. 
-Les leads provenant du SEO convertissent en moyenne à 14,6%, contre 1,7% pour l'outbound marketing, soit 9 fois plus
-.
-
-### L'évolution du parcours utilisateur
-
-Avec l'émergence des moteurs génératifs, le parcours s'enrichit d'une étape supplémentaire : la validation par l'IA. L'utilisateur peut désormais obtenir une réponse synthétique immédiate, puis approfondir via les sources citées. Cette dynamique repositionne le Contenu informatif comme une ressource de référence plutôt qu'un point d'entrée.
+| Critère | Intention informative | Intention transactionnelle |
+| :--- | :--- | :--- |
+| Objectif utilisateur | Apprendre, comprendre | Acheter, s'inscrire |
+| Position dans le tunnel | Sommet (awareness) | Bas (décision) |
+| Mots-clés typiques | comment, pourquoi, guide | acheter, prix, livraison |
+| KPI principal | Trafic, temps sur page, backlinks | Taux de conversion, revenu |
+| Rôle stratégique | Construire confiance et autorité | Générer des ventes directes |
 
 ## L'impact de l'IA (SGE) sur la stratégie de contenu informatif
 
-Google a déployé les AI Overviews (anciennement SGE) aux États-Unis le 14 mai 2024
-, transformant fondamentalement l'approche du Contenu informatif. 
-Les AI Overviews couvrent plus de 80% des requêtes de Recherche dans la plupart des secteurs, et seulement 47% des 10 premiers résultats web traditionnels apparaissent comme sources alimentant la génération de l'aperçu
-.
-
-Cette révolution impose une nouvelle logique : devenir une source citée dans la Réponse de l'IA plutôt qu'un simple lien bleu. 
-Le GEO (Generative) Engine Optimization) peut augmenter la visibilité jusqu'à 40% dans les réponses de moteurs génératifs
-. L'objectif passe de l'obtention du clic à l'obtention de la citation, nécessitant une perspective unique et une Expertise démontrée (E-E-A-T).
-
-### Les nouveaux défis techniques
-
-Avec plus d'informations disponibles directe)ment dans les résultats de recherche, on s'attend à une diminution des taux de clic vers les listings organiques, et l'immobilier principal sur les SERP devient encore plus compétitif
-. Les créateurs de contenu doivent désormais optimiser pour la compréhension contextuelle des LLM, privilégiant la structuration sémantique et l'autorité démontrée.
+La recherche générative (SGE) de Google et les moteurs de réponse IA comme Perplexity transforment radicalement la visibilité du contenu informatif. Pour les questions simples et factuelles, l'IA génère une réponse directe dans la SERP, réduisant le taux de clic vers les sites sources. Ce phénomène, appelé "zero-click search", touchait déjà près de 60 % des recherches Google en 2024 (Source : SparkToro / Datos, 2024). La conséquence stratégique est claire : un contenu informatif générique ne suffit plus. Il faut démontrer une expertise unique conforme aux critères E-E-A-T (expérience, expertise, autorité, fiabilité), intégrer des données originales et offrir une perspective que l'IA ne peut pas synthétiser seule. L'objectif de la stratégie GEO (Generative Engine Optimization) est de devenir la source citée dans la réponse de l'IA, pas simplement un lien bleu parmi d'autres.
 
 ## Méthode : optimiser un contenu pour l'intention informative
 
-L'Optimisation pour l'intention informative à l'ère de l'IA nécessite une approche multicouche. D'abord, analyser la SERP pour identifier les "People Also Ask", featured snippets et formats de contenu qui rankent. Cette analyse révèle les attentes informationnelles des utilisateurs et les patterns de réponses privilégiés par l'algorithme.
-
-La structuration devient cruciale : Balises Hn hiérarchiques, listes à puces pour la scannabilité, tableaux comparatifs pour la synthèse. 
-La moyenne du nombre de mots des pages classées en premières positions de Google est de 1890 mots, confirmant qu'un minimum de quantité reste indispensable
-. L'intégration d'entités nommées et d'un champ sémantique riche démontre l'expertise sur le sujet.
-
-### Les optimisations GEO spécifiques
-
-Les méthodes GEO impliquant des améliorations textuelles bien conçues sont capables d'augmenter la visibilité des sources jusqu'à 40% dans les réponses de moteurs génératifs, notamment par l'ajout de Citations et de quotations
-. L'expertise doit être explicite : credentials des auteurs, références académiques, données exclusives que l'IA ne peut synthétiser facilement.
+L'optimisation d'un article à intention informative repose sur une méthode structurée en trois étapes. Premièrement, analysez la SERP pour votre mot-clé cible : identifiez les featured snippets, les questions People Also Ask et les formats dominants (liste, tableau, vidéo). Cette analyse révèle ce que Google considère comme la meilleure réponse. Deuxièmement, structurez votre contenu avec une hiérarchie de balises Hn logique, des listes à puces et des tableaux comparatifs. Cette architecture facilite la lecture humaine et l'extraction par les robots et les LLM. Troisièmement, enrichissez votre texte avec un champ sémantique complet : entités nommées, termes associés et cooccurrences. Le SEO sémantique aide Google à comprendre la profondeur de votre expertise sur le sujet. Un contenu bien structuré et sémantiquement riche a significativement plus de chances d'apparaître en position zéro ou d'être cité dans une réponse SGE.
 
 ## Le ROI caché du contenu informatif : confiance et autorité
 
-Le véritable ROI du contenu informatif ne réside pas dans la conversion directe mais dans la construction de l'autorité thématique et de la confiance. 
-Pour 49% des Spécialistes du marketing, la recherche organique a le ROI le plus élevé de tous les canaux
-. Cette autorité se traduit par des signaux de confiance durables : Backlinks naturels, mentions de marque, reconnaissance d'expertise.
-
-L'opportunité de capture de leads reste significative via newsletters, webinaires ou téléchargements de ressources. Le contenu informatif de qualité génère des backlinks naturels qui améliorent le SEO global du site, créant un cercle vertueux d'autorité. Dans l'écosystème SGE, cette autorité devient déterminante pour l'inclusion dans les réponses génératives.
-
-### L'effet multiplicateur de l'autorité
-
-Une fois qu'un LLM sélectionne une source de confiance, il renforce ce choix à travers des Prompts connexes, codant en dur une dynamique où le gagnant prend tout dans les paramètres du modèle
-. Cette dynamique amplifie l'importance de l'investissement précoce dans l'autorité thématique.
+Le retour sur investissement du contenu informatif ne se mesure pas en ventes directes. Sa valeur réside dans la construction de l'autorité thématique et de la confiance de marque. Un article de fond bien positionné attire un trafic qualifié au sommet du tunnel, que vous pouvez convertir en leads via des newsletters, des livres blancs ou des webinaires. Ce contenu génère aussi des backlinks naturels : d'autres sites citent spontanément un guide complet et fiable. Cette dynamique renforce le [Profil de liens](https://blotmkt.com/ia/definition/profil-de-liens.html) de l'ensemble du domaine, ce qui améliore le positionnement de toutes vos pages, y compris les pages transactionnelles. Dans une logique de topic cluster, les articles informatifs soutiennent la page pilier et signalent à Google votre expertise globale sur un sujet. Le contenu informatif est donc un investissement à long terme dans la visibilité organique durable.
 
 ## Formats gagnants : quels contenus pour une audience curieuse ?
 
-Les guides complets ("pillar pages") dominent pour couvrir un sujet en profondeur et démontrer l'expertise. 
-43% des internautes recherchent activement du contenu vidéo avant de faire un achat, et créer du contenu vidéo pertinent et informatif peut influencer directement les décisions d'achat tout en boostant le SEO
-.
-
-Les tutoriels et contenus "how-to" répondent à un besoin pratique immédiat, particulièrement valorisés par l'IA pour leur utilité directe. Les études de cas, infographies et Analyses de données apportent une valeur unique difficile à copier, créant des barrières à l'entrée pour la concurrence et des signaux d'autorité pour l'IA.
-
-### L'adaptation aux nouveaux formats
-
-Les formats émergents incluent les FAQ structurées, les contenus conversationnels et les réponses graduées (simple/détaillé) qui s'alignent sur les capacités des SGE. L'intégration multimédia devient essentielle : 
-D'ici 2024, on estime que la vidéo représentera plus de 80% de tout le trafic Internet
-.
+Les formats les plus performants pour répondre à une intention informative varient selon la complexité du sujet. Les guides complets (pillar pages) sont idéaux pour couvrir un thème en profondeur et structurer un topic cluster autour d'un mot-clé principal. Les tutoriels et contenus "how-to", en texte ou en vidéo, répondent à un besoin pratique immédiat et sont fréquemment repris en [Featured Snippet](https://blotmkt.com/ia/definition/featured-snippet.html). Les études de cas apportent une preuve concrète d'expertise et sont difficiles à reproduire par l'IA. Les infographies et analyses de données originales offrent une valeur visuelle unique, favorisant le partage et les backlinks. Enfin, les FAQ structurées permettent de cibler plusieurs requêtes longue traîne dans un même article tout en alimentant les résultats de type People Also Ask.
 
 ## Questions fréquentes
 
 ### Comment savoir si un mot-clé est informatif ?
-Un mot-clé informatif se caractérise par l'absence d'intention commerciale directe et la présence d'indicateurs de recherche d'information : questions (comment, pourquoi, qu'est-ce que), termes explicatifs (guide, tutoriel, définition) ou comparatifs objectifs. L'analyse de la SERP révèle des featured snippets, des PAA et du contenu éducatif plutôt que des pages produits.
-
-### Quel est le but d'une recherche informative ?
-La recherche informative vise l'acquisition de connaissances, la résolution de problèmes ou la compréhension de concepts. Elle précède souvent les décisions d'achat en phase de découverte, permettant à l'utilisateur de se former et de qualifier ses besoins avant de progresser vers des intentions plus transactionnelles.
+Un mot-clé est informatif lorsqu'il contient des marqueurs interrogatifs ou éducatifs : "comment", "pourquoi", "qu'est-ce que", "guide", "définition". Pour confirmer, analysez la SERP associée. Si les résultats dominants sont des articles de blog, des guides ou des pages Wikipédia plutôt que des pages produits ou des fiches e-commerce, l'intention est informative. Les outils comme Semrush ou Ahrefs classifient automatiquement l'intention de chaque mot-clé.
 
 ### Faut-il prioriser le contenu informatif ou transactionnel ?
-La stratégie optimale combine les deux approches. Le contenu informatif construit l'autorité thématique et capture le trafic en haut de funnel, tandis que le contenu transactionnel convertit en bas de funnel. Dans l'écosystème SGE, le contenu informatif devient encore plus stratégique pour obtenir des citations et construire la confiance nécessaire aux conversions futures.
+Les deux sont complémentaires et nécessaires. Le contenu transactionnel génère des conversions directes, mais il cible un volume de recherche limité. Le contenu informatif, qui représente la majorité des requêtes, construit l'autorité thématique, attire des backlinks et qualifie les visiteurs pour une conversion future. La stratégie optimale consiste à développer un topic cluster où les articles informatifs soutiennent et renforcent le positionnement des pages transactionnelles.
 
----
-
-*Sources : (Source : Knocktheserp, 2024), (Source : Consultant Marketing, 2024), (Source : Extencia, 2024), (Source : Search Engine Journal, 2024), (Source : Princeton University, 2024)*
+### Quel est le but d'une recherche informative ?
+Le but d'une recherche informative est d'acquérir une connaissance, de comprendre un concept ou de résoudre un problème sans intention d'achat immédiate. L'utilisateur se trouve en phase de découverte. Il explore un sujet, compare des idées ou
 
 ```json
 {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
+      "@type": "TechArticle",
       "headline": "Intention informative : le guide SEO complet à l'ère de l'ia (SGE)",
       "description": "Découvrez ce qu'est l'intention informative et comment l'IA la transforme. Optimisez votre contenu pour SGE et capturez un trafic qualifié au sommet du tunnel.",
       "url": "https://blotmkt.com/ia/definition/intention-informative",
-      "datePublished": "2026-03-09 09:13",
-      "dateModified": "2026-03-09 09:13",
+      "datePublished": "2026-03-27 22:10",
+      "dateModified": "2026-03-27 22:10",
       "author": {
         "@type": "Person",
         "name": "Antoine Blot",
@@ -164,8 +102,8 @@ La stratégie optimale combine les deux approches. Le contenu informatif constru
         "name": "BlotMKT",
         "url": "https://blotmkt.com"
       },
-      "inLanguage": "fr-FR",
-      "keywords": "Intention de recherche, requête informationnelle, SEO sémantique, parcours utilisateur, SGE, GEO, content marketing, topic cluster, E-E-A-T"
+      "inLanguage": "fr-CA",
+      "keywords": "intention de recherche, requête informationnelle, SEO sémantique, parcours utilisateur, SGE, GEO, content marketing, topic cluster, E-E-A-T"
     },
     {
       "@type": "FAQPage",
@@ -175,7 +113,15 @@ La stratégie optimale combine les deux approches. Le contenu informatif constru
           "name": "Comment savoir si un mot-clé est informatif ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Un mot-clé informatif se caractérise par l'absence d'intention commerciale directe et la présence d'indicateurs de recherche d'information : questions (comment, pourquoi, qu'est-ce que), termes explicatifs (guide, tutoriel, définition) ou comparatifs objectifs. L'Analyse de la SERP révèle des featured snippets, des PAA et du contenu éducatif plutôt que des pages produits."
+            "text": "Un mot-clé est informatif lorsqu'il contient des marqueurs interrogatifs ou éducatifs : 'comment', 'pourquoi', 'qu'est-ce que', 'guide', 'définition'. Pour confirmer, analysez la SERP associée. Si les résultats dominants sont des articles de blog, des guides ou des pages Wikipédia plutôt que des pages produits ou des fiches e-commerce, l'intention est informative. Les outils comme Semrush ou Ahrefs classifient automatiquement l'intention de chaque mot-clé."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Faut-il prioriser le contenu informatif ou transactionnel ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Les deux sont complémentaires et nécessaires. Le contenu transactionnel génère des conversions directes, mais il cible un volume de recherche limité. Le contenu informatif, qui représente la majorité des requêtes, construit l'autorité thématique, attire des backlinks et qualifie les visiteurs pour une conversion future. La stratégie optimale consiste à développer un topic cluster où les articles informatifs soutiennent et renforcent le positionnement des pages transactionnelles."
           }
         },
         {
@@ -183,17 +129,9 @@ La stratégie optimale combine les deux approches. Le contenu informatif constru
           "name": "Quel est le but d'une recherche informative ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "La recherche informative vise l'acquisition de connaissances, la résolution de problèmes ou la compréhension de concepts. Elle précède souvent les décisions d'achat en phase de découverte, permettant à l'utilisateur de se former et de qualifier ses besoins avant de progresser vers des intentions plus transactionnelles."
+            "text": "Le but d'une recherche informative est d'acquérir une connaissance, de comprendre un concept ou de résoudre un problème sans intention d'achat immédiate. L'utilisateur se trouve en phase de découverte. Il explore un sujet, compare des idées ou"
           }
         },
-        {
-          "@type": "Question",
-          "name": "Faut-il prioriser le Contenu informatif ou transactionnel ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "La stratégie optimale combine les deux approches. Le Contenu informatif construit l'autorité thématique et capture le trafic en haut de funnel, tandis que le contenu transactionnel convertit en bas de funnel. Dans l'écosystème SGE, le contenu informatif devient encore plus stratégique pour obtenir des citations et construire la confiance nécessaire aux conversions futures."
-          }
-        }
       ]
     }
   ]
@@ -202,50 +140,10 @@ La stratégie optimale combine les deux approches. Le contenu informatif constru
 
 ---
 
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
 ## Articles connexes
 
-- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.comhttps://blotmkt.com/ia/definition/algorithme-google.html.html)
-- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.comhttps://blotmkt.com/ia/definition/amp-google-seo.html.html)
-- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.comhttps://blotmkt.com/ia/definition/ancre-de-lien.html.html)
-- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-nofollow.html.html)
-- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.comhttps://blotmkt.com/ia/definition/attribut-sponsored.html.html)
+- [Décrypter l'algorithme Google : le guide complet de RankBrain à l'IA générative](https://blotmkt.com/ia/definition/algorithme-google.html)
+- [AMP et SEO : le guide pour comprendre son impact réel aujourd'hui](https://blotmkt.com/ia/definition/amp-google-seo.html)
+- [Ancre de lien : le guide pour maîtriser votre profil de liens sans pénalité](https://blotmkt.com/ia/definition/ancre-de-lien.html)
+- [L'attribut nofollow en seo : le guide pratique pour le maîtriser en 2024](https://blotmkt.com/ia/definition/attribut-nofollow.html)
+- [Attribut sponsored : le guide complet pour vos liens payants en seo](https://blotmkt.com/ia/definition/attribut-sponsored.html)
