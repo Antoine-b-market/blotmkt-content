@@ -3,7 +3,7 @@
   "slug": "consultant-seo-montreal",
   "category": "strategie",
   "keyword": "Consultant SEO Montréal",
-  "title": "Consultant SEO Montréal : comment choisir le bon expert pour votre croissance",
+  "title": "Consultant SEO Montréal : votre expert en référencement naturel et GEO pour dominer Google et l'IA",
   "status": "published",
   "fix_type": null,
   "fix_target": null,
@@ -12,60 +12,60 @@
   "brief_mode": "standard",
   "hreflang": "fr-CA",
   "force_published": false,
-  "created_at": "2026-05-06T03:51:28.679611Z",
-  "updated_at": "2026-05-13T17:45:01.607599+00:00",
+  "created_at": "2026-05-13T19:34:59.528466Z",
+  "updated_at": "2026-05-13T19:42:23.136693+00:00",
   "scores": {
     "qfo_global": {
-      "value": 0.7307,
+      "value": 0.7302,
       "threshold": 0.72,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "quotability": {
-      "value": 0.5134,
+      "value": 0.5325,
       "threshold": 0.45,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "chunk_diversity": {
-      "value": 0.7982,
+      "value": 0.811,
       "threshold": 0.86,
       "direction": "lower_better",
       "passed": true,
       "blocking": true
     },
     "atomic_proof": {
-      "value": 0.6083,
+      "value": 0.4818,
       "threshold": 0.35,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "semantic_density": {
-      "value": 0.4408,
+      "value": 0.4411,
       "threshold": 0.3,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "information_gain": {
-      "value": 0.1517,
-      "threshold": 0.15,
+      "value": 0.1125,
+      "threshold": 0.08,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "perplexity_variance": {
-      "value": 0.2315,
+      "value": 0.2046,
       "threshold": 0.12,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "entity_alignment": {
-      "value": 0.6703,
+      "value": 0.657,
       "threshold": 0.55,
       "direction": "higher_better",
       "passed": true,

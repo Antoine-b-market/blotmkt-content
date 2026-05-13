@@ -1,94 +1,73 @@
 {
   "keyword": "Consultant SEO Montréal",
-  "intention": "commerciale",
-  "titre_h1": "Consultant SEO Montréal : dominez Google et l'IA avec un expert local",
+  "intention": "commercial",
+  "titre_h1": "Consultant SEO Montréal : votre expert en référencement naturel et GEO pour dominer Google et l'IA",
   "meta_description": "Boostez votre visibilité à Montréal avec un consultant SEO et GEO expert. Stratégies hybrides pour le référencement naturel et les moteurs de réponse IA.",
-  "angle_editorial": "En tant qu'expert SEO et GEO basé à Montréal, je propose une approche stratégique axée sur la compréhension du marché local et l'adaptation aux évolutions rapides de Google et de l'IA, garantissant une visibilité durable et rentable.",
+  "angle_editorial": "Positionnement hybride SEO et GEO pour anticiper les évolutions du search (IA, no-click) à Montréal et maximiser le ROI face à la concurrence.",
   "query_fanout": [
-    "Quel est le coût d'un consultant SEO à Montréal ?",
-    "Comment choisir le bon consultant SEO à Montréal pour mon entreprise ?",
-    "Quelles sont les spécialités d'un consultant SEO et GEO à Montréal ?",
-    "Comment un consultant SEO Montréal peut-il m'aider face à l'IA ?",
-    "Quels sont les services offerts par un consultant SEO à Montréal ?"
+    "comment un consultant SEO à Montréal peut-il augmenter ma visibilité locale ?",
+    "quels sont les coûts et le ROI attendu d'un expert SEO indépendant à Montréal ?",
+    "comment se préparer aux recherches sans clic et à l'IA avec une stratégie SEO locale ?",
+    "quelle est la différence clé entre un consultant SEO indépendant et une agence à Montréal ?",
+    "quelles sont les compétences essentielles d'un consultant GEO pour le marché montréalais ?"
   ],
   "structure": [
     {
       "h2": "Qui est un consultant SEO et GEO à Montréal ?",
       "type": "definition",
       "points_cles": [
-        "Professionnel spécialisé dans l'optimisation pour les moteurs de recherche (SEO) et le référencement local (GEO).",
-        "Expertise axée sur l'augmentation de la visibilité des entreprises montréalaises sur Google.",
-        "Maîtrise des algorithmes actuels et anticipant les tendances, notamment l'impact de l'IA sur le Search."
+        "Expert en visibilité organique et locale à Montréal",
+        "Optimisation pour Google et les moteurs de réponse IA",
+        "Maîtrise des spécificités géographiques du Québec"
       ]
     },
     {
-      "h2": "Pourquoi engager un consultant SEO et GEO à Montréal ?",
+      "h2": "Pourquoi engager un consultant SEO et GEO localement à Montréal ?",
       "type": "usage",
       "points_cles": [
-        "Accroître votre trafic qualifié et vos leads sur le marché montréalais.",
-        "Améliorer votre positionnement local et attirer une clientèle de proximité.",
-        "Se démarquer de la concurrence via des stratégies personnalisées et innovantes.",
-        "S'adapter à l'émergence des réponses générées par l'IA (IA Generative Search Experience)."
+        "Capter les leads perdus face à la concurrence",
+        "Anticiper la transformation du Search (recherches sans clic, IA)",
+        "Profiter d'une expertise bilingue et culturellement pertinente"
       ]
     },
     {
-      "h2": "Les écueils courants d'une stratégie SEO sans expertise locale",
+      "h2": "Les pièges d'une stratégie SEO sans expertise locale à Montréal",
       "type": "echec",
       "points_cles": [
-        "Négliger les spécificités culturelles et linguistiques du marché montréalais (français/anglais).",
-        "Ignorer l'importance du SEO local et des cartes Google (Google Maps) pour les commerces.",
-        "Utiliser des tactiques génériques inadaptées au contexte économique montréalais.",
-        "Manquer l'opportunité d'apparaître dans les réponses IA grâce à un contenu structuré et pertinent."
+        "Perte de visibilité sur les requêtes locales essentielles",
+        "ROI insuffisant dû à des stratégies génériques",
+        "Ignorance des spécificités du marché québécois",
+        "Désuétude rapide face à l'évolution de l'IA"
       ]
     },
     {
-      "h2": "Mon approche : expertise hybride SEO & GEO pour Montréal",
-      "type": "preuve",
-      "points_cles": [
-        "Diagnostic approfondi de votre présence actuelle et de vos objectifs d'affaires.",
-        "Stratégie de contenu bilingue optimisée pour les requêtes locales et générales.",
-        "Optimisation technique et on-page, incluant Google Business Profile.",
-        "Suivi analytique rigoureux et ajustements stratégiques constants."
-      ]
-    },
-    {
-      "h2": "Consultant SEO indépendant vs. Agence SEO à Montréal : Le bon choix",
-      "type": "comparaison",
-      "points_cles": [
-        "Indépendance : Agilité, contact direct, expertise dédiée et souvent plus économique.",
-        "Agence : Large éventail de services, équipe pluridisciplinaire, potentiellement plus de ressources globales.",
-        "Mon avantage : Une expertise senior focalisée sur vos résultats concrets, sans la lourdeur d'une grande structure."
-      ]
-    },
-    {
-      "h2": "Le futur du Search : domination organique et réponse IA",
+      "h2": "Dominer le futur du Search à Montréal : IA et les recherches sans clic",
       "type": "avance",
       "points_cles": [
-        "Le SEO reste fondamental pour la structure et l'autorité.",
-        "L'IA générative absorbe une partie des recherches, nécessitant une stratégie pour y figurer.",
-        "L'expertise, la pertinence et l'expérience utilisateur (E-E-A-T) sont clés.",
-        "Une présence optimisée sur Google et un contenu structuré sont essentiels pour les deux aspects."
+        "60% des recherches se terminent sans clic en 2026",
+        "Positionnement stratégique dans les AI Overviews et PAA",
+        "Préparation à l'impact des LLM sur les SERP",
+        "Stratégies proactives pour la visibilité future"
       ]
     },
     {
-      "h2": "Votre feuille de route vers la visibilité à Montréal",
-      "type": "technique",
+      "h2": "Consultant SEO indépendant vs. agence à Montréal : le choix de la performance",
+      "type": "comparaison",
       "points_cles": [
-        "Audit SEO complet et analyse de la concurrence locale.",
-        "Définition des mots-clés stratégiques (SEO & GEO).",
-        "Mise en œuvre des optimisations techniques, on-page et off-page.",
-        "Création et optimisation du contenu (incluant Google Business Profile).",
-        "Suivi, analyse des performances et reporting régulier."
+        "Expertise senior directe vs. dilution via des profils juniors",
+        "Flexibilité et personnalisation de l'approche",
+        "Transparence des coûts et alignement sur les objectifs",
+        "Éviter les marges importantes des agences sur des profils moins expérimentés"
       ]
     },
     {
-      "h2": "Faire le choix d'Antoine Blot : votre partenaire SEO à Montréal",
-      "type": "usage",
+      "h2": "Mon approche hybride SEO & GEO pour des résultats concrets à Montréal",
+      "type": "preuve",
       "points_cles": [
-        "Plus de 10 ans d'expérience en stratégie digitale.",
-        "Expertise reconnue en SEO et GEO pour le marché québécois.",
-        "Approche transparente, axée sur le ROI et les résultats mesurables.",
-        "Consultant passionné par l'innovation et l'adaptation aux nouvelles technologies IA."
+        "Utilisation d'outils premium : Semrush, Ahrefs, Botify",
+        "Optimisation du Google Business Profile et citations locales",
+        "Stratégies de contenu bilingue et ciblé",
+        "Suivi précis des KPI : positions, trafic, conversions, ROI"
       ]
     },
     {
@@ -96,29 +75,29 @@
       "type": "faq",
       "points_cles": [
         "Quel est le prix moyen d'un consultant SEO à Montréal ?",
-        "Comment évaluer la qualité d'un consultant SEO pour ma PME à Montréal ?",
-        "Quels sont les premiers pas pour optimiser mon site web à Montréal ?"
+        "Comment évaluer la qualité d'un consultant SEO à Montréal ?",
+        "Quels sont les piliers d'une stratégie SEO efficace en 2026 ?"
       ]
     }
   ],
   "mots_cles_secondaires": [
-    "SEO Montréal",
-    "Référencement local Montréal",
-    "Stratégie digitale Montréal",
-    "Expert SEO freelance Montréal",
-    "Google Business Profile Montréal"
+    "référencement naturel Montréal",
+    "expert SEO local",
+    "stratégie SEO Québec",
+    "optimisation Google Business Profile",
+    "marketing digital Montréal"
   ],
   "questions_paa": [
-    "Combien coûte un consultant SEO à Montréal ?",
-    "Comment un consultant SEO peut-il aider mon entreprise locale à Montréal ?",
-    "Quelle est la différence entre un consultant SEO et une agence SEO à Montréal ?",
-    "Pourquoi l'IA change-t-elle le SEO et comment un consultant peut-il m'aider ?"
+    "Quel est le prix moyen d'un consultant SEO à Montréal ?",
+    "Comment évaluer la qualité d'un consultant SEO à Montréal ?",
+    "Quels sont les piliers d'une stratégie SEO efficace en 2026 pour le marché montréalais ?"
   ],
   "ton": "expert",
-  "longueur_cible": 1000,
+  "longueur_cible": 950,
   "category": "strategie",
   "lang": "fr",
   "brief_mode": "standard",
   "hreflang": "fr-CA",
-  "slug": "consultant-seo-montreal"
+  "slug": "consultant-seo-montreal",
+  "google_context": {}
 }

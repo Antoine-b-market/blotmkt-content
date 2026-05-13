@@ -2139,7 +2139,7 @@
     },
     "/data/strategie/consultant-seo-montreal.md": {
       "get": {
-        "summary": "Consultant SEO montréal : dominez google et l'IA avec un expert local",
+        "summary": "Consultant SEO montréal : votre expert en référencement naturel et GEO pour dominer google et l'IA",
         "description": "Boostez votre visibilité à Montréal avec un consultant SEO et GEO expert. Stratégies hybrides pour le référencement naturel et les moteurs de réponse IA.",
         "operationId": "consultant_seo_montreal",
         "tags": [

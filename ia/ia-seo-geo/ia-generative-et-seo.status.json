@@ -4,16 +4,19 @@
   "category": "ia-seo-geo",
   "keyword": "IA générative et SEO",
   "title": "IA Générative et SEO : Comment Booster Votre Visibilité en 2024",
-  "status": "pending_fix",
-  "fix_type": "fix_information_gain",
+  "status": "pending_review",
+  "fix_type": null,
   "fix_target": {
     "section": "SEO technique et IA : quelles évolutions attendre ? {#seo-technique}",
     "score": 0.152
   },
   "stale": false,
   "stale_since": null,
+  "brief_mode": "standard",
+  "hreflang": "fr-CA",
+  "force_published": false,
   "created_at": "2026-05-07T04:40:16.742349Z",
-  "updated_at": "2026-05-11T19:52:43.142259Z",
+  "updated_at": "2026-05-13T19:39:48.071781Z",
   "scores": {
     "qfo_global": {
       "value": null,
@@ -51,10 +54,10 @@
       "blocking": true
     },
     "information_gain": {
-      "value": 0.1438,
-      "threshold": 0.15,
+      "value": 0.138,
+      "threshold": 0.08,
       "direction": "higher_better",
-      "passed": false,
+      "passed": true,
       "blocking": true
     },
     "perplexity_variance": {

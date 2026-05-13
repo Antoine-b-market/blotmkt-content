@@ -290,7 +290,7 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 - [Consultant GEO Montréal : Boostez votre visibilité locale et IA](https://blotmkt.com/ia/strategie/consultant-geo-montreal.html)
   Besoin d'un consultant GEO à Montréal ? Dominez les résultats Google et les moteurs de réponse IA. Stratégie sur mesure pour PME et grands comptes.
 
-- [Consultant SEO montréal : dominez google et l'IA avec un expert local](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)
+- [Consultant SEO montréal : votre expert en référencement naturel et GEO pour dominer google et l'IA](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)
   Boostez votre visibilité à Montréal avec un consultant SEO et GEO expert. Stratégies hybrides pour le référencement naturel et les moteurs de réponse IA.
 
 - [Coût d'acquisition SEO (CAC) : Guide complet pour un ROI optimal](https://blotmkt.com/ia/strategie/cout-acquisition-seo.html)
@@ -530,7 +530,7 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [Consultant GEO Montréal : Boostez votre visibilité locale et IA](https://blotmkt.com/data/strategie/consultant-geo-montreal.md)
 
-- [Consultant SEO montréal : dominez google et l'IA avec un expert local](https://blotmkt.com/data/strategie/consultant-seo-montreal.md)
+- [Consultant SEO montréal : votre expert en référencement naturel et GEO pour dominer google et l'IA](https://blotmkt.com/data/strategie/consultant-seo-montreal.md)
 
 - [Coût d'acquisition SEO (CAC) : Guide complet pour un ROI optimal](https://blotmkt.com/data/strategie/cout-acquisition-seo.md)
 

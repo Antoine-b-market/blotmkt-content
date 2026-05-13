@@ -1,46 +1,46 @@
 {
-  "score_global": 0.7307,
-  "mu": 0.7359,
-  "sigma_min": 0.7272,
-  "mmr_score": 0.2337,
-  "kl_divergence": 0.3946,
+  "score_global": 0.7302,
+  "mu": 0.734,
+  "sigma_min": 0.7276,
+  "mmr_score": 0.2353,
+  "kl_divergence": 0.3759,
   "kl_status": "OK",
-  "transition_prob": 0.9232,
+  "transition_prob": 0.9191,
   "axes": {
     "sous_sujet": {
       "dimension": "detail technique specifique precis",
-      "score": 0.733,
+      "score": 0.7381,
       "status": "FAIL",
-      "best_chunk": "Consultant SEO Montréal : dominez Google et l'IA avec un expert local Sommaire - Qui est un consultant SEO et GEO à Mont",
-      "chunk_index": 0
+      "best_chunk": "bon tarif est celui aligné avec vos objectifs d'affaires réels, pas le moins cher du marché. Comment évaluer la qualité ",
+      "chunk_index": 5
     },
     "prerequis": {
       "dimension": "connaissances prealables necessaires",
-      "score": 0.7431,
+      "score": 0.7329,
       "status": "FAIL",
-      "best_chunk": "Consultant SEO Montréal : dominez Google et l'IA avec un expert local Sommaire - Qui est un consultant SEO et GEO à Mont",
+      "best_chunk": "Consultant SEO Montréal : votre expert en référencement naturel et GEO pour dominer Google et l'IA Sommaire - Qui est un",
       "chunk_index": 0
     },
     "cas_limite": {
       "dimension": "exception cas particulier probleme limite",
-      "score": 0.7387,
+      "score": 0.7276,
       "status": "FAIL",
-      "best_chunk": "Consultant SEO Montréal : dominez Google et l'IA avec un expert local Sommaire - Qui est un consultant SEO et GEO à Mont",
+      "best_chunk": "Consultant SEO Montréal : votre expert en référencement naturel et GEO pour dominer Google et l'IA Sommaire - Qui est un",
       "chunk_index": 0
     },
     "validation": {
       "dimension": "preuve mesure verification resultat chiffre",
-      "score": 0.7272,
+      "score": 0.7396,
       "status": "FAIL",
-      "best_chunk": "Consultant SEO Montréal : dominez Google et l'IA avec un expert local Sommaire - Qui est un consultant SEO et GEO à Mont",
-      "chunk_index": 0
+      "best_chunk": "bon tarif est celui aligné avec vos objectifs d'affaires réels, pas le moins cher du marché. Comment évaluer la qualité ",
+      "chunk_index": 5
     },
     "entite": {
       "dimension": "organisation outil reference officielle reconnue",
-      "score": 0.7376,
+      "score": 0.7318,
       "status": "FAIL",
-      "best_chunk": "Consultant SEO Montréal : dominez Google et l'IA avec un expert local Sommaire - Qui est un consultant SEO et GEO à Mont",
-      "chunk_index": 0
+      "best_chunk": "; être cité dans les AI Overviews devient un KPI à part entière. - Un consultant SEO GEO à Montréal couvre à la fois le ",
+      "chunk_index": 1
     }
   },
   "weak_axes": [
@@ -51,5 +51,5 @@
     "entite"
   ],
   "verdict": "REVIEW_NEEDED",
-  "chunks_count": 7
+  "chunks_count": 9
 }
