@@ -1,0 +1,91 @@
+{
+  "score_global": 0.5702,
+  "atomic_proof_score": 0.158,
+  "mmr_score": 0.1765,
+  "kl_divergence": 0.5263,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.5629,
+      "status": "FAIL",
+      "best_chunk": "Lien ugc : guide complet pour booster votre seo en 2026 Sommaire - Qu'est-ce qu'un lien UGC et pourquoi est-ce important",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.6015,
+      "status": "FAIL",
+      "best_chunk": "Lien ugc : guide complet pour booster votre seo en 2026 Sommaire - Qu'est-ce qu'un lien UGC et pourquoi est-ce important",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.5775,
+      "status": "FAIL",
+      "best_chunk": "l'attribut rel=\"ugc\" expose votre domaine à une dilution de profil de liens, voire à une pénalité manuelle. - Récompense",
+      "chunk_index": 1
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.5687,
+      "status": "FAIL",
+      "best_chunk": "l'attribut rel=\"ugc\" expose votre domaine à une dilution de profil de liens, voire à une pénalité manuelle. - Récompense",
+      "chunk_index": 1
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.5951,
+      "status": "FAIL",
+      "best_chunk": "Lien ugc : guide complet pour booster votre seo en 2026 Sommaire - Qu'est-ce qu'un lien UGC et pourquoi est-ce important",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 07:21",
+  "quotability": {
+    "score": 0.4711,
+    "top10_mean": 0.5799,
+    "n_passages": 78,
+    "assertiveness": 0.996,
+    "information_density": 0.226,
+    "optimal_length": 0.917,
+    "self_containedness": 0.362,
+    "top_passages": [
+      {
+        "passage": "Lien ugc : guide complet pour booster votre seo en 2026\n\nSommaire\n- Qu'est-ce qu'un lien UGC et pour",
+        "quotability": 0.6477,
+        "assertiveness": 1.0,
+        "information_density": 0.6,
+        "optimal_length": 1.0,
+        "self_containedness": 0.734,
+        "novelty": 0.138
+      },
+      {
+        "passage": "- Les avantages concrets des liens UGC pour votre stratégie SEO\n- Comment obtenir des liens UGC de m",
+        "quotability": 0.6301,
+        "assertiveness": 1.0,
+        "information_density": 0.652,
+        "optimal_length": 1.0,
+        "self_containedness": 0.639,
+        "novelty": 0.126
+      },
+      {
+        "passage": "Les Core Updates de 2025 ont renforcé la valorisation du contenu authentique.",
+        "quotability": 0.6065,
+        "assertiveness": 1.0,
+        "information_density": 0.75,
+        "optimal_length": 1.0,
+        "self_containedness": 0.255,
+        "novelty": 0.463
+      }
+    ]
+  }
+}

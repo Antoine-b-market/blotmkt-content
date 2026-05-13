@@ -1,0 +1,91 @@
+{
+  "score_global": 0.5942,
+  "atomic_proof_score": 0.269,
+  "mmr_score": 0.2076,
+  "kl_divergence": 0.4584,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.5939,
+      "status": "FAIL",
+      "best_chunk": "Profil de liens : guide complet pour optimiser votre SEO en 2026 Sommaire - Qu'est-ce qu'un profil de liens et pourquoi ",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.5999,
+      "status": "FAIL",
+      "best_chunk": "Profil de liens : guide complet pour optimiser votre SEO en 2026 Sommaire - Qu'est-ce qu'un profil de liens et pourquoi ",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.5977,
+      "status": "FAIL",
+      "best_chunk": "L'achat de liens non déclarés ou les schémas de liens artificiels exposent à des pénalités manuelles ou algorithmiques s",
+      "chunk_index": 5
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.6111,
+      "status": "FAIL",
+      "best_chunk": "L'achat de liens non déclarés ou les schémas de liens artificiels exposent à des pénalités manuelles ou algorithmiques s",
+      "chunk_index": 5
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.5911,
+      "status": "FAIL",
+      "best_chunk": "Profil de liens : guide complet pour optimiser votre SEO en 2026 Sommaire - Qu'est-ce qu'un profil de liens et pourquoi ",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 07:38",
+  "quotability": {
+    "score": 0.4765,
+    "top10_mean": 0.5854,
+    "n_passages": 75,
+    "assertiveness": 0.992,
+    "information_density": 0.192,
+    "optimal_length": 0.893,
+    "self_containedness": 0.402,
+    "top_passages": [
+      {
+        "passage": "Profil de liens : guide complet pour optimiser votre SEO en 2026\n\nSommaire\n- Qu'est-ce qu'un profil ",
+        "quotability": 0.6614,
+        "assertiveness": 1.0,
+        "information_density": 0.556,
+        "optimal_length": 0.92,
+        "self_containedness": 0.733,
+        "novelty": 0.303
+      },
+      {
+        "passage": "Un Spam Score élevé dans Semrush ou un Trust Flow très inférieur au Citation Flow dans Majestic indi",
+        "quotability": 0.6239,
+        "assertiveness": 0.7,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.357,
+        "novelty": 0.309
+      },
+      {
+        "passage": "Les pages classées en première position sur Google possèdent en moyenne 3,8 fois plus de backlinks q",
+        "quotability": 0.6064,
+        "assertiveness": 1.0,
+        "information_density": 0.556,
+        "optimal_length": 0.92,
+        "self_containedness": 0.627,
+        "novelty": 0.187
+      }
+    ]
+  }
+}

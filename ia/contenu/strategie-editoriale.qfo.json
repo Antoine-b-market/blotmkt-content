@@ -1,0 +1,85 @@
+{
+  "score_global": 0.769,
+  "atomic_proof_score": 0.457,
+  "mmr_score": 0.2909,
+  "kl_divergence": 0.3391,
+  "verdict": "OK",
+  "weak_axes": [],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7851,
+      "status": "OK",
+      "best_chunk": "Stratégie éditoriale : guide complet pour un contenu performant Sommaire - Qu'est-ce qu'une stratégie éditoriale ? Défin",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7881,
+      "status": "OK",
+      "best_chunk": "Stratégie éditoriale : guide complet pour un contenu performant Sommaire - Qu'est-ce qu'une stratégie éditoriale ? Défin",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7715,
+      "status": "OK",
+      "best_chunk": "Stratégie éditoriale : guide complet pour un contenu performant Sommaire - Qu'est-ce qu'une stratégie éditoriale ? Défin",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7647,
+      "status": "OK",
+      "best_chunk": "Stratégie éditoriale : guide complet pour un contenu performant Sommaire - Qu'est-ce qu'une stratégie éditoriale ? Défin",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7677,
+      "status": "OK",
+      "best_chunk": "Stratégie éditoriale : guide complet pour un contenu performant Sommaire - Qu'est-ce qu'une stratégie éditoriale ? Défin",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 06:10",
+  "quotability": {
+    "score": 0.4854,
+    "top10_mean": 0.6445,
+    "n_passages": 86,
+    "assertiveness": 1.0,
+    "information_density": 0.21,
+    "optimal_length": 0.924,
+    "self_containedness": 0.402,
+    "top_passages": [
+      {
+        "passage": "Sources : Content Marketing Institute (2025), Business Research Insights via Incremys (2026), Semrus",
+        "quotability": 0.7612,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 0.76,
+        "self_containedness": 0.677,
+        "novelty": 0.411
+      },
+      {
+        "passage": "Stratégie éditoriale : les perspectives 2026 {#strategie-editoriale-les-perspectives-2026}\n\nTrois te",
+        "quotability": 0.7357,
+        "assertiveness": 1.0,
+        "information_density": 0.8,
+        "optimal_length": 1.0,
+        "self_containedness": 0.824,
+        "novelty": 0.193
+      },
+      {
+        "passage": "73 % des entreprises B2B et 70 % des entreprises B2C disposent aujourd'hui d'une stratégie de conten",
+        "quotability": 0.7045,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.425,
+        "novelty": 0.386
+      }
+    ]
+  }
+}

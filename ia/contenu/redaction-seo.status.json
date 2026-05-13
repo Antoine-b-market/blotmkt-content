@@ -1,0 +1,102 @@
+{
+  "version": "2",
+  "slug": "redaction-seo",
+  "category": "contenu",
+  "keyword": "Rédaction SEO",
+  "title": "Rédaction SEO : Techniques et Stratégies pour 2026",
+  "status": "published",
+  "fix_type": null,
+  "fix_target": null,
+  "stale": false,
+  "stale_since": null,
+  "created_at": "2026-05-06T03:36:45.786459Z",
+  "updated_at": "2026-05-13T05:34:57.571578+00:00",
+  "scores": {
+    "qfo_global": {
+      "value": 0.7122,
+      "threshold": 0.72,
+      "direction": "higher_better",
+      "passed": false,
+      "blocking": true
+    },
+    "quotability": {
+      "value": 0.5096,
+      "threshold": 0.45,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "chunk_diversity": {
+      "value": 0.9957,
+      "threshold": 0.86,
+      "direction": "lower_better",
+      "passed": false,
+      "blocking": true
+    },
+    "atomic_proof": {
+      "value": 0.4045,
+      "threshold": 0.35,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "semantic_density": {
+      "value": 0.3884,
+      "threshold": 0.3,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "information_gain": {
+      "value": 0.165,
+      "threshold": 0.15,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "perplexity_variance": {
+      "value": 0.1978,
+      "threshold": 0.12,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "entity_alignment": {
+      "value": 0.7509,
+      "threshold": 0.55,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": false
+    }
+  },
+  "fix_history": [
+    {
+      "fix_type": "fix_qfo",
+      "model": "claude-sonnet-4-6",
+      "section_targeted": "Erreurs fréquentes en rédaction SEO {#echec}",
+      "fixed_at": "2026-05-11T18:40:41.723093Z",
+      "scores_before": {
+        "qfo_global": 0.7122,
+        "quotability": 0.5118,
+        "chunk_diversity": 0.9957,
+        "atomic_proof": 0.44,
+        "semantic_density": 0.3998,
+        "information_gain": 0.1642,
+        "perplexity_variance": 0.1952,
+        "entity_alignment": 0.7514
+      },
+      "scores_after": {
+        "qfo_global": 0.7122,
+        "quotability": 0.5096,
+        "chunk_diversity": 0.9957,
+        "atomic_proof": 0.4045,
+        "semantic_density": 0.3884,
+        "information_gain": 0.165,
+        "perplexity_variance": 0.1978,
+        "entity_alignment": 0.7514
+      },
+      "result": "partial"
+    }
+  ],
+  "merged_into": "fusion-mise-a-jour-contenu-seo-redaction-seo"
+}

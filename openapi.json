@@ -2139,32 +2139,9 @@
     },
     "/data/strategie/consultant-seo-montreal.md": {
       "get": {
-        "summary": "Consultant SEO Montréal : comment choisir le bon expert pour votre croissance",
-        "description": "Besoin d'un consultant SEO à Montréal ? Découvrez les critères essentiels, les compétences clés et comment booster votre ROI durablement.",
+        "summary": "Consultant SEO montréal : dominez google et l'IA avec un expert local",
+        "description": "Boostez votre visibilité à Montréal avec un consultant SEO et GEO expert. Stratégies hybrides pour le référencement naturel et les moteurs de réponse IA.",
         "operationId": "consultant_seo_montreal",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/consultant-seo-quebec.md": {
-      "get": {
-        "summary": "Consultant SEO à Québec : Guide Ultime pour Choisir le Bon Expert",
-        "description": "Besoin d'un consultant SEO à Québec ? Découvrez les critères essentiels, les tarifs et les stratégies pour booster votre visibilité en ligne localement.",
-        "operationId": "consultant_seo_quebec",
         "tags": [
           "strategie"
         ],

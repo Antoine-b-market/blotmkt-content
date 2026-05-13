@@ -1,0 +1,85 @@
+{
+  "score_global": 0.8139,
+  "atomic_proof_score": 0.431,
+  "mmr_score": 0.1868,
+  "kl_divergence": 0.4621,
+  "verdict": "OK",
+  "weak_axes": [],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.815,
+      "status": "OK",
+      "best_chunk": "Consultant GEO Montréal : Boostez votre visibilité locale et IA Sommaire - Qu'est-ce que l'optimisation GEO et pourquoi ",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.8126,
+      "status": "OK",
+      "best_chunk": "Consultant GEO Montréal : Boostez votre visibilité locale et IA Sommaire - Qu'est-ce que l'optimisation GEO et pourquoi ",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.8153,
+      "status": "OK",
+      "best_chunk": "Consultant GEO Montréal : Boostez votre visibilité locale et IA Sommaire - Qu'est-ce que l'optimisation GEO et pourquoi ",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.8128,
+      "status": "OK",
+      "best_chunk": "Consultant GEO Montréal : Boostez votre visibilité locale et IA Sommaire - Qu'est-ce que l'optimisation GEO et pourquoi ",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.824,
+      "status": "OK",
+      "best_chunk": "Consultant GEO Montréal : Boostez votre visibilité locale et IA Sommaire - Qu'est-ce que l'optimisation GEO et pourquoi ",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 10:48",
+  "quotability": {
+    "score": 0.505,
+    "top10_mean": 0.6566,
+    "n_passages": 82,
+    "assertiveness": 1.0,
+    "information_density": 0.337,
+    "optimal_length": 0.904,
+    "self_containedness": 0.369,
+    "top_passages": [
+      {
+        "passage": "Consultant GEO Montréal : Boostez votre visibilité locale et IA\n\nSommaire\n- Qu'est-ce que l'optimisa",
+        "quotability": 0.7273,
+        "assertiveness": 1.0,
+        "information_density": 0.913,
+        "optimal_length": 1.0,
+        "self_containedness": 0.727,
+        "novelty": 0.155
+      },
+      {
+        "passage": "Les LLMs s'appuient sur les sources tierces vérifiables - Google Reviews, Yelp, Pages Jaunes, médias",
+        "quotability": 0.6912,
+        "assertiveness": 1.0,
+        "information_density": 0.818,
+        "optimal_length": 1.0,
+        "self_containedness": 0.558,
+        "novelty": 0.347
+      },
+      {
+        "passage": "Les systèmes visés sont ChatGPT, Google AI Overviews, Perplexity et Gemini.",
+        "quotability": 0.677,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 0.917,
+        "self_containedness": 0.325,
+        "novelty": 0.44
+      }
+    ]
+  }
+}

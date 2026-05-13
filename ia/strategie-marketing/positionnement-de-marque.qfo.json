@@ -1,0 +1,91 @@
+{
+  "score_global": 0.6034,
+  "atomic_proof_score": 0.375,
+  "mmr_score": 0.2505,
+  "kl_divergence": 0.4076,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.6187,
+      "status": "FAIL",
+      "best_chunk": "continue. Les marques peuvent devoir ajuster leur positionnement au fil du temps en réponse aux changements du marché ou",
+      "chunk_index": 2
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.6709,
+      "status": "FAIL",
+      "best_chunk": "Positionnement de marque : comment se démarquer et prospérer ? Sommaire - Qu'est-ce que le positionnement de marque et p",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.5907,
+      "status": "FAIL",
+      "best_chunk": "continue. Les marques peuvent devoir ajuster leur positionnement au fil du temps en réponse aux changements du marché ou",
+      "chunk_index": 2
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.6178,
+      "status": "FAIL",
+      "best_chunk": "continue. Les marques peuvent devoir ajuster leur positionnement au fil du temps en réponse aux changements du marché ou",
+      "chunk_index": 2
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.6142,
+      "status": "FAIL",
+      "best_chunk": "continue. Les marques peuvent devoir ajuster leur positionnement au fil du temps en réponse aux changements du marché ou",
+      "chunk_index": 2
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 10:56",
+  "quotability": {
+    "score": 0.4579,
+    "top10_mean": 0.5802,
+    "n_passages": 96,
+    "assertiveness": 1.0,
+    "information_density": 0.138,
+    "optimal_length": 0.863,
+    "self_containedness": 0.408,
+    "top_passages": [
+      {
+        "passage": "Sources : American Marketing Association Global Marketer Confidence Survey 2026 ; HubSpot State of M",
+        "quotability": 0.6749,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 0.24,
+        "self_containedness": 0.597,
+        "novelty": 0.36
+      },
+      {
+        "passage": "Complétez avec Google Trends, un outil de social listening (Mention, Brand24) et un NPS client trime",
+        "quotability": 0.6348,
+        "assertiveness": 1.0,
+        "information_density": 0.938,
+        "optimal_length": 1.0,
+        "self_containedness": 0.291,
+        "novelty": 0.316
+      },
+      {
+        "passage": "Mesurez les requêtes de marque dans Google Search Console pour évaluer la notoriété organique.",
+        "quotability": 0.6345,
+        "assertiveness": 1.0,
+        "information_density": 0.643,
+        "optimal_length": 1.0,
+        "self_containedness": 0.58,
+        "novelty": 0.248
+      }
+    ]
+  }
+}

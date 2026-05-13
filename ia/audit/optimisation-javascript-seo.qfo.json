@@ -1,0 +1,85 @@
+{
+  "score_global": 0.8036,
+  "atomic_proof_score": 0.131,
+  "mmr_score": 0.2549,
+  "kl_divergence": 0.3421,
+  "verdict": "OK",
+  "weak_axes": [],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7998,
+      "status": "OK",
+      "best_chunk": "Optimisation JavaScript SEO : guide complet pour 2026 Sommaire - Comprendre l'importance de l'optimisation JavaScript po",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.822,
+      "status": "OK",
+      "best_chunk": "Optimisation JavaScript SEO : guide complet pour 2026 Sommaire - Comprendre l'importance de l'optimisation JavaScript po",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.8048,
+      "status": "OK",
+      "best_chunk": "Optimisation JavaScript SEO : guide complet pour 2026 Sommaire - Comprendre l'importance de l'optimisation JavaScript po",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.808,
+      "status": "OK",
+      "best_chunk": "Optimisation JavaScript SEO : guide complet pour 2026 Sommaire - Comprendre l'importance de l'optimisation JavaScript po",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.8125,
+      "status": "OK",
+      "best_chunk": "Optimisation JavaScript SEO : guide complet pour 2026 Sommaire - Comprendre l'importance de l'optimisation JavaScript po",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 11:34",
+  "quotability": {
+    "score": 0.4894,
+    "top10_mean": 0.6446,
+    "n_passages": 94,
+    "assertiveness": 0.997,
+    "information_density": 0.313,
+    "optimal_length": 0.911,
+    "self_containedness": 0.33,
+    "top_passages": [
+      {
+        "passage": "L'optimisation JavaScript SEO en 2026 : les tendances à suivre {#tendances-javascript-seo-2026}\n\nL'e",
+        "quotability": 0.7877,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.806,
+        "novelty": 0.23
+      },
+      {
+        "passage": "FAQ : Questions fréquentes sur l'optimisation JavaScript SEO {#faq-javascript-seo}\n\nComment tester s",
+        "quotability": 0.7225,
+        "assertiveness": 1.0,
+        "information_density": 0.947,
+        "optimal_length": 1.0,
+        "self_containedness": 0.59,
+        "novelty": 0.293
+      },
+      {
+        "passage": "Erreur 3 - Utiliser le CSR sur des pages stratégiques.",
+        "quotability": 0.6568,
+        "assertiveness": 1.0,
+        "information_density": 0.9,
+        "optimal_length": 0.833,
+        "self_containedness": 0.356,
+        "novelty": 0.459
+      }
+    ]
+  }
+}

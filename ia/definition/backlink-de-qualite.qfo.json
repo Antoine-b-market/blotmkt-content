@@ -1,0 +1,91 @@
+{
+  "score_global": 0.6885,
+  "atomic_proof_score": 0.344,
+  "mmr_score": 0.2032,
+  "kl_divergence": 0.474,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.6844,
+      "status": "FAIL",
+      "best_chunk": "Backlink de qualité : le guide ultime pour booster votre SEO Sommaire - Qu'est-ce qu'un backlink de qualité et pourquoi ",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7025,
+      "status": "FAIL",
+      "best_chunk": "Backlink de qualité : le guide ultime pour booster votre SEO Sommaire - Qu'est-ce qu'un backlink de qualité et pourquoi ",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.6859,
+      "status": "FAIL",
+      "best_chunk": "Backlink de qualité : le guide ultime pour booster votre SEO Sommaire - Qu'est-ce qu'un backlink de qualité et pourquoi ",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7,
+      "status": "FAIL",
+      "best_chunk": "Backlink de qualité : le guide ultime pour booster votre SEO Sommaire - Qu'est-ce qu'un backlink de qualité et pourquoi ",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7009,
+      "status": "FAIL",
+      "best_chunk": "Backlink de qualité : le guide ultime pour booster votre SEO Sommaire - Qu'est-ce qu'un backlink de qualité et pourquoi ",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 06:34",
+  "quotability": {
+    "score": 0.458,
+    "top10_mean": 0.5902,
+    "n_passages": 90,
+    "assertiveness": 0.997,
+    "information_density": 0.173,
+    "optimal_length": 0.823,
+    "self_containedness": 0.394,
+    "top_passages": [
+      {
+        "passage": "Backlink de qualité : le guide ultime pour booster votre SEO\n\nSommaire\n- Qu'est-ce qu'un backlink de",
+        "quotability": 0.6399,
+        "assertiveness": 1.0,
+        "information_density": 0.462,
+        "optimal_length": 0.96,
+        "self_containedness": 0.765,
+        "novelty": 0.245
+      },
+      {
+        "passage": "Google Search Console offre une vue fiable des liens détectés par Google - à croiser avec Ahrefs pou",
+        "quotability": 0.6253,
+        "assertiveness": 1.0,
+        "information_density": 0.545,
+        "optimal_length": 1.0,
+        "self_containedness": 0.593,
+        "novelty": 0.306
+      },
+      {
+        "passage": "En 2026, les critères E-E-A-T - Experience, Expertise, Authoritativeness, Trustworthiness - sont dét",
+        "quotability": 0.6208,
+        "assertiveness": 1.0,
+        "information_density": 0.75,
+        "optimal_length": 0.88,
+        "self_containedness": 0.429,
+        "novelty": 0.333
+      }
+    ]
+  }
+}

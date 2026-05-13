@@ -1,0 +1,91 @@
+{
+  "score_global": 0.7237,
+  "atomic_proof_score": 0.125,
+  "mmr_score": 0.2261,
+  "kl_divergence": 0.4004,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7256,
+      "status": "FAIL",
+      "best_chunk": ": il guide l'entraînement des systèmes automatisés de Google. Les sites qui démontrent un E-E-A-T fort s'alignent sur ce",
+      "chunk_index": 4
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7291,
+      "status": "FAIL",
+      "best_chunk": "E-e-a-t Google : le guide ultime pour booster votre SEO Sommaire - Comprendre l'E-E-A-T : l'essence de la qualité Google",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7188,
+      "status": "FAIL",
+      "best_chunk": ": il guide l'entraînement des systèmes automatisés de Google. Les sites qui démontrent un E-E-A-T fort s'alignent sur ce",
+      "chunk_index": 4
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7422,
+      "status": "FAIL",
+      "best_chunk": ": il guide l'entraînement des systèmes automatisés de Google. Les sites qui démontrent un E-E-A-T fort s'alignent sur ce",
+      "chunk_index": 4
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.739,
+      "status": "FAIL",
+      "best_chunk": ": il guide l'entraînement des systèmes automatisés de Google. Les sites qui démontrent un E-E-A-T fort s'alignent sur ce",
+      "chunk_index": 4
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 13:14",
+  "quotability": {
+    "score": 0.4677,
+    "top10_mean": 0.6181,
+    "n_passages": 78,
+    "assertiveness": 1.0,
+    "information_density": 0.178,
+    "optimal_length": 0.875,
+    "self_containedness": 0.406,
+    "top_passages": [
+      {
+        "passage": "Les critères qu'ils utilisent sont détaillés dans les Search Quality Rater Guidelines.",
+        "quotability": 0.7261,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.544,
+        "novelty": 0.315
+      },
+      {
+        "passage": "Environ 16 000 Quality Raters externes évaluent les contenus à travers le monde.",
+        "quotability": 0.6777,
+        "assertiveness": 1.0,
+        "information_density": 0.923,
+        "optimal_length": 1.0,
+        "self_containedness": 0.386,
+        "novelty": 0.406
+      },
+      {
+        "passage": "<!-- speakable:start --\n\n\n\n\n\n\n\nComprendre l'E-E-A-T : l'essence de la qualité Google {#comprendre-le",
+        "quotability": 0.6403,
+        "assertiveness": 1.0,
+        "information_density": 0.889,
+        "optimal_length": 0.92,
+        "self_containedness": 0.452,
+        "novelty": 0.202
+      }
+    ]
+  }
+}

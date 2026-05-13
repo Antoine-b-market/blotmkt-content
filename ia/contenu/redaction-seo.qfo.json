@@ -1,0 +1,91 @@
+{
+  "score_global": 0.7122,
+  "atomic_proof_score": 0.386,
+  "mmr_score": 0.2871,
+  "kl_divergence": 0.3541,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7171,
+      "status": "FAIL",
+      "best_chunk": "organique, le taux de conversion et le coût d'acquisition client. - Semrush, Ahrefs et Google Search Console sont les tr",
+      "chunk_index": 1
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7219,
+      "status": "FAIL",
+      "best_chunk": "organique, le taux de conversion et le coût d'acquisition client. - Semrush, Ahrefs et Google Search Console sont les tr",
+      "chunk_index": 1
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7096,
+      "status": "FAIL",
+      "best_chunk": "dispositif. Les pages en position 1 ont 3,8 fois plus de backlinks que les pages en positions 2 à 10 (Backlinko). Un pro",
+      "chunk_index": 2
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7163,
+      "status": "FAIL",
+      "best_chunk": "dispositif. Les pages en position 1 ont 3,8 fois plus de backlinks que les pages en positions 2 à 10 (Backlinko). Un pro",
+      "chunk_index": 2
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7158,
+      "status": "FAIL",
+      "best_chunk": "dispositif. Les pages en position 1 ont 3,8 fois plus de backlinks que les pages en positions 2 à 10 (Backlinko). Un pro",
+      "chunk_index": 2
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 05:42",
+  "quotability": {
+    "score": 0.5053,
+    "top10_mean": 0.6752,
+    "n_passages": 91,
+    "assertiveness": 1.0,
+    "information_density": 0.337,
+    "optimal_length": 0.919,
+    "self_containedness": 0.379,
+    "top_passages": [
+      {
+        "passage": "Rédaction SEO : techniques et stratégies pour 2026\n\nSommaire\n- Qu'est-ce que la rédaction SEO ?",
+        "quotability": 0.7314,
+        "assertiveness": 1.0,
+        "information_density": 0.938,
+        "optimal_length": 1.0,
+        "self_containedness": 0.731,
+        "novelty": 0.139
+      },
+      {
+        "passage": "Sources : First Page Sage (2025), Seer Interactive (2025), Ranktracker, Backlinko, AIOSEO (2026), Br",
+        "quotability": 0.7313,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 0.84,
+        "self_containedness": 0.541,
+        "novelty": 0.424
+      },
+      {
+        "passage": "La position 1 capte 39,8 % des clics, contre 18,7 % pour la position 2 (First Page Sage, 2025).",
+        "quotability": 0.7235,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.518,
+        "novelty": 0.341
+      }
+    ]
+  }
+}

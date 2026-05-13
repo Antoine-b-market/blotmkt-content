@@ -1,0 +1,85 @@
+{
+  "score_global": 0.7598,
+  "atomic_proof_score": 0.217,
+  "mmr_score": 0.3082,
+  "kl_divergence": 0.3003,
+  "verdict": "OK",
+  "weak_axes": [],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7769,
+      "status": "OK",
+      "best_chunk": "Exploration Googlebot : maîtrisez les mécanismes pour une visibilité optimale en 2026 Sommaire - Qu'est-ce que l'explora",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7719,
+      "status": "OK",
+      "best_chunk": "Exploration Googlebot : maîtrisez les mécanismes pour une visibilité optimale en 2026 Sommaire - Qu'est-ce que l'explora",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7779,
+      "status": "OK",
+      "best_chunk": "Exploration Googlebot : maîtrisez les mécanismes pour une visibilité optimale en 2026 Sommaire - Qu'est-ce que l'explora",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7595,
+      "status": "OK",
+      "best_chunk": "Exploration Googlebot : maîtrisez les mécanismes pour une visibilité optimale en 2026 Sommaire - Qu'est-ce que l'explora",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7543,
+      "status": "OK",
+      "best_chunk": "Exploration Googlebot : maîtrisez les mécanismes pour une visibilité optimale en 2026 Sommaire - Qu'est-ce que l'explora",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 15:49",
+  "quotability": {
+    "score": 0.4769,
+    "top10_mean": 0.5709,
+    "n_passages": 62,
+    "assertiveness": 0.99,
+    "information_density": 0.237,
+    "optimal_length": 0.858,
+    "self_containedness": 0.401,
+    "top_passages": [
+      {
+        "passage": "Ils s'identifient via des user-agents spécifiques comme GPTBot, Google-Extended ou CCBot.",
+        "quotability": 0.6223,
+        "assertiveness": 1.0,
+        "information_density": 0.818,
+        "optimal_length": 0.917,
+        "self_containedness": 0.326,
+        "novelty": 0.391
+      },
+      {
+        "passage": "Soumettez votre sitemap XML dans Google Search Console et utilisez l'outil d'inspection d'URL pour d",
+        "quotability": 0.6107,
+        "assertiveness": 1.0,
+        "information_density": 0.632,
+        "optimal_length": 1.0,
+        "self_containedness": 0.503,
+        "novelty": 0.259
+      },
+      {
+        "passage": "{#le-fichier-robotstxt-face-aux-crawlers-dia-comment-bloquer-les-bots-indesirables}\n\nDepuis 2023, le",
+        "quotability": 0.5907,
+        "assertiveness": 1.0,
+        "information_density": 0.6,
+        "optimal_length": 0.833,
+        "self_containedness": 0.433,
+        "novelty": 0.388
+      }
+    ]
+  }
+}

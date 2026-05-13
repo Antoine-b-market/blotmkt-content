@@ -1,0 +1,85 @@
+{
+  "score_global": 0.7756,
+  "atomic_proof_score": 0.256,
+  "mmr_score": 0.2797,
+  "kl_divergence": 0.3338,
+  "verdict": "OK",
+  "weak_axes": [],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.794,
+      "status": "OK",
+      "best_chunk": "Une stratégie SEO internationale repose sur 4 étapes : ciblage des marchés, recherche de mots-clés natifs, architecture ",
+      "chunk_index": 1
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7937,
+      "status": "OK",
+      "best_chunk": "Une stratégie SEO internationale repose sur 4 étapes : ciblage des marchés, recherche de mots-clés natifs, architecture ",
+      "chunk_index": 1
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7866,
+      "status": "OK",
+      "best_chunk": "Une stratégie SEO internationale repose sur 4 étapes : ciblage des marchés, recherche de mots-clés natifs, architecture ",
+      "chunk_index": 1
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7831,
+      "status": "OK",
+      "best_chunk": "Une stratégie SEO internationale repose sur 4 étapes : ciblage des marchés, recherche de mots-clés natifs, architecture ",
+      "chunk_index": 1
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7692,
+      "status": "OK",
+      "best_chunk": "Une stratégie SEO internationale repose sur 4 étapes : ciblage des marchés, recherche de mots-clés natifs, architecture ",
+      "chunk_index": 1
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 10:40",
+  "quotability": {
+    "score": 0.4643,
+    "top10_mean": 0.6574,
+    "n_passages": 113,
+    "assertiveness": 1.0,
+    "information_density": 0.206,
+    "optimal_length": 0.888,
+    "self_containedness": 0.374,
+    "top_passages": [
+      {
+        "passage": "Sources : Incremys (2026), Semrush (2025), Squid Impact (2025), SEO.com (2026), HubSpot (2026), Stat",
+        "quotability": 0.738,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.555,
+        "novelty": 0.357
+      },
+      {
+        "passage": "- Cas d'usage concrets du SEO international : exemples de succès\n- Coûts et ROI du SEO international",
+        "quotability": 0.7018,
+        "assertiveness": 1.0,
+        "information_density": 0.625,
+        "optimal_length": 1.0,
+        "self_containedness": 0.961,
+        "novelty": 0.035
+      },
+      {
+        "passage": "- Meilleures stratégies et méthodes pour un SEO international efficace\n- Alternatives au SEO interna",
+        "quotability": 0.6792,
+        "assertiveness": 1.0,
+        "information_density": 0.571,
+        "optimal_length": 1.0,
+        "self_containedness": 0.923,
+        "novelty": 0.047
+      }
+    ]
+  }
+}

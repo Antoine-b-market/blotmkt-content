@@ -1,0 +1,73 @@
+{
+  "version": "2",
+  "slug": "densite-de-mots-cles",
+  "category": "contenu",
+  "keyword": "Densité de mots-clés",
+  "title": "Densité de mots-clés : guide ultime pour un SEO performant en 2026",
+  "status": "published",
+  "fix_type": null,
+  "fix_target": null,
+  "stale": false,
+  "stale_since": null,
+  "created_at": "2026-05-06T03:34:40.366464Z",
+  "updated_at": "2026-05-13T05:34:57.568667+00:00",
+  "scores": {
+    "qfo_global": {
+      "value": 0.7257,
+      "threshold": 0.72,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "quotability": {
+      "value": 0.4771,
+      "threshold": 0.45,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "chunk_diversity": {
+      "value": 0.9951,
+      "threshold": 0.86,
+      "direction": "lower_better",
+      "passed": false,
+      "blocking": true
+    },
+    "atomic_proof": {
+      "value": 0.55,
+      "threshold": 0.35,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "semantic_density": {
+      "value": 0.388,
+      "threshold": 0.3,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "information_gain": {
+      "value": 0.1953,
+      "threshold": 0.15,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "perplexity_variance": {
+      "value": 0.1929,
+      "threshold": 0.12,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "entity_alignment": {
+      "value": 0.7218,
+      "threshold": 0.55,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": false
+    }
+  },
+  "fix_history": []
+}

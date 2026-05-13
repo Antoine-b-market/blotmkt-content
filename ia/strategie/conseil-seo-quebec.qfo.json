@@ -1,0 +1,85 @@
+{
+  "score_global": 0.7686,
+  "atomic_proof_score": 0.386,
+  "mmr_score": 0.3001,
+  "kl_divergence": 0.3266,
+  "verdict": "OK",
+  "weak_axes": [],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7675,
+      "status": "OK",
+      "best_chunk": "Conseil SEO Québec : boostez votre visibilité en 2026 Sommaire - Qu'est-ce que le conseil SEO au Québec et pourquoi est-",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7778,
+      "status": "OK",
+      "best_chunk": "profondes de l'IA générative. <!-- speakable:start -- L'essentiel à retenir - Un bon conseil SEO au Québec combine optim",
+      "chunk_index": 1
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7666,
+      "status": "OK",
+      "best_chunk": "Conseil SEO Québec : boostez votre visibilité en 2026 Sommaire - Qu'est-ce que le conseil SEO au Québec et pourquoi est-",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7776,
+      "status": "OK",
+      "best_chunk": "Conseil SEO Québec : boostez votre visibilité en 2026 Sommaire - Qu'est-ce que le conseil SEO au Québec et pourquoi est-",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7688,
+      "status": "OK",
+      "best_chunk": "Conseil SEO Québec : boostez votre visibilité en 2026 Sommaire - Qu'est-ce que le conseil SEO au Québec et pourquoi est-",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 10:05",
+  "quotability": {
+    "score": 0.4915,
+    "top10_mean": 0.6164,
+    "n_passages": 83,
+    "assertiveness": 1.0,
+    "information_density": 0.332,
+    "optimal_length": 0.882,
+    "self_containedness": 0.361,
+    "top_passages": [
+      {
+        "passage": "Conseil SEO Québec : boostez votre visibilité en 2026\n\nSommaire\n- Qu'est-ce que le conseil SEO au Qu",
+        "quotability": 0.7347,
+        "assertiveness": 1.0,
+        "information_density": 0.913,
+        "optimal_length": 1.0,
+        "self_containedness": 0.771,
+        "novelty": 0.126
+      },
+      {
+        "passage": "Troisièmement, les Données structurées Schema.org, qui permettent à Google et aux LLMs d'extraire vo",
+        "quotability": 0.654,
+        "assertiveness": 1.0,
+        "information_density": 0.8,
+        "optimal_length": 1.0,
+        "self_containedness": 0.405,
+        "novelty": 0.412
+      },
+      {
+        "passage": "Votre fiche Google Business Profile est votre vitrine numérique prioritaire.",
+        "quotability": 0.6377,
+        "assertiveness": 1.0,
+        "information_density": 0.9,
+        "optimal_length": 0.833,
+        "self_containedness": 0.445,
+        "novelty": 0.229
+      }
+    ]
+  }
+}

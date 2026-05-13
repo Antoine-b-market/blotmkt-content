@@ -1,0 +1,85 @@
+{
+  "score_global": 0.8273,
+  "atomic_proof_score": 0.3,
+  "mmr_score": 0.2907,
+  "kl_divergence": 0.2613,
+  "verdict": "OK",
+  "weak_axes": [],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.8406,
+      "status": "OK",
+      "best_chunk": "page. - Les éléments clés d'un storytelling SEO réussi sont : un arc narratif (héros, obstacle, transformation, preuve) ",
+      "chunk_index": 1
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.8464,
+      "status": "OK",
+      "best_chunk": "page. - Les éléments clés d'un storytelling SEO réussi sont : un arc narratif (héros, obstacle, transformation, preuve) ",
+      "chunk_index": 1
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.8269,
+      "status": "OK",
+      "best_chunk": "page. - Les éléments clés d'un storytelling SEO réussi sont : un arc narratif (héros, obstacle, transformation, preuve) ",
+      "chunk_index": 1
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.8441,
+      "status": "OK",
+      "best_chunk": "page. - Les éléments clés d'un storytelling SEO réussi sont : un arc narratif (héros, obstacle, transformation, preuve) ",
+      "chunk_index": 1
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.8216,
+      "status": "OK",
+      "best_chunk": "page. - Les éléments clés d'un storytelling SEO réussi sont : un arc narratif (héros, obstacle, transformation, preuve) ",
+      "chunk_index": 1
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 05:48",
+  "quotability": {
+    "score": 0.4729,
+    "top10_mean": 0.6458,
+    "n_passages": 88,
+    "assertiveness": 1.0,
+    "information_density": 0.229,
+    "optimal_length": 0.88,
+    "self_containedness": 0.384,
+    "top_passages": [
+      {
+        "passage": "Pour mesurer l'engagement : Google Analytics 4 et Google Search Console.",
+        "quotability": 0.7288,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 0.917,
+        "self_containedness": 0.592,
+        "novelty": 0.298
+      },
+      {
+        "passage": "- Les étapes clés pour une stratégie de storytelling SEO efficace\n- Alternatives au storytelling SEO",
+        "quotability": 0.6806,
+        "assertiveness": 1.0,
+        "information_density": 0.522,
+        "optimal_length": 1.0,
+        "self_containedness": 0.96,
+        "novelty": 0.06
+      },
+      {
+        "passage": "Storytelling SEO : comment captiver et convertir grâce au récit\n\nSommaire\n- Qu'est-ce que le storyte",
+        "quotability": 0.6524,
+        "assertiveness": 1.0,
+        "information_density": 0.545,
+        "optimal_length": 1.0,
+        "self_containedness": 0.835,
+        "novelty": 0.078
+      }
+    ]
+  }
+}

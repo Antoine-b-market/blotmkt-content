@@ -1,0 +1,73 @@
+{
+  "version": "2",
+  "slug": "topic-d-autorite",
+  "category": "definition",
+  "keyword": "Topic d'autorité",
+  "title": "Topic d'autorité : comment devenir la référence dans votre niche",
+  "status": "published",
+  "fix_type": null,
+  "fix_target": null,
+  "stale": false,
+  "stale_since": null,
+  "created_at": "2026-05-06T03:43:09.500926Z",
+  "updated_at": "2026-05-13T05:34:57.580168+00:00",
+  "scores": {
+    "qfo_global": {
+      "value": 0.6901,
+      "threshold": 0.72,
+      "direction": "higher_better",
+      "passed": false,
+      "blocking": true
+    },
+    "quotability": {
+      "value": 0.4571,
+      "threshold": 0.45,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "chunk_diversity": {
+      "value": 0.9992,
+      "threshold": 0.86,
+      "direction": "lower_better",
+      "passed": false,
+      "blocking": true
+    },
+    "atomic_proof": {
+      "value": 0.26,
+      "threshold": 0.35,
+      "direction": "higher_better",
+      "passed": false,
+      "blocking": true
+    },
+    "semantic_density": {
+      "value": 0.4259,
+      "threshold": 0.3,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "information_gain": {
+      "value": 0.1798,
+      "threshold": 0.15,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "perplexity_variance": {
+      "value": 0.2008,
+      "threshold": 0.12,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "entity_alignment": {
+      "value": 0.5053,
+      "threshold": 0.55,
+      "direction": "higher_better",
+      "passed": false,
+      "blocking": false
+    }
+  },
+  "fix_history": []
+}

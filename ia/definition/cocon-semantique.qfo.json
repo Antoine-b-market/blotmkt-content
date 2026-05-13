@@ -1,0 +1,91 @@
+{
+  "score_global": 0.7056,
+  "atomic_proof_score": 0.064,
+  "mmr_score": 0.2155,
+  "kl_divergence": 0.4711,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.722,
+      "status": "FAIL",
+      "best_chunk": "Cocon sémantique : Définition, Méthodologie et Avantages SEO Sommaire - Qu'est-ce qu'un cocon sémantique : définition et",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7471,
+      "status": "FAIL",
+      "best_chunk": "Cocon sémantique : Définition, Méthodologie et Avantages SEO Sommaire - Qu'est-ce qu'un cocon sémantique : définition et",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.6964,
+      "status": "FAIL",
+      "best_chunk": "Cocon sémantique : Définition, Méthodologie et Avantages SEO Sommaire - Qu'est-ce qu'un cocon sémantique : définition et",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.6987,
+      "status": "FAIL",
+      "best_chunk": "Cocon sémantique : Définition, Méthodologie et Avantages SEO Sommaire - Qu'est-ce qu'un cocon sémantique : définition et",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7323,
+      "status": "FAIL",
+      "best_chunk": "Cocon sémantique : Définition, Méthodologie et Avantages SEO Sommaire - Qu'est-ce qu'un cocon sémantique : définition et",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 06:44",
+  "quotability": {
+    "score": 0.4734,
+    "top10_mean": 0.6143,
+    "n_passages": 97,
+    "assertiveness": 0.994,
+    "information_density": 0.164,
+    "optimal_length": 0.912,
+    "self_containedness": 0.417,
+    "top_passages": [
+      {
+        "passage": "Cocon sémantique : Définition, Méthodologie et Avantages SEO\n\nSommaire\n- Qu'est-ce qu'un cocon séman",
+        "quotability": 0.6894,
+        "assertiveness": 1.0,
+        "information_density": 0.724,
+        "optimal_length": 0.84,
+        "self_containedness": 0.81,
+        "novelty": 0.157
+      },
+      {
+        "passage": "Les AI Overviews de Google et les LLMs comme Perplexity ou ChatGPT lisent et synthétisent les conten",
+        "quotability": 0.6579,
+        "assertiveness": 1.0,
+        "information_density": 0.882,
+        "optimal_length": 1.0,
+        "self_containedness": 0.405,
+        "novelty": 0.329
+      },
+      {
+        "passage": "Mieux vaut 4 pages profondes de 800 mots qu'une dizaine de pages de 300 mots.",
+        "quotability": 0.6576,
+        "assertiveness": 1.0,
+        "information_density": 0.6,
+        "optimal_length": 1.0,
+        "self_containedness": 0.645,
+        "novelty": 0.321
+      }
+    ]
+  }
+}

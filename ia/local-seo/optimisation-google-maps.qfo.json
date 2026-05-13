@@ -1,0 +1,85 @@
+{
+  "score_global": 0.8147,
+  "atomic_proof_score": 0.186,
+  "mmr_score": 0.2728,
+  "kl_divergence": 0.3737,
+  "verdict": "OK",
+  "weak_axes": [],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.8108,
+      "status": "OK",
+      "best_chunk": "Optimisation google maps : guide complet pour 2026 Sommaire - L'optimisation google maps : qu'est-ce que c'est et pourqu",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.8264,
+      "status": "OK",
+      "best_chunk": "Optimisation google maps : guide complet pour 2026 Sommaire - L'optimisation google maps : qu'est-ce que c'est et pourqu",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.8182,
+      "status": "OK",
+      "best_chunk": "Optimisation google maps : guide complet pour 2026 Sommaire - L'optimisation google maps : qu'est-ce que c'est et pourqu",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.8159,
+      "status": "OK",
+      "best_chunk": "Optimisation google maps : guide complet pour 2026 Sommaire - L'optimisation google maps : qu'est-ce que c'est et pourqu",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.8311,
+      "status": "OK",
+      "best_chunk": "Optimisation google maps : guide complet pour 2026 Sommaire - L'optimisation google maps : qu'est-ce que c'est et pourqu",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 09:28",
+  "quotability": {
+    "score": 0.4781,
+    "top10_mean": 0.6317,
+    "n_passages": 86,
+    "assertiveness": 1.0,
+    "information_density": 0.229,
+    "optimal_length": 0.884,
+    "self_containedness": 0.366,
+    "top_passages": [
+      {
+        "passage": "Sources : Whitespark, Local Search Ranking Factors 2026 (via business-ereputation.com et passion-ref",
+        "quotability": 0.6754,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 0.0,
+        "self_containedness": 0.727,
+        "novelty": 0.287
+      },
+      {
+        "passage": "Questions fréquentes sur l'optimisation google maps {#faq}\n\nComment améliorer mon classement sur Goo",
+        "quotability": 0.662,
+        "assertiveness": 1.0,
+        "information_density": 0.6,
+        "optimal_length": 1.0,
+        "self_containedness": 0.715,
+        "novelty": 0.237
+      },
+      {
+        "passage": "La cohérence des citations sur les moteurs principaux (Google Maps, Bing Maps, Apple Maps) figure pa",
+        "quotability": 0.6553,
+        "assertiveness": 1.0,
+        "information_density": 0.692,
+        "optimal_length": 0.96,
+        "self_containedness": 0.605,
+        "novelty": 0.273
+      }
+    ]
+  }
+}

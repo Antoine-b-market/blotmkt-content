@@ -1,0 +1,73 @@
+{
+  "version": "2",
+  "slug": "fiche-etablissement-google",
+  "category": "local-seo",
+  "keyword": "Fiche établissement Google",
+  "title": "Fiche établissement Google : Optimisation, Gestion et Récupération",
+  "status": "published",
+  "fix_type": null,
+  "fix_target": null,
+  "stale": false,
+  "stale_since": null,
+  "created_at": "2026-05-06T03:47:37.877080Z",
+  "updated_at": "2026-05-13T05:34:57.586324+00:00",
+  "scores": {
+    "qfo_global": {
+      "value": 0.6641,
+      "threshold": 0.72,
+      "direction": "higher_better",
+      "passed": false,
+      "blocking": true
+    },
+    "quotability": {
+      "value": 0.4913,
+      "threshold": 0.45,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "chunk_diversity": {
+      "value": 0.998,
+      "threshold": 0.86,
+      "direction": "lower_better",
+      "passed": false,
+      "blocking": true
+    },
+    "atomic_proof": {
+      "value": 0.35,
+      "threshold": 0.35,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "semantic_density": {
+      "value": 0.4624,
+      "threshold": 0.3,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "information_gain": {
+      "value": 0.1815,
+      "threshold": 0.15,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "perplexity_variance": {
+      "value": 0.1538,
+      "threshold": 0.12,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "entity_alignment": {
+      "value": 0.6925,
+      "threshold": 0.55,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": false
+    }
+  },
+  "fix_history": []
+}

@@ -1,0 +1,91 @@
+{
+  "score_global": 0.6459,
+  "atomic_proof_score": 0.413,
+  "mmr_score": 0.2114,
+  "kl_divergence": 0.46,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.6573,
+      "status": "FAIL",
+      "best_chunk": "Knowledge Graph : guide complet pour le SEO sémantique Sommaire - Qu'est-ce qu'un Knowledge Graph et pourquoi est-il imp",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.6661,
+      "status": "FAIL",
+      "best_chunk": "Knowledge Graph : guide complet pour le SEO sémantique Sommaire - Qu'est-ce qu'un Knowledge Graph et pourquoi est-il imp",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.639,
+      "status": "FAIL",
+      "best_chunk": "programmable à grande échelle.\"}, {\"question\": \"Comment mesurer le succès d'un Knowledge Graph en SEO ?\", \"answer\": \"Sui",
+      "chunk_index": 7
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.6593,
+      "status": "FAIL",
+      "best_chunk": "programmable à grande échelle.\"}, {\"question\": \"Comment mesurer le succès d'un Knowledge Graph en SEO ?\", \"answer\": \"Sui",
+      "chunk_index": 7
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.6594,
+      "status": "FAIL",
+      "best_chunk": "en 2026, un site institutionnel ayant créé une page sameAs structurée liant Wikidata, LinkedIn et Google Business Profil",
+      "chunk_index": 5
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 07:17",
+  "quotability": {
+    "score": 0.5284,
+    "top10_mean": 0.7015,
+    "n_passages": 93,
+    "assertiveness": 1.0,
+    "information_density": 0.442,
+    "optimal_length": 0.898,
+    "self_containedness": 0.38,
+    "top_passages": [
+      {
+        "passage": "Knowledge Graph : guide complet pour le SEO sémantique\n\nSommaire\n- Qu'est-ce qu'un Knowledge Graph e",
+        "quotability": 0.8009,
+        "assertiveness": 1.0,
+        "information_density": 0.913,
+        "optimal_length": 1.0,
+        "self_containedness": 0.992,
+        "novelty": 0.124
+      },
+      {
+        "passage": "- Antoine Blot, consultant SEO\n\n\n\nQuestions fréquentes sur les Knowledge Graphs et le SEO {#question",
+        "quotability": 0.762,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.766,
+        "novelty": 0.161
+      },
+      {
+        "passage": "- Antoine Blot, consultant SEO\n\n\n\nComment les Knowledge Graphs améliorent votre contenu et votre SEO",
+        "quotability": 0.7458,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 0.88,
+        "self_containedness": 0.785,
+        "novelty": 0.111
+      }
+    ]
+  }
+}

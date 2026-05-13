@@ -1,0 +1,91 @@
+{
+  "score_global": 0.7138,
+  "atomic_proof_score": 0.35,
+  "mmr_score": 0.157,
+  "kl_divergence": 0.4827,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7277,
+      "status": "FAIL",
+      "best_chunk": "Featured snippet : guide ultime pour dominer la position zéro Sommaire - Qu'est-ce qu'un featured snippet ? - Comment fo",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.735,
+      "status": "FAIL",
+      "best_chunk": "Featured snippet : guide ultime pour dominer la position zéro Sommaire - Qu'est-ce qu'un featured snippet ? - Comment fo",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7226,
+      "status": "FAIL",
+      "best_chunk": "Featured snippet : guide ultime pour dominer la position zéro Sommaire - Qu'est-ce qu'un featured snippet ? - Comment fo",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7251,
+      "status": "FAIL",
+      "best_chunk": "Featured snippet : guide ultime pour dominer la position zéro Sommaire - Qu'est-ce qu'un featured snippet ? - Comment fo",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7073,
+      "status": "FAIL",
+      "best_chunk": "Featured snippet : guide ultime pour dominer la position zéro Sommaire - Qu'est-ce qu'un featured snippet ? - Comment fo",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 07:07",
+  "quotability": {
+    "score": 0.4768,
+    "top10_mean": 0.5764,
+    "n_passages": 68,
+    "assertiveness": 1.0,
+    "information_density": 0.268,
+    "optimal_length": 0.82,
+    "self_containedness": 0.356,
+    "top_passages": [
+      {
+        "passage": "Questions fréquentes sur les featured snippets {#questions-frequentes}\n\nComment suivre mes featured ",
+        "quotability": 0.6543,
+        "assertiveness": 1.0,
+        "information_density": 0.706,
+        "optimal_length": 1.0,
+        "self_containedness": 0.569,
+        "novelty": 0.286
+      },
+      {
+        "passage": "La longueur idéale reste 40 à 60 mots.",
+        "quotability": 0.6332,
+        "assertiveness": 1.0,
+        "information_density": 0.75,
+        "optimal_length": 0.667,
+        "self_containedness": 0.473,
+        "novelty": 0.436
+      },
+      {
+        "passage": "Featured snippet : guide ultime pour dominer la position zéro\n\nSommaire\n- Qu'est-ce qu'un featured s",
+        "quotability": 0.5743,
+        "assertiveness": 1.0,
+        "information_density": 0.353,
+        "optimal_length": 1.0,
+        "self_containedness": 0.577,
+        "novelty": 0.315
+      }
+    ]
+  }
+}

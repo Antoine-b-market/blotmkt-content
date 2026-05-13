@@ -1,0 +1,85 @@
+{
+  "score_global": 0.8044,
+  "atomic_proof_score": 0.217,
+  "mmr_score": 0.2772,
+  "kl_divergence": 0.3474,
+  "verdict": "OK",
+  "weak_axes": [],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.824,
+      "status": "OK",
+      "best_chunk": "JSON-LD SEO : guide complet pour optimiser vos données structurées Sommaire - Qu'est-ce que le JSON-LD et comment s'appl",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.8251,
+      "status": "OK",
+      "best_chunk": "JSON-LD SEO : guide complet pour optimiser vos données structurées Sommaire - Qu'est-ce que le JSON-LD et comment s'appl",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.8099,
+      "status": "OK",
+      "best_chunk": "JSON-LD SEO : guide complet pour optimiser vos données structurées Sommaire - Qu'est-ce que le JSON-LD et comment s'appl",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7993,
+      "status": "OK",
+      "best_chunk": "JSON-LD SEO : guide complet pour optimiser vos données structurées Sommaire - Qu'est-ce que le JSON-LD et comment s'appl",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.8024,
+      "status": "OK",
+      "best_chunk": "JSON-LD SEO : guide complet pour optimiser vos données structurées Sommaire - Qu'est-ce que le JSON-LD et comment s'appl",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 07:12",
+  "quotability": {
+    "score": 0.4931,
+    "top10_mean": 0.6335,
+    "n_passages": 76,
+    "assertiveness": 1.0,
+    "information_density": 0.35,
+    "optimal_length": 0.9,
+    "self_containedness": 0.319,
+    "top_passages": [
+      {
+        "passage": "Le guide d'implémentation couvre les schémas Article, Product, LocalBusiness et BreadcrumbList.",
+        "quotability": 0.6944,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 0.917,
+        "self_containedness": 0.425,
+        "novelty": 0.376
+      },
+      {
+        "passage": "JSON-LD SEO : guide complet pour optimiser vos données structurées\n\nSommaire\n- Qu'est-ce que le JSON",
+        "quotability": 0.6798,
+        "assertiveness": 1.0,
+        "information_density": 0.682,
+        "optimal_length": 1.0,
+        "self_containedness": 0.761,
+        "novelty": 0.156
+      },
+      {
+        "passage": "Validez dans le Rich Results Test de Google, surveillez dans Google Search Console, mesurez le CTR e",
+        "quotability": 0.6737,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.409,
+        "novelty": 0.256
+      }
+    ]
+  }
+}

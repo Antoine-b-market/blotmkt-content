@@ -1,0 +1,85 @@
+{
+  "score_global": 0.7815,
+  "atomic_proof_score": 0.333,
+  "mmr_score": 0.2974,
+  "kl_divergence": 0.3593,
+  "verdict": "OK",
+  "weak_axes": [],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7923,
+      "status": "OK",
+      "best_chunk": "Analyse de logs SEO : décuplez la rentabilité de votre crawl Sommaire - Qu'est-ce que l'analyse de logs SEO et pourquoi ",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.8023,
+      "status": "OK",
+      "best_chunk": "Analyse de logs SEO : décuplez la rentabilité de votre crawl Sommaire - Qu'est-ce que l'analyse de logs SEO et pourquoi ",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7902,
+      "status": "OK",
+      "best_chunk": "Analyse de logs SEO : décuplez la rentabilité de votre crawl Sommaire - Qu'est-ce que l'analyse de logs SEO et pourquoi ",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7819,
+      "status": "OK",
+      "best_chunk": "Analyse de logs SEO : décuplez la rentabilité de votre crawl Sommaire - Qu'est-ce que l'analyse de logs SEO et pourquoi ",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7767,
+      "status": "OK",
+      "best_chunk": "Analyse de logs SEO : décuplez la rentabilité de votre crawl Sommaire - Qu'est-ce que l'analyse de logs SEO et pourquoi ",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 15:22",
+  "quotability": {
+    "score": 0.4804,
+    "top10_mean": 0.6384,
+    "n_passages": 81,
+    "assertiveness": 0.996,
+    "information_density": 0.252,
+    "optimal_length": 0.867,
+    "self_containedness": 0.378,
+    "top_passages": [
+      {
+        "passage": "Sources : Cloudflare Radar (juillet 2025), Webnyxt (2026), SEO.com (2026), Ahrefs (2025), Semrush (2",
+        "quotability": 0.7594,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 0.96,
+        "self_containedness": 0.607,
+        "novelty": 0.407
+      },
+      {
+        "passage": "Pour les outils, \nScreaming Frog Log File Analyser, Semrush Log File Analyzer, Botify et JetOctopus ",
+        "quotability": 0.6915,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.39,
+        "novelty": 0.373
+      },
+      {
+        "passage": "Ces bots alimentent les systèmes de réponses génératives - les AI Overviews de Google, Perplexity, C",
+        "quotability": 0.6797,
+        "assertiveness": 1.0,
+        "information_density": 0.75,
+        "optimal_length": 1.0,
+        "self_containedness": 0.567,
+        "novelty": 0.36
+      }
+    ]
+  }
+}

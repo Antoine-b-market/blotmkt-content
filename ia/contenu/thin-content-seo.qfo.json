@@ -1,0 +1,85 @@
+{
+  "score_global": 0.8078,
+  "atomic_proof_score": 0.3,
+  "mmr_score": 0.2702,
+  "kl_divergence": 0.3565,
+  "verdict": "OK",
+  "weak_axes": [],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.8036,
+      "status": "OK",
+      "best_chunk": "Thin content SEO : le guide ultime pour l'éradiquer Sommaire - Qu'est-ce que le thin content en SEO ? - Mécanismes de dé",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.8309,
+      "status": "OK",
+      "best_chunk": "Thin content SEO : le guide ultime pour l'éradiquer Sommaire - Qu'est-ce que le thin content en SEO ? - Mécanismes de dé",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.8159,
+      "status": "OK",
+      "best_chunk": "Thin content SEO : le guide ultime pour l'éradiquer Sommaire - Qu'est-ce que le thin content en SEO ? - Mécanismes de dé",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.8155,
+      "status": "OK",
+      "best_chunk": "Thin content SEO : le guide ultime pour l'éradiquer Sommaire - Qu'est-ce que le thin content en SEO ? - Mécanismes de dé",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.8043,
+      "status": "OK",
+      "best_chunk": "Thin content SEO : le guide ultime pour l'éradiquer Sommaire - Qu'est-ce que le thin content en SEO ? - Mécanismes de dé",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 05:58",
+  "quotability": {
+    "score": 0.4661,
+    "top10_mean": 0.6025,
+    "n_passages": 84,
+    "assertiveness": 1.0,
+    "information_density": 0.199,
+    "optimal_length": 0.889,
+    "self_containedness": 0.371,
+    "top_passages": [
+      {
+        "passage": "Thin content SEO : le guide ultime pour l'éradiquer\n\nSommaire\n- Qu'est-ce que le thin content en SEO",
+        "quotability": 0.739,
+        "assertiveness": 1.0,
+        "information_density": 0.632,
+        "optimal_length": 1.0,
+        "self_containedness": 0.987,
+        "novelty": 0.175
+      },
+      {
+        "passage": "- Mécanismes de détection du thin content par Google\n- Comment utiliser Google Analytics pour identi",
+        "quotability": 0.7226,
+        "assertiveness": 1.0,
+        "information_density": 0.75,
+        "optimal_length": 1.0,
+        "self_containedness": 0.933,
+        "novelty": 0.026
+      },
+      {
+        "passage": "En mars 2024, le Helpful Content System a été pleinement fusionné dans les Core Updates, ciblant les",
+        "quotability": 0.5864,
+        "assertiveness": 1.0,
+        "information_density": 0.72,
+        "optimal_length": 1.0,
+        "self_containedness": 0.259,
+        "novelty": 0.393
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "version": "2",
+  "slug": "consultant-seo-montreal",
+  "category": "strategie",
+  "keyword": "Consultant SEO Montréal",
+  "title": "Consultant SEO Montréal : comment choisir le bon expert pour votre croissance",
+  "status": "published",
+  "fix_type": null,
+  "fix_target": null,
+  "stale": false,
+  "stale_since": null,
+  "brief_mode": "standard",
+  "hreflang": "fr-CA",
+  "force_published": false,
+  "created_at": "2026-05-06T03:51:28.679611Z",
+  "updated_at": "2026-05-13T17:45:01.607599+00:00",
+  "scores": {
+    "qfo_global": {
+      "value": 0.7307,
+      "threshold": 0.72,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "quotability": {
+      "value": 0.5134,
+      "threshold": 0.45,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "chunk_diversity": {
+      "value": 0.7982,
+      "threshold": 0.86,
+      "direction": "lower_better",
+      "passed": true,
+      "blocking": true
+    },
+    "atomic_proof": {
+      "value": 0.6083,
+      "threshold": 0.35,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "semantic_density": {
+      "value": 0.4408,
+      "threshold": 0.3,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "information_gain": {
+      "value": 0.1517,
+      "threshold": 0.15,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "perplexity_variance": {
+      "value": 0.2315,
+      "threshold": 0.12,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "entity_alignment": {
+      "value": 0.6703,
+      "threshold": 0.55,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": false
+    }
+  },
+  "fix_history": []
+}

@@ -1,0 +1,89 @@
+{
+  "score_global": 0.7338,
+  "atomic_proof_score": 0.271,
+  "mmr_score": 0.2768,
+  "kl_divergence": 0.3577,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "cas_limite",
+    "validation"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7473,
+      "status": "FAIL",
+      "best_chunk": "Stratégie de marque : bâtir une identité forte et un positionnement unique Sommaire - Qu'est-ce qu'une stratégie de marq",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7706,
+      "status": "OK",
+      "best_chunk": "Stratégie de marque : bâtir une identité forte et un positionnement unique Sommaire - Qu'est-ce qu'une stratégie de marq",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7244,
+      "status": "FAIL",
+      "best_chunk": "Stratégie de marque : bâtir une identité forte et un positionnement unique Sommaire - Qu'est-ce qu'une stratégie de marq",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.728,
+      "status": "FAIL",
+      "best_chunk": "Stratégie de marque : bâtir une identité forte et un positionnement unique Sommaire - Qu'est-ce qu'une stratégie de marq",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7698,
+      "status": "OK",
+      "best_chunk": "Stratégie de marque : bâtir une identité forte et un positionnement unique Sommaire - Qu'est-ce qu'une stratégie de marq",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 15:17",
+  "quotability": {
+    "score": 0.4628,
+    "top10_mean": 0.5989,
+    "n_passages": 88,
+    "assertiveness": 1.0,
+    "information_density": 0.167,
+    "optimal_length": 0.905,
+    "self_containedness": 0.425,
+    "top_passages": [
+      {
+        "passage": "Sources : American Marketing Association Global Marketer Confidence Survey 2026 ; HubSpot State of M",
+        "quotability": 0.6794,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 0.0,
+        "self_containedness": 0.711,
+        "novelty": 0.33
+      },
+      {
+        "passage": "Articles connexes\n\n- core web vitals : maîtriser l'expérience utilisateur et votre seo\n- Erreurs 404",
+        "quotability": 0.637,
+        "assertiveness": 1.0,
+        "information_density": 0.712,
+        "optimal_length": 0.0,
+        "self_containedness": 0.729,
+        "novelty": 0.451
+      },
+      {
+        "passage": "Ajoutez des outils de social listening (Mention, Brand24) pour la notoriété, un CRM couplé à une ana",
+        "quotability": 0.6278,
+        "assertiveness": 1.0,
+        "information_density": 0.621,
+        "optimal_length": 0.84,
+        "self_containedness": 0.534,
+        "novelty": 0.392
+      }
+    ]
+  }
+}

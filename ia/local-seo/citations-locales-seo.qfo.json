@@ -1,0 +1,85 @@
+{
+  "score_global": 0.7905,
+  "atomic_proof_score": 0.093,
+  "mmr_score": 0.2797,
+  "kl_divergence": 0.3117,
+  "verdict": "OK",
+  "weak_axes": [],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7984,
+      "status": "OK",
+      "best_chunk": "Citations locales SEO : guide complet pour booster votre visibilité locale Sommaire - Qu'est-ce qu'une citation locale S",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.8027,
+      "status": "OK",
+      "best_chunk": "Citations locales SEO : guide complet pour booster votre visibilité locale Sommaire - Qu'est-ce qu'une citation locale S",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7897,
+      "status": "OK",
+      "best_chunk": "Citations locales SEO : guide complet pour booster votre visibilité locale Sommaire - Qu'est-ce qu'une citation locale S",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7951,
+      "status": "OK",
+      "best_chunk": "Citations locales SEO : guide complet pour booster votre visibilité locale Sommaire - Qu'est-ce qu'une citation locale S",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7877,
+      "status": "OK",
+      "best_chunk": "Citations locales SEO : guide complet pour booster votre visibilité locale Sommaire - Qu'est-ce qu'une citation locale S",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 09:13",
+  "quotability": {
+    "score": 0.4928,
+    "top10_mean": 0.6348,
+    "n_passages": 78,
+    "assertiveness": 1.0,
+    "information_density": 0.262,
+    "optimal_length": 0.911,
+    "self_containedness": 0.375,
+    "top_passages": [
+      {
+        "passage": "Citations locales SEO : guide complet pour booster votre visibilité locale\n\nSommaire\n- Qu'est-ce qu'",
+        "quotability": 0.6748,
+        "assertiveness": 1.0,
+        "information_density": 0.6,
+        "optimal_length": 1.0,
+        "self_containedness": 0.789,
+        "novelty": 0.19
+      },
+      {
+        "passage": "Étape 1 - Verrouillez votre NAP de référence.",
+        "quotability": 0.6696,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 0.667,
+        "self_containedness": 0.443,
+        "novelty": 0.35
+      },
+      {
+        "passage": "Les outils recommandés pour ce diagnostic sont Semrush (module Listing Management), BrightLocal ou M",
+        "quotability": 0.6559,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.238,
+        "novelty": 0.423
+      }
+    ]
+  }
+}

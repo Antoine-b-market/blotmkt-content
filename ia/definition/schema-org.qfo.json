@@ -1,0 +1,90 @@
+{
+  "score_global": 0.7211,
+  "atomic_proof_score": 0.267,
+  "mmr_score": 0.2535,
+  "kl_divergence": 0.4259,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7624,
+      "status": "OK",
+      "best_chunk": "Schema.org : guide complet pour structurer vos données et booster votre seo Sommaire - Schema.org : définition et princi",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7467,
+      "status": "FAIL",
+      "best_chunk": "Schema.org : guide complet pour structurer vos données et booster votre seo Sommaire - Schema.org : définition et princi",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7128,
+      "status": "FAIL",
+      "best_chunk": "Schema.org : guide complet pour structurer vos données et booster votre seo Sommaire - Schema.org : définition et princi",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7314,
+      "status": "FAIL",
+      "best_chunk": "Schema.org : guide complet pour structurer vos données et booster votre seo Sommaire - Schema.org : définition et princi",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7142,
+      "status": "FAIL",
+      "best_chunk": "Schema.org : guide complet pour structurer vos données et booster votre seo Sommaire - Schema.org : définition et princi",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 07:48",
+  "quotability": {
+    "score": 0.4911,
+    "top10_mean": 0.6082,
+    "n_passages": 67,
+    "assertiveness": 1.0,
+    "information_density": 0.306,
+    "optimal_length": 0.914,
+    "self_containedness": 0.355,
+    "top_passages": [
+      {
+        "passage": "La première : les plugins CMS avancés (Yoast SEO Premium, Rank Math Pro, Schema Pro) gèrent les temp",
+        "quotability": 0.6829,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.323,
+        "novelty": 0.43
+      },
+      {
+        "passage": "Validation syntaxique : le Schema Markup Validator (validator.schema.org) détecte les erreurs de str",
+        "quotability": 0.6379,
+        "assertiveness": 1.0,
+        "information_density": 0.643,
+        "optimal_length": 1.0,
+        "self_containedness": 0.571,
+        "novelty": 0.279
+      },
+      {
+        "passage": "Le GEO (Generative Engine Optimization) optimise les chances d'être cité dans ChatGPT, Gemini ou Per",
+        "quotability": 0.6375,
+        "assertiveness": 1.0,
+        "information_density": 0.913,
+        "optimal_length": 1.0,
+        "self_containedness": 0.278,
+        "novelty": 0.379
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "score_global": 0.737,
+  "atomic_proof_score": 0.1,
+  "mmr_score": 0.2867,
+  "kl_divergence": 0.3502,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "cas_limite",
+    "validation"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7396,
+      "status": "FAIL",
+      "best_chunk": "Je vais d'abord faire des recherches pour obtenir des données fraîches et sourcées sur les facteurs de classement Google",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7631,
+      "status": "OK",
+      "best_chunk": "Je vais d'abord faire des recherches pour obtenir des données fraîches et sourcées sur les facteurs de classement Google",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7312,
+      "status": "FAIL",
+      "best_chunk": "Je vais d'abord faire des recherches pour obtenir des données fraîches et sourcées sur les facteurs de classement Google",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7437,
+      "status": "FAIL",
+      "best_chunk": "Je vais d'abord faire des recherches pour obtenir des données fraîches et sourcées sur les facteurs de classement Google",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7512,
+      "status": "OK",
+      "best_chunk": "Je vais d'abord faire des recherches pour obtenir des données fraîches et sourcées sur les facteurs de classement Google",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 09:54",
+  "quotability": {
+    "score": 0.4817,
+    "top10_mean": 0.5999,
+    "n_passages": 71,
+    "assertiveness": 1.0,
+    "information_density": 0.256,
+    "optimal_length": 0.849,
+    "self_containedness": 0.378,
+    "top_passages": [
+      {
+        "passage": "Core Web Vitals et signaux techniques {#core-web-vitals}\n\nLes Core Web Vitals sont les métriques off",
+        "quotability": 0.7002,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.472,
+        "novelty": 0.293
+      },
+      {
+        "passage": "Pour diagnostiquer rapidement, Google Search Console expose les données de Core Web Vitals réelles, ",
+        "quotability": 0.6711,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.375,
+        "novelty": 0.293
+      },
+      {
+        "passage": "Le CLS (Cumulative Layout Shift) mesure la stabilité visuelle, et l'INP (Interaction to Next Paint) ",
+        "quotability": 0.6659,
+        "assertiveness": 1.0,
+        "information_density": 0.84,
+        "optimal_length": 1.0,
+        "self_containedness": 0.355,
+        "novelty": 0.497
+      }
+    ]
+  }
+}

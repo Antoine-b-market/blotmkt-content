@@ -1,0 +1,90 @@
+{
+  "score_global": 0.7203,
+  "atomic_proof_score": 0.221,
+  "mmr_score": 0.2463,
+  "kl_divergence": 0.3962,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7159,
+      "status": "FAIL",
+      "best_chunk": "Audit sémantique : la clé d'une stratégie SEO performante à l'ère des IA génératives Sommaire - Définition et importance",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7544,
+      "status": "OK",
+      "best_chunk": "analyse concurrentielle, cartographie des intentions, clusters thématiques, plan d'action priorisé. - Un contenu sémanti",
+      "chunk_index": 1
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7234,
+      "status": "FAIL",
+      "best_chunk": "les projets que je pilote, je commence toujours par la question business avant d'ouvrir le premier outil. Sans objectif ",
+      "chunk_index": 2
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7156,
+      "status": "FAIL",
+      "best_chunk": "les projets que je pilote, je commence toujours par la question business avant d'ouvrir le premier outil. Sans objectif ",
+      "chunk_index": 2
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7271,
+      "status": "FAIL",
+      "best_chunk": "les projets que je pilote, je commence toujours par la question business avant d'ouvrir le premier outil. Sans objectif ",
+      "chunk_index": 2
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 15:32",
+  "quotability": {
+    "score": 0.4623,
+    "top10_mean": 0.5793,
+    "n_passages": 96,
+    "assertiveness": 1.0,
+    "information_density": 0.171,
+    "optimal_length": 0.902,
+    "self_containedness": 0.404,
+    "top_passages": [
+      {
+        "passage": "Chaque pilier nécessite un audit distinct :\n\n- Audit technique : crawlabilité, indexation, Core Web ",
+        "quotability": 0.6346,
+        "assertiveness": 1.0,
+        "information_density": 0.706,
+        "optimal_length": 1.0,
+        "self_containedness": 0.466,
+        "novelty": 0.341
+      },
+      {
+        "passage": "Les critères E-E-A-T (Expérience, Expertise, Autorité, Fiabilité) constituent désormais le socle d'é",
+        "quotability": 0.6128,
+        "assertiveness": 1.0,
+        "information_density": 0.652,
+        "optimal_length": 1.0,
+        "self_containedness": 0.408,
+        "novelty": 0.386
+      },
+      {
+        "passage": "Regrouper ces pages a fait passer 11 d'entre elles en première page.",
+        "quotability": 0.6062,
+        "assertiveness": 1.0,
+        "information_density": 0.25,
+        "optimal_length": 1.0,
+        "self_containedness": 0.571,
+        "novelty": 0.612
+      }
+    ]
+  }
+}

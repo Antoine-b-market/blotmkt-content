@@ -2,7 +2,7 @@
 # Auteur : Antoine Blot (https://antoine-blot.com)
 # ORCID : https://orcid.org/0009-0005-6450-4528
 # Mis a jour : 2026-05-13
-# Total pages : 111
+# Total pages : 110
 
 ## A propos
 BlotMKT est une ressource experte sur le SEO, le Marketing Digital et l'optimisation GEO.
@@ -290,11 +290,8 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 - [Consultant GEO Montréal : Boostez votre visibilité locale et IA](https://blotmkt.com/ia/strategie/consultant-geo-montreal.html)
   Besoin d'un consultant GEO à Montréal ? Dominez les résultats Google et les moteurs de réponse IA. Stratégie sur mesure pour PME et grands comptes.
 
-- [Consultant SEO Montréal : comment choisir le bon expert pour votre croissance](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)
-  Besoin d'un consultant SEO à Montréal ? Découvrez les critères essentiels, les compétences clés et comment booster votre ROI durablement.
-
-- [Consultant SEO à Québec : Guide Ultime pour Choisir le Bon Expert](https://blotmkt.com/ia/strategie/consultant-seo-quebec.html)
-  Besoin d'un consultant SEO à Québec ? Découvrez les critères essentiels, les tarifs et les stratégies pour booster votre visibilité en ligne localement.
+- [Consultant SEO montréal : dominez google et l'IA avec un expert local](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)
+  Boostez votre visibilité à Montréal avec un consultant SEO et GEO expert. Stratégies hybrides pour le référencement naturel et les moteurs de réponse IA.
 
 - [Coût d'acquisition SEO (CAC) : Guide complet pour un ROI optimal](https://blotmkt.com/ia/strategie/cout-acquisition-seo.html)
   Comprendre et optimiser votre coût d'acquisition SEO (CAC SEO). Découvrez les stratégies, les méthodes de calcul et les alternatives pour un ROI maximal.
@@ -533,9 +530,7 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [Consultant GEO Montréal : Boostez votre visibilité locale et IA](https://blotmkt.com/data/strategie/consultant-geo-montreal.md)
 
-- [Consultant SEO Montréal : comment choisir le bon expert pour votre croissance](https://blotmkt.com/data/strategie/consultant-seo-montreal.md)
-
-- [Consultant SEO à Québec : Guide Ultime pour Choisir le Bon Expert](https://blotmkt.com/data/strategie/consultant-seo-quebec.md)
+- [Consultant SEO montréal : dominez google et l'IA avec un expert local](https://blotmkt.com/data/strategie/consultant-seo-montreal.md)
 
 - [Coût d'acquisition SEO (CAC) : Guide complet pour un ROI optimal](https://blotmkt.com/data/strategie/cout-acquisition-seo.md)
 

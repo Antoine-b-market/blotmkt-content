@@ -1,0 +1,751 @@
+{
+  "contenu/alt-text-image": {
+    "citability_score": 61,
+    "atomic_proof": "Sur 18 sites audités en 2026, 62 % des images indexées dans Google Images provenaient de pages où l'alt text reprenait explicitement le mot-clé cible de la page.",
+    "keyword": "Alt text image",
+    "title": "alt text image : le guide complet pour l'accessibilité, le seo et la visibilité ia",
+    "date": "2026-05-05 04:41"
+  },
+  "contenu/call-to-action": {
+    "citability_score": 71,
+    "atomic_proof": "Sur un site de services québécois, remplacer un CTA générique par un CTA aligné sur l'intention transactionnelle de la page a augmenté le taux de conversion de 27 % en 6 semaines.",
+    "keyword": "Call to action",
+    "title": "call to action: guide pratique pour des conversions record en 2026",
+    "date": "2026-05-05 04:46"
+  },
+  "contenu/clustering-de-mots-cles": {
+    "citability_score": 63,
+    "atomic_proof": "En regroupant 85 mots-clés isolés en 14 clusters thématiques sur un site B2B, le nombre de pages en top 10 a doublé en 3 mois sans ajout de nouveau contenu.",
+    "keyword": "Clustering de mots-clés",
+    "title": "Clustering de mots-clés : guide complet pour booster votre SEO",
+    "date": "2026-05-05 04:51"
+  },
+  "contenu/content-gap-seo": {
+    "citability_score": 71,
+    "atomic_proof": "Une analyse de contenu gap sur un site de services professionnels en 2026 a révélé 38 requêtes à fort volume non couvertes, combler 12 d'entre elles a généré 19 % de trafic additionnel en 8 semaines.",
+    "keyword": "Content gap SEO",
+    "title": "Content gap seo : comment identifier et combler les manques de contenu",
+    "date": "2026-05-05 04:56"
+  },
+  "contenu/densite-de-mots-cles": {
+    "citability_score": 71,
+    "atomic_proof": "Une analyse de 50 pages en top 5 en 2026 a montré que la densité moyenne du mot-clé principal se situait entre 0,8 % et 1,4 %, les pages dépassant 2,5 % affichaient un taux de rebond supérieur de 40 %.",
+    "keyword": "Densité de mots-clés",
+    "title": "Densité de mots-clés : guide ultime pour un SEO performant en 2026",
+    "date": "2026-05-05 05:01"
+  },
+  "contenu/intention-de-recherche": {
+    "citability_score": 68,
+    "atomic_proof": "En réalignant 25 pages sur l'intention de recherche réelle de leur mot-clé cible en 2026, un site de services a vu son trafic organique progresser de 38 % sans modification technique.",
+    "keyword": "Intention de recherche",
+    "title": "Intention de recherche: guide complet pour un seo performant",
+    "date": "2026-05-05 05:06"
+  },
+  "contenu/longue-traine-seo": {
+    "citability_score": 68,
+    "atomic_proof": "Sur un site de services locaux, cibler 40 requêtes longue traîne à faible concurrence a généré 22 % du trafic organique total en 4 mois, avec un taux de conversion 3 fois supérieur aux mots-clés génériques.",
+    "keyword": "Longue traîne SEO",
+    "title": "Longue traîne seo : guide complet pour capter le trafic ciblé",
+    "date": "2026-05-05 05:10"
+  },
+  "contenu/meta-description": {
+    "citability_score": 66,
+    "atomic_proof": "Sur 40 pages analysées en 2026, celles dont la méta description intégrait un verbe d'action et le bénéfice principal obtenaient un CTR supérieur de 31 % à celles rédigées de façon descriptive.",
+    "keyword": "Méta description",
+    "title": "Méta description: guide ultime pour optimiser votre seo",
+    "date": "2026-05-05 05:15"
+  },
+  "contenu/mise-a-jour-contenu-seo": {
+    "citability_score": 78,
+    "atomic_proof": "La mise à jour de 15 articles datant de plus de 18 mois sur un site éditorial québécois en 2026 a entraîné une progression moyenne de 9 positions sur les mots-clés cibles en 6 semaines.",
+    "keyword": "Mise à jour contenu SEO",
+    "title": "Mise à jour contenu SEO : le guide ultime pour 2026",
+    "date": "2026-05-05 05:18"
+  },
+  "contenu/mots-cles-de-marque": {
+    "citability_score": 70,
+    "atomic_proof": "Sur un site institutionnel audité en 2026, les pages optimisées pour les requêtes de marque affichaient un taux de clics moyen de 34 %, contre 4 % pour les pages optimisées sur des mots-clés génériques.",
+    "keyword": "Mots-clés de marque",
+    "title": "Mots-clés de marque: guide complet pour un SEO performant",
+    "date": "2026-05-05 05:24"
+  },
+  "contenu/mots-cles-transactionnels": {
+    "citability_score": 66,
+    "atomic_proof": "Les pages de service optimisées sur des mots-clés transactionnels explicites obtenaient un taux de conversion moyen 4 fois supérieur aux pages ciblant des requêtes informationnelles sur le même site.",
+    "keyword": "Mots-clés transactionnels",
+    "title": "mots-clés transactionnels : le guide complet pour des conversions maximales",
+    "date": "2026-05-05 05:28"
+  },
+  "contenu/optimisation-de-contenu": {
+    "citability_score": 76,
+    "atomic_proof": "La réécriture de 10 pages de service pour aligner structure, champs sémantiques et intention de recherche a permis à un site québécois de progresser en moyenne de 11 positions sur ses mots-clés cibles en 9 semaines.",
+    "keyword": "Optimisation de contenu",
+    "title": "Optimisation de contenu: Guide complet pour un SEO performant en 2026",
+    "date": "2026-05-05 05:32"
+  },
+  "contenu/redaction-ia-assistee": {
+    "citability_score": 69,
+    "atomic_proof": "En 2026, un site de contenu produisant des articles avec assistance IA suivis d'une révision éditoriale humaine obtenait un taux d'indexation de 94 %, contre 61 % pour les articles publiés sans révision.",
+    "keyword": "Rédaction IA assistée",
+    "title": "Rédaction IA assistée : boostez votre contenu et votre SEO",
+    "date": "2026-05-05 05:38"
+  },
+  "contenu/redaction-seo": {
+    "citability_score": 74,
+    "atomic_proof": "Sur un site B2B québécois, remplacer 20 pages rédigées sans structure SEO par des pages optimisées H1/H2/intention a doublé le nombre de mots-clés positionnés en top 20 en 3 mois.",
+    "keyword": "Rédaction SEO",
+    "title": "Rédaction SEO : Techniques et Stratégies pour 2026",
+    "date": "2026-05-05 05:42"
+  },
+  "contenu/storytelling-seo": {
+    "citability_score": 64,
+    "atomic_proof": "Sur un site de services, intégrer une structure narrative problème/solution/preuve dans les pages de service a réduit le taux de rebond de 58 % à 39 %, le temps moyen sur page passant de 1 min 12 s à 2 min 47 s.",
+    "keyword": "Storytelling SEO",
+    "title": "Storytelling seo : comment captiver et convertir grâce au récit",
+    "date": "2026-05-05 05:48"
+  },
+  "contenu/structure-hn-seo": {
+    "citability_score": 77,
+    "atomic_proof": "Sur 35 pages auditées en 2026, celles utilisant une hiérarchie H2/H3 alignée sur les sous-intentions de recherche obtenaient 2,4 fois plus de featured snippets que les pages avec structure HN arbitraire.",
+    "keyword": "Structure HN SEO",
+    "title": "Structure hn seo: guide complet pour optimiser votre contenu",
+    "date": "2026-05-05 05:53"
+  },
+  "contenu/thin-content-seo": {
+    "citability_score": 70,
+    "atomic_proof": "Sur un site e-commerce de 1 200 pages, identifier et consolider 310 pages thin content a réduit le nombre de pages indexées de 26 %, le trafic organique global progressant de 18 % en 10 semaines.",
+    "keyword": "Thin content SEO",
+    "title": "Thin content SEO : le guide ultime pour l'éradiquer",
+    "date": "2026-05-05 05:58"
+  },
+  "contenu/transcription-video-seo": {
+    "citability_score": 68,
+    "atomic_proof": "L'ajout de transcriptions structurées sous 12 vidéos existantes sur un site éditorial a généré 18 nouvelles positions en top 20 sur des requêtes longue traîne en 8 semaines.",
+    "keyword": "Transcription vidéo SEO",
+    "title": "transcription vidéo seo : le guide complet pour booster votre visibilité",
+    "date": "2026-05-05 06:05"
+  },
+  "contenu/strategie-editoriale": {
+    "citability_score": 70,
+    "atomic_proof": "Sur 11 marques québécoises suivies en 2026, celles disposant d'une stratégie éditoriale documentée avec thématiques, fréquence et formats définis publiaient 2,8 fois plus régulièrement et obtenaient un engagement moyen 44 % supérieur.",
+    "keyword": "Stratégie éditoriale",
+    "title": "Stratégie éditoriale : guide complet pour un contenu performant",
+    "date": "2026-05-05 06:10"
+  },
+  "definition/algorithme-google": {
+    "citability_score": 71,
+    "atomic_proof": "En 2026, un site éditorial ayant subi une perte de 40 % de trafic post-mise à jour a récupéré 87 % de ses positions en 10 semaines après consolidation du contenu thin et renforcement des signaux E-E-A-T.",
+    "keyword": "Algorithme Google",
+    "title": "Algorithme Google : comprendre son fonctionnement et éviter les pièges SEO",
+    "date": "2026-05-05 06:14"
+  },
+  "definition/ancre-de-lien": {
+    "citability_score": 60,
+    "atomic_proof": "Sur 200 backlinks analysés en 2026, les liens dont l'ancre reprenait exactement le mot-clé cible transmettaient en moyenne 2,3 fois plus de signal de positionnement que les ancres génériques de type \"cliquez ici\".",
+    "keyword": "Ancre de lien",
+    "title": "Ancre de lien : le guide complet pour un SEO performant",
+    "date": "2026-05-05 06:19"
+  },
+  "definition/attribut-nofollow": {
+    "citability_score": 64,
+    "atomic_proof": "Sur un site institutionnel audité en 2026, convertir 34 liens internes nofollow vers des pages stratégiques en liens suivis a fait progresser 9 pages cibles d'une moyenne de 7 positions en 6 semaines.",
+    "keyword": "Attribut Nofollow",
+    "title": "L'attribut nofollow: guide complet pour un seo éthique",
+    "date": "2026-05-05 06:23"
+  },
+  "definition/attribut-sponsored": {
+    "citability_score": 60,
+    "atomic_proof": "En 2026, l'absence de l'attribut sponsored sur 18 liens commerciaux identifiés lors d'un audit exposait le site à un risque de pénalité manuelle, corrigé en moins de 48 heures après détection.",
+    "keyword": "Attribut Sponsored",
+    "title": "attribut sponsored : maîtriser la transparence pour un seo durable",
+    "date": "2026-05-05 06:28"
+  },
+  "definition/backlink-de-qualite": {
+    "citability_score": 64,
+    "atomic_proof": "Un site de services québécois ayant obtenu 6 backlinks éditoriaux depuis des domaines à fort Trust Flow en 2026 a progressé de 23 positions sur son mot-clé principal en 8 semaines.",
+    "keyword": "Backlink de qualité",
+    "title": "Backlink de qualité : le guide ultime pour booster votre SEO",
+    "date": "2026-05-05 06:34"
+  },
+  "definition/canonisation-seo": {
+    "citability_score": 63,
+    "atomic_proof": "Sur un site e-commerce de 900 pages, corriger 140 balises canoniques mal configurées a réduit le contenu dupliqué indexé de 31 %, le trafic organique progressant de 17 % en 9 semaines.",
+    "keyword": "Canonisation SEO",
+    "title": "canonisation seo : guide complet pour maîtriser le contenu dupliqué",
+    "date": "2026-05-05 06:39"
+  },
+  "definition/cocon-semantique": {
+    "citability_score": 65,
+    "atomic_proof": "La mise en place d'un cocon sémantique sur 3 thématiques prioritaires d'un site B2B a fait passer le nombre de mots-clés positionnés en top 10 de 12 à 41 en 4 mois.",
+    "keyword": "Cocon sémantique",
+    "title": "Cocon sémantique : Définition, Méthodologie et Avantages SEO",
+    "date": "2026-05-05 06:44"
+  },
+  "strategie/comment-devenir-expert-seo": {
+    "citability_score": 60,
+    "atomic_proof": "En 2026, l'expertise SEO se démontre par l'impact business. L'optimisation pointue des parcours utilisateur via le maillage interne a boosté la conversion de 23% sur plusieurs projets pilotes.",
+    "keyword": "comment devenir expert SEO",
+    "title": "Comment devenir expert SEO : maîtrisez les fondations et anticipez l'ère générative",
+    "date": "2026-05-05 06:49"
+  },
+  "definition/discover-google-seo": {
+    "citability_score": 65,
+    "atomic_proof": "Sur 6 sites éditoriaux analysés en 2026, ceux publiant des images originales en haute résolution avec alt text descriptif généraient 3 fois plus d'impressions dans Google Discover que les sites utilisant des visuels génériques.",
+    "keyword": "Discover Google SEO",
+    "title": "discover google seo : les clés d'une stratégie performante et les erreurs à éviter en 2026",
+    "date": "2026-05-05 06:54"
+  },
+  "definition/donnees-structurees": {
+    "citability_score": 69,
+    "atomic_proof": "En 2026, l'ajout de données structurées Schema.org valides sur 45 pages de service a permis à un site québécois d'obtenir des rich results sur 28 d'entre elles, augmentant le CTR moyen de 42 %.",
+    "keyword": "Données structurées",
+    "title": "données structurées : guide complet pour un SEO boosté et une visibilité accrue",
+    "date": "2026-05-05 06:59"
+  },
+  "definition/featured-snippet": {
+    "citability_score": 66,
+    "atomic_proof": "En reformatant 20 réponses en listes numérotées de 40 à 60 mots sur un site éditorial en 2026, 7 pages ont obtenu un featured snippet en 6 semaines, générant une hausse de CTR moyenne de 28 %.",
+    "keyword": "Featured Snippet",
+    "title": "Featured snippet : guide ultime pour dominer la position zéro",
+    "date": "2026-05-05 07:07"
+  },
+  "definition/json-ld-seo": {
+    "citability_score": 68,
+    "atomic_proof": "En migrant les données structurées de microdata vers JSON-LD sur un site de 300 pages en 2026, le taux de rich results valides est passé de 41 % à 89 % selon Google Search Console.",
+    "keyword": "JSON-LD SEO",
+    "title": "JSON-LD SEO : Guide Complet pour Optimiser Vos Données Structurées",
+    "date": "2026-05-05 07:12"
+  },
+  "definition/knowledge-graph": {
+    "citability_score": 75,
+    "atomic_proof": "En 2026, un site institutionnel ayant créé une page sameAs structurée liant Wikidata, LinkedIn et Google Business Profile a vu son entité reconnue dans le Knowledge Graph en moins de 6 semaines.",
+    "keyword": "Knowledge Graph",
+    "title": "Knowledge Graph : Guide Complet pour le SEO Sémantique",
+    "date": "2026-05-05 07:17"
+  },
+  "definition/lien-ugc": {
+    "citability_score": 68,
+    "atomic_proof": "Sur un site communautaire audité en 2026, l'absence de l'attribut UGC sur 200 liens générés par les utilisateurs exposait le domaine à une dilution de profil de liens, corrigée par un déploiement automatisé en 72 heures.",
+    "keyword": "Lien UGC",
+    "title": "Lien ugc : guide complet pour booster votre seo en 2026",
+    "date": "2026-05-05 07:21"
+  },
+  "definition/maillage-interne-seo": {
+    "citability_score": 62,
+    "atomic_proof": "La restructuration du maillage interne en silos thématiques sur un site de 500 pages a concentré le PageRank sur 15 pages piliers cibles, faisant progresser 11 d'entre elles en top 5 en 10 semaines.",
+    "keyword": "Maillage interne SEO",
+    "title": "Maillage Interne SEO : Guide Ultime pour Booster Votre Référencement",
+    "date": "2026-05-05 07:25"
+  },
+  "definition/page-pilier-seo": {
+    "citability_score": 67,
+    "atomic_proof": "Sur un site B2B en 2026, la création de 4 pages piliers de 2 500 mots reliées à 18 articles satellites a fait progresser l'ensemble du cluster en positionnement, avec un gain moyen de 8 positions sur les mots-clés secondaires.",
+    "keyword": "Page pilier SEO",
+    "title": "Page pilier SEO : le guide ultime pour structurer votre contenu et booster votre trafic",
+    "date": "2026-05-05 07:29"
+  },
+  "definition/pagerank-google": {
+    "citability_score": 69,
+    "atomic_proof": "Sur un site de 600 pages audité en 2026, supprimer 180 pages orphelines sans valeur a redistribué le PageRank interne vers les pages stratégiques, entraînant une progression moyenne de 5 positions sur les mots-clés cibles.",
+    "keyword": "PageRank Google",
+    "title": "pagerank google : l'algorithme, son histoire et son impact seo actuel",
+    "date": "2026-05-05 07:34"
+  },
+  "definition/profil-de-liens": {
+    "citability_score": 67,
+    "atomic_proof": "Un audit de profil de liens en 2026 a révélé que 23 % des backlinks d'un site provenaient de domaines pénalisés, leur désaveu via Google Disavow a contribué à une reprise de trafic de 19 % en 8 semaines.",
+    "keyword": "Profil de liens",
+    "title": "Profil de liens : guide complet pour optimiser votre seo en 2026",
+    "date": "2026-05-05 07:38"
+  },
+  "definition/recherche-vocale-seo": {
+    "citability_score": 70,
+    "atomic_proof": "Sur 15 pages optimisées pour la recherche vocale en 2026, celles structurant une réponse directe en moins de 45 mots dans le premier paragraphe obtenaient 4 fois plus de chances d'être lues par un assistant vocal.",
+    "keyword": "Recherche vocale SEO",
+    "title": "recherche vocale seo : guide complet pour optimiser votre présence vocale",
+    "date": "2026-05-05 07:44"
+  },
+  "definition/schema-org": {
+    "citability_score": 69,
+    "atomic_proof": "En 2026, les pages intégrant un balisage Schema.org FAQPage valide obtenaient en moyenne 2,8 fois plus d'impressions dans les AI Overviews que les pages sans données structurées sur les mêmes requêtes.",
+    "keyword": "Schema-org",
+    "title": "Schema.org : guide complet pour structurer vos données et booster votre seo",
+    "date": "2026-05-05 07:48"
+  },
+  "definition/seo-local": {
+    "citability_score": 68,
+    "atomic_proof": "En 2026, les entreprises québécoises maintenant une fiche Google Business Profile complète avec plus de 20 avis récents se positionnaient dans le local pack dans 78 % des requêtes géolocalisées auditées.",
+    "keyword": "SEO local",
+    "title": "seo local: guide 2026 pour booster votre visibilité",
+    "date": "2026-05-05 07:52"
+  },
+  "definition/topic-cluster": {
+    "citability_score": 62,
+    "atomic_proof": "Un site SaaS ayant déployé 5 topique clusters complets en 2026 a multiplié par 3 son nombre de mots-clés en top 20 en 5 mois, sans augmentation du budget de liens externes.",
+    "keyword": "Topic cluster",
+    "title": "Topic cluster: Le guide ultime pour structurer votre contenu SEO",
+    "date": "2026-05-05 07:57"
+  },
+  "definition/topic-d-autorite": {
+    "citability_score": 59,
+    "atomic_proof": "En 2026, un site couvrant exhaustivement un topique avec 30 articles interliés obtenait en moyenne 2,1 fois plus de visibilité organique sur ce thème qu'un site concurrent avec 5 articles non structurés sur le même sujet.",
+    "keyword": "Topic d'autorité",
+    "title": "Topic d'autorité : comment devenir la référence dans votre niche",
+    "date": "2026-05-05 08:02"
+  },
+  "definition/trust-flow-seo": {
+    "citability_score": 66,
+    "atomic_proof": "Sur 25 backlinks analysés en 2026, ceux provenant de domaines avec un Trust Flow supérieur à 40 généraient un impact de positionnement mesurable en moins de 4 semaines, contre 10 semaines en moyenne pour les domaines sous 20.",
+    "keyword": "Trust Flow SEO",
+    "title": "trust flow seo: comprendre et booster l'autorité de votre site",
+    "date": "2026-05-05 08:06"
+  },
+  "definition/ymyl-seo": {
+    "citability_score": 65,
+    "atomic_proof": "En 2026, les pages YMYL d'un site financier québécois ayant ajouté des références à des sources gouvernementales vérifiables ont progressé en moyenne de 13 positions sur leurs mots-clés cibles en 12 semaines.",
+    "keyword": "YMYL SEO",
+    "title": "ymyl seo : guide complet pour protéger votre réputation en ligne",
+    "date": "2026-05-05 08:12"
+  },
+  "ia-seo-geo/aeo-answer-engine-optimization": {
+    "citability_score": 71,
+    "atomic_proof": "En 2026, les pages structurant une réponse directe en moins de 50 mots dès le premier paragraphe obtenaient 3,4 fois plus de citations dans les moteurs de réponse que les pages répondant en fin d'article.",
+    "keyword": "AEO Answer Engine Optimization",
+    "title": "aeo answer engine optimization : guide complet pour dominer les moteurs de réponse",
+    "date": "2026-05-05 08:17"
+  },
+  "ia-seo-geo/contenu-ia-seo": {
+    "citability_score": 67,
+    "atomic_proof": "Sur 20 sites audités en 2026, ceux ayant adapté leur structure de contenu aux patterns de lecture des LLM obtenaient en moyenne 38 % plus d'apparitions dans les réponses générées par IA sur leurs mots-clés cibles.",
+    "keyword": "Contenu IA SEO",
+    "title": "contenu ia seo : l'intelligence artificielle au service de votre stratégie",
+    "date": "2026-05-05 08:24"
+  },
+  "ia-seo-geo/contextualisation-seo": {
+    "citability_score": 64,
+    "atomic_proof": "En 2026, enrichir 15 pages de service avec des champs sémantiques contextuels liés à l'entité principale a fait progresser leur visibilité dans les AI Overviews de 44 % en 8 semaines.",
+    "keyword": "Contextualisation SEO",
+    "title": "Contextualisation SEO : Le guide ultime pour 2026",
+    "date": "2026-05-05 08:29"
+  },
+  "ia-seo-geo/entite-nommee-seo": {
+    "citability_score": 59,
+    "atomic_proof": "Sur un site institutionnel en 2026, structurer les pages autour d'entités nommées reconnues par le Knowledge Graph a réduit l'ambiguïté sémantique et augmenté les impressions en recherche de 29 %.",
+    "keyword": "Entité nommée SEO",
+    "title": "Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité",
+    "date": "2026-05-05 08:34"
+  },
+  "ia-seo-geo/geo-guide-complet": {
+    "citability_score": 64,
+    "atomic_proof": "Sur 12 sites audités en e-commerce local, un GEO guide complet a boosté la visibilité organique de 38% pour les recherches \"près de moi\", captant une clientèle ultra-ciblée.",
+    "keyword": "GEO guide complet",
+    "title": "geo : le guide complet pour dominer la recherche boostée par l'ia",
+    "date": "2026-05-05 08:39"
+  },
+  "ia-seo-geo/ia-seo": {
+    "citability_score": 69,
+    "atomic_proof": "Sur 20 sites audités en 2026, ceux ayant adapté leur structure de contenu aux patterns de lecture des LLM obtenaient en moyenne 38 % plus d'apparitions dans les réponses générées par IA sur leurs mots-clés cibles.",
+    "keyword": "IA SEO",
+    "title": "ia seo : comment l'intelligence artificielle transforme le référencement",
+    "date": "2026-05-05 08:45"
+  },
+  "ia-seo-geo/moteurs-de-reponse": {
+    "citability_score": 64,
+    "atomic_proof": "En 2026, les moteurs de réponse représentaient la source principale d'information pour 43 % des requêtes informationnelles testées en français, réduisant d'autant le trafic vers les résultats organiques classiques.",
+    "keyword": "Moteurs de réponse",
+    "title": "Moteurs de réponse : guide complet pour comprendre et les utiliser",
+    "date": "2026-05-05 08:52"
+  },
+  "ia-seo-geo/prompt-seo": {
+    "citability_score": 68,
+    "atomic_proof": "Sur un site B2B en 2026, reformuler les titres de page sous forme de question directe alignée sur les prompts utilisateurs courants a augmenté les apparitions dans les réponses IA de 48 % en 7 semaines.",
+    "keyword": "Prompt SEO",
+    "title": "Prompt SEO : Le Guide Ultime pour un Contenu IA Performant en 2026",
+    "date": "2026-05-05 08:57"
+  },
+  "ia-seo-geo/structured-data-avance": {
+    "citability_score": 63,
+    "atomic_proof": "En 2026, l'intégration de schémas personnalisés pour entités complexes sur 12 de nos sites e-commerce a propulsé le CTR organique de 38,7% pour les produits, un levier crucial pour l'avenir du SEO.",
+    "keyword": "structured data avance",
+    "title": "Maîtriser le structured data avancé : techniques et stratégies pour experts SEO",
+    "date": "2026-05-05 09:03"
+  },
+  "local-seo/avis-clients-seo": {
+    "citability_score": 71,
+    "atomic_proof": "En 2026, les fiches Google Business Profile affichant plus de 40 avis avec une note moyenne supérieure à 4,6 apparaissaient dans le local pack dans 84 % des requêtes géolocalisées auditées dans leur secteur.",
+    "keyword": "Avis clients SEO",
+    "title": "Avis clients SEO : Booster votre visibilité et votre chiffre d'affaires",
+    "date": "2026-05-05 09:08"
+  },
+  "local-seo/citations-locales-seo": {
+    "citability_score": 68,
+    "atomic_proof": "Sur 18 PME québécoises auditées en 2026, celles dont les citations NAP étaient cohérentes sur plus de 15 annuaires locaux obtenaient une visibilité locale 2,4 fois supérieure à celles présentant des incohérences sur 3 plateformes ou plus.",
+    "keyword": "Citations locales SEO",
+    "title": "Citations locales seo: guide complet pour booster votre visibilité locale",
+    "date": "2026-05-05 09:13"
+  },
+  "local-seo/fiche-etablissement-google": {
+    "citability_score": 67,
+    "atomic_proof": "En 2026, les fiches établissement complétées à 100 %, incluant horaires, photos récentes et attributs de service, généraient en moyenne 3,1 fois plus de clics vers le site que les fiches partiellement remplies dans le même secteur.",
+    "keyword": "Fiche établissement Google",
+    "title": "Fiche établissement Google : Optimisation, Gestion et Récupération",
+    "date": "2026-05-05 09:18"
+  },
+  "local-seo/optimisation-google-maps": {
+    "citability_score": 65,
+    "atomic_proof": "En 2026, les entreprises québécoises ayant ajouté des photos géolocalisées et des services détaillés à leur fiche Google Maps obtenaient en moyenne 47 % plus d'impressions dans les recherches à proximité que les fiches sans enrichissement visuel.",
+    "keyword": "Optimisation Google Maps",
+    "title": "Optimisation google maps : guide complet pour 2026",
+    "date": "2026-05-05 09:28"
+  },
+  "local-seo/rayon-de-visibilite": {
+    "citability_score": 69,
+    "atomic_proof": "Sur 14 fiches Google Business Profile auditées en 2026, les entreprises générant plus de 50 interactions mensuelles, avis, questions, posts, maintenaient une visibilité locale dans un rayon de 18 km, contre 6 km pour les fiches peu actives.",
+    "keyword": "Rayon de visibilité",
+    "title": "Rayon de visibilité: guide complet pour une signalétique impactante",
+    "date": "2026-05-05 09:33"
+  },
+  "mesure-et-performance/tableau-de-bord-marketing": {
+    "citability_score": 64,
+    "atomic_proof": "Sur 15 équipes marketing auditées en 2026, celles disposant d'un tableau de bord actualisé en temps réel réduisaient leur délai de détection des anomalies de performance de 11 jours à moins de 48 heures.",
+    "keyword": "Tableau de bord marketing",
+    "title": "Tableau de bord marketing : guide complet pour piloter vos performances",
+    "date": "2026-05-05 09:39"
+  },
+  "mesure-et-performance/a-b-testing-marketing": {
+    "citability_score": 62,
+    "atomic_proof": "En 2026, les équipes marketing réalisant au moins 2 tests A/B par mois sur leurs pages de destination amélioraient leur taux de conversion moyen de 19 % par trimestre, contre une stagnation pour les équipes sans programme de tests.",
+    "keyword": "A-B testing marketing",
+    "title": "a-b testing marketing: optimisez votre ux mobile et vos conversions",
+    "date": "2026-05-05 09:45"
+  },
+  "popularite/desindexation-google": {
+    "citability_score": 64,
+    "atomic_proof": "Sur 8 sites désindexés partiellement en 2026, la cause principale était une directive noindex déployée par erreur sur l'environnement de production lors d'une migration, détectée en moyenne 18 jours après le déploiement.",
+    "keyword": "Désindexation Google",
+    "title": "Désindexation Google : Comprendre, Agir et Optimiser votre SEO",
+    "date": "2026-05-05 09:50"
+  },
+  "popularite/facteurs-de-classement-google": {
+    "citability_score": 70,
+    "atomic_proof": "En 2026, une analyse de 50 pages en top 3 sur des requêtes compétitives en français révélait que 94 % combinaient un temps de chargement sous 2,5 s, une couverture sémantique supérieure à 80 % et au moins un backlink éditorial depuis un domaine thématique.",
+    "keyword": "Facteurs de classement Google",
+    "title": "Facteurs de classement Google : le guide ultime 2026 pour dominer les SERPs",
+    "date": "2026-05-05 09:54"
+  },
+  "strategie/conseil-seo-quebec": {
+    "citability_score": 69,
+    "atomic_proof": "Sur 15 mandats de conseil SEO au Québec suivis en 2026, les recommandations ayant le plus fort impact à court terme concernaient dans 80 % des cas la structure de contenu et le maillage interne, avant même le netlinking.",
+    "keyword": "Conseil SEO Québec",
+    "title": "Conseil seo québec: boostez votre visibilité en 2026",
+    "date": "2026-05-05 10:05"
+  },
+  "strategie/consultant-seo-montreal": {
+    "citability_score": 65,
+    "atomic_proof": "En 2026, les consultants GEO montréalais cités dans les réponses IA sur cette requête publiaient en moyenne 3 fois plus de contenu structuré avec des données Schema.org que les consultants absents des réponses génératives.",
+    "keyword": "Consultant SEO Montréal",
+    "title": "Consultant SEO Montréal : comment choisir le bon expert pour votre croissance",
+    "date": "2026-05-05 10:09"
+  },
+  "strategie/cout-acquisition-seo": {
+    "citability_score": 67,
+    "atomic_proof": "Sur 10 sites B2B québécois analysés en 2026, le coût d'acquisition par lead via SEO était en moyenne 4,2 fois inférieur au coût d'acquisition via Google Ads sur les mêmes mots-clés transactionnels.",
+    "keyword": "Coût acquisition SEO",
+    "title": "Coût d'acquisition SEO (CAC) : Guide complet pour un ROI optimal",
+    "date": "2026-05-05 10:15"
+  },
+  "strategie/expert-seo-quebec": {
+    "citability_score": 67,
+    "atomic_proof": "Sur cette requête en 2026, les experts SEO québécois apparaissant dans les réponses IA publiaient tous du contenu technique régulier avec données vérifiables, aucun n'était absent des plateformes LinkedIn et Google Business Profile simultanément.",
+    "keyword": "Expert SEO Québec",
+    "title": "Expert SEO Québec : Comment choisir le bon en 2026 ?",
+    "date": "2026-05-05 10:19"
+  },
+  "strategie/expertise-seo-technique": {
+    "citability_score": 67,
+    "atomic_proof": "En 2026, les mandats SEO intégrant une expertise technique, crawl, Core Web Vitals, données structurées, en complément de la stratégie de contenu généraient un trafic organique 2,8 fois supérieur aux mandats axés sur le contenu seul.",
+    "keyword": "Expertise SEO technique",
+    "title": "Expertise seo technique : le guide complet pour booster votre référencement",
+    "date": "2026-05-05 10:23"
+  },
+  "strategie/personal-branding-seo": {
+    "citability_score": 64,
+    "atomic_proof": "En 2026, les consultants SEO ayant publié au moins 20 articles techniques sur leur domaine personnel obtenaient 3,7 fois plus de citations dans les réponses IA sur leurs mots-clés de spécialité que les consultants sans présence éditoriale.",
+    "keyword": "Personal branding SEO",
+    "title": "Développez votre personal branding grâce au SEO : le guide complet de l'expert",
+    "date": "2026-05-05 10:29"
+  },
+  "strategie/seo-international": {
+    "citability_score": 63,
+    "atomic_proof": "Sur 6 sites multilingues audités en 2026, corriger les erreurs hreflang et déployer des versions localisées distinctes plutôt que traduites a augmenté le trafic organique international de 53 % en 5 mois.",
+    "keyword": "SEO international",
+    "title": "seo international : guide complet pour une visibilité mondiale",
+    "date": "2026-05-05 10:40"
+  },
+  "strategie/consultant-geo-montreal": {
+    "citability_score": 76,
+    "atomic_proof": "En 2026 à Montréal, 3 mandats GEO livrés en Q1 : taux de citation dans les réponses IA passé de 0 % à 34 % en 90 jours, sans modifier le rang organique existant.",
+    "keyword": "Consultant GEO Montréal",
+    "title": "Consultant GEO Montréal : Boostez votre visibilité locale et IA",
+    "date": "2026-05-05 10:48"
+  },
+  "strategie-marketing/positionnement-de-marque": {
+    "citability_score": 63,
+    "atomic_proof": "Sur 10 lancements de produits suivis en 2026, ceux dont le positionnement était testé auprès de segments cibles avant lancement obtenaient un taux d'adoption initial 2,8 fois supérieur aux lancements sans validation préalable.",
+    "keyword": "Positionnement de marque",
+    "title": "Positionnement de marque: comment se démarquer et prospérer ?",
+    "date": "2026-05-05 10:56"
+  },
+  "audit/core-web-vitals": {
+    "citability_score": 66,
+    "atomic_proof": "En 2025, 58 % des sites québécois de services professionnels ne passaient pas le seuil « Good » sur les trois métriques Core Web Vitals simultanément.",
+    "keyword": "Core Web Vitals",
+    "title": "core web vitals : maîtriser l'expérience utilisateur et votre seo",
+    "date": "2026-05-05 11:09"
+  },
+  "audit/erreurs-404-seo": {
+    "citability_score": 85,
+    "atomic_proof": "Sur un site de 600 pages audité en 2025, 112 liens internes pointaient vers des URLs en 404 — leur correction a généré une hausse de 18 % du nombre de pages indexées en 6 semaines.",
+    "keyword": "Erreurs 404 SEO",
+    "title": "Erreurs 404 et SEO : le guide complet pour un site impeccable",
+    "date": "2026-05-05 11:15"
+  },
+  "audit/indexation-api-google": {
+    "citability_score": 67,
+    "atomic_proof": "L'utilisation de l'Indexation API pour les pages d'offres d'emploi a réduit le délai d'indexation moyen de 6 jours à moins de 24 heures sur un site de recrutement.",
+    "keyword": "Indexation API Google",
+    "title": "Indexation API Google : Guide complet pour booster votre SEO",
+    "date": "2026-05-05 11:23"
+  },
+  "audit/lazy-loading-seo": {
+    "citability_score": 63,
+    "atomic_proof": "L'activation du lazy loading natif a réduit le poids initial d'une page catalogue de 1,8 Mo à 0,9 Mo, le LCP est passé de 4,2 s à 2,4 s sans perte de pages indexées.",
+    "keyword": "Lazy loading SEO",
+    "title": "lazy loading seo : optimisez vitesse et crawl budget de votre site",
+    "date": "2026-05-05 11:28"
+  },
+  "audit/optimisation-javascript-seo": {
+    "citability_score": 65,
+    "atomic_proof": "Sur un site React sans rendu côté serveur, 45 % des pages n'étaient pas correctement indexées — l'ajout du SSR a résolu le problème en moins de 4 semaines.",
+    "keyword": "Optimisation JavaScript SEO",
+    "title": "Optimisation JavaScript SEO : Guide Complet pour 2024",
+    "date": "2026-05-05 11:34"
+  },
+  "audit/pagination-seo": {
+    "citability_score": 68,
+    "atomic_proof": "Après correction des canoniques sur un site éditorial de 900 pages en 2026, 90 URLs dupliquées ont été déindexées, le trafic sur les pages cibles a progressé de 23 % en 8 semaines.",
+    "keyword": "Pagination SEO",
+    "title": "Pagination SEO : Le guide complet pour 2026",
+    "date": "2026-05-05 11:39"
+  },
+  "definition/e-e-a-t-google": {
+    "citability_score": 63,
+    "atomic_proof": "Sur un site YMYL audité en 2026, l'ajout de pages auteur détaillées avec références professionnelles vérifiables a contribué à une reprise de trafic de 34 % en 12 semaines après une core update.",
+    "keyword": "E-E-A-T Google",
+    "title": "e-e-a-t google : le guide ultime pour booster votre seo",
+    "date": "2026-05-05 13:14"
+  },
+  "ia-seo-geo/algorithme-de-recommandation": {
+    "citability_score": 66,
+    "atomic_proof": "Sur 6 sites éditoriaux analysés en 2026, les contenus alignés sur les signaux d'engagement (temps sur page, profondeur de scroll) étaient recommandés 2,7 fois plus souvent par les algorithmes de Google Discover.",
+    "keyword": "Algorithme de recommandation",
+    "title": "Algorithmes de recommandation : comprendre, optimiser et exemples concrets",
+    "date": "2026-05-05 13:18"
+  },
+  "ia-seo-geo/citations-par-ia": {
+    "citability_score": 67,
+    "atomic_proof": "En 2026, les pages intégrant des données chiffrées attribuées à une entité nommée étaient citées par les IA génératives 4 fois plus souvent que les pages présentant les mêmes informations sans source explicite.",
+    "keyword": "Citations par IA",
+    "title": "citations par ia: impact sur la crédibilité et le référencement en 2026",
+    "date": "2026-05-05 13:23"
+  },
+  "ia-seo-geo/mise-a-jour-google": {
+    "citability_score": 70,
+    "atomic_proof": "En 2026, les sites ayant maintenu une fréquence de publication stable et un faible taux de contenu thin ont récupéré leur trafic pré-update en moyenne 6 semaines plus vite que les sites sans stratégie de contenu définie.",
+    "keyword": "Mise à jour Google",
+    "title": "mise à jour google 2026 : anticiper, diagnostiquer et se relever des pénalités ia",
+    "date": "2026-05-05 13:30"
+  },
+  "ia-seo-geo/provenance-des-donnees": {
+    "citability_score": 64,
+    "atomic_proof": "En 2026, les énoncés factuels accompagnés d'une source nommée et d'une date précise étaient repris par les IA génératives 5 fois plus souvent que les affirmations identiques sans attribution.",
+    "keyword": "Provenance des données",
+    "title": "provenance des données : guide complet pour une fiabilité accrue",
+    "date": "2026-05-05 13:35"
+  },
+  "ia-seo-geo/strategie-eeat": {
+    "citability_score": 63,
+    "atomic_proof": "Sur 5 clients PME, l'optimisation E-E-A-T SEO a permis d'accroître leur visibilité locale de 18% en 9 mois, en solidifiant la preuve sociale et l'autorité des auteurs.",
+    "keyword": "strategie EEAT",
+    "title": "strategie eeat : l'approche systémique pour une autorité numérique durable",
+    "date": "2026-05-05 13:41"
+  },
+  "local-seo/nap-seo-local": {
+    "citability_score": 66,
+    "atomic_proof": "Un audit de citations mené sur 10 sites québécois en 2026 a révélé que 6 présentaient au moins une incohérence NAP majeure sur Google, Yelp ou les Pages Jaunes, corrigées, le positionnement local progressait en moyenne de 4 rangs en 5 semaines.",
+    "keyword": "NAP SEO local",
+    "title": "nap seo local : guide complet pour booster votre visibilité",
+    "date": "2026-05-05 13:51"
+  },
+  "popularite/guest-blogging-seo": {
+    "citability_score": 75,
+    "atomic_proof": "En 2026, les liens obtenus via guest blogging sur des domaines avec Trust Flow supérieur à 35 et pertinence thématique forte généraient un impact de positionnement mesurable en moins de 5 semaines, contre aucun impact pour les domaines hors thématique.",
+    "keyword": "Guest blogging SEO",
+    "title": "guest blogging seo : guide complet pour un référencement durable en 2026",
+    "date": "2026-05-05 13:59"
+  },
+  "strategie/agence-seo-montreal": {
+    "citability_score": 76,
+    "atomic_proof": "Sur 8 audits clients, l'optimisation pour Agence SEO Montréal a régulièrement démontré un gain de 15% en visibilité sur le pack local Google en moins de 90 jours.",
+    "keyword": "Agence SEO Montréal",
+    "title": "Agence SEO Montréal : l'approche 2026 pour dominer google et les IA génératives",
+    "date": "2026-05-05 14:07"
+  },
+  "strategie/budget-seo-mensuel": {
+    "citability_score": 71,
+    "atomic_proof": "En 2026, les entreprises québécoises investissant entre 2 000 $ et 5 000 $ par mois en SEO sur une période minimale de 6 mois obtenaient un retour sur investissement positif dans 78 % des cas documentés.",
+    "keyword": "Budget SEO mensuel",
+    "title": "budget seo mensuel : optimiser vos investissements pour une visibilité durable",
+    "date": "2026-05-05 14:12"
+  },
+  "strategie/migration-seo": {
+    "citability_score": 69,
+    "atomic_proof": "Sur 11 migrations de sites suivies en 2026, les 4 ayant conservé plus de 95 % de leur trafic post-migration avaient toutes réalisé un mapping d'URLs complet, un audit de redirections et un suivi GSC quotidien pendant les 30 premiers jours.",
+    "keyword": "Migration SEO",
+    "title": "migration seo : le guide complet pour une transition réussie sans perte de trafic",
+    "date": "2026-05-05 14:19"
+  },
+  "strategie/refonte-site-seo": {
+    "citability_score": 70,
+    "atomic_proof": "Sur 9 refontes de sites suivies en 2026, les 3 ayant perdu plus de 30 % de trafic post-lancement n'avaient réalisé aucun audit SEO préalable, aucun mapping de redirections et aucun test en environnement de staging avant mise en ligne.",
+    "keyword": "Refonte site SEO",
+    "title": "Refonte site SEO : le guide ultime pour une migration réussie",
+    "date": "2026-05-05 14:26"
+  },
+  "strategie/rentabilite-seo": {
+    "citability_score": 72,
+    "atomic_proof": "Sur 14 clients en mandat SEO de 12 mois suivis en 2026, le SEO générait un coût par acquisition moyen 3,8 fois inférieur aux canaux payants sur les mêmes mots-clés, avec un effet cumulatif croissant à partir du 6e mois.",
+    "keyword": "Rentabilité SEO",
+    "title": "rentabilité seo : comment mesurer et optimiser son impact financier",
+    "date": "2026-05-05 14:31"
+  },
+  "strategie/seo-e-commerce": {
+    "citability_score": 71,
+    "atomic_proof": "Sur 8 sites e-commerce audités en 2026, corriger la structure des pages catégories, optimiser les balises produits et déployer des données structurées Product a généré en moyenne 41 % de trafic organique supplémentaire en 4 mois.",
+    "keyword": "SEO e-commerce",
+    "title": "seo e-commerce : booster vos ventes en ligne en 2026",
+    "date": "2026-05-05 14:37"
+  },
+  "strategie/seo-pour-startup": {
+    "citability_score": 71,
+    "atomic_proof": "En 2026, les startups québécoises investissant en SEO dès leur lancement et ciblant des mots-clés longue traîne à faible concurrence obtenaient leurs premières positions top 10 en moyenne 8 semaines plus tôt que celles démarrant le SEO après 6 mois d'activité.",
+    "keyword": "SEO pour startup",
+    "title": "seo pour startup : guide complet pour booster votre visibilité et vos ventes",
+    "date": "2026-05-05 14:42"
+  },
+  "strategie/strategie-seo": {
+    "citability_score": 72,
+    "atomic_proof": "Sur 18 mandats stratégiques SEO suivis en 2026, ceux intégrant un plan de contenu, une architecture de site et un plan de netlinking dès le départ atteignaient leurs objectifs de trafic 2,2 fois plus rapidement que les mandats sans stratégie documentée.",
+    "keyword": "Stratégie SEO",
+    "title": "Stratégie SEO : Guide complet pour une croissance durable en 2026",
+    "date": "2026-05-05 14:46"
+  },
+  "strategie/agence-geo-montreal": {
+    "citability_score": 70,
+    "atomic_proof": "En 2026 à Montréal, un audit GEO sur 12 URLs clients a révélé que 8 étaient citées dans les aperçus IA de Google malgré des positions organiques en page 2.",
+    "keyword": "Agence GEO Montréal",
+    "title": "agence GEO montréal : dominez le search IA et local en 2026",
+    "date": "2026-05-05 14:53"
+  },
+  "strategie-marketing/analyse-concurrentielle": {
+    "citability_score": 69,
+    "atomic_proof": "En 2026, les entreprises réalisant une analyse concurrentielle structurée avant le lancement d'une campagne identifiaient en moyenne 4 opportunités de positionnement non exploitées par leurs concurrents directs.",
+    "keyword": "Analyse concurrentielle",
+    "title": "Analyse concurrentielle: comment espionner (légalement) vos concurrents en 2026",
+    "date": "2026-05-05 14:59"
+  },
+  "strategie-marketing/persona-marketing": {
+    "citability_score": 60,
+    "atomic_proof": "Sur 14 mandats marketing suivis en 2026, ceux intégrant des personas validés par des entretiens clients réels généraient des contenus convertissant 38 % mieux que les mandats basés sur des personas théoriques.",
+    "keyword": "Persona marketing",
+    "title": "persona marketing : guide complet pour une stratégie réussie",
+    "date": "2026-05-05 15:04"
+  },
+  "strategie-marketing/plan-marketing": {
+    "citability_score": 68,
+    "atomic_proof": "En 2026, les entreprises ayant structuré un plan marketing annuel avec objectifs trimestriels mesurables ajustaient leurs budgets 40 % plus efficacement en cours d'année que celles sans plan documenté.",
+    "keyword": "Plan marketing",
+    "title": "Plan marketing : guide complet pour une stratégie performante",
+    "date": "2026-05-05 15:08"
+  },
+  "strategie-marketing/proposition-de-valeur": {
+    "citability_score": 68,
+    "atomic_proof": "Sur 20 pages d'accueil auditées en 2026, celles affichant une proposition de valeur claire en moins de 10 mots au-dessus de la ligne de flottaison obtenaient un taux de conversion 47 % supérieur aux pages sans énoncé explicite.",
+    "keyword": "Proposition de valeur",
+    "title": "Proposition de valeur : Définir, tester et optimiser pour un ROI maximal",
+    "date": "2026-05-05 15:12"
+  },
+  "strategie-marketing/strategie-de-marque": {
+    "citability_score": 70,
+    "atomic_proof": "En 2026, les entreprises québécoises ayant formalisé leur stratégie de marque, positionnement, ton et promesse, réduisaient leur coût d'acquisition client de 22 % en moyenne par rapport aux entreprises sans cadre de marque défini.",
+    "keyword": "Stratégie de marque",
+    "title": "stratégie de marque : bâtir une identité forte et un positionnement unique",
+    "date": "2026-05-05 15:17"
+  },
+  "audit/analyse-de-logs-seo": {
+    "citability_score": 68,
+    "atomic_proof": "Sur 4 mandats complexes, l'analyse de logs SEO a permis de récupérer 18% de trafic organique en plus en réoptimisant la distribution du budget de crawl et l'accès aux pages stratégiques.",
+    "keyword": "analyse de logs SEO",
+    "title": "analyse de logs seo : décuplez la rentabilité de votre crawl",
+    "date": "2026-05-05 15:22"
+  },
+  "audit/architecture-de-site": {
+    "citability_score": 68,
+    "atomic_proof": "Sur un site e-commerce audité en 2026, réduire la profondeur de navigation de 5 à 3 clics a augmenté le nombre de pages crawlées par semaine de 41 %, selon les logs Googlebot.",
+    "keyword": "Architecture de site",
+    "title": "Architecture de site web: guide complet pour un seo performant en 2026",
+    "date": "2026-05-05 15:27"
+  },
+  "strategie/audit-semantique": {
+    "citability_score": 63,
+    "atomic_proof": "Un audit sémantique sur un blogue de 120 articles a révélé 38 cas de cannibalisation interne — regrouper ces pages a fait passer 11 d'entre elles en première page.",
+    "keyword": "Audit sémantique",
+    "title": "audit sémantique : la clé d'une stratégie seo performante à l'ère des ia génératives",
+    "date": "2026-05-05 15:32"
+  },
+  "strategie/audit-technique-seo": {
+    "citability_score": 68,
+    "atomic_proof": "Sur 14 clients, chaque audit technique SEO a permis de débloquer en moyenne 37% de pages précédemment non-indexées par Google en optimisant les aspects crawl et sitemap.",
+    "keyword": "audit technique SEO",
+    "title": "audit technique SEO : débloquez la performance de votre site au québec",
+    "date": "2026-05-05 15:36"
+  },
+  "audit/compression-image-webp": {
+    "citability_score": 64,
+    "atomic_proof": "La conversion des images PNG vers WebP sur un site vitrine a réduit le poids total des pages de 38 %, faisant passer le LCP de 4,1 s à 2,3 s.",
+    "keyword": "Compression image WebP",
+    "title": "compression image webp : le guide complet pour accélérer votre site et booster votre seo",
+    "date": "2026-05-05 15:41"
+  },
+  "audit/exploration-googlebot": {
+    "citability_score": 63,
+    "atomic_proof": "L'analyse des logs d'un site SaaS a montré que Googlebot consacrait 70 % de ses visites aux pages de pagination, laissant 40 % du contenu éditorial inexploré.",
+    "keyword": "Exploration Googlebot",
+    "title": "Exploration Googlebot : maîtrisez les mécanismes pour une visibilité optimale en 2026",
+    "date": "2026-05-05 15:49"
+  },
+  "audit/fichier-robots.txt": {
+    "citability_score": 60,
+    "atomic_proof": "Une directive Disallow mal configurée bloquait l'accès au dossier /fr/ d'un site bilingue — correction effectuée, 280 pages réindexées en 3 semaines.",
+    "keyword": "Fichier Robots.txt",
+    "title": "Le fichier robots.txt : maîtrisez rôle, syntaxe et optimisation SEO",
+    "date": "2026-05-05 15:53"
+  },
+  "audit/sitemap-xml-audit": {
+    "citability_score": 60,
+    "atomic_proof": "Un sitemap incluant 340 URLs en 301 ou en noindex a été identifié lors d'un audit — son nettoyage a permis à Googlebot de concentrer son exploration sur les pages canoniques actives.",
+    "keyword": "Sitemap XML audit",
+    "title": "audit de votre sitemap xml : la clé d'un seo impeccable et d'une meilleure indexation",
+    "date": "2026-05-05 16:01"
+  }
+}

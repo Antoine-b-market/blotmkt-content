@@ -1,0 +1,85 @@
+{
+  "score_global": 0.798,
+  "atomic_proof_score": 0.386,
+  "mmr_score": 0.3247,
+  "kl_divergence": 0.2621,
+  "verdict": "OK",
+  "weak_axes": [],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.8165,
+      "status": "OK",
+      "best_chunk": "Recherche vocale SEO : guide complet pour optimiser votre présence vocale Sommaire - Comprendre la recherche vocale et s",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.8088,
+      "status": "OK",
+      "best_chunk": "Recherche vocale SEO : guide complet pour optimiser votre présence vocale Sommaire - Comprendre la recherche vocale et s",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.8101,
+      "status": "OK",
+      "best_chunk": "Recherche vocale SEO : guide complet pour optimiser votre présence vocale Sommaire - Comprendre la recherche vocale et s",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.8123,
+      "status": "OK",
+      "best_chunk": "Recherche vocale SEO : guide complet pour optimiser votre présence vocale Sommaire - Comprendre la recherche vocale et s",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7915,
+      "status": "OK",
+      "best_chunk": "Recherche vocale SEO : guide complet pour optimiser votre présence vocale Sommaire - Comprendre la recherche vocale et s",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 07:44",
+  "quotability": {
+    "score": 0.4941,
+    "top10_mean": 0.6174,
+    "n_passages": 66,
+    "assertiveness": 0.995,
+    "information_density": 0.307,
+    "optimal_length": 0.897,
+    "self_containedness": 0.362,
+    "top_passages": [
+      {
+        "passage": "Le marché du GEO (Generative Engine Optimization) pèse 886 millions de dollars en 2024 et devrait at",
+        "quotability": 0.6958,
+        "assertiveness": 0.7,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.4,
+        "novelty": 0.604
+      },
+      {
+        "passage": "- Sections HowTo balisées avec schema markup pour les contenus tutoriels.",
+        "quotability": 0.6711,
+        "assertiveness": 1.0,
+        "information_density": 0.545,
+        "optimal_length": 0.917,
+        "self_containedness": 0.646,
+        "novelty": 0.496
+      },
+      {
+        "passage": "Ajoutez les balises schema.org (FAQ, HowTo, LocalBusiness), assurez un temps de chargement mobile so",
+        "quotability": 0.6623,
+        "assertiveness": 1.0,
+        "information_density": 0.72,
+        "optimal_length": 1.0,
+        "self_containedness": 0.563,
+        "novelty": 0.316
+      }
+    ]
+  }
+}

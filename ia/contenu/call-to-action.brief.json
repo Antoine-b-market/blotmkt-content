@@ -1,0 +1,89 @@
+{
+  "keyword": "Call to action",
+  "intention": "informationnelle",
+  "titre_h1": "Call to action : le guide ultime pour convertir vos prospects",
+  "meta_description": "Maîtrisez le Call to Action (CTA) et transformez vos visiteurs en clients. Exemples concrets, conseils d'experts et stratégies éprouvées.",
+  "angle_editorial": "Transformer chaque bouton en moteur de conversion : fondements, types, création, tests et alternatives.",
+  "query_fanout": [
+    "Comment rendre un CTA irrésistible ?",
+    "Quels sont les meilleurs emplacements pour un CTA ?",
+    "Comment mesurer l'efficacité d'un CTA ?",
+    "Quelles sont les alternatives aux CTA traditionnels ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce qu'un call to action (CTA) et pourquoi est-il crucial pour votre succès ?",
+      "type": "definition",
+      "points_cles": [
+        "Définition précise du CTA et son rôle dans la conversion",
+        "Importance du CTA pour guider l'utilisateur et augmenter le taux de conversion"
+      ]
+    },
+    {
+      "h2": "Les différents types de call to action : choisir le bon en fonction de votre objectif",
+      "type": "usage",
+      "points_cles": [
+        "CTA textuels, visuels et contextuels : caractéristiques et exemples",
+        "Adaptation du type de CTA à l'étape du parcours utilisateur et à l'objectif marketing"
+      ]
+    },
+    {
+      "h2": "Créer un call to action irrésistible : les éléments clés d'un CTA performant",
+      "type": "technique",
+      "points_cles": [
+        "Utilisation de verbes d'action percutants et d'un langage axé sur les bénéfices",
+        "Importance du design, de la couleur et de la taille du CTA pour attirer l'attention"
+      ]
+    },
+    {
+      "h2": "Coût et ROI du call to action : justifier l'investissement",
+      "type": "preuve",
+      "points_cles": [
+        "Statistiques et études de cas démontrant l'impact des CTA sur le ROI",
+        "Méthodes de calcul du ROI des CTA et de suivi des performances"
+      ]
+    },
+    {
+      "h2": "Tester et optimiser vos call to action : une démarche indispensable",
+      "type": "technique",
+      "points_cles": [
+        "Méthodes de test A/B pour identifier les CTA les plus performants",
+        "Outils et techniques d'optimisation des CTA : suivi des clics, heatmaps, etc."
+      ]
+    },
+    {
+      "h2": "Alternatives au call to action traditionnel : explorer de nouvelles approches",
+      "type": "comparaison",
+      "points_cles": [
+        "Lead magnets, chatbots, storytelling narratif : description et avantages",
+        "Cas d'utilisation de ces alternatives et comparaison avec les CTA classiques"
+      ]
+    },
+    {
+      "h2": "Questions fréquentes",
+      "type": "faq",
+      "points_cles": [
+        "Réponses aux questions courantes sur les CTA",
+        "Conseils rapides et astuces pour optimiser ses CTA"
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "bouton d'appel à l'action",
+    "taux de conversion",
+    "landing page",
+    "marketing digital",
+    "ux design"
+  ],
+  "questions_paa": [
+    "Comment créer un call to action qui convertit ?",
+    "Quels sont les erreurs à éviter dans un call to action ?",
+    "Comment tester l'efficacité d'un call to action ?",
+    "Où placer un call to action sur une page web ?"
+  ],
+  "ton": "pratique",
+  "longueur_cible": 950,
+  "category": "contenu",
+  "lang": "fr",
+  "slug": "call-to-action"
+}

@@ -1,0 +1,85 @@
+{
+  "score_global": 0.7722,
+  "atomic_proof_score": 0.45,
+  "mmr_score": 0.2819,
+  "kl_divergence": 0.3295,
+  "verdict": "OK",
+  "weak_axes": [],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7825,
+      "status": "OK",
+      "best_chunk": "Le SEO e-commerce offre un ROI de 317 % avec un retour sur investissement positif en 6 à 12 mois. - Les données structur",
+      "chunk_index": 1
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7951,
+      "status": "OK",
+      "best_chunk": "SEO e-commerce : booster vos ventes en ligne en 2026 Sommaire - Comprendre le SEO e-commerce : définition et enjeux clés",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7653,
+      "status": "OK",
+      "best_chunk": "SEO e-commerce : booster vos ventes en ligne en 2026 Sommaire - Comprendre le SEO e-commerce : définition et enjeux clés",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7926,
+      "status": "OK",
+      "best_chunk": "Le SEO e-commerce offre un ROI de 317 % avec un retour sur investissement positif en 6 à 12 mois. - Les données structur",
+      "chunk_index": 1
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7771,
+      "status": "OK",
+      "best_chunk": "SEO e-commerce : booster vos ventes en ligne en 2026 Sommaire - Comprendre le SEO e-commerce : définition et enjeux clés",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 14:37",
+  "quotability": {
+    "score": 0.489,
+    "top10_mean": 0.6411,
+    "n_passages": 85,
+    "assertiveness": 1.0,
+    "information_density": 0.294,
+    "optimal_length": 0.866,
+    "self_containedness": 0.373,
+    "top_passages": [
+      {
+        "passage": "Les seuils à respecter : LCP sous 2,5 secondes, INP sous 200 ms, CLS sous 0,1.",
+        "quotability": 0.7561,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.612,
+        "novelty": 0.363
+      },
+      {
+        "passage": "L'optimisation on-page couvre les balises title (cible : 50-60 caractères), les méta-descriptions (1",
+        "quotability": 0.6987,
+        "assertiveness": 1.0,
+        "information_density": 0.955,
+        "optimal_length": 1.0,
+        "self_containedness": 0.403,
+        "novelty": 0.446
+      },
+      {
+        "passage": "- Erreurs courantes en SEO e-commerce et comment les éviter\n- Questions fréquentes sur le SEO e-comm",
+        "quotability": 0.6815,
+        "assertiveness": 1.0,
+        "information_density": 0.72,
+        "optimal_length": 1.0,
+        "self_containedness": 0.697,
+        "novelty": 0.211
+      }
+    ]
+  }
+}

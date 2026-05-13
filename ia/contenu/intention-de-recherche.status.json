@@ -1,0 +1,73 @@
+{
+  "version": "2",
+  "slug": "intention-de-recherche",
+  "category": "contenu",
+  "keyword": "Intention de recherche",
+  "title": "Intention de recherche: guide complet pour un seo performant",
+  "status": "published",
+  "fix_type": null,
+  "fix_target": null,
+  "stale": false,
+  "stale_since": null,
+  "created_at": "2026-05-06T03:34:53.930775Z",
+  "updated_at": "2026-05-13T05:34:57.568971+00:00",
+  "scores": {
+    "qfo_global": {
+      "value": 0.63,
+      "threshold": 0.72,
+      "direction": "higher_better",
+      "passed": false,
+      "blocking": true
+    },
+    "quotability": {
+      "value": 0.4741,
+      "threshold": 0.45,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "chunk_diversity": {
+      "value": 0.9957,
+      "threshold": 0.86,
+      "direction": "lower_better",
+      "passed": false,
+      "blocking": true
+    },
+    "atomic_proof": {
+      "value": 0.55,
+      "threshold": 0.35,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "semantic_density": {
+      "value": 0.367,
+      "threshold": 0.3,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "information_gain": {
+      "value": 0.1608,
+      "threshold": 0.15,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "perplexity_variance": {
+      "value": 0.2003,
+      "threshold": 0.12,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "entity_alignment": {
+      "value": 0.7706,
+      "threshold": 0.55,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": false
+    }
+  },
+  "fix_history": []
+}

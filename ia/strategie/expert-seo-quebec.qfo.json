@@ -1,0 +1,91 @@
+{
+  "score_global": 0.7175,
+  "atomic_proof_score": 0.233,
+  "mmr_score": 0.3044,
+  "kl_divergence": 0.3229,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7152,
+      "status": "FAIL",
+      "best_chunk": "le trafic organique et les conversions se consolide entre le 4e et le 9e mois. Le SEO local Québec peut progresser plus ",
+      "chunk_index": 5
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7222,
+      "status": "FAIL",
+      "best_chunk": "Expert SEO Québec : comment choisir le bon en 2026 ? Sommaire - Qu'est-ce qu'un expert SEO et pourquoi est-ce essentiel ",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7343,
+      "status": "FAIL",
+      "best_chunk": "le trafic organique et les conversions se consolide entre le 4e et le 9e mois. Le SEO local Québec peut progresser plus ",
+      "chunk_index": 5
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7312,
+      "status": "FAIL",
+      "best_chunk": "le trafic organique et les conversions se consolide entre le 4e et le 9e mois. Le SEO local Québec peut progresser plus ",
+      "chunk_index": 5
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7136,
+      "status": "FAIL",
+      "best_chunk": "le trafic organique et les conversions se consolide entre le 4e et le 9e mois. Le SEO local Québec peut progresser plus ",
+      "chunk_index": 5
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 10:19",
+  "quotability": {
+    "score": 0.5061,
+    "top10_mean": 0.6611,
+    "n_passages": 78,
+    "assertiveness": 1.0,
+    "information_density": 0.362,
+    "optimal_length": 0.891,
+    "self_containedness": 0.372,
+    "top_passages": [
+      {
+        "passage": "Sources : Malt Baromètre Tarifs Consultants SEO 2026 ; La Fabrique du Net, analyse des tarifs agence",
+        "quotability": 0.7623,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 0.68,
+        "self_containedness": 0.802,
+        "novelty": 0.269
+      },
+      {
+        "passage": "- Les compétences clés d'un expert SEO au Québec en 2026\n- Expert SEO vs agence SEO au Québec : quel",
+        "quotability": 0.7274,
+        "assertiveness": 1.0,
+        "information_density": 0.923,
+        "optimal_length": 0.96,
+        "self_containedness": 0.798,
+        "novelty": 0.056
+      },
+      {
+        "passage": "Les compétences clés d'un expert SEO au Québec en 2026\n\nUn consultant SEO Montréal compétent maîtris",
+        "quotability": 0.7107,
+        "assertiveness": 1.0,
+        "information_density": 0.789,
+        "optimal_length": 1.0,
+        "self_containedness": 0.793,
+        "novelty": 0.127
+      }
+    ]
+  }
+}

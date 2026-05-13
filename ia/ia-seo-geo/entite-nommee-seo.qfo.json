@@ -1,0 +1,91 @@
+{
+  "score_global": 0.6996,
+  "atomic_proof_score": 0.1,
+  "mmr_score": 0.2413,
+  "kl_divergence": 0.4513,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7296,
+      "status": "FAIL",
+      "best_chunk": "Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité Sommaire - Qu'est-ce qu'une entité nommée en SEO ? - C",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7256,
+      "status": "FAIL",
+      "best_chunk": "Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité Sommaire - Qu'est-ce qu'une entité nommée en SEO ? - C",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7001,
+      "status": "FAIL",
+      "best_chunk": "Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité Sommaire - Qu'est-ce qu'une entité nommée en SEO ? - C",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.6911,
+      "status": "FAIL",
+      "best_chunk": "Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité Sommaire - Qu'est-ce qu'une entité nommée en SEO ? - C",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7152,
+      "status": "FAIL",
+      "best_chunk": "Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité Sommaire - Qu'est-ce qu'une entité nommée en SEO ? - C",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 08:34",
+  "quotability": {
+    "score": 0.4806,
+    "top10_mean": 0.6136,
+    "n_passages": 77,
+    "assertiveness": 1.0,
+    "information_density": 0.265,
+    "optimal_length": 0.861,
+    "self_containedness": 0.367,
+    "top_passages": [
+      {
+        "passage": "Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité\n\nSommaire\n- Qu'est-ce qu'une entit",
+        "quotability": 0.7628,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.685,
+        "novelty": 0.286
+      },
+      {
+        "passage": "Les types Schema les plus importants incluent Organization/LocalBusiness, Product et Article/BlogPos",
+        "quotability": 0.6738,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 0.917,
+        "self_containedness": 0.332,
+        "novelty": 0.413
+      },
+      {
+        "passage": "Les LLMs - ChatGPT, Gemini, Perplexity, Claude - ont intégré une version du Knowledge Graph dans leu",
+        "quotability": 0.6463,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.188,
+        "novelty": 0.45
+      }
+    ]
+  }
+}

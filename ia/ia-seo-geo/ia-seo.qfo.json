@@ -1,0 +1,91 @@
+{
+  "score_global": 0.6852,
+  "atomic_proof_score": 0.475,
+  "mmr_score": 0.2806,
+  "kl_divergence": 0.4045,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7071,
+      "status": "FAIL",
+      "best_chunk": "son SEO ? {#comment-utiliser-concretement-lia-pour-optimiser-son-seo} Quatre étapes structurent une intégration efficace",
+      "chunk_index": 2
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7095,
+      "status": "FAIL",
+      "best_chunk": "son SEO ? {#comment-utiliser-concretement-lia-pour-optimiser-son-seo} Quatre étapes structurent une intégration efficace",
+      "chunk_index": 2
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.6922,
+      "status": "FAIL",
+      "best_chunk": "un SEO augmenté ? {#lavenir-de-lia-seo-vers-un-seo-augmente} Le SEO augmenté n'est pas un horizon lointain : il est déjà",
+      "chunk_index": 3
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.6987,
+      "status": "FAIL",
+      "best_chunk": "un SEO augmenté ? {#lavenir-de-lia-seo-vers-un-seo-augmente} Le SEO augmenté n'est pas un horizon lointain : il est déjà",
+      "chunk_index": 3
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.6774,
+      "status": "FAIL",
+      "best_chunk": "un SEO augmenté ? {#lavenir-de-lia-seo-vers-un-seo-augmente} Le SEO augmenté n'est pas un horizon lointain : il est déjà",
+      "chunk_index": 3
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 08:45",
+  "quotability": {
+    "score": 0.4978,
+    "top10_mean": 0.6682,
+    "n_passages": 78,
+    "assertiveness": 0.996,
+    "information_density": 0.304,
+    "optimal_length": 0.883,
+    "self_containedness": 0.406,
+    "top_passages": [
+      {
+        "passage": "Alternatives à l'IA pour le SEO {#alternatives-a-lia-pour-le-seo}\n\nTrois alternatives coexistent ave",
+        "quotability": 0.7532,
+        "assertiveness": 1.0,
+        "information_density": 0.692,
+        "optimal_length": 1.0,
+        "self_containedness": 0.997,
+        "novelty": 0.154
+      },
+      {
+        "passage": "- Alternatives à l'IA pour le SEO\n- L'avenir de l'IA SEO : vers un SEO augmenté ?",
+        "quotability": 0.7503,
+        "assertiveness": 1.0,
+        "information_density": 0.833,
+        "optimal_length": 1.0,
+        "self_containedness": 0.954,
+        "novelty": 0.029
+      },
+      {
+        "passage": "Questions fréquentes {#questions-frequentes}\n\nL'IA SEO peut-elle remplacer les experts SEO ?",
+        "quotability": 0.6902,
+        "assertiveness": 1.0,
+        "information_density": 0.818,
+        "optimal_length": 0.917,
+        "self_containedness": 0.718,
+        "novelty": 0.143
+      }
+    ]
+  }
+}

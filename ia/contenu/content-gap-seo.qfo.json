@@ -1,0 +1,85 @@
+{
+  "score_global": 0.8031,
+  "atomic_proof_score": 0.392,
+  "mmr_score": 0.3276,
+  "kl_divergence": 0.2545,
+  "verdict": "OK",
+  "weak_axes": [],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7996,
+      "status": "OK",
+      "best_chunk": "Content gap seo : comment identifier et combler les manques de contenu Sommaire - Qu'est-ce qu'un content gap en SEO ? -",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.8135,
+      "status": "OK",
+      "best_chunk": "Content gap seo : comment identifier et combler les manques de contenu Sommaire - Qu'est-ce qu'un content gap en SEO ? -",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.8027,
+      "status": "OK",
+      "best_chunk": "Content gap seo : comment identifier et combler les manques de contenu Sommaire - Qu'est-ce qu'un content gap en SEO ? -",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.8167,
+      "status": "OK",
+      "best_chunk": "gap SEO reste pertinent : environ 90 % des pages web ne génèrent aucun trafic organique depuis Google. - Mesurez le ROI ",
+      "chunk_index": 1
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.8097,
+      "status": "OK",
+      "best_chunk": "gap SEO reste pertinent : environ 90 % des pages web ne génèrent aucun trafic organique depuis Google. - Mesurez le ROI ",
+      "chunk_index": 1
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 04:56",
+  "quotability": {
+    "score": 0.478,
+    "top10_mean": 0.623,
+    "n_passages": 74,
+    "assertiveness": 1.0,
+    "information_density": 0.182,
+    "optimal_length": 0.937,
+    "self_containedness": 0.404,
+    "top_passages": [
+      {
+        "passage": "L'utilisation d'objectifs SMART (Specific, Measurable, Achievable, Relevant, Time-bound) reste un ex",
+        "quotability": 0.7217,
+        "assertiveness": 1.0,
+        "information_density": 0.938,
+        "optimal_length": 1.0,
+        "self_containedness": 0.487,
+        "novelty": 0.455
+      },
+      {
+        "passage": "Outils gratuits accessibles :\n\nGoogle Search Console, Ubersuggest ou Answer The Public peuvent donne",
+        "quotability": 0.7147,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.393,
+        "novelty": 0.484
+      },
+      {
+        "passage": "Content gap seo : comment identifier et combler les manques de contenu\n\nSommaire\n- Qu'est-ce qu'un c",
+        "quotability": 0.6689,
+        "assertiveness": 1.0,
+        "information_density": 0.429,
+        "optimal_length": 1.0,
+        "self_containedness": 0.966,
+        "novelty": 0.109
+      }
+    ]
+  }
+}

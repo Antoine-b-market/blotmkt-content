@@ -1,0 +1,91 @@
+{
+  "score_global": 0.4716,
+  "atomic_proof_score": 0.475,
+  "mmr_score": 0.0825,
+  "kl_divergence": 0.6615,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.491,
+      "status": "FAIL",
+      "best_chunk": "et des faits vérifiables. Un balisage structuré avec des types comme ListItem ou DefinedTerm facilite l'extraction et la",
+      "chunk_index": 2
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.5272,
+      "status": "FAIL",
+      "best_chunk": "et des faits vérifiables. Un balisage structuré avec des types comme ListItem ou DefinedTerm facilite l'extraction et la",
+      "chunk_index": 2
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.4517,
+      "status": "FAIL",
+      "best_chunk": "et des faits vérifiables. Un balisage structuré avec des types comme ListItem ou DefinedTerm facilite l'extraction et la",
+      "chunk_index": 2
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.5264,
+      "status": "FAIL",
+      "best_chunk": "et des faits vérifiables. Un balisage structuré avec des types comme ListItem ou DefinedTerm facilite l'extraction et la",
+      "chunk_index": 2
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.5107,
+      "status": "FAIL",
+      "best_chunk": "et des faits vérifiables. Un balisage structuré avec des types comme ListItem ou DefinedTerm facilite l'extraction et la",
+      "chunk_index": 2
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 06:59",
+  "quotability": {
+    "score": 0.508,
+    "top10_mean": 0.6853,
+    "n_passages": 88,
+    "assertiveness": 0.997,
+    "information_density": 0.327,
+    "optimal_length": 0.904,
+    "self_containedness": 0.369,
+    "top_passages": [
+      {
+        "passage": "Sources : mintavocado.com (janvier 2026), adnovae.com (septembre 2025), pixfeed.net (octobre 2025), ",
+        "quotability": 0.7982,
+        "assertiveness": 1.0,
+        "information_density": 0.923,
+        "optimal_length": 0.96,
+        "self_containedness": 0.759,
+        "novelty": 0.468
+      },
+      {
+        "passage": "Générer le code avec un outil comme le générateur Google ou Merkle Schema Markup Generator.",
+        "quotability": 0.7225,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.459,
+        "novelty": 0.425
+      },
+      {
+        "passage": "Pour les blogs : Article et BlogPosting avec les données auteur.",
+        "quotability": 0.7024,
+        "assertiveness": 1.0,
+        "information_density": 0.545,
+        "optimal_length": 0.917,
+        "self_containedness": 0.779,
+        "novelty": 0.453
+      }
+    ]
+  }
+}

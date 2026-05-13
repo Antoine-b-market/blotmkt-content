@@ -1,0 +1,89 @@
+{
+  "score_global": 0.7413,
+  "atomic_proof_score": 0.35,
+  "mmr_score": 0.1421,
+  "kl_divergence": 0.494,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "prerequis",
+    "cas_limite",
+    "validation"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7505,
+      "status": "OK",
+      "best_chunk": "Agence GEO Montréal : dominez le search IA et local en 2026 Sommaire - Qu'est-ce que l'optimisation GEO et son importanc",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.737,
+      "status": "FAIL",
+      "best_chunk": "Agence GEO Montréal : dominez le search IA et local en 2026 Sommaire - Qu'est-ce que l'optimisation GEO et son importanc",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7474,
+      "status": "FAIL",
+      "best_chunk": "Agence GEO Montréal : dominez le search IA et local en 2026 Sommaire - Qu'est-ce que l'optimisation GEO et son importanc",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7497,
+      "status": "FAIL",
+      "best_chunk": "Agence GEO Montréal : dominez le search IA et local en 2026 Sommaire - Qu'est-ce que l'optimisation GEO et son importanc",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7542,
+      "status": "OK",
+      "best_chunk": "Agence GEO Montréal : dominez le search IA et local en 2026 Sommaire - Qu'est-ce que l'optimisation GEO et son importanc",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 14:53",
+  "quotability": {
+    "score": 0.4915,
+    "top10_mean": 0.6158,
+    "n_passages": 64,
+    "assertiveness": 1.0,
+    "information_density": 0.346,
+    "optimal_length": 0.842,
+    "self_containedness": 0.364,
+    "top_passages": [
+      {
+        "passage": "Agence GEO Montréal : dominez le search IA et local en 2026\n\nSommaire\n- Qu'est-ce que l'optimisation",
+        "quotability": 0.7067,
+        "assertiveness": 1.0,
+        "information_density": 0.84,
+        "optimal_length": 1.0,
+        "self_containedness": 0.74,
+        "novelty": 0.124
+      },
+      {
+        "passage": "Le ROI se mesure sur 6 à 12 mois.",
+        "quotability": 0.6771,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 0.75,
+        "self_containedness": 0.319,
+        "novelty": 0.532
+      },
+      {
+        "passage": "Foire aux questions : tout savoir sur l'agence GEO à Montréal {#questions-frequentes}\n\nQu'est-ce que",
+        "quotability": 0.6678,
+        "assertiveness": 1.0,
+        "information_density": 0.652,
+        "optimal_length": 1.0,
+        "self_containedness": 0.767,
+        "novelty": 0.124
+      }
+    ]
+  }
+}

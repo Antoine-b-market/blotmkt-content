@@ -1,0 +1,90 @@
+{
+  "score_global": 0.7346,
+  "atomic_proof_score": 0.3,
+  "mmr_score": 0.2974,
+  "kl_divergence": 0.3128,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7286,
+      "status": "FAIL",
+      "best_chunk": "SEO local : guide 2026 pour booster votre visibilité Sommaire - Comprendre l'évolution du SEO local en 2026 : l'ère de l",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7568,
+      "status": "OK",
+      "best_chunk": "SEO local : guide 2026 pour booster votre visibilité Sommaire - Comprendre l'évolution du SEO local en 2026 : l'ère de l",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7373,
+      "status": "FAIL",
+      "best_chunk": "SEO local : guide 2026 pour booster votre visibilité Sommaire - Comprendre l'évolution du SEO local en 2026 : l'ère de l",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7466,
+      "status": "FAIL",
+      "best_chunk": "SEO local : guide 2026 pour booster votre visibilité Sommaire - Comprendre l'évolution du SEO local en 2026 : l'ère de l",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7491,
+      "status": "FAIL",
+      "best_chunk": "SEO local : guide 2026 pour booster votre visibilité Sommaire - Comprendre l'évolution du SEO local en 2026 : l'ère de l",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 07:52",
+  "quotability": {
+    "score": 0.4966,
+    "top10_mean": 0.628,
+    "n_passages": 65,
+    "assertiveness": 1.0,
+    "information_density": 0.32,
+    "optimal_length": 0.859,
+    "self_containedness": 0.355,
+    "top_passages": [
+      {
+        "passage": "Depuis l'intégration des AI Overviews dans les résultats Google, une nouvelle discipline s'impose : ",
+        "quotability": 0.6624,
+        "assertiveness": 1.0,
+        "information_density": 0.789,
+        "optimal_length": 1.0,
+        "self_containedness": 0.469,
+        "novelty": 0.372
+      },
+      {
+        "passage": "<!-- speakable:start --\n\n\n\n\n\n\n\nComprendre l'évolution du SEO local en 2026 : l'ère de la GEO {#compr",
+        "quotability": 0.6619,
+        "assertiveness": 1.0,
+        "information_density": 0.667,
+        "optimal_length": 0.92,
+        "self_containedness": 0.7,
+        "novelty": 0.216
+      },
+      {
+        "passage": "Vos concurrents occupent le Local Pack et captent des clients qui vous cherchaient, vous.",
+        "quotability": 0.6479,
+        "assertiveness": 1.0,
+        "information_density": 0.429,
+        "optimal_length": 1.0,
+        "self_containedness": 0.61,
+        "novelty": 0.538
+      }
+    ]
+  }
+}

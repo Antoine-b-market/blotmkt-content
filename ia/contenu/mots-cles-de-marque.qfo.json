@@ -1,0 +1,91 @@
+{
+  "score_global": 0.5759,
+  "atomic_proof_score": 0.322,
+  "mmr_score": 0.19,
+  "kl_divergence": 0.4708,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.5971,
+      "status": "FAIL",
+      "best_chunk": "- Identifier ses brand keywords passe par Google Search Console, filtré sur les requêtes contenant le nom de marque. - L",
+      "chunk_index": 1
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.609,
+      "status": "FAIL",
+      "best_chunk": "Se concentrer sur les branding keywords est une stratégie commerciale qui impacte le chiffre d'affaires et les coûts d'a",
+      "chunk_index": 8
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.5618,
+      "status": "FAIL",
+      "best_chunk": "Se concentrer sur les branding keywords est une stratégie commerciale qui impacte le chiffre d'affaires et les coûts d'a",
+      "chunk_index": 8
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.5827,
+      "status": "FAIL",
+      "best_chunk": "- Identifier ses brand keywords passe par Google Search Console, filtré sur les requêtes contenant le nom de marque. - L",
+      "chunk_index": 1
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.6348,
+      "status": "FAIL",
+      "best_chunk": "marque naturellement dans les balises title, les H1 et les introductions. Déclarez votre entité avec les balisages Schem",
+      "chunk_index": 6
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 05:24",
+  "quotability": {
+    "score": 0.4596,
+    "top10_mean": 0.6106,
+    "n_passages": 102,
+    "assertiveness": 0.997,
+    "information_density": 0.183,
+    "optimal_length": 0.88,
+    "self_containedness": 0.38,
+    "top_passages": [
+      {
+        "passage": "Pour une page d'accueil, \"BlotMKT - Agence SEO et GEO à Montréal\" surpasse \"Agence SEO à Montréal | ",
+        "quotability": 0.7711,
+        "assertiveness": 1.0,
+        "information_density": 0.84,
+        "optimal_length": 1.0,
+        "self_containedness": 0.821,
+        "novelty": 0.323
+      },
+      {
+        "passage": "Dans ma pratique, un audit Schema.org incomplet est la cause no 1 des Knowledge Panels mal renseigné",
+        "quotability": 0.6524,
+        "assertiveness": 1.0,
+        "information_density": 0.706,
+        "optimal_length": 1.0,
+        "self_containedness": 0.374,
+        "novelty": 0.568
+      },
+      {
+        "passage": "Sources : Ahrefs Brand Traffic Study (via valetudo.io, 2026) ; Semrush, Branded vs Non-Branded Keywo",
+        "quotability": 0.6411,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 0.0,
+        "self_containedness": 0.586,
+        "novelty": 0.326
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "score_global": 0.5554,
+  "atomic_proof_score": 0.294,
+  "mmr_score": 0.1378,
+  "kl_divergence": 0.4889,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.567,
+      "status": "FAIL",
+      "best_chunk": "Architecture de site web : guide complet pour un SEO performant en 2026 Sommaire - Qu'est-ce que l'architecture de site ",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.5705,
+      "status": "FAIL",
+      "best_chunk": "Architecture de site web : guide complet pour un SEO performant en 2026 Sommaire - Qu'est-ce que l'architecture de site ",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.5493,
+      "status": "FAIL",
+      "best_chunk": "Architecture de site web : guide complet pour un SEO performant en 2026 Sommaire - Qu'est-ce que l'architecture de site ",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.559,
+      "status": "FAIL",
+      "best_chunk": "pour cartographier la profondeur de navigation et détecter les pages orphelines. Google Search Console révèle les erreur",
+      "chunk_index": 6
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.577,
+      "status": "FAIL",
+      "best_chunk": "Architecture de site web : guide complet pour un SEO performant en 2026 Sommaire - Qu'est-ce que l'architecture de site ",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 15:27",
+  "quotability": {
+    "score": 0.4757,
+    "top10_mean": 0.5968,
+    "n_passages": 102,
+    "assertiveness": 1.0,
+    "information_density": 0.216,
+    "optimal_length": 0.915,
+    "self_containedness": 0.39,
+    "top_passages": [
+      {
+        "passage": "J'ajoute systématiquement une vérification du Rich Results Test de Schema.org après chaque modificat",
+        "quotability": 0.6795,
+        "assertiveness": 1.0,
+        "information_density": 0.8,
+        "optimal_length": 1.0,
+        "self_containedness": 0.505,
+        "novelty": 0.39
+      },
+      {
+        "passage": "Suivi et amélioration continue : Google Search Console et Analytics {#suivi-amelioration-continue}\n\n",
+        "quotability": 0.6371,
+        "assertiveness": 1.0,
+        "information_density": 0.789,
+        "optimal_length": 1.0,
+        "self_containedness": 0.459,
+        "novelty": 0.261
+      },
+      {
+        "passage": "Architecture de site web : guide complet pour un SEO performant en 2026\n\nSommaire\n- Qu'est-ce que l'",
+        "quotability": 0.6363,
+        "assertiveness": 1.0,
+        "information_density": 0.517,
+        "optimal_length": 0.84,
+        "self_containedness": 0.796,
+        "novelty": 0.171
+      }
+    ]
+  }
+}

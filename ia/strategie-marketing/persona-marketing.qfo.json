@@ -1,0 +1,31 @@
+{
+  "score_global": null,
+  "atomic_proof_score": null,
+  "mmr_score": null,
+  "kl_divergence": null,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [],
+  "axes": {},
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 15:04",
+  "quotability": {
+    "score": 0.6867,
+    "top10_mean": 0.6867,
+    "n_passages": 1,
+    "assertiveness": 1.0,
+    "information_density": 0.712,
+    "optimal_length": 0.0,
+    "self_containedness": 0.729,
+    "top_passages": [
+      {
+        "passage": "Articles connexes\n\n- core web vitals : maîtriser l'expérience utilisateur et votre seo\n- Erreurs 404",
+        "quotability": 0.6867,
+        "assertiveness": 1.0,
+        "information_density": 0.712,
+        "optimal_length": 0.0,
+        "self_containedness": 0.729,
+        "novelty": 0.7
+      }
+    ]
+  }
+}

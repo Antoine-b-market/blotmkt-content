@@ -1,0 +1,85 @@
+{
+  "score_global": 0.8158,
+  "atomic_proof_score": 0.436,
+  "mmr_score": 0.2914,
+  "kl_divergence": 0.3305,
+  "verdict": "OK",
+  "weak_axes": [],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.8263,
+      "status": "OK",
+      "best_chunk": "SEO pour startup : guide complet pour booster votre visibilité et vos ventes Sommaire - Pourquoi le SEO est un pilier de",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.8346,
+      "status": "OK",
+      "best_chunk": "SEO pour startup : guide complet pour booster votre visibilité et vos ventes Sommaire - Pourquoi le SEO est un pilier de",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.8121,
+      "status": "OK",
+      "best_chunk": "SEO pour startup : guide complet pour booster votre visibilité et vos ventes Sommaire - Pourquoi le SEO est un pilier de",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.8147,
+      "status": "OK",
+      "best_chunk": "SEO pour startup : guide complet pour booster votre visibilité et vos ventes Sommaire - Pourquoi le SEO est un pilier de",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.819,
+      "status": "OK",
+      "best_chunk": "SEO pour startup : guide complet pour booster votre visibilité et vos ventes Sommaire - Pourquoi le SEO est un pilier de",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 14:42",
+  "quotability": {
+    "score": 0.4935,
+    "top10_mean": 0.6638,
+    "n_passages": 88,
+    "assertiveness": 1.0,
+    "information_density": 0.275,
+    "optimal_length": 0.886,
+    "self_containedness": 0.376,
+    "top_passages": [
+      {
+        "passage": "Les 6 piliers fondamentaux d'une stratégie SEO réussie pour startup {#les-6-piliers-fondamentaux}\n\nT",
+        "quotability": 0.7424,
+        "assertiveness": 1.0,
+        "information_density": 0.75,
+        "optimal_length": 1.0,
+        "self_containedness": 0.756,
+        "novelty": 0.391
+      },
+      {
+        "passage": "SEO pour startup en 2026 : IA, LLM et données structurées au service de votre croissance {#seo-2026-",
+        "quotability": 0.7024,
+        "assertiveness": 1.0,
+        "information_density": 0.75,
+        "optimal_length": 0.88,
+        "self_containedness": 0.731,
+        "novelty": 0.288
+      },
+      {
+        "passage": "Les 3 premiers résultats obtiennent 54,4 % des clics, dont 27,6 % pour la première place.",
+        "quotability": 0.6666,
+        "assertiveness": 1.0,
+        "information_density": 0.562,
+        "optimal_length": 1.0,
+        "self_containedness": 0.614,
+        "novelty": 0.459
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "score_global": 0.3607,
+  "atomic_proof_score": 0.0,
+  "mmr_score": 0.2877,
+  "kl_divergence": 0.656,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.3501,
+      "status": "FAIL",
+      "best_chunk": "User-agent: GPTBot Disallow: / User-agent: ClaudeBot Disallow: /",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.3822,
+      "status": "FAIL",
+      "best_chunk": "User-agent: GPTBot Disallow: / User-agent: ClaudeBot Disallow: /",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.411,
+      "status": "FAIL",
+      "best_chunk": "User-agent: GPTBot Disallow: / User-agent: ClaudeBot Disallow: /",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.3612,
+      "status": "FAIL",
+      "best_chunk": "User-agent: GPTBot Disallow: / User-agent: ClaudeBot Disallow: /",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.378,
+      "status": "FAIL",
+      "best_chunk": "User-agent: GPTBot Disallow: / User-agent: ClaudeBot Disallow: /",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 15:53",
+  "quotability": {
+    "score": 0.0,
+    "top10_mean": 0.0,
+    "n_passages": 0,
+    "assertiveness": 0.0,
+    "information_density": 0.0,
+    "optimal_length": 0.0,
+    "self_containedness": 0.0,
+    "top_passages": []
+  }
+}

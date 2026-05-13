@@ -1,0 +1,85 @@
+{
+  "score_global": 0.828,
+  "atomic_proof_score": 0.425,
+  "mmr_score": 0.3283,
+  "kl_divergence": 0.2736,
+  "verdict": "OK",
+  "weak_axes": [],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.8243,
+      "status": "OK",
+      "best_chunk": "Rentabilité SEO : comment mesurer et optimiser son impact financier Sommaire - Rentabilité SEO : au-delà du classement, ",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.8418,
+      "status": "OK",
+      "best_chunk": "Rentabilité SEO : comment mesurer et optimiser son impact financier Sommaire - Rentabilité SEO : au-delà du classement, ",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.8264,
+      "status": "OK",
+      "best_chunk": "Rentabilité SEO : comment mesurer et optimiser son impact financier Sommaire - Rentabilité SEO : au-delà du classement, ",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.8425,
+      "status": "OK",
+      "best_chunk": "Rentabilité SEO : comment mesurer et optimiser son impact financier Sommaire - Rentabilité SEO : au-delà du classement, ",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.8331,
+      "status": "OK",
+      "best_chunk": "Rentabilité SEO : comment mesurer et optimiser son impact financier Sommaire - Rentabilité SEO : au-delà du classement, ",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 14:31",
+  "quotability": {
+    "score": 0.4884,
+    "top10_mean": 0.6441,
+    "n_passages": 70,
+    "assertiveness": 1.0,
+    "information_density": 0.288,
+    "optimal_length": 0.853,
+    "self_containedness": 0.383,
+    "top_passages": [
+      {
+        "passage": "Les AI Overviews apparaissent dans environ 31 % des résultats (First Page Sage, 2026).",
+        "quotability": 0.7311,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.503,
+        "novelty": 0.401
+      },
+      {
+        "passage": "60 % des recherches Google génèrent zéro clic vers un site externe (Search Engine Land, 2025).",
+        "quotability": 0.7036,
+        "assertiveness": 1.0,
+        "information_density": 0.938,
+        "optimal_length": 1.0,
+        "self_containedness": 0.474,
+        "novelty": 0.386
+      },
+      {
+        "passage": "Mesurer le ROI SEO : KPI financiers et méthodes d'attribution {#mesurer-roi-seo-kpi-financiers}\n\nLa ",
+        "quotability": 0.6671,
+        "assertiveness": 1.0,
+        "information_density": 0.727,
+        "optimal_length": 0.68,
+        "self_containedness": 0.73,
+        "novelty": 0.241
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "version": "2",
+  "slug": "test-english",
+  "category": "ia",
+  "keyword": "test english",
+  "title": "Hreflang Implementation: Avoiding Mistakes and Advanced Use Cases",
+  "status": "pending_fix",
+  "fix_type": "fix_qfo",
+  "fix_target": {
+    "section": "Understanding hreflang: targeting the right audience {#understanding-hreflang}"
+  },
+  "stale": false,
+  "stale_since": null,
+  "created_at": "2026-05-11T03:12:48.719363Z",
+  "updated_at": "2026-05-11T19:41:34.159718Z",
+  "scores": {
+    "qfo_global": {
+      "value": null,
+      "threshold": 0.72,
+      "direction": "higher_better",
+      "passed": null,
+      "blocking": true
+    },
+    "quotability": {
+      "value": 0.4777,
+      "threshold": 0.45,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "chunk_diversity": {
+      "value": 0.7414,
+      "threshold": 0.86,
+      "direction": "lower_better",
+      "passed": true,
+      "blocking": true
+    },
+    "atomic_proof": {
+      "value": 0.17,
+      "threshold": 0.35,
+      "direction": "higher_better",
+      "passed": false,
+      "blocking": true
+    },
+    "semantic_density": {
+      "value": 0.4829,
+      "threshold": 0.3,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "information_gain": {
+      "value": 0.1555,
+      "threshold": 0.15,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "perplexity_variance": {
+      "value": 0.1941,
+      "threshold": 0.12,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "entity_alignment": {
+      "value": 0.4222,
+      "threshold": 0.55,
+      "direction": "higher_better",
+      "passed": false,
+      "blocking": false
+    }
+  },
+  "fix_history": [
+    {
+      "fix_type": "fix_qfo",
+      "model": "claude-sonnet-4-6",
+      "section_targeted": "Table of Contents",
+      "fixed_at": "2026-05-11T03:14:58.105865Z",
+      "scores_before": {
+        "qfo_global": null,
+        "quotability": 0.48,
+        "chunk_diversity": 0.7414,
+        "atomic_proof": 0.17,
+        "semantic_density": 0.4885,
+        "information_gain": 0.1626,
+        "perplexity_variance": 0.196,
+        "entity_alignment": null
+      },
+      "scores_after": {
+        "qfo_global": null,
+        "quotability": 0.4777,
+        "chunk_diversity": 0.7414,
+        "atomic_proof": 0.17,
+        "semantic_density": 0.4829,
+        "information_gain": 0.1555,
+        "perplexity_variance": 0.1941,
+        "entity_alignment": null
+      },
+      "result": "fail"
+    }
+  ]
+}

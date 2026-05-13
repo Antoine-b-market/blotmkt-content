@@ -1,0 +1,73 @@
+{
+  "version": "2",
+  "slug": "audit-seo-technique",
+  "category": "audit",
+  "keyword": "audit SEO technique",
+  "title": "Audit seo technique : le guide complet pour booster votre visibilité",
+  "status": "published",
+  "fix_type": null,
+  "fix_target": null,
+  "stale": false,
+  "stale_since": null,
+  "created_at": "2026-05-12T02:42:27.509300Z",
+  "updated_at": "2026-05-12T03:19:51.042397+00:00",
+  "scores": {
+    "qfo_global": {
+      "value": 0.7366,
+      "threshold": 0.72,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "quotability": {
+      "value": 0.4967,
+      "threshold": 0.45,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "chunk_diversity": {
+      "value": 0.8011,
+      "threshold": 0.86,
+      "direction": "lower_better",
+      "passed": true,
+      "blocking": true
+    },
+    "atomic_proof": {
+      "value": 0.6417,
+      "threshold": 0.35,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "semantic_density": {
+      "value": 0.4093,
+      "threshold": 0.3,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "information_gain": {
+      "value": 0.1715,
+      "threshold": 0.15,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "perplexity_variance": {
+      "value": 0.2108,
+      "threshold": 0.12,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "entity_alignment": {
+      "value": 0.6753,
+      "threshold": 0.55,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": false
+    }
+  },
+  "fix_history": []
+}

@@ -1,0 +1,91 @@
+{
+  "score_global": 0.7089,
+  "atomic_proof_score": 0.3,
+  "mmr_score": 0.2495,
+  "kl_divergence": 0.3851,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7095,
+      "status": "FAIL",
+      "best_chunk": ": rôle, objectif, mots-clés, ton, structure et exemples de contenus de référence. - Le ROI devient positif dès le deuxiè",
+      "chunk_index": 1
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7441,
+      "status": "FAIL",
+      "best_chunk": ": rôle, objectif, mots-clés, ton, structure et exemples de contenus de référence. - Le ROI devient positif dès le deuxiè",
+      "chunk_index": 1
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7018,
+      "status": "FAIL",
+      "best_chunk": ": rôle, objectif, mots-clés, ton, structure et exemples de contenus de référence. - Le ROI devient positif dès le deuxiè",
+      "chunk_index": 1
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7235,
+      "status": "FAIL",
+      "best_chunk": ": rôle, objectif, mots-clés, ton, structure et exemples de contenus de référence. - Le ROI devient positif dès le deuxiè",
+      "chunk_index": 1
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7184,
+      "status": "FAIL",
+      "best_chunk": ": rôle, objectif, mots-clés, ton, structure et exemples de contenus de référence. - Le ROI devient positif dès le deuxiè",
+      "chunk_index": 1
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 08:57",
+  "quotability": {
+    "score": 0.4767,
+    "top10_mean": 0.6163,
+    "n_passages": 88,
+    "assertiveness": 1.0,
+    "information_density": 0.268,
+    "optimal_length": 0.87,
+    "self_containedness": 0.369,
+    "top_passages": [
+      {
+        "passage": "- Les avantages incontestables du prompt SEO\n- Les erreurs fatales à éviter absolument\n- Comment bât",
+        "quotability": 0.7159,
+        "assertiveness": 1.0,
+        "information_density": 0.625,
+        "optimal_length": 1.0,
+        "self_containedness": 0.974,
+        "novelty": 0.088
+      },
+      {
+        "passage": "Prompt SEO : le guide ultime pour un contenu IA performant en 2026\n\nSommaire\n- Qu'est-ce qu'un promp",
+        "quotability": 0.6667,
+        "assertiveness": 1.0,
+        "information_density": 0.625,
+        "optimal_length": 1.0,
+        "self_containedness": 0.779,
+        "novelty": 0.135
+      },
+      {
+        "passage": "Les AI Overviews de Google et les moteurs génératifs comme Perplexity redistribuent la valeur SEO ve",
+        "quotability": 0.6126,
+        "assertiveness": 1.0,
+        "information_density": 0.556,
+        "optimal_length": 0.92,
+        "self_containedness": 0.572,
+        "novelty": 0.3
+      }
+    ]
+  }
+}

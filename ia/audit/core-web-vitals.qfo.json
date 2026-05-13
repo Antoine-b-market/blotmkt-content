@@ -1,0 +1,89 @@
+{
+  "score_global": 0.737,
+  "atomic_proof_score": 0.386,
+  "mmr_score": 0.1873,
+  "kl_divergence": 0.5008,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [
+    "sous_sujet",
+    "cas_limite",
+    "entite"
+  ],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7339,
+      "status": "FAIL",
+      "best_chunk": "Core web vitals : maîtriser l'expérience utilisateur et votre SEO Sommaire - Comprendre les Core Web Vitals : le trio ga",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7524,
+      "status": "OK",
+      "best_chunk": "Core web vitals : maîtriser l'expérience utilisateur et votre SEO Sommaire - Comprendre les Core Web Vitals : le trio ga",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7314,
+      "status": "FAIL",
+      "best_chunk": "Core web vitals : maîtriser l'expérience utilisateur et votre SEO Sommaire - Comprendre les Core Web Vitals : le trio ga",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7605,
+      "status": "OK",
+      "best_chunk": "Core web vitals : maîtriser l'expérience utilisateur et votre SEO Sommaire - Comprendre les Core Web Vitals : le trio ga",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7492,
+      "status": "FAIL",
+      "best_chunk": "Core web vitals : maîtriser l'expérience utilisateur et votre SEO Sommaire - Comprendre les Core Web Vitals : le trio ga",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 11:09",
+  "quotability": {
+    "score": 0.5099,
+    "top10_mean": 0.6463,
+    "n_passages": 68,
+    "assertiveness": 1.0,
+    "information_density": 0.386,
+    "optimal_length": 0.908,
+    "self_containedness": 0.34,
+    "top_passages": [
+      {
+        "passage": "Questions fréquentes sur les Core Web Vitals {#questions-frequentes}\n\nPourquoi mes Core Web Vitals s",
+        "quotability": 0.7516,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.723,
+        "novelty": 0.173
+      },
+      {
+        "passage": "Le TBT (Total Blocking Time) est utilisé comme proxy.",
+        "quotability": 0.7018,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 0.75,
+        "self_containedness": 0.343,
+        "novelty": 0.62
+      },
+      {
+        "passage": "Les pages en position 1 sur Google affichent un taux de réussite aux Core Web Vitals 10 % supérieur ",
+        "quotability": 0.6754,
+        "assertiveness": 1.0,
+        "information_density": 0.923,
+        "optimal_length": 0.96,
+        "self_containedness": 0.479,
+        "novelty": 0.275
+      }
+    ]
+  }
+}

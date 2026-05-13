@@ -1,0 +1,85 @@
+{
+  "score_global": 0.7661,
+  "atomic_proof_score": 0.371,
+  "mmr_score": 0.2474,
+  "kl_divergence": 0.4242,
+  "verdict": "OK",
+  "weak_axes": [],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.763,
+      "status": "OK",
+      "best_chunk": "Canonisation SEO : guide complet pour maîtriser le contenu dupliqué Sommaire - Qu'est-ce que la canonisation SEO et pour",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7758,
+      "status": "OK",
+      "best_chunk": "Canonisation SEO : guide complet pour maîtriser le contenu dupliqué Sommaire - Qu'est-ce que la canonisation SEO et pour",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7796,
+      "status": "OK",
+      "best_chunk": "Canonisation SEO : guide complet pour maîtriser le contenu dupliqué Sommaire - Qu'est-ce que la canonisation SEO et pour",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7642,
+      "status": "OK",
+      "best_chunk": "Canonisation SEO : guide complet pour maîtriser le contenu dupliqué Sommaire - Qu'est-ce que la canonisation SEO et pour",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7713,
+      "status": "OK",
+      "best_chunk": "Canonisation SEO : guide complet pour maîtriser le contenu dupliqué Sommaire - Qu'est-ce que la canonisation SEO et pour",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 06:39",
+  "quotability": {
+    "score": 0.4685,
+    "top10_mean": 0.5874,
+    "n_passages": 79,
+    "assertiveness": 0.996,
+    "information_density": 0.251,
+    "optimal_length": 0.891,
+    "self_containedness": 0.349,
+    "top_passages": [
+      {
+        "passage": "Canonisation SEO : guide complet pour maîtriser le contenu dupliqué\n\nSommaire\n- Qu'est-ce que la can",
+        "quotability": 0.6615,
+        "assertiveness": 1.0,
+        "information_density": 0.545,
+        "optimal_length": 1.0,
+        "self_containedness": 0.794,
+        "novelty": 0.185
+      },
+      {
+        "passage": "Paramètres UTM, variations HTTP/HTTPS, trailing slashes, pages paginées : chaque URL supplémentaire ",
+        "quotability": 0.6121,
+        "assertiveness": 1.0,
+        "information_density": 0.571,
+        "optimal_length": 1.0,
+        "self_containedness": 0.526,
+        "novelty": 0.307
+      },
+      {
+        "passage": "Une étude via Google Search Console révèle fréquemment que 80 % de similarité de contenu entre deux ",
+        "quotability": 0.5943,
+        "assertiveness": 1.0,
+        "information_density": 0.621,
+        "optimal_length": 0.84,
+        "self_containedness": 0.488,
+        "novelty": 0.294
+      }
+    ]
+  }
+}

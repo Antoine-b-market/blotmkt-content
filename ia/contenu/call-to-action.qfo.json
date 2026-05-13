@@ -1,0 +1,55 @@
+{
+  "score_global": 0.4605,
+  "mu": 0.475,
+  "sigma_min": 0.4509,
+  "mmr_score": 0.0566,
+  "kl_divergence": 0.6041,
+  "kl_status": "OFF_TOPIC",
+  "transition_prob": 0.8059,
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.4892,
+      "status": "FAIL",
+      "best_chunk": "Je vais d'abord effectuer des recherches pour obtenir des données récentes et sourcées sur les CTA. Voici l'article comp",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.4677,
+      "status": "FAIL",
+      "best_chunk": "Je vais d'abord effectuer des recherches pour obtenir des données récentes et sourcées sur les CTA. Voici l'article comp",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.4509,
+      "status": "FAIL",
+      "best_chunk": "Je vais d'abord effectuer des recherches pour obtenir des données récentes et sourcées sur les CTA. Voici l'article comp",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.4805,
+      "status": "FAIL",
+      "best_chunk": "Je vais d'abord effectuer des recherches pour obtenir des données récentes et sourcées sur les CTA. Voici l'article comp",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.4868,
+      "status": "FAIL",
+      "best_chunk": "Je vais d'abord effectuer des recherches pour obtenir des données récentes et sourcées sur les CTA. Voici l'article comp",
+      "chunk_index": 0
+    }
+  },
+  "weak_axes": [
+    "sous_sujet",
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "verdict": "REVIEW_NEEDED",
+  "chunks_count": 8
+}

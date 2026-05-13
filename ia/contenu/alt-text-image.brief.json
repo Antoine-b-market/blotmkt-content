@@ -1,0 +1,89 @@
+{
+  "keyword": "Alt text image",
+  "intention": "informationnelle",
+  "titre_h1": "Alt text image : le guide complet pour l'accessibilité, le seo et la visibilité ia",
+  "meta_description": "Maîtrisez l'alt text pour transformer vos images en atouts SEO et accessibilité. Guide complet pour optimiser la visibilité IA et l'expérience utilisateur.",
+  "angle_editorial": "Transformer l'alt text en levier d'accessibilité, de SEO et de visibilité dans les réponses générées par IA.",
+  "query_fanout": [
+    "Quels sont les impacts de l'alt text sur l'expérience utilisateur ?",
+    "Comment rédiger un alt text qui booste mon référencement ?",
+    "Quel rôle joue l'alt text dans la visibilité des images sur Google ?",
+    "L'alt text est-il important pour l'AEO (Answer Engine Optimization) ?"
+  ],
+  "structure": [
+    {
+      "h2": "Définition et rôle fondamental de l'alt text image dans l'accessibilité",
+      "type": "definition",
+      "points_cles": [
+        "Définition de l'attribut alt.",
+        "Importance pour les utilisateurs malvoyants.",
+        "Différence entre alt text et légende."
+      ]
+    },
+    {
+      "h2": "Stratégies de rédaction d'un alt text optimisé pour le SEO et l'IA",
+      "type": "technique",
+      "points_cles": [
+        "Mots-clés pertinents.",
+        "Description concise et précise.",
+        "Adaptation à l'intention de recherche."
+      ]
+    },
+    {
+      "h2": "Alt text : un levier puissant pour le référencement et la visibilité GEO/AEO",
+      "type": "usage",
+      "points_cles": [
+        "Amélioration du classement dans Google Images.",
+        "Contribution à la pertinence thématique de la page.",
+        "Augmentation de la visibilité dans les réponses générées par IA."
+      ]
+    },
+    {
+      "h2": "Intégrer l'alt text dans une stratégie d'entités sémantiques et de Schema Markup",
+      "type": "mecanisme",
+      "points_cles": [
+        "Utilisation des entités sémantiques.",
+        "Implémentation de Schema Markup.",
+        "Optimisation pour la compréhension par les moteurs de recherche."
+      ]
+    },
+    {
+      "h2": "Auditer et optimiser l'alt text : outils et meilleures pratiques",
+      "type": "technique",
+      "points_cles": [
+        "Utilisation de Google Search Console et Lighthouse.",
+        "Analyse des Core Web Vitals.",
+        "Revue régulière des descriptions d'images."
+      ]
+    },
+    {
+      "h2": "Questions fréquentes",
+      "type": "faq",
+      "points_cles": [
+        "Faut-il toujours mettre un alt text sur toutes les images ?",
+        "Quelle est la longueur idéale d'un alt text ?",
+        "Comment gérer l'alt text pour les images décoratives ?"
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "accessibilité web",
+    "seo image",
+    "référencement image",
+    "balise alt",
+    "seo on-page",
+    "aEO",
+    "optimisation IA"
+  ],
+  "questions_paa": [
+    "Comment rédiger un bon texte alternatif ?",
+    "Le texte alternatif est-il important pour le SEO ?",
+    "Quelle est la longueur idéale d'un texte alternatif ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 950,
+  "category": "contenu",
+  "lang": "fr",
+  "slug": "alt-text-image",
+  "hreflang": "fr-CA"
+}

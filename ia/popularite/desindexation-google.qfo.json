@@ -1,0 +1,85 @@
+{
+  "score_global": 0.7758,
+  "atomic_proof_score": 0.206,
+  "mmr_score": 0.2795,
+  "kl_divergence": 0.3473,
+  "verdict": "OK",
+  "weak_axes": [],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7653,
+      "status": "OK",
+      "best_chunk": "Je vais d'abord effectuer quelques recherches pour sourcer correctement l'article avant de le rédiger. J'ai les sources ",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7968,
+      "status": "OK",
+      "best_chunk": "Je vais d'abord effectuer quelques recherches pour sourcer correctement l'article avant de le rédiger. J'ai les sources ",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7964,
+      "status": "OK",
+      "best_chunk": "Je vais d'abord effectuer quelques recherches pour sourcer correctement l'article avant de le rédiger. J'ai les sources ",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.793,
+      "status": "OK",
+      "best_chunk": "Je vais d'abord effectuer quelques recherches pour sourcer correctement l'article avant de le rédiger. J'ai les sources ",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.806,
+      "status": "OK",
+      "best_chunk": "Je vais d'abord effectuer quelques recherches pour sourcer correctement l'article avant de le rédiger. J'ai les sources ",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 09:50",
+  "quotability": {
+    "score": 0.4602,
+    "top10_mean": 0.6104,
+    "n_passages": 109,
+    "assertiveness": 0.997,
+    "information_density": 0.205,
+    "optimal_length": 0.9,
+    "self_containedness": 0.368,
+    "top_passages": [
+      {
+        "passage": "Désindexation Google : Comprendre, Agir et Optimiser votre SEO\n\nSommaire\n- Qu'est-ce que la désindex",
+        "quotability": 0.7609,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.748,
+        "novelty": 0.183
+      },
+      {
+        "passage": "L'outil de désindexation de la Search Console - \"URL Remove Tool\" - ne permet qu'une désindexation t",
+        "quotability": 0.6728,
+        "assertiveness": 1.0,
+        "information_density": 0.714,
+        "optimal_length": 1.0,
+        "self_containedness": 0.678,
+        "novelty": 0.204
+      },
+      {
+        "passage": "{#quest-ce-que-la-desindexation-google}\n\nLa désindexation Google désigne le retrait d'une URL de l'i",
+        "quotability": 0.6578,
+        "assertiveness": 1.0,
+        "information_density": 0.692,
+        "optimal_length": 1.0,
+        "self_containedness": 0.704,
+        "novelty": 0.118
+      }
+    ]
+  }
+}

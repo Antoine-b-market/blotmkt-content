@@ -1,0 +1,73 @@
+{
+  "version": "2",
+  "slug": "audit-technique-seo",
+  "category": "strategie",
+  "keyword": "audit technique SEO",
+  "title": "audit technique SEO : débloquez la performance de votre site au québec",
+  "status": "published",
+  "fix_type": null,
+  "fix_target": null,
+  "stale": false,
+  "stale_since": null,
+  "created_at": "2026-05-06T03:50:31.946243Z",
+  "updated_at": "2026-05-13T05:34:57.589886+00:00",
+  "scores": {
+    "qfo_global": {
+      "value": 0.7253,
+      "threshold": 0.72,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "quotability": {
+      "value": 0.5078,
+      "threshold": 0.45,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "chunk_diversity": {
+      "value": 0.7743,
+      "threshold": 0.86,
+      "direction": "lower_better",
+      "passed": true,
+      "blocking": true
+    },
+    "atomic_proof": {
+      "value": 0.4313,
+      "threshold": 0.35,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "semantic_density": {
+      "value": 0.404,
+      "threshold": 0.3,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "information_gain": {
+      "value": 0.164,
+      "threshold": 0.15,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "perplexity_variance": {
+      "value": 0.1685,
+      "threshold": 0.12,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "entity_alignment": {
+      "value": 0.6913,
+      "threshold": 0.55,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": false
+    }
+  },
+  "fix_history": []
+}

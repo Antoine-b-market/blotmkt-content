@@ -815,21 +815,13 @@ pages:
   title: 'Consultant GEO Montréal : Boostez votre visibilité locale et IA'
   url: https://blotmkt.com/data/strategie/consultant-geo-montreal.md
 - category: strategie
-  date: 2026-05-05 10:09
-  description: Besoin d'un consultant SEO à Montréal ? Découvrez les critères essentiels,
-    les compétences clés et comment booster votre ROI durablement.
+  date: 2026-05-13 17:42
+  description: Boostez votre visibilité à Montréal avec un consultant SEO et GEO expert.
+    Stratégies hybrides pour le référencement naturel et les moteurs de réponse IA.
   html_url: https://blotmkt.com/ia/strategie/consultant-seo-montreal.html
   keyword: Consultant SEO Montréal
-  title: 'Consultant SEO Montréal : comment choisir le bon expert pour votre croissance'
+  title: 'Consultant SEO montréal : dominez google et l''IA avec un expert local'
   url: https://blotmkt.com/data/strategie/consultant-seo-montreal.md
-- category: strategie
-  date: 2026-05-08 04:14
-  description: Besoin d'un consultant SEO à Québec ? Découvrez les critères essentiels,
-    les tarifs et les stratégies pour booster votre visibilité en ligne localement.
-  html_url: https://blotmkt.com/ia/strategie/consultant-seo-quebec.html
-  keyword: Consultant SEO Québec
-  title: 'Consultant SEO à Québec : Guide Ultime pour Choisir le Bon Expert'
-  url: https://blotmkt.com/data/strategie/consultant-seo-quebec.md
 - category: strategie
   date: 2026-05-05 10:15
   description: Comprendre et optimiser votre coût d'acquisition SEO (CAC SEO). Découvrez
@@ -981,6 +973,6 @@ site:
   language: fr
   name: BlotMKT
   sameAs: https://www.antoine-blot.com
-  total_pages: 111
+  total_pages: 110
   updated: '2026-05-13'
   url: https://blotmkt.com

@@ -1,0 +1,21 @@
+{
+  "score_global": null,
+  "atomic_proof_score": null,
+  "mmr_score": null,
+  "kl_divergence": null,
+  "verdict": "REVIEW_NEEDED",
+  "weak_axes": [],
+  "axes": {},
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 06:19",
+  "quotability": {
+    "score": 0.0,
+    "top10_mean": 0.0,
+    "n_passages": 0,
+    "assertiveness": 0.0,
+    "information_density": 0.0,
+    "optimal_length": 0.0,
+    "self_containedness": 0.0,
+    "top_passages": []
+  }
+}

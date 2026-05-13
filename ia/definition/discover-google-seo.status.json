@@ -1,0 +1,73 @@
+{
+  "version": "2",
+  "slug": "discover-google-seo",
+  "category": "definition",
+  "keyword": "Discover Google SEO",
+  "title": "discover google seo : les clés d'une stratégie performante et les erreurs à éviter en 2026",
+  "status": "published",
+  "fix_type": null,
+  "fix_target": null,
+  "stale": false,
+  "stale_since": null,
+  "created_at": "2026-05-06T03:39:36.408226Z",
+  "updated_at": "2026-05-13T05:34:57.575722+00:00",
+  "scores": {
+    "qfo_global": {
+      "value": null,
+      "threshold": 0.72,
+      "direction": "higher_better",
+      "passed": null,
+      "blocking": true
+    },
+    "quotability": {
+      "value": 0.5053,
+      "threshold": 0.45,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "chunk_diversity": {
+      "value": 0.9992,
+      "threshold": 0.86,
+      "direction": "lower_better",
+      "passed": false,
+      "blocking": true
+    },
+    "atomic_proof": {
+      "value": 0.2687,
+      "threshold": 0.35,
+      "direction": "higher_better",
+      "passed": false,
+      "blocking": true
+    },
+    "semantic_density": {
+      "value": 0.365,
+      "threshold": 0.3,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "information_gain": {
+      "value": 0.1512,
+      "threshold": 0.15,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "perplexity_variance": {
+      "value": 0.1542,
+      "threshold": 0.12,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "entity_alignment": {
+      "value": 0.81,
+      "threshold": 0.55,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": false
+    }
+  },
+  "fix_history": []
+}

@@ -1,0 +1,85 @@
+{
+  "score_global": 0.7767,
+  "atomic_proof_score": 0.25,
+  "mmr_score": 0.3152,
+  "kl_divergence": 0.2956,
+  "verdict": "OK",
+  "weak_axes": [],
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7769,
+      "status": "OK",
+      "best_chunk": "YMYL SEO : guide complet pour protéger votre réputation en ligne Sommaire - Comprendre YMYL SEO : définition et importan",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7883,
+      "status": "OK",
+      "best_chunk": "YMYL SEO : guide complet pour protéger votre réputation en ligne Sommaire - Comprendre YMYL SEO : définition et importan",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7803,
+      "status": "OK",
+      "best_chunk": "YMYL SEO : guide complet pour protéger votre réputation en ligne Sommaire - Comprendre YMYL SEO : définition et importan",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7749,
+      "status": "OK",
+      "best_chunk": "YMYL SEO : guide complet pour protéger votre réputation en ligne Sommaire - Comprendre YMYL SEO : définition et importan",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7765,
+      "status": "OK",
+      "best_chunk": "YMYL SEO : guide complet pour protéger votre réputation en ligne Sommaire - Comprendre YMYL SEO : définition et importan",
+      "chunk_index": 0
+    }
+  },
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 08:12",
+  "quotability": {
+    "score": 0.4887,
+    "top10_mean": 0.6618,
+    "n_passages": 64,
+    "assertiveness": 1.0,
+    "information_density": 0.254,
+    "optimal_length": 0.864,
+    "self_containedness": 0.385,
+    "top_passages": [
+      {
+        "passage": "Ce document a connu de nombreuses révisions documentées : novembre 2015, juillet 2018, décembre 2019",
+        "quotability": 0.7879,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 0.8,
+        "self_containedness": 0.638,
+        "novelty": 0.583
+      },
+      {
+        "passage": "Mesurer le succès de vos efforts YMYL SEO {#mesurer-le-succes-de-vos-efforts-ymyl-seo}\n\nTrois indica",
+        "quotability": 0.7351,
+        "assertiveness": 1.0,
+        "information_density": 0.789,
+        "optimal_length": 1.0,
+        "self_containedness": 0.831,
+        "novelty": 0.192
+      },
+      {
+        "passage": "Les risques de négliger le YMYL SEO {#les-risques-de-negliger-le-ymyl-seo}\n\nNégliger le YMYL SEO exp",
+        "quotability": 0.7145,
+        "assertiveness": 1.0,
+        "information_density": 0.789,
+        "optimal_length": 1.0,
+        "self_containedness": 0.768,
+        "novelty": 0.184
+      }
+    ]
+  }
+}

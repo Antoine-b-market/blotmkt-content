@@ -1,0 +1,73 @@
+{
+  "version": "2",
+  "slug": "seo-local",
+  "category": "definition",
+  "keyword": "SEO local",
+  "title": "seo local: guide 2026 pour booster votre visibilité",
+  "status": "published",
+  "fix_type": null,
+  "fix_target": null,
+  "stale": false,
+  "stale_since": null,
+  "created_at": "2026-05-06T03:42:42.437457Z",
+  "updated_at": "2026-05-13T05:34:57.579612+00:00",
+  "scores": {
+    "qfo_global": {
+      "value": 0.7346,
+      "threshold": 0.72,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "quotability": {
+      "value": 0.5033,
+      "threshold": 0.45,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "chunk_diversity": {
+      "value": 0.998,
+      "threshold": 0.86,
+      "direction": "lower_better",
+      "passed": false,
+      "blocking": true
+    },
+    "atomic_proof": {
+      "value": 0.3,
+      "threshold": 0.35,
+      "direction": "higher_better",
+      "passed": false,
+      "blocking": true
+    },
+    "semantic_density": {
+      "value": 0.4026,
+      "threshold": 0.3,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "information_gain": {
+      "value": 0.1587,
+      "threshold": 0.15,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "perplexity_variance": {
+      "value": 0.1989,
+      "threshold": 0.12,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "entity_alignment": {
+      "value": 0.7721,
+      "threshold": 0.55,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": false
+    }
+  },
+  "fix_history": []
+}

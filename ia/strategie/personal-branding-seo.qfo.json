@@ -1,0 +1,49 @@
+{
+  "score_global": null,
+  "atomic_proof_score": null,
+  "mmr_score": null,
+  "kl_divergence": null,
+  "verdict": null,
+  "weak_axes": [],
+  "axes": {},
+  "qfo_source": "local",
+  "generated_at": "2026-05-05 10:29",
+  "quotability": {
+    "score": 0.4931,
+    "top10_mean": 0.6268,
+    "n_passages": 93,
+    "assertiveness": 1.0,
+    "information_density": 0.264,
+    "optimal_length": 0.889,
+    "self_containedness": 0.394,
+    "top_passages": [
+      {
+        "passage": "Sources : Incremys, Statistiques SEO 2026 (mars 2026) ; AIOSEO, 85+ statistiques SEO pour 2026 (janv",
+        "quotability": 0.6887,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 0.0,
+        "self_containedness": 0.73,
+        "novelty": 0.348
+      },
+      {
+        "passage": "Les LLM - ChatGPT, Claude, Perplexity, Google AI Overviews - construisent leurs réponses depuis un c",
+        "quotability": 0.6622,
+        "assertiveness": 1.0,
+        "information_density": 1.0,
+        "optimal_length": 1.0,
+        "self_containedness": 0.29,
+        "novelty": 0.376
+      },
+      {
+        "passage": "- Mettre en place une stratégie de personal branding SEO : les étapes fondamentales\n- Personal brand",
+        "quotability": 0.6245,
+        "assertiveness": 1.0,
+        "information_density": 0.632,
+        "optimal_length": 1.0,
+        "self_containedness": 0.647,
+        "novelty": 0.112
+      }
+    ]
+  }
+}
