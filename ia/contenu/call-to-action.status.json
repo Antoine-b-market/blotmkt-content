@@ -4,8 +4,8 @@
   "category": "contenu",
   "keyword": "Call to action",
   "title": "call to action : le guide ultime pour booster vos conversions",
-  "status": "pending_fix",
-  "fix_type": "fix_qfo",
+  "status": "published",
+  "fix_type": null,
   "fix_target": {
     "section": "Mesurer le ROI de vos CTA : indicateurs clés et tests A/B gagnants {#mesurer-le-roi-de-vos-cta-indicateurs-cles-et-tests-ab-gagnants}",
     "qfo_score": 0.477,
@@ -21,9 +21,9 @@
   "stale_since": null,
   "brief_mode": "standard",
   "hreflang": "fr-CA",
-  "force_published": false,
+  "force_published": true,
   "created_at": "2026-05-14T03:22:01.270343Z",
-  "updated_at": "2026-05-14T03:55:43.359387Z",
+  "updated_at": "2026-05-14T04:12:21.001183+00:00",
   "scores": {
     "qfo_global": {
       "value": 0.4768,

@@ -4,8 +4,8 @@
   "category": "contenu",
   "keyword": "Structure HN SEO",
   "title": "Structure HN SEO : guide complet pour optimiser votre contenu",
-  "status": "pending_fix",
-  "fix_type": "fix_qfo",
+  "status": "published",
+  "fix_type": null,
   "fix_target": {
     "section": "La structure HN SEO : définition et importance capitale pour les moteurs et les IA {#definition}",
     "qfo_score": 0.869,
@@ -15,9 +15,9 @@
   "stale_since": null,
   "brief_mode": "standard",
   "hreflang": "fr-CA",
-  "force_published": false,
+  "force_published": true,
   "created_at": "2026-05-14T04:02:23.181383Z",
-  "updated_at": "2026-05-14T04:02:47.469458Z",
+  "updated_at": "2026-05-14T04:12:18.294210+00:00",
   "scores": {
     "qfo_global": {
       "value": 0.8685,
