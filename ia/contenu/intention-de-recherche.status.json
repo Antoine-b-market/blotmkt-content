@@ -4,8 +4,8 @@
   "category": "contenu",
   "keyword": "Intention de recherche",
   "title": "maîtriser l'intention de recherche pour un seo éthique et performant",
-  "status": "pending_fix",
-  "fix_type": "fix_qfo",
+  "status": "published",
+  "fix_type": null,
   "fix_target": {
     "section": "Stratégies de contenu et SEO technique adaptées aux intentions {#strategies-de-contenu-et-seo-technique-adaptees-aux-intentions}",
     "qfo_score": 0.614,
@@ -21,9 +21,9 @@
   "stale_since": null,
   "brief_mode": "standard",
   "hreflang": "fr-CA",
-  "force_published": false,
+  "force_published": true,
   "created_at": "2026-05-14T03:29:47.519574Z",
-  "updated_at": "2026-05-14T03:55:38.560949Z",
+  "updated_at": "2026-05-14T04:12:29.864387+00:00",
   "scores": {
     "qfo_global": {
       "value": 0.6143,

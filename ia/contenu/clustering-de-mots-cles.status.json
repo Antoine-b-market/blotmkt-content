@@ -4,8 +4,8 @@
   "category": "contenu",
   "keyword": "Clustering de mots-clés",
   "title": "clustering de mots-clés : guide complet pour booster votre seo",
-  "status": "pending_fix",
-  "fix_type": "fix_qfo",
+  "status": "published",
+  "fix_type": null,
   "fix_target": {
     "section": "Clustering de mots-clés : guide étape par étape pour une organisation efficace {#guide-etape-par-etape}",
     "qfo_score": 0.662,
@@ -21,9 +21,9 @@
   "stale_since": null,
   "brief_mode": "standard",
   "hreflang": "fr-CA",
-  "force_published": false,
+  "force_published": true,
   "created_at": "2026-05-14T03:24:53.484750Z",
-  "updated_at": "2026-05-14T03:55:43.738442Z",
+  "updated_at": "2026-05-14T04:12:23.833240+00:00",
   "scores": {
     "qfo_global": {
       "value": 0.6618,

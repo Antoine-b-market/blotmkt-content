@@ -941,6 +941,29 @@
         }
       }
     },
+    "/data/ia-seo-geo/citations-par-ia.md": {
+      "get": {
+        "summary": "citations par ia: impact sur la crédibilité et le référencement en 2026",
+        "description": "Découvrez l'impact des citations par IA sur la recherche, la crédibilité et le SEO en 2026. Guide expert pour optimiser votre visibilité auprès des LLMs.",
+        "operationId": "citations_par_ia",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/data/ia-seo-geo/contenu-ia-seo.md": {
       "get": {
         "summary": "contenu ia seo : l'intelligence artificielle au service de votre stratégie",
