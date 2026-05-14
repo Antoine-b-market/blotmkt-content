@@ -4,26 +4,36 @@
   "category": "contenu",
   "keyword": "Intention de recherche",
   "title": "maîtriser l'intention de recherche pour un seo éthique et performant",
-  "status": "rejected",
+  "status": "published",
   "fix_type": null,
-  "fix_target": null,
+  "fix_target": {
+    "section": "Stratégies de contenu et SEO technique adaptées aux intentions {#strategies-de-contenu-et-seo-technique-adaptees-aux-intentions}",
+    "qfo_score": 0.534,
+    "weak_axes": [
+      "sous_sujet",
+      "prerequis",
+      "cas_limite",
+      "validation",
+      "entite"
+    ]
+  },
   "stale": false,
   "stale_since": null,
   "brief_mode": "standard",
   "hreflang": "fr-CA",
   "force_published": true,
   "created_at": "2026-05-14T03:29:47.519574Z",
-  "updated_at": "2026-05-14T05:10:49.837789+00:00",
+  "updated_at": "2026-05-14T05:11:51.423820+00:00",
   "scores": {
     "qfo_global": {
-      "value": 0.6143,
+      "value": 0.5341,
       "threshold": 0.62,
       "direction": "higher_better",
       "passed": false,
       "blocking": true
     },
     "quotability": {
-      "value": 0.4763,
+      "value": 0.4713,
       "threshold": 0.45,
       "direction": "higher_better",
       "passed": true,
@@ -44,21 +54,21 @@
       "blocking": true
     },
     "semantic_density": {
-      "value": 0.4111,
+      "value": 0.419,
       "threshold": 0.3,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "information_gain": {
-      "value": 0.0874,
+      "value": 0.1458,
       "threshold": 0.08,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "perplexity_variance": {
-      "value": 0.2503,
+      "value": 0.2534,
       "threshold": 0.12,
       "direction": "higher_better",
       "passed": true,
@@ -96,6 +106,33 @@
         "semantic_density": 0.4111,
         "information_gain": 0.1656,
         "perplexity_variance": 0.2503,
+        "entity_alignment": 0.7526
+      },
+      "result": "fail"
+    },
+    {
+      "fix_type": "fix_qfo",
+      "model": "claude-sonnet-4-6",
+      "section_targeted": "Stratégies de contenu et SEO technique adaptées aux intentions {#strategies-de-contenu-et-seo-technique-adaptees-aux-intentions}",
+      "fixed_at": "2026-05-14T05:11:47.652264Z",
+      "scores_before": {
+        "qfo_global": 0.6143,
+        "quotability": 0.4763,
+        "chunk_diversity": 0.7489,
+        "atomic_proof": 0.4458,
+        "semantic_density": 0.4111,
+        "information_gain": 0.0874,
+        "perplexity_variance": 0.2503,
+        "entity_alignment": 0.7526
+      },
+      "scores_after": {
+        "qfo_global": 0.5341,
+        "quotability": 0.4713,
+        "chunk_diversity": 0.7489,
+        "atomic_proof": 0.4458,
+        "semantic_density": 0.419,
+        "information_gain": 0.1458,
+        "perplexity_variance": 0.2534,
         "entity_alignment": 0.7526
       },
       "result": "fail"
