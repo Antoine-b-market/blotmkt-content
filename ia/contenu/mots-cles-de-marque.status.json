@@ -4,8 +4,8 @@
   "category": "contenu",
   "keyword": "Mots-clés de marque",
   "title": "Mots-clés de marque : maîtrisez votre visibilité et protégez votre réputation",
-  "status": "pending_fix",
-  "fix_type": "fix_qfo",
+  "status": "published",
+  "fix_type": null,
   "fix_target": {
     "section": "Pourquoi les mots-clés de marque sont un pilier de votre SEO {#pourquoi-les-mots-cles-de-marque-sont-un-pilier-de-votre-seo}",
     "qfo_score": 0.625,
@@ -21,9 +21,9 @@
   "stale_since": null,
   "brief_mode": "standard",
   "hreflang": "fr-CA",
-  "force_published": false,
+  "force_published": true,
   "created_at": "2026-05-14T04:06:18.311820Z",
-  "updated_at": "2026-05-14T04:06:53.760851Z",
+  "updated_at": "2026-05-14T04:12:10.585290+00:00",
   "scores": {
     "qfo_global": {
       "value": 0.6248,

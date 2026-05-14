@@ -4,8 +4,8 @@
   "category": "contenu",
   "keyword": "Mots-clés transactionnels",
   "title": "Mots-clés transactionnels : le guide ultime pour booster vos conversions",
-  "status": "pending_fix",
-  "fix_type": "fix_qfo",
+  "status": "published",
+  "fix_type": null,
   "fix_target": {
     "section": "Comprendre les mots-clés transactionnels : définition et importance",
     "qfo_score": 0.675,
@@ -21,9 +21,9 @@
   "stale_since": null,
   "brief_mode": "standard",
   "hreflang": "fr-CA",
-  "force_published": false,
+  "force_published": true,
   "created_at": "2026-05-14T04:08:51.246120Z",
-  "updated_at": "2026-05-14T04:09:14.002148Z",
+  "updated_at": "2026-05-14T04:12:08.800966+00:00",
   "scores": {
     "qfo_global": {
       "value": 0.6753,
