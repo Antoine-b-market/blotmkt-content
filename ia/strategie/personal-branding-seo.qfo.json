@@ -1,0 +1,55 @@
+{
+  "score_global": 0.702,
+  "mu": 0.7109,
+  "sigma_min": 0.696,
+  "mmr_score": 0.2152,
+  "kl_divergence": 0.4393,
+  "kl_status": "OK",
+  "transition_prob": 0.8497,
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7127,
+      "status": "FAIL",
+      "best_chunk": "Je vais d'abord faire quelques recherches pour enrichir l'article avec des données récentes et sourcées. Voici l'article",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7321,
+      "status": "FAIL",
+      "best_chunk": "Je vais d'abord faire quelques recherches pour enrichir l'article avec des données récentes et sourcées. Voici l'article",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.696,
+      "status": "FAIL",
+      "best_chunk": "Je vais d'abord faire quelques recherches pour enrichir l'article avec des données récentes et sourcées. Voici l'article",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.6998,
+      "status": "FAIL",
+      "best_chunk": "Je vais d'abord faire quelques recherches pour enrichir l'article avec des données récentes et sourcées. Voici l'article",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7139,
+      "status": "FAIL",
+      "best_chunk": "Je vais d'abord faire quelques recherches pour enrichir l'article avec des données récentes et sourcées. Voici l'article",
+      "chunk_index": 0
+    }
+  },
+  "weak_axes": [
+    "sous_sujet",
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "verdict": "REVIEW_NEEDED",
+  "chunks_count": 8
+}

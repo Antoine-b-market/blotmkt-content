@@ -1079,29 +1079,6 @@
         }
       }
     },
-    "/data/ia-seo-geo/ia-generative-et-seo.md": {
-      "get": {
-        "summary": "Comment l'IA Générative Révolutionne le SEO en 2024",
-        "description": "Découvrez comment l'IA générative transforme le SEO : optimisation de contenu, GEO, automatisation et stratégies pour 2024 et au-delà.",
-        "operationId": "ia_generative_et_seo",
-        "tags": [
-          "ia-seo-geo"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     "/data/ia-seo-geo/ia-seo.md": {
       "get": {
         "summary": "ia seo : comment l'intelligence artificielle transforme le référencement",
@@ -1636,6 +1613,29 @@
         "summary": "Migration seo : guide complet pour une transition réussie et sans perte de trafic",
         "description": "Maîtrisez votre migration SEO ! Checklist, stratégies et outils pour une transition de site web sans perte de trafic organique. Augmentez votre visibilité.",
         "operationId": "migration_seo",
+        "tags": [
+          "strategie"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/strategie/personal-branding-seo.md": {
+      "get": {
+        "summary": "Personal branding seo : développez votre autorité et influence en ligne",
+        "description": "Maîtrisez le personal branding SEO pour construire une réputation en ligne forte et durable. Attirez les bonnes opportunités et devenez une référence incontournable dans votre domaine.",
+        "operationId": "personal_branding_seo",
         "tags": [
           "strategie"
         ],

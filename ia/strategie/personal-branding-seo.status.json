@@ -1,0 +1,76 @@
+{
+  "version": "2",
+  "slug": "personal-branding-seo",
+  "category": "strategie",
+  "keyword": "Personal branding SEO",
+  "title": "personal branding seo : développez votre autorité et influence en ligne",
+  "status": "pending_review",
+  "fix_type": null,
+  "fix_target": null,
+  "stale": false,
+  "stale_since": null,
+  "brief_mode": "standard",
+  "hreflang": "fr-CA",
+  "force_published": false,
+  "created_at": "2026-05-14T05:56:23.667468Z",
+  "updated_at": "2026-05-14T05:56:48.299485Z",
+  "scores": {
+    "qfo_global": {
+      "value": 0.702,
+      "threshold": 0.62,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "quotability": {
+      "value": 0.4909,
+      "threshold": 0.45,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "chunk_diversity": {
+      "value": 0.7792,
+      "threshold": 0.86,
+      "direction": "lower_better",
+      "passed": true,
+      "blocking": true
+    },
+    "atomic_proof": {
+      "value": 0.5286,
+      "threshold": 0.35,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "semantic_density": {
+      "value": 0.4384,
+      "threshold": 0.3,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "information_gain": {
+      "value": 0.1578,
+      "threshold": 0.08,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "perplexity_variance": {
+      "value": 0.2285,
+      "threshold": 0.12,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "entity_alignment": {
+      "value": 0.5986,
+      "threshold": 0.55,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": false
+    }
+  },
+  "fix_history": []
+}

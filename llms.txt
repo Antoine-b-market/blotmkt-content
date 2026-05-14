@@ -152,9 +152,6 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 - [geo : le guide complet pour dominer la recherche boostée par l'ia](https://blotmkt.com/ia/ia-seo-geo/geo-guide-complet.html)
   Découvrez notre guide complet sur le GEO (Generated Engagement Optimization). Maîtrisez les stratégies pour une visibilité optimale dans les réponses IA et le futur du search.
 
-- [Comment l'IA Générative Révolutionne le SEO en 2024](https://blotmkt.com/ia/ia-seo-geo/ia-generative-et-seo.html)
-  Découvrez comment l'IA générative transforme le SEO : optimisation de contenu, GEO, automatisation et stratégies pour 2024 et au-delà.
-
 - [ia seo : comment l'intelligence artificielle transforme le référencement](https://blotmkt.com/ia/ia-seo-geo/ia-seo.html)
   Découvrez comment l'IA SEO révolutionne le référencement en 2026. Stratégies, outils, et impacts pour optimiser votre visibilité en ligne.
 
@@ -226,6 +223,9 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [Migration seo : guide complet pour une transition réussie et sans perte de trafic](https://blotmkt.com/ia/strategie/migration-seo.html)
   Maîtrisez votre migration SEO ! Checklist, stratégies et outils pour une transition de site web sans perte de trafic organique. Augmentez votre visibilité.
+
+- [Personal branding seo : développez votre autorité et influence en ligne](https://blotmkt.com/ia/strategie/personal-branding-seo.html)
+  Maîtrisez le personal branding SEO pour construire une réputation en ligne forte et durable. Attirez les bonnes opportunités et devenez une référence incontournable dans votre domaine.
 
 - [Analyse concurrentielle: comment espionner (légalement) vos concurrents en 2026](https://blotmkt.com/ia/strategie-marketing/analyse-concurrentielle.html)
   Maîtrisez l'analyse concurrentielle: identifiez vos rivaux, décortiquez leurs stratégies et découvrez des opportunités SEO en or pour les surpasser.
@@ -339,8 +339,6 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [geo : le guide complet pour dominer la recherche boostée par l'ia](https://blotmkt.com/data/ia-seo-geo/geo-guide-complet.md)
 
-- [Comment l'IA Générative Révolutionne le SEO en 2024](https://blotmkt.com/data/ia-seo-geo/ia-generative-et-seo.md)
-
 - [ia seo : comment l'intelligence artificielle transforme le référencement](https://blotmkt.com/data/ia-seo-geo/ia-seo.md)
 
 - [mise à jour google 2026 : anticiper, diagnostiquer et se relever des pénalités ia](https://blotmkt.com/data/ia-seo-geo/mise-a-jour-google.md)
@@ -388,6 +386,8 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 - [Coût d'acquisition seo: guide complet pour optimiser votre investissement](https://blotmkt.com/data/strategie/cout-acquisition-seo.md)
 
 - [Migration seo : guide complet pour une transition réussie et sans perte de trafic](https://blotmkt.com/data/strategie/migration-seo.md)
+
+- [Personal branding seo : développez votre autorité et influence en ligne](https://blotmkt.com/data/strategie/personal-branding-seo.md)
 
 - [Analyse concurrentielle: comment espionner (légalement) vos concurrents en 2026](https://blotmkt.com/data/strategie-marketing/analyse-concurrentielle.md)
 

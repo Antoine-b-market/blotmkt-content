@@ -418,14 +418,6 @@ pages:
   title: 'geo : le guide complet pour dominer la recherche boostée par l''ia'
   url: https://blotmkt.com/data/ia-seo-geo/geo-guide-complet.md
 - category: ia-seo-geo
-  date: 2026-05-07 04:44
-  description: 'Découvrez comment l''IA générative transforme le SEO : optimisation
-    de contenu, GEO, automatisation et stratégies pour 2024 et au-delà.'
-  html_url: https://blotmkt.com/ia/ia-seo-geo/ia-generative-et-seo.html
-  keyword: IA generative et SEO
-  title: Comment l'IA Générative Révolutionne le SEO en 2024
-  url: https://blotmkt.com/data/ia-seo-geo/ia-generative-et-seo.md
-- category: ia-seo-geo
   date: 2026-05-05 08:45
   description: Découvrez comment l'IA SEO révolutionne le référencement en 2026. Stratégies,
     outils, et impacts pour optimiser votre visibilité en ligne.
@@ -637,6 +629,15 @@ pages:
   title: 'Migration seo : guide complet pour une transition réussie et sans perte
     de trafic'
   url: https://blotmkt.com/data/strategie/migration-seo.md
+- category: strategie
+  date: 2026-05-14 05:56
+  description: Maîtrisez le personal branding SEO pour construire une réputation en
+    ligne forte et durable. Attirez les bonnes opportunités et devenez une référence
+    incontournable dans votre domaine.
+  html_url: https://blotmkt.com/ia/strategie/personal-branding-seo.html
+  keyword: Personal branding SEO
+  title: 'Personal branding seo : développez votre autorité et influence en ligne'
+  url: https://blotmkt.com/data/strategie/personal-branding-seo.md
 - category: strategie-marketing
   date: 2026-05-05 14:59
   description: 'Maîtrisez l''analyse concurrentielle: identifiez vos rivaux, décortiquez
