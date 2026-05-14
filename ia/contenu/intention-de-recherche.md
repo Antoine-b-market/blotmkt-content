@@ -15,7 +15,7 @@ author_orcid: "https://orcid.org/0009-0005-6450-4528"
 organization: "BlotMKT"
 organization_url: "https://blotmkt.com"
 date: "2026-05-14 03:29"
-date_modified: "2026-05-14 03:29"
+date_modified: "2026-05-14"
 slug: "intention-de-recherche"
 url: "https://blotmkt.com/ia/contenu/intention-de-recherche.html"
 schema_type: "TechArticle"
@@ -104,7 +104,9 @@ Pour approfondir ce travail d'architecture, je détaille la méthode dans mon gu
 
 ## Stratégies de contenu et SEO technique adaptées aux intentions {#strategies-de-contenu-et-seo-technique-adaptees-aux-intentions}
 
-Chaque type d'intention appelle une réponse éditoriale et technique précise. En auditant 30 sites en 2025, j'ai relevé que le format privilégié pour une intention informationnelle est le guide long ou la FAQ avec Schema Article ou HowTo. Pour une intention transactionnelle, la page produit avec Schema Product et Offer est le signal technique dominant.
+Chaque type d'intention appelle une réponse éditoriale et technique précise. Avant d'adapter votre contenu, il faut maîtriser un prérequis simple : identifier l'intention dominante derrière chaque requête cible, pas seulement le volume. Sans cette étape, l'optimisation technique reste aveugle.
+
+En auditant 30 sites en 2025, j'ai relevé que le format privilégié pour une intention informationnelle est le guide long ou la FAQ avec Schema Article ou HowTo. Pour une intention transactionnelle, la page produit avec Schema Product et Offer est le signal technique dominant.
 
 | Intention | Format privilégié | Schema recommandé | Chiffre clé |
 |---|---|---|---|
@@ -113,13 +115,11 @@ Chaque type d'intention appelle une réponse éditoriale et technique précise. 
 | Transactionnelle | Fiche produit, formulaire | Product, Offer | Conversion 15x supérieure aux requêtes informationnelles |
 | Navigationnelle | Page de marque, homepage | Organization | Position 1 obligatoire pour capter l'utilisateur acquis |
 
-Sur les projets que je pilote, l'ajout du schema markup adapté à l'intention génère une hausse mesurable du CTR dans les 60 jours suivant le déploiement.
+Sur les projets que je pilote, l'ajout du schema markup adapté à l'intention génère une hausse mesurable du CTR dans les 60 jours suivant le déploiement. Un cas limite à anticiper : certaines requêtes portent deux intentions simultanées. "Meilleur CRM PME" mêle intention commerciale et informationnelle. Dans ce cas, je structure la page avec une section comparative claire suivie d'une recommandation éditoriale assumée. Google récompense cette clarté.
 
-Une donnée qui change la priorité des optimisations : 60 % des recherches sur ordinateur ne donnent lieu à aucun clic en 2026. Les featured snippets, qui obtiennent un CTR de 42,9 % (First Page Sage, 2025), sont plus précieux que jamais. Cibler une position 1 classique sans viser la citation dans la SERP, c'est ignorer la moitié du problème de visibilité.
+Une donnée qui change la priorité des optimisations : 60 % des recherches sur ordinateur ne donnent lieu à aucun clic en 2026. Les featured snippets, qui obtiennent un CTR de 42,9 % selon First Page Sage en 2025, sont plus précieux que jamais. Cibler une position 1 classique sans viser la citation dans la SERP, c'est ignorer la moitié du problème de visibilité.
 
-Erreur commune : structurer les cocons sémantiques autour des mots-clés plutôt qu'autour des intentions. Un cocon organisé par intention permet à Google de comprendre quelle page répond à quel besoin, sans cannibalisation.
-
----
+Dans ma pratique, la cannibalisation naît rarement d'un doublon de mots-clés. Elle naît d'un doublon d'intentions. Structurer les cocons sémantiques autour des intentions, et non autour des mots-clés, permet à Google de comprendre quelle page répond à quel besoin. Cette distinction valide l'architecture éditoriale bien mieux que la densité lexicale seule.
 
 ## Intention de recherche à l'ère du GEO et des LLM : défis et opportunités {#intention-de-recherche-a-lere-du-geo-et-des-llm-defis-et-opportunites}
 

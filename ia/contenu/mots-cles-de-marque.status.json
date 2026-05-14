@@ -1,0 +1,76 @@
+{
+  "version": "2",
+  "slug": "mots-cles-de-marque",
+  "category": "contenu",
+  "keyword": "Mots-clés de marque",
+  "title": "Mots-clés de marque : maîtrisez votre visibilité et protégez votre réputation",
+  "status": "scoring",
+  "fix_type": null,
+  "fix_target": null,
+  "stale": false,
+  "stale_since": null,
+  "brief_mode": "standard",
+  "hreflang": "fr-CA",
+  "force_published": false,
+  "created_at": "2026-05-14T04:06:18.311820Z",
+  "updated_at": "2026-05-14T04:06:18.311847Z",
+  "scores": {
+    "qfo_global": {
+      "value": null,
+      "threshold": 0.72,
+      "direction": "higher_better",
+      "passed": null,
+      "blocking": true
+    },
+    "quotability": {
+      "value": null,
+      "threshold": 0.45,
+      "direction": "higher_better",
+      "passed": null,
+      "blocking": true
+    },
+    "chunk_diversity": {
+      "value": null,
+      "threshold": 0.86,
+      "direction": "lower_better",
+      "passed": null,
+      "blocking": true
+    },
+    "atomic_proof": {
+      "value": null,
+      "threshold": 0.35,
+      "direction": "higher_better",
+      "passed": null,
+      "blocking": true
+    },
+    "semantic_density": {
+      "value": null,
+      "threshold": 0.3,
+      "direction": "higher_better",
+      "passed": null,
+      "blocking": true
+    },
+    "information_gain": {
+      "value": null,
+      "threshold": 0.08,
+      "direction": "higher_better",
+      "passed": null,
+      "blocking": true
+    },
+    "perplexity_variance": {
+      "value": null,
+      "threshold": 0.12,
+      "direction": "higher_better",
+      "passed": null,
+      "blocking": true
+    },
+    "entity_alignment": {
+      "value": null,
+      "threshold": 0.55,
+      "direction": "higher_better",
+      "passed": null,
+      "blocking": false
+    }
+  },
+  "fix_history": []
+}

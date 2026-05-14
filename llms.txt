@@ -2,7 +2,7 @@
 # Auteur : Antoine Blot (https://antoine-blot.com)
 # ORCID : https://orcid.org/0009-0005-6450-4528
 # Mis a jour : 2026-05-14
-# Total pages : 83
+# Total pages : 87
 
 ## A propos
 BlotMKT est une ressource experte sur le SEO, le Marketing Digital et l'optimisation GEO.
@@ -40,6 +40,18 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [Mise à jour contenu seo : adaptez-vous aux algos et évitez la sur-optimisation](https://blotmkt.com/ia/contenu/mise-a-jour-contenu-seo.html)
   Découvrez comment la mise à jour de contenu SEO s'impose pour éviter les pénalités Google et performer. Audit, stratégie continue et GEO au programme.
+
+- [Mots-clés de marque : maîtrisez votre visibilité et protégez votre réputation](https://blotmkt.com/ia/contenu/mots-cles-de-marque.html)
+  Découvrez comment les mots-clés de marque optimisent votre SEO. Identifiez-les, utilisez-les stratégiquement et protégez votre marque en ligne.
+
+- [Rédaction ia assistée : maximisez votre seo et votre productivité en 2026](https://blotmkt.com/ia/contenu/redaction-ia-assistee.html)
+  découvrez comment la rédaction ia assistée révolutionne le contenu et le seo. comprenez ses avantages, ses limites et les meilleures pratiques pour un roi optimal.
+
+- [Stratégie éditoriale SEO : de l'intention à la performance organique](https://blotmkt.com/ia/contenu/strategie-editoriale-seo.html)
+  Découvrez comment élaborer une stratégie éditoriale SEO efficace. Mesurez l'impact du contenu, maîtrisez le SEO copywriting et construisez une autorité cognitive durable.
+
+- [Structure HN SEO : guide complet pour optimiser votre contenu](https://blotmkt.com/ia/contenu/structure-hn-seo.html)
+  Découvrez comment la structure HN SEO (H1, H2, H3) booste votre référencement. Guide pratique, exemples concrets et conseils d'experts.
 
 - [Algorithme Google : comprendre son fonctionnement et éviter les pièges SEO](https://blotmkt.com/ia/definition/algorithme-google.html)
   Décryptez l'algorithme Google et ses mises à jour. Évitez la sur-optimisation et adoptez une stratégie SEO durable pour un meilleur positionnement.
@@ -282,6 +294,14 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 - [Méta description : guide ultime pour optimiser votre seo](https://blotmkt.com/data/contenu/meta-description.md)
 
 - [Mise à jour contenu seo : adaptez-vous aux algos et évitez la sur-optimisation](https://blotmkt.com/data/contenu/mise-a-jour-contenu-seo.md)
+
+- [Mots-clés de marque : maîtrisez votre visibilité et protégez votre réputation](https://blotmkt.com/data/contenu/mots-cles-de-marque.md)
+
+- [Rédaction ia assistée : maximisez votre seo et votre productivité en 2026](https://blotmkt.com/data/contenu/redaction-ia-assistee.md)
+
+- [Stratégie éditoriale SEO : de l'intention à la performance organique](https://blotmkt.com/data/contenu/strategie-editoriale-seo.md)
+
+- [Structure HN SEO : guide complet pour optimiser votre contenu](https://blotmkt.com/data/contenu/structure-hn-seo.md)
 
 - [Algorithme Google : comprendre son fonctionnement et éviter les pièges SEO](https://blotmkt.com/data/definition/algorithme-google.md)
 

@@ -1,0 +1,49 @@
+{
+  "score_global": 0.8685,
+  "mu": 0.8733,
+  "sigma_min": 0.8654,
+  "mmr_score": 0.2688,
+  "kl_divergence": 0.323,
+  "kl_status": "OK",
+  "transition_prob": 0.8365,
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.8832,
+      "status": "OK",
+      "best_chunk": "Structure HN SEO : guide complet pour optimiser votre contenu Sommaire - La structure HN SEO : définition et importance ",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.8783,
+      "status": "OK",
+      "best_chunk": "Structure HN SEO : guide complet pour optimiser votre contenu Sommaire - La structure HN SEO : définition et importance ",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.87,
+      "status": "OK",
+      "best_chunk": "Structure HN SEO : guide complet pour optimiser votre contenu Sommaire - La structure HN SEO : définition et importance ",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.8654,
+      "status": "OK",
+      "best_chunk": "Structure HN SEO : guide complet pour optimiser votre contenu Sommaire - La structure HN SEO : définition et importance ",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.8694,
+      "status": "OK",
+      "best_chunk": "Structure HN SEO : guide complet pour optimiser votre contenu Sommaire - La structure HN SEO : définition et importance ",
+      "chunk_index": 0
+    }
+  },
+  "weak_axes": [],
+  "verdict": "OK",
+  "chunks_count": 10
+}

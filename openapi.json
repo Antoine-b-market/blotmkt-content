@@ -228,6 +228,98 @@
         }
       }
     },
+    "/data/contenu/mots-cles-de-marque.md": {
+      "get": {
+        "summary": "Mots-clés de marque : maîtrisez votre visibilité et protégez votre réputation",
+        "description": "Découvrez comment les mots-clés de marque optimisent votre SEO. Identifiez-les, utilisez-les stratégiquement et protégez votre marque en ligne.",
+        "operationId": "mots_cles_de_marque",
+        "tags": [
+          "contenu"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/contenu/redaction-ia-assistee.md": {
+      "get": {
+        "summary": "Rédaction ia assistée : maximisez votre seo et votre productivité en 2026",
+        "description": "découvrez comment la rédaction ia assistée révolutionne le contenu et le seo. comprenez ses avantages, ses limites et les meilleures pratiques pour un roi optimal.",
+        "operationId": "redaction_ia_assistee",
+        "tags": [
+          "contenu"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/contenu/strategie-editoriale-seo.md": {
+      "get": {
+        "summary": "Stratégie éditoriale SEO : de l'intention à la performance organique",
+        "description": "Découvrez comment élaborer une stratégie éditoriale SEO efficace. Mesurez l'impact du contenu, maîtrisez le SEO copywriting et construisez une autorité cognitive durable.",
+        "operationId": "strategie_editoriale_seo",
+        "tags": [
+          "contenu"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/contenu/structure-hn-seo.md": {
+      "get": {
+        "summary": "Structure HN SEO : guide complet pour optimiser votre contenu",
+        "description": "Découvrez comment la structure HN SEO (H1, H2, H3) booste votre référencement. Guide pratique, exemples concrets et conseils d'experts.",
+        "operationId": "structure_hn_seo",
+        "tags": [
+          "contenu"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/data/definition/algorithme-google.md": {
       "get": {
         "summary": "Algorithme Google : comprendre son fonctionnement et éviter les pièges SEO",

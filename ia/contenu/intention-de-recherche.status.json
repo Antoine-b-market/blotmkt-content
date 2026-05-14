@@ -23,7 +23,7 @@
   "hreflang": "fr-CA",
   "force_published": false,
   "created_at": "2026-05-14T03:29:47.519574Z",
-  "updated_at": "2026-05-14T03:30:15.824234Z",
+  "updated_at": "2026-05-14T03:55:38.560949Z",
   "scores": {
     "qfo_global": {
       "value": 0.6143,
@@ -33,7 +33,7 @@
       "blocking": true
     },
     "quotability": {
-      "value": 0.481,
+      "value": 0.4763,
       "threshold": 0.45,
       "direction": "higher_better",
       "passed": true,
@@ -47,28 +47,28 @@
       "blocking": true
     },
     "atomic_proof": {
-      "value": 0.4864,
+      "value": 0.4458,
       "threshold": 0.35,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "semantic_density": {
-      "value": 0.3977,
+      "value": 0.4111,
       "threshold": 0.3,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "information_gain": {
-      "value": 0.1673,
+      "value": 0.1656,
       "threshold": 0.08,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "perplexity_variance": {
-      "value": 0.2558,
+      "value": 0.2503,
       "threshold": 0.12,
       "direction": "higher_better",
       "passed": true,
@@ -82,5 +82,33 @@
       "blocking": false
     }
   },
-  "fix_history": []
+  "fix_history": [
+    {
+      "fix_type": "fix_qfo",
+      "model": "claude-sonnet-4-6",
+      "section_targeted": "Stratégies de contenu et SEO technique adaptées aux intentions {#strategies-de-contenu-et-seo-technique-adaptees-aux-intentions}",
+      "fixed_at": "2026-05-14T03:55:38.560937Z",
+      "scores_before": {
+        "qfo_global": 0.6143,
+        "quotability": 0.481,
+        "chunk_diversity": 0.7489,
+        "atomic_proof": 0.4864,
+        "semantic_density": 0.3977,
+        "information_gain": 0.1673,
+        "perplexity_variance": 0.2558,
+        "entity_alignment": 0.7526
+      },
+      "scores_after": {
+        "qfo_global": 0.6143,
+        "quotability": 0.4763,
+        "chunk_diversity": 0.7489,
+        "atomic_proof": 0.4458,
+        "semantic_density": 0.4111,
+        "information_gain": 0.1656,
+        "perplexity_variance": 0.2503,
+        "entity_alignment": 0.7526
+      },
+      "result": "fail"
+    }
+  ]
 }

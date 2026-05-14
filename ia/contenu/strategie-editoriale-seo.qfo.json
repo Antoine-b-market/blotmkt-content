@@ -1,0 +1,49 @@
+{
+  "score_global": 0.8394,
+  "mu": 0.8422,
+  "sigma_min": 0.8375,
+  "mmr_score": 0.2837,
+  "kl_divergence": 0.311,
+  "kl_status": "OK",
+  "transition_prob": 0.675,
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.8428,
+      "status": "OK",
+      "best_chunk": "Stratégie éditoriale SEO : de l'intention à la performance organique Sommaire - Qu'est-ce qu'une stratégie éditoriale SE",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.8506,
+      "status": "OK",
+      "best_chunk": "Stratégie éditoriale SEO : de l'intention à la performance organique Sommaire - Qu'est-ce qu'une stratégie éditoriale SE",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.8375,
+      "status": "OK",
+      "best_chunk": "Stratégie éditoriale SEO : de l'intention à la performance organique Sommaire - Qu'est-ce qu'une stratégie éditoriale SE",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.8388,
+      "status": "OK",
+      "best_chunk": "Stratégie éditoriale SEO : de l'intention à la performance organique Sommaire - Qu'est-ce qu'une stratégie éditoriale SE",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.8414,
+      "status": "OK",
+      "best_chunk": "Stratégie éditoriale SEO : de l'intention à la performance organique Sommaire - Qu'est-ce qu'une stratégie éditoriale SE",
+      "chunk_index": 0
+    }
+  },
+  "weak_axes": [],
+  "verdict": "OK",
+  "chunks_count": 7
+}

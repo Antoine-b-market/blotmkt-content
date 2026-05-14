@@ -1,0 +1,106 @@
+{
+  "keyword": "Structure HN SEO",
+  "intention": "informationnelle",
+  "titre_h1": "Structure HN SEO : guide complet pour optimiser votre contenu",
+  "meta_description": "Découvrez comment la structure HN SEO (H1, H2, H3) booste votre référencement. Guide pratique, exemples concrets et conseils d'experts.",
+  "angle_editorial": "Dans 80% des audits, une structure HN chaotique entrave la compréhension des moteurs de recherche et des IA, transformant un contenu soigné en une opportunité manquée. Maîtrisez-la pour valoriser chaque mot.",
+  "query_fanout": [
+    "Qu'est-ce que la structure HN en SEO et pourquoi est-elle si importante pour le référencement ?",
+    "Comment optimiser concrètement les balises H1, H2 et H3 pour améliorer la visibilité de votre contenu ?",
+    "Quels outils et méthodes existent pour auditer et corriger efficacement la hiérarchie de vos titres HN ?",
+    "Quel est l'impact de la structure HN sur l'expérience utilisateur, notamment sur mobile, et les Featured Snippets ?",
+    "Au-delà des titres Hn classiques, quelles sont les stratégies complémentaires pour renforcer l'impact SEO ?"
+  ],
+  "structure": [
+    {
+      "h2": "La structure HN SEO : définition et importance capitale pour les moteurs et les IA",
+      "type": "definition",
+      "points_cles": [
+        "Comprendre le rôle des H1, H2, H3 comme squelette sémantique du contenu.",
+        "Pourquoi une hiérarchie claire est essentielle pour Google et les LLMs (Large Language Models).",
+        "L'impact direct sur la compréhension du sujet, l'indexation et la pertinence."
+      ]
+    },
+    {
+      "h2": "Optimiser les balises H1, H2, H3 : la méthode pas à pas pour un contenu structuré",
+      "type": "technique",
+      "points_cles": [
+        "Les règles d'or pour un H1 unique, pertinent et ciblé (20-70 caractères, mot-clé principal au début).",
+        "Comment concevoir des H2 alignés sur les sous-intentions de recherche et les questions fréquentes.",
+        "L'utilisation stratégique des H3 pour la profondeur, la granularité thématique et les détails."
+      ]
+    },
+    {
+      "h2": "Structure HN et expérience utilisateur : au service de la lecture et du SEO mobile",
+      "type": "usage",
+      "points_cles": [
+        "Comment une bonne hiérarchie facilite le scan rapide du contenu par l'utilisateur.",
+        "L'importance du 'mobile-first' dans la conception de votre structure HN.",
+        "Réduire le taux de rebond et augmenter l'engagement utilisateur grâce à une meilleure lisibilité."
+      ]
+    },
+    {
+      "h2": "Impact réel et données : les bénéfices concrets d'une structure HN optimisée",
+      "type": "preuve",
+      "points_cles": [
+        "Augmentation significative de la visibilité sur les requêtes longue traîne grâce à des H2/H3 précis.",
+        "Multiplication des chances d'éligibilité aux Featured Snippets (2,4 fois plus sur les audits BlotMKT).",
+        "Amélioration du crawl budget et de l'indexation pour les pages catégories et services."
+      ]
+    },
+    {
+      "h2": "Les outils incontournables pour auditer et perfectionner votre hiérarchie HN",
+      "type": "technique",
+      "points_cles": [
+        "Utilisation de l'inspecteur de navigateur et d'extensions comme 'Headings Map' pour une visualisation rapide.",
+        "Audits site-wide avec Google Search Console et SEMrush pour détecter les anomalies (H1 manquants/dupliqués).",
+        "Vérification de la logique sémantique des balises HN par rapport à leur rendu visuel (problèmes WordPress)."
+      ]
+    },
+    {
+      "h2": "Au-delà des classiques H1-H3 : compléments pour un SEO holistique et durable",
+      "type": "avance",
+      "points_cles": [
+        "Le rôle crucial du maillage interne pour renforcer l'autorité thématique et le PageRank.",
+        "L'optimisation des balises alt des images comme levier de visibilité sur Google Images.",
+        "Pérenniser la structure HN : un audit continu à chaque évolution éditoriale et non un chantier ponctuel."
+      ]
+    },
+    {
+      "h2": "Questions fréquentes sur la structure HN en SEO",
+      "type": "faq",
+      "points_cles": [
+        "Comment vérifier ma structure HN sur mon site ?",
+        "Quel est le nombre idéal de balises H2 par page pour le SEO ?",
+        "Comment intégrer les mots-clés dans mes titres HN sans sur-optimisation ?",
+        "La structure HN a-t-elle un impact direct sur le SEO mobile et l'accessibilité ?"
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "balises H1 H2 H3",
+    "référencement titres",
+    "optimisation contenu SEO",
+    "hiérarchie titres",
+    "sémantique SEO",
+    "featured snippets",
+    "expérience utilisateur SEO",
+    "SEO mobile titres",
+    "audit structure HN"
+  ],
+  "questions_paa": [
+    "Comment les balises H1, H2, H3 influencent-elles directement le classement SEO sur Google ?",
+    "Quels sont les pièges à éviter absolument lors de l'optimisation de sa structure HN ?",
+    "La structure HN est-elle plus importante pour certains types de pages (blog, e-commerce, services) ?",
+    "Comment une bonne structure HN aide-t-elle les outils d'IA et les assistants vocaux à mieux comprendre mon contenu ?",
+    "Quelle est la différence entre un titre visuel et une balise Hn pour le SEO ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 950,
+  "category": "contenu",
+  "lang": "fr",
+  "brief_mode": "standard",
+  "hreflang": "fr-CA",
+  "slug": "structure-hn-seo",
+  "google_context": {}
+}

@@ -102,6 +102,40 @@ pages:
   keyword: Mise à jour contenu SEO
   title: 'Mise à jour contenu seo : adaptez-vous aux algos et évitez la sur-optimisation'
   url: https://blotmkt.com/data/contenu/mise-a-jour-contenu-seo.md
+- category: contenu
+  date: 2026-05-14 04:06
+  description: Découvrez comment les mots-clés de marque optimisent votre SEO. Identifiez-les,
+    utilisez-les stratégiquement et protégez votre marque en ligne.
+  html_url: https://blotmkt.com/ia/contenu/mots-cles-de-marque.html
+  keyword: Mots-clés de marque
+  title: 'Mots-clés de marque : maîtrisez votre visibilité et protégez votre réputation'
+  url: https://blotmkt.com/data/contenu/mots-cles-de-marque.md
+- category: contenu
+  date: 2026-05-14 04:04
+  description: découvrez comment la rédaction ia assistée révolutionne le contenu
+    et le seo. comprenez ses avantages, ses limites et les meilleures pratiques pour
+    un roi optimal.
+  html_url: https://blotmkt.com/ia/contenu/redaction-ia-assistee.html
+  keyword: Rédaction IA assistée
+  title: 'Rédaction ia assistée : maximisez votre seo et votre productivité en 2026'
+  url: https://blotmkt.com/data/contenu/redaction-ia-assistee.md
+- category: contenu
+  date: 2026-05-14 03:59
+  description: Découvrez comment élaborer une stratégie éditoriale SEO efficace. Mesurez
+    l'impact du contenu, maîtrisez le SEO copywriting et construisez une autorité
+    cognitive durable.
+  html_url: https://blotmkt.com/ia/contenu/strategie-editoriale-seo.html
+  keyword: Stratégie éditoriale SEO
+  title: 'Stratégie éditoriale SEO : de l''intention à la performance organique'
+  url: https://blotmkt.com/data/contenu/strategie-editoriale-seo.md
+- category: contenu
+  date: 2026-05-14 04:02
+  description: Découvrez comment la structure HN SEO (H1, H2, H3) booste votre référencement.
+    Guide pratique, exemples concrets et conseils d'experts.
+  html_url: https://blotmkt.com/ia/contenu/structure-hn-seo.html
+  keyword: Structure HN SEO
+  title: 'Structure HN SEO : guide complet pour optimiser votre contenu'
+  url: https://blotmkt.com/data/contenu/structure-hn-seo.md
 - category: definition
   date: 2026-05-05 06:14
   description: Décryptez l'algorithme Google et ses mises à jour. Évitez la sur-optimisation
@@ -745,6 +779,6 @@ site:
   language: fr
   name: BlotMKT
   sameAs: https://www.antoine-blot.com
-  total_pages: 83
+  total_pages: 87
   updated: '2026-05-14'
   url: https://blotmkt.com
