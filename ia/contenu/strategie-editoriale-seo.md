@@ -43,7 +43,7 @@ La plupart des stratégies éditoriales SEO échouent pour la même raison : ell
 > - 
 Près de 60 % des recherches Google se terminent sans un seul clic : les métriques de trafic seul ne suffisent plus.
 
-> - Le SEO copywriting ciblant les mots-clés transactionnels génère un ROI de 748 % (AIOSEO, 2026).
+> - Le SEO copywriting ciblant les [Mots-clés transactionnels](https://blotmkt.com/ia/contenu/mots-cles-transactionnels.html) génère un ROI de 748 % (AIOSEO, 2026).
 > - Les 6 piliers interdépendants (technique, mots-clés, on-page, contenu, netlinking, mesure) doivent être activés ensemble.
 <!-- speakable:end -->
 
@@ -63,11 +63,11 @@ Les métriques traditionnelles comme les clics et le trafic ne suffisent plus : 
 
 ## Les 6 piliers pour une stratégie éditoriale SEO performante {#piliers}
 
-Toute [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) solide repose sur six piliers interdépendants. Isoler l'un d'entre eux, c'est fragiliser l'ensemble.
+Toute Stratégie SEO solide repose sur six piliers interdépendants. Isoler l'un d'entre eux, c'est fragiliser l'ensemble.
 
 1. Audit technique : identifier les erreurs d'indexation, les pages lentes, les problèmes de crawl et de redirections. Sans fondations saines, le contenu ne sera jamais correctement exploré ni indexé.
 2. Recherche de mots-clés : cartographier les intentions de recherche via des outils comme Google Search Console, le Planificateur de mots clés Google Ads et Semrush. L'analyse des LSI Keywords et des entités sémantiques affine la couverture thématique.
-3. Optimisation on-page : aligner les balises titre, méta descriptions, structure Hn, et contenu sur les requêtes visées, en intégrant les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) Schema.org pour faciliter la compréhension par les IA.
+3. Optimisation on-page : aligner les balises titre, méta descriptions, structure Hn, et contenu sur les requêtes visées, en intégrant les Données structurées Schema.org pour faciliter la compréhension par les IA.
 4. Création de contenu : produire des ressources qui répondent précisément aux besoins utilisateurs avec une profondeur que les AI Overviews ne peuvent pas synthétiser seuls.
 5. Netlinking : 
 une page en position 1 a 58 % de chances d'être citée par ChatGPT, contre seulement 14 % en position 10
@@ -157,7 +157,7 @@ Sur les projets que je pilote dans le secteur B2B tech à Montréal, le SEO prog
 
 ## L'indispensable fondation technique pour une stratégie éditoriale pérenne {#technique}
 
-Un audit SEO technique est un diagnostic complet des fondations d'un site : crawlabilité, indexation, vitesse, données structurées, redirections et Core Web Vitals. Il est indispensable parce que 91,4 % des sites présentent des problèmes de redirection (Digidop, 2025). Sans audit préalable, toute optimisation de contenu repose sur des fondations fissurées.
+Un audit SEO technique est un diagnostic complet des fondations d'un site : crawlabilité, indexation, vitesse, données structurées, redirections et Core Web Vitals. Il est indispensable parce que 91,4 % des sites présentent des problèmes de redirection (Digidop, 2025). Sans audit préalable, toute [Optimisation de contenu](https://blotmkt.com/ia/contenu/optimisation-de-contenu.html) repose sur des fondations fissurées.
 
 L'impact sur la conversion est direct et chiffré. Les pages qui chargent en 1 seconde affichent un taux de conversion moyen de 9,6 %, contre 3,3 % à 5 secondes (Portent, 2025). Optimiser les Core Web Vitals, réduire le LCP et corriger l'instabilité visuelle CLS améliore directement la conversion.
 

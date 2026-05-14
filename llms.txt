@@ -2,7 +2,7 @@
 # Auteur : Antoine Blot (https://antoine-blot.com)
 # ORCID : https://orcid.org/0009-0005-6450-4528
 # Mis a jour : 2026-05-14
-# Total pages : 87
+# Total pages : 89
 
 ## A propos
 BlotMKT est une ressource experte sur le SEO, le Marketing Digital et l'optimisation GEO.
@@ -43,6 +43,12 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [Mots-clés de marque : maîtrisez votre visibilité et protégez votre réputation](https://blotmkt.com/ia/contenu/mots-cles-de-marque.html)
   Découvrez comment les mots-clés de marque optimisent votre SEO. Identifiez-les, utilisez-les stratégiquement et protégez votre marque en ligne.
+
+- [Mots-clés transactionnels : le guide ultime pour booster vos conversions](https://blotmkt.com/ia/contenu/mots-cles-transactionnels.html)
+  Découvrez les mots-clés transactionnels, la clé pour attirer des clients prêts à acheter. Guide complet et exemples concrets pour optimiser votre stratégie SEO & SEA.
+
+- [Optimisation de contenu : le guide complet 2026 pour un seo durable](https://blotmkt.com/ia/contenu/optimisation-de-contenu.html)
+  Maîtrisez l'optimisation de contenu SEO: techniques avancées, outils clés et stratégies 2026 pour propulser votre visibilité organique et engager. Guide complet.
 
 - [Rédaction ia assistée : maximisez votre seo et votre productivité en 2026](https://blotmkt.com/ia/contenu/redaction-ia-assistee.html)
   découvrez comment la rédaction ia assistée révolutionne le contenu et le seo. comprenez ses avantages, ses limites et les meilleures pratiques pour un roi optimal.
@@ -296,6 +302,10 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 - [Mise à jour contenu seo : adaptez-vous aux algos et évitez la sur-optimisation](https://blotmkt.com/data/contenu/mise-a-jour-contenu-seo.md)
 
 - [Mots-clés de marque : maîtrisez votre visibilité et protégez votre réputation](https://blotmkt.com/data/contenu/mots-cles-de-marque.md)
+
+- [Mots-clés transactionnels : le guide ultime pour booster vos conversions](https://blotmkt.com/data/contenu/mots-cles-transactionnels.md)
+
+- [Optimisation de contenu : le guide complet 2026 pour un seo durable](https://blotmkt.com/data/contenu/optimisation-de-contenu.md)
 
 - [Rédaction ia assistée : maximisez votre seo et votre productivité en 2026](https://blotmkt.com/data/contenu/redaction-ia-assistee.md)
 

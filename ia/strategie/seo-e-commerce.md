@@ -45,7 +45,7 @@ La recherche organique génère 43 % du trafic e-commerce
 > ## L'essentiel à retenir
 > - Optimiser une boutique en ligne pour la recherche organique capte 43 % du trafic e-commerce total sans payer chaque clic.
 > - Le SEO e-commerce offre un ROI de 317 % avec un retour sur investissement positif en 6 à 12 mois.
-> - Les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) Product augmentent de 20 à 40 % le taux de clic et conditionnent la visibilité dans les AI Overviews.
+> - Les Données structurées Product augmentent de 20 à 40 % le taux de clic et conditionnent la visibilité dans les AI Overviews.
 > - Les mots-clés longue traîne convertissent 2,5 fois mieux que les mots-clés génériques sur les fiches produits.
 
 ---
@@ -155,7 +155,7 @@ En tant que stratège marketing, je déconseille le Prompt SEO en mode "pur" pou
 
 Trois erreurs récurrentes plombent les performances SEO des boutiques en ligne, indépendamment de leur taille ou de leur budget.
 
-Négliger l'arborescence des catégories est l'erreur la plus coûteuse. Une page catégorie mal nommée, sans contenu éditorial ni maillage interne structuré, laisse des dizaines de Mots-clés transactionnels à forte valeur sans ancrage sur le site. 
+Négliger l'arborescence des catégories est l'erreur la plus coûteuse. Une page catégorie mal nommée, sans contenu éditorial ni maillage interne structuré, laisse des dizaines de [Mots-clés transactionnels](https://blotmkt.com/ia/contenu/mots-cles-transactionnels.html) à forte valeur sans ancrage sur le site. 
 86 % des sites e-commerce ont un maillage interne non optimisé
  - c'est autant d'autorité de page gaspillée.
 

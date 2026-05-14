@@ -95,7 +95,7 @@ La performance technique conditionne l'indexation.
 Amazon a mesuré que 100 ms de latence équivalent à 1 % de ventes en moins
  - signal direct que la vitesse impacte le chiffre d'affaires, pas seulement l'expérience utilisateur.
 
-La concurrence sur les mots-clés ciblés joue directement sur les délais de résultats. J'observe que les secteurs où les Mots-clés transactionnels sont saturés nécessitent un investissement SEO 30 à 50 % plus élevé pour un CAC équivalent.
+La concurrence sur les mots-clés ciblés joue directement sur les délais de résultats. J'observe que les secteurs où les [Mots-clés transactionnels](https://blotmkt.com/ia/contenu/mots-cles-transactionnels.html) sont saturés nécessitent un investissement SEO 30 à 50 % plus élevé pour un CAC équivalent.
 
 ---
 
@@ -215,7 +215,7 @@ La répartition classique pour une PME en croissance alloue 30 % du budget digit
 ### Comment mesurer le ROI du SEO ?
 
 Le ROI SEO se calcule ainsi : (CA attribué au trafic organique − investissement SEO total) ÷ investissement SEO total × 100. L'attribution du CA organique se configure dans GA4 via les segments de source de trafic. 
-Incremys (2026) estime le ROI moyen d'un projet [SEO local](https://blotmkt.com/ia/definition/seo-local.html) pour une PME à ×3 sur 12 mois.
+Incremys (2026) estime le ROI moyen d'un projet SEO local pour une PME à ×3 sur 12 mois.
  Pour les B2B avec des cycles de vente longs, intégrez la valeur à vie du client (LTV) dans le calcul pour obtenir un ROI SEO représentatif de la rentabilité réelle.
 
 ---

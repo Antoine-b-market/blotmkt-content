@@ -1,0 +1,55 @@
+{
+  "score_global": 0.6808,
+  "mu": 0.6924,
+  "sigma_min": 0.6731,
+  "mmr_score": 0.2183,
+  "kl_divergence": 0.4448,
+  "kl_status": "OK",
+  "transition_prob": 0.8972,
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.6781,
+      "status": "FAIL",
+      "best_chunk": "Optimisation de contenu : le guide complet 2026 pour un SEO durable Sommaire - Qu'est-ce que l'optimisation de contenu e",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7092,
+      "status": "FAIL",
+      "best_chunk": "Optimisation de contenu : le guide complet 2026 pour un SEO durable Sommaire - Qu'est-ce que l'optimisation de contenu e",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.6731,
+      "status": "FAIL",
+      "best_chunk": "Optimisation de contenu : le guide complet 2026 pour un SEO durable Sommaire - Qu'est-ce que l'optimisation de contenu e",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.6812,
+      "status": "FAIL",
+      "best_chunk": "Optimisation de contenu : le guide complet 2026 pour un SEO durable Sommaire - Qu'est-ce que l'optimisation de contenu e",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7204,
+      "status": "FAIL",
+      "best_chunk": "Optimisation de contenu : le guide complet 2026 pour un SEO durable Sommaire - Qu'est-ce que l'optimisation de contenu e",
+      "chunk_index": 0
+    }
+  },
+  "weak_axes": [
+    "sous_sujet",
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "verdict": "REVIEW_NEEDED",
+  "chunks_count": 9
+}

@@ -251,6 +251,52 @@
         }
       }
     },
+    "/data/contenu/mots-cles-transactionnels.md": {
+      "get": {
+        "summary": "Mots-clés transactionnels : le guide ultime pour booster vos conversions",
+        "description": "Découvrez les mots-clés transactionnels, la clé pour attirer des clients prêts à acheter. Guide complet et exemples concrets pour optimiser votre stratégie SEO & SEA.",
+        "operationId": "mots_cles_transactionnels",
+        "tags": [
+          "contenu"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/contenu/optimisation-de-contenu.md": {
+      "get": {
+        "summary": "Optimisation de contenu : le guide complet 2026 pour un seo durable",
+        "description": "Maîtrisez l'optimisation de contenu SEO: techniques avancées, outils clés et stratégies 2026 pour propulser votre visibilité organique et engager. Guide complet.",
+        "operationId": "optimisation_de_contenu",
+        "tags": [
+          "contenu"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/data/contenu/redaction-ia-assistee.md": {
       "get": {
         "summary": "Rédaction ia assistée : maximisez votre seo et votre productivité en 2026",

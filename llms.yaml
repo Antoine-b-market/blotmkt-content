@@ -111,6 +111,24 @@ pages:
   title: 'Mots-clés de marque : maîtrisez votre visibilité et protégez votre réputation'
   url: https://blotmkt.com/data/contenu/mots-cles-de-marque.md
 - category: contenu
+  date: 2026-05-14 04:08
+  description: Découvrez les mots-clés transactionnels, la clé pour attirer des clients
+    prêts à acheter. Guide complet et exemples concrets pour optimiser votre stratégie
+    SEO & SEA.
+  html_url: https://blotmkt.com/ia/contenu/mots-cles-transactionnels.html
+  keyword: Mots-clés transactionnels
+  title: 'Mots-clés transactionnels : le guide ultime pour booster vos conversions'
+  url: https://blotmkt.com/data/contenu/mots-cles-transactionnels.md
+- category: contenu
+  date: 2026-05-14 04:10
+  description: 'Maîtrisez l''optimisation de contenu SEO: techniques avancées, outils
+    clés et stratégies 2026 pour propulser votre visibilité organique et engager.
+    Guide complet.'
+  html_url: https://blotmkt.com/ia/contenu/optimisation-de-contenu.html
+  keyword: Optimisation de contenu
+  title: 'Optimisation de contenu : le guide complet 2026 pour un seo durable'
+  url: https://blotmkt.com/data/contenu/optimisation-de-contenu.md
+- category: contenu
   date: 2026-05-14 04:04
   description: découvrez comment la rédaction ia assistée révolutionne le contenu
     et le seo. comprenez ses avantages, ses limites et les meilleures pratiques pour
@@ -779,6 +797,6 @@ site:
   language: fr
   name: BlotMKT
   sameAs: https://www.antoine-blot.com
-  total_pages: 87
+  total_pages: 89
   updated: '2026-05-14'
   url: https://blotmkt.com
