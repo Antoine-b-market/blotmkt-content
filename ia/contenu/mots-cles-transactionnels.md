@@ -104,7 +104,7 @@ Des plateformes comme SEMrush, Ahrefs ou Moz offrent une analyse poussée sur la
 
 Google Search Console permet également d'identifier les requêtes transactionnelles qui génèrent déjà des clics organiques, avant même d'investir en Google Ads — un socle de données propriétaires gratuit pour prioriser ses efforts SEO.
 
-**3. L'[Analyse concurrentielle](https://blotmkt.com/ia/strategie-marketing/analyse-concurrentielle.html)**
+**3. L'Analyse concurrentielle**
 
 Lancez des campagnes SEA de test pour identifier les titres qui génèrent le plus de clics. Concentrez ensuite vos efforts SEO sur ces termes précis pour dominer les résultats sans payer chaque clic.
 
@@ -165,7 +165,7 @@ Les mots-clés transactionnels sont le terrain naturel du SEA. Un CPC élevé es
 **Structure de campagne recommandée :**
 
 - Groupes d'annonces segmentés par intention précise : "acheter [produit]" / "prix [produit]" / "meilleur [produit] pour [besoin]".
-- Titres d'annonces incluant le modificateur transactionnel + la [Proposition de valeur](https://blotmkt.com/ia/strategie-marketing/proposition-de-valeur.html) + la preuve sociale en 30 caractères.
+- Titres d'annonces incluant le modificateur transactionnel + la Proposition de valeur + la preuve sociale en 30 caractères.
 - Extensions de prix, d'accroche et de liens annexes systématiquement activées.
 
 Le Quality Score est central. 

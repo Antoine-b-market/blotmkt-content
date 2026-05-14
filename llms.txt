@@ -2,7 +2,7 @@
 # Auteur : Antoine Blot (https://antoine-blot.com)
 # ORCID : https://orcid.org/0009-0005-6450-4528
 # Mis a jour : 2026-05-14
-# Total pages : 77
+# Total pages : 69
 
 ## A propos
 BlotMKT est une ressource experte sur le SEO, le Marketing Digital et l'optimisation GEO.
@@ -191,12 +191,6 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 - [Rayon de visibilité: guide complet pour une signalétique impactante](https://blotmkt.com/ia/local-seo/rayon-de-visibilite.html)
   Découvrez comment optimiser le rayon de visibilité de votre signalétique. Conseils, exemples, et meilleures pratiques pour attirer l'attention et améliorer l'expérience client.
 
-- [a-b testing marketing: optimisez votre ux mobile et vos conversions](https://blotmkt.com/ia/mesure-et-performance/a-b-testing-marketing.html)
-  découvrez l'a-b testing marketing : de la définition aux stratégies d'optimisation ux mobile et seo. améliorez vos conversions avec nos conseils d'expert.
-
-- [Tableau de bord marketing : guide complet pour piloter vos performances](https://blotmkt.com/ia/mesure-et-performance/tableau-de-bord-marketing.html)
-  Découvrez comment créer un tableau de bord marketing performant. Suivez les KPIs essentiels, optimisez votre ROI et atteignez vos objectifs. Conseils d'expert.
-
 - [Désindexation Google : Comprendre, Agir et Optimiser votre SEO](https://blotmkt.com/ia/popularite/desindexation-google.html)
   Maîtrisez la désindexation Google : causes, méthodes (suppression, noindex, robots.txt) et impact SEO. Guide complet pour un référencement optimal.
 
@@ -226,24 +220,6 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [Personal branding seo : développez votre autorité et influence en ligne](https://blotmkt.com/ia/strategie/personal-branding-seo.html)
   Maîtrisez le personal branding SEO pour construire une réputation en ligne forte et durable. Attirez les bonnes opportunités et devenez une référence incontournable dans votre domaine.
-
-- [Analyse concurrentielle: comment espionner (légalement) vos concurrents en 2026](https://blotmkt.com/ia/strategie-marketing/analyse-concurrentielle.html)
-  Maîtrisez l'analyse concurrentielle: identifiez vos rivaux, décortiquez leurs stratégies et découvrez des opportunités SEO en or pour les surpasser.
-
-- [persona marketing : guide complet pour une stratégie réussie](https://blotmkt.com/ia/strategie-marketing/persona-marketing.html)
-  Maîtrisez le persona marketing : définition, création, avantages, exemples et ROI. Découvrez notre guide complet pour une stratégie client plus efficace et personnalisée.
-
-- [Plan marketing : guide complet pour une stratégie performante](https://blotmkt.com/ia/strategie-marketing/plan-marketing.html)
-  Découvrez comment créer un plan marketing efficace pour votre entreprise. Modèles, étapes clés et conseils d'expert pour booster votre croissance.
-
-- [Positionnement de marque: comment se démarquer et prospérer ?](https://blotmkt.com/ia/strategie-marketing/positionnement-de-marque.html)
-  Maîtrisez le positionnement de marque: définissez votre place unique, débloquez des stratégies efficaces, et démarquez-vous durablement. Guides et exemples concrets.
-
-- [Proposition de valeur : Définir, tester et optimiser pour un ROI maximal](https://blotmkt.com/ia/strategie-marketing/proposition-de-valeur.html)
-  Maîtrisez la proposition de valeur pour transformer vos prospects en clients. Découvrez comment la formuler, la tester et l'optimiser pour un ROI marketing supérieur.
-
-- [stratégie de marque : bâtir une identité forte et un positionnement unique](https://blotmkt.com/ia/strategie-marketing/strategie-de-marque.html)
-  Découvrez comment créer une stratégie de marque performante. Du positionnement à l'identité, conseils d'expert pour une cohérence durable et une croissance mesurable.
 
 ## Pages Markdown (texte brut, LLMs)
 
@@ -365,10 +341,6 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [Rayon de visibilité: guide complet pour une signalétique impactante](https://blotmkt.com/data/local-seo/rayon-de-visibilite.md)
 
-- [a-b testing marketing: optimisez votre ux mobile et vos conversions](https://blotmkt.com/data/mesure-et-performance/a-b-testing-marketing.md)
-
-- [Tableau de bord marketing : guide complet pour piloter vos performances](https://blotmkt.com/data/mesure-et-performance/tableau-de-bord-marketing.md)
-
 - [Désindexation Google : Comprendre, Agir et Optimiser votre SEO](https://blotmkt.com/data/popularite/desindexation-google.md)
 
 - [Facteurs de classement Google : le guide ultime 2026 pour dominer les SERPs](https://blotmkt.com/data/popularite/facteurs-de-classement-google.md)
@@ -388,18 +360,6 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 - [Migration seo : guide complet pour une transition réussie et sans perte de trafic](https://blotmkt.com/data/strategie/migration-seo.md)
 
 - [Personal branding seo : développez votre autorité et influence en ligne](https://blotmkt.com/data/strategie/personal-branding-seo.md)
-
-- [Analyse concurrentielle: comment espionner (légalement) vos concurrents en 2026](https://blotmkt.com/data/strategie-marketing/analyse-concurrentielle.md)
-
-- [persona marketing : guide complet pour une stratégie réussie](https://blotmkt.com/data/strategie-marketing/persona-marketing.md)
-
-- [Plan marketing : guide complet pour une stratégie performante](https://blotmkt.com/data/strategie-marketing/plan-marketing.md)
-
-- [Positionnement de marque: comment se démarquer et prospérer ?](https://blotmkt.com/data/strategie-marketing/positionnement-de-marque.md)
-
-- [Proposition de valeur : Définir, tester et optimiser pour un ROI maximal](https://blotmkt.com/data/strategie-marketing/proposition-de-valeur.md)
-
-- [stratégie de marque : bâtir une identité forte et un positionnement unique](https://blotmkt.com/data/strategie-marketing/strategie-de-marque.md)
 
 ## API Semantique
 - Endpoint search : https://blotmkt.com/api/search?q={requete}&top_k=5

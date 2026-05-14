@@ -75,7 +75,7 @@ Une stratégie efficace repose sur quatre piliers séquentiels. Sauter l'un d'eu
 **Étape 1 : l'audit de votre empreinte numérique.** Tapez votre nom sur Google. Analysez les 10 premiers résultats. Ce que vous voyez est ce que vos prospects voient en premier. 
 L'E-E-A-T est évalué par les systèmes IA non pas via les signaux on-page comme les bios d'auteur, mais via la validation off-site : quelles publications authorisées vous mentionnent ou vous linkent, quelles plateformes tierces de confiance vous référencent, et quel est le consensus général du web sur votre crédibilité.
 
-**Étape 2 : définir votre [Proposition de valeur](https://blotmkt.com/ia/strategie-marketing/proposition-de-valeur.html) unique.** 
+**Étape 2 : définir votre Proposition de valeur unique.** 
 Selon la recherche Visible Expert® de Hinge Marketing, les spécialistes reconnus dans leur domaine commandent des honoraires 13 fois supérieurs à ceux des généralistes.
  Votre USP doit tenir en une phrase : domaine précis, audience ciblée, résultat mesurable.
 

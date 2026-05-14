@@ -127,7 +127,7 @@ Adapter la méta description au type de page change radicalement son efficacité
 | Page catégorie | Étendue de l'offre + filtre principal + urgence si applicable | "Comparez 80+ agences SEO à Montréal. Avis vérifiés, tarifs et spécialités. Trouvez la bonne en 3 min." |
 
 
-Les limites desktop se situent autour de 150 à 160 caractères. Les appareils mobiles tronquent le texte à environ 120 caractères. Il faut toujours placer la [Proposition de valeur](https://blotmkt.com/ia/strategie-marketing/proposition-de-valeur.html) la plus importante en premier.
+Les limites desktop se situent autour de 150 à 160 caractères. Les appareils mobiles tronquent le texte à environ 120 caractères. Il faut toujours placer la Proposition de valeur la plus importante en premier.
 
 
 Les chiffres, les emojis pertinents et les symboles (⭐, ✓, →) attirent l'œil, mais avec parcimonie : un seul élément visuel par méta suffit à créer un contraste sans paraître spam.

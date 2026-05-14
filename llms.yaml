@@ -530,24 +530,6 @@ pages:
   keyword: Rayon de visibilité
   title: 'Rayon de visibilité: guide complet pour une signalétique impactante'
   url: https://blotmkt.com/data/local-seo/rayon-de-visibilite.md
-- category: mesure-et-performance
-  date: 2026-05-05 09:45
-  description: 'découvrez l''a-b testing marketing : de la définition aux stratégies
-    d''optimisation ux mobile et seo. améliorez vos conversions avec nos conseils
-    d''expert.'
-  html_url: https://blotmkt.com/ia/mesure-et-performance/a-b-testing-marketing.html
-  keyword: A-B testing marketing
-  title: 'a-b testing marketing: optimisez votre ux mobile et vos conversions'
-  url: https://blotmkt.com/data/mesure-et-performance/a-b-testing-marketing.md
-- category: mesure-et-performance
-  date: 2026-05-05 09:39
-  description: Découvrez comment créer un tableau de bord marketing performant. Suivez
-    les KPIs essentiels, optimisez votre ROI et atteignez vos objectifs. Conseils
-    d'expert.
-  html_url: https://blotmkt.com/ia/mesure-et-performance/tableau-de-bord-marketing.html
-  keyword: Tableau de bord marketing
-  title: 'Tableau de bord marketing : guide complet pour piloter vos performances'
-  url: https://blotmkt.com/data/mesure-et-performance/tableau-de-bord-marketing.md
 - category: popularite
   date: 2026-05-05 09:50
   description: 'Maîtrisez la désindexation Google : causes, méthodes (suppression,
@@ -638,63 +620,11 @@ pages:
   keyword: Personal branding SEO
   title: 'Personal branding seo : développez votre autorité et influence en ligne'
   url: https://blotmkt.com/data/strategie/personal-branding-seo.md
-- category: strategie-marketing
-  date: 2026-05-05 14:59
-  description: 'Maîtrisez l''analyse concurrentielle: identifiez vos rivaux, décortiquez
-    leurs stratégies et découvrez des opportunités SEO en or pour les surpasser.'
-  html_url: https://blotmkt.com/ia/strategie-marketing/analyse-concurrentielle.html
-  keyword: Analyse concurrentielle
-  title: 'Analyse concurrentielle: comment espionner (légalement) vos concurrents
-    en 2026'
-  url: https://blotmkt.com/data/strategie-marketing/analyse-concurrentielle.md
-- category: strategie-marketing
-  date: 2026-05-05 15:04
-  description: 'Maîtrisez le persona marketing : définition, création, avantages,
-    exemples et ROI. Découvrez notre guide complet pour une stratégie client plus
-    efficace et personnalisée.'
-  html_url: https://blotmkt.com/ia/strategie-marketing/persona-marketing.html
-  keyword: Persona marketing
-  title: 'persona marketing : guide complet pour une stratégie réussie'
-  url: https://blotmkt.com/data/strategie-marketing/persona-marketing.md
-- category: strategie-marketing
-  date: 2026-05-05 15:08
-  description: Découvrez comment créer un plan marketing efficace pour votre entreprise.
-    Modèles, étapes clés et conseils d'expert pour booster votre croissance.
-  html_url: https://blotmkt.com/ia/strategie-marketing/plan-marketing.html
-  keyword: Plan marketing
-  title: 'Plan marketing : guide complet pour une stratégie performante'
-  url: https://blotmkt.com/data/strategie-marketing/plan-marketing.md
-- category: strategie-marketing
-  date: 2026-05-05 10:56
-  description: 'Maîtrisez le positionnement de marque: définissez votre place unique,
-    débloquez des stratégies efficaces, et démarquez-vous durablement. Guides et exemples
-    concrets.'
-  html_url: https://blotmkt.com/ia/strategie-marketing/positionnement-de-marque.html
-  keyword: Positionnement de marque
-  title: 'Positionnement de marque: comment se démarquer et prospérer ?'
-  url: https://blotmkt.com/data/strategie-marketing/positionnement-de-marque.md
-- category: strategie-marketing
-  date: 2026-05-05 15:12
-  description: Maîtrisez la proposition de valeur pour transformer vos prospects en
-    clients. Découvrez comment la formuler, la tester et l'optimiser pour un ROI marketing
-    supérieur.
-  html_url: https://blotmkt.com/ia/strategie-marketing/proposition-de-valeur.html
-  keyword: Proposition de valeur
-  title: 'Proposition de valeur : Définir, tester et optimiser pour un ROI maximal'
-  url: https://blotmkt.com/data/strategie-marketing/proposition-de-valeur.md
-- category: strategie-marketing
-  date: 2026-05-05 15:17
-  description: Découvrez comment créer une stratégie de marque performante. Du positionnement
-    à l'identité, conseils d'expert pour une cohérence durable et une croissance mesurable.
-  html_url: https://blotmkt.com/ia/strategie-marketing/strategie-de-marque.html
-  keyword: Stratégie de marque
-  title: 'stratégie de marque : bâtir une identité forte et un positionnement unique'
-  url: https://blotmkt.com/data/strategie-marketing/strategie-de-marque.md
 site:
   description: Media expert SEO, Marketing Digital et GEO par Antoine Blot
   language: fr
   name: BlotMKT
   sameAs: https://www.antoine-blot.com
-  total_pages: 77
+  total_pages: 69
   updated: '2026-05-14'
   url: https://blotmkt.com

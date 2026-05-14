@@ -60,7 +60,7 @@ En tant que consultant SEO basé à Montréal, j'observe que mes clients sous-es
 
 ## Analyser votre profil de liens existant : un audit indispensable {#audit}
 
-Avant de construire de nouveaux liens, photographier l'existant est une étape non négociable. Trois outils structurent un audit efficace : Ahrefs pour la profondeur de l'index de backlinks, Semrush pour l'[Analyse concurrentielle](https://blotmkt.com/ia/strategie-marketing/analyse-concurrentielle.html), et Majestic pour les métriques Trust Flow et Citation Flow, particulièrement fiables pour évaluer la confiance accordée à un domaine.
+Avant de construire de nouveaux liens, photographier l'existant est une étape non négociable. Trois outils structurent un audit efficace : Ahrefs pour la profondeur de l'index de backlinks, Semrush pour l'Analyse concurrentielle, et Majestic pour les métriques Trust Flow et Citation Flow, particulièrement fiables pour évaluer la confiance accordée à un domaine.
 
 Les métriques à surveiller en priorité : le Domain Rating (Ahrefs) ou l'Authority Score (Semrush) du site émetteur, le trafic organique réel de la page source, la pertinence thématique du contenu hôte, et la diversité des ancres. Un profil sain présente un ratio d'ancres naturel : environ 40 % ancres de marque, 30 % URL nues, 20 % génériques et 10 % ancres optimisées.
 
