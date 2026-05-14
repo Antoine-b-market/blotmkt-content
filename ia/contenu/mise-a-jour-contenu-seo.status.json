@@ -4,7 +4,7 @@
   "category": "contenu",
   "keyword": "Mise à jour contenu SEO",
   "title": "mise à jour contenu seo : adaptez-vous aux algos et évitez la sur-optimisation",
-  "status": "pending_review",
+  "status": "published",
   "fix_type": null,
   "fix_target": null,
   "stale": false,
@@ -13,7 +13,7 @@
   "hreflang": "fr-CA",
   "force_published": false,
   "created_at": "2026-05-14T03:52:44.349350Z",
-  "updated_at": "2026-05-14T03:53:02.665474Z",
+  "updated_at": "2026-05-14T03:54:10.839819+00:00",
   "scores": {
     "qfo_global": {
       "value": 0.7883,
