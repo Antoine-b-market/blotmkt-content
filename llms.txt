@@ -2,7 +2,7 @@
 # Auteur : Antoine Blot (https://antoine-blot.com)
 # ORCID : https://orcid.org/0009-0005-6450-4528
 # Mis a jour : 2026-05-14
-# Total pages : 73
+# Total pages : 75
 
 ## A propos
 BlotMKT est une ressource experte sur le SEO, le Marketing Digital et l'optimisation GEO.
@@ -209,8 +209,14 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 - [guest blogging seo : guide complet pour un référencement durable en 2026](https://blotmkt.com/ia/popularite/guest-blogging-seo.html)
   Découvrez comment le guest blogging peut améliorer votre SEO. Stratégies, avantages, et comment éviter les pièges pour un référencement optimal et durable en 2026.
 
+- [Agence geo montréal : l'expertise spécialisée pour propulser votre visibilité ia et locale](https://blotmkt.com/ia/strategie/agence-geo-montreal.html)
+  Découvrez l'agence GEO Montréal : expertise en optimisation pour IA et SEO local. Maximisez votre ROI au Québec avec une stratégie bilingue et performante.
+
 - [Agence SEO montréal : consultant expert ou agence, quel choix pour votre visibilité ?](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
   Découvrez comment choisir l'expert SEO à Montréal idéal pour votre entreprise. Agence ou consultant indépendant ? Comparez les approches stratégiques pour un ROI maximal et une visibilité durable.
+
+- [Consultant GEO montréal : votre expert pour dominer les moteurs de réponse ia et organique](https://blotmkt.com/ia/strategie/consultant-geo-montreal.html)
+  Expert consultant GEO à Montréal : propulsez votre visibilité sur Google et les moteurs de réponse IA. Stratégie locale et hybride pour un ROI maximal.
 
 - [Consultant seo montréal : l'expert qui transforme votre visibilité en croissance à montréal](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)
   Recherchez-vous un consultant SEO à Montréal ? Expert en référencement naturel et GEO, je booste votre visibilité sur Google et l'IA. Stratégie personnalisée pour Montréal.
@@ -365,7 +371,11 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [guest blogging seo : guide complet pour un référencement durable en 2026](https://blotmkt.com/data/popularite/guest-blogging-seo.md)
 
+- [Agence geo montréal : l'expertise spécialisée pour propulser votre visibilité ia et locale](https://blotmkt.com/data/strategie/agence-geo-montreal.md)
+
 - [Agence SEO montréal : consultant expert ou agence, quel choix pour votre visibilité ?](https://blotmkt.com/data/strategie/agence-seo-montreal.md)
+
+- [Consultant GEO montréal : votre expert pour dominer les moteurs de réponse ia et organique](https://blotmkt.com/data/strategie/consultant-geo-montreal.md)
 
 - [Consultant seo montréal : l'expert qui transforme votre visibilité en croissance à montréal](https://blotmkt.com/data/strategie/consultant-seo-montreal.md)
 

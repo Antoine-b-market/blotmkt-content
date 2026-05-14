@@ -582,6 +582,16 @@ pages:
   title: 'guest blogging seo : guide complet pour un référencement durable en 2026'
   url: https://blotmkt.com/data/popularite/guest-blogging-seo.md
 - category: strategie
+  date: 2026-05-14 04:33
+  description: 'Découvrez l''agence GEO Montréal : expertise en optimisation pour
+    IA et SEO local. Maximisez votre ROI au Québec avec une stratégie bilingue et
+    performante.'
+  html_url: https://blotmkt.com/ia/strategie/agence-geo-montreal.html
+  keyword: Agence GEO Montréal
+  title: 'Agence geo montréal : l''expertise spécialisée pour propulser votre visibilité
+    ia et locale'
+  url: https://blotmkt.com/data/strategie/agence-geo-montreal.md
+- category: strategie
   date: 2026-05-14 04:29
   description: Découvrez comment choisir l'expert SEO à Montréal idéal pour votre
     entreprise. Agence ou consultant indépendant ? Comparez les approches stratégiques
@@ -591,6 +601,15 @@ pages:
   title: 'Agence SEO montréal : consultant expert ou agence, quel choix pour votre
     visibilité ?'
   url: https://blotmkt.com/data/strategie/agence-seo-montreal.md
+- category: strategie
+  date: 2026-05-14 04:35
+  description: 'Expert consultant GEO à Montréal : propulsez votre visibilité sur
+    Google et les moteurs de réponse IA. Stratégie locale et hybride pour un ROI maximal.'
+  html_url: https://blotmkt.com/ia/strategie/consultant-geo-montreal.html
+  keyword: Consultant GEO Montréal
+  title: 'Consultant GEO montréal : votre expert pour dominer les moteurs de réponse
+    ia et organique'
+  url: https://blotmkt.com/data/strategie/consultant-geo-montreal.md
 - category: strategie
   date: 2026-05-14 04:30
   description: Recherchez-vous un consultant SEO à Montréal ? Expert en référencement
@@ -658,6 +677,6 @@ site:
   language: fr
   name: BlotMKT
   sameAs: https://www.antoine-blot.com
-  total_pages: 73
+  total_pages: 75
   updated: '2026-05-14'
   url: https://blotmkt.com

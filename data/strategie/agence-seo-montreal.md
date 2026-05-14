@@ -221,8 +221,8 @@ FAQ_JSON-->
 
 ## Articles connexes
 
+- [Agence geo montréal : l'expertise spécialisée pour propulser votre visibilité ia et locale](https://blotmkt.com/ia/strategie/agence-geo-montreal.html)
+- [Consultant GEO montréal : votre expert pour dominer les moteurs de réponse ia et organique](https://blotmkt.com/ia/strategie/consultant-geo-montreal.html)
 - [Consultant seo montréal : l'expert qui transforme votre visibilité en croissance à montréal](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)
 - [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/ia/audit/indexation-api-google.html)
 - [Alt text image : le guide complet pour l'accessibilité, le SEO et la visibilité IA](https://blotmkt.com/ia/contenu/alt-text-image.html)
-- [Call to action : le guide ultime pour booster vos conversions](https://blotmkt.com/ia/contenu/call-to-action.html)
-- [Clustering de mots-clés : guide complet pour booster votre seo](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)

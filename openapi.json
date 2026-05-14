@@ -1516,11 +1516,57 @@
         }
       }
     },
+    "/data/strategie/agence-geo-montreal.md": {
+      "get": {
+        "summary": "Agence geo montréal : l'expertise spécialisée pour propulser votre visibilité ia et locale",
+        "description": "Découvrez l'agence GEO Montréal : expertise en optimisation pour IA et SEO local. Maximisez votre ROI au Québec avec une stratégie bilingue et performante.",
+        "operationId": "agence_geo_montreal",
+        "tags": [
+          "strategie"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/data/strategie/agence-seo-montreal.md": {
       "get": {
         "summary": "Agence SEO montréal : consultant expert ou agence, quel choix pour votre visibilité ?",
         "description": "Découvrez comment choisir l'expert SEO à Montréal idéal pour votre entreprise. Agence ou consultant indépendant ? Comparez les approches stratégiques pour un ROI maximal et une visibilité durable.",
         "operationId": "agence_seo_montreal",
+        "tags": [
+          "strategie"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/strategie/consultant-geo-montreal.md": {
+      "get": {
+        "summary": "Consultant GEO montréal : votre expert pour dominer les moteurs de réponse ia et organique",
+        "description": "Expert consultant GEO à Montréal : propulsez votre visibilité sur Google et les moteurs de réponse IA. Stratégie locale et hybride pour un ROI maximal.",
+        "operationId": "consultant_geo_montreal",
         "tags": [
           "strategie"
         ],

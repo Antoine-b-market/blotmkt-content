@@ -1,0 +1,86 @@
+{
+  "version": "2",
+  "slug": "consultant-geo-montreal",
+  "category": "strategie",
+  "keyword": "Consultant GEO Montréal",
+  "title": "consultant GEO montréal : votre expert pour dominer les moteurs de réponse ia et organique",
+  "status": "pending_fix",
+  "fix_type": "fix_qfo",
+  "fix_target": {
+    "section": "La méthodologie d'un consultant GEO expert à montréal : une approche structurée {#la-methodologie-dun-consultant-geo-expert-a-montreal-une-approche-structuree}",
+    "qfo_score": 0.579,
+    "weak_axes": [
+      "sous_sujet",
+      "prerequis",
+      "cas_limite",
+      "validation",
+      "entite"
+    ]
+  },
+  "stale": false,
+  "stale_since": null,
+  "brief_mode": "standard",
+  "hreflang": "fr-CA",
+  "force_published": false,
+  "created_at": "2026-05-14T04:35:54.329753Z",
+  "updated_at": "2026-05-14T04:36:20.145342Z",
+  "scores": {
+    "qfo_global": {
+      "value": 0.5789,
+      "threshold": 0.62,
+      "direction": "higher_better",
+      "passed": false,
+      "blocking": true
+    },
+    "quotability": {
+      "value": 0.4974,
+      "threshold": 0.45,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "chunk_diversity": {
+      "value": 0.7303,
+      "threshold": 0.86,
+      "direction": "lower_better",
+      "passed": true,
+      "blocking": true
+    },
+    "atomic_proof": {
+      "value": 0.5115,
+      "threshold": 0.35,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "semantic_density": {
+      "value": 0.3538,
+      "threshold": 0.3,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "information_gain": {
+      "value": 0.1232,
+      "threshold": 0.08,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "perplexity_variance": {
+      "value": 0.2009,
+      "threshold": 0.12,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "entity_alignment": {
+      "value": 0.6299,
+      "threshold": 0.55,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": false
+    }
+  },
+  "fix_history": []
+}
