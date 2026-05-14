@@ -2,7 +2,7 @@
 # Auteur : Antoine Blot (https://antoine-blot.com)
 # ORCID : https://orcid.org/0009-0005-6450-4528
 # Mis a jour : 2026-05-14
-# Total pages : 81
+# Total pages : 83
 
 ## A propos
 BlotMKT est une ressource experte sur le SEO, le Marketing Digital et l'optimisation GEO.
@@ -26,6 +26,9 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 - [Clustering de mots-clés : guide complet pour booster votre seo](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)
   Maîtrisez le clustering de mots-clés pour un seo optimisé. Organisez vos mots-clés et ciblez efficacement votre audience. Guide complet.
 
+- [Content gap SEO : comment identifier et combler les manques de contenu](https://blotmkt.com/ia/contenu/content-gap-seo.html)
+  Découvrez le content gap SEO : définition, méthode, outils et comment combler les lacunes de contenu pour améliorer votre positionnement et attirer plus de trafic.
+
 - [Maîtriser l'intention de recherche pour un seo éthique et performant](https://blotmkt.com/ia/contenu/intention-de-recherche.html)
   Décryptez l'intention de recherche pour créer du contenu pertinent, améliorer votre SEO et satisfaire vos utilisateurs. Guide essentiel.
 
@@ -34,6 +37,9 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [Méta description : guide ultime pour optimiser votre seo](https://blotmkt.com/ia/contenu/meta-description.html)
   Maîtrisez la méta description ! Définition, optimisation, exemples et impact SEO. Attirez plus de clics et boostez votre positionnement. Guide complet.
+
+- [Mise à jour contenu seo : adaptez-vous aux algos et évitez la sur-optimisation](https://blotmkt.com/ia/contenu/mise-a-jour-contenu-seo.html)
+  Découvrez comment la mise à jour de contenu SEO s'impose pour éviter les pénalités Google et performer. Audit, stratégie continue et GEO au programme.
 
 - [Algorithme Google : comprendre son fonctionnement et éviter les pièges SEO](https://blotmkt.com/ia/definition/algorithme-google.html)
   Décryptez l'algorithme Google et ses mises à jour. Évitez la sur-optimisation et adoptez une stratégie SEO durable pour un meilleur positionnement.
@@ -267,11 +273,15 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [Clustering de mots-clés : guide complet pour booster votre seo](https://blotmkt.com/data/contenu/clustering-de-mots-cles.md)
 
+- [Content gap SEO : comment identifier et combler les manques de contenu](https://blotmkt.com/data/contenu/content-gap-seo.md)
+
 - [Maîtriser l'intention de recherche pour un seo éthique et performant](https://blotmkt.com/data/contenu/intention-de-recherche.md)
 
 - [Longue traîne SEO : la stratégie rentable pour 2026 et au-delà](https://blotmkt.com/data/contenu/longue-traine-seo.md)
 
 - [Méta description : guide ultime pour optimiser votre seo](https://blotmkt.com/data/contenu/meta-description.md)
+
+- [Mise à jour contenu seo : adaptez-vous aux algos et évitez la sur-optimisation](https://blotmkt.com/data/contenu/mise-a-jour-contenu-seo.md)
 
 - [Algorithme Google : comprendre son fonctionnement et éviter les pièges SEO](https://blotmkt.com/data/definition/algorithme-google.md)
 

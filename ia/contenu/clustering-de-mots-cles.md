@@ -258,6 +258,6 @@ FAQ_JSON-->
 
 - [Alt text image : le guide complet pour l'accessibilité, le SEO et la visibilité IA](https://blotmkt.com/ia/contenu/alt-text-image.html)
 - [Call to action : le guide ultime pour booster vos conversions](https://blotmkt.com/ia/contenu/call-to-action.html)
+- [Content gap SEO : comment identifier et combler les manques de contenu](https://blotmkt.com/ia/contenu/content-gap-seo.html)
 - [Maîtriser l'intention de recherche pour un seo éthique et performant](https://blotmkt.com/ia/contenu/intention-de-recherche.html)
 - [Longue traîne SEO : la stratégie rentable pour 2026 et au-delà](https://blotmkt.com/ia/contenu/longue-traine-seo.html)
-- [Méta description : guide ultime pour optimiser votre seo](https://blotmkt.com/ia/contenu/meta-description.html)

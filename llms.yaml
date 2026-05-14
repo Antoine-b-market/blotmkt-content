@@ -61,6 +61,15 @@ pages:
   title: 'Clustering de mots-clés : guide complet pour booster votre seo'
   url: https://blotmkt.com/data/contenu/clustering-de-mots-cles.md
 - category: contenu
+  date: 2026-05-14 03:50
+  description: 'Découvrez le content gap SEO : définition, méthode, outils et comment
+    combler les lacunes de contenu pour améliorer votre positionnement et attirer
+    plus de trafic.'
+  html_url: https://blotmkt.com/ia/contenu/content-gap-seo.html
+  keyword: Content gap SEO
+  title: 'Content gap SEO : comment identifier et combler les manques de contenu'
+  url: https://blotmkt.com/data/contenu/content-gap-seo.md
+- category: contenu
   date: 2026-05-14 03:29
   description: Décryptez l'intention de recherche pour créer du contenu pertinent,
     améliorer votre SEO et satisfaire vos utilisateurs. Guide essentiel.
@@ -85,6 +94,14 @@ pages:
   keyword: Méta description
   title: 'Méta description : guide ultime pour optimiser votre seo'
   url: https://blotmkt.com/data/contenu/meta-description.md
+- category: contenu
+  date: 2026-05-14 03:52
+  description: Découvrez comment la mise à jour de contenu SEO s'impose pour éviter
+    les pénalités Google et performer. Audit, stratégie continue et GEO au programme.
+  html_url: https://blotmkt.com/ia/contenu/mise-a-jour-contenu-seo.html
+  keyword: Mise à jour contenu SEO
+  title: 'Mise à jour contenu seo : adaptez-vous aux algos et évitez la sur-optimisation'
+  url: https://blotmkt.com/data/contenu/mise-a-jour-contenu-seo.md
 - category: definition
   date: 2026-05-05 06:14
   description: Décryptez l'algorithme Google et ses mises à jour. Évitez la sur-optimisation
@@ -728,6 +745,6 @@ site:
   language: fr
   name: BlotMKT
   sameAs: https://www.antoine-blot.com
-  total_pages: 81
+  total_pages: 83
   updated: '2026-05-14'
   url: https://blotmkt.com

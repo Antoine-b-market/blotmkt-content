@@ -1,0 +1,94 @@
+{
+  "keyword": "Mise à jour contenu SEO",
+  "intention": "transactionnelle",
+  "titre_h1": "mise à jour contenu seo : adaptez-vous aux algos et évitez la sur-optimisation",
+  "meta_description": "Découvrez comment la mise à jour de contenu SEO s'impose pour éviter les pénalités Google et performer. Audit, stratégie continue et GEO au programme.",
+  "angle_editorial": "Éviter les pièges de la sur-optimisation et des pratiques obsolètes en adoptant une stratégie de mise à jour continue du contenu, alignée sur les dernières évolutions algorithmiques de Google et l'intégration de l'IA/GEO.",
+  "query_fanout": [
+    "Comment détecter et corriger la sur-optimisation dans mes contenus ?",
+    "Quelles sont les dernières mises à jour Google qui affectent la stratégie de contenu ?",
+    "Comment mettre en place un processus de mise à jour de contenu SEO durable ?",
+    "Quel rôle joue le GEO et l'IA dans l'optimisation des contenus en 2024 et après ?",
+    "Comment mesurer le ROI d'une stratégie de mise à jour de contenu continue ?"
+  ],
+  "structure": [
+    {
+      "h2": "mise à jour contenu seo : une nécessité stratégique pour 2024",
+      "type": "definition",
+      "points_cles": [
+        "Définition moderne de la mise à jour de contenu SEO au-delà de la simple retouche.",
+        "Importance vitale face aux algorithmes Google (Panda, Penguin, HCU) et au contexte 2024.",
+        "Éviter les erreurs de sur-optimisation issues de pratiques datant de 2015-2018."
+      ]
+    },
+    {
+      "h2": "identifier la sur-optimisation : le signal d'alarme pour vos contenus",
+      "type": "echec",
+      "points_cles": [
+        "Mesure de la densité de mots-clés : seuil d'alerte supérieur à 3 % sur le terme principal.",
+        "Analyse du profil d'ancres de liens : détection du keyword stuffing et des ancres internes abusives.",
+        "Corrélation entre chutes de trafic et dates des Core Updates de Google via Google Search Console."
+      ]
+    },
+    {
+      "h2": "les sanctions algorithmiques : quand google pénalise l'immobilisme ou l'abus",
+      "type": "preuve",
+      "points_cles": [
+        "Conséquences graduelles de la sur-optimisation : suppression temporaire, démotion, déindexation.",
+        "Impact des pénalités manuelles et algorithmiques (ex : Helpful Content Update de mars 2024).",
+        "Perte de confiance des utilisateurs, dégradation de l'identité de marque et progression des concurrents."
+      ]
+    },
+    {
+      "h2": "l'accompagnement seo annuel : votre solution de mise à jour continue",
+      "type": "mecanisme",
+      "points_cles": [
+        "Rupture avec le SEO 'one-shot' : un partenariat continu sur 12 mois pour une croissance stable.",
+        "Adaptation permanente aux mises à jour algorithmiques de Google (plusieurs cycles majeurs par an).",
+        "Construction d'une autorité de domaine solide et ajustements stratégiques pérennes."
+      ]
+    },
+    {
+      "h2": "les 4 piliers d'une mise à jour de contenu seo efficace et pérenne",
+      "type": "technique",
+      "points_cles": [
+        "Audit SEO (technique, sémantique, concurrentiel) initial et régulier comme base de décision.",
+        "Définition d'une stratégie personnalisée : mots-clés, calendrier éditorial, netlinking ciblé.",
+        "Optimisations on-page (balises, maillage, qualité de contenu) et off-page (liens entrants).",
+        "Reporting mensuel pour la transparence, le suivi des performances et les ajustements de cap."
+      ]
+    },
+    {
+      "h2": "mise à jour contenu et geo : anticiper l'avenir avec l'ia",
+      "type": "avance",
+      "points_cles": [
+        "Intégration du GEO (Generative Engine Optimization) pour optimiser les contenus des AI Overviews.",
+        "Importance de la structure et de la clarté pour les citations par les intelligences artificielles.",
+        "Le ROI du SEO continu : un point d'équilibre rapide et une rentabilité prouvée (ex: 702% en B2B SaaS)."
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "Audit SEO sémantique",
+    "Helpful Content Update",
+    "Pénalité Google",
+    "Optimisation contenu",
+    "Stratégie SEO continue",
+    "GEO SEO",
+    "Sur-optimisation SEO"
+  ],
+  "questions_paa": [
+    "Comment savoir si mon contenu est sur-optimisé ?",
+    "Quelles sont les dernières mises à jour Google impactant le contenu ?",
+    "Un accompagnement SEO annuel est-il indispensable pour mon site ?",
+    "Comment intégrer le GEO dans ma stratégie de mise à jour de contenu ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 950,
+  "category": "contenu",
+  "lang": "fr",
+  "brief_mode": "standard",
+  "hreflang": "fr-CA",
+  "slug": "mise-a-jour-contenu-seo",
+  "google_context": {}
+}

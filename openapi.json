@@ -113,6 +113,29 @@
         }
       }
     },
+    "/data/contenu/content-gap-seo.md": {
+      "get": {
+        "summary": "Content gap SEO : comment identifier et combler les manques de contenu",
+        "description": "Découvrez le content gap SEO : définition, méthode, outils et comment combler les lacunes de contenu pour améliorer votre positionnement et attirer plus de trafic.",
+        "operationId": "content_gap_seo",
+        "tags": [
+          "contenu"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/data/contenu/intention-de-recherche.md": {
       "get": {
         "summary": "Maîtriser l'intention de recherche pour un seo éthique et performant",
@@ -164,6 +187,29 @@
         "summary": "Méta description : guide ultime pour optimiser votre seo",
         "description": "Maîtrisez la méta description ! Définition, optimisation, exemples et impact SEO. Attirez plus de clics et boostez votre positionnement. Guide complet.",
         "operationId": "meta_description",
+        "tags": [
+          "contenu"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/contenu/mise-a-jour-contenu-seo.md": {
+      "get": {
+        "summary": "Mise à jour contenu seo : adaptez-vous aux algos et évitez la sur-optimisation",
+        "description": "Découvrez comment la mise à jour de contenu SEO s'impose pour éviter les pénalités Google et performer. Audit, stratégie continue et GEO au programme.",
+        "operationId": "mise_a_jour_contenu_seo",
         "tags": [
           "contenu"
         ],

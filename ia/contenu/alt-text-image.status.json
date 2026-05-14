@@ -4,10 +4,10 @@
   "category": "contenu",
   "keyword": "Alt text image",
   "title": "alt text image : le guide complet pour l'accessibilité, le SEO et la visibilité IA",
-  "status": "pending_fix",
-  "fix_type": "fix_qfo",
+  "status": "published",
+  "fix_type": null,
   "fix_target": {
-    "section": "Auditer et optimiser l'alt text : outils et meilleures pratiques continues {#auditer-et-optimiser-lalt-text-outils-et-meilleures-pratiques-continues}",
+    "section": "Intégrer l'alt text dans une approche d'entités sémantiques et de Schema Markup {#integrer-lalt-text-dans-une-approche-dentites-semantiques-et-de-schema-markup}",
     "qfo_score": 0.673,
     "weak_axes": [
       "sous_sujet",
@@ -21,9 +21,9 @@
   "stale_since": null,
   "brief_mode": "standard",
   "hreflang": "fr-CA",
-  "force_published": false,
+  "force_published": true,
   "created_at": "2026-05-14T03:19:21.697451Z",
-  "updated_at": "2026-05-14T03:24:55.926974Z",
+  "updated_at": "2026-05-14T03:53:57.384846+00:00",
   "scores": {
     "qfo_global": {
       "value": 0.673,
@@ -33,42 +33,42 @@
       "blocking": true
     },
     "quotability": {
-      "value": 0.4621,
+      "value": 0.4579,
       "threshold": 0.45,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "chunk_diversity": {
-      "value": 0.7095,
+      "value": 0.7177,
       "threshold": 0.86,
       "direction": "lower_better",
       "passed": true,
       "blocking": true
     },
     "atomic_proof": {
-      "value": 0.3583,
+      "value": 0.3375,
       "threshold": 0.35,
       "direction": "higher_better",
-      "passed": true,
+      "passed": false,
       "blocking": true
     },
     "semantic_density": {
-      "value": 0.4294,
+      "value": 0.4392,
       "threshold": 0.3,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "information_gain": {
-      "value": 0.2035,
+      "value": 0.1858,
       "threshold": 0.08,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "perplexity_variance": {
-      "value": 0.1963,
+      "value": 0.1881,
       "threshold": 0.12,
       "direction": "higher_better",
       "passed": true,
@@ -133,6 +133,60 @@
         "semantic_density": 0.4294,
         "information_gain": 0.2035,
         "perplexity_variance": 0.1963,
+        "entity_alignment": 0.68
+      },
+      "result": "fail"
+    },
+    {
+      "fix_type": "fix_qfo",
+      "model": "claude-sonnet-4-6",
+      "section_targeted": "Auditer et optimiser l'alt text : outils et meilleures pratiques continues {#auditer-et-optimiser-lalt-text-outils-et-meilleures-pratiques-continues}",
+      "fixed_at": "2026-05-14T03:50:38.330166Z",
+      "scores_before": {
+        "qfo_global": 0.673,
+        "quotability": 0.4621,
+        "chunk_diversity": 0.7095,
+        "atomic_proof": 0.3583,
+        "semantic_density": 0.4294,
+        "information_gain": 0.2035,
+        "perplexity_variance": 0.1963,
+        "entity_alignment": 0.68
+      },
+      "scores_after": {
+        "qfo_global": 0.673,
+        "quotability": 0.459,
+        "chunk_diversity": 0.7095,
+        "atomic_proof": 0.3154,
+        "semantic_density": 0.4203,
+        "information_gain": 0.1971,
+        "perplexity_variance": 0.195,
+        "entity_alignment": 0.68
+      },
+      "result": "fail"
+    },
+    {
+      "fix_type": "fix_qfo",
+      "model": "claude-sonnet-4-6",
+      "section_targeted": "Intégrer l'alt text dans une approche d'entités sémantiques et de Schema Markup {#integrer-lalt-text-dans-une-approche-dentites-semantiques-et-de-schema-markup}",
+      "fixed_at": "2026-05-14T03:52:21.703664Z",
+      "scores_before": {
+        "qfo_global": 0.673,
+        "quotability": 0.4581,
+        "chunk_diversity": 0.7095,
+        "atomic_proof": 0.3955,
+        "semantic_density": 0.4108,
+        "information_gain": 0.1963,
+        "perplexity_variance": 0.1974,
+        "entity_alignment": 0.68
+      },
+      "scores_after": {
+        "qfo_global": 0.673,
+        "quotability": 0.4597,
+        "chunk_diversity": 0.7177,
+        "atomic_proof": 0.3455,
+        "semantic_density": 0.3911,
+        "information_gain": 0.2084,
+        "perplexity_variance": 0.189,
         "entity_alignment": 0.68
       },
       "result": "fail"
