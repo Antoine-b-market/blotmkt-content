@@ -70,7 +70,7 @@ Trois méthodes principales permettent de désindexer une page ou un site entier
 La balise noindex est la plus précise. 
 La règle noindex, implémentée via une balise `<meta>` ou un en-tête HTTP, empêche les moteurs de recherche comme Google d'indexer un contenu spécifique. Pour fonctionner, la page doit être accessible aux crawlers et ne pas être bloquée par robots.txt. L'implémentation se fait via `<meta name="robots" content="noindex">` dans le `<head>` ou via l'en-tête HTTP `X-Robots-Tag: noindex`.
 
-Pour que la règle noindex soit effective, la page ne doit pas être bloquée par le [Fichier Robots.txt](https://blotmkt.com/ia/audit/fichier-robots.txt.html) et doit rester accessible au crawler. Si la page est bloquée par robots.txt, le crawler ne verra jamais la directive noindex, et la page peut toujours apparaître dans les résultats si d'autres pages y font référence.
+Pour que la règle noindex soit effective, la page ne doit pas être bloquée par le Fichier Robots.txt et doit rester accessible au crawler. Si la page est bloquée par robots.txt, le crawler ne verra jamais la directive noindex, et la page peut toujours apparaître dans les résultats si d'autres pages y font référence.
 
 Le fichier robots.txt contrôle le crawl, non l'indexation directement. 
 Noindex empêche l'indexation, tandis que robots.txt empêche le crawl. Si une URL est bloquée par robots.txt, Google ne pourra jamais accéder à la page pour voir l'instruction noindex.
@@ -227,6 +227,6 @@ Validez le rendu JavaScript de vos pages via l'outil d'inspection d'URL de la Se
 
 - [Facteurs de classement Google : le guide ultime 2026 pour dominer les SERPs](https://blotmkt.com/ia/popularite/facteurs-de-classement-google.html)
 - [guest blogging seo : guide complet pour un référencement durable en 2026](https://blotmkt.com/ia/popularite/guest-blogging-seo.html)
-- [analyse de logs seo : décuplez la rentabilité de votre crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
-- [Architecture de site web: guide complet pour un seo performant en 2026](https://blotmkt.com/ia/audit/architecture-de-site.html)
-- [Audit seo technique : le guide complet pour booster votre visibilité](https://blotmkt.com/ia/audit/audit-seo-technique.html)
+- [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/ia/audit/indexation-api-google.html)
+- [Alt text image : le guide complet pour l'accessibilité, le SEO et la visibilité IA](https://blotmkt.com/ia/contenu/alt-text-image.html)
+- [Call to action : le guide ultime pour booster vos conversions](https://blotmkt.com/ia/contenu/call-to-action.html)

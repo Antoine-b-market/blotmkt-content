@@ -98,7 +98,7 @@ La première erreur est de créer une page pilier sans cluster. Un pilier sans s
 
 La deuxième erreur est le manque de pertinence thématique. Publier des articles satellites qui traitent de sujets trop éloignés du pilier dilue l'autorité thématique au lieu de la renforcer. Google analyse la cohérence sémantique de l'ensemble du cluster.
 
-La troisième erreur est la négligence technique. Un fichier Robots.txt mal configuré peut bloquer l'indexation de la page pilier ou de ses satellites. Un score de [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) insuffisant pénalise le positionnement, même sur un contenu excellent. Seulement 40 % des sites passent ces critères techniques en 2026 (Incremys, 2026).
+La troisième erreur est la négligence technique. Un fichier Robots.txt mal configuré peut bloquer l'indexation de la page pilier ou de ses satellites. Un score de Core Web Vitals insuffisant pénalise le positionnement, même sur un contenu excellent. Seulement 40 % des sites passent ces critères techniques en 2026 (Incremys, 2026).
 
 La quatrième erreur est l'absence de mise à jour. Un pilier non actualisé perd en crédibilité et en SEO. J'observe que les sites qui republishent leur pilier tous les six mois maintiennent leur positionnement face aux concurrents qui publient plus fréquemment.
 

@@ -51,7 +51,7 @@ Votre site est en ligne depuis des mois, mais il reste invisible sur Google. Vou
 
 ## Qu'est-ce que le conseil SEO au Québec et pourquoi est-ce crucial ? {#quest-ce-que-le-conseil-seo-au-quebec-et-pourquoi-est-ce-crucial}
 
-Le conseil SEO au Québec désigne un accompagnement stratégique visant à améliorer la visibilité organique d'un site sur Google et, de plus en plus, dans les Moteurs de réponse IA. Ce n'est pas une prestation technique isolée : c'est une discipline qui allie contenu, architecture, autorité et expérience utilisateur.
+Le conseil SEO au Québec désigne un accompagnement stratégique visant à améliorer la visibilité organique d'un site sur Google et, de plus en plus, dans les [Moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/moteurs-de-reponse.html) IA. Ce n'est pas une prestation technique isolée : c'est une discipline qui allie contenu, architecture, autorité et expérience utilisateur.
 
 Pour les entreprises québécoises, l'enjeu est amplifié par le contexte local. 
 Le SEO local pour PME à Montréal exige une finesse particulière en raison de la densité des entreprises et du bilinguisme inhérent à la métropole.
@@ -168,7 +168,7 @@ Vérifiez trois éléments : des résultats documentés avec métriques Google S
 
 ---
 
-*Sources : BrightEdge (trafic organique 2026), Statista (trafic mobile 2025), Gartner (prévisions moteurs de recherche 2026), letitia-av.com (tarifs SEO Québec 2026), referencement-du-pro.com ([Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) et GEO 2026), emmanuelle-wiesemes.com (statistiques SEO 2026)*
+*Sources : BrightEdge (trafic organique 2026), Statista (trafic mobile 2025), Gartner (prévisions moteurs de recherche 2026), letitia-av.com (tarifs SEO Québec 2026), referencement-du-pro.com (Core Web Vitals et GEO 2026), emmanuelle-wiesemes.com (statistiques SEO 2026)*
 
 ---
 

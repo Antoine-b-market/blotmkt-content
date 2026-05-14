@@ -150,7 +150,7 @@ L'API est recommandée plutôt que les sitemaps pour les contenus à durée de v
 
 ### Comment optimiser le crawl mobile avec l'Indexation API Google ?
 
-L'API accélère l'exploration, mais Googlebot utilise majoritairement son crawler mobile pour indexer les pages. Une page soumise via l'API mais non optimisée pour mobile sera crawlée, peut-être indexée, mais mal classée. Vérifiez les scores [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) dans Google Search Console avant d'activer l'API. Le mobile-first indexing est la norme depuis 2018 : une page lente sur mobile pénalise directement sa capacité à bien se classer.
+L'API accélère l'exploration, mais Googlebot utilise majoritairement son crawler mobile pour indexer les pages. Une page soumise via l'API mais non optimisée pour mobile sera crawlée, peut-être indexée, mais mal classée. Vérifiez les scores Core Web Vitals dans Google Search Console avant d'activer l'API. Le mobile-first indexing est la norme depuis 2018 : une page lente sur mobile pénalise directement sa capacité à bien se classer.
 
 ### Comment intégrer l'API d'indexation avec WordPress ?
 
@@ -173,8 +173,8 @@ L'utilisation de l'Indexation API est disponible sans paiement.
 
 ## Articles connexes
 
-- [analyse de logs seo : décuplez la rentabilité de votre crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
-- [Architecture de site web: guide complet pour un seo performant en 2026](https://blotmkt.com/ia/audit/architecture-de-site.html)
-- [Audit seo technique : le guide complet pour booster votre visibilité](https://blotmkt.com/ia/audit/audit-seo-technique.html)
-- [compression image webp : le guide complet pour accélérer votre site et booster votre seo](https://blotmkt.com/ia/audit/compression-image-webp.html)
-- [core web vitals : maîtriser l'expérience utilisateur et votre seo](https://blotmkt.com/ia/audit/core-web-vitals.html)
+- [Alt text image : le guide complet pour l'accessibilité, le SEO et la visibilité IA](https://blotmkt.com/ia/contenu/alt-text-image.html)
+- [Call to action : le guide ultime pour booster vos conversions](https://blotmkt.com/ia/contenu/call-to-action.html)
+- [Clustering de mots-clés : guide complet pour booster votre seo](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)
+- [Maîtriser l'intention de recherche pour un seo éthique et performant](https://blotmkt.com/ia/contenu/intention-de-recherche.html)
+- [Longue traîne SEO : la stratégie rentable pour 2026 et au-delà](https://blotmkt.com/ia/contenu/longue-traine-seo.html)

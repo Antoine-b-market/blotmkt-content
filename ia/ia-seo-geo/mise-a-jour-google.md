@@ -84,7 +84,7 @@ En mars 2026, Google a déployé deux updates en 3 jours - Spam Update d'abord (
 Sur les projets que je pilote, trois KPIs sont surveillés en priorité : le trafic organique global via Google Analytics, le positionnement des mots-clés cibles dans Google Search Console, et le taux de couverture de l'index. 
 Le déploiement étant achevé, vous pouvez désormais comparer vos performances avant et après dans la Search Console.
 
-J'intègre une alerte automatique via Google Search Console dès qu'un nouveau domaine référent dépasse un spam score de 40 %. Ce seuil permet d'agir avant que le profil de liens se dégrade. Actualisez votre fichier de désaveu à chaque nouveau lien toxique identifié - sans attendre la prochaine pénalité.
+J'intègre une alerte automatique via Google Search Console dès qu'un nouveau domaine référent dépasse un spam score de 40 %. Ce seuil permet d'agir avant que le [Profil de liens](https://blotmkt.com/ia/definition/profil-de-liens.html) se dégrade. Actualisez votre fichier de désaveu à chaque nouveau lien toxique identifié - sans attendre la prochaine pénalité.
 
 La cooccurrence de la Spam Update et de la Core Update rend l'analyse des fluctuations de trafic organique plus complexe : certaines variations proviennent des ajustements anti-spam, d'autres de changements profonds dans le classement des pages.
 
@@ -98,12 +98,12 @@ Chaque outil occupe un rôle distinct dans la chaîne de récupération :
 |---|---|---|
 | Google Search Console | Détection des actions manuelles, export de backlinks | Gratuit, données directes Google |
 | Ahrefs | Audit de backlinks approfondi, détection de liens toxiques | Index le plus large du marché |
-| SEMrush | Analyse de backlinks + [audit SEO technique](https://blotmkt.com/ia/audit/audit-seo-technique.html) | Suite tout-en-un |
+| SEMrush | Analyse de backlinks + audit SEO technique | Suite tout-en-un |
 | Moz Link Explorer | Évaluation de l'autorité de domaine et du spam score | Interface accessible, métriques claires |
 | Google Disavow Tool | Neutralisation des liens non supprimables | Outil officiel Google, intégré à la Search Console |
 
 Mon expérience montre que Google Webmaster Central reste sous-exploité par les équipes francophones. Les consignes officielles y sont mises à jour régulièrement et constituent la référence absolue pour calibrer une demande de réexamen. 
-Observez le type de contenu que l'Algorithme Google valorise (guide long, comparatif, vidéo), la profondeur des réponses, la présence d'avis et d'exemples, la clarté de la structure H2/H3, et les signaux visibles de confiance comme la biographie de l'auteur et les sources citées.
+Observez le type de contenu que l'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google.html) valorise (guide long, comparatif, vidéo), la profondeur des réponses, la présence d'avis et d'exemples, la clarté de la structure H2/H3, et les signaux visibles de confiance comme la biographie de l'auteur et les sources citées.
 
 ---
 
@@ -128,7 +128,7 @@ Les pages avec un LCP (Largest Contentful Paint) supérieur à 3 secondes subiss
 L'expérience utilisateur joue un rôle important : un site rapide, lisible et bien organisé facilite la compréhension du contenu pour les internautes comme pour les moteurs de recherche.
 
 Chaque page doit répondre clairement à une question ou à un besoin précis. Les contenus superficiels ou répétitifs ont de moins en moins de chances de se maintenir dans les premières positions.
- Les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) agissent comme facteur de départage quand le contenu est équivalent.
+ Les Core Web Vitals agissent comme facteur de départage quand le contenu est équivalent.
 
 ---
 
@@ -181,8 +181,8 @@ Le trafic se redistribue vers les sources autoritatives de haute qualité, tandi
 
 ## Articles connexes
 
-- [aeo answer engine optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
 - [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
+- [Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité](https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo.html)

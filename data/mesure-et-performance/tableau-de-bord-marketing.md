@@ -217,7 +217,7 @@ Structurez la présentation en trois minutes : performance globale vs objectifs 
 ## Articles connexes
 
 - [a-b testing marketing: optimisez votre ux mobile et vos conversions](https://blotmkt.com/ia/mesure-et-performance/a-b-testing-marketing.html)
-- [analyse de logs seo : décuplez la rentabilité de votre crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
-- [Architecture de site web: guide complet pour un seo performant en 2026](https://blotmkt.com/ia/audit/architecture-de-site.html)
-- [Audit seo technique : le guide complet pour booster votre visibilité](https://blotmkt.com/ia/audit/audit-seo-technique.html)
-- [compression image webp : le guide complet pour accélérer votre site et booster votre seo](https://blotmkt.com/ia/audit/compression-image-webp.html)
+- [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/ia/audit/indexation-api-google.html)
+- [Alt text image : le guide complet pour l'accessibilité, le SEO et la visibilité IA](https://blotmkt.com/ia/contenu/alt-text-image.html)
+- [Call to action : le guide ultime pour booster vos conversions](https://blotmkt.com/ia/contenu/call-to-action.html)
+- [Clustering de mots-clés : guide complet pour booster votre seo](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)

@@ -79,7 +79,7 @@ Les étapes structurantes d'un audit sémantique réussi :
 5. Identifier les lacunes et structurer en clusters thématiques.
 6. Organiser le plan d'action : quick wins, optimisations lourdes, créations nettes.
 
-L'organisation en silos sémantiques est la colonne vertébrale d'une stratégie SEO durable. Elle permet de structurer le site autour de grands ensembles logiques et thématiques, qui correspondent aux attentes de l'utilisateur comme des moteurs de recherche.
+L'organisation en silos sémantiques est la colonne vertébrale d'une [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) durable. Elle permet de structurer le site autour de grands ensembles logiques et thématiques, qui correspondent aux attentes de l'utilisateur comme des moteurs de recherche.
 
 Sur les projets que je pilote, je commence toujours par la question business avant d'ouvrir le premier outil. Sans objectif défini, un audit sémantique ne produit qu'un beau fichier Excel que personne n'exécute.
 
@@ -137,13 +137,13 @@ Pour les référenceurs, le SEO se travaille sur trois axes pour améliorer un s
 
 Chaque pilier nécessite un audit distinct :
 
-- Audit technique : crawlabilité, indexation, [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html), redirections. 
+- Audit technique : crawlabilité, indexation, Core Web Vitals, redirections. 
 Screaming Frog et DeepCrawl excellent dans l'identification des problèmes structurels.
 
 - Audit de popularité : [Profil de liens](https://blotmkt.com/ia/definition/profil-de-liens.html) entrants, autorité de domaine, netlinking.
 - Audit sémantique : pertinence du contenu, couverture des intentions, clusters thématiques.
 
-L'[audit SEO technique](https://blotmkt.com/ia/audit/audit-seo-technique.html) vérifie la santé technique du site. L'audit sémantique évalue la pertinence des contenus, le ciblage des requêtes et la couverture des intentions. Les deux sont complémentaires, mais ils ne répondent pas aux mêmes problèmes.
+L'audit SEO technique vérifie la santé technique du site. L'audit sémantique évalue la pertinence des contenus, le ciblage des requêtes et la couverture des intentions. Les deux sont complémentaires, mais ils ne répondent pas aux mêmes problèmes.
 
 Rien ne sert d'avoir un site à la technique irréprochable, cité sur de nombreuses sources externes, si on vise des mots-clés inopportuns sans logique sémantique.
  Les trois audits forment un tout cohérent - aucun ne remplace les deux autres.
@@ -156,7 +156,7 @@ Ce que je constate chez mes clients : la plupart ont déjà réalisé un audit t
 
 En 2026, Google capte encore 89,9 % de part de marché mondiale, mais les parcours se fragmentent, avec une montée des usages conversationnels et du zéro clic (60 % selon Semrush, 2025). L'enjeu est donc double : se positionner et être cité.
 
-De plus en plus, on intègre une dimension GEO (Generative Engine Optimization) à l'audit sémantique, pour analyser comment le contenu est compris et repris par les Moteurs de réponse IA.
+De plus en plus, on intègre une dimension GEO (Generative Engine Optimization) à l'audit sémantique, pour analyser comment le contenu est compris et repris par les [Moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/moteurs-de-reponse.html) IA.
  Les outils d'IA assistent la collecte de mots-clés et la détection de patterns à grande échelle. Mais l'interprétation stratégique - comprendre l'intention réelle derrière une requête, hiérarchiser les actions selon les objectifs business - reste du ressort de l'expert humain.
 
 En 2026, l'optimisation sémantique contribue à produire des contenus plus « extractibles » (définitions, listes, procédures), utiles pour la visibilité dans des réponses IA.

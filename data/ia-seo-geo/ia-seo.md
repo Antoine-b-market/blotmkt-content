@@ -51,7 +51,7 @@ Le référencement est en mutation accélérée. Selon Semrush, le taux de clics
 
 L'IA SEO désigne l'ensemble des techniques qui appliquent l'intelligence artificielle à l'optimisation pour les moteurs de recherche. Concrètement, trois composantes structurent ce champ : les LLMs (Large Language Models) pour la génération et l'analyse de contenu, l'analyse sémantique pour cartographier les intentions de recherche, et l'automatisation des tâches répétitives comme l'audit technique.
 
-Un outil IA SEO analyse des millions de signaux simultanément : [Densité de mots-clés](https://blotmkt.com/ia/contenu/densite-de-mots-cles.html), profil de backlinks, comportement utilisateur (temps passé, taux de rebond), et structure des pages concurrentes. Il en déduit des recommandations priorisées. En 2026, le concept de Generative Engine Optimization (GEO) étend cette logique : il s'agit d'optimiser non plus seulement pour Google, mais pour être cité dans les réponses générées par les LLMs comme ChatGPT ou Gemini.
+Un outil IA SEO analyse des millions de signaux simultanément : Densité de mots-clés, profil de backlinks, comportement utilisateur (temps passé, taux de rebond), et structure des pages concurrentes. Il en déduit des recommandations priorisées. En 2026, le concept de Generative Engine Optimization (GEO) étend cette logique : il s'agit d'optimiser non plus seulement pour Google, mais pour être cité dans les réponses générées par les LLMs comme ChatGPT ou Gemini.
 
 En tant que consultant SEO, j'observe que beaucoup de clients confondent "utiliser l'IA" et "avoir une stratégie IA SEO". Brancher ChatGPT sur sa production de contenu sans cadre méthodologique ne constitue pas une stratégie. L'IA SEO, c'est un système intégré où chaque outil répond à une intention précise dans le workflow.
 
@@ -59,7 +59,7 @@ En tant que consultant SEO, j'observe que beaucoup de clients confondent "utilis
 
 ## Les avantages de l'IA pour le référencement {#les-avantages-de-lia-pour-le-referencement}
 
-L'IA transforme quatre dimensions du SEO de façon mesurable. Premièrement, l'automatisation des tâches répétitives : un agent IA peut auditer 100 pages en 45 minutes, contre 4 heures en mode manuel (SEOQuantum, 2026). Deuxièmement, l'[Optimisation de contenu](https://blotmkt.com/ia/contenu/optimisation-de-contenu.html) : génération de brouillons, détection des lacunes sémantiques, suggestions de structure.
+L'IA transforme quatre dimensions du SEO de façon mesurable. Premièrement, l'automatisation des tâches répétitives : un agent IA peut auditer 100 pages en 45 minutes, contre 4 heures en mode manuel (SEOQuantum, 2026). Deuxièmement, l'Optimisation de contenu : génération de brouillons, détection des lacunes sémantiques, suggestions de structure.
 
 Troisièmement, l'analyse prédictive. Les outils IA identifient les tendances émergentes avant qu'elles deviennent concurrentielles. Ils détectent aussi le "content decay" - les pages qui perdent du trafic progressivement - et priorisent les mises à jour à fort impact. Quatrièmement, la personnalisation : en analysant les segments d'audience, l'IA adapte les recommandations éditoriales aux intentions réelles des utilisateurs.
 
@@ -79,11 +79,11 @@ Les métriques à suivre sont précises : trafic organique par page générée, 
 
 ## Comment utiliser concrètement l'IA pour optimiser son SEO ? {#comment-utiliser-concretement-lia-pour-optimiser-son-seo}
 
-Quatre étapes structurent une intégration efficace. Premièrement, choisir les bons outils selon ses besoins : Semrush ou Similarweb pour l'analyse de données, ChatGPT ou Claude pour la génération de contenu, SEOQuantum ou Surfer SEO pour l'optimisation sémantique. Deuxièmement, construire des prompts efficaces : un prompt SEO performant inclut l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) cible, le persona, la longueur, les entités à mentionner et les sources à citer.
+Quatre étapes structurent une intégration efficace. Premièrement, choisir les bons outils selon ses besoins : Semrush ou Similarweb pour l'analyse de données, ChatGPT ou Claude pour la génération de contenu, SEOQuantum ou Surfer SEO pour l'optimisation sémantique. Deuxièmement, construire des prompts efficaces : un Prompt SEO performant inclut l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) cible, le persona, la longueur, les entités à mentionner et les sources à citer.
 
 Troisièmement, intégrer l'IA dans son workflow existant sans tout remplacer. Le modèle qui fonctionne : recherche d'intention (humain), collecte de données terrain (humain), structure et rédaction initiale (IA), enrichissement expert (humain), optimisation SEO (IA + humain), relecture factuelle (humain). Quatrièmement, former l'équipe. Les données sont claires : 95 % des équipes marketing B2B utilisent l'IA en 2026, mais seulement 20 % mesurent un ROI positif (SEOQuantum / McKinsey, 2026).
 
-En travaillant avec des entreprises québécoises et françaises, j'identifie un pattern constant : l'échec vient rarement de l'outil. Il vient de l'absence de cadre. Les données structurées Schema.org, les balises FAQ et les formats HowTo facilitent la compréhension sémantique par les LLMs - leur implémentation est devenue un standard de toute stratégie GEO sérieuse en 2026.
+En travaillant avec des entreprises québécoises et françaises, j'identifie un pattern constant : l'échec vient rarement de l'outil. Il vient de l'absence de cadre. Les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) Schema.org, les balises FAQ et les formats HowTo facilitent la compréhension sémantique par les LLMs - leur implémentation est devenue un standard de toute stratégie GEO sérieuse en 2026.
 
 ---
 
@@ -119,7 +119,7 @@ Tripler le volume de publication via l'IA génère en moyenne seulement +15 % de
 Le workflow hybride est la réponse opérationnelle : l'IA génère la structure et la base factuelle, l'humain apporte l'expertise, les données propriétaires et le point de vue. Les critères E-E-A-T de Google - expérience vécue, expertise technique, autorité, fiabilité - nécessitent une couche humaine irremplaçable. En 2026, les pages AI-écrites représentent plus de 17 % des premiers résultats (Semrush), mais leur performance reste conditionnée à cette validation humaine.
 
 ### L'IA SEO est-elle adaptée à tous les types de sites web ?
-Non sans adaptation. Pour les sites e-commerce à fort volume de fiches produits, l'IA est très rentable : 47 % des vendeurs en ligne l'utilisent déjà pour les descriptions produits (Semrush). Pour les sites d'expertise juridique, médicale ou financière, l'approche IA pure est déconseillée - ces secteurs nécessitent des contenus avec une autorité et une responsabilité éditoriale que les LLMs ne peuvent pas assumer seuls. Le SEO local reste également un cas où la donnée terrain prime sur la génération automatisée.
+Non sans adaptation. Pour les sites e-commerce à fort volume de fiches produits, l'IA est très rentable : 47 % des vendeurs en ligne l'utilisent déjà pour les descriptions produits (Semrush). Pour les sites d'expertise juridique, médicale ou financière, l'approche IA pure est déconseillée - ces secteurs nécessitent des contenus avec une autorité et une responsabilité éditoriale que les LLMs ne peuvent pas assumer seuls. Le [SEO local](https://blotmkt.com/ia/definition/seo-local.html) reste également un cas où la donnée terrain prime sur la génération automatisée.
 
 ---
 *Sources : Semrush (étude 10 millions de mots-clés, 2026) ; HubSpot, State of Marketing Report 2026 ; SEOQuantum / McKinsey, The State of AI 2026 ; Graphite / Similarweb (février 2026) ; Seer Interactive (2025, 3 119 requêtes) ; Search Engine Journal, AI SEO Market Report 2025 ; Incremys, Statistiques SEO 2026 ; Ahrefs, Content Study 2026.*
@@ -132,8 +132,8 @@ Non sans adaptation. Pour les sites e-commerce à fort volume de fiches produits
 
 ## Articles connexes
 
-- [aeo answer engine optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
 - [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
+- [Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité](https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo.html)

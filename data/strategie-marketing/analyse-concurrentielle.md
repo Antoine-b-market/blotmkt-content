@@ -61,7 +61,7 @@ En SEO, l'analyse concurrentielle consiste à rechercher et évaluer les straté
 Elle se distingue d'une analyse de marché classique sur un point fondamental : 
 vos concurrents SEO ne sont pas forcément vos concurrents business. Un concurrent SEO est un site qui se positionne sur les mêmes mots-clés que vous dans Google.
 
-L'analyse concurrentielle SEO repose sur 5 dimensions : l'autorité de domaine (backlinks, Domain Authority, Domain Rating), le contenu (volume de pages indexées, profondeur sémantique, couverture des clusters de mots-clés), la technique ([Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html), indexabilité, architecture), les backlinks (nombre de domaines référents, ratio follow/nofollow, ancres) et l'UX.
+L'analyse concurrentielle SEO repose sur 5 dimensions : l'autorité de domaine (backlinks, Domain Authority, Domain Rating), le contenu (volume de pages indexées, profondeur sémantique, couverture des clusters de mots-clés), la technique (Core Web Vitals, indexabilité, architecture), les backlinks (nombre de domaines référents, ratio follow/nofollow, ancres) et l'UX.
 
 Dans ma pratique avec des entreprises québécoises, je constate que la majorité des PME confondent veille concurrentielle et analyse SEO. La veille suit l'actualité d'un rival. L'analyse SEO décortique ce qui le propulse dans les résultats de recherche - c'est une démarche structurée, pas un regard ponctuel.
 

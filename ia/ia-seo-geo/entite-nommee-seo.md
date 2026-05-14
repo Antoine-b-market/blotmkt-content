@@ -41,7 +41,7 @@ Votre contenu cible des mots-clés, mais Google lit vos pages autrement. Il iden
 
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - Une entité nommée est un concept unique (personne, lieu, organisation) que Google identifie via son Knowledge Graph, pas un simple mot-clé.
+> - Une entité nommée est un concept unique (personne, lieu, organisation) que Google identifie via son [Knowledge Graph](https://blotmkt.com/ia/definition/knowledge-graph.html), pas un simple mot-clé.
 > - Identifier les entités pertinentes passe par l'analyse sémantique NLP de votre secteur et l'audit des [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) Schema.org existantes.
 > - Les outils NLP comme InLinks, Semrush ou Google NLP API permettent d'extraire et de cartographier les entités de votre niche.
 > - Structurer le contenu autour d'entités nommées reconnues réduit l'ambiguïté sémantique et améliore le classement SEO sur des requêtes concurrentielles.
@@ -151,7 +151,7 @@ Les LLMs - ChatGPT, Gemini, Perplexity, Claude - ont intégré une version du Kn
 
 On passe d'un SEO centré sur la page à un SEO centré sur la donnée et surtout sur l'identité : pour être compris durablement, il faut apprendre à nommer, décrire, puis relier.
 
-En tant que spécialiste GEO, j'anticipe que les données structurées deviendront un standard de conformité technique d'ici fin 2026, au même titre que les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) l'ont été en 2021. Les entreprises qui auront construit leur graphe d'entités interne - aligné sur Schema.org et Wikidata - capteront l'essentiel de la visibilité dans les interfaces de réponse des LLMs.
+En tant que spécialiste GEO, j'anticipe que les données structurées deviendront un standard de conformité technique d'ici fin 2026, au même titre que les Core Web Vitals l'ont été en 2021. Les entreprises qui auront construit leur graphe d'entités interne - aligné sur Schema.org et Wikidata - capteront l'essentiel de la visibilité dans les interfaces de réponse des LLMs.
 
 ---
 
@@ -163,7 +163,7 @@ Commencez par analyser votre contenu existant via Google Natural Language API, q
 
 ### Quelle est la différence entre entité nommée et mot-clé de longue traîne ?
 
-Un mot-clé de longue traîne est une chaîne de caractères précise ("meilleur consultant SEO Montréal"). 
+Un mot-clé de longue traîne est une chaîne de caractères précise ("meilleur Consultant SEO Montréal"). 
 Google traite les entités comme des choses du monde réel avec une identité, tandis que les mots-clés sont de simples chaînes de texte. Une entité a des attributs, des relations et un sens stable. Un mot-clé peut signifier des choses différentes selon le contexte.
  Les deux se complètent : le mot-clé capte l'intention ; l'entité ancre la page dans le Knowledge Graph.
 
@@ -183,8 +183,8 @@ Suivez quatre KPIs dans Google Search Console : les impressions totales (signe q
 
 ## Articles connexes
 
-- [aeo answer engine optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
 - [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
+- [geo : le guide complet pour dominer la recherche boostée par l'ia](https://blotmkt.com/ia/ia-seo-geo/geo-guide-complet.html)

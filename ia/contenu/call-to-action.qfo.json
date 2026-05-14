@@ -1,46 +1,46 @@
 {
-  "score_global": 0.4605,
-  "mu": 0.475,
-  "sigma_min": 0.4509,
-  "mmr_score": 0.0566,
-  "kl_divergence": 0.6041,
-  "kl_status": "OFF_TOPIC",
-  "transition_prob": 0.8059,
+  "score_global": 0.4768,
+  "mu": 0.4847,
+  "sigma_min": 0.4715,
+  "mmr_score": 0.0599,
+  "kl_divergence": 0.5973,
+  "kl_status": "OK",
+  "transition_prob": 0.4737,
   "axes": {
     "sous_sujet": {
       "dimension": "detail technique specifique precis",
-      "score": 0.4892,
+      "score": 0.4797,
       "status": "FAIL",
-      "best_chunk": "Je vais d'abord effectuer des recherches pour obtenir des données récentes et sourcées sur les CTA. Voici l'article comp",
-      "chunk_index": 0
+      "best_chunk": "Unbounce, HubSpot, Segment (2025), Google Search Central. <!--FAQJSON [{\"question\": \"Comment rédiger un call to action e",
+      "chunk_index": 6
     },
     "prerequis": {
       "dimension": "connaissances prealables necessaires",
-      "score": 0.4677,
+      "score": 0.4816,
       "status": "FAIL",
-      "best_chunk": "Je vais d'abord effectuer des recherches pour obtenir des données récentes et sourcées sur les CTA. Voici l'article comp",
-      "chunk_index": 0
+      "best_chunk": "Unbounce, HubSpot, Segment (2025), Google Search Central. <!--FAQJSON [{\"question\": \"Comment rédiger un call to action e",
+      "chunk_index": 6
     },
     "cas_limite": {
       "dimension": "exception cas particulier probleme limite",
-      "score": 0.4509,
+      "score": 0.4715,
       "status": "FAIL",
-      "best_chunk": "Je vais d'abord effectuer des recherches pour obtenir des données récentes et sourcées sur les CTA. Voici l'article comp",
-      "chunk_index": 0
+      "best_chunk": "Unbounce, HubSpot, Segment (2025), Google Search Central. <!--FAQJSON [{\"question\": \"Comment rédiger un call to action e",
+      "chunk_index": 6
     },
     "validation": {
       "dimension": "preuve mesure verification resultat chiffre",
-      "score": 0.4805,
+      "score": 0.5187,
       "status": "FAIL",
-      "best_chunk": "Je vais d'abord effectuer des recherches pour obtenir des données récentes et sourcées sur les CTA. Voici l'article comp",
-      "chunk_index": 0
+      "best_chunk": "Unbounce, HubSpot, Segment (2025), Google Search Central. <!--FAQJSON [{\"question\": \"Comment rédiger un call to action e",
+      "chunk_index": 6
     },
     "entite": {
       "dimension": "organisation outil reference officielle reconnue",
-      "score": 0.4868,
+      "score": 0.4718,
       "status": "FAIL",
-      "best_chunk": "Je vais d'abord effectuer des recherches pour obtenir des données récentes et sourcées sur les CTA. Voici l'article comp",
-      "chunk_index": 0
+      "best_chunk": "Unbounce, HubSpot, Segment (2025), Google Search Central. <!--FAQJSON [{\"question\": \"Comment rédiger un call to action e",
+      "chunk_index": 6
     }
   },
   "weak_axes": [

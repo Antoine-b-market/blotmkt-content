@@ -44,7 +44,7 @@ Votre site stagne en page 2 malgré des mois de travail. Vous publiez du contenu
 <!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Les 3 piliers du classement Google sont la pertinence du contenu, l'autorité des liens et la santé technique du site.
-> - Un LCP sous 2,5 s est la cible officielle de Google pour les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) depuis 2021.
+> - Un LCP sous 2,5 s est la cible officielle de Google pour les Core Web Vitals depuis 2021.
 > - L'E-E-A-T - Expérience, Expertise, Autorité, Fiabilité - est le cadre d'évaluation de la qualité de contenu.
 > - Google Search Console surveille impressions, clics et position moyenne gratuitement et en temps réel.
 
@@ -158,7 +158,7 @@ La compatibilité mobile est un facteur de classement confirmé depuis 2018. Goo
 
 ---
 
-*Sources : Alfaweb - Analyse core update mars 2026 (avril 2026) · Inktomi - Signaux utilisateurs SEO 2026 (février 2026) · ClickRank - Google SEO Ranking Factors 2026 (mars 2026) · Heroic Impulsion - Mise à jour algorithme Google 2026 (avril 2026) · Cuik - Facteurs de classement SEO local 2026 · Abondance - Algorithme Google 2026*
+*Sources : Alfaweb - Analyse core update mars 2026 (avril 2026) · Inktomi - Signaux utilisateurs SEO 2026 (février 2026) · ClickRank - Google SEO Ranking Factors 2026 (mars 2026) · Heroic Impulsion - Mise à jour algorithme Google 2026 (avril 2026) · Cuik - Facteurs de classement [SEO local](https://blotmkt.com/ia/definition/seo-local.html) 2026 · Abondance - Algorithme Google 2026*
 
 ---
 
@@ -170,6 +170,6 @@ La compatibilité mobile est un facteur de classement confirmé depuis 2018. Goo
 
 - [Désindexation Google : Comprendre, Agir et Optimiser votre SEO](https://blotmkt.com/ia/popularite/desindexation-google.html)
 - [guest blogging seo : guide complet pour un référencement durable en 2026](https://blotmkt.com/ia/popularite/guest-blogging-seo.html)
-- [analyse de logs seo : décuplez la rentabilité de votre crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
-- [Architecture de site web: guide complet pour un seo performant en 2026](https://blotmkt.com/ia/audit/architecture-de-site.html)
-- [Audit seo technique : le guide complet pour booster votre visibilité](https://blotmkt.com/ia/audit/audit-seo-technique.html)
+- [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/ia/audit/indexation-api-google.html)
+- [Alt text image : le guide complet pour l'accessibilité, le SEO et la visibilité IA](https://blotmkt.com/ia/contenu/alt-text-image.html)
+- [Call to action : le guide ultime pour booster vos conversions](https://blotmkt.com/ia/contenu/call-to-action.html)

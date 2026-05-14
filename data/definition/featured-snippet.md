@@ -163,13 +163,13 @@ La visibilité des featured snippets sur desktop a reculé de 64 % en six mois e
 ### Comment optimiser mon contenu pour la recherche vocale via les featured snippets ?
 
 40,7 % des réponses vocales de Google sont extraites directement d'un featured snippet.
- Pour maximiser ce canal : rédigez des réponses sous forme de phrases complètes (pas de listes à puces), adoptez un registre conversationnel aligné sur les requêtes longue traîne, et ciblez des questions commençant par "comment", "qu'est-ce que" ou "pourquoi". La longueur idéale reste 40 à 60 mots. Sur mobile, privilégiez un temps de chargement inférieur à 2,5 secondes ([Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html)) pour ne pas être pénalisé en contexte vocal.
+ Pour maximiser ce canal : rédigez des réponses sous forme de phrases complètes (pas de listes à puces), adoptez un registre conversationnel aligné sur les requêtes longue traîne, et ciblez des questions commençant par "comment", "qu'est-ce que" ou "pourquoi". La longueur idéale reste 40 à 60 mots. Sur mobile, privilégiez un temps de chargement inférieur à 2,5 secondes (Core Web Vitals) pour ne pas être pénalisé en contexte vocal.
 
 ### Les featured snippets sont-ils importants pour le SEO local ?
 
 Oui, notamment pour les requêtes combinant intention informationnelle et géolocalisation - "comment choisir un notaire à Montréal", "qu'est-ce qu'un bail commercial au Québec". Ces snippets renforcent l'autorité locale perçue. 
 Les recherches déclenchées par assistant vocal affichent le taux d'apparition de featured snippet le plus élevé de toutes les modalités de recherche, à 41,2 % selon l'analyse Semrush-Brightedge de 2026.
- Pour le SEO local, l'ajout du schema `LocalBusiness` combiné à une réponse directe augmente les chances d'apparaître sur ces requêtes hybrides.
+ Pour le [SEO local](https://blotmkt.com/ia/definition/seo-local.html), l'ajout du schema `LocalBusiness` combiné à une réponse directe augmente les chances d'apparaître sur ces requêtes hybrides.
 
 ---
 

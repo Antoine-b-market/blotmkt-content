@@ -65,8 +65,8 @@ L'approche holistique impose de documenter chaque décision : choix de mots-clé
 
 Toute stratégie SEO solide repose sur six piliers interdépendants. Isoler l'un d'entre eux fragilise l'ensemble.
 
-L'[audit SEO technique](https://blotmkt.com/ia/audit/audit-seo-technique.html) identifie les erreurs d'indexation, les pages lentes et les problèmes de crawl. 
-Les sites qui optimisent simultanément leurs [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) et leur contenu E-E-A-T observent une augmentation moyenne de 27 % de leur trafic organique sur six mois.
+L'audit SEO technique identifie les erreurs d'indexation, les pages lentes et les problèmes de crawl. 
+Les sites qui optimisent simultanément leurs Core Web Vitals et leur contenu E-E-A-T observent une augmentation moyenne de 27 % de leur trafic organique sur six mois.
 
 La recherche de mots-clés cartographie les intentions de recherche réelles de votre audience. 
 Les mots-clés de 10 à 15 mots génèrent 1,76 fois plus de clics que les mots simples

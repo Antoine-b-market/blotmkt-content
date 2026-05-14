@@ -69,7 +69,7 @@ Dans ma pratique, j'observe que les entreprises qui confondent les deux canaux -
 
 Une stratégie de référencement Google repose sur trois piliers complémentaires. L'on-page d'abord : balise title unique, meta description incitative, structure Hn cohérente, URLs descriptives. La balise title est l'élément HTML qui définit le titre cliquable dans les résultats - Google la réécrit dans 57 % des cas lorsqu'elle est trop longue ou hors sujet.
 
-Le SEO technique ensuite : vitesse de chargement, compatibilité mobile, HTTPS, [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html). 
+Le SEO technique ensuite : vitesse de chargement, compatibilité mobile, HTTPS, Core Web Vitals. 
 Google recommande explicitement d'utiliser les éléments HTML `<img>` avec les attributs `src` et `alt` descriptifs, et d'éviter les images en CSS pur.
 
 Le netlinking enfin : la qualité des liens entrants reste un signal de classement majeur. Un lien depuis un site d'autorité sectorielle vaut infiniment plus que dix liens provenant de répertoires génériques.

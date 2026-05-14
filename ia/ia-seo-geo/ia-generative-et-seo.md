@@ -177,7 +177,7 @@ En travaillant avec des entreprises québécoises, je constate que les compéten
 
 Non. 
 Le futur du SEO repose sur la capacité à créer des contenus différenciateurs que l'IA ne peut pas générer seule.
- Les experts SEO restent indispensables pour la [Stratégie éditoriale](https://blotmkt.com/ia/contenu/strategie-editoriale.html), l'analyse des intentions de recherche et la supervision qualité. L'IA automatise les tâches répétitives — audits, clustering, balises — mais elle ne remplace pas le jugement humain sur ce qui est réellement utile pour une audience spécifique.
+ Les experts SEO restent indispensables pour la Stratégie éditoriale, l'analyse des intentions de recherche et la supervision qualité. L'IA automatise les tâches répétitives — audits, clustering, balises — mais elle ne remplace pas le jugement humain sur ce qui est réellement utile pour une audience spécifique.
 
 ### Comment l'IA aide-t-elle à identifier les mots-clés les plus pertinents ?
 
@@ -187,8 +187,8 @@ L'IA a transformé la façon dont les marketeurs créent des stratégies SEO, co
 
 ### Quels outils d'IA sont les plus efficaces pour le SEO ?
 
-Les outils les plus cités dans les workflows SEO avancés en 2026 sont Semrush AI Toolkit pour l'analyse concurrentielle, SurferSEO pour l'optimisation on-page, Perplexity pour la recherche de sources et la vérification factuelle, ChatGPT pour la génération de briefs et de variations de contenu, et Screaming Frog couplé à des scripts Python pour l'automatisation technique. 
-L'utilisation de l'IA pour l'automatisation SEO est très efficace, avec de nombreux cas d'usage bénéfiques incluant la recherche de mots-clés, l'analyse de données, l'[Optimisation de contenu](https://blotmkt.com/ia/contenu/optimisation-de-contenu.html) et l'automatisation des processus.
+Les outils les plus cités dans les workflows SEO avancés en 2026 sont Semrush AI Toolkit pour l'[Analyse concurrentielle](https://blotmkt.com/ia/strategie-marketing/analyse-concurrentielle.html), SurferSEO pour l'optimisation on-page, Perplexity pour la recherche de sources et la vérification factuelle, ChatGPT pour la génération de briefs et de variations de contenu, et Screaming Frog couplé à des scripts Python pour l'automatisation technique. 
+L'utilisation de l'IA pour l'automatisation SEO est très efficace, avec de nombreux cas d'usage bénéfiques incluant la recherche de mots-clés, l'analyse de données, l'Optimisation de contenu et l'automatisation des processus.
 
 
 ---
@@ -205,8 +205,8 @@ FAQ_JSON-->
 
 ## Articles connexes
 
-- [aeo answer engine optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
 - [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
+- [Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité](https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo.html)

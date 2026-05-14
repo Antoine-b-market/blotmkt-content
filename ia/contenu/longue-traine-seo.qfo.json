@@ -1,85 +1,49 @@
 {
-  "score_global": 0.7649,
-  "atomic_proof_score": 0.38,
-  "mmr_score": 0.2845,
-  "kl_divergence": 0.3681,
-  "verdict": "OK",
-  "weak_axes": [],
+  "score_global": 0.8276,
+  "mu": 0.8368,
+  "sigma_min": 0.8215,
+  "mmr_score": 0.2839,
+  "kl_divergence": 0.303,
+  "kl_status": "OK",
+  "transition_prob": 0.8041,
   "axes": {
     "sous_sujet": {
       "dimension": "detail technique specifique precis",
-      "score": 0.7949,
+      "score": 0.8332,
       "status": "OK",
-      "best_chunk": "Je vais d'abord effectuer quelques recherches pour avoir des données sourcées récentes sur la longue traîne SEO en 2026.",
+      "best_chunk": "Longue traîne SEO : la stratégie rentable pour 2026 et au-delà Sommaire - La longue traîne SEO : définition et pertinenc",
       "chunk_index": 0
     },
     "prerequis": {
       "dimension": "connaissances prealables necessaires",
-      "score": 0.7951,
+      "score": 0.8549,
       "status": "OK",
-      "best_chunk": "Je vais d'abord effectuer quelques recherches pour avoir des données sourcées récentes sur la longue traîne SEO en 2026.",
+      "best_chunk": "Longue traîne SEO : la stratégie rentable pour 2026 et au-delà Sommaire - La longue traîne SEO : définition et pertinenc",
       "chunk_index": 0
     },
     "cas_limite": {
       "dimension": "exception cas particulier probleme limite",
-      "score": 0.7561,
+      "score": 0.8215,
       "status": "OK",
-      "best_chunk": "Je vais d'abord effectuer quelques recherches pour avoir des données sourcées récentes sur la longue traîne SEO en 2026.",
+      "best_chunk": "Longue traîne SEO : la stratégie rentable pour 2026 et au-delà Sommaire - La longue traîne SEO : définition et pertinenc",
       "chunk_index": 0
     },
     "validation": {
       "dimension": "preuve mesure verification resultat chiffre",
-      "score": 0.761,
+      "score": 0.8291,
       "status": "OK",
-      "best_chunk": "Je vais d'abord effectuer quelques recherches pour avoir des données sourcées récentes sur la longue traîne SEO en 2026.",
+      "best_chunk": "Longue traîne SEO : la stratégie rentable pour 2026 et au-delà Sommaire - La longue traîne SEO : définition et pertinenc",
       "chunk_index": 0
     },
     "entite": {
       "dimension": "organisation outil reference officielle reconnue",
-      "score": 0.7832,
+      "score": 0.8452,
       "status": "OK",
-      "best_chunk": "Je vais d'abord effectuer quelques recherches pour avoir des données sourcées récentes sur la longue traîne SEO en 2026.",
+      "best_chunk": "Longue traîne SEO : la stratégie rentable pour 2026 et au-delà Sommaire - La longue traîne SEO : définition et pertinenc",
       "chunk_index": 0
     }
   },
-  "qfo_source": "local",
-  "generated_at": "2026-05-05 05:10",
-  "quotability": {
-    "score": 0.4727,
-    "top10_mean": 0.5806,
-    "n_passages": 65,
-    "assertiveness": 1.0,
-    "information_density": 0.198,
-    "optimal_length": 0.848,
-    "self_containedness": 0.37,
-    "top_passages": [
-      {
-        "passage": "Selon SiteW (2026), le CTR moyen observé sur des requêtes de longue traîne (4 mots et plus) atteint ",
-        "quotability": 0.6606,
-        "assertiveness": 1.0,
-        "information_density": 0.857,
-        "optimal_length": 0.6,
-        "self_containedness": 0.638,
-        "novelty": 0.225
-      },
-      {
-        "passage": "Dans la base de données Ahrefs, 31 000 mots-clés ont plus de 100 000 recherches par mois, contre 3,8",
-        "quotability": 0.6189,
-        "assertiveness": 1.0,
-        "information_density": 0.724,
-        "optimal_length": 0.84,
-        "self_containedness": 0.51,
-        "novelty": 0.254
-      },
-      {
-        "passage": "La première position organique peut capter 34 % du CTR sur desktop selon SEO.com (2026), et la diffé",
-        "quotability": 0.5972,
-        "assertiveness": 1.0,
-        "information_density": 0.656,
-        "optimal_length": 0.72,
-        "self_containedness": 0.459,
-        "novelty": 0.368
-      }
-    ]
-  }
+  "weak_axes": [],
+  "verdict": "OK",
+  "chunks_count": 9
 }

@@ -57,7 +57,7 @@ Vous publiez des articles invités depuis des mois, mais vos positions ne bougen
 
 Le guest blogging consiste à rédiger un article publié sur le site d'un tiers. En échange, l'auteur obtient un backlink vers son propre domaine. Ce lien peut figurer dans la biographie auteur ou directement dans le corps du texte, sous forme contextuelle. C'est un échange de valeur : contenu éditorial pour le site hôte, autorité et visibilité pour le contributeur.
 
-En 2026, les backlinks demeurent parmi les trois premiers facteurs de classement Google, aux côtés du contenu de qualité et de l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html). La nuance majeure : un lien hors thématique ne produit plus d'effet mesurable. La pertinence thématique entre site hôte et domaine cible est devenue un critère de premier rang, au même titre que l'autorité de domaine.
+En 2026, les backlinks demeurent parmi les trois premiers Facteurs de classement Google, aux côtés du contenu de qualité et de l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html). La nuance majeure : un lien hors thématique ne produit plus d'effet mesurable. La pertinence thématique entre site hôte et domaine cible est devenue un critère de premier rang, au même titre que l'autorité de domaine.
 
 J'observe dans ma pratique que les entreprises qui traitent le guest blogging comme une stratégie de relations - et non comme un outil de génération de liens en volume - obtiennent des résultats durables sur 12 à 18 mois. Le guest posting s'est transformé : d'une tactique de link building mécanique à une discipline hybride entre digital PR et content marketing.
 
@@ -153,7 +153,7 @@ Oui, à condition de cibler des sites thématiquement proches avec un Trust Flow
 
 ### Comment choisir la bonne ancre de lien pour un article invité ?
 
-Variez les types d'ancres : marque (votre nom ou URL), ancre semi-optimisée (ex. "stratégie SEO pour PME") et ancre neutre ("en savoir plus"). Évitez d'utiliser la même ancre exacte dans plus de 20 % de vos backlinks. Google interprète une concentration excessive d'ancres exactes comme un signal de manipulation.
+Variez les types d'ancres : marque (votre nom ou URL), ancre semi-optimisée (ex. "Stratégie SEO pour PME") et ancre neutre ("en savoir plus"). Évitez d'utiliser la même ancre exacte dans plus de 20 % de vos backlinks. Google interprète une concentration excessive d'ancres exactes comme un signal de manipulation.
 
 ### Quel est le prix moyen d'un article invité ou d'un backlink de qualité ?
 
@@ -175,6 +175,6 @@ Il n'existe pas de chiffre universel. Sur les projets que je pilote, 4 à 6 plac
 
 - [Désindexation Google : Comprendre, Agir et Optimiser votre SEO](https://blotmkt.com/ia/popularite/desindexation-google.html)
 - [Facteurs de classement Google : le guide ultime 2026 pour dominer les SERPs](https://blotmkt.com/ia/popularite/facteurs-de-classement-google.html)
-- [analyse de logs seo : décuplez la rentabilité de votre crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
-- [Architecture de site web: guide complet pour un seo performant en 2026](https://blotmkt.com/ia/audit/architecture-de-site.html)
-- [Audit seo technique : le guide complet pour booster votre visibilité](https://blotmkt.com/ia/audit/audit-seo-technique.html)
+- [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/ia/audit/indexation-api-google.html)
+- [Alt text image : le guide complet pour l'accessibilité, le SEO et la visibilité IA](https://blotmkt.com/ia/contenu/alt-text-image.html)
+- [Call to action : le guide ultime pour booster vos conversions](https://blotmkt.com/ia/contenu/call-to-action.html)

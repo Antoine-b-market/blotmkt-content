@@ -47,7 +47,7 @@ Vos taux de conversion stagnent. Vos équipes débattent de la couleur d'un bout
 > - L'a-b testing compare deux versions d'un élément marketing pour identifier celle qui convertit le mieux, selon des données mesurables.
 > - Une stratégie efficace repose sur 4 étapes : objectif clair, hypothèse précise, test randomisé, itération continue.
 > - Sur mobile, tester le placement d'un CTA ou la mise en page d'un formulaire peut faire varier les conversions de plus de 24 %.
-> - L'a-b testing améliore les métriques d'engagement SEO - taux de rebond, [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) - sans modifier directement le ranking Google.
+> - L'a-b testing améliore les métriques d'engagement SEO - taux de rebond, Core Web Vitals - sans modifier directement le ranking Google.
 
 ---
 
@@ -190,7 +190,7 @@ Certaines entreprises constatent que des modifications jugées anecdotiques peuv
 ## Articles connexes
 
 - [Tableau de bord marketing : guide complet pour piloter vos performances](https://blotmkt.com/ia/mesure-et-performance/tableau-de-bord-marketing.html)
-- [analyse de logs seo : décuplez la rentabilité de votre crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
-- [Architecture de site web: guide complet pour un seo performant en 2026](https://blotmkt.com/ia/audit/architecture-de-site.html)
-- [Audit seo technique : le guide complet pour booster votre visibilité](https://blotmkt.com/ia/audit/audit-seo-technique.html)
-- [compression image webp : le guide complet pour accélérer votre site et booster votre seo](https://blotmkt.com/ia/audit/compression-image-webp.html)
+- [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/ia/audit/indexation-api-google.html)
+- [Alt text image : le guide complet pour l'accessibilité, le SEO et la visibilité IA](https://blotmkt.com/ia/contenu/alt-text-image.html)
+- [Call to action : le guide ultime pour booster vos conversions](https://blotmkt.com/ia/contenu/call-to-action.html)
+- [Clustering de mots-clés : guide complet pour booster votre seo](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)

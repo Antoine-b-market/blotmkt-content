@@ -1,9 +1,48 @@
 {
-  "score_global": 0.63,
-  "atomic_proof_score": 0.567,
-  "mmr_score": 0.2367,
-  "kl_divergence": 0.4558,
-  "verdict": "REVIEW_NEEDED",
+  "score_global": 0.6143,
+  "mu": 0.6227,
+  "sigma_min": 0.6086,
+  "mmr_score": 0.2004,
+  "kl_divergence": 0.4566,
+  "kl_status": "OK",
+  "transition_prob": 0.7199,
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.6372,
+      "status": "FAIL",
+      "best_chunk": "contenu à satisfaire le besoin derrière la requête.\"}, {\"question\": \"Pourquoi l'intention de recherche est-elle cruciale",
+      "chunk_index": 6
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.6086,
+      "status": "FAIL",
+      "best_chunk": "contenu à satisfaire le besoin derrière la requête.\"}, {\"question\": \"Pourquoi l'intention de recherche est-elle cruciale",
+      "chunk_index": 6
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.6093,
+      "status": "FAIL",
+      "best_chunk": "contenu à satisfaire le besoin derrière la requête.\"}, {\"question\": \"Pourquoi l'intention de recherche est-elle cruciale",
+      "chunk_index": 6
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.6218,
+      "status": "FAIL",
+      "best_chunk": "contenu à satisfaire le besoin derrière la requête.\"}, {\"question\": \"Pourquoi l'intention de recherche est-elle cruciale",
+      "chunk_index": 6
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.6368,
+      "status": "FAIL",
+      "best_chunk": "contenu à satisfaire le besoin derrière la requête.\"}, {\"question\": \"Pourquoi l'intention de recherche est-elle cruciale",
+      "chunk_index": 6
+    }
+  },
   "weak_axes": [
     "sous_sujet",
     "prerequis",
@@ -11,81 +50,6 @@
     "validation",
     "entite"
   ],
-  "axes": {
-    "sous_sujet": {
-      "dimension": "detail technique specifique precis",
-      "score": 0.6482,
-      "status": "FAIL",
-      "best_chunk": "sur le bon mot-clé mais sur la mauvaise intention — et ne jamais convertir — Antoine Blot, spécialiste GEO. L'intention ",
-      "chunk_index": 3
-    },
-    "prerequis": {
-      "dimension": "connaissances prealables necessaires",
-      "score": 0.6243,
-      "status": "FAIL",
-      "best_chunk": "sur le bon mot-clé mais sur la mauvaise intention — et ne jamais convertir — Antoine Blot, spécialiste GEO. L'intention ",
-      "chunk_index": 3
-    },
-    "cas_limite": {
-      "dimension": "exception cas particulier probleme limite",
-      "score": 0.6276,
-      "status": "FAIL",
-      "best_chunk": "sur le bon mot-clé mais sur la mauvaise intention — et ne jamais convertir — Antoine Blot, spécialiste GEO. L'intention ",
-      "chunk_index": 3
-    },
-    "validation": {
-      "dimension": "preuve mesure verification resultat chiffre",
-      "score": 0.6417,
-      "status": "FAIL",
-      "best_chunk": "sur le bon mot-clé mais sur la mauvaise intention — et ne jamais convertir — Antoine Blot, spécialiste GEO. L'intention ",
-      "chunk_index": 3
-    },
-    "entite": {
-      "dimension": "organisation outil reference officielle reconnue",
-      "score": 0.6506,
-      "status": "FAIL",
-      "best_chunk": "sur le bon mot-clé mais sur la mauvaise intention — et ne jamais convertir — Antoine Blot, spécialiste GEO. L'intention ",
-      "chunk_index": 3
-    }
-  },
-  "qfo_source": "local",
-  "generated_at": "2026-05-05 05:06",
-  "quotability": {
-    "score": 0.4698,
-    "top10_mean": 0.6051,
-    "n_passages": 82,
-    "assertiveness": 1.0,
-    "information_density": 0.198,
-    "optimal_length": 0.893,
-    "self_containedness": 0.379,
-    "top_passages": [
-      {
-        "passage": "- Les 4 types d'intention de recherche\n- Comment analyser l'intention de recherche ?",
-        "quotability": 0.7527,
-        "assertiveness": 1.0,
-        "information_density": 0.643,
-        "optimal_length": 1.0,
-        "self_containedness": 0.998,
-        "novelty": 0.214
-      },
-      {
-        "passage": "Passer de la position 2 à la position 1 génère 74,5 % de clics supplémentaires.",
-        "quotability": 0.6308,
-        "assertiveness": 1.0,
-        "information_density": 0.6,
-        "optimal_length": 1.0,
-        "self_containedness": 0.467,
-        "novelty": 0.454
-      },
-      {
-        "passage": "C'est pourtant là que se jouent les 3 à 5 premières positions - Antoine Blot, consultant SEO.",
-        "quotability": 0.6119,
-        "assertiveness": 1.0,
-        "information_density": 0.882,
-        "optimal_length": 1.0,
-        "self_containedness": 0.183,
-        "novelty": 0.432
-      }
-    ]
-  }
+  "verdict": "REVIEW_NEEDED",
+  "chunks_count": 8
 }

@@ -37,7 +37,7 @@ publisher: "BlotMKT - Antoine BLOT"
 - [Le retour sur investissement (ROI) d'un audit SEO technique](#roi)
 - [Questions fréquentes](#questions-frequentes)
 
-Votre site stagne malgré une production de contenu régulière. Vos concurrents gagnent des positions sans raison apparente. Vous investissez en publicité payante pour compenser un trafic organique qui n'augmente pas. Ces symptômes pointent souvent vers des blocages techniques invisibles à l'œil nu. Un [audit SEO technique](https://blotmkt.com/ia/audit/audit-seo-technique.html) identifie ces freins avec précision et les transforme en plans d'action mesurables - adaptés aux réalités du marché québécois et aux exigences des moteurs IA.
+Votre site stagne malgré une production de contenu régulière. Vos concurrents gagnent des positions sans raison apparente. Vous investissez en publicité payante pour compenser un trafic organique qui n'augmente pas. Ces symptômes pointent souvent vers des blocages techniques invisibles à l'œil nu. Un audit SEO technique identifie ces freins avec précision et les transforme en plans d'action mesurables - adaptés aux réalités du marché québécois et aux exigences des moteurs IA.
 
 <!-- speakable:start -->
 > ## L'essentiel à retenir
@@ -51,7 +51,7 @@ Votre site stagne malgré une production de contenu régulière. Vos concurrents
 
 ## Qu'est-ce qu'un audit SEO technique et pourquoi est-il crucial pour votre visibilité au Québec ? {#definition}
 
-Un audit SEO technique est une analyse exhaustive des facteurs techniques d'un site web qui conditionnent son référencement naturel. Il identifie les freins à l'exploration, à l'indexation et au positionnement dans Google. L'analyse couvre l'architecture des URL, la vitesse de chargement, le mobile-first indexing, les Données structurées et le budget de crawl.
+Un audit SEO technique est une analyse exhaustive des facteurs techniques d'un site web qui conditionnent son référencement naturel. Il identifie les freins à l'exploration, à l'indexation et au positionnement dans Google. L'analyse couvre l'architecture des URL, la vitesse de chargement, le mobile-first indexing, les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) et le budget de crawl.
 
 L'objectif dépasse le simple classement. En 2026, il s'agit de devenir la réponse de référence pour les utilisateurs et pour les moteurs IA comme ChatGPT ou Perplexity. Au Québec, cette ambition implique une calibration linguistique précise : les expressions locales, les intentions de recherche régionales et les signaux de proximité géographique exigent une expertise que les outils automatisés ne peuvent pas reproduire seuls.
 
@@ -83,9 +83,9 @@ Cinq catégories d'outils couvrent l'ensemble du périmètre d'un audit SEO tech
 | Catégorie | Outil principal | Outil alternatif | Usage clé |
 |---|---|---|---|
 | Crawl | Screaming Frog | Sitebulb | Cartographie des URL, erreurs 4xx/3xx |
-| Vitesse | Google PageSpeed Insights | GTmetrix | [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html), LCP, CLS |
+| Vitesse | Google PageSpeed Insights | GTmetrix | Core Web Vitals, LCP, CLS |
 | Indexation | Google Search Console | - | Rapport de couverture, erreurs d'indexation |
-| Backlinks | Ahrefs | Semrush | Profil de liens, détection de liens toxiques |
+| Backlinks | Ahrefs | Semrush | [Profil de liens](https://blotmkt.com/ia/definition/profil-de-liens.html), détection de liens toxiques |
 | Données structurées | Google Rich Results Test | Schema Markup Validator | Validation du schema markup |
 
 En 2026, viser uniquement la "position" ne suffit plus. Selon Semrush (2025), 60 % des recherches se terminent sans clic vers un site externe. Les outils de suivi doivent donc intégrer des métriques de visibilité plus larges : impressions, CTR et présence dans les featured snippets.
@@ -102,7 +102,7 @@ L'enjeu est fondamental : optimiser pour la visibilité dans les réponses gén�
 
 Pour le marché québécois, l'audit GEO intègre également l'analyse du Google Business Profile, la cohérence des citations NAP et le ciblage géographique précis. 76 % des recherches locales produisent une visite en personne dans les 24 heures (Google Local Insights, 2026). La dimension locale est donc non négociable pour toute entreprise qui sert une clientèle régionale.
 
-En travaillant avec des entreprises québécoises, j'intègre systématiquement un contrôle du [Fichier Robots.txt](https://blotmkt.com/ia/audit/fichier-robots.txt.html) et des balises canoniques : deux éléments souvent mal configurés qui bloquent l'accès des crawlers IA aux pages stratégiques.
+En travaillant avec des entreprises québécoises, j'intègre systématiquement un contrôle du Fichier Robots.txt et des balises canoniques : deux éléments souvent mal configurés qui bloquent l'accès des crawlers IA aux pages stratégiques.
 
 ---
 

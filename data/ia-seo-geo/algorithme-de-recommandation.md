@@ -175,8 +175,8 @@ En e-commerce, un algorithme de recommandation performant permet d'augmenter le 
 
 ## Articles connexes
 
-- [aeo answer engine optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
 - [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
 - [Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité](https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo.html)
+- [geo : le guide complet pour dominer la recherche boostée par l'ia](https://blotmkt.com/ia/ia-seo-geo/geo-guide-complet.html)

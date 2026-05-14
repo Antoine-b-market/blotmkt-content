@@ -36,13 +36,13 @@ publisher: "BlotMKT - Antoine BLOT"
 - [L'avenir de l'expertise SEO technique : IA et automatisation](#avenir)
 - [Questions fréquentes](#questions-frequentes)
 
-Votre site est en ligne depuis des mois. Le contenu est soigné, les mots-clés bien choisis. Pourtant, Google ne vous trouve pas. Ce n'est pas un problème de contenu - c'est souvent un problème technique invisible. Les erreurs de crawl, les pages lentes et les Données structurées absentes sabotent silencieusement votre référencement. L'expertise SEO technique est précisément ce qui détecte et corrige ces blocages. Ce guide vous donne les clés concrètes pour comprendre, auditer et optimiser la couche technique de votre site en 2026.
+Votre site est en ligne depuis des mois. Le contenu est soigné, les mots-clés bien choisis. Pourtant, Google ne vous trouve pas. Ce n'est pas un problème de contenu - c'est souvent un problème technique invisible. Les erreurs de crawl, les pages lentes et les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) absentes sabotent silencieusement votre référencement. L'expertise SEO technique est précisément ce qui détecte et corrige ces blocages. Ce guide vous donne les clés concrètes pour comprendre, auditer et optimiser la couche technique de votre site en 2026.
 
 <!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Google Search Console, Screaming Frog et PageSpeed Insights sont les trois outils de base indispensables pour tout audit technique.
 > - L'expertise technique influence le positionnement en améliorant le crawl, la vitesse et la compréhension des pages par Google.
-> - Un expert SEO technique maîtrise le crawl budget, les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html), les données structurées et l'analyse des logs serveur.
+> - Un expert SEO technique maîtrise le crawl budget, les Core Web Vitals, les données structurées et l'analyse des logs serveur.
 > - En 2026, les mandats intégrant la technique génèrent 2,8 fois plus de trafic organique que ceux axés sur le contenu seul.
 
 ---
@@ -104,7 +104,7 @@ Une structure de site inefficace, avec une hiérarchie de pages trop profonde (a
 
 ## Outils et techniques pour un audit SEO technique efficace {#outils}
 
-Un [audit SEO technique](https://blotmkt.com/ia/audit/audit-seo-technique.html) efficace suit une séquence précise. Chaque outil a un rôle défini - les combiner donne une vision complète.
+Un audit SEO technique efficace suit une séquence précise. Chaque outil a un rôle défini - les combiner donne une vision complète.
 
 Étape 1 - Google Search Console : vérifiez le rapport de couverture pour identifier les pages exclues, les erreurs de crawl et les problèmes de mobile-first. C'est votre point de départ obligatoire. 
 Vous pouvez vérifier vos scores Core Web Vitals grâce à quatre outils gratuits de Google. Google Search Console affiche les données de terrain sur l'ensemble du site.
@@ -140,7 +140,7 @@ En travaillant avec des entreprises québécoises, j'observe que celles qui inve
 
 ### Quelle est la différence entre SEO on-page et SEO technique ?
 
-Le SEO on-page optimise les éléments visibles d'une page : titres H1-H6, méta descriptions, [Densité de mots-clés](https://blotmkt.com/ia/contenu/densite-de-mots-cles.html) et contenu éditorial. Le SEO technique, lui, travaille sur la couche invisible : crawlabilité, indexation, performance serveur, données structurées et architecture d'URL. Les deux sont complémentaires. Un contenu parfait sur une page non indexée ne génère aucun trafic. Selon SEOProfy, 65 % des sites présentent des problèmes techniques qui limitent leur potentiel de classement.
+Le SEO on-page optimise les éléments visibles d'une page : titres H1-H6, méta descriptions, Densité de mots-clés et contenu éditorial. Le SEO technique, lui, travaille sur la couche invisible : crawlabilité, indexation, performance serveur, données structurées et architecture d'URL. Les deux sont complémentaires. Un contenu parfait sur une page non indexée ne génère aucun trafic. Selon SEOProfy, 65 % des sites présentent des problèmes techniques qui limitent leur potentiel de classement.
 
 ### Combien de temps faut-il pour voir les résultats d'une optimisation technique ?
 

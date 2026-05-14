@@ -3,73 +3,139 @@
   "slug": "alt-text-image",
   "category": "contenu",
   "keyword": "Alt text image",
-  "title": "alt text image : le guide complet pour l'accessibilité, le seo et la visibilité ia",
-  "status": "published",
-  "fix_type": null,
-  "fix_target": null,
+  "title": "alt text image : le guide complet pour l'accessibilité, le SEO et la visibilité IA",
+  "status": "pending_fix",
+  "fix_type": "fix_qfo",
+  "fix_target": {
+    "section": "Auditer et optimiser l'alt text : outils et meilleures pratiques continues {#auditer-et-optimiser-lalt-text-outils-et-meilleures-pratiques-continues}",
+    "qfo_score": 0.673,
+    "weak_axes": [
+      "sous_sujet",
+      "prerequis",
+      "cas_limite",
+      "validation",
+      "entite"
+    ]
+  },
   "stale": false,
   "stale_since": null,
-  "created_at": "2026-05-06T03:33:51.045039Z",
-  "updated_at": "2026-05-13T05:19:22.745245+00:00",
+  "brief_mode": "standard",
+  "hreflang": "fr-CA",
+  "force_published": false,
+  "created_at": "2026-05-14T03:19:21.697451Z",
+  "updated_at": "2026-05-14T03:24:55.926974Z",
   "scores": {
     "qfo_global": {
-      "value": 0.7213,
+      "value": 0.673,
       "threshold": 0.72,
       "direction": "higher_better",
-      "passed": true,
+      "passed": false,
       "blocking": true
     },
     "quotability": {
-      "value": 0.4664,
+      "value": 0.4621,
       "threshold": 0.45,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "chunk_diversity": {
-      "value": 0.7285,
+      "value": 0.7095,
       "threshold": 0.86,
       "direction": "lower_better",
       "passed": true,
       "blocking": true
     },
     "atomic_proof": {
-      "value": 0.44,
+      "value": 0.3583,
       "threshold": 0.35,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "semantic_density": {
-      "value": 0.4068,
+      "value": 0.4294,
       "threshold": 0.3,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "information_gain": {
-      "value": 0.2044,
-      "threshold": 0.15,
+      "value": 0.2035,
+      "threshold": 0.08,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "perplexity_variance": {
-      "value": 0.1796,
+      "value": 0.1963,
       "threshold": 0.12,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "entity_alignment": {
-      "value": 0.669,
+      "value": 0.68,
       "threshold": 0.55,
       "direction": "higher_better",
       "passed": true,
       "blocking": false
     }
   },
-  "fix_history": [],
-  "force_published": false,
-  "hreflang": "fr-CA"
+  "fix_history": [
+    {
+      "fix_type": "fix_qfo",
+      "model": "claude-sonnet-4-6",
+      "section_targeted": "Auditer et optimiser l'alt text : outils et meilleures pratiques continues {#auditer-et-optimiser-lalt-text-outils-et-meilleures-pratiques-continues}",
+      "fixed_at": "2026-05-14T03:23:30.035897Z",
+      "scores_before": {
+        "qfo_global": 0.673,
+        "quotability": 0.4632,
+        "chunk_diversity": 0.7095,
+        "atomic_proof": 0.3833,
+        "semantic_density": 0.4394,
+        "information_gain": 0.2047,
+        "perplexity_variance": 0.1956,
+        "entity_alignment": 0.68
+      },
+      "scores_after": {
+        "qfo_global": 0.673,
+        "quotability": 0.4611,
+        "chunk_diversity": 0.7095,
+        "atomic_proof": 0.3583,
+        "semantic_density": 0.4297,
+        "information_gain": 0.2037,
+        "perplexity_variance": 0.1927,
+        "entity_alignment": 0.68
+      },
+      "result": "fail"
+    },
+    {
+      "fix_type": "fix_qfo",
+      "model": "claude-sonnet-4-6",
+      "section_targeted": "Auditer et optimiser l'alt text : outils et meilleures pratiques continues {#auditer-et-optimiser-lalt-text-outils-et-meilleures-pratiques-continues}",
+      "fixed_at": "2026-05-14T03:24:55.926966Z",
+      "scores_before": {
+        "qfo_global": 0.673,
+        "quotability": 0.4611,
+        "chunk_diversity": 0.7095,
+        "atomic_proof": 0.3583,
+        "semantic_density": 0.4297,
+        "information_gain": 0.2037,
+        "perplexity_variance": 0.1927,
+        "entity_alignment": 0.68
+      },
+      "scores_after": {
+        "qfo_global": 0.673,
+        "quotability": 0.4621,
+        "chunk_diversity": 0.7095,
+        "atomic_proof": 0.3583,
+        "semantic_density": 0.4294,
+        "information_gain": 0.2035,
+        "perplexity_variance": 0.1963,
+        "entity_alignment": 0.68
+      },
+      "result": "fail"
+    }
+  ]
 }

@@ -98,7 +98,7 @@ Premièrement, l'absence de balisage Schema.org sur les pages locales. Un presta
 }
 ```
 
-Deuxièmement, des signaux vitaux [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) négligés. La Google Search Console affiche ces données gratuitement, mais peu de PME québécoises les consultent régulièrement. Un LCP (Largest Contentful Paint) supérieur à 2,5 secondes pénalise directement le classement.
+Deuxièmement, des signaux vitaux Core Web Vitals négligés. La Google Search Console affiche ces données gratuitement, mais peu de PME québécoises les consultent régulièrement. Un LCP (Largest Contentful Paint) supérieur à 2,5 secondes pénalise directement le classement.
 
 Troisièmement, ignorer les spécificités du marché québécois : une stratégie de mots-clés construite uniquement à partir de données françaises de France manque les volumes réels des expressions québécoises. "Déneigement Montréal", "notaire Rive-Nord", "comptable Laval" ont leurs propres volumes et leur propre saisonnalité. 
 Les entreprises qui continuent d'optimiser pour l'environnement SEO de 2020 voient leur business s'éroder à mesure que l'IA remodèle le paysage du Search sous leurs pieds.
@@ -155,7 +155,7 @@ Dans ma pratique de consultant SEO à Montréal, j'intègre une approche hybride
 
 **Audit technique et outils premium.** Selon Antoine Blot, les outils SEO comme Semrush, ScreamingFrog et Yourtextguru sont inclus directement dans les prestations, sans surcoût. Un audit technique complet s'appuie sur la Google Search Console pour identifier les erreurs d'indexation, les chutes de CTR liées aux AI Overviews et les opportunités de Core Web Vitals. ScreamingFrog permet d'analyser l'architecture d'un site à l'échelle, tandis que Yourtextguru optimise la sémantique des contenus pour le marché francophone québécois.
 
-**SEO local et Google Business Profile.** La stratégie SEO locale pour Montréal comprend l'optimisation du Google Business Profile, la construction de citations dans les répertoires québécois pertinents (Pages Jaunes Canada, Yelp Canada, Notchup) et le suivi des positions locales via Google Search Console. Les avis clients, la cohérence NAP (Nom, Adresse, Téléphone) et les attributs de profil spécifiques au secteur d'activité font partie du travail hebdomadaire.
+**SEO local et Google Business Profile.** La [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) locale pour Montréal comprend l'optimisation du Google Business Profile, la construction de citations dans les répertoires québécois pertinents (Pages Jaunes Canada, Yelp Canada, Notchup) et le suivi des positions locales via Google Search Console. Les avis clients, la cohérence NAP (Nom, Adresse, Téléphone) et les attributs de profil spécifiques au secteur d'activité font partie du travail hebdomadaire.
 
 **Contenu bilingue et ciblé.** En travaillant avec des entreprises québécoises, j'observe que la plupart sous-exploitent leur potentiel bilingue. Produire du contenu en français québécois ET en anglais canadien sur des intentions commerciales locales double la couverture organique sans doubler les coûts de production si l'architecture editoriale est bien pensée.
 

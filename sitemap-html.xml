@@ -2,63 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blotmkt.com/</loc>
-    <lastmod>2026-05-13</lastmod>
+    <lastmod>2026-05-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://blotmkt.com/ia/a-propos.html</loc>
-    <lastmod>2026-05-13</lastmod>
+    <lastmod>2026-05-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/audit/analyse-de-logs-seo.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/audit/architecture-de-site.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/audit/audit-seo-technique.html</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/audit/compression-image-webp.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/audit/core-web-vitals.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/audit/erreurs-404-seo.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/audit/exploration-googlebot.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/audit/fichier-robots.txt.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://blotmkt.com/ia/audit/indexation-api-google.html</loc>
@@ -67,140 +19,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://blotmkt.com/ia/audit/lazy-loading-seo.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/audit/optimisation-javascript-seo.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/audit/pagination-seo.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/audit/sitemap-xml-audit.html</loc>
-    <lastmod>2026-05-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/contenu/alt-text-image.html</loc>
-    <lastmod>2026-05-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/contenu/call-to-action.html</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/contenu/content-gap-seo.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/contenu/densite-de-mots-cles.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/contenu/intention-de-recherche.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://blotmkt.com/ia/contenu/longue-traine-seo.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/contenu/meta-description.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/contenu/mise-a-jour-contenu-seo.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/contenu/mots-cles-de-marque.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/contenu/mots-cles-transactionnels.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/contenu/optimisation-de-contenu.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/contenu/redaction-ia-assistee.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/contenu/redaction-seo.html</loc>
-    <lastmod>2026-05-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/contenu/storytelling-seo.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/contenu/strategie-editoriale.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/contenu/structure-hn-seo.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/contenu/thin-content-seo.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/contenu/transcription-video-seo.html</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -266,12 +86,6 @@
   </url>
   <url>
     <loc>https://blotmkt.com/ia/definition/featured-snippet.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/definition/json-ld-seo.html</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -451,12 +265,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://blotmkt.com/ia/local-seo/fiche-etablissement-google.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://blotmkt.com/ia/local-seo/nap-seo-local.html</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -542,12 +350,6 @@
   </url>
   <url>
     <loc>https://blotmkt.com/ia/strategie/conseil-seo-quebec.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/strategie/consultant-geo-montreal.html</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

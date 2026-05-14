@@ -1,9 +1,48 @@
 {
-  "score_global": 0.481,
-  "atomic_proof_score": 0.25,
-  "mmr_score": 0.118,
-  "kl_divergence": 0.6163,
-  "verdict": "REVIEW_NEEDED",
+  "score_global": 0.4386,
+  "mu": 0.46,
+  "sigma_min": 0.4243,
+  "mmr_score": 0.1015,
+  "kl_divergence": 0.6199,
+  "kl_status": "OFF_TOPIC",
+  "transition_prob": 0.7986,
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.4901,
+      "status": "FAIL",
+      "best_chunk": "Méta description : guide ultime pour optimiser votre SEO Sommaire - Qu'est-ce qu'une méta description et pourquoi est-el",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.4748,
+      "status": "FAIL",
+      "best_chunk": "Méta description : guide ultime pour optimiser votre SEO Sommaire - Qu'est-ce qu'une méta description et pourquoi est-el",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.4243,
+      "status": "FAIL",
+      "best_chunk": "Méta description : guide ultime pour optimiser votre SEO Sommaire - Qu'est-ce qu'une méta description et pourquoi est-el",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.4454,
+      "status": "FAIL",
+      "best_chunk": "dans les SERP Google. - Elle n'est pas un facteur de positionnement direct, mais améliore le CTR, signal indirect pris e",
+      "chunk_index": 1
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.4653,
+      "status": "FAIL",
+      "best_chunk": "Méta description : guide ultime pour optimiser votre SEO Sommaire - Qu'est-ce qu'une méta description et pourquoi est-el",
+      "chunk_index": 0
+    }
+  },
   "weak_axes": [
     "sous_sujet",
     "prerequis",
@@ -11,81 +50,6 @@
     "validation",
     "entite"
   ],
-  "axes": {
-    "sous_sujet": {
-      "dimension": "detail technique specifique precis",
-      "score": 0.5017,
-      "status": "FAIL",
-      "best_chunk": "et le bénéfice utilisateur en moins de 160 caractères. - La méta description n'est pas un facteur de positionnement dire",
-      "chunk_index": 1
-    },
-    "prerequis": {
-      "dimension": "connaissances prealables necessaires",
-      "score": 0.4899,
-      "status": "FAIL",
-      "best_chunk": "appel à l'action, en moins de 155 caractères. - Page de contenu informatif : répondre directement à la question, inclure",
-      "chunk_index": 3
-    },
-    "cas_limite": {
-      "dimension": "exception cas particulier probleme limite",
-      "score": 0.4757,
-      "status": "FAIL",
-      "best_chunk": "et le bénéfice utilisateur en moins de 160 caractères. - La méta description n'est pas un facteur de positionnement dire",
-      "chunk_index": 1
-    },
-    "validation": {
-      "dimension": "preuve mesure verification resultat chiffre",
-      "score": 0.4852,
-      "status": "FAIL",
-      "best_chunk": "et le bénéfice utilisateur en moins de 160 caractères. - La méta description n'est pas un facteur de positionnement dire",
-      "chunk_index": 1
-    },
-    "entite": {
-      "dimension": "organisation outil reference officielle reconnue",
-      "score": 0.4926,
-      "status": "FAIL",
-      "best_chunk": "et le bénéfice utilisateur en moins de 160 caractères. - La méta description n'est pas un facteur de positionnement dire",
-      "chunk_index": 1
-    }
-  },
-  "qfo_source": "local",
-  "generated_at": "2026-05-05 05:15",
-  "quotability": {
-    "score": 0.4608,
-    "top10_mean": 0.5742,
-    "n_passages": 80,
-    "assertiveness": 0.996,
-    "information_density": 0.194,
-    "optimal_length": 0.911,
-    "self_containedness": 0.357,
-    "top_passages": [
-      {
-        "passage": "Comparez le CTR avant et après modification sur une fenêtre de 4 à 8 semaines dans Google Search Con",
-        "quotability": 0.6324,
-        "assertiveness": 1.0,
-        "information_density": 0.783,
-        "optimal_length": 1.0,
-        "self_containedness": 0.368,
-        "novelty": 0.381
-      },
-      {
-        "passage": "Méta description : guide ultime pour optimiser votre SEO\n\nSommaire\n- Qu'est-ce qu'une méta descripti",
-        "quotability": 0.6318,
-        "assertiveness": 1.0,
-        "information_density": 0.522,
-        "optimal_length": 1.0,
-        "self_containedness": 0.739,
-        "novelty": 0.148
-      },
-      {
-        "passage": "Selon Ahrefs, ce taux de réécriture atteint 63 % sur un corpus de 20 000 mots-clés.",
-        "quotability": 0.6147,
-        "assertiveness": 1.0,
-        "information_density": 0.75,
-        "optimal_length": 1.0,
-        "self_containedness": 0.461,
-        "novelty": 0.195
-      }
-    ]
-  }
+  "verdict": "REVIEW_NEEDED",
+  "chunks_count": 8
 }

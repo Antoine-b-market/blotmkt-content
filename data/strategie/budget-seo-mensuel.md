@@ -85,7 +85,7 @@ Un budget SEO mensuel se décompose en quatre postes distincts. Chaque poste ré
 Poste 1 - Contenu : recherche de mots-clés, rédaction, optimisation et mise à jour des contenus existants. 
 Le coût de production d'un article SEO varie de 150 à 800 € selon la qualité. Sur un projet avec 3 à 5 articles par mois, cela représente 500 à 2 500 €/mois - souvent le deuxième poste de dépense.
 
-Poste 2 - SEO technique : corrections de crawl, performance des [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html), gestion du balisage Schema.org. Googlebot analyse votre architecture à chaque recrawl - une erreur de canonicalisation ou de redirection peut effacer des semaines de gains.
+Poste 2 - SEO technique : corrections de crawl, performance des Core Web Vitals, gestion du balisage Schema.org. Googlebot analyse votre architecture à chaque recrawl - une erreur de canonicalisation ou de redirection peut effacer des semaines de gains.
 
 Poste 3 - Netlinking : acquisition de backlinks qualitatifs sur des domaines référents pertinents. 
 Le budget netlinking pour une PME se situe entre 500 et 2 500 €/mois. Sur un marché concurrentiel, ce poste peut représenter 30 à 50 % du coût SEO total.

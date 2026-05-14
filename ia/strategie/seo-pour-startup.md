@@ -57,7 +57,7 @@ Selon une étude de BrightEdge publiée en 2026, 68 % du trafic web mondial prov
  Pour une startup avec des ressources limitées, ce ratio change tout. 
 Le ROI d'un accompagnement SEO est 5 fois supérieur à celui des canaux payants sur le long terme, et 49 % des entreprises citent le SEO comme leur canal digital offrant le meilleur retour sur investissement.
 
-L'autorité organique construite tôt agit comme une barrière à l'entrée. Un concurrent qui démarre son SEO six mois après vous part avec un retard structurel difficile à combler. En travaillant avec des startups québécoises, je constate que celles qui lancent leur stratégie SEO dès le premier mois d'activité bénéficient d'un avantage concurrentiel durable que même un budget publicitaire agressif ne compense pas à court terme.
+L'autorité organique construite tôt agit comme une barrière à l'entrée. Un concurrent qui démarre son SEO six mois après vous part avec un retard structurel difficile à combler. En travaillant avec des startups québécoises, je constate que celles qui lancent leur Stratégie SEO dès le premier mois d'activité bénéficient d'un avantage concurrentiel durable que même un budget publicitaire agressif ne compense pas à court terme.
 
 ---
 
@@ -92,7 +92,7 @@ Cibler la longue traîne en priorité.
 Les internautes ne cherchent presque jamais un mot isolé, mais plutôt une situation concrète. Une requête comme "chaussures" reste vague, alors qu'une requête du type "chaussures de randonnée imperméables femme" traduit déjà un besoin précis.
  Ces requêtes spécifiques convertissent mieux et sont accessibles même pour un nouveau domaine.
 
-Optimiser pour le SEO local si applicable. Une fiche Google Business Profile complète et optimisée génère de la visibilité locale sans dépenses publicitaires.
+Optimiser pour le [SEO local](https://blotmkt.com/ia/definition/seo-local.html) si applicable. Une fiche Google Business Profile complète et optimisée génère de la visibilité locale sans dépenses publicitaires.
 
 Répondre aux questions des "People Also Ask". Identifier les questions fréquentes de votre secteur et structurer des réponses courtes et précises génère des featured snippets. 
 Lorsqu'un résultat apparaît sous forme d'extrait optimisé, il peut atteindre plus de 40 % de taux de clics.
@@ -110,7 +110,7 @@ Certaines erreurs compromettent des mois de travail en quelques semaines. Les no
 Négliger la vitesse mobile est l'erreur la plus fréquente en 2026. 
 Le trafic web mondial depuis mobile atteint environ 60 % en 2026, et 58 % des recherches Google sont effectuées sur smartphone.
  Un site lent sur mobile perd des positions mécaniquement. 
-Seulement 40 % des sites réussissent les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html), ce qui a un impact direct sur le classement et l'expérience utilisateur.
+Seulement 40 % des sites réussissent les Core Web Vitals, ce qui a un impact direct sur le classement et l'expérience utilisateur.
 
 Viser des mots-clés trop génériques dès le départ. Un nouveau domaine ne peut pas rivaliser contre des acteurs établis sur des termes larges. La niche longue traîne est le seul terrain de jeu réaliste pour une startup en phase de démarrage.
 

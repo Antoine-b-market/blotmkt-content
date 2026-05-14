@@ -86,7 +86,7 @@ La première erreur est le "zero-shot prompting" : demander à l'IA de "rédiger
 
 La deuxième erreur est l'absence de révision humaine. Les mises à jour algorithmiques de 2023 à 2025 - Core Updates, Helpful Content Update - ont visé les sites produisant du volume sans expertise réelle, sans profondeur, sans originalité. Certains ont perdu de 30 à 90 % de leur trafic organique. Google Search Console reste l'outil de diagnostic pour détecter ces chutes.
 
-Mon expérience montre une troisième erreur systématique : ignorer la densité sémantique au profit de la [Densité de mots-clés](https://blotmkt.com/ia/contenu/densite-de-mots-cles.html). Un prompt trop axé sur la répétition d'un terme principal produit un contenu sur-optimisé que les algorithmes pénalisent. L'E-E-A-T - Expérience, Expertise, Autorité, Fiabilité - ne se simule pas avec un prompt générique : il se construit avec des données terrain, des retours d'expérience réels et des sources vérifiables.
+Mon expérience montre une troisième erreur systématique : ignorer la densité sémantique au profit de la Densité de mots-clés. Un prompt trop axé sur la répétition d'un terme principal produit un contenu sur-optimisé que les algorithmes pénalisent. L'E-E-A-T - Expérience, Expertise, Autorité, Fiabilité - ne se simule pas avec un prompt générique : il se construit avec des données terrain, des retours d'expérience réels et des sources vérifiables.
 
 ---
 
@@ -149,8 +149,8 @@ Oui, la révision humaine est non négociable pour tout contenu destiné à rank
 
 ## Articles connexes
 
-- [aeo answer engine optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
 - [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
+- [Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité](https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo.html)

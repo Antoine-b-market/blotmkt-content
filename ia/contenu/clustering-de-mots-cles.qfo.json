@@ -1,9 +1,48 @@
 {
-  "score_global": 0.6596,
-  "atomic_proof_score": 0.171,
-  "mmr_score": 0.2548,
-  "kl_divergence": 0.3736,
-  "verdict": "REVIEW_NEEDED",
+  "score_global": 0.6618,
+  "mu": 0.6704,
+  "sigma_min": 0.656,
+  "mmr_score": 0.228,
+  "kl_divergence": 0.4128,
+  "kl_status": "OK",
+  "transition_prob": 0.8958,
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.6677,
+      "status": "FAIL",
+      "best_chunk": "Clustering de mots-clés : guide complet pour booster votre SEO Sommaire - Qu'est-ce que le clustering de mots-clés et po",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.6621,
+      "status": "FAIL",
+      "best_chunk": "Clustering de mots-clés : guide complet pour booster votre SEO Sommaire - Qu'est-ce que le clustering de mots-clés et po",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7028,
+      "status": "FAIL",
+      "best_chunk": "méthode.\"}, {\"question\": \"Quels sont les pièges à éviter lors du clustering de mots-clés ?\", \"answer\": \"Trois erreurs re",
+      "chunk_index": 8
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.656,
+      "status": "FAIL",
+      "best_chunk": "méthode.\"}, {\"question\": \"Quels sont les pièges à éviter lors du clustering de mots-clés ?\", \"answer\": \"Trois erreurs re",
+      "chunk_index": 8
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.6635,
+      "status": "FAIL",
+      "best_chunk": "Clustering de mots-clés : guide complet pour booster votre SEO Sommaire - Qu'est-ce que le clustering de mots-clés et po",
+      "chunk_index": 0
+    }
+  },
   "weak_axes": [
     "sous_sujet",
     "prerequis",
@@ -11,81 +50,6 @@
     "validation",
     "entite"
   ],
-  "axes": {
-    "sous_sujet": {
-      "dimension": "detail technique specifique precis",
-      "score": 0.6789,
-      "status": "FAIL",
-      "best_chunk": "Ranking Keyword Grouping Tool deviennent indispensables pour tenir la cadence sans erreurs de regroupement. Alternatives",
-      "chunk_index": 3
-    },
-    "prerequis": {
-      "dimension": "connaissances prealables necessaires",
-      "score": 0.6798,
-      "status": "FAIL",
-      "best_chunk": "en 3 mois, sans produire de contenu supplémentaire.\"}, {\"question\": \"Quels outils utiliser pour le clustering de mots-cl",
-      "chunk_index": 6
-    },
-    "cas_limite": {
-      "dimension": "exception cas particulier probleme limite",
-      "score": 0.6484,
-      "status": "FAIL",
-      "best_chunk": "en 3 mois, sans produire de contenu supplémentaire.\"}, {\"question\": \"Quels outils utiliser pour le clustering de mots-cl",
-      "chunk_index": 6
-    },
-    "validation": {
-      "dimension": "preuve mesure verification resultat chiffre",
-      "score": 0.6719,
-      "status": "FAIL",
-      "best_chunk": "en 3 mois, sans produire de contenu supplémentaire.\"}, {\"question\": \"Quels outils utiliser pour le clustering de mots-cl",
-      "chunk_index": 6
-    },
-    "entite": {
-      "dimension": "organisation outil reference officielle reconnue",
-      "score": 0.7027,
-      "status": "FAIL",
-      "best_chunk": "Ranking Keyword Grouping Tool deviennent indispensables pour tenir la cadence sans erreurs de regroupement. Alternatives",
-      "chunk_index": 3
-    }
-  },
-  "qfo_source": "local",
-  "generated_at": "2026-05-05 04:51",
-  "quotability": {
-    "score": 0.4558,
-    "top10_mean": 0.6194,
-    "n_passages": 88,
-    "assertiveness": 1.0,
-    "information_density": 0.17,
-    "optimal_length": 0.916,
-    "self_containedness": 0.388,
-    "top_passages": [
-      {
-        "passage": "Les outils les plus utilisés en 2026 sont Semrush Keyword Strategy Builder, SE Ranking Keyword Group",
-        "quotability": 0.7123,
-        "assertiveness": 1.0,
-        "information_density": 1.0,
-        "optimal_length": 1.0,
-        "self_containedness": 0.588,
-        "novelty": 0.179
-      },
-      {
-        "passage": "Identification exhaustive des mots-clés pertinents pour votre niche, via Semrush, Ahrefs ou Google S",
-        "quotability": 0.6811,
-        "assertiveness": 1.0,
-        "information_density": 1.0,
-        "optimal_length": 1.0,
-        "self_containedness": 0.455,
-        "novelty": 0.223
-      },
-      {
-        "passage": "Clustering de mots-clés : guide complet pour booster votre SEO\n\nSommaire\n- Qu'est-ce que le clusteri",
-        "quotability": 0.6445,
-        "assertiveness": 1.0,
-        "information_density": 0.462,
-        "optimal_length": 0.96,
-        "self_containedness": 0.835,
-        "novelty": 0.163
-      }
-    ]
-  }
+  "verdict": "REVIEW_NEEDED",
+  "chunks_count": 10
 }

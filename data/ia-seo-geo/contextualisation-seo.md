@@ -37,7 +37,7 @@ publisher: "BlotMKT - Antoine BLOT"
 - [Questions fréquentes](#questions-frequentes)
 
 Vos pages sont indexées, vos balises sont en ordre, vos contenus existent - et pourtant vos positions stagnent. Le problème n'est pas votre volume de publication. Vos pages répondent à des mots-clés, pas à des situations réelles. 
-Le web bascule d'un modèle de "recherche" vers un modèle de "réponses" : les moteurs ne sont plus de simples annuaires, mais des moteurs de réponse.
+Le web bascule d'un modèle de "recherche" vers un modèle de "réponses" : les moteurs ne sont plus de simples annuaires, mais des [Moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/moteurs-de-reponse.html).
  La contextualisation SEO est la méthode pour s'y adapter - aligner chaque page sur un contexte précis, une intention précise, une entité précise.
 
 <!-- speakable:start -->
@@ -56,7 +56,7 @@ La contextualisation SEO est une approche du référencement centrée sur le sen
 La différence est fondamentale. Une page optimisée sur "assurance auto" peut se positionner sans jamais satisfaire quelqu'un qui compare des garanties après un sinistre. Une requête comme "chaussures de randonnée imperméables femme" traduit un besoin bien plus précis que "chaussures" seul. Le contexte, c'est ce besoin exprimé dans sa globalité.
 
 Les entités jouent un rôle central : personnes, marques, concepts et leurs relations. Google utilise son [Knowledge Graph](https://blotmkt.com/ia/definition/knowledge-graph.html) pour comprendre ces liens. 
-Le champ sémantique des contenus, la cohérence topique d'un site et la profondeur de traitement des sujets deviennent des signaux de ranking prioritaires, bien au-delà de la simple [Densité de mots-clés](https://blotmkt.com/ia/contenu/densite-de-mots-cles.html).
+Le champ sémantique des contenus, la cohérence topique d'un site et la profondeur de traitement des sujets deviennent des signaux de ranking prioritaires, bien au-delà de la simple Densité de mots-clés.
 
 Dans ma pratique, je vois encore trop de sites construire des pages autour d'un mot-clé principal sans traiter les sous-entités qui le définissent. C'est là que se joue la différence entre une page indexée et une page citée.
 
@@ -169,7 +169,7 @@ Les premiers signaux - amélioration du positionnement et apparition dans les AI
 
 ### Quels outils utiliser pour une contextualisation SEO efficace ?
 
-Google Search Console reste la base pour analyser les requêtes réelles et les intentions associées. Semrush permet de cartographier les entités concurrentes et de mesurer la Share of Voice dans les AI Overviews. Pour l'audit sémantique, des outils comme YourText.Guru ou Surfer SEO aident à identifier les champs lexicaux manquants. Le balisage Schema.org, validé via le Rich Results Test de Google, complète le dispositif.
+Google Search Console reste la base pour analyser les requêtes réelles et les intentions associées. Semrush permet de cartographier les entités concurrentes et de mesurer la Share of Voice dans les AI Overviews. Pour l'Audit sémantique, des outils comme YourText.Guru ou Surfer SEO aident à identifier les champs lexicaux manquants. Le balisage Schema.org, validé via le Rich Results Test de Google, complète le dispositif.
 
 ### La contextualisation SEO est-elle adaptée à tous les secteurs ?
 
@@ -188,8 +188,8 @@ Près de 90 % des requêtes déclenchant des AI Overviews ont une intention info
 
 ## Articles connexes
 
-- [aeo answer engine optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
 - [Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité](https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo.html)
+- [geo : le guide complet pour dominer la recherche boostée par l'ia](https://blotmkt.com/ia/ia-seo-geo/geo-guide-complet.html)

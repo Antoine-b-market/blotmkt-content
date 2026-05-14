@@ -45,7 +45,7 @@ La recherche organique génère 43 % du trafic e-commerce
 > ## L'essentiel à retenir
 > - Optimiser une boutique en ligne pour la recherche organique capte 43 % du trafic e-commerce total sans payer chaque clic.
 > - Le SEO e-commerce offre un ROI de 317 % avec un retour sur investissement positif en 6 à 12 mois.
-> - Les données structurées Product augmentent de 20 à 40 % le taux de clic et conditionnent la visibilité dans les AI Overviews.
+> - Les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) Product augmentent de 20 à 40 % le taux de clic et conditionnent la visibilité dans les AI Overviews.
 > - Les mots-clés longue traîne convertissent 2,5 fois mieux que les mots-clés génériques sur les fiches produits.
 
 ---
@@ -75,7 +75,7 @@ L'optimisation on-page couvre les balises title (cible : 50-60 caractères), les
 92 % des sites les moins performants souffrent de contenu trop mince - la profondeur du contenu corrèle directement avec le classement.
 
 Le netlinking renforce l'autorité de domaine. 
-Le coût moyen d'un backlink de qualité atteint 361 dollars en 2026
+Le coût moyen d'un [Backlink de qualité](https://blotmkt.com/ia/definition/backlink-de-qualite.html) atteint 361 dollars en 2026
 , ce qui justifie de prioriser les liens éditoriaux obtenus via des contenus à forte valeur informative.
 
 Dans ma pratique, je construis toujours la stratégie de mots-clés en deux couches : les requêtes transactionnelles sur les pages produits et catégories, les requêtes informationnelles sur les guides d'achat - les deux se nourrissent mutuellement en maillage interne.
@@ -86,7 +86,7 @@ Dans ma pratique, je construis toujours la stratégie de mots-clés en deux couc
 
 Le SEO technique conditionne l'indexation de toutes les pages d'un site. Sans fondations solides, aucune stratégie de contenu ne délivre son potentiel.
 
-Les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) mesurent trois dimensions critiques : 
+Les Core Web Vitals mesurent trois dimensions critiques : 
 la vitesse (LCP), la stabilité visuelle (CLS) et la réactivité (INP). Seulement 40 % des sites satisfont ces critères.
  Les seuils à respecter : LCP sous 2,5 secondes, INP sous 200 ms, CLS sous 0,1. 
 Deux secondes de chargement supplémentaires augmentent le taux de rebond de 103 % et réduisent les conversions de 7 %.
@@ -147,7 +147,7 @@ La méthode hybride délivre les meilleurs résultats : recherche d'intention (h
 85 % des tâches marketing peuvent être automatisées par l'IA en 2026
 , mais l'enrichissement humain reste le différenciateur face aux contenus génériques.
 
-En tant que stratège marketing, je déconseille le prompt SEO en mode "pur" pour les secteurs juridique, médical ou financier. Dans ces domaines, seuls les retours d'expérience exclusifs et les données propriétaires résistent aux mises à jour algorithmiques qui sanctionnent les contenus sans valeur ajoutée unique.
+En tant que stratège marketing, je déconseille le Prompt SEO en mode "pur" pour les secteurs juridique, médical ou financier. Dans ces domaines, seuls les retours d'expérience exclusifs et les données propriétaires résistent aux mises à jour algorithmiques qui sanctionnent les contenus sans valeur ajoutée unique.
 
 ---
 
@@ -165,7 +165,7 @@ Publier des descriptions produits identiques ou copiées du fournisseur génère
 
 Un prompt SEO mal calibré - sans [Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) précise, sans persona défini, sans contrainte de longueur - produit un contenu générique qui ne se positionne pas. Le taux de conversion des pages IA-assistées vs pages rédigées avec un brief rigoureux peut varier du simple au triple sur les mêmes mots-clés.
 
-J'observe que la majorité des échecs SEO e-commerce ne viennent pas d'un manque de contenu, mais d'une [Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site.html) qui empêche Google de comprendre la hiérarchie des pages et leur pertinence respective.
+J'observe que la majorité des échecs SEO e-commerce ne viennent pas d'un manque de contenu, mais d'une Architecture de site qui empêche Google de comprendre la hiérarchie des pages et leur pertinence respective.
 
 ---
 

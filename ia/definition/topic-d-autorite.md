@@ -51,7 +51,7 @@ Vous publiez régulièrement, vous optimisez vos balises, vous construisez des l
 
 Un topique d'autorité - aussi appelé autorité thématique - désigne la reconnaissance par Google qu'un site couvre un domaine de façon suffisamment exhaustive et fiable pour être érigé en référence. Ce n'est pas un mot-clé, ni une page isolée. C'est un signal structurel construit sur la profondeur de traitement d'un domaine entier.
 
-Le champ sémantique des contenus, la cohérence topique du site et la profondeur de traitement des sujets deviennent des signaux de ranking prioritaires, bien au-delà de la simple [Densité de mots-clés](https://blotmkt.com/ia/contenu/densite-de-mots-cles.html).
+Le champ sémantique des contenus, la cohérence topique du site et la profondeur de traitement des sujets deviennent des signaux de ranking prioritaires, bien au-delà de la simple Densité de mots-clés.
  Cette évolution change radicalement la façon d'aborder le référencement.
 
 Le mécanisme de query fan-out change la donne : une requête unique se décompose en 8 à 12 sous-requêtes parallèles, et les sites couvrant l'ensemble d'un sujet sont bien plus susceptibles d'être cités.

@@ -1,8 +1,8 @@
 # BlotMKT — Ressources SEO & Marketing IA
 # Auteur : Antoine Blot (https://antoine-blot.com)
 # ORCID : https://orcid.org/0009-0005-6450-4528
-# Mis a jour : 2026-05-13
-# Total pages : 110
+# Mis a jour : 2026-05-14
+# Total pages : 81
 
 ## A propos
 BlotMKT est une ressource experte sur le SEO, le Marketing Digital et l'optimisation GEO.
@@ -14,101 +14,26 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 - [A propos — Antoine Blot, Consultant SEO et GEO](https://blotmkt.com/ia/a-propos.html)
   Presentation d'Antoine Blot, consultant expert en SEO et GEO base au Quebec.
 
-- [analyse de logs seo : décuplez la rentabilité de votre crawl](https://blotmkt.com/ia/audit/analyse-de-logs-seo.html)
-  Découvrez comment l'analyse de logs SEO révèle les secrets de Googlebot sur votre site. Optimisez votre crawl, améliorez votre visibilité et boostez votre rentabilité.
-
-- [Architecture de site web: guide complet pour un seo performant en 2026](https://blotmkt.com/ia/audit/architecture-de-site.html)
-  Maîtrisez l'architecture de votre site web pour un SEO optimal. Structure, navigation, crawl, et plus encore. Le guide complet pour 2026.
-
-- [Audit seo technique : le guide complet pour booster votre visibilité](https://blotmkt.com/ia/audit/audit-seo-technique.html)
-  Maîtrisez l'audit SEO technique : étapes, outils, et checklist pour identifier les blocages et optimiser votre site web. Guide complet 2026.
-
-- [compression image webp : le guide complet pour accélérer votre site et booster votre seo](https://blotmkt.com/ia/audit/compression-image-webp.html)
-  Découvrez WebP, le format d'image moderne qui réduit le poids de vos pages web. Boostez votre LCP, votre SEO et vos performances grâce à nos conseils d'experts.
-
-- [core web vitals : maîtriser l'expérience utilisateur et votre seo](https://blotmkt.com/ia/audit/core-web-vitals.html)
-  Maîtrisez les Core Web Vitals (LCP, INP, CLS) et boostez votre SEO. Découvrez comment mesurer, optimiser et suivre vos performances web.
-
-- [Erreurs 404 et SEO : le guide complet pour un site impeccable](https://blotmkt.com/ia/audit/erreurs-404-seo.html)
-  Tout savoir sur les erreurs 404 en SEO : détection, correction, optimisation. Améliorez l'UX et le référencement de votre site avec ce guide complet.
-
-- [Exploration Googlebot : maîtrisez les mécanismes pour une visibilité optimale en 2026](https://blotmkt.com/ia/audit/exploration-googlebot.html)
-  Découvrez les mécanismes de l'exploration Googlebot, identifiez les erreurs techniques et appliquez les actions concrètes pour booster votre indexation et votre visibilité SEO en 2026.
-
-- [Le fichier robots.txt : maîtrisez rôle, syntaxe et optimisation SEO](https://blotmkt.com/ia/audit/fichier-robots.txt.html)
-  Maîtrisez le fichier robots.txt pour un SEO technique optimal. Découvrez son rôle, sa syntaxe, les erreurs à éviter et les bonnes pratiques de monitoring pour un crawl efficace.
-
 - [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/ia/audit/indexation-api-google.html)
   Maîtrisez l'Indexation API Google pour accélérer l'exploration et l'indexation de vos contenus. Découvrez les bonnes pratiques et les outils pour un SEO optimal.
 
-- [lazy loading seo : optimisez vitesse et crawl budget de votre site](https://blotmkt.com/ia/audit/lazy-loading-seo.html)
-  Lazy loading SEO: optimisez vitesse, crawl budget et Core Web Vitals. Guide expert pour une implémentation réussie, les bonnes pratiques et pièges à éviter pour votre classement.
+- [Alt text image : le guide complet pour l'accessibilité, le SEO et la visibilité IA](https://blotmkt.com/ia/contenu/alt-text-image.html)
+  Maîtrisez l'alt text pour transformer vos images en atouts SEO, accessibilité et visibilité IA. Découvrez comment optimiser vos descriptions pour Google et les utilisateurs.
 
-- [Optimisation JavaScript SEO : Guide Complet pour 2024](https://blotmkt.com/ia/audit/optimisation-javascript-seo.html)
-  Maîtrisez l'optimisation JavaScript SEO pour booster l'indexation et la performance de votre site. Techniques, outils, et bonnes pratiques expliquées.
+- [Call to action : le guide ultime pour booster vos conversions](https://blotmkt.com/ia/contenu/call-to-action.html)
+  Maîtrisez le call to action (CTA) et transformez vos visiteurs en clients. Exemples concrets, conseils d'experts et stratégies éprouvées pour convertir.
 
-- [Pagination SEO : Le guide complet pour 2026](https://blotmkt.com/ia/audit/pagination-seo.html)
-  Maîtrisez la pagination SEO pour booster votre crawl et éviter le contenu dupliqué. Découvrez les meilleures pratiques, les erreurs à éviter et un audit complet.
+- [Clustering de mots-clés : guide complet pour booster votre seo](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)
+  Maîtrisez le clustering de mots-clés pour un seo optimisé. Organisez vos mots-clés et ciblez efficacement votre audience. Guide complet.
 
-- [audit de votre sitemap xml : la clé d'un seo impeccable et d'une meilleure indexation](https://blotmkt.com/ia/audit/sitemap-xml-audit.html)
-  Maîtrisez l'audit de votre sitemap XML pour un référencement technique et international optimal. Détectez les erreurs, améliorez l'indexation et la découvrabilité de vos pages.
+- [Maîtriser l'intention de recherche pour un seo éthique et performant](https://blotmkt.com/ia/contenu/intention-de-recherche.html)
+  Décryptez l'intention de recherche pour créer du contenu pertinent, améliorer votre SEO et satisfaire vos utilisateurs. Guide essentiel.
 
-- [Alt text image : le guide complet pour l'accessibilité, le seo et la visibilité ia](https://blotmkt.com/ia/contenu/alt-text-image.html)
-  Maîtrisez l'alt text pour transformer vos images en atouts SEO et accessibilité. Guide complet pour optimiser la visibilité IA et l'expérience utilisateur.
+- [Longue traîne SEO : la stratégie rentable pour 2026 et au-delà](https://blotmkt.com/ia/contenu/longue-traine-seo.html)
+  Maximisez votre ROI avec la longue traîne SEO. Découvrez la stratégie hybride IA/humain, les données structurées et l'approche GEO pour une visibilité durable en 2026.
 
-- [Call to action : le guide ultime pour convertir vos prospects](https://blotmkt.com/ia/contenu/call-to-action.html)
-  Maîtrisez le Call to Action (CTA) et transformez vos visiteurs en clients. Exemples concrets, conseils d'experts et stratégies éprouvées.
-
-- [Clustering de mots-clés : guide complet pour booster votre SEO](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)
-  Maîtrisez le clustering de mots-clés pour un SEO optimisé. Organisez vos mots-clés, évitez la cannibalisation et ciblez efficacement votre audience avec ce guide expert.
-
-- [Content gap seo : comment identifier et combler les manques de contenu](https://blotmkt.com/ia/contenu/content-gap-seo.html)
-  Découvrez le content gap SEO : définition, méthode, outils et comment combler les lacunes de contenu pour améliorer votre positionnement et attirer plus de trafic.
-
-- [Densité de mots-clés : guide ultime pour un SEO performant en 2026](https://blotmkt.com/ia/contenu/densite-de-mots-cles.html)
-  Maîtrisez la densité de mots-clés pour un SEO optimal en 2026. Découvrez les meilleures pratiques, les erreurs à éviter et les outils pour réussir.
-
-- [Intention de recherche: guide complet pour un seo performant](https://blotmkt.com/ia/contenu/intention-de-recherche.html)
-  Découvrez l'intention de recherche, son impact SEO, les types d'intentions et comment les identifier pour un contenu aligné et efficace.
-
-- [Longue traîne seo : guide complet pour capter le trafic ciblé](https://blotmkt.com/ia/contenu/longue-traine-seo.html)
-  Maîtrisez la longue traîne SEO pour attirer un trafic qualifié et augmenter vos conversions. Stratégies, outils et exemples concrets pour 2026.
-
-- [Méta description: guide ultime pour optimiser votre seo](https://blotmkt.com/ia/contenu/meta-description.html)
+- [Méta description : guide ultime pour optimiser votre seo](https://blotmkt.com/ia/contenu/meta-description.html)
   Maîtrisez la méta description ! Définition, optimisation, exemples et impact SEO. Attirez plus de clics et boostez votre positionnement. Guide complet.
-
-- [Mise à jour contenu SEO : le guide ultime pour 2026](https://blotmkt.com/ia/contenu/mise-a-jour-contenu-seo.html)
-  Maîtrisez la mise à jour de contenu SEO : stratégies, outils, et métriques pour une performance durable et une visibilité accrue en 2026.
-
-- [Mots-clés de marque: guide complet pour un SEO performant](https://blotmkt.com/ia/contenu/mots-cles-de-marque.html)
-  Maîtrisez les mots-clés de marque pour un SEO performant. Découvrez comment les identifier, les utiliser et optimiser votre présence en ligne.
-
-- [mots-clés transactionnels : le guide complet pour des conversions maximales](https://blotmkt.com/ia/contenu/mots-cles-transactionnels.html)
-  Découvrez comment identifier et utiliser les mots-clés transactionnels pour booster vos conversions et maximiser votre ROI. Guide pratique + exemples.
-
-- [Optimisation de contenu: Guide complet pour un SEO performant en 2026](https://blotmkt.com/ia/contenu/optimisation-de-contenu.html)
-  Maîtrisez l'optimisation de contenu SEO en 2026. Techniques, outils et stratégies pour doper votre visibilité et engager votre audience. Guide complet.
-
-- [Rédaction IA assistée : boostez votre contenu et votre SEO](https://blotmkt.com/ia/contenu/redaction-ia-assistee.html)
-  Découvrez comment la rédaction IA assistée transforme votre contenu, améliore votre SEO et optimise votre productivité. Guide complet.
-
-- [Rédaction SEO : Techniques et Stratégies pour 2026](https://blotmkt.com/ia/contenu/redaction-seo.html)
-  Maîtrisez la rédaction SEO en 2026 : techniques, outils, et stratégies pour un contenu performant. Optimisez votre site pour l'IA et le zero-click.
-
-- [Storytelling seo : comment captiver et convertir grâce au récit](https://blotmkt.com/ia/contenu/storytelling-seo.html)
-  Découvrez comment le storytelling SEO peut transformer vos contenus en récits captivants qui attirent, engagent et convertissent. Guide complet et exemples.
-
-- [Stratégie éditoriale : guide complet pour un contenu performant](https://blotmkt.com/ia/contenu/strategie-editoriale.html)
-  Maîtrisez la stratégie éditoriale : définition, étapes clés, exemples concrets et outils pour un contenu qui attire, engage et convertit.
-
-- [Structure hn seo: guide complet pour optimiser votre contenu](https://blotmkt.com/ia/contenu/structure-hn-seo.html)
-  Découvrez comment la structure HN SEO (H1, H2, H3) booste votre référencement. Guide pratique, exemples concrets et conseils d'experts.
-
-- [Thin content SEO : le guide ultime pour l'éradiquer](https://blotmkt.com/ia/contenu/thin-content-seo.html)
-  Découvrez comment identifier et éliminer le thin content de votre site web pour améliorer votre SEO. Stratégies, outils et bonnes pratiques expliquées.
-
-- [transcription vidéo seo : le guide complet pour booster votre visibilité](https://blotmkt.com/ia/contenu/transcription-video-seo.html)
-  Découvrez comment la transcription vidéo SEO transforme vos contenus audio en trafic organique. Guide complet sur les méthodes, coûts, ROI et optimisations clés.
 
 - [Algorithme Google : comprendre son fonctionnement et éviter les pièges SEO](https://blotmkt.com/ia/definition/algorithme-google.html)
   Décryptez l'algorithme Google et ses mises à jour. Évitez la sur-optimisation et adoptez une stratégie SEO durable pour un meilleur positionnement.
@@ -142,9 +67,6 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [Featured snippet : guide ultime pour dominer la position zéro](https://blotmkt.com/ia/definition/featured-snippet.html)
   Découvrez comment optimiser votre contenu pour les featured snippets et booster votre visibilité sur Google. Stratégies et techniques éprouvées.
-
-- [JSON-LD SEO : Guide Complet pour Optimiser Vos Données Structurées](https://blotmkt.com/ia/definition/json-ld-seo.html)
-  Maîtrisez JSON-LD SEO pour améliorer votre visibilité. Guide complet sur la mise en œuvre, les avantages et les meilleures pratiques en 2026.
 
 - [Knowledge Graph : Guide Complet pour le SEO Sémantique](https://blotmkt.com/ia/definition/knowledge-graph.html)
   Découvrez le Knowledge Graph, son impact sur le SEO, comment l'utiliser avec des API, l'IA et GraphQL pour améliorer votre visibilité.
@@ -184,9 +106,6 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [ymyl seo : guide complet pour protéger votre réputation en ligne](https://blotmkt.com/ia/definition/ymyl-seo.html)
   Découvrez les stratégies ymyl seo cruciales pour sécuriser votre site web, renforcer la confiance des utilisateurs et améliorer votre positionnement sur google.
-
-- [aeo answer engine optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
-  Découvrez l'AEO, l'optimisation pour les moteurs de réponse (IA). Guide complet sur les stratégies, outils et meilleures pratiques pour booster votre visibilité IA.
 
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
   Découvrez le fonctionnement des algorithmes de recommandation, leurs types, comment les optimiser et des exemples d'utilisation concrets. Guide complet.
@@ -239,9 +158,6 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 - [Citations locales seo: guide complet pour booster votre visibilité locale](https://blotmkt.com/ia/local-seo/citations-locales-seo.html)
   Maîtrisez les citations locales SEO pour améliorer votre référencement local. Guide, astuces et outils pour une visibilité maximale en 2026.
 
-- [Fiche établissement Google : Optimisation, Gestion et Récupération](https://blotmkt.com/ia/local-seo/fiche-etablissement-google.html)
-  Maîtrisez votre fiche Google Business Profile pour booster votre visibilité locale. Conseils d'expert, outils, et stratégies de récupération en cas de pénalité.
-
 - [nap seo local : guide complet pour booster votre visibilité](https://blotmkt.com/ia/local-seo/nap-seo-local.html)
   Optimisez votre NAP (Nom, Adresse, Téléphone) pour un SEO local performant. Notre guide complet booste votre visibilité et attire plus de clients.
 
@@ -286,9 +202,6 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [Conseil seo québec: boostez votre visibilité en 2026](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)
   Besoin de conseil seo au québec? Obtenez des stratégies personnalisées pour améliorer votre référencement et attirer plus de clients. Expertise locale garantie!
-
-- [Consultant GEO Montréal : Boostez votre visibilité locale et IA](https://blotmkt.com/ia/strategie/consultant-geo-montreal.html)
-  Besoin d'un consultant GEO à Montréal ? Dominez les résultats Google et les moteurs de réponse IA. Stratégie sur mesure pour PME et grands comptes.
 
 - [Consultant SEO montréal : votre expert en référencement naturel et GEO pour dominer google et l'IA](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)
   Boostez votre visibilité à Montréal avec un consultant SEO et GEO expert. Stratégies hybrides pour le référencement naturel et les moteurs de réponse IA.
@@ -346,69 +259,19 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 
 ## Pages Markdown (texte brut, LLMs)
 
-- [analyse de logs seo : décuplez la rentabilité de votre crawl](https://blotmkt.com/data/audit/analyse-de-logs-seo.md)
-
-- [Architecture de site web: guide complet pour un seo performant en 2026](https://blotmkt.com/data/audit/architecture-de-site.md)
-
-- [Audit seo technique : le guide complet pour booster votre visibilité](https://blotmkt.com/data/audit/audit-seo-technique.md)
-
-- [compression image webp : le guide complet pour accélérer votre site et booster votre seo](https://blotmkt.com/data/audit/compression-image-webp.md)
-
-- [core web vitals : maîtriser l'expérience utilisateur et votre seo](https://blotmkt.com/data/audit/core-web-vitals.md)
-
-- [Erreurs 404 et SEO : le guide complet pour un site impeccable](https://blotmkt.com/data/audit/erreurs-404-seo.md)
-
-- [Exploration Googlebot : maîtrisez les mécanismes pour une visibilité optimale en 2026](https://blotmkt.com/data/audit/exploration-googlebot.md)
-
-- [Le fichier robots.txt : maîtrisez rôle, syntaxe et optimisation SEO](https://blotmkt.com/data/audit/fichier-robots.txt.md)
-
 - [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/data/audit/indexation-api-google.md)
 
-- [lazy loading seo : optimisez vitesse et crawl budget de votre site](https://blotmkt.com/data/audit/lazy-loading-seo.md)
+- [Alt text image : le guide complet pour l'accessibilité, le SEO et la visibilité IA](https://blotmkt.com/data/contenu/alt-text-image.md)
 
-- [Optimisation JavaScript SEO : Guide Complet pour 2024](https://blotmkt.com/data/audit/optimisation-javascript-seo.md)
+- [Call to action : le guide ultime pour booster vos conversions](https://blotmkt.com/data/contenu/call-to-action.md)
 
-- [Pagination SEO : Le guide complet pour 2026](https://blotmkt.com/data/audit/pagination-seo.md)
+- [Clustering de mots-clés : guide complet pour booster votre seo](https://blotmkt.com/data/contenu/clustering-de-mots-cles.md)
 
-- [audit de votre sitemap xml : la clé d'un seo impeccable et d'une meilleure indexation](https://blotmkt.com/data/audit/sitemap-xml-audit.md)
+- [Maîtriser l'intention de recherche pour un seo éthique et performant](https://blotmkt.com/data/contenu/intention-de-recherche.md)
 
-- [Alt text image : le guide complet pour l'accessibilité, le seo et la visibilité ia](https://blotmkt.com/data/contenu/alt-text-image.md)
+- [Longue traîne SEO : la stratégie rentable pour 2026 et au-delà](https://blotmkt.com/data/contenu/longue-traine-seo.md)
 
-- [Call to action : le guide ultime pour convertir vos prospects](https://blotmkt.com/data/contenu/call-to-action.md)
-
-- [Clustering de mots-clés : guide complet pour booster votre SEO](https://blotmkt.com/data/contenu/clustering-de-mots-cles.md)
-
-- [Content gap seo : comment identifier et combler les manques de contenu](https://blotmkt.com/data/contenu/content-gap-seo.md)
-
-- [Densité de mots-clés : guide ultime pour un SEO performant en 2026](https://blotmkt.com/data/contenu/densite-de-mots-cles.md)
-
-- [Intention de recherche: guide complet pour un seo performant](https://blotmkt.com/data/contenu/intention-de-recherche.md)
-
-- [Longue traîne seo : guide complet pour capter le trafic ciblé](https://blotmkt.com/data/contenu/longue-traine-seo.md)
-
-- [Méta description: guide ultime pour optimiser votre seo](https://blotmkt.com/data/contenu/meta-description.md)
-
-- [Mise à jour contenu SEO : le guide ultime pour 2026](https://blotmkt.com/data/contenu/mise-a-jour-contenu-seo.md)
-
-- [Mots-clés de marque: guide complet pour un SEO performant](https://blotmkt.com/data/contenu/mots-cles-de-marque.md)
-
-- [mots-clés transactionnels : le guide complet pour des conversions maximales](https://blotmkt.com/data/contenu/mots-cles-transactionnels.md)
-
-- [Optimisation de contenu: Guide complet pour un SEO performant en 2026](https://blotmkt.com/data/contenu/optimisation-de-contenu.md)
-
-- [Rédaction IA assistée : boostez votre contenu et votre SEO](https://blotmkt.com/data/contenu/redaction-ia-assistee.md)
-
-- [Rédaction SEO : Techniques et Stratégies pour 2026](https://blotmkt.com/data/contenu/redaction-seo.md)
-
-- [Storytelling seo : comment captiver et convertir grâce au récit](https://blotmkt.com/data/contenu/storytelling-seo.md)
-
-- [Stratégie éditoriale : guide complet pour un contenu performant](https://blotmkt.com/data/contenu/strategie-editoriale.md)
-
-- [Structure hn seo: guide complet pour optimiser votre contenu](https://blotmkt.com/data/contenu/structure-hn-seo.md)
-
-- [Thin content SEO : le guide ultime pour l'éradiquer](https://blotmkt.com/data/contenu/thin-content-seo.md)
-
-- [transcription vidéo seo : le guide complet pour booster votre visibilité](https://blotmkt.com/data/contenu/transcription-video-seo.md)
+- [Méta description : guide ultime pour optimiser votre seo](https://blotmkt.com/data/contenu/meta-description.md)
 
 - [Algorithme Google : comprendre son fonctionnement et éviter les pièges SEO](https://blotmkt.com/data/definition/algorithme-google.md)
 
@@ -431,8 +294,6 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 - [e-e-a-t google : le guide ultime pour booster votre seo](https://blotmkt.com/data/definition/e-e-a-t-google.md)
 
 - [Featured snippet : guide ultime pour dominer la position zéro](https://blotmkt.com/data/definition/featured-snippet.md)
-
-- [JSON-LD SEO : Guide Complet pour Optimiser Vos Données Structurées](https://blotmkt.com/data/definition/json-ld-seo.md)
 
 - [Knowledge Graph : Guide Complet pour le SEO Sémantique](https://blotmkt.com/data/definition/knowledge-graph.md)
 
@@ -459,8 +320,6 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 - [trust flow seo: comprendre et booster l'autorité de votre site](https://blotmkt.com/data/definition/trust-flow-seo.md)
 
 - [ymyl seo : guide complet pour protéger votre réputation en ligne](https://blotmkt.com/data/definition/ymyl-seo.md)
-
-- [aeo answer engine optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/data/ia-seo-geo/aeo-answer-engine-optimization.md)
 
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/data/ia-seo-geo/algorithme-de-recommandation.md)
 
@@ -496,8 +355,6 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [Citations locales seo: guide complet pour booster votre visibilité locale](https://blotmkt.com/data/local-seo/citations-locales-seo.md)
 
-- [Fiche établissement Google : Optimisation, Gestion et Récupération](https://blotmkt.com/data/local-seo/fiche-etablissement-google.md)
-
 - [nap seo local : guide complet pour booster votre visibilité](https://blotmkt.com/data/local-seo/nap-seo-local.md)
 
 - [Optimisation google maps : guide complet pour 2026](https://blotmkt.com/data/local-seo/optimisation-google-maps.md)
@@ -527,8 +384,6 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 - [Comment devenir expert SEO : maîtrisez les fondations et anticipez l'ère générative](https://blotmkt.com/data/strategie/comment-devenir-expert-seo.md)
 
 - [Conseil seo québec: boostez votre visibilité en 2026](https://blotmkt.com/data/strategie/conseil-seo-quebec.md)
-
-- [Consultant GEO Montréal : Boostez votre visibilité locale et IA](https://blotmkt.com/data/strategie/consultant-geo-montreal.md)
 
 - [Consultant SEO montréal : votre expert en référencement naturel et GEO pour dominer google et l'IA](https://blotmkt.com/data/strategie/consultant-seo-montreal.md)
 

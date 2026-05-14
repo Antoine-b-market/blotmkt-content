@@ -89,13 +89,13 @@ Quatre variables déterminent votre CAC SEO, indépendamment du budget investi.
 La qualité du contenu et son alignement sur l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) est le premier facteur. Un contenu qui répond précisément à l'intention transactionnelle convertit - un contenu qui vise uniquement le volume de mots-clés génère du trafic stérile. 
 L'étude First Page Sage place le SEO en tête du ROI, mais avec une condition essentielle : publication de contenu thought leadership deux fois par semaine.
 
-L'autorité du domaine amplifie ou freine l'ensemble de la stratégie. Un Profil de liens solide réduit le temps nécessaire pour atteindre la première page - et donc le CAC global.
+L'autorité du domaine amplifie ou freine l'ensemble de la stratégie. Un [Profil de liens](https://blotmkt.com/ia/definition/profil-de-liens.html) solide réduit le temps nécessaire pour atteindre la première page - et donc le CAC global.
 
 La performance technique conditionne l'indexation. 
 Amazon a mesuré que 100 ms de latence équivalent à 1 % de ventes en moins
  - signal direct que la vitesse impacte le chiffre d'affaires, pas seulement l'expérience utilisateur.
 
-La concurrence sur les mots-clés ciblés joue directement sur les délais de résultats. J'observe que les secteurs où les [Mots-clés transactionnels](https://blotmkt.com/ia/contenu/mots-cles-transactionnels.html) sont saturés nécessitent un investissement SEO 30 à 50 % plus élevé pour un CAC équivalent.
+La concurrence sur les mots-clés ciblés joue directement sur les délais de résultats. J'observe que les secteurs où les Mots-clés transactionnels sont saturés nécessitent un investissement SEO 30 à 50 % plus élevé pour un CAC équivalent.
 
 ---
 
@@ -121,7 +121,7 @@ L'amélioration de l'UX ferme la boucle. Mon expérience montre que les projets 
 
 Chaque mise à jour algorithmique majeure de Google peut faire fluctuer le trafic organique de 20 % à 40 % du jour au lendemain - et mécaniquement dégrader ou améliorer votre CAC SEO du même ratio.
 
-Les mises à jour Core de 2024-2026 ont sanctionné deux profils systématiquement : les sites à contenu généré en masse sans expertise réelle, et les domaines avec des problèmes techniques non résolus ([Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) dégradés, pages orphelines, cannibalisation de mots-clés). Ces deux profils voient leur CAC SEO exploser car le trafic chute sans que les coûts fixes diminuent.
+Les mises à jour Core de 2024-2026 ont sanctionné deux profils systématiquement : les sites à contenu généré en masse sans expertise réelle, et les domaines avec des problèmes techniques non résolus (Core Web Vitals dégradés, pages orphelines, cannibalisation de mots-clés). Ces deux profils voient leur CAC SEO exploser car le trafic chute sans que les coûts fixes diminuent.
 
 L'adaptation stratégique repose sur trois réflexes : suivi hebdomadaire des positions via Google Search Console, audit technique trimestriel, et révision des contenus sous-performants avant chaque déploiement anticipé de mise à jour.
 
@@ -215,7 +215,7 @@ La répartition classique pour une PME en croissance alloue 30 % du budget digit
 ### Comment mesurer le ROI du SEO ?
 
 Le ROI SEO se calcule ainsi : (CA attribué au trafic organique − investissement SEO total) ÷ investissement SEO total × 100. L'attribution du CA organique se configure dans GA4 via les segments de source de trafic. 
-Incremys (2026) estime le ROI moyen d'un projet SEO local pour une PME à ×3 sur 12 mois.
+Incremys (2026) estime le ROI moyen d'un projet [SEO local](https://blotmkt.com/ia/definition/seo-local.html) pour une PME à ×3 sur 12 mois.
  Pour les B2B avec des cycles de vente longs, intégrez la valeur à vie du client (LTV) dans le calcul pour obtenir un ROI SEO représentatif de la rentabilité réelle.
 
 ---

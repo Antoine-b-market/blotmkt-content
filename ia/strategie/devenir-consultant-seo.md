@@ -59,7 +59,7 @@ Dans ma pratique, je constate que beaucoup confondent encore le SEO avec le simp
 
 Tout commence par un audit complet du site. Le consultant passe en revue la structure technique et la couverture sémantique pour repérer ce qui bloque la progression dans les résultats.
 
-En 2026, le métier intègre une dimension supplémentaire que j'appelle le GEO — Generative Engine Optimization. Il ne s'agit plus seulement d'apparaître dans Google, mais d'être cité par des moteurs de réponse comme ChatGPT, Perplexity ou Gemini. Ces plateformes concentrent une part croissante des requêtes informationnelles. Un consultant qui ignore cette réalité travaille avec un angle mort sérieux dans sa stratégie.
+En 2026, le métier intègre une dimension supplémentaire que j'appelle le GEO — Generative Engine Optimization. Il ne s'agit plus seulement d'apparaître dans Google, mais d'être cité par des [Moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/moteurs-de-reponse.html) comme ChatGPT, Perplexity ou Gemini. Ces plateformes concentrent une part croissante des requêtes informationnelles. Un consultant qui ignore cette réalité travaille avec un angle mort sérieux dans sa stratégie.
 
 ## Les compétences essentielles pour exceller {#competences}
 
@@ -71,9 +71,9 @@ J'observe que les consultants qui progressent le plus vite sont ceux qui maîtri
 
 Voici les compétences concrètes attendues en 2026 :
 
-- SEO technique : architecture, [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html), crawl budget, logs serveur
+- SEO technique : architecture, Core Web Vitals, crawl budget, logs serveur
 - Analyse de données : Google Analytics 4, Search Console, Screaming Frog
-- Stratégie de contenu : maillage interne, intent mapping, [Rédaction SEO](https://blotmkt.com/ia/contenu/redaction-seo.html)
+- Stratégie de contenu : maillage interne, intent mapping, Rédaction SEO
 - Netlinking : prospection, évaluation de la qualité des liens, outreach
 - Communication client : reporting clair, gestion des attentes, pilotage de projet
 - GEO : structuration des données pour être cité par les IA génératives
@@ -97,7 +97,7 @@ Google Digital Garage propose une formation gratuite intitulée "Les fondamentau
 
 
 Pour valider ses acquis : 
-Semrush, via sa Semrush Academy, propose plusieurs parcours de formation gratuits, dont l'objectif est d'apprendre à exploiter tout le potentiel de la plateforme, de l'audit technique au suivi des backlinks, en passant par la recherche de mots-clés et l'analyse concurrentielle.
+Semrush, via sa Semrush Academy, propose plusieurs parcours de formation gratuits, dont l'objectif est d'apprendre à exploiter tout le potentiel de la plateforme, de l'audit technique au suivi des backlinks, en passant par la recherche de mots-clés et l'[Analyse concurrentielle](https://blotmkt.com/ia/strategie-marketing/analyse-concurrentielle.html).
  
 Les certifications sont généralement valables 1 an et peuvent aisément être ajoutées sur votre profil LinkedIn.
 
@@ -110,7 +110,7 @@ la certification Moz SEO Essentials est considérée comme la plus précieuse du
 
 ## Le rôle crucial de l'expérience pratique {#preuve}
 
-Un consultant SEO senior maîtrise à la fois l'optimisation technique ([Architecture de site](https://blotmkt.com/ia/audit/architecture-de-site.html), Core Web Vitals) et la stratégie marketing globale, ce qui le distingue d'un simple exécutant d'outils.
+Un consultant SEO senior maîtrise à la fois l'optimisation technique (Architecture de site, Core Web Vitals) et la stratégie marketing globale, ce qui le distingue d'un simple exécutant d'outils.
 
 Dans ma pratique à Montréal, j'ai constaté une vérité que les formations ne disent pas : la théorie ne représente que 20 % du métier. Les 80 % restants s'acquièrent sur des projets réels, avec de vraies contraintes et de vrais clients. Mon parcours sur [antoine-blot.com/consultant-seo/](https://www.antoine-blot.com/consultant-seo/) l'illustre : chaque mandat m'a appris davantage qu'un module de formation.
 
@@ -215,7 +215,7 @@ L'IA excelle dans l'automatisation des tâches répétitives : recherche de mots
 La vraie rupture concerne le GEO. Gartner prévoyait une chute de 25 % du volume de requêtes vers les moteurs de recherche traditionnels d'ici 2026. Environ 30 % des requêtes n'entraîneraient plus de clics externes. Les consultants qui ignorent cette réalité verront leurs clients perdre du trafic sans comprendre pourquoi.
 
 
-En 2026, les généralistes voient leurs tarifs stagner tandis que les spécialistes (SEO technique, SEO international, SEO e-commerce, GEO/AIO) voient leurs TJM progresser de 30 à 50 %. La spécialisation est devenue un facteur déterminant de rentabilité.
+En 2026, les généralistes voient leurs tarifs stagner tandis que les spécialistes (SEO technique, SEO international, [SEO e-commerce](https://blotmkt.com/ia/strategie/seo-e-commerce.html), GEO/AIO) voient leurs TJM progresser de 30 à 50 %. La spécialisation est devenue un facteur déterminant de rentabilité.
 
 
 Le consultant SEO de 2026 qui maîtrise à la fois le référencement naturel traditionnel et l'optimisation pour les IA génératives détient un avantage concurrentiel réel et durable.

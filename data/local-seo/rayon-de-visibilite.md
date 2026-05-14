@@ -171,6 +171,6 @@ Dans les zones à faible éclairage, une version photoluminescente garantit la v
 
 - [Avis clients SEO : Booster votre visibilité et votre chiffre d'affaires](https://blotmkt.com/ia/local-seo/avis-clients-seo.html)
 - [Citations locales seo: guide complet pour booster votre visibilité locale](https://blotmkt.com/ia/local-seo/citations-locales-seo.html)
-- [Fiche établissement Google : Optimisation, Gestion et Récupération](https://blotmkt.com/ia/local-seo/fiche-etablissement-google.html)
 - [nap seo local : guide complet pour booster votre visibilité](https://blotmkt.com/ia/local-seo/nap-seo-local.html)
 - [Optimisation google maps : guide complet pour 2026](https://blotmkt.com/ia/local-seo/optimisation-google-maps.html)
+- [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/ia/audit/indexation-api-google.html)

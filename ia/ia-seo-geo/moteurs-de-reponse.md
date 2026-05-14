@@ -113,7 +113,7 @@ La troisième erreur concerne le contenu invisible.
 25 à 34 % du contenu des sites commerciaux est invisible aux LLM
  - généralement parce qu'il repose sur du JavaScript non rendu ou des structures illisibles.
 
-Mon expérience montre que les sites qui négligent le [Fichier Robots.txt](https://blotmkt.com/ia/audit/fichier-robots.txt.html) et le rendu côté serveur perdent l'essentiel de leur potentiel GEO, indépendamment de la qualité de leur contenu.
+Mon expérience montre que les sites qui négligent le Fichier Robots.txt et le rendu côté serveur perdent l'essentiel de leur potentiel GEO, indépendamment de la qualité de leur contenu.
 
 ---
 
@@ -178,8 +178,8 @@ Oui, et leur importance est croissante. En 2026, plus de 50 % des recherches Goo
 
 ## Articles connexes
 
-- [aeo answer engine optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
 - [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
+- [Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité](https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo.html)

@@ -40,7 +40,7 @@ publisher: "BlotMKT - Antoine BLOT"
 
 Votre site remonte en troisième page, mais un assistant vocal ne lira jamais la troisième page. 
 En 2026, environ 20,5 % des internautes du monde entier utilisent activement la recherche vocale, et on compte environ 8,4 milliards d'assistants vocaux déployés sur smartphones, enceintes connectées, voitures et autres appareils.
- Ce canal capte des requêtes conversationnelles longues, précises, souvent à forte intention locale - et la concurrence pour obtenir l'unique réponse lue à voix haute est féroce. Ce guide vous donne les méthodes concrètes pour adapter votre stratégie SEO vocal, section par section, avec des données réelles et des observations de terrain depuis Montréal.
+ Ce canal capte des requêtes conversationnelles longues, précises, souvent à forte intention locale - et la concurrence pour obtenir l'unique réponse lue à voix haute est féroce. Ce guide vous donne les méthodes concrètes pour adapter votre [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) vocal, section par section, avec des données réelles et des observations de terrain depuis Montréal.
 
 <!-- speakable:start -->
 > ## L'essentiel à retenir
@@ -74,7 +74,7 @@ Le SEO technique est le socle de la visibilité vocale. Sans ces fondations, auc
 Les priorités techniques pour le SEO vocal se déclinent en quatre axes concrets :
 
 1. Vitesse de chargement mobile : 
-surveiller de près les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html), car un site rapide et bien adapté au mobile séduit aussi bien les moteurs de recherche que les adeptes de la voix.
+surveiller de près les Core Web Vitals, car un site rapide et bien adapté au mobile séduit aussi bien les moteurs de recherche que les adeptes de la voix.
 
 2. Données structurées (schema.org) : 
 ces balises intégrées dans le code HTML indiquent s'il s'agit d'un produit, d'un service, d'un événement ou d'une FAQ. En 2025, ces balises sont un standard du SEO ; en ajoutant les bons schémas (FAQ, HowTo, LocalBusiness), vous permettez à Google de mieux contextualiser vos pages, ce qui facilite l'extraction de vos contenus pour les recherches vocales.

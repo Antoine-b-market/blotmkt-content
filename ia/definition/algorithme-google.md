@@ -43,7 +43,7 @@ Votre trafic organique dégringole du jour au lendemain. Pas de pénalité manue
 <!-- speakable:start -->
 > ## L'essentiel à retenir
 > - Depuis 1998, l'algorithme Google a évolué d'un système basé sur les liens vers une approche IA intégrant expérience et fiabilité.
-> - Les principaux facteurs de classement incluent la pertinence du contenu, les backlinks, les [Core Web Vitals](https://blotmkt.com/ia/audit/core-web-vitals.html) et les signaux E-E-A-T.
+> - Les principaux facteurs de classement incluent la pertinence du contenu, les backlinks, les Core Web Vitals et les signaux E-E-A-T.
 > - Google détecte la sur-optimisation via des signaux comme le keyword stuffing, le cloaking et les schémas de liens artificiels.
 > - En 2026, la stratégie SEO durable repose sur le contenu utile, les signaux E-E-A-T et un audit régulier via Google Search Console.
 
@@ -109,7 +109,7 @@ La Core Update de décembre 2025 confirme une tendance de fond : Google affine e
 
 Quatre actions concrètes pour 2026 :
 - Surveiller le Google Search Status Dashboard pour corréler toute baisse de trafic à une date connue
-- Auditer la [Densité de mots-clés](https://blotmkt.com/ia/contenu/densite-de-mots-cles.html) et les ancres internes tous les 6 mois avec Screaming Frog ou Semrush
+- Auditer la Densité de mots-clés et les ancres internes tous les 6 mois avec Screaming Frog ou Semrush
 - Mesurer l'engagement via Google Analytics (temps sur page, taux de rebond) comme proxy de qualité
 - Intégrer des données propriétaires, des citations d'experts et une écriture naturelle pour maximiser la citabilité IA
 
