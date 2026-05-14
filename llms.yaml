@@ -620,6 +620,23 @@ pages:
   title: 'Consultant seo montréal : l''expert qui transforme votre visibilité en croissance
     à montréal'
   url: https://blotmkt.com/data/strategie/consultant-seo-montreal.md
+- category: strategie
+  date: 2026-05-14 05:24
+  description: Comprendre et optimiser votre coût d'acquisition SEO (CAC SEO). Découvrez
+    les stratégies, les méthodes de calcul et les alternatives pour un ROI maximal.
+  html_url: https://blotmkt.com/ia/strategie/cout-acquisition-seo.html
+  keyword: Coût acquisition SEO
+  title: 'Coût d''acquisition seo: guide complet pour optimiser votre investissement'
+  url: https://blotmkt.com/data/strategie/cout-acquisition-seo.md
+- category: strategie
+  date: 2026-05-14 05:33
+  description: Maîtrisez votre migration SEO ! Checklist, stratégies et outils pour
+    une transition de site web sans perte de trafic organique. Augmentez votre visibilité.
+  html_url: https://blotmkt.com/ia/strategie/migration-seo.html
+  keyword: Migration SEO
+  title: 'Migration seo : guide complet pour une transition réussie et sans perte
+    de trafic'
+  url: https://blotmkt.com/data/strategie/migration-seo.md
 - category: strategie-marketing
   date: 2026-05-05 14:59
   description: 'Maîtrisez l''analyse concurrentielle: identifiez vos rivaux, décortiquez
@@ -677,6 +694,6 @@ site:
   language: fr
   name: BlotMKT
   sameAs: https://www.antoine-blot.com
-  total_pages: 75
+  total_pages: 77
   updated: '2026-05-14'
   url: https://blotmkt.com

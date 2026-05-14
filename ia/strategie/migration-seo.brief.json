@@ -1,0 +1,117 @@
+{
+  "keyword": "Migration SEO",
+  "intention": "informationnelle",
+  "titre_h1": "migration seo : guide complet pour une transition réussie et sans perte de trafic",
+  "meta_description": "Maîtrisez votre migration SEO ! Checklist, stratégies et outils pour une transition de site web sans perte de trafic organique. Augmentez votre visibilité.",
+  "angle_editorial": "Une méthodologie rigoureuse étape par étape pour réussir sa migration SEO et préserver son capital de référencement, évitant les pièges courants.",
+  "query_fanout": [
+    "Comment planifier une migration SEO pour éviter la perte de trafic ?",
+    "Quels sont les éléments SEO critiques à vérifier avant et après une migration de site web ?",
+    "Quels outils un expert SEO utilise-t-il pour une migration réussie ?",
+    "Comment gérer les redirections 301 lors d'un changement de domaine ou de structure d'URL ?",
+    "Comment anticiper l'impact des algorithmes de Google sur une migration SEO future ?"
+  ],
+  "structure": [
+    {
+      "h2": "Qu'est-ce qu'une migration SEO et pourquoi est-ce crucial ?",
+      "type": "definition",
+      "points_cles": [
+        "Définition des différents types de migrations (changement de domaine, CMS, HTTPS)",
+        "Impact critique d'une migration mal gérée sur le trafic et le classement",
+        "Bénéfices d'une migration SEO bien exécutée (optimisation, amélioration UX)",
+        "L'importance de la migration face aux exigences des algorithmes Google (Core Web Vitals)"
+      ]
+    },
+    {
+      "h2": "Préparation : la checklist SEO pré-migration",
+      "type": "technique",
+      "points_cles": [
+        "Importance d'une sauvegarde complète du site existant",
+        "Configuration et rôle de l'environnement de staging (préproduction)",
+        "Identification et priorisation des pages à forte valeur via GA et GSC",
+        "Cartographie exhaustive des URLs existantes et de leurs équivalents cibles"
+      ]
+    },
+    {
+      "h2": "Les éléments SEO critiques à vérifier avant le lancement",
+      "type": "technique",
+      "points_cles": [
+        "Audit des redirections 301 planifiées pour toutes les URLs impactées",
+        "Vérification des balises canoniques et hreflang sur l'environnement de staging",
+        "Optimisation des balises title, meta descriptions et Hn sur le nouveau site",
+        "Test de la vitesse de chargement et des Core Web Vitals du nouveau site"
+      ]
+    },
+    {
+      "h2": "Migration : checklist SEO du jour J (jour du lancement)",
+      "type": "technique",
+      "points_cles": [
+        "Mise en place et vérification immédiate des redirections 301",
+        "Mise à jour et soumission du fichier robots.txt",
+        "Soumission des nouveaux sitemaps XML dans Google Search Console",
+        "Vérification des balises d'indexation et l'absence de noindex/nofollow non désirés"
+      ]
+    },
+    {
+      "h2": "Post-migration : surveillance et optimisation continue",
+      "type": "technique",
+      "points_cles": [
+        "Suivi quotidien du crawl, de l'indexation et des erreurs 404 via GSC",
+        "Analyse de l'évolution du trafic organique et des conversions avec Google Analytics 4",
+        "Correction rapide des erreurs de redirection et des liens internes cassés",
+        "Optimisation continue du maillage interne et de la performance technique"
+      ]
+    },
+    {
+      "h2": "Communication et collaboration : la clé du succès",
+      "type": "usage",
+      "points_cles": [
+        "Importance de l'alignement entre les équipes SEO, techniques et marketing",
+        "Établissement d'un plan de communication interne et externe clair",
+        "Gestion proactive des attentes des parties prenantes et des clients",
+        "Mise en place de rituels de suivi pour une réactivité optimale"
+      ]
+    },
+    {
+      "h2": "Anticiper l'avenir : une stratégie de migration SEO à l'épreuve du temps",
+      "type": "avance",
+      "points_cles": [
+        "Intégration de l'IA dans l'analyse pré et post-migration",
+        "Préparation aux évolutions des SERP et des attentes utilisateurs",
+        "Importance de la flexibilité et de l'agilité dans les stratégies SEO",
+        "Maintien d'une approche centrée utilisateur pour une visibilité durable"
+      ]
+    },
+    {
+      "h2": "Questions fréquentes",
+      "type": "faq",
+      "points_cles": [
+        "Quand est le meilleur moment pour réaliser une migration SEO ?",
+        "Quelle est la durée moyenne de l'impact SEO d'une migration ?",
+        "Comment minimiser la perte de trafic organique lors d'une refonte ?",
+        "Peut-on migrer un site sans utiliser de redirections 301 ?"
+      ]
+    }
+  ],
+  "mots_cles_secondaires": [
+    "refonte site web SEO",
+    "changement de domaine SEO",
+    "checklist migration SEO",
+    "redirection 301",
+    "audit SEO migration"
+  ],
+  "questions_paa": [
+    "Qu'est-ce qu'une migration SEO et pourquoi est-elle nécessaire ?",
+    "Quels sont les principaux risques d'une migration SEO mal préparée ?",
+    "Comment vérifier si une migration SEO a été réussie ?",
+    "Quels outils sont indispensables pour une migration SEO ?"
+  ],
+  "ton": "expert",
+  "longueur_cible": 950,
+  "category": "strategie",
+  "lang": "fr",
+  "brief_mode": "standard",
+  "hreflang": "fr-CA",
+  "slug": "migration-seo",
+  "google_context": {}
+}

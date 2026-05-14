@@ -1,0 +1,49 @@
+{
+  "score_global": 0.7669,
+  "mu": 0.7722,
+  "sigma_min": 0.7634,
+  "mmr_score": 0.2549,
+  "kl_divergence": 0.3339,
+  "kl_status": "OK",
+  "transition_prob": 0.907,
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7634,
+      "status": "OK",
+      "best_chunk": "| Non | | Email marketing | Faible | Très faible | 1-2 mois | Partielle (liste) | Sur 3 ans, le coût d'acquisition clien",
+      "chunk_index": 5
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7719,
+      "status": "OK",
+      "best_chunk": "| Non | | Email marketing | Faible | Très faible | 1-2 mois | Partielle (liste) | Sur 3 ans, le coût d'acquisition clien",
+      "chunk_index": 5
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.777,
+      "status": "OK",
+      "best_chunk": "| Non | | Email marketing | Faible | Très faible | 1-2 mois | Partielle (liste) | Sur 3 ans, le coût d'acquisition clien",
+      "chunk_index": 5
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7833,
+      "status": "OK",
+      "best_chunk": "| Non | | Email marketing | Faible | Très faible | 1-2 mois | Partielle (liste) | Sur 3 ans, le coût d'acquisition clien",
+      "chunk_index": 5
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7654,
+      "status": "OK",
+      "best_chunk": "| Non | | Email marketing | Faible | Très faible | 1-2 mois | Partielle (liste) | Sur 3 ans, le coût d'acquisition clien",
+      "chunk_index": 5
+    }
+  },
+  "weak_axes": [],
+  "verdict": "OK",
+  "chunks_count": 10
+}

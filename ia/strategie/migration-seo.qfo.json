@@ -1,0 +1,49 @@
+{
+  "score_global": 0.7639,
+  "mu": 0.768,
+  "sigma_min": 0.7611,
+  "mmr_score": 0.2185,
+  "kl_divergence": 0.3935,
+  "kl_status": "OK",
+  "transition_prob": 0.8417,
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.7618,
+      "status": "OK",
+      "best_chunk": "Migration SEO : guide complet pour une transition réussie et sans perte de trafic Sommaire - Qu'est-ce qu'une migration ",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.7859,
+      "status": "OK",
+      "best_chunk": "Migration SEO : guide complet pour une transition réussie et sans perte de trafic Sommaire - Qu'est-ce qu'une migration ",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.7611,
+      "status": "OK",
+      "best_chunk": "Migration SEO : guide complet pour une transition réussie et sans perte de trafic Sommaire - Qu'est-ce qu'une migration ",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.7635,
+      "status": "OK",
+      "best_chunk": "Migration SEO : guide complet pour une transition réussie et sans perte de trafic Sommaire - Qu'est-ce qu'une migration ",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.7677,
+      "status": "OK",
+      "best_chunk": "Migration SEO : guide complet pour une transition réussie et sans perte de trafic Sommaire - Qu'est-ce qu'une migration ",
+      "chunk_index": 0
+    }
+  },
+  "weak_axes": [],
+  "verdict": "OK",
+  "chunks_count": 10
+}

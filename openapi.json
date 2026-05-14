@@ -1608,6 +1608,52 @@
         }
       }
     },
+    "/data/strategie/cout-acquisition-seo.md": {
+      "get": {
+        "summary": "Coût d'acquisition seo: guide complet pour optimiser votre investissement",
+        "description": "Comprendre et optimiser votre coût d'acquisition SEO (CAC SEO). Découvrez les stratégies, les méthodes de calcul et les alternatives pour un ROI maximal.",
+        "operationId": "cout_acquisition_seo",
+        "tags": [
+          "strategie"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/strategie/migration-seo.md": {
+      "get": {
+        "summary": "Migration seo : guide complet pour une transition réussie et sans perte de trafic",
+        "description": "Maîtrisez votre migration SEO ! Checklist, stratégies et outils pour une transition de site web sans perte de trafic organique. Augmentez votre visibilité.",
+        "operationId": "migration_seo",
+        "tags": [
+          "strategie"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/data/strategie-marketing/analyse-concurrentielle.md": {
       "get": {
         "summary": "Analyse concurrentielle: comment espionner (légalement) vos concurrents en 2026",
