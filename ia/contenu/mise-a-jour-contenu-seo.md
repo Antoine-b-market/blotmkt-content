@@ -143,7 +143,7 @@ Le GEO (Generative Engine Optimization) désigne l'ensemble des pratiques visant
  Comme l'explique Antoine Blot, un contenu bien positionné en résultats classiques mais ignoré par les AI Overviews perd de la visibilité dans les cas d'usage les plus fréquents en 2026.
 
 
-Selon le HubSpot State of Marketing Report 2026, près de 24 % des marketeurs explorent la mise à jour de leur [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) pour l'IA générative (ChatGPT, Gemini, Claude), et plus de 92 % prévoient d'utiliser l'optimisation SEO pour les moteurs de recherche traditionnels et alimentés par l'IA.
+Selon le HubSpot State of Marketing Report 2026, près de 24 % des marketeurs explorent la mise à jour de leur Stratégie SEO pour l'IA générative (ChatGPT, Gemini, Claude), et plus de 92 % prévoient d'utiliser l'optimisation SEO pour les moteurs de recherche traditionnels et alimentés par l'IA.
 
 
 Pour être cité par un LLM, un contenu doit respecter trois critères : clarté structurelle (titres H2/H3 explicites, réponses autonomes par section), densité factuelle (chiffres sourcés, entités nommées, dates précises), et autorité thématique (couverture cohérente d'un sujet sur l'ensemble du site).

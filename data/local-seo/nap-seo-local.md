@@ -142,7 +142,7 @@ Utilisez Google Keyword Planner, Semrush ou Ubersuggest en ciblant votre zone g�
 
 ### Quand dois-je refaire un audit NAP de mes citations ?
 
-Réalisez un audit complet lors du lancement d'une [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) locale, après un déménagement, un changement de nom commercial ou de numéro de téléphone. Hors événement, planifiez un audit trimestriel. Des agrégateurs peuvent régénérer des fiches erronées à tout moment. BrightLocal et Whitespark permettent de mettre en place un monitoring continu pour détecter et corriger ces nouvelles citations incorrectes avant qu'elles impactent votre classement.
+Réalisez un audit complet lors du lancement d'une Stratégie SEO locale, après un déménagement, un changement de nom commercial ou de numéro de téléphone. Hors événement, planifiez un audit trimestriel. Des agrégateurs peuvent régénérer des fiches erronées à tout moment. BrightLocal et Whitespark permettent de mettre en place un monitoring continu pour détecter et corriger ces nouvelles citations incorrectes avant qu'elles impactent votre classement.
 
 ---
 

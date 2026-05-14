@@ -142,7 +142,7 @@ Screaming Frog crawle l'ensemble du site et identifie les problèmes on-page en 
 
 Google Search Console apporte la donnée réelle de performance : impressions, CTR par requête, pages indexées, erreurs de couverture. Comparer les courbes de trafic avec les dates des core updates permet de diagnostiquer une pénalité algorithmique avec précision.
 
-Semrush complète l'analyse avec la densité de mots-clés, l'[Audit sémantique](https://blotmkt.com/ia/strategie/audit-semantique.html), l'analyse des ancres et la comparaison avec les pages concurrentes. 
+Semrush complète l'analyse avec la densité de mots-clés, l'Audit sémantique, l'analyse des ancres et la comparaison avec les pages concurrentes. 
 La part de contenu généré par IA dans les résultats est estimée à 17,3 % (Semrush, 2025), ce qui pousse les équipes à se différencier par la fiabilité, les preuves et la mise à jour.
 
 

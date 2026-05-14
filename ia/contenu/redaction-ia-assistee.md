@@ -99,7 +99,7 @@ L'IA est très efficace pour reformuler du contenu existant dense en texte lisib
 
 
 Un exemple technique concret : sur une page de service B2B, l'IA peut détecter qu'un paragraphe ne répond pas à l'intention transactionnelle ciblée, proposer une restructuration H2/H3 alignée sur les requêtes de longue traîne, et générer trois variantes de méta-description pour test A/B dans Google Search Console. 
-Selon les données Digitaloft (2026), 76 % des citations dans les AI Overviews de Google proviennent de pages déjà positionnées dans le top 10. La [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) classique et la stratégie GEO sont donc complémentaires.
+Selon les données Digitaloft (2026), 76 % des citations dans les AI Overviews de Google proviennent de pages déjà positionnées dans le top 10. La Stratégie SEO classique et la stratégie GEO sont donc complémentaires.
 
 
 ---

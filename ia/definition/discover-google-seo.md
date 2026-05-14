@@ -109,7 +109,7 @@ Mon expérience montre que la sur-optimisation - répétition excessive du mot-c
 
 ## Mesurer et corriger : outils et méthodes {#mesure}
 
-Google Search Console et Google Analytics sont les deux outils gratuits incontournables pour piloter une [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html). Search Console révèle les impressions, les clics, les positions moyennes et les erreurs d'indexation. 
+Google Search Console et Google Analytics sont les deux outils gratuits incontournables pour piloter une Stratégie SEO. Search Console révèle les impressions, les clics, les positions moyennes et les erreurs d'indexation. 
 Le rapport Discover dans Search Console permet aussi de tester des variantes de titres et de surveiller les variations de CTR pour identifier les formats qui performent.
 
 Pour récupérer après une pénalité : commencez par identifier la source exacte dans Google Search Console (onglet "Actions manuelles"). Supprimez ou rééditez les pages sur-optimisées. Élaguez votre contenu en fusionnant les pages de faible qualité.

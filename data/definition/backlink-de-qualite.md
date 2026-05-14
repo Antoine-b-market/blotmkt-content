@@ -152,7 +152,7 @@ Les KPIs à surveiller en priorité sont : le Domain Rating (Ahrefs) et le Domai
 Les KPIs prioritaires incluent les positions sur les mots-clés stratégiques, le trafic organique qualifié, le taux de conversion et les backlinks de qualité.
  Google Search Console offre une vue fiable des liens détectés par Google - à croiser avec Ahrefs pour combler les angles morts.
 
-La mise à jour régulière du profil de backlinks est nécessaire pour maintenir une [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) efficace - examinez fréquemment vos liens entrants afin d'évaluer leur qualité et leur pertinence.
+La mise à jour régulière du profil de backlinks est nécessaire pour maintenir une Stratégie SEO efficace - examinez fréquemment vos liens entrants afin d'évaluer leur qualité et leur pertinence.
  Un audit trimestriel suffit pour la plupart des sites, mensuel sur les niches très concurrentielles.
 
 ---

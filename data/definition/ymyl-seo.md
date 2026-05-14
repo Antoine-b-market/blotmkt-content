@@ -58,7 +58,7 @@ Les évaluateurs de qualité Google utilisent le cadre E-E-A-T - Expérience, Ex
  Une page YMYL aux signaux d'expertise faibles n'est pas seulement un problème éditorial : 
 c'est un risque réel, et Google le traite comme tel.
 
-Ce que je constate chez mes clients, c'est que beaucoup sous-estiment ce cadre jusqu'au premier déclassement massif. Comprendre le YMYL avant de publier, et non après, fait toute la différence entre une [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) solide et une correction de crise.
+Ce que je constate chez mes clients, c'est que beaucoup sous-estiment ce cadre jusqu'au premier déclassement massif. Comprendre le YMYL avant de publier, et non après, fait toute la différence entre une Stratégie SEO solide et une correction de crise.
 
 ---
 

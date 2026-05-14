@@ -1,85 +1,55 @@
 {
-  "score_global": 0.8006,
-  "atomic_proof_score": 0.344,
-  "mmr_score": 0.1835,
-  "kl_divergence": 0.4686,
-  "verdict": "OK",
-  "weak_axes": [],
+  "score_global": 0.7243,
+  "mu": 0.7279,
+  "sigma_min": 0.7219,
+  "mmr_score": 0.2112,
+  "kl_divergence": 0.4064,
+  "kl_status": "OK",
+  "transition_prob": 0.9387,
   "axes": {
     "sous_sujet": {
       "dimension": "detail technique specifique precis",
-      "score": 0.8006,
-      "status": "OK",
-      "best_chunk": "Agence SEO Montréal : l'approche 2026 pour dominer Google et les IA génératives Sommaire - Agence SEO à Montréal : au-de",
+      "score": 0.731,
+      "status": "FAIL",
+      "best_chunk": "Agence SEO Montréal : consultant expert ou agence, quel choix pour votre visibilité ? Sommaire - Agence SEO à Montréal :",
       "chunk_index": 0
     },
     "prerequis": {
       "dimension": "connaissances prealables necessaires",
-      "score": 0.7991,
-      "status": "OK",
-      "best_chunk": "Agence SEO Montréal : l'approche 2026 pour dominer Google et les IA génératives Sommaire - Agence SEO à Montréal : au-de",
+      "score": 0.7219,
+      "status": "FAIL",
+      "best_chunk": "Agence SEO Montréal : consultant expert ou agence, quel choix pour votre visibilité ? Sommaire - Agence SEO à Montréal :",
       "chunk_index": 0
     },
     "cas_limite": {
       "dimension": "exception cas particulier probleme limite",
-      "score": 0.7992,
-      "status": "OK",
-      "best_chunk": "Agence SEO Montréal : l'approche 2026 pour dominer Google et les IA génératives Sommaire - Agence SEO à Montréal : au-de",
+      "score": 0.7266,
+      "status": "FAIL",
+      "best_chunk": "Agence SEO Montréal : consultant expert ou agence, quel choix pour votre visibilité ? Sommaire - Agence SEO à Montréal :",
       "chunk_index": 0
     },
     "validation": {
       "dimension": "preuve mesure verification resultat chiffre",
-      "score": 0.8061,
-      "status": "OK",
-      "best_chunk": "Agence SEO Montréal : l'approche 2026 pour dominer Google et les IA génératives Sommaire - Agence SEO à Montréal : au-de",
+      "score": 0.7282,
+      "status": "FAIL",
+      "best_chunk": "Agence SEO Montréal : consultant expert ou agence, quel choix pour votre visibilité ? Sommaire - Agence SEO à Montréal :",
       "chunk_index": 0
     },
     "entite": {
       "dimension": "organisation outil reference officielle reconnue",
-      "score": 0.8093,
-      "status": "OK",
-      "best_chunk": "Agence SEO Montréal : l'approche 2026 pour dominer Google et les IA génératives Sommaire - Agence SEO à Montréal : au-de",
+      "score": 0.7319,
+      "status": "FAIL",
+      "best_chunk": "Agence SEO Montréal : consultant expert ou agence, quel choix pour votre visibilité ? Sommaire - Agence SEO à Montréal :",
       "chunk_index": 0
     }
   },
-  "qfo_source": "local",
-  "generated_at": "2026-05-05 14:07",
-  "quotability": {
-    "score": 0.5088,
-    "top10_mean": 0.6437,
-    "n_passages": 78,
-    "assertiveness": 0.992,
-    "information_density": 0.383,
-    "optimal_length": 0.876,
-    "self_containedness": 0.362,
-    "top_passages": [
-      {
-        "passage": "Une agence généraliste facture généralement entre 1 500 $ et 5 000 $ CAD par mois pour du SEO classi",
-        "quotability": 0.7211,
-        "assertiveness": 1.0,
-        "information_density": 0.9,
-        "optimal_length": 1.0,
-        "self_containedness": 0.638,
-        "novelty": 0.274
-      },
-      {
-        "passage": "Sources : Similarweb Zero-Click Research (2025), Gartner Search Volume Predictions, Princeton / Geor",
-        "quotability": 0.7049,
-        "assertiveness": 1.0,
-        "information_density": 1.0,
-        "optimal_length": 0.36,
-        "self_containedness": 0.649,
-        "novelty": 0.372
-      },
-      {
-        "passage": "<!-- speakable:start --\n\n\n\n\n\n\n\nAgence SEO à Montréal : au-delà des définitions classiques pour 2026 ",
-        "quotability": 0.6712,
-        "assertiveness": 1.0,
-        "information_density": 0.871,
-        "optimal_length": 0.76,
-        "self_containedness": 0.595,
-        "novelty": 0.245
-      }
-    ]
-  }
+  "weak_axes": [
+    "sous_sujet",
+    "prerequis",
+    "cas_limite",
+    "validation",
+    "entite"
+  ],
+  "verdict": "REVIEW_NEEDED",
+  "chunks_count": 9
 }

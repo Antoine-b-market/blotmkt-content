@@ -1,68 +1,71 @@
 {
   "version": "2",
-  "slug": "audit-technique-seo",
-  "category": "strategie",
-  "keyword": "audit technique SEO",
-  "title": "audit technique SEO : débloquez la performance de votre site au québec",
-  "status": "published",
+  "slug": "transcription-video-seo",
+  "category": "contenu",
+  "keyword": "Transcription vidéo SEO",
+  "title": "transcription vidéo seo : boostez votre référencement",
+  "status": "pending_review",
   "fix_type": null,
   "fix_target": null,
   "stale": false,
   "stale_since": null,
-  "created_at": "2026-05-06T03:50:31.946243Z",
-  "updated_at": "2026-05-13T05:34:57.589886+00:00",
+  "brief_mode": "standard",
+  "hreflang": "fr-CA",
+  "force_published": false,
+  "created_at": "2026-05-14T04:23:29.640012Z",
+  "updated_at": "2026-05-14T04:23:58.895203Z",
   "scores": {
     "qfo_global": {
-      "value": 0.7253,
-      "threshold": 0.72,
+      "value": 0.7046,
+      "threshold": 0.62,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "quotability": {
-      "value": 0.5078,
+      "value": 0.4765,
       "threshold": 0.45,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "chunk_diversity": {
-      "value": 0.7743,
+      "value": 0.7315,
       "threshold": 0.86,
       "direction": "lower_better",
       "passed": true,
       "blocking": true
     },
     "atomic_proof": {
-      "value": 0.4313,
+      "value": 0.4955,
       "threshold": 0.35,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "semantic_density": {
-      "value": 0.404,
+      "value": 0.4577,
       "threshold": 0.3,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "information_gain": {
-      "value": 0.164,
-      "threshold": 0.15,
+      "value": 0.1965,
+      "threshold": 0.08,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "perplexity_variance": {
-      "value": 0.1685,
+      "value": 0.1816,
       "threshold": 0.12,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "entity_alignment": {
-      "value": 0.6913,
+      "value": 0.601,
       "threshold": 0.55,
       "direction": "higher_better",
       "passed": true,

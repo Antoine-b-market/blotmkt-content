@@ -2,7 +2,7 @@
 # Auteur : Antoine Blot (https://antoine-blot.com)
 # ORCID : https://orcid.org/0009-0005-6450-4528
 # Mis a jour : 2026-05-14
-# Total pages : 89
+# Total pages : 73
 
 ## A propos
 BlotMKT est une ressource experte sur le SEO, le Marketing Digital et l'optimisation GEO.
@@ -58,6 +58,9 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [Structure HN SEO : guide complet pour optimiser votre contenu](https://blotmkt.com/ia/contenu/structure-hn-seo.html)
   Découvrez comment la structure HN SEO (H1, H2, H3) booste votre référencement. Guide pratique, exemples concrets et conseils d'experts.
+
+- [Transcription vidéo seo : boostez votre référencement](https://blotmkt.com/ia/contenu/transcription-video-seo.html)
+  Découvrez comment la transcription vidéo SEO transforme vos contenus. Guide complet : méthode, outils, coûts réels et erreurs à éviter.
 
 - [Algorithme Google : comprendre son fonctionnement et éviter les pièges SEO](https://blotmkt.com/ia/definition/algorithme-google.html)
   Décryptez l'algorithme Google et ses mises à jour. Évitez la sur-optimisation et adoptez une stratégie SEO durable pour un meilleur positionnement.
@@ -206,62 +209,11 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 - [guest blogging seo : guide complet pour un référencement durable en 2026](https://blotmkt.com/ia/popularite/guest-blogging-seo.html)
   Découvrez comment le guest blogging peut améliorer votre SEO. Stratégies, avantages, et comment éviter les pièges pour un référencement optimal et durable en 2026.
 
-- [agence GEO montréal : dominez le search IA et local en 2026](https://blotmkt.com/ia/strategie/agence-geo-montreal.html)
-  Maximisez votre visibilité à Montréal avec une agence GEO spécialisée. Référencement local et optimisation pour moteurs de réponse IA. Obtenez des résultats concrets !
+- [Agence SEO montréal : consultant expert ou agence, quel choix pour votre visibilité ?](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
+  Découvrez comment choisir l'expert SEO à Montréal idéal pour votre entreprise. Agence ou consultant indépendant ? Comparez les approches stratégiques pour un ROI maximal et une visibilité durable.
 
-- [Agence SEO Montréal : l'approche 2026 pour dominer google et les IA génératives](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
-  Choisir votre agence SEO à Montréal : dépassez les méthodes classiques. Découvrez l'expertise stratégique d'un consultant GEO pour la visibilité Google et IA.
-
-- [audit sémantique : la clé d'une stratégie seo performante à l'ère des ia génératives](https://blotmkt.com/ia/strategie/audit-semantique.html)
-  Découvrez comment un audit sémantique structure votre contenu pour les audiences et les IA. Méthodologie, outils, avantages, et son rôle face aux moteurs génératifs.
-
-- [audit technique SEO : débloquez la performance de votre site au québec](https://blotmkt.com/ia/strategie/audit-technique-seo.html)
-  Découvrez l'audit technique SEO rigoureux : 8 étapes, outils indispensables et stratégie GEO pour booster votre visibilité au Québec et préparer votre site à l'IA.
-
-- [budget seo mensuel : optimiser vos investissements pour une visibilité durable](https://blotmkt.com/ia/strategie/budget-seo-mensuel.html)
-  Établissez un budget SEO mensuel efficace avec notre guide expert. Apprenez à calculer, allouer et mesurer le ROI pour booster votre visibilité en ligne en 2026.
-
-- [Comment devenir expert SEO : maîtrisez les fondations et anticipez l'ère générative](https://blotmkt.com/ia/strategie/comment-devenir-expert-seo.html)
-  Découvrez les étapes clés pour devenir un expert SEO. Maîtrisez l'audit technique, les backlinks, le SEO programmable et le GEO pour une visibilité optimale.
-
-- [Conseil seo québec: boostez votre visibilité en 2026](https://blotmkt.com/ia/strategie/conseil-seo-quebec.html)
-  Besoin de conseil seo au québec? Obtenez des stratégies personnalisées pour améliorer votre référencement et attirer plus de clients. Expertise locale garantie!
-
-- [Consultant SEO montréal : votre expert en référencement naturel et GEO pour dominer google et l'IA](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)
-  Boostez votre visibilité à Montréal avec un consultant SEO et GEO expert. Stratégies hybrides pour le référencement naturel et les moteurs de réponse IA.
-
-- [Coût d'acquisition SEO (CAC) : Guide complet pour un ROI optimal](https://blotmkt.com/ia/strategie/cout-acquisition-seo.html)
-  Comprendre et optimiser votre coût d'acquisition SEO (CAC SEO). Découvrez les stratégies, les méthodes de calcul et les alternatives pour un ROI maximal.
-
-- [Devenir Consultant SEO : Guide Complet 2026](https://blotmkt.com/ia/strategie/devenir-consultant-seo.html)
-  Comment devenir un consultant SEO freelance performant en 2026 ? Compétences, formation, tarifs, et perspectives d'avenir. Le guide ultime pour réussir.
-
-- [Expert SEO Québec : Comment choisir le bon en 2026 ?](https://blotmkt.com/ia/strategie/expert-seo-quebec.html)
-  Vous cherchez un expert SEO au Québec ? Découvrez comment choisir le bon consultant pour booster votre visibilité et ROI, avec un focus sur l'IA et le GEO.
-
-- [Expertise seo technique : le guide complet pour booster votre référencement](https://blotmkt.com/ia/strategie/expertise-seo-technique.html)
-  Maîtrisez l'expertise SEO technique pour un référencement durable. Audit, optimisation, netlinking, et plus encore. Découvrez les meilleures pratiques !
-
-- [Développez votre personal branding grâce au SEO : le guide complet de l'expert](https://blotmkt.com/ia/strategie/personal-branding-seo.html)
-  Maîtrisez le personal branding SEO pour bâtir une réputation en ligne forte et durable. Attirez les bonnes opportunités et devenez une référence dans votre domaine.
-
-- [Refonte site SEO : le guide ultime pour une migration réussie](https://blotmkt.com/ia/strategie/refonte-site-seo.html)
-  Planifiez et exécutez une refonte de site SEO sans perte de trafic. Découvrez les étapes clés, les erreurs à éviter et les meilleures pratiques.
-
-- [rentabilité seo : comment mesurer et optimiser son impact financier](https://blotmkt.com/ia/strategie/rentabilite-seo.html)
-  Découvrez comment la rentabilité SEO va au-delà du classement. Mesurez le ROI, réduisez le CAC et défendez votre stratégie face à un CFO grâce à nos insights experts.
-
-- [seo e-commerce : booster vos ventes en ligne en 2026](https://blotmkt.com/ia/strategie/seo-e-commerce.html)
-  Optimisez votre SEO e-commerce pour augmenter le trafic, améliorer le classement et booster vos ventes en ligne. Guide complet 2026.
-
-- [seo international : guide complet pour une visibilité mondiale](https://blotmkt.com/ia/strategie/seo-international.html)
-  Découvrez comment le SEO international peut propulser votre site web à l'étranger. Stratégies, outils, et conseils pratiques pour dominer les marchés mondiaux.
-
-- [seo pour startup : guide complet pour booster votre visibilité et vos ventes](https://blotmkt.com/ia/strategie/seo-pour-startup.html)
-  Découvrez des stratégies SEO pratiques et low-cost pour votre startup. Augmentez votre visibilité organique, attirez vos premiers clients et surpassez vos concurrents.
-
-- [Stratégie SEO : Guide complet pour une croissance durable en 2026](https://blotmkt.com/ia/strategie/strategie-seo.html)
-  Découvrez les piliers d'une stratégie SEO efficace : audit technique, mots-clés, contenu, netlinking et analyse. Boostez votre visibilité et ROI durablement.
+- [Consultant seo montréal : l'expert qui transforme votre visibilité en croissance à montréal](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)
+  Recherchez-vous un consultant SEO à Montréal ? Expert en référencement naturel et GEO, je booste votre visibilité sur Google et l'IA. Stratégie personnalisée pour Montréal.
 
 - [Analyse concurrentielle: comment espionner (légalement) vos concurrents en 2026](https://blotmkt.com/ia/strategie-marketing/analyse-concurrentielle.html)
   Maîtrisez l'analyse concurrentielle: identifiez vos rivaux, décortiquez leurs stratégies et découvrez des opportunités SEO en or pour les surpasser.
@@ -312,6 +264,8 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 - [Stratégie éditoriale SEO : de l'intention à la performance organique](https://blotmkt.com/data/contenu/strategie-editoriale-seo.md)
 
 - [Structure HN SEO : guide complet pour optimiser votre contenu](https://blotmkt.com/data/contenu/structure-hn-seo.md)
+
+- [Transcription vidéo seo : boostez votre référencement](https://blotmkt.com/data/contenu/transcription-video-seo.md)
 
 - [Algorithme Google : comprendre son fonctionnement et éviter les pièges SEO](https://blotmkt.com/data/definition/algorithme-google.md)
 
@@ -411,43 +365,9 @@ Identifiant ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [guest blogging seo : guide complet pour un référencement durable en 2026](https://blotmkt.com/data/popularite/guest-blogging-seo.md)
 
-- [agence GEO montréal : dominez le search IA et local en 2026](https://blotmkt.com/data/strategie/agence-geo-montreal.md)
+- [Agence SEO montréal : consultant expert ou agence, quel choix pour votre visibilité ?](https://blotmkt.com/data/strategie/agence-seo-montreal.md)
 
-- [Agence SEO Montréal : l'approche 2026 pour dominer google et les IA génératives](https://blotmkt.com/data/strategie/agence-seo-montreal.md)
-
-- [audit sémantique : la clé d'une stratégie seo performante à l'ère des ia génératives](https://blotmkt.com/data/strategie/audit-semantique.md)
-
-- [audit technique SEO : débloquez la performance de votre site au québec](https://blotmkt.com/data/strategie/audit-technique-seo.md)
-
-- [budget seo mensuel : optimiser vos investissements pour une visibilité durable](https://blotmkt.com/data/strategie/budget-seo-mensuel.md)
-
-- [Comment devenir expert SEO : maîtrisez les fondations et anticipez l'ère générative](https://blotmkt.com/data/strategie/comment-devenir-expert-seo.md)
-
-- [Conseil seo québec: boostez votre visibilité en 2026](https://blotmkt.com/data/strategie/conseil-seo-quebec.md)
-
-- [Consultant SEO montréal : votre expert en référencement naturel et GEO pour dominer google et l'IA](https://blotmkt.com/data/strategie/consultant-seo-montreal.md)
-
-- [Coût d'acquisition SEO (CAC) : Guide complet pour un ROI optimal](https://blotmkt.com/data/strategie/cout-acquisition-seo.md)
-
-- [Devenir Consultant SEO : Guide Complet 2026](https://blotmkt.com/data/strategie/devenir-consultant-seo.md)
-
-- [Expert SEO Québec : Comment choisir le bon en 2026 ?](https://blotmkt.com/data/strategie/expert-seo-quebec.md)
-
-- [Expertise seo technique : le guide complet pour booster votre référencement](https://blotmkt.com/data/strategie/expertise-seo-technique.md)
-
-- [Développez votre personal branding grâce au SEO : le guide complet de l'expert](https://blotmkt.com/data/strategie/personal-branding-seo.md)
-
-- [Refonte site SEO : le guide ultime pour une migration réussie](https://blotmkt.com/data/strategie/refonte-site-seo.md)
-
-- [rentabilité seo : comment mesurer et optimiser son impact financier](https://blotmkt.com/data/strategie/rentabilite-seo.md)
-
-- [seo e-commerce : booster vos ventes en ligne en 2026](https://blotmkt.com/data/strategie/seo-e-commerce.md)
-
-- [seo international : guide complet pour une visibilité mondiale](https://blotmkt.com/data/strategie/seo-international.md)
-
-- [seo pour startup : guide complet pour booster votre visibilité et vos ventes](https://blotmkt.com/data/strategie/seo-pour-startup.md)
-
-- [Stratégie SEO : Guide complet pour une croissance durable en 2026](https://blotmkt.com/data/strategie/strategie-seo.md)
+- [Consultant seo montréal : l'expert qui transforme votre visibilité en croissance à montréal](https://blotmkt.com/data/strategie/consultant-seo-montreal.md)
 
 - [Analyse concurrentielle: comment espionner (légalement) vos concurrents en 2026](https://blotmkt.com/data/strategie-marketing/analyse-concurrentielle.md)
 

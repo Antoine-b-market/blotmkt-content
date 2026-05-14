@@ -38,7 +38,7 @@ publisher: "BlotMKT - Antoine BLOT"
 - [Comment s'adapter aux mises à jour de l'algorithme Google en 2026 ?](#sadapter-mises-a-jour-2026)
 - [FAQ : questions fréquentes sur l'algorithme Google](#faq)
 
-Votre trafic organique dégringole du jour au lendemain. Pas de pénalité manuelle visible dans Google Search Console, pas d'erreur technique flagrante. Juste l'algorithme Google qui a recalibré ses critères. Ce scénario touche des centaines de sites à chaque core update. La cause est souvent la même : une [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) trop centrée sur les signaux techniques, trop peu orientée utilisateur. Cet article décortique le fonctionnement réel de l'algorithme, identifie les pièges de sur-optimisation et propose une méthode concrète pour résister aux prochaines mises à jour.
+Votre trafic organique dégringole du jour au lendemain. Pas de pénalité manuelle visible dans Google Search Console, pas d'erreur technique flagrante. Juste l'algorithme Google qui a recalibré ses critères. Ce scénario touche des centaines de sites à chaque core update. La cause est souvent la même : une Stratégie SEO trop centrée sur les signaux techniques, trop peu orientée utilisateur. Cet article décortique le fonctionnement réel de l'algorithme, identifie les pièges de sur-optimisation et propose une méthode concrète pour résister aux prochaines mises à jour.
 
 <!-- speakable:start -->
 > ## L'essentiel à retenir

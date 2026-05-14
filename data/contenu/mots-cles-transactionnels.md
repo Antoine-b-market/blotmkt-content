@@ -71,7 +71,7 @@ L'enjeu commercial est structurel. Les mots-clés transactionnels affichent un t
 **Le vrai problème, ce n'est pas que votre trafic baisse — c'est que seul le mauvais trafic baisse.**
 
 
-Les contenus purement informationnels voient leur trafic significativement réduit par les AI Overviews, transformant radicalement la valeur de ces types de contenus dans une [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html). Contrairement aux contenus informationnels, les requêtes transactionnelles conservent leur pertinence et leur potentiel de conversion. Les utilisateurs continuent de cliquer vers les sites pour finaliser leurs achats, réservations ou prises de contact.
+Les contenus purement informationnels voient leur trafic significativement réduit par les AI Overviews, transformant radicalement la valeur de ces types de contenus dans une Stratégie SEO. Contrairement aux contenus informationnels, les requêtes transactionnelles conservent leur pertinence et leur potentiel de conversion. Les utilisateurs continuent de cliquer vers les sites pour finaliser leurs achats, réservations ou prises de contact.
 
 
 Les chiffres confirment cette asymétrie. 
@@ -165,7 +165,7 @@ Les mots-clés transactionnels sont le terrain naturel du SEA. Un CPC élevé es
 **Structure de campagne recommandée :**
 
 - Groupes d'annonces segmentés par intention précise : "acheter [produit]" / "prix [produit]" / "meilleur [produit] pour [besoin]".
-- Titres d'annonces incluant le modificateur transactionnel + la proposition de valeur + la preuve sociale en 30 caractères.
+- Titres d'annonces incluant le modificateur transactionnel + la [Proposition de valeur](https://blotmkt.com/ia/strategie-marketing/proposition-de-valeur.html) + la preuve sociale en 30 caractères.
 - Extensions de prix, d'accroche et de liens annexes systématiquement activées.
 
 Le Quality Score est central. 

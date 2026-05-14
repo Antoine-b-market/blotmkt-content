@@ -40,7 +40,7 @@ Votre fiche Google Business Profile est en ligne depuis des mois. Votre téléph
 
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - Adapter sa [Stratégie SEO](https://blotmkt.com/ia/strategie/strategie-seo.html) local à l'IA de Google exige un contenu structuré en langage naturel, citable par les LLMs sans contexte.
+> - Adapter sa Stratégie SEO local à l'IA de Google exige un contenu structuré en langage naturel, citable par les LLMs sans contexte.
 > - Optimiser sa fiche Google Business Profile en 2026 implique catégorie précise, photos récentes et publications hebdomadaires.
 > - Pour suivre son SEO local, Google Search Console, BrightLocal et le tableau de bord GBP sont les outils de référence.
 > - La recherche vocale impose des formulations questions-réponses dans vos pages locales pour apparaître dans les réponses IA.

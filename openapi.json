@@ -366,6 +366,29 @@
         }
       }
     },
+    "/data/contenu/transcription-video-seo.md": {
+      "get": {
+        "summary": "Transcription vidéo seo : boostez votre référencement",
+        "description": "Découvrez comment la transcription vidéo SEO transforme vos contenus. Guide complet : méthode, outils, coûts réels et erreurs à éviter.",
+        "operationId": "transcription_video_seo",
+        "tags": [
+          "contenu"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/data/definition/algorithme-google.md": {
       "get": {
         "summary": "Algorithme Google : comprendre son fonctionnement et éviter les pièges SEO",
@@ -1493,149 +1516,11 @@
         }
       }
     },
-    "/data/strategie/agence-geo-montreal.md": {
-      "get": {
-        "summary": "agence GEO montréal : dominez le search IA et local en 2026",
-        "description": "Maximisez votre visibilité à Montréal avec une agence GEO spécialisée. Référencement local et optimisation pour moteurs de réponse IA. Obtenez des résultats concrets !",
-        "operationId": "agence_geo_montreal",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     "/data/strategie/agence-seo-montreal.md": {
       "get": {
-        "summary": "Agence SEO Montréal : l'approche 2026 pour dominer google et les IA génératives",
-        "description": "Choisir votre agence SEO à Montréal : dépassez les méthodes classiques. Découvrez l'expertise stratégique d'un consultant GEO pour la visibilité Google et IA.",
+        "summary": "Agence SEO montréal : consultant expert ou agence, quel choix pour votre visibilité ?",
+        "description": "Découvrez comment choisir l'expert SEO à Montréal idéal pour votre entreprise. Agence ou consultant indépendant ? Comparez les approches stratégiques pour un ROI maximal et une visibilité durable.",
         "operationId": "agence_seo_montreal",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/audit-semantique.md": {
-      "get": {
-        "summary": "audit sémantique : la clé d'une stratégie seo performante à l'ère des ia génératives",
-        "description": "Découvrez comment un audit sémantique structure votre contenu pour les audiences et les IA. Méthodologie, outils, avantages, et son rôle face aux moteurs génératifs.",
-        "operationId": "audit_semantique",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/audit-technique-seo.md": {
-      "get": {
-        "summary": "audit technique SEO : débloquez la performance de votre site au québec",
-        "description": "Découvrez l'audit technique SEO rigoureux : 8 étapes, outils indispensables et stratégie GEO pour booster votre visibilité au Québec et préparer votre site à l'IA.",
-        "operationId": "audit_technique_seo",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/budget-seo-mensuel.md": {
-      "get": {
-        "summary": "budget seo mensuel : optimiser vos investissements pour une visibilité durable",
-        "description": "Établissez un budget SEO mensuel efficace avec notre guide expert. Apprenez à calculer, allouer et mesurer le ROI pour booster votre visibilité en ligne en 2026.",
-        "operationId": "budget_seo_mensuel",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/comment-devenir-expert-seo.md": {
-      "get": {
-        "summary": "Comment devenir expert SEO : maîtrisez les fondations et anticipez l'ère générative",
-        "description": "Découvrez les étapes clés pour devenir un expert SEO. Maîtrisez l'audit technique, les backlinks, le SEO programmable et le GEO pour une visibilité optimale.",
-        "operationId": "comment_devenir_expert_seo",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/conseil-seo-quebec.md": {
-      "get": {
-        "summary": "Conseil seo québec: boostez votre visibilité en 2026",
-        "description": "Besoin de conseil seo au québec? Obtenez des stratégies personnalisées pour améliorer votre référencement et attirer plus de clients. Expertise locale garantie!",
-        "operationId": "conseil_seo_quebec",
         "tags": [
           "strategie"
         ],
@@ -1656,262 +1541,9 @@
     },
     "/data/strategie/consultant-seo-montreal.md": {
       "get": {
-        "summary": "Consultant SEO montréal : votre expert en référencement naturel et GEO pour dominer google et l'IA",
-        "description": "Boostez votre visibilité à Montréal avec un consultant SEO et GEO expert. Stratégies hybrides pour le référencement naturel et les moteurs de réponse IA.",
+        "summary": "Consultant seo montréal : l'expert qui transforme votre visibilité en croissance à montréal",
+        "description": "Recherchez-vous un consultant SEO à Montréal ? Expert en référencement naturel et GEO, je booste votre visibilité sur Google et l'IA. Stratégie personnalisée pour Montréal.",
         "operationId": "consultant_seo_montreal",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/cout-acquisition-seo.md": {
-      "get": {
-        "summary": "Coût d'acquisition SEO (CAC) : Guide complet pour un ROI optimal",
-        "description": "Comprendre et optimiser votre coût d'acquisition SEO (CAC SEO). Découvrez les stratégies, les méthodes de calcul et les alternatives pour un ROI maximal.",
-        "operationId": "cout_acquisition_seo",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/devenir-consultant-seo.md": {
-      "get": {
-        "summary": "Devenir Consultant SEO : Guide Complet 2026",
-        "description": "Comment devenir un consultant SEO freelance performant en 2026 ? Compétences, formation, tarifs, et perspectives d'avenir. Le guide ultime pour réussir.",
-        "operationId": "devenir_consultant_seo",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/expert-seo-quebec.md": {
-      "get": {
-        "summary": "Expert SEO Québec : Comment choisir le bon en 2026 ?",
-        "description": "Vous cherchez un expert SEO au Québec ? Découvrez comment choisir le bon consultant pour booster votre visibilité et ROI, avec un focus sur l'IA et le GEO.",
-        "operationId": "expert_seo_quebec",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/expertise-seo-technique.md": {
-      "get": {
-        "summary": "Expertise seo technique : le guide complet pour booster votre référencement",
-        "description": "Maîtrisez l'expertise SEO technique pour un référencement durable. Audit, optimisation, netlinking, et plus encore. Découvrez les meilleures pratiques !",
-        "operationId": "expertise_seo_technique",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/personal-branding-seo.md": {
-      "get": {
-        "summary": "Développez votre personal branding grâce au SEO : le guide complet de l'expert",
-        "description": "Maîtrisez le personal branding SEO pour bâtir une réputation en ligne forte et durable. Attirez les bonnes opportunités et devenez une référence dans votre domaine.",
-        "operationId": "personal_branding_seo",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/refonte-site-seo.md": {
-      "get": {
-        "summary": "Refonte site SEO : le guide ultime pour une migration réussie",
-        "description": "Planifiez et exécutez une refonte de site SEO sans perte de trafic. Découvrez les étapes clés, les erreurs à éviter et les meilleures pratiques.",
-        "operationId": "refonte_site_seo",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/rentabilite-seo.md": {
-      "get": {
-        "summary": "rentabilité seo : comment mesurer et optimiser son impact financier",
-        "description": "Découvrez comment la rentabilité SEO va au-delà du classement. Mesurez le ROI, réduisez le CAC et défendez votre stratégie face à un CFO grâce à nos insights experts.",
-        "operationId": "rentabilite_seo",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/seo-e-commerce.md": {
-      "get": {
-        "summary": "seo e-commerce : booster vos ventes en ligne en 2026",
-        "description": "Optimisez votre SEO e-commerce pour augmenter le trafic, améliorer le classement et booster vos ventes en ligne. Guide complet 2026.",
-        "operationId": "seo_e_commerce",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/seo-international.md": {
-      "get": {
-        "summary": "seo international : guide complet pour une visibilité mondiale",
-        "description": "Découvrez comment le SEO international peut propulser votre site web à l'étranger. Stratégies, outils, et conseils pratiques pour dominer les marchés mondiaux.",
-        "operationId": "seo_international",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/seo-pour-startup.md": {
-      "get": {
-        "summary": "seo pour startup : guide complet pour booster votre visibilité et vos ventes",
-        "description": "Découvrez des stratégies SEO pratiques et low-cost pour votre startup. Augmentez votre visibilité organique, attirez vos premiers clients et surpassez vos concurrents.",
-        "operationId": "seo_pour_startup",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/strategie-seo.md": {
-      "get": {
-        "summary": "Stratégie SEO : Guide complet pour une croissance durable en 2026",
-        "description": "Découvrez les piliers d'une stratégie SEO efficace : audit technique, mots-clés, contenu, netlinking et analyse. Boostez votre visibilité et ROI durablement.",
-        "operationId": "strategie_seo",
         "tags": [
           "strategie"
         ],

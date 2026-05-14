@@ -1,55 +1,49 @@
 {
-  "score_global": 0.7302,
-  "mu": 0.734,
-  "sigma_min": 0.7276,
-  "mmr_score": 0.2353,
-  "kl_divergence": 0.3759,
+  "score_global": 0.757,
+  "mu": 0.7605,
+  "sigma_min": 0.7547,
+  "mmr_score": 0.2357,
+  "kl_divergence": 0.3882,
   "kl_status": "OK",
-  "transition_prob": 0.9191,
+  "transition_prob": 0.9169,
   "axes": {
     "sous_sujet": {
       "dimension": "detail technique specifique precis",
-      "score": 0.7381,
-      "status": "FAIL",
-      "best_chunk": "bon tarif est celui aligné avec vos objectifs d'affaires réels, pas le moins cher du marché. Comment évaluer la qualité ",
-      "chunk_index": 5
+      "score": 0.7604,
+      "status": "OK",
+      "best_chunk": "Consultant SEO Montréal : l'expert qui transforme votre visibilité en croissance à Montréal Sommaire - Consultant SEO Mo",
+      "chunk_index": 0
     },
     "prerequis": {
       "dimension": "connaissances prealables necessaires",
-      "score": 0.7329,
-      "status": "FAIL",
-      "best_chunk": "Consultant SEO Montréal : votre expert en référencement naturel et GEO pour dominer Google et l'IA Sommaire - Qui est un",
+      "score": 0.7641,
+      "status": "OK",
+      "best_chunk": "Consultant SEO Montréal : l'expert qui transforme votre visibilité en croissance à Montréal Sommaire - Consultant SEO Mo",
       "chunk_index": 0
     },
     "cas_limite": {
       "dimension": "exception cas particulier probleme limite",
-      "score": 0.7276,
-      "status": "FAIL",
-      "best_chunk": "Consultant SEO Montréal : votre expert en référencement naturel et GEO pour dominer Google et l'IA Sommaire - Qui est un",
+      "score": 0.7547,
+      "status": "OK",
+      "best_chunk": "Consultant SEO Montréal : l'expert qui transforme votre visibilité en croissance à Montréal Sommaire - Consultant SEO Mo",
       "chunk_index": 0
     },
     "validation": {
       "dimension": "preuve mesure verification resultat chiffre",
-      "score": 0.7396,
-      "status": "FAIL",
-      "best_chunk": "bon tarif est celui aligné avec vos objectifs d'affaires réels, pas le moins cher du marché. Comment évaluer la qualité ",
-      "chunk_index": 5
+      "score": 0.7581,
+      "status": "OK",
+      "best_chunk": "Consultant SEO Montréal : l'expert qui transforme votre visibilité en croissance à Montréal Sommaire - Consultant SEO Mo",
+      "chunk_index": 0
     },
     "entite": {
       "dimension": "organisation outil reference officielle reconnue",
-      "score": 0.7318,
-      "status": "FAIL",
-      "best_chunk": "; être cité dans les AI Overviews devient un KPI à part entière. - Un consultant SEO GEO à Montréal couvre à la fois le ",
-      "chunk_index": 1
+      "score": 0.7654,
+      "status": "OK",
+      "best_chunk": "Consultant SEO Montréal : l'expert qui transforme votre visibilité en croissance à Montréal Sommaire - Consultant SEO Mo",
+      "chunk_index": 0
     }
   },
-  "weak_axes": [
-    "sous_sujet",
-    "prerequis",
-    "cas_limite",
-    "validation",
-    "entite"
-  ],
-  "verdict": "REVIEW_NEEDED",
-  "chunks_count": 9
+  "weak_axes": [],
+  "verdict": "OK",
+  "chunks_count": 8
 }
