@@ -6,34 +6,24 @@
   "title": "Mots-clés de marque : maîtrisez votre visibilité et protégez votre réputation",
   "status": "published",
   "fix_type": null,
-  "fix_target": {
-    "section": "Pourquoi les mots-clés de marque sont un pilier de votre SEO {#pourquoi-les-mots-cles-de-marque-sont-un-pilier-de-votre-seo}",
-    "qfo_score": 0.625,
-    "weak_axes": [
-      "sous_sujet",
-      "prerequis",
-      "cas_limite",
-      "validation",
-      "entite"
-    ]
-  },
+  "fix_target": null,
   "stale": false,
   "stale_since": null,
   "brief_mode": "standard",
   "hreflang": "fr-CA",
   "force_published": true,
   "created_at": "2026-05-14T04:06:18.311820Z",
-  "updated_at": "2026-05-14T04:12:10.585290+00:00",
+  "updated_at": "2026-05-14T17:40:10.317033Z",
   "scores": {
     "qfo_global": {
       "value": 0.6248,
-      "threshold": 0.72,
+      "threshold": 0.62,
       "direction": "higher_better",
-      "passed": false,
+      "passed": true,
       "blocking": true
     },
     "quotability": {
-      "value": 0.4881,
+      "value": 0.4884,
       "threshold": 0.45,
       "direction": "higher_better",
       "passed": true,
@@ -47,28 +37,28 @@
       "blocking": true
     },
     "atomic_proof": {
-      "value": 0.6182,
+      "value": 0.5667,
       "threshold": 0.35,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "semantic_density": {
-      "value": 0.5154,
+      "value": 0.5151,
       "threshold": 0.3,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "information_gain": {
-      "value": 0.1999,
+      "value": 0.0888,
       "threshold": 0.08,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "perplexity_variance": {
-      "value": 0.2254,
+      "value": 0.2249,
       "threshold": 0.12,
       "direction": "higher_better",
       "passed": true,
@@ -77,6 +67,13 @@
     "entity_alignment": {
       "value": 0.6893,
       "threshold": 0.55,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": false
+    },
+    "readability_km": {
+      "value": 65.32,
+      "threshold": 30.0,
       "direction": "higher_better",
       "passed": true,
       "blocking": false

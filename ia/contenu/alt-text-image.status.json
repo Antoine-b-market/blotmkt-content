@@ -6,34 +6,24 @@
   "title": "alt text image : le guide complet pour l'accessibilité, le SEO et la visibilité IA",
   "status": "published",
   "fix_type": null,
-  "fix_target": {
-    "section": "Intégrer l'alt text dans une approche d'entités sémantiques et de Schema Markup {#integrer-lalt-text-dans-une-approche-dentites-semantiques-et-de-schema-markup}",
-    "qfo_score": 0.673,
-    "weak_axes": [
-      "sous_sujet",
-      "prerequis",
-      "cas_limite",
-      "validation",
-      "entite"
-    ]
-  },
+  "fix_target": null,
   "stale": false,
   "stale_since": null,
   "brief_mode": "standard",
   "hreflang": "fr-CA",
   "force_published": true,
   "created_at": "2026-05-14T03:19:21.697451Z",
-  "updated_at": "2026-05-14T03:53:57.384846+00:00",
+  "updated_at": "2026-05-14T17:37:25.212214Z",
   "scores": {
     "qfo_global": {
       "value": 0.673,
-      "threshold": 0.72,
+      "threshold": 0.62,
       "direction": "higher_better",
-      "passed": false,
+      "passed": true,
       "blocking": true
     },
     "quotability": {
-      "value": 0.4579,
+      "value": 0.4581,
       "threshold": 0.45,
       "direction": "higher_better",
       "passed": true,
@@ -54,21 +44,21 @@
       "blocking": true
     },
     "semantic_density": {
-      "value": 0.4392,
+      "value": 0.437,
       "threshold": 0.3,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "information_gain": {
-      "value": 0.1858,
+      "value": 0.1098,
       "threshold": 0.08,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "perplexity_variance": {
-      "value": 0.1881,
+      "value": 0.1879,
       "threshold": 0.12,
       "direction": "higher_better",
       "passed": true,
@@ -77,6 +67,13 @@
     "entity_alignment": {
       "value": 0.68,
       "threshold": 0.55,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": false
+    },
+    "readability_km": {
+      "value": 59.37,
+      "threshold": 30.0,
       "direction": "higher_better",
       "passed": true,
       "blocking": false

@@ -9,61 +9,71 @@
   "fix_target": null,
   "stale": false,
   "stale_since": null,
+  "brief_mode": "standard",
+  "hreflang": "fr-CA",
+  "force_published": false,
   "created_at": "2026-05-06T03:43:53.073330Z",
-  "updated_at": "2026-05-13T05:34:57.581125+00:00",
+  "updated_at": "2026-05-14T17:49:08.441908Z",
   "scores": {
     "qfo_global": {
       "value": 0.7845,
-      "threshold": 0.72,
+      "threshold": 0.62,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "quotability": {
-      "value": 0.51,
+      "value": 0.5084,
       "threshold": 0.45,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "chunk_diversity": {
-      "value": 0.9879,
+      "value": 0.7286,
       "threshold": 0.86,
       "direction": "lower_better",
-      "passed": false,
+      "passed": true,
       "blocking": true
     },
     "atomic_proof": {
-      "value": 0.45,
+      "value": 0.3955,
       "threshold": 0.35,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "semantic_density": {
-      "value": 0.3839,
+      "value": 0.4359,
       "threshold": 0.3,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "information_gain": {
-      "value": 0.1734,
-      "threshold": 0.15,
+      "value": 0.1563,
+      "threshold": 0.08,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "perplexity_variance": {
-      "value": 0.1847,
+      "value": 0.1932,
       "threshold": 0.12,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "entity_alignment": {
-      "value": 0.6439,
+      "value": 0.8135,
       "threshold": 0.55,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": false
+    },
+    "readability_km": {
+      "value": 60.9,
+      "threshold": 30.0,
       "direction": "higher_better",
       "passed": true,
       "blocking": false

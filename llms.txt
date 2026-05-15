@@ -1,7 +1,7 @@
 # BlotMKT — Ressources SEO & Marketing IA
 # Auteur : Antoine Blot (https://antoine-blot.com)
 # ORCID : https://orcid.org/0009-0005-6450-4528
-# Mis a jour : 2026-05-14
+# Mis a jour : 2026-05-15
 # Total pages : 69
 
 ## A propos

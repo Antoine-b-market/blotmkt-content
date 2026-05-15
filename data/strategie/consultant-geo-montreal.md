@@ -15,7 +15,7 @@ author_orcid: "https://orcid.org/0009-0005-6450-4528"
 organization: "BlotMKT"
 organization_url: "https://blotmkt.com"
 date: "2026-05-14 04:35"
-date_modified: "2026-05-14"
+date_modified: "2026-05-15"
 slug: "consultant-geo-montreal"
 url: "https://blotmkt.com/ia/strategie/consultant-geo-montreal.html"
 schema_type: "TechArticle"
@@ -43,7 +43,9 @@ plus de 80 % de toutes les recherches se terminent sans un seul clic
 > - 
 60 % des recherches Google traditionnelles se terminent sans clic (Bain, février 2025).
 
-> - Selon Antoine Blot, un taux de citation IA peut passer de 0 % à 34 % en 90 jours avec une méthodologie GEO structurée.
+> -
+Selon Antoine Blot, un taux de citation IA peut passer de 0 % à 34 % en 90 jours avec une méthodologie GEO structurée.
+
 > - 
 Les visiteurs LLM convertissent à 15,9 % depuis ChatGPT, contre 1,76 % pour la recherche organique classique (Seer Interactive, juin 2025).
 

@@ -6,34 +6,24 @@
   "title": "optimisation de contenu : le guide complet 2026 pour un seo durable",
   "status": "published",
   "fix_type": null,
-  "fix_target": {
-    "section": "Qu'est-ce que l'optimisation de contenu et pourquoi est-ce crucial pour le SEO ? {#definition}",
-    "qfo_score": 0.681,
-    "weak_axes": [
-      "sous_sujet",
-      "prerequis",
-      "cas_limite",
-      "validation",
-      "entite"
-    ]
-  },
+  "fix_target": null,
   "stale": false,
   "stale_since": null,
   "brief_mode": "standard",
   "hreflang": "fr-CA",
   "force_published": true,
   "created_at": "2026-05-14T04:10:20.559871Z",
-  "updated_at": "2026-05-14T04:12:05.637793+00:00",
+  "updated_at": "2026-05-14T17:40:51.241832Z",
   "scores": {
     "qfo_global": {
       "value": 0.6808,
-      "threshold": 0.72,
+      "threshold": 0.62,
       "direction": "higher_better",
-      "passed": false,
+      "passed": true,
       "blocking": true
     },
     "quotability": {
-      "value": 0.4887,
+      "value": 0.4869,
       "threshold": 0.45,
       "direction": "higher_better",
       "passed": true,
@@ -47,21 +37,21 @@
       "blocking": true
     },
     "atomic_proof": {
-      "value": 0.5417,
+      "value": 0.5154,
       "threshold": 0.35,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "semantic_density": {
-      "value": 0.4441,
+      "value": 0.433,
       "threshold": 0.3,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "information_gain": {
-      "value": 0.1325,
+      "value": 0.5018,
       "threshold": 0.08,
       "direction": "higher_better",
       "passed": true,
@@ -77,6 +67,13 @@
     "entity_alignment": {
       "value": 0.8622,
       "threshold": 0.55,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": false
+    },
+    "readability_km": {
+      "value": 61.99,
+      "threshold": 30.0,
       "direction": "higher_better",
       "passed": true,
       "blocking": false

@@ -9,28 +9,31 @@
   "fix_target": null,
   "stale": false,
   "stale_since": null,
+  "brief_mode": "standard",
+  "hreflang": "fr-CA",
+  "force_published": false,
   "created_at": "2026-05-06T03:45:03.676958Z",
-  "updated_at": "2026-05-13T05:34:57.582898+00:00",
+  "updated_at": "2026-05-14T17:50:34.182221Z",
   "scores": {
     "qfo_global": {
       "value": 0.6996,
-      "threshold": 0.72,
+      "threshold": 0.62,
       "direction": "higher_better",
-      "passed": false,
+      "passed": true,
       "blocking": true
     },
     "quotability": {
-      "value": 0.4919,
+      "value": 0.4926,
       "threshold": 0.45,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "chunk_diversity": {
-      "value": 0.9991,
+      "value": 0.8055,
       "threshold": 0.86,
       "direction": "lower_better",
-      "passed": false,
+      "passed": true,
       "blocking": true
     },
     "atomic_proof": {
@@ -41,21 +44,21 @@
       "blocking": true
     },
     "semantic_density": {
-      "value": 0.4222,
+      "value": 0.4121,
       "threshold": 0.3,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "information_gain": {
-      "value": 0.1862,
-      "threshold": 0.15,
+      "value": 1.0,
+      "threshold": 0.08,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "perplexity_variance": {
-      "value": 0.1808,
+      "value": 0.1783,
       "threshold": 0.12,
       "direction": "higher_better",
       "passed": true,
@@ -64,6 +67,13 @@
     "entity_alignment": {
       "value": 0.7944,
       "threshold": 0.55,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": false
+    },
+    "readability_km": {
+      "value": 58.85,
+      "threshold": 30.0,
       "direction": "higher_better",
       "passed": true,
       "blocking": false
