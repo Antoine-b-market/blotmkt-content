@@ -43,7 +43,7 @@ plus de 80 % de toutes les recherches se terminent sans un seul clic
 > - 
 60 % des recherches Google traditionnelles se terminent sans clic (Bain, février 2025).
 
-> -
+> - 
 Selon Antoine Blot, un taux de citation IA peut passer de 0 % à 34 % en 90 jours avec une méthodologie GEO structurée.
 
 > - 
