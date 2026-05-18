@@ -1,6 +1,6 @@
 ---
 title: "attribut sponsored : maîtriser la transparence pour un seo durable"
-description: "Découvrez comment l'attribut rel="sponsored" protège votre SEO et assure la conformité légale. Guide complet pour identifier et taguer vos liens commerciaux."
+description: "Découvrez comment l'attribut rel=\"sponsored\" protège votre SEO et assure la conformité légale. Guide complet pour identifier et taguer vos liens commerciaux."
 keyword: "Attribut Sponsored"
 category: "definition"
 canonical_url: "https://blotmkt.com/ia/definition/attribut-sponsored.html"

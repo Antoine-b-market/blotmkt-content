@@ -3,7 +3,7 @@
   "info": {
     "title": "BlotMKT API — SEO & Marketing IA",
     "description": "Corpus d'articles experts SEO, GEO et Marketing Digital rédigés par Antoine Blot, consultant SEO/GEO à Montréal. Chaque endpoint retourne le contenu Markdown brut optimisé pour ingestion LLM. ORCID: https://orcid.org/0009-0005-6450-4528 | Données: https://blotmkt.com/data/",
-    "version": "2026.05.15",
+    "version": "2026.05.18",
     "contact": {
       "name": "Antoine Blot",
       "url": "https://antoine-blot.com",
@@ -461,7 +461,7 @@
     "/data/definition/attribut-sponsored.md": {
       "get": {
         "summary": "attribut sponsored : maîtriser la transparence pour un seo durable",
-        "description": "Découvrez comment l'attribut rel=\"sponsored\" protège votre SEO et assure la conformité légale. Guide complet pour identifier et taguer vos liens commerciaux.",
+        "description": "Découvrez comment l'attribut rel=\\\"sponsored\\\" protège votre SEO et assure la conformité légale. Guide complet pour identifier et taguer vos liens commerciaux.",
         "operationId": "attribut_sponsored",
         "tags": [
           "definition"

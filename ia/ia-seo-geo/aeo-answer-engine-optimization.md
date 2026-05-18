@@ -127,7 +127,7 @@ L'AEO produit des résultats différents selon les secteurs, mais trois configur
 
 E-commerce : l'AEO intercepte les requêtes comparatives à haute intention d'achat. Un utilisateur qui demande à ChatGPT "quelle est la meilleure chaudière à condensation pour une maison de 150 m²" est en phase de décision. La marque citée dans cette réponse part avec une avance considérable. Les pages de comparaison de produits reformatées en answer-first avec un schema Product structuré sont les candidates idéales.
 
-SaaS : les requêtes conversationnelles du type "quel outil utiliser pour gérer mes campagnes Google Ads" sont courantes dans ChatGPT. Selon Semrush, ChatGPT a cité Semrush comme premier choix pour la recherche de mots-clés et l'[Analyse concurrentielle](https://blotmkt.com/ia/strategie-marketing/analyse-concurrentielle.html) - résultat direct d'une stratégie AEO délibérée.
+SaaS : les requêtes conversationnelles du type "quel outil utiliser pour gérer mes campagnes Google Ads" sont courantes dans ChatGPT. Selon Semrush, ChatGPT a cité Semrush comme premier choix pour la recherche de mots-clés et l'analyse concurrentielle - résultat direct d'une stratégie AEO délibérée.
 
 Médias et contenu éditorial : les sites informationnels bénéficient d'un avantage structurel si leurs articles répondent à des questions précises dès les 50 premiers mots. Sur les projets que je pilote, les clients qui combinent reformatage answer-first, blocs FAQ en schema FAQPage et pages locales voient leur fréquence de citation IA progresser significativement en 60 à 90 jours.
 

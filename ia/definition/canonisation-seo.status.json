@@ -13,7 +13,7 @@
   "hreflang": "fr-CA",
   "force_published": false,
   "created_at": "2026-05-06T03:39:11.732316Z",
-  "updated_at": "2026-05-14T17:43:41.754011Z",
+  "updated_at": "2026-05-15T20:25:20.943980Z",
   "scores": {
     "qfo_global": {
       "value": 0.7661,
@@ -65,7 +65,7 @@
       "blocking": true
     },
     "entity_alignment": {
-      "value": 0.6743,
+      "value": 0.6832,
       "threshold": 0.55,
       "direction": "higher_better",
       "passed": true,
