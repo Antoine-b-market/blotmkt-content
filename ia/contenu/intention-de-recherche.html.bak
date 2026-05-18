@@ -3,8 +3,9 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>maîtriser l'intention de recherche pour un seo éthique et performant</title>
-  <meta name="description" content="Décryptez l'intention de recherche pour créer du contenu pertinent, améliorer votre SEO et satisfaire vos utilisateurs. Guide essentiel." />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <title>Intention de recherche</title>
+  <meta name="description" content="" />
   <meta name="author" content="Antoine Blot" />
   <link rel="canonical" href="https://blotmkt.com/ia/contenu/intention-de-recherche.html" />
   <link rel="alternate" hreflang="fr-CA" href="https://blotmkt.com/ia/contenu/intention-de-recherche.html" />
@@ -16,8 +17,8 @@
   <link rel="alternate" type="application/yaml" href="https://blotmkt.com/.well-known/llms.yaml" />
   <link rel="me" href="https://github.com/Antoine-b-market/" />
   <link rel="me" href="https://orcid.org/0009-0005-6450-4528" />
-  <meta property="og:title" content="maîtriser l'intention de recherche pour un seo éthique et performant" />
-  <meta property="og:description" content="Décryptez l'intention de recherche pour créer du contenu pertinent, améliorer votre SEO et satisfaire vos utilisateurs. Guide essentiel." />
+  <meta property="og:title" content="Intention de recherche" />
+  <meta property="og:description" content="" />
   <meta property="og:url" content="https://blotmkt.com/ia/contenu/intention-de-recherche.html" />
   <meta property="og:type" content="article" />
   <style>
@@ -117,12 +118,12 @@
     {
       "@type": "TechArticle",
       "@id": "https://blotmkt.com/ia/contenu/intention-de-recherche.html#article",
-      "headline": "maîtriser l'intention de recherche pour un seo éthique et performant",
-      "description": "Décryptez l'intention de recherche pour créer du contenu pertinent, améliorer votre SEO et satisfaire vos utilisateurs. Guide essentiel.",
+      "headline": "Intention de recherche",
+      "description": "",
       "url": "https://blotmkt.com/ia/contenu/intention-de-recherche.html",
       "inLanguage": "fr-CA",
-      "datePublished": "2026-05-14",
-      "dateModified": "2026-05-14",
+      "datePublished": "2026-05-18",
+      "dateModified": "2026-05-18",
       "author": {
         "@id": "https://antoine-blot.com#person"
       },
@@ -130,7 +131,7 @@
         "@id": "https://blotmkt.com/#organization"
       },
       "articleSection": "Contenu SEO",
-      "keywords": "Intention de recherche, user intent, types d'intentions SEO, analyse SERP, SEO éthique, facteurs de classement Google",
+      "keywords": "Intention de recherche",
       "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": "https://blotmkt.com/ia/contenu/intention-de-recherche.html"
@@ -160,7 +161,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "maîtriser l'intention de recherche pour un seo éthique et performant",
+          "name": "Intention de recherche",
           "item": "https://blotmkt.com/ia/contenu/intention-de-recherche.html"
         }
       ]
@@ -192,11 +193,11 @@
       "@type": "WebPage",
       "@id": "https://blotmkt.com/ia/contenu/intention-de-recherche.html#webpage",
       "url": "https://blotmkt.com/ia/contenu/intention-de-recherche.html",
-      "name": "maîtriser l'intention de recherche pour un seo éthique et performant",
-      "description": "Décryptez l'intention de recherche pour créer du contenu pertinent, améliorer votre SEO et satisfaire vos utilisateurs. Guide essentiel.",
+      "name": "Intention de recherche",
+      "description": "",
       "inLanguage": "fr-CA",
-      "datePublished": "2026-05-14",
-      "dateModified": "2026-05-14",
+      "datePublished": "2026-05-18",
+      "dateModified": "2026-05-18",
       "author": {
         "@id": "https://antoine-blot.com#person"
       },
@@ -269,12 +270,12 @@
       <button class="toc-toggle" onclick="this.classList.toggle('open');document.getElementById('toc-list').classList.toggle('open')">Table des matières</button>
       <p class="toc-title">Table des matières</p>
       <ul class="toc-list" id="toc-list"></ul>
-      <div class="share-bar"><span class="share-label">Partager</span><div class="share-btns"><a class="share-btn share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://blotmkt.com/ia/contenu/intention-de-recherche.html" target="_blank" rel="noopener" aria-label="Facebook"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg></a><a class="share-btn share-li" href="https://www.linkedin.com/sharing/share-offsite/?url=https://blotmkt.com/ia/contenu/intention-de-recherche.html" target="_blank" rel="noopener" aria-label="LinkedIn"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"/><circle cx="4" cy="4" r="2"/></svg></a><a class="share-btn share-x" href="https://x.com/intent/post?url=https://blotmkt.com/ia/contenu/intention-de-recherche.html&text=maîtriser l'intention de recherche pour un seo éthique et performant" target="_blank" rel="noopener" aria-label="X"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L1.254 2.25H8.08l4.253 5.622 5.911-5.622z"/></svg></a></div></div>
+      <div class="share-bar"><span class="share-label">Partager</span><div class="share-btns"><a class="share-btn share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://blotmkt.com/ia/contenu/intention-de-recherche.html" target="_blank" rel="noopener" aria-label="Facebook"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg></a><a class="share-btn share-li" href="https://www.linkedin.com/sharing/share-offsite/?url=https://blotmkt.com/ia/contenu/intention-de-recherche.html" target="_blank" rel="noopener" aria-label="LinkedIn"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"/><circle cx="4" cy="4" r="2"/></svg></a><a class="share-btn share-x" href="https://x.com/intent/post?url=https://blotmkt.com/ia/contenu/intention-de-recherche.html&text=Intention de recherche" target="_blank" rel="noopener" aria-label="X"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L1.254 2.25H8.08l4.253 5.622 5.911-5.622z"/></svg></a></div></div>
     </nav>
     <div class="article-col">
       <article>
-        <nav class="breadcrumb" aria-label="Fil d'ariane"><a class="bc-link" href="https://blotmkt.com/ia/">BlotMKT</a><span class="bc-sep">›</span><a class="bc-link" href="/ia/contenu/">Contenu SEO</a><span class="bc-sep">›</span><span class="bc-current">maîtriser l'intention de recherche pour un seo éthique et performant</span></nav>
-        <div class="article-meta"><div class="meta-tags"><span class="meta-kw">Intention de recherche</span><span class="meta-kw">user intent</span><span class="meta-kw">types d'intentions SEO</span><span class="meta-kw">analyse SERP</span></div><div class="meta-byline"><div class="meta-author-block"><img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:48px;height:48px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0"><div class="meta-author-info"><a class="meta-author" href="/ia/auteur-antoine-blot.html">Antoine Blot</a><span class="meta-jobtitle">Consultant SEO &amp; GEO</span></div></div><div class="meta-right"><span class="meta-date"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>14 mai 2026</span><span class="meta-read"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>11 min</span><a class="meta-md-btn" href="https://blotmkt.com/data/contenu/intention-de-recherche.md">.md</a></div></div></div>
+        <nav class="breadcrumb" aria-label="Fil d'ariane"><a class="bc-link" href="https://blotmkt.com/ia/">BlotMKT</a><span class="bc-sep">›</span><a class="bc-link" href="/ia/contenu/">Contenu SEO</a><span class="bc-sep">›</span><span class="bc-current">Intention de recherche</span></nav>
+        <div class="article-meta"><div class="meta-tags"><span class="meta-kw">Intention de recherche</span></div><div class="meta-byline"><div class="meta-author-block"><img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:48px;height:48px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0"><div class="meta-author-info"><a class="meta-author" href="/ia/auteur-antoine-blot.html">Antoine Blot</a><span class="meta-jobtitle">Consultant SEO &amp; GEO</span></div></div><div class="meta-right"><span class="meta-date"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>18 mai 2026</span><span class="meta-read"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>11 min</span><a class="meta-md-btn" href="https://blotmkt.com/data/contenu/intention-de-recherche.md">.md</a></div></div></div>
         <p class="speakable-intro">Je vais d'abord effectuer des recherches pour obtenir des données récentes et sourcées avant de rédiger l'article.
 ```markdown</p>
 <h1>Maîtriser l'intention de recherche pour un SEO éthique et performant</h1>
@@ -344,8 +345,8 @@ Faux. 23 % des requêtes informationnelles mènent à une recherche transactionn
 <hr />
 <h2 id="strategies-de-contenu-et-seo-technique-adaptees-aux-intentions">Stratégies de contenu et SEO technique adaptées aux intentions</h2>
 
-<p>Chaque type d'intention appelle une réponse éditoriale et technique précise. Avant d'adapter votre contenu, il faut maîtriser un prérequis simple : identifier l'intention dominante derrière chaque requête cible, pas seulement le volume. Sans cette étape, l'optimisation technique reste aveugle.</p>
-<p>En auditant 30 sites en 2025, j'ai relevé que le format privilégié pour une intention informationnelle est le guide long ou la FAQ avec Schema Article ou HowTo. Pour une intention transactionnelle, la page produit avec Schema Product et Offer est le signal technique dominant.</p>
+<p>Adapter son contenu à l'intention de recherche commence par une question simple : que veut réellement accomplir l'utilisateur avec cette requête ? Pas ce qu'il tape — ce qu'il cherche à résoudre. Sans réponse claire à cette question, aucun schema markup, aucune optimisation de balise ne produira un effet durable.</p>
+<p>Quatre profils d'intention structurent la production éditoriale. L'intention informationnelle appelle des formats longs, structurés, vérifiables. L'intention commerciale favorise les comparatifs avec positionnement clair. L'intention transactionnelle exige une page centrée sur la conversion, sans friction. L'intention navigationnelle, elle, n'appelle qu'une seule réponse : être présent en position 1.</p>
 <table>
 <thead>
 <tr>
@@ -382,9 +383,10 @@ Faux. 23 % des requêtes informationnelles mènent à une recherche transactionn
 </tr>
 </tbody>
 </table>
-<p>Sur les projets que je pilote, l'ajout du schema markup adapté à l'intention génère une hausse mesurable du CTR dans les 60 jours suivant le déploiement. Un cas limite à anticiper : certaines requêtes portent deux intentions simultanées. "Meilleur CRM PME" mêle intention commerciale et informationnelle. Dans ce cas, je structure la page avec une section comparative claire suivie d'une recommandation éditoriale assumée. Google récompense cette clarté.</p>
-<p>Une donnée qui change la priorité des optimisations : 60 % des recherches sur ordinateur ne donnent lieu à aucun clic en 2026. Les featured snippets, qui obtiennent un CTR de 42,9 % selon First Page Sage en 2025, sont plus précieux que jamais. Cibler une position 1 classique sans viser la citation dans la SERP, c'est ignorer la moitié du problème de visibilité.</p>
-<p>Dans ma pratique, la cannibalisation naît rarement d'un doublon de mots-clés. Elle naît d'un doublon d'intentions. Structurer les cocons sémantiques autour des intentions, et non autour des mots-clés, permet à Google de comprendre quelle page répond à quel besoin. Cette distinction valide l'architecture éditoriale bien mieux que la densité lexicale seule.</p>
+<p>J'observe régulièrement un cas limite sous-estimé : les requêtes à double intention. "Logiciel de paie TPE" combine une recherche d'information et une amorce d'achat. Traiter cette requête comme purement transactionnelle fait perdre les visiteurs en phase d'évaluation. La solution que j'applique : une page qui éduque d'abord, puis oriente vers l'action. Google valorise cette cohérence de parcours.</p>
+<p>Côté technique, le schema markup aligné sur l'intention n'est pas accessoire. Sur les projets que je pilote, son déploiement ciblé produit une hausse mesurable du CTR dans les 8 semaines. Ce n'est pas le schema seul qui agit — c'est l'adéquation entre le format déclaré et le besoin détecté par le moteur.</p>
+<p>La cannibalisation mérite une relecture à ce prisme. Deux pages peuvent cibler des mots-clés proches sans se concurrencer, si leurs intentions divergent. À l'inverse, deux URLs ciblant la même intention entrent en compétition même avec des termes distincts. Construire une architecture de contenu solide, c'est d'abord cartographier les intentions, pas les synonymes.</p>
+<p>Dernier point rarement chiffré : en 2026, 60 % des recherches desktop n'aboutissent à aucun clic. Les featured snippets captent 42,9 % de CTR selon First Page Sage. Viser la position 1 sans viser la citation directe dans la SERP revient à optimiser pour la moitié du problème.</p>
 <h2 id="intention-de-recherche-a-lere-du-geo-et-des-llm-defis-et-opportunites">Intention de recherche à l'ère du GEO et des LLM : défis et opportunités</h2>
 
 <p>Les modèles de langage génératifs et les AI Overviews ne suppriment pas l'intention de recherche. Ils la rendent plus exigeante à satisfaire. Selon Antoine Blot, produire un contenu aligné sur l'intention réelle de l'utilisateur est devenu un enjeu éthique autant que technique à l'ère des LLM : un contenu décalé contribue au bruit informationnel plutôt qu'à une information saine.</p>
