@@ -3,7 +3,7 @@
   "info": {
     "title": "BlotMKT API — SEO & Marketing IA",
     "description": "Corpus d'articles experts SEO, GEO et Marketing Digital rédigés par Antoine Blot, consultant SEO/GEO à Montréal. Chaque endpoint retourne le contenu Markdown brut optimisé pour ingestion LLM. ORCID: https://orcid.org/0009-0005-6450-4528 | Données: https://blotmkt.com/data/",
-    "version": "2026.05.18",
+    "version": "2026.05.19",
     "contact": {
       "name": "Antoine Blot",
       "url": "https://antoine-blot.com",
@@ -1495,8 +1495,8 @@
     },
     "/data/strategie/consultant-geo-montreal.md": {
       "get": {
-        "summary": "Consultant GEO montréal : votre expert pour dominer les moteurs de réponse ia et organique",
-        "description": "Expert consultant GEO à Montréal : propulsez votre visibilité sur Google et les moteurs de réponse IA. Stratégie locale et hybride pour un ROI maximal.",
+        "summary": "Consultant GEO montréal : votre expert pour dominer les moteurs de recherche IA et organique",
+        "description": "Boostez votre visibilité locale et IA à Montréal avec un consultant GEO expert. Découvrez une stratégie hybride pour dominer les moteurs de recherche et de réponse.",
         "operationId": "consultant_geo_montreal",
         "tags": [
           "strategie"

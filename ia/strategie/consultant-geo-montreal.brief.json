@@ -1,108 +1,158 @@
 {
   "keyword": "Consultant GEO Montréal",
-  "intention": "transactionnelle",
-  "titre_h1": "consultant GEO montréal : votre expert pour dominer les moteurs de réponse ia et organique",
-  "meta_description": "Expert consultant GEO à Montréal : propulsez votre visibilité sur Google et les moteurs de réponse IA. Stratégie locale et hybride pour un ROI maximal.",
-  "angle_editorial": "Comment un consultant GEO à Montréal fusionne l'expertise locale et les stratégies d'optimisation IA pour garantir la visibilité de votre entreprise dans le paysage du search 2026 et au-delà, face à l'hégémonie des moteurs de réponse.",
+  "intention": "commerciale",
+  "titre_h1": "Consultant GEO Montréal : votre expert pour dominer les moteurs de recherche IA et organique",
+  "meta_description": "Boostez votre visibilité locale et IA à Montréal avec un consultant GEO expert. Découvrez une stratégie hybride pour dominer les moteurs de recherche et de réponse.",
+  "angle_editorial": "Positionner les entreprises de Montréal non seulement sur Google Maps, mais aussi dans les réponses des moteurs de recherche basés sur l'IA, en anticipant l'évolution du Search.",
   "query_fanout": [
-    "Qu'est-ce que le GEO et comment se distingue-t-il du SEO traditionnel ?",
-    "Pourquoi est-il crucial pour une entreprise montréalaise d'investir dans l'optimisation GEO en 2026 ?",
-    "Quels sont les résultats concrets attendus de l'embauche d'un consultant GEO à Montréal ?",
-    "Comment un consultant GEO adapte-t-il sa stratégie aux spécificités du marché bilingue de Montréal ?",
-    "Quel est le processus typique d'une mission avec un expert en GEO à Montréal ?"
+    "Qu'est-ce qu'un consultant GEO et en quoi se distingue-t-il d'un consultant SEO traditionnel à Montréal ?",
+    "Comment un consultant GEO peut-il aider mon entreprise à Montréal à apparaître dans les résultats de l'IA générative ?",
+    "Quels sont les résultats concrets et le retour sur investissement que l'on peut attendre d'une stratégie GEO à Montréal ?",
+    "Quels sont les mythes ou erreurs courantes concernant le GEO marketing à Montréal ?",
+    "Quelle méthodologie un consultant GEO expert utilise-t-il pour optimiser ma présence locale et IA à Montréal ?"
   ],
   "structure": [
     {
-      "h2": "consultant GEO montréal : naviguer l'ère des moteurs de réponse ia",
+      "h2": "Consultant GEO Montréal : l'expert de votre visibilité locale et IA en 2026",
       "type": "definition",
       "points_cles": [
-        "Le GEO (Generative Engine Optimization) : au-delà du référencement classique pour Google et l'IA.",
-        "L'importance cruciale de la structuration de contenu pour être cité par les LLM et SGE.",
-        "Pourquoi Montréal, marché bilingue et concurrentiel, est un terrain d'action clé pour le GEO."
+        "Définition du consultant GEO au-delà du SEO local traditionnel.",
+        "Son rôle face aux moteurs de réponse IA et aux recherches conversatonnelles.",
+        "Importance de l'ancrage local et de l'autorité géographique à Montréal.",
+        "Élaboration de stratégies hybrides combinant référencement naturel et optimisation pour l'IA."
       ]
     },
     {
-      "h2": "pourquoi une expertise GEO est essentielle pour votre entreprise à montréal en 2026 ?",
-      "type": "usage",
-      "points_cles": [
-        "Répondre aux 60% de recherches qui se terminent sans clic en 2026 grâce aux réponses IA.",
-        "Renforcer l'autorité de votre marque comme 'source de vérité' dans les écosystèmes IA.",
-        "Optimiser le parcours client montréalais : du Search à la conversion locale."
-      ]
-    },
-    {
-      "h2": "GEO vs. SEO traditionnel : l'approche hybride pour une visibilité complète",
-      "type": "comparaison",
-      "points_cles": [
-        "Le SEO : stratégie d'optimisation pour les moteurs de recherche traditionnels (clics, positionnement).",
-        "Le GEO : optimisation spécifique pour les moteurs de réponse IA (citations, extraits génératifs).",
-        "La complémentarité indispensable des deux pour une domination totale en 2026."
-      ]
-    },
-    {
-      "h2": "des résultats concrets pour votre présence organique et ia à montréal",
-      "type": "preuve",
-      "points_cles": [
-        "Augmentation significative du trafic organique qualifié et des leads locaux.",
-        "Amélioration de la visibilité sur les SERP traditionnels et les extraits de l'IA.",
-        "Mesure du ROI SEO/GEO via Google Search Console, Google Analytics 4 et KPIs spécifiques."
-      ]
-    },
-    {
-      "h2": "les mythes du SEO et GEO à montréal : démêler le vrai du faux",
-      "type": "objection",
-      "points_cles": [
-        "L'idée que 'le SEO/GEO est trop cher' : un investissement stratégique avec ROI mesurable.",
-        "La perception que 'les résultats sont lents' : une stratégie durable, non une solution miracle.",
-        "La peur que 'l'IA est trop complexe à appréhender' : le rôle simplificateur de l'expert GEO."
-      ]
-    },
-    {
-      "h2": "la méthodologie d'un consultant GEO expert à montréal : une approche structurée",
-      "type": "technique",
-      "points_cles": [
-        "Audit sémantique et technique avancé pour identifier les opportunités IA et locales.",
-        "Optimisation du contenu pour les extraits zéro-clic, les PAA et les citations LLM.",
-        "Développement de stratégies de contenu bilingues pour le marché unique de Montréal."
-      ]
-    },
-    {
-      "h2": "l'avenir du search à montréal : anticiper les évolutions ia avec un consultant GEO",
+      "h2": "Pourquoi l'expertise GEO est vitale pour votre entreprise à Montréal en pleine ère IA",
       "type": "avance",
       "points_cles": [
-        "L'évolution constante des LLM et des moteurs de recherche vers des réponses génératives.",
-        "Utilisation d'outils IA pour la prédiction de mots-clés et le scoring de contenu.",
-        "Préparer votre stratégie pour les futures ruptures technologiques du paysage Search."
+        "Impact des grands modèles linguistiques (LLM) et de l'IA générative sur le Search.",
+        "Le passage des 'clics' aux 'réponses directes' par l'IA.",
+        "Comment le GEO devient un levier pour être cité et recommandé par les intelligences artificielles.",
+        "Anticiper les changements comportementaux des utilisateurs montréalais et les évolutions des algorithmes."
       ]
     },
     {
-      "h2": "questions fréquentes sur le consultant GEO à montréal",
+      "h2": "GEO vs. SEO traditionnel : l'approche hybride pour une domination complète à Montréal",
+      "type": "comparaison",
+      "points_cles": [
+        "Distinction entre l'optimisation GEO (intention locale, entités, cartes) et le SEO général (autorité globale, mots-clés larges).",
+        "Pourquoi les deux approches sont indispensables et complémentaires en 2026.",
+        "Exemples concrets de synergies : une fiche d'établissement optimisée (GEO) renforce le classement de votre site (SEO) et vice-versa.",
+        "Comment combiner les tactiques pour capturer toutes les intentions de recherche à Montréal."
+      ]
+    },
+    {
+      "h2": "Maximisez votre portée locale : cas d'usage concrets d'un consultant GEO à Montréal",
+      "type": "usage",
+      "points_cles": [
+        "Attirer des clients locaux via Google Maps et les recherches 'près de moi'.",
+        "Optimisation avancée des fiches d'établissement (Google Business Profile) pour se démarquer.",
+        "Gestion proactive de l'e-réputation locale et des avis clients.",
+        "Applications spécifiques pour commerces de détail, services professionnels, restaurants et PME à Montréal."
+      ]
+    },
+    {
+      "h2": "Démystifier les mythes du SEO et GEO à Montréal : les réalités de 2026",
+      "type": "objection",
+      "points_cles": [
+        "Le GEO n'est pas 'juste' une inscription dans des annuaires locaux; c'est une stratégie complexe.",
+        "Fin des tactiques obsolètes et pénalisantes (bourrage de mots-clés, fausses adresses).",
+        "L'importance de la qualité, de la pertinence et de la cohérence de l'information locale.",
+        "Pourquoi les solutions 'rapides' ou 'pas chères' ne fonctionnent pas et peuvent nuire à votre présence à Montréal."
+      ]
+    },
+    {
+      "h2": "Des résultats concrets et mesurables pour votre investissement GEO à Montréal",
+      "type": "preuve",
+      "points_cles": [
+        "Indicateurs clés de performance (KPI) spécifiques au GEO : visites en magasin, appels directs, demandes d'itinéraire, clics sur le site local.",
+        "Amélioration tangible du classement dans les packs locaux et sur Google Maps.",
+        "Augmentation des parts de voix et de la visibilité dans les réponses générées par l'IA.",
+        "Démonstration du retour sur investissement (ROI) grâce à une approche data-driven et des rapports clairs."
+      ]
+    },
+    {
+      "h2": "Questions fréquentes sur le consultant GEO à Montréal",
       "type": "faq",
       "points_cles": [
-        "Qu'est-ce que l'optimisation GEO et pourquoi est-ce important à Montréal ?",
-        "Comment vérifier l'efficacité d'une stratégie SEO et GEO à Montréal ?",
-        "Une petite entreprise a-t-elle vraiment besoin d'un consultant GEO à Montréal ?"
+        "En quoi un consultant GEO est-il différent d'un expert SEO classique à Montréal ?",
+        "Comment le GEO marketing prépare-t-il mon entreprise à l'évolution des moteurs de recherche vers l'IA générative ?",
+        "Quels sont les délais et le retour sur investissement typiques d'une stratégie GEO à Montréal ?",
+        "Une petite entreprise locale à Montréal a-t-elle vraiment besoin d'un consultant GEO ?"
       ]
     }
   ],
   "mots_cles_secondaires": [
-    "optimisation GEO montréal",
-    "référencement local IA montréal",
-    "expert GEO québec",
-    "visibilité moteurs de réponse montréal",
-    "stratégie SEO hybride montréal"
+    "référencement local Montréal",
+    "optimisation GEO",
+    "visibilité IA Montréal",
+    "stratégie hybride SEO GEO",
+    "expert GEO Québec",
+    "marketing local Montréal"
   ],
   "questions_paa": [
-    "Qu'est-ce que l'optimisation GEO et pourquoi est-ce important à Montréal ?",
-    "Comment vérifier l'efficacité d'une stratégie SEO et GEO à Montréal ?",
-    "Une petite entreprise a-t-elle besoin d'un consultant GEO à Montréal ?"
+    "En quoi un consultant GEO est-il différent d'un expert SEO classique à Montréal ?",
+    "Comment le GEO marketing prépare-t-il mon entreprise à l'évolution des moteurs de recherche vers l'IA générative ?",
+    "Quels sont les délais et le retour sur investissement typiques d'une stratégie GEO à Montréal ?",
+    "Une petite entreprise locale à Montréal a-t-elle vraiment besoin d'un consultant GEO ?"
   ],
-  "ton": "expert",
+  "ton": "expert|pratique",
   "longueur_cible": 950,
   "category": "strategie",
   "lang": "fr",
   "brief_mode": "standard",
   "hreflang": "fr-CA",
   "slug": "consultant-geo-montreal",
-  "google_context": {}
+  "google_context": {
+    "keyword": "Consultant GEO Montréal",
+    "main_response": "Un consultant GEO (Generative Engine Optimization) à Montréal est un expert en visibilité numérique qui adapte les stratégies de contenu pour que les entreprises apparaissent dans les réponses générées par les intellig",
+    "responses": [
+      {
+        "query": "Consultant GEO Montréal\n\nQuestions associées :\n- Qu'est-ce qu'un consultant GEO et en quoi se distingue-t-il d'un consultant SEO traditionnel à Montréal ?\n- Comment un consultant GEO peut-il aider mon entreprise à Montréal à apparaître dans les résultats de l'IA générative ?\n- Quels sont les résultats concrets et le retour sur investissement que l'on peut attendre d'une stratégie GEO à Montréal ?",
+        "response": "Un consultant GEO (Generative Engine Optimization) à Montréal est un expert en visibilité numérique qui adapte les stratégies de contenu pour que les entreprises apparaissent dans les réponses générées par les intellig"
+      }
+    ],
+    "sources": []
+  },
+  "lexical_guide": {
+    "terms": [
+      "visibilité numérique adapte",
+      "visibilité numérique",
+      "visibilité",
+      "stratégies contenu entreprises",
+      "stratégies contenu",
+      "stratégies",
+      "réponses générées intellig",
+      "réponses générées",
+      "réponses",
+      "optimization montréal expert",
+      "optimization montréal",
+      "optimization",
+      "numérique adapte stratégies",
+      "numérique adapte",
+      "numérique",
+      "montréal expert visibilité",
+      "montréal expert",
+      "montréal",
+      "intellig",
+      "générées intellig",
+      "générées",
+      "geo generative engine",
+      "geo generative",
+      "geo",
+      "generative engine optimization",
+      "generative engine",
+      "generative",
+      "expert visibilité numérique",
+      "expert visibilité",
+      "expert"
+    ],
+    "entities": [
+      "GEO",
+      "Generative Engine Optimization"
+    ],
+    "cooccurrences": [],
+    "corpus_docs": 1
+  }
 }
