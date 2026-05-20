@@ -44,10 +44,10 @@ Près de 60 % des recherches Google se terminent sans clic : votre visibilité d
 > -
 Selon Antoine Blot, la première erreur des entreprises montréalaises est de confier leur référencement sans exiger de plan de contenu bilingue structuré.
 > - 
-Un campaign SEO bien exécuté génère un ROI médian de ~748 %, soit environ 7,48 $ retournés pour chaque dollar investi.
+Une campaigne SEO bien exécuté génère un ROI médian de ~748 %, soit environ 7,48 $ retournés pour chaque dollar investi.
 
 > - 
-Un consultant indépendant travaille directement avec vous, du diagnostic à l'exécution, sans intermédiaire junior.
+Selon Antoine Blot, la première erreur des entreprises montréalaises est de confier leur référencement sans exiger de plan de contenu structuré.
 
 > - 
 Un consultant indépendant travaille directement avec vous, du diagnostic à l'exécution, sans intermédiaire junior.
