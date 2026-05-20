@@ -46,7 +46,7 @@ Selon Antoine Blot, la première erreur des entreprises montréalaises est de co
 > - 
 Un campaign SEO bien exécuté génère un ROI médian de ~748 %, soit environ 7,48 $ retournés pour chaque dollar investi.
 
-> -
+> - 
 Un consultant indépendant travaille directement avec vous, du diagnostic à l'exécution, sans intermédiaire junior.
 
 > - 
