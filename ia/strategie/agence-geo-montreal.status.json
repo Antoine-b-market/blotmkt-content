@@ -13,7 +13,7 @@
   "hreflang": "fr-CA",
   "force_published": false,
   "created_at": "2026-05-14T04:33:04.845786Z",
-  "updated_at": "2026-05-15T20:21:21.280746Z",
+  "updated_at": "2026-05-19T19:16:12.925560Z",
   "scores": {
     "qfo_global": {
       "value": 0.7395,
@@ -23,7 +23,7 @@
       "blocking": true
     },
     "quotability": {
-      "value": 0.4879,
+      "value": 0.488,
       "threshold": 0.45,
       "direction": "higher_better",
       "passed": true,
@@ -44,28 +44,28 @@
       "blocking": true
     },
     "semantic_density": {
-      "value": 0.3545,
+      "value": 0.3554,
       "threshold": 0.3,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "information_gain": {
-      "value": 0.1009,
+      "value": 0.1156,
       "threshold": 0.08,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "perplexity_variance": {
-      "value": 0.1996,
+      "value": 0.1995,
       "threshold": 0.12,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "entity_alignment": {
-      "value": 0.5636,
+      "value": 0.5737,
       "threshold": 0.55,
       "direction": "higher_better",
       "passed": true,
@@ -79,5 +79,6 @@
       "blocking": false
     }
   },
-  "fix_history": []
+  "fix_history": [],
+  "lexical_detail": {}
 }

@@ -13,7 +13,7 @@
   "hreflang": "fr-CA",
   "force_published": false,
   "created_at": "2026-05-14T05:56:23.667468Z",
-  "updated_at": "2026-05-15T20:22:09.214323Z",
+  "updated_at": "2026-05-19T19:17:16.274141Z",
   "scores": {
     "qfo_global": {
       "value": 0.702,
@@ -23,7 +23,7 @@
       "blocking": true
     },
     "quotability": {
-      "value": 0.4922,
+      "value": 0.4923,
       "threshold": 0.45,
       "direction": "higher_better",
       "passed": true,
@@ -65,7 +65,7 @@
       "blocking": true
     },
     "entity_alignment": {
-      "value": 0.5952,
+      "value": 0.5993,
       "threshold": 0.55,
       "direction": "higher_better",
       "passed": true,
@@ -79,5 +79,6 @@
       "blocking": false
     }
   },
-  "fix_history": []
+  "fix_history": [],
+  "lexical_detail": {}
 }
