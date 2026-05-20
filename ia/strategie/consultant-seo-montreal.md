@@ -39,8 +39,6 @@ Près de 60 % de toutes les recherches Google se terminent sans un seul clic ver
 
 <!-- speakable:start -->
 > ## L'essentiel à retenir
-> - 
-Près de 60 % des recherches Google se terminent sans clic : votre visibilité doit aller au-delà du trafic.
 
 > - 
 Près de 60 % des recherches Google se terminent sans clic : votre visibilité doit aller au-delà du trafic.
