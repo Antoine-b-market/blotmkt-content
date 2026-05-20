@@ -50,7 +50,7 @@ Un campaign SEO bien exécuté génère un ROI médian de ~748 %, soit environ 7
 Un consultant indépendant travaille directement avec vous, du diagnostic à l'exécution, sans intermédiaire junior.
 
 > - 
-Le GEO (Generative Engine Optimization) optimise le contenu pour être cité par les moteurs de réponse IA tels que ChatGPT, Perplexity et Google AI Overviews.
+Un consultant indépendant travaille directement avec vous, du diagnostic à l'exécution, sans intermédiaire junior.
 
 > - 
 Le GEO (Generative Engine Optimization) optimise le contenu pour être cité par les moteurs de réponse IA tels que ChatGPT, Perplexity et Google AI Overviews.
