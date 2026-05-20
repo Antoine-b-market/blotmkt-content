@@ -52,6 +52,9 @@ Un consultant indépendant travaille directement avec vous, du diagnostic à l'e
 > - 
 Le GEO (Generative Engine Optimization) optimise le contenu pour être cité par les moteurs de réponse IA tels que ChatGPT, Perplexity et Google AI Overviews.
 
+> - 
+Le GEO (Generative Engine Optimization) optimise le contenu pour être cité par les moteurs de réponse IA tels que ChatGPT, Perplexity et Google AI Overviews.
+
 <!-- speakable:end -->
 
 ---
