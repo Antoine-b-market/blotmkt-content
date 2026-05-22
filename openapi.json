@@ -3,7 +3,7 @@
   "info": {
     "title": "BlotMKT API — SEO & Marketing IA",
     "description": "Corpus d'articles experts SEO, GEO et Marketing Digital rédigés par Antoine Blot, consultant SEO/GEO à Montréal. Chaque endpoint retourne le contenu Markdown brut optimisé pour ingestion LLM. ORCID: https://orcid.org/0009-0005-6450-4528 | Données: https://blotmkt.com/data/",
-    "version": "2026.05.20",
+    "version": "2026.05.22",
     "contact": {
       "name": "Antoine Blot",
       "url": "https://antoine-blot.com",
@@ -1475,6 +1475,29 @@
         "summary": "Agence SEO montréal : consultant expert ou agence, quel choix pour votre visibilité ?",
         "description": "Découvrez comment choisir l'expert SEO à Montréal idéal pour votre entreprise. Agence ou consultant indépendant ? Comparez les approches stratégiques pour un ROI maximal et une visibilité durable.",
         "operationId": "agence_seo_montreal",
+        "tags": [
+          "strategie"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/strategie/agence-seo-quebec.md": {
+      "get": {
+        "summary": "Agence seo québec : votre partenaire stratégique pour une croissance organique durable",
+        "description": "Trouvez la meilleure agence SEO au Québec. Expertise locale, stratégies IA & GEO pour booster votre visibilité et ROI. Contactez BlotMKT.",
+        "operationId": "agence_seo_quebec",
         "tags": [
           "strategie"
         ],

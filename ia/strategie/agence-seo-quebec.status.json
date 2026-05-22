@@ -1,0 +1,108 @@
+{
+  "version": "2",
+  "slug": "agence-seo-quebec",
+  "category": "strategie",
+  "keyword": "Agence SEO Québec",
+  "title": "agence seo québec : votre partenaire stratégique pour une croissance organique durable",
+  "status": "published",
+  "fix_type": null,
+  "fix_target": null,
+  "stale": false,
+  "stale_since": null,
+  "brief_mode": "standard",
+  "hreflang": "fr-CA",
+  "force_published": false,
+  "created_at": "2026-05-22T15:08:32.179624Z",
+  "updated_at": "2026-05-22T15:09:48.564137+00:00",
+  "scores": {
+    "qfo_global": {
+      "value": 0.796,
+      "threshold": 0.62,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "quotability": {
+      "value": 0.5097,
+      "threshold": 0.45,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "chunk_diversity": {
+      "value": 0.7982,
+      "threshold": 0.86,
+      "direction": "lower_better",
+      "passed": true,
+      "blocking": true
+    },
+    "atomic_proof": {
+      "value": 0.6125,
+      "threshold": 0.35,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "semantic_density": {
+      "value": 0.3928,
+      "threshold": 0.3,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "information_gain": {
+      "value": 0.8133,
+      "threshold": 0.08,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "perplexity_variance": {
+      "value": 0.1915,
+      "threshold": 0.12,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": true
+    },
+    "entity_alignment": {
+      "value": 0.7512,
+      "threshold": 0.55,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": false
+    },
+    "readability_km": {
+      "value": 63.53,
+      "threshold": 30.0,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": false
+    },
+    "lexical_coverage": {
+      "value": 0.0833,
+      "threshold": 0.35,
+      "direction": "higher_better",
+      "passed": false,
+      "blocking": false
+    }
+  },
+  "fix_history": [],
+  "lexical_detail": {
+    "covered": [
+      "SEO"
+    ],
+    "missing": [
+      "visibilité ligne entreprises",
+      "spécialisent optimisation visibilité",
+      "seo spécialisent optimisation",
+      "référencement naturel seo",
+      "québec agences seo",
+      "optimisation visibilité ligne",
+      "mettant accent référencement",
+      "ligne entreprises mettant",
+      "entreprises mettant accent",
+      "agences seo spécialisent",
+      "accent référencement naturel"
+    ]
+  }
+}
