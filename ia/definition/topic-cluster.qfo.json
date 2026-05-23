@@ -1,91 +1,49 @@
 {
-  "score_global": 0.7026,
-  "atomic_proof_score": 0.133,
-  "mmr_score": 0.2738,
-  "kl_divergence": 0.3523,
-  "verdict": "REVIEW_NEEDED",
-  "weak_axes": [
-    "sous_sujet",
-    "prerequis",
-    "cas_limite",
-    "validation",
-    "entite"
-  ],
+  "score_global": 0.7925,
+  "mu": 0.7978,
+  "sigma_min": 0.789,
+  "mmr_score": 0.2922,
+  "kl_divergence": 0.3086,
+  "kl_status": "OK",
+  "transition_prob": 0.9146,
   "axes": {
     "sous_sujet": {
       "dimension": "detail technique specifique precis",
-      "score": 0.6997,
-      "status": "FAIL",
-      "best_chunk": "Topic cluster : le guide ultime pour structurer votre contenu SEO Sommaire - Qu'est-ce qu'un topic cluster et pourquoi e",
+      "score": 0.7948,
+      "status": "OK",
+      "best_chunk": "Topic cluster : le guide essentiel pour un SEO 2026 optimisé IA Sommaire - Topic cluster vs. clustering de mots-clés : c",
       "chunk_index": 0
     },
     "prerequis": {
       "dimension": "connaissances prealables necessaires",
-      "score": 0.7129,
-      "status": "FAIL",
-      "best_chunk": "Topic cluster : le guide ultime pour structurer votre contenu SEO Sommaire - Qu'est-ce qu'un topic cluster et pourquoi e",
+      "score": 0.8035,
+      "status": "OK",
+      "best_chunk": "Topic cluster : le guide essentiel pour un SEO 2026 optimisé IA Sommaire - Topic cluster vs. clustering de mots-clés : c",
       "chunk_index": 0
     },
     "cas_limite": {
       "dimension": "exception cas particulier probleme limite",
-      "score": 0.7081,
-      "status": "FAIL",
-      "best_chunk": "pages cluster faut-il pour une page pilier ?\", \"answer\": \"Il n'existe pas de chiffre universel, mais la pratique recomma",
-      "chunk_index": 4
+      "score": 0.789,
+      "status": "OK",
+      "best_chunk": "Topic cluster : le guide essentiel pour un SEO 2026 optimisé IA Sommaire - Topic cluster vs. clustering de mots-clés : c",
+      "chunk_index": 0
     },
     "validation": {
       "dimension": "preuve mesure verification resultat chiffre",
-      "score": 0.7122,
-      "status": "FAIL",
-      "best_chunk": "pages cluster faut-il pour une page pilier ?\", \"answer\": \"Il n'existe pas de chiffre universel, mais la pratique recomma",
-      "chunk_index": 4
+      "score": 0.7975,
+      "status": "OK",
+      "best_chunk": "en 6 à 12 mois. Comment les topic clusters impactent-ils les citations IA et la visibilité sur les moteurs génératifs ? ",
+      "chunk_index": 5
     },
     "entite": {
       "dimension": "organisation outil reference officielle reconnue",
-      "score": 0.7018,
-      "status": "FAIL",
-      "best_chunk": "les LLMs.\"}, {\"question\": \"Quelle est la différence entre un topic cluster et un silo thématique ?\", \"answer\": \"Un silo ",
-      "chunk_index": 5
+      "score": 0.8043,
+      "status": "OK",
+      "best_chunk": "Topic cluster : le guide essentiel pour un SEO 2026 optimisé IA Sommaire - Topic cluster vs. clustering de mots-clés : c",
+      "chunk_index": 0
     }
   },
-  "qfo_source": "local",
-  "generated_at": "2026-05-05 07:57",
-  "quotability": {
-    "score": 0.4609,
-    "top10_mean": 0.6024,
-    "n_passages": 90,
-    "assertiveness": 1.0,
-    "information_density": 0.163,
-    "optimal_length": 0.911,
-    "self_containedness": 0.383,
-    "top_passages": [
-      {
-        "passage": "Au-delà, des outils automatisés comme Semrush Keyword Strategy Builder ou SE Ranking Keyword Groupin",
-        "quotability": 0.7201,
-        "assertiveness": 1.0,
-        "information_density": 1.0,
-        "optimal_length": 1.0,
-        "self_containedness": 0.643,
-        "novelty": 0.137
-      },
-      {
-        "passage": "Topic cluster : le guide ultime pour structurer votre contenu SEO\n\nSommaire\n- Qu'est-ce qu'un topic ",
-        "quotability": 0.6558,
-        "assertiveness": 1.0,
-        "information_density": 0.48,
-        "optimal_length": 1.0,
-        "self_containedness": 0.822,
-        "novelty": 0.196
-      },
-      {
-        "passage": "Sources : Authority Hacker (étude sur 1 million de sites, maillage interne et classements) ; Ahrefs ",
-        "quotability": 0.6416,
-        "assertiveness": 1.0,
-        "information_density": 0.951,
-        "optimal_length": 0.36,
-        "self_containedness": 0.481,
-        "novelty": 0.367
-      }
-    ]
-  }
+  "weak_axes": [],
+  "verdict": "OK",
+  "chunks_count": 8
 }
