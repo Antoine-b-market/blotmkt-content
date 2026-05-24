@@ -4,78 +4,95 @@
   "category": "contenu",
   "keyword": "Call to action",
   "title": "call to action : le guide ultime pour booster vos conversions",
-  "status": "published",
-  "fix_type": null,
-  "fix_target": null,
+  "status": "pending_fix",
+  "fix_type": "fix_qfo",
+  "fix_target": {
+    "section": "Mesurer le ROI de vos CTA : indicateurs clés et tests A/B gagnants {#mesurer-le-roi-de-vos-cta-indicateurs-cles-et-tests-ab-gagnants}",
+    "qfo_score": 0.469,
+    "weak_axes": [
+      "sous_sujet",
+      "prerequis",
+      "cas_limite",
+      "validation",
+      "entite"
+    ]
+  },
   "stale": false,
   "stale_since": null,
   "brief_mode": "standard",
   "hreflang": "fr-CA",
   "force_published": true,
   "created_at": "2026-05-14T03:22:01.270343Z",
-  "updated_at": "2026-05-15T20:38:00.752192Z",
+  "updated_at": "2026-05-24T05:41:31.097366Z",
   "scores": {
     "qfo_global": {
-      "value": 0.4768,
+      "value": 0.4695,
       "threshold": 0.62,
       "direction": "higher_better",
       "passed": false,
       "blocking": true
     },
     "quotability": {
-      "value": 0.4815,
+      "value": 0.4838,
       "threshold": 0.45,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "chunk_diversity": {
-      "value": 0.7868,
+      "value": 0.7145,
       "threshold": 0.86,
       "direction": "lower_better",
       "passed": true,
       "blocking": true
     },
     "atomic_proof": {
-      "value": 0.5179,
+      "value": 0.57,
       "threshold": 0.35,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "semantic_density": {
-      "value": 0.3907,
+      "value": 0.3997,
       "threshold": 0.3,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "information_gain": {
-      "value": 0.0816,
+      "value": 0.1383,
       "threshold": 0.08,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "perplexity_variance": {
-      "value": 0.2203,
+      "value": 0.2543,
       "threshold": 0.12,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "entity_alignment": {
-      "value": 0.5044,
+      "value": 0.5586,
       "threshold": 0.55,
       "direction": "higher_better",
-      "passed": false,
+      "passed": true,
       "blocking": false
     },
     "readability_km": {
-      "value": 69.47,
+      "value": 62.26,
       "threshold": 30.0,
       "direction": "higher_better",
       "passed": true,
+      "blocking": false
+    },
+    "lexical_coverage": {
+      "value": 0.0909,
+      "threshold": 0.35,
+      "direction": "higher_better",
+      "passed": false,
       "blocking": false
     }
   },
@@ -161,5 +178,33 @@
       },
       "result": "partial"
     }
-  ]
+  ],
+  "lexical_detail": {
+    "covered": [
+      "CTA",
+      "PME"
+    ],
+    "missing": [
+      "appels action efficaces",
+      "cta soit performant",
+      "bonnes pratiques appels",
+      "pratiques appels action",
+      "soit performant éléments",
+      "performant éléments considérer",
+      "appel action marketing",
+      "marketing numérique québec",
+      "action marketing numérique",
+      "numérique québec canada",
+      "importance appel action",
+      "devenu prépondérant investissements",
+      "canada particulièrement québec",
+      "connecté étape suivante",
+      "étape suivante parcours",
+      "cta essentiels guider",
+      "utilisent internet quotidiennement",
+      "consommateurs utilisent internet",
+      "essentiels guider public",
+      "suivante parcours client"
+    ]
+  }
 }

@@ -46,8 +46,8 @@
     },
     "/data/contenu/alt-text-image.md": {
       "get": {
-        "summary": "Alt text image : le guide complet pour l'accessibilité, le SEO et la visibilité IA",
-        "description": "Maîtrisez l'alt text pour transformer vos images en atouts SEO, accessibilité et visibilité IA. Découvrez comment optimiser vos descriptions pour Google et les utilisateurs.",
+        "summary": "Alt text image : guide complet pour l'accessibilité, le SEO et la visibilité IA",
+        "description": "Alt text image : guide complet pour l'accessibilité WCAG, le SEO direct et la visibilité IA. Définition, rôle fondamental, erreurs à éviter et rédaction optimisée pour 2026.",
         "operationId": "alt_text_image",
         "tags": [
           "contenu"
@@ -69,8 +69,8 @@
     },
     "/data/contenu/call-to-action.md": {
       "get": {
-        "summary": "Call to action : le guide ultime pour booster vos conversions",
-        "description": "Maîtrisez le call to action (CTA) et transformez vos visiteurs en clients. Exemples concrets, conseils d'experts et stratégies éprouvées pour convertir.",
+        "summary": "Call to action : le guide ultime pour convertir vos prospects",
+        "description": "Maîtrisez le call to action (CTA) pour transformer vos visiteurs en clients. Guide expert avec exemples concrets, stratégies d'optimisation et tests A/B.",
         "operationId": "call_to_action",
         "tags": [
           "contenu"
