@@ -1,9 +1,48 @@
 {
-  "score_global": 0.5853,
-  "atomic_proof_score": 0.1,
-  "mmr_score": 0.1592,
-  "kl_divergence": 0.528,
-  "verdict": "REVIEW_NEEDED",
+  "score_global": 0.6823,
+  "mu": 0.6885,
+  "sigma_min": 0.6782,
+  "mmr_score": 0.2396,
+  "kl_divergence": 0.4045,
+  "kl_status": "OK",
+  "transition_prob": 0.7177,
+  "axes": {
+    "sous_sujet": {
+      "dimension": "detail technique specifique precis",
+      "score": 0.6867,
+      "status": "FAIL",
+      "best_chunk": "Attribut sponsored : guide complet pour une stratégie SEO conforme Sommaire - Attribut sponsored : définition et enjeux ",
+      "chunk_index": 0
+    },
+    "prerequis": {
+      "dimension": "connaissances prealables necessaires",
+      "score": 0.6964,
+      "status": "FAIL",
+      "best_chunk": "Attribut sponsored : guide complet pour une stratégie SEO conforme Sommaire - Attribut sponsored : définition et enjeux ",
+      "chunk_index": 0
+    },
+    "cas_limite": {
+      "dimension": "exception cas particulier probleme limite",
+      "score": 0.694,
+      "status": "FAIL",
+      "best_chunk": "Attribut sponsored : guide complet pour une stratégie SEO conforme Sommaire - Attribut sponsored : définition et enjeux ",
+      "chunk_index": 0
+    },
+    "validation": {
+      "dimension": "preuve mesure verification resultat chiffre",
+      "score": 0.687,
+      "status": "FAIL",
+      "best_chunk": "Attribut sponsored : guide complet pour une stratégie SEO conforme Sommaire - Attribut sponsored : définition et enjeux ",
+      "chunk_index": 0
+    },
+    "entite": {
+      "dimension": "organisation outil reference officielle reconnue",
+      "score": 0.6782,
+      "status": "FAIL",
+      "best_chunk": "Attribut sponsored : guide complet pour une stratégie SEO conforme Sommaire - Attribut sponsored : définition et enjeux ",
+      "chunk_index": 0
+    }
+  },
   "weak_axes": [
     "sous_sujet",
     "prerequis",
@@ -11,81 +50,6 @@
     "validation",
     "entite"
   ],
-  "axes": {
-    "sous_sujet": {
-      "dimension": "detail technique specifique precis",
-      "score": 0.5823,
-      "status": "FAIL",
-      "best_chunk": "Attribut sponsored : maîtriser la transparence pour un SEO durable Sommaire - Attribut sponsored : définition et enjeux ",
-      "chunk_index": 0
-    },
-    "prerequis": {
-      "dimension": "connaissances prealables necessaires",
-      "score": 0.5878,
-      "status": "FAIL",
-      "best_chunk": "Attribut sponsored : maîtriser la transparence pour un SEO durable Sommaire - Attribut sponsored : définition et enjeux ",
-      "chunk_index": 0
-    },
-    "cas_limite": {
-      "dimension": "exception cas particulier probleme limite",
-      "score": 0.5979,
-      "status": "FAIL",
-      "best_chunk": "balise <a : <a href=\"url\" rel=\"sponsored\"texte</a ; vérifiable via Screaming Frog ou la source HTML. - Un produit reçu g",
-      "chunk_index": 1
-    },
-    "validation": {
-      "dimension": "preuve mesure verification resultat chiffre",
-      "score": 0.5961,
-      "status": "FAIL",
-      "best_chunk": "Attribut sponsored : maîtriser la transparence pour un SEO durable Sommaire - Attribut sponsored : définition et enjeux ",
-      "chunk_index": 0
-    },
-    "entite": {
-      "dimension": "organisation outil reference officielle reconnue",
-      "score": 0.5854,
-      "status": "FAIL",
-      "best_chunk": "Attribut sponsored : maîtriser la transparence pour un SEO durable Sommaire - Attribut sponsored : définition et enjeux ",
-      "chunk_index": 0
-    }
-  },
-  "qfo_source": "local",
-  "generated_at": "2026-05-05 06:28",
-  "quotability": {
-    "score": 0.4588,
-    "top10_mean": 0.5793,
-    "n_passages": 72,
-    "assertiveness": 1.0,
-    "information_density": 0.143,
-    "optimal_length": 0.886,
-    "self_containedness": 0.402,
-    "top_passages": [
-      {
-        "passage": "Sources : Google Search Central Documentation (mise à jour décembre 2025), Google Search Central Blo",
-        "quotability": 0.7552,
-        "assertiveness": 1.0,
-        "information_density": 1.0,
-        "optimal_length": 1.0,
-        "self_containedness": 0.627,
-        "novelty": 0.336
-      },
-      {
-        "passage": "Attribut sponsored : maîtriser la transparence pour un SEO durable\n\nSommaire\n- Attribut sponsored : ",
-        "quotability": 0.6165,
-        "assertiveness": 1.0,
-        "information_density": 0.529,
-        "optimal_length": 0.64,
-        "self_containedness": 0.766,
-        "novelty": 0.201
-      },
-      {
-        "passage": "Conformité légale et SEO : la stratégie de double couverture {#conformite}\n\nL'attribut HTML ne rempl",
-        "quotability": 0.5826,
-        "assertiveness": 1.0,
-        "information_density": 0.429,
-        "optimal_length": 1.0,
-        "self_containedness": 0.536,
-        "novelty": 0.323
-      }
-    ]
-  }
+  "verdict": "REVIEW_NEEDED",
+  "chunks_count": 8
 }

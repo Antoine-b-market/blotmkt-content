@@ -1,85 +1,49 @@
 {
-  "score_global": 0.7955,
-  "atomic_proof_score": 0.175,
-  "mmr_score": 0.3464,
-  "kl_divergence": 0.2529,
-  "verdict": "OK",
-  "weak_axes": [],
+  "score_global": 0.8211,
+  "mu": 0.8231,
+  "sigma_min": 0.8197,
+  "mmr_score": 0.3445,
+  "kl_divergence": 0.1836,
+  "kl_status": "OK",
+  "transition_prob": 0.9236,
   "axes": {
     "sous_sujet": {
       "dimension": "detail technique specifique precis",
-      "score": 0.7918,
+      "score": 0.8197,
       "status": "OK",
-      "best_chunk": "Web Design — Trust and Citation Balance 2026 ; Backlinkgrid.com — Trust Flow Explained 2026 ; Dokonline.nl — Trust Flow ",
-      "chunk_index": 4
+      "best_chunk": "Trust flow SEO : comprendre et booster l'autorité de votre site Sommaire - Qu'est-ce que le Trust Flow et pourquoi est-c",
+      "chunk_index": 0
     },
     "prerequis": {
       "dimension": "connaissances prealables necessaires",
-      "score": 0.7982,
+      "score": 0.8291,
       "status": "OK",
-      "best_chunk": "Trust flow seo : comprendre et booster l'autorité de votre site Sommaire - Qu'est-ce que le Trust Flow et pourquoi est-c",
+      "best_chunk": "Trust flow SEO : comprendre et booster l'autorité de votre site Sommaire - Qu'est-ce que le Trust Flow et pourquoi est-c",
       "chunk_index": 0
     },
     "cas_limite": {
       "dimension": "exception cas particulier probleme limite",
-      "score": 0.7976,
+      "score": 0.824,
       "status": "OK",
-      "best_chunk": "Web Design — Trust and Citation Balance 2026 ; Backlinkgrid.com — Trust Flow Explained 2026 ; Dokonline.nl — Trust Flow ",
-      "chunk_index": 4
+      "best_chunk": "Trust flow SEO : comprendre et booster l'autorité de votre site Sommaire - Qu'est-ce que le Trust Flow et pourquoi est-c",
+      "chunk_index": 0
     },
     "validation": {
       "dimension": "preuve mesure verification resultat chiffre",
-      "score": 0.808,
+      "score": 0.8231,
       "status": "OK",
-      "best_chunk": "Web Design — Trust and Citation Balance 2026 ; Backlinkgrid.com — Trust Flow Explained 2026 ; Dokonline.nl — Trust Flow ",
-      "chunk_index": 4
+      "best_chunk": "Trust flow SEO : comprendre et booster l'autorité de votre site Sommaire - Qu'est-ce que le Trust Flow et pourquoi est-c",
+      "chunk_index": 0
     },
     "entite": {
       "dimension": "organisation outil reference officielle reconnue",
-      "score": 0.8094,
+      "score": 0.8198,
       "status": "OK",
-      "best_chunk": "Web Design — Trust and Citation Balance 2026 ; Backlinkgrid.com — Trust Flow Explained 2026 ; Dokonline.nl — Trust Flow ",
-      "chunk_index": 4
+      "best_chunk": "Trust flow SEO : comprendre et booster l'autorité de votre site Sommaire - Qu'est-ce que le Trust Flow et pourquoi est-c",
+      "chunk_index": 0
     }
   },
-  "qfo_source": "local",
-  "generated_at": "2026-05-05 08:06",
-  "quotability": {
-    "score": 0.508,
-    "top10_mean": 0.6543,
-    "n_passages": 67,
-    "assertiveness": 1.0,
-    "information_density": 0.396,
-    "optimal_length": 0.871,
-    "self_containedness": 0.388,
-    "top_passages": [
-      {
-        "passage": "Sources : Majestic SEO (majestic.com, 2026) ; Editorial.link Survey 2026 via SEOmator ; Prateeksha W",
-        "quotability": 0.6965,
-        "assertiveness": 1.0,
-        "information_density": 1.0,
-        "optimal_length": 0.52,
-        "self_containedness": 0.662,
-        "novelty": 0.23
-      },
-      {
-        "passage": "Un Trust Flow supérieur à 50 correspond à un niveau de confiance élevé, comparable à YouTube ou TED ",
-        "quotability": 0.6784,
-        "assertiveness": 1.0,
-        "information_density": 0.947,
-        "optimal_length": 1.0,
-        "self_containedness": 0.446,
-        "novelty": 0.289
-      },
-      {
-        "passage": "Sécurité et Trust Flow : l'importance du Zero Trust SEO {#securite-et-trust-flow-limportance-du-zero",
-        "quotability": 0.6751,
-        "assertiveness": 1.0,
-        "information_density": 0.913,
-        "optimal_length": 1.0,
-        "self_containedness": 0.531,
-        "novelty": 0.188
-      }
-    ]
-  }
+  "weak_axes": [],
+  "verdict": "OK",
+  "chunks_count": 9
 }

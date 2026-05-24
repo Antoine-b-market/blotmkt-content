@@ -4,7 +4,7 @@
   "category": "contenu",
   "keyword": "Intention de recherche",
   "title": "maîtriser l'intention de recherche pour un seo éthique et performant",
-  "status": "published",
+  "status": "pending_review",
   "fix_type": null,
   "fix_target": null,
   "stale": false,
@@ -13,67 +13,74 @@
   "hreflang": "fr-CA",
   "force_published": true,
   "created_at": "2026-05-14T03:29:47.519574Z",
-  "updated_at": "2026-05-18T04:54:27.500563+00:00",
+  "updated_at": "2026-05-24T05:15:36.204753Z",
   "scores": {
     "qfo_global": {
-      "value": 0.5341,
+      "value": 0.685,
       "threshold": 0.62,
       "direction": "higher_better",
-      "passed": false,
+      "passed": true,
       "blocking": true
     },
     "quotability": {
-      "value": 0.4713,
+      "value": 0.4928,
       "threshold": 0.45,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "chunk_diversity": {
-      "value": 0.7489,
+      "value": 0.7275,
       "threshold": 0.86,
       "direction": "lower_better",
       "passed": true,
       "blocking": true
     },
     "atomic_proof": {
-      "value": 0.4458,
+      "value": 0.4864,
       "threshold": 0.35,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "semantic_density": {
-      "value": 0.419,
+      "value": 0.395,
       "threshold": 0.3,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "information_gain": {
-      "value": 0.0949,
+      "value": 0.1391,
       "threshold": 0.08,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "perplexity_variance": {
-      "value": 0.2534,
+      "value": 0.1779,
       "threshold": 0.12,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "entity_alignment": {
-      "value": 0.7529,
+      "value": 0.7432,
       "threshold": 0.55,
       "direction": "higher_better",
       "passed": true,
       "blocking": false
     },
     "readability_km": {
-      "value": 59.91,
+      "value": 63.95,
       "threshold": 30.0,
+      "direction": "higher_better",
+      "passed": true,
+      "blocking": false
+    },
+    "lexical_coverage": {
+      "value": 0.625,
+      "threshold": 0.35,
       "direction": "higher_better",
       "passed": true,
       "blocking": false
@@ -134,5 +141,27 @@
       },
       "result": "fail"
     }
-  ]
+  ],
+  "lexical_detail": {
+    "covered": [
+      "seo",
+      "utilisateur",
+      "cherche",
+      "google",
+      "moteur",
+      "SEO",
+      "SERP",
+      "FAQ",
+      "SEM",
+      "Commercial Investigation"
+    ],
+    "missing": [
+      "intention recherche",
+      "intentions recherche",
+      "exemples requêtes",
+      "types contenu adaptés",
+      "site web",
+      "Koredge Besançon"
+    ]
+  }
 }

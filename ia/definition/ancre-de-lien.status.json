@@ -4,7 +4,7 @@
   "category": "definition",
   "keyword": "Ancre de lien",
   "title": "Ancre de lien : le guide complet pour un SEO performant",
-  "status": "published",
+  "status": "pending_review",
   "fix_type": null,
   "fix_target": null,
   "stale": false,
@@ -13,72 +13,98 @@
   "hreflang": "fr-CA",
   "force_published": false,
   "created_at": "2026-05-06T03:38:10.933968Z",
-  "updated_at": "2026-05-19T19:18:27.285608Z",
+  "updated_at": "2026-05-24T05:15:11.565882Z",
   "scores": {
     "qfo_global": {
-      "value": null,
+      "value": 0.63,
       "threshold": 0.62,
       "direction": "higher_better",
-      "passed": null,
+      "passed": true,
       "blocking": true
     },
     "quotability": {
-      "value": 0.6048,
+      "value": 0.4665,
       "threshold": 0.45,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "chunk_diversity": {
-      "value": 0.0,
+      "value": 0.7242,
       "threshold": 0.86,
       "direction": "lower_better",
       "passed": true,
       "blocking": true
     },
     "atomic_proof": {
-      "value": 0.0,
+      "value": 0.5136,
       "threshold": 0.35,
       "direction": "higher_better",
-      "passed": false,
+      "passed": true,
       "blocking": true
     },
     "semantic_density": {
-      "value": 0.0,
+      "value": 0.3764,
       "threshold": 0.3,
       "direction": "higher_better",
-      "passed": false,
+      "passed": true,
       "blocking": true
     },
     "information_gain": {
-      "value": 0.094,
+      "value": 0.1458,
       "threshold": 0.08,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "perplexity_variance": {
-      "value": 0.0,
+      "value": 0.1898,
       "threshold": 0.12,
       "direction": "higher_better",
-      "passed": false,
+      "passed": true,
       "blocking": true
     },
     "entity_alignment": {
-      "value": 0.8346,
+      "value": 0.8449,
       "threshold": 0.55,
       "direction": "higher_better",
       "passed": true,
       "blocking": false
     },
     "readability_km": {
-      "value": 0.0,
+      "value": 69.85,
       "threshold": 30.0,
       "direction": "higher_better",
-      "passed": false,
+      "passed": true,
+      "blocking": false
+    },
+    "lexical_coverage": {
+      "value": 0.7857,
+      "threshold": 0.35,
+      "direction": "higher_better",
+      "passed": true,
       "blocking": false
     }
   },
   "fix_history": [],
-  "lexical_detail": {}
+  "lexical_detail": {
+    "covered": [
+      "seo",
+      "ancre",
+      "site",
+      "savoir",
+      "pertinente",
+      "contexte",
+      "autorité",
+      "SEO",
+      "URL",
+      "Exact Match",
+      "Partial Match"
+    ],
+    "missing": [
+      "types ancres lien",
+      "interne externe",
+      "page destination"
+    ]
+  }
 }

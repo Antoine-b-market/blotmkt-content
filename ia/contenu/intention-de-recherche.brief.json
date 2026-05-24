@@ -1,92 +1,122 @@
 {
   "keyword": "Intention de recherche",
   "intention": "informationnelle",
-  "titre_h1": "maîtriser l'intention de recherche pour un seo éthique et performant",
-  "meta_description": "Décryptez l'intention de recherche pour créer du contenu pertinent, améliorer votre SEO et satisfaire vos utilisateurs. Guide essentiel.",
-  "angle_editorial": "L'intention de recherche est le signal fondamental qui arbitre la pertinence des contenus. Comprendre et appliquer ce concept rigoureusement est le levier le plus puissant en SEO organique, avec une dimension éthique désormais impérative à l'ère des LLM.",
+  "titre_h1": "l'intention de recherche : la boussole seo à l'ère des llm et du geo",
+  "meta_description": "Comprenez l'intention de recherche, clé du SEO 2026. Découvrez les 4 types, son impact sur les classements et comment les IA génératives redéfinissent son optimisation.",
+  "angle_editorial": "Positionner l'intention de recherche comme le signal fondamental et éthique qui arbitre non seulement le classement dans les SERP traditionnelles, mais aussi la visibilité dans les AI Overviews et les requêtes locales à l'ère des LLM, avec une emphase sur l'actionnabilité et la preuve.",
   "query_fanout": [
-    "Comment l'intention de recherche est-elle mesurée par Google ?",
-    "Quelle est la différence entre intention informationnelle et commerciale ?",
-    "Quels outils utiliser pour analyser l'intention de recherche d'un mot-clé ?",
-    "Comment l'intention de recherche locale (GEO) est-elle unique ?",
-    "Pourquoi l'alignement sur l'intention est-il plus éthique à l'ère des LLM ?"
+    "Comment les LLM réinterprètent-ils et reformulent-ils l'intention de recherche des utilisateurs ?",
+    "Quelle est la spécificité de l'intention de recherche locale et comment l'optimiser ?",
+    "Comment mesurer l'alignement d'un contenu avec l'intention de recherche et son succès en SERP ?",
+    "Au-delà des 4 types classiques, quels sont les signaux d'intention secondaires pour les moteurs de recherche ?"
   ],
   "structure": [
     {
-      "h2": "Qu'est-ce que l'intention de recherche et son rôle central en SEO ?",
+      "h2": "qu'est-ce que l'intention de recherche et pourquoi est-elle cruciale ?",
       "type": "definition",
       "points_cles": [
-        "L'intention est le but réel de l'utilisateur derrière sa requête, le 'pourquoi'.",
-        "Elle est la pierre angulaire de l'algorithme Google, récompensant la pertinence."
+        "L'intention est le 'pourquoi' réel derrière une requête, au-delà des mots-clés saisis.",
+        "C'est le signal fondamental que les moteurs de recherche utilisent pour arbitrer la pertinence des contenus.",
+        "Il existe quatre types : informationnelle, navigationnelle, transactionnelle et commerciale, chacune nécessitant un format éditorial distinct."
       ]
     },
     {
-      "h2": "Distinguer les types d'intentions : informationnelle, transactionnelle, navigationnelle et commerciale",
-      "type": "definition",
+      "h2": "les mécanismes d'évaluation de l'intention par google et les ia",
+      "type": "mecanisme",
       "points_cles": [
-        "Le modèle standard identifie quatre familles d'intentions distinctes.",
-        "Chaque type d'intention appelle un format de contenu et une approche SEO spécifiques."
+        "Google structure son algorithme autour de l'intention, avec le critère 'Needs Met' des Search Quality Raters.",
+        "Les signaux comportementaux comme le CTR élevé et un Dwell Time solide valident la pertinence d'une page.",
+        "Les LLM évaluent la densité de preuves structurées, la réponse directe et une hiérarchie H2/H3/FAQ pour citer un contenu."
       ]
     },
     {
-      "h2": "Méthodologie d'analyse : comment identifier l'intention de vos utilisateurs ?",
-      "type": "usage",
-      "points_cles": [
-        "Analyser les SERP et les mots-clés est crucial pour déceler l'intention dominante.",
-        "Observer les signaux comportementaux (CTR, Dwell Time) valide la pertinence perçue du contenu."
-      ]
-    },
-    {
-      "h2": "L'impact de l'alignement sur l'intention de recherche sur le SEO et le retour sur investissement",
+      "h2": "impact avéré sur le classement et la conversion",
       "type": "preuve",
       "points_cles": [
-        "Un alignement parfait multiplie par 2,5 les chances de classement en première page.",
-        "Il assure un trafic qualifié, convertissant mieux, et un ROI SEO optimal."
+        "L'intention de recherche est l'un des trois principaux facteurs de classement en 2026.",
+        "Les contenus alignés sur l'intention ont 2,5 fois plus de chances d'atteindre la première page (sitereferencement.com, 2025).",
+        "Bien que les requêtes transactionnelles convertissent 15 fois mieux, 23 % des requêtes informationnelles mènent à terme à une action transactionnelle, montrant leur complémentarité."
       ]
     },
     {
-      "h2": "Stratégies de contenu et SEO technique adaptées aux intentions",
-      "type": "usage",
+      "h2": "les pièges d'une intention mal comprise à l'ère des ia",
+      "type": "echec",
       "points_cles": [
-        "Chaque intention dicte des formats éditoriaux et des optimisations techniques précises.",
-        "Structurer le contenu via des cocons sémantiques optimise la réponse aux intentions complexes."
+        "Gartner prédit une baisse de 25 % des recherches traditionnelles d'ici 2026, rendant la citation par les LLM cruciale.",
+        "Un contenu décalé ne sera pas cité par l'IA et contribue au 'bruit informationnel' plutôt qu'à une information saine.",
+        "60 % des recherches se terminent sans clic en 2026 si l'intention n'est pas directement et pleinement satisfaite dans la SERP ou l'AI Overview."
       ]
     },
     {
-      "h2": "Intention de recherche à l'ère du GEO et des LLM : défis et opportunités",
+      "h2": "l'intention de recherche en 2026 : au-delà des mots-clés, l'éthique et les llm",
       "type": "avance",
       "points_cles": [
-        "Les LLM complexifient l'intention, la rendant plus conversationnelle et contextuelle.",
-        "L'intention GEO exige une hyper-localisation et une compréhension fine du besoin immédiat."
+        "Les LLM reformulent l'intention de l'utilisateur avant même la validation de la requête, exigeant une anticipation proactive.",
+        "Satisfaire l'intention est devenu un enjeu éthique : fournir une information saine plutôt qu'un contenu optimisé mais décalé.",
+        "L'intention locale (GEO) est essentielle : 46 % des recherches ont une dimension locale et exigent une réponse immédiate et géographiquement précise."
       ]
     },
     {
-      "h2": "Questions fréquentes",
+      "h2": "questions fréquentes sur l'analyse et l'optimisation de l'intention",
       "type": "faq",
       "points_cles": [
-        "Synthèse des interrogations courantes sur le concept d'intention de recherche.",
-        "Réponses concises pour clarifier les points essentiels."
+        "Quels outils sont efficaces pour analyser l'intention de recherche d'un mot-clé ?",
+        "Comment l'intention de recherche locale (GEO) se distingue-t-elle des autres intentions traditionnelles ?",
+        "Comment les AI Overviews et les IA conversationnelles impactent-elles la manière de satisfaire l'intention de l'utilisateur ?",
+        "Au-delà des types classiques, comment identifier et optimiser pour les intentions mineures et secondaires ?"
       ]
     }
   ],
   "mots_cles_secondaires": [
-    "user intent",
-    "types d'intentions SEO",
-    "analyse SERP",
-    "SEO éthique",
-    "facteurs de classement Google"
+    "types intention de recherche",
+    "seo 2026",
+    "ai overviews",
+    "geo local seo",
+    "analyse intention sémantique",
+    "optimisation intention utilisateur"
   ],
   "questions_paa": [
-    "Quels sont les 4 types d'intention de recherche ?",
+    "Quels sont les 4 types d'intention de recherche et leurs formats associés ?",
     "Comment l'intention de recherche impacte-t-elle le classement SEO ?",
-    "Pourquoi l'intention de recherche est-elle cruciale en 2026 ?"
+    "L'intention de recherche locale (GEO) est-elle différente des autres intentions ?",
+    "Quels outils utiliser pour analyser l'intention de recherche d'un mot-clé ?"
   ],
-  "ton": "expert|pedagogique",
+  "ton": "expert",
   "longueur_cible": 950,
   "category": "contenu",
   "lang": "fr",
   "brief_mode": "standard",
   "hreflang": "fr-CA",
   "slug": "intention-de-recherche",
-  "google_context": {}
+  "google_context": {},
+  "lexical_guide": {
+    "terms": [
+      "seo",
+      "utilisateur",
+      "intention recherche",
+      "intentions recherche",
+      "cherche",
+      "exemples requêtes",
+      "google",
+      "moteur",
+      "types contenu adaptés",
+      "site web"
+    ],
+    "entities": [
+      "SEO",
+      "SERP",
+      "FAQ",
+      "SEM",
+      "Koredge Besançon",
+      "Commercial Investigation"
+    ],
+    "cooccurrences": [
+      "google + moteur",
+      "moteur + site web",
+      "google + site web",
+      "site web + utilisateur",
+      "moteur + utilisateur"
+    ],
+    "corpus_docs": 8
+  }
 }

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blotmkt.com/data/index.md</loc>
-    <lastmod>2026-05-23</lastmod>
+    <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -33,12 +33,6 @@
   <url>
     <loc>https://blotmkt.com/data/contenu/content-gap-seo.md</loc>
     <lastmod>2026-05-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/data/contenu/intention-de-recherche.md</loc>
-    <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -109,25 +103,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://blotmkt.com/data/definition/ancre-de-lien.md</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://blotmkt.com/data/definition/attribut-nofollow.md</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/data/definition/attribut-sponsored.md</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/data/definition/backlink-de-qualite.md</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -182,7 +158,7 @@
   </url>
   <url>
     <loc>https://blotmkt.com/data/definition/maillage-interne-seo.md</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -194,12 +170,6 @@
   </url>
   <url>
     <loc>https://blotmkt.com/data/definition/pagerank-google.md</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/data/definition/profil-de-liens.md</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -217,12 +187,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://blotmkt.com/data/definition/seo-local.md</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://blotmkt.com/data/definition/topic-cluster.md</loc>
     <lastmod>2026-05-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -230,12 +194,6 @@
   </url>
   <url>
     <loc>https://blotmkt.com/data/definition/topic-d-autorite.md</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/data/definition/trust-flow-seo.md</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
