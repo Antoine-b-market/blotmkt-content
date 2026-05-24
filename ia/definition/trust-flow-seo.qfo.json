@@ -1,49 +1,49 @@
 {
-  "score_global": 0.8211,
-  "mu": 0.8231,
-  "sigma_min": 0.8197,
-  "mmr_score": 0.3445,
-  "kl_divergence": 0.1836,
+  "score_global": 0.7804,
+  "mu": 0.7844,
+  "sigma_min": 0.7778,
+  "mmr_score": 0.3249,
+  "kl_divergence": 0.2751,
   "kl_status": "OK",
-  "transition_prob": 0.9236,
+  "transition_prob": 0.927,
   "axes": {
     "sous_sujet": {
       "dimension": "detail technique specifique precis",
-      "score": 0.8197,
+      "score": 0.7778,
       "status": "OK",
       "best_chunk": "Trust flow SEO : comprendre et booster l'autorité de votre site Sommaire - Qu'est-ce que le Trust Flow et pourquoi est-c",
       "chunk_index": 0
     },
     "prerequis": {
       "dimension": "connaissances prealables necessaires",
-      "score": 0.8291,
+      "score": 0.7883,
       "status": "OK",
       "best_chunk": "Trust flow SEO : comprendre et booster l'autorité de votre site Sommaire - Qu'est-ce que le Trust Flow et pourquoi est-c",
       "chunk_index": 0
     },
     "cas_limite": {
       "dimension": "exception cas particulier probleme limite",
-      "score": 0.824,
+      "score": 0.7801,
       "status": "OK",
       "best_chunk": "Trust flow SEO : comprendre et booster l'autorité de votre site Sommaire - Qu'est-ce que le Trust Flow et pourquoi est-c",
       "chunk_index": 0
     },
     "validation": {
       "dimension": "preuve mesure verification resultat chiffre",
-      "score": 0.8231,
+      "score": 0.7822,
       "status": "OK",
-      "best_chunk": "Trust flow SEO : comprendre et booster l'autorité de votre site Sommaire - Qu'est-ce que le Trust Flow et pourquoi est-c",
-      "chunk_index": 0
+      "best_chunk": "des liens depuis des domaines à forte autorité, ce qui améliore le Trust Flow progressivement.\"}, {\"question\": \"Le Trust",
+      "chunk_index": 6
     },
     "entite": {
       "dimension": "organisation outil reference officielle reconnue",
-      "score": 0.8198,
+      "score": 0.7935,
       "status": "OK",
-      "best_chunk": "Trust flow SEO : comprendre et booster l'autorité de votre site Sommaire - Qu'est-ce que le Trust Flow et pourquoi est-c",
-      "chunk_index": 0
+      "best_chunk": "le Trust Flow : 1. Digital PR et citations dans des médias reconnus : obtenir des mentions dans la presse spécialisée, d",
+      "chunk_index": 2
     }
   },
   "weak_axes": [],
   "verdict": "OK",
-  "chunks_count": 9
+  "chunks_count": 8
 }
