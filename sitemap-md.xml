@@ -235,6 +235,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://blotmkt.com/data/definition/trust-flow-seo.md</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blotmkt.com/data/definition/ymyl-seo.md</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
