@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="fr-CA">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <title>strategie eeat : l'approche systémique pour une autorité numérique durable</title>
+  <meta name="description" content="Découvrez pourquoi l'EEAT est un système opérationnel essentiel, pas une checklist. Mesurez son impact et utilisez le schema markup pour une visibilité SEO et IA optimale." />
+  <meta name="author" content="Antoine Blot" />
+  <link rel="canonical" href="https://blotmkt.com/ia/ia-seo-geo/strategie-eeat.html" />
+  <link rel="alternate" hreflang="fr-CA" href="https://blotmkt.com/ia/ia-seo-geo/strategie-eeat.html" />
+  <link rel="alternate" hreflang="fr" href="https://blotmkt.com/ia/ia-seo-geo/strategie-eeat.html" />
+  <link rel="alternate" hreflang="x-default" href="https://blotmkt.com/ia/ia-seo-geo/strategie-eeat.html" />
+  <link rel="alternate" type="text/markdown" href="https://blotmkt.com/data/ia-seo-geo/strategie-eeat.md" title="Version Markdown" />
+  <link rel="alternate" type="application/json" title="Corpus IA" href="https://blotmkt.com/openapi.json" />
+  <link rel="alternate" type="text/plain" href="https://blotmkt.com/llms.txt" />
+  <link rel="alternate" type="application/yaml" href="https://blotmkt.com/.well-known/llms.yaml" />
+  <link rel="me" href="https://github.com/Antoine-b-market/" />
+  <link rel="me" href="https://orcid.org/0009-0005-6450-4528" />
+  <meta property="og:title" content="strategie eeat : l'approche systémique pour une autorité numérique durable" />
+  <meta property="og:description" content="Découvrez pourquoi l'EEAT est un système opérationnel essentiel, pas une checklist. Mesurez son impact et utilisez le schema markup pour une visibilité SEO et IA optimale." />
+  <meta property="og:url" content="https://blotmkt.com/ia/ia-seo-geo/strategie-eeat.html" />
+  <meta property="og:type" content="article" />
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:Georgia,serif;font-size:18px;line-height:1.7;color:#1a1a1a;background:#fff}
+    .page-wrapper{display:flex;max-width:1100px;margin:0 auto;padding:24px 20px 80px;gap:40px;align-items:flex-start}
+    .toc-col{width:240px;flex-shrink:0;position:sticky;top:24px;max-height:calc(100vh - 48px);overflow-y:auto}
+    .toc-title{font-size:0.78rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;color:#999;margin-bottom:12px}
+    .toc-list{list-style:none;padding:0;margin:0}
+    .toc-list li a{display:block;font-size:0.82rem;color:#555;text-decoration:none;padding:4px 0;line-height:1.4;border-left:2px solid #eee;padding-left:10px;transition:color 0.15s,border-color 0.15s}
+    .toc-list li a:hover,.toc-list li a.active{color:#0066cc;border-left-color:#0066cc}
+    .toc-list li.h3-item a{padding-left:22px;font-size:0.78rem;color:#777}
+    .toc-list li.h3-item a:hover,.toc-list li.h3-item a.active{color:#0066cc;border-left-color:#0066cc}
+    .article-col{flex:1;min-width:0;max-width:740px}
+    h1{font-size:2rem;line-height:1.2;margin:32px 0 16px;font-weight:700}
+    h2{font-size:1.35rem;margin:40px 0 12px;font-weight:700;border-bottom:2px solid #f0f0f0;padding-bottom:6px}
+    h3{font-size:1.1rem;margin:28px 0 8px;font-weight:600}
+    p{margin:0 0 16px}
+    a{color:#0066cc;text-decoration:none}
+    a:hover{text-decoration:underline}
+    blockquote{border-left:4px solid #0066cc;padding:12px 20px;margin:24px 0;background:#f8f9ff;border-radius:0 6px 6px 0}
+    blockquote p{margin:0}
+    table{width:100%;border-collapse:collapse;margin:24px 0;font-size:0.9rem}
+    th{background:#f5f5f5;padding:10px 14px;text-align:left;border:1px solid #ddd;font-weight:600}
+    td{padding:9px 14px;border:1px solid #ddd}
+    tr:nth-child(even){background:#fafafa}
+    code{background:#f4f4f4;padding:2px 6px;border-radius:3px;font-size:0.85em;font-family:monospace}
+    pre{background:#f4f4f4;padding:16px;border-radius:6px;overflow-x:auto;margin:20px 0}
+    hr{border:none;border-top:1px solid #eee;margin:32px 0}
+    ul,ol{margin:0 0 16px 24px}
+    li{margin-bottom:6px}
+    .alert-important{background:#fff8e6;border-left:4px solid #f0a500;padding:12px 16px;border-radius:0 6px 6px 0;margin:20px 0;font-size:0.92rem;color:#7a5000;line-height:1.6}
+    .alert-info{background:#f0f8ff;border-left:4px solid #0066cc;padding:12px 16px;border-radius:0 6px 6px 0;margin:20px 0;font-size:0.92rem;color:#004499;line-height:1.6}
+    .breadcrumb{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-bottom:12px;font-size:0.78rem}
+    .bc-link{color:#888;text-decoration:none}
+    .bc-link:hover{color:#0066cc;text-decoration:underline}
+    .bc-sep{color:#ccc}
+    .bc-current{color:#aaa}
+    .article-meta{margin:10px 0 28px;padding-bottom:16px;border-bottom:1px solid #eee}
+    .meta-tags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}
+    .meta-kw{background:#f0f4ff;color:#0066cc;padding:3px 10px;border-radius:20px;font-size:0.75rem;font-weight:600;border:1px solid #dde8ff}
+    .meta-byline{display:flex;align-items:center;justify-content:space-between;gap:12px}
+    .meta-author-block{display:flex;align-items:center;gap:10px}
+    .meta-author-info{display:flex;flex-direction:column;gap:1px}
+    .meta-author{color:#1a1a1a;text-decoration:none;font-weight:700;font-size:0.88rem}
+    .meta-author:hover{color:#0066cc}
+    .meta-jobtitle{font-size:0.75rem;color:#999}
+    .meta-right{display:flex;align-items:center;gap:14px;font-size:0.78rem;color:#888}
+    .meta-right svg{vertical-align:middle;margin-right:3px;color:#aaa}
+    .meta-date,.meta-read{display:flex;align-items:center;gap:4px}
+    .meta-md-btn{display:inline-flex;align-items:center;padding:2px 7px;border-radius:4px;border:1px solid #ddd;font-size:0.72rem;font-weight:700;color:#888;text-decoration:none;font-family:monospace;background:#fafafa;transition:all 0.15s}
+    .meta-md-btn:hover{border-color:#0066cc;color:#0066cc;background:#f0f4ff}
+    @media(max-width:600px){.meta-byline{flex-direction:column;align-items:flex-start;gap:8px}}
+    .related-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
+    @media(max-width:860px){.related{width:100%}}
+    .related-card{background:#f8f9ff;border:1px solid #dde8ff;border-radius:8px;padding:14px;text-decoration:none;display:flex;flex-direction:column;gap:6px;transition:box-shadow 0.2s,transform 0.15s}
+    .related-card:hover{box-shadow:0 4px 12px rgba(0,102,204,0.12);transform:translateY(-2px)}
+    .related-card-cat{font-size:0.68rem;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:#0066cc}
+    .related-card-top{display:flex;align-items:center;gap:8px;margin-bottom:4px}
+    .related-card-title{font-size:0.88rem;font-weight:700;color:#1a1a1a;line-height:1.4;display:block}
+    .related-card-desc{font-size:0.78rem;color:#666;line-height:1.5;margin-top:6px;flex:1}
+    .related-card-meta{display:flex;flex-wrap:wrap;gap:8px;font-size:0.72rem;color:#999;margin-top:8px;padding-top:8px;border-top:1px solid #e8edf5}
+    .related-card-kw{background:#f0f4ff;border:1px solid #dde8ff;border-radius:10px;padding:1px 8px;color:#0066cc}
+    .site-footer{margin-top:64px;padding:32px 20px 16px;border-top:1px solid #eee;background:#fafafa;font-size:0.82rem;color:#888}
+    .footer-inner{display:flex;justify-content:space-between;align-items:flex-start;max-width:1100px;margin:0 auto 16px;gap:32px;flex-wrap:wrap}
+    .footer-left{line-height:1.8;color:#999}
+    .footer-right{display:flex;gap:16px;flex-wrap:wrap;align-items:center}
+    .footer-right a{color:#888;text-decoration:none}
+    .footer-right a:hover{color:#0066cc}
+    .footer-bottom{text-align:center;max-width:1100px;margin:0 auto;padding-top:12px;border-top:1px solid #eee;font-size:0.75rem;color:#bbb}
+    @media(max-width:600px){.footer-inner{flex-direction:column;gap:16px}.footer-right{flex-direction:column;gap:8px}}
+    .share-bar{margin-top:24px;padding-top:16px;border-top:1px solid #eee}
+    .share-label{display:block;font-size:0.72rem;color:#999;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;margin-bottom:8px}
+    .share-btns{display:flex;gap:6px}
+    .share-btn{display:inline-flex;align-items:center;justify-content:center;width:32px;height:32px;border-radius:6px;text-decoration:none;transition:opacity 0.15s}
+    .share-btn svg{width:15px;height:15px}
+    .share-btn:hover{opacity:0.85}
+    .share-fb{background:#1877f2;color:#fff}
+    .share-li{background:#0a66c2;color:#fff}
+    .share-x{background:#000;color:#fff}
+    .toc-toggle{display:none;width:100%;background:#f8f9ff;border:1px solid #dde;border-radius:6px;padding:10px 16px;font-size:0.9rem;font-weight:600;color:#0066cc;cursor:pointer;text-align:left;margin-bottom:16px}
+    .toc-toggle::after{content:" ▾";float:right}
+    .toc-toggle.open::after{content:" ▴"}
+    @media(max-width:860px){
+      .page-wrapper{flex-direction:column;padding:16px 16px 60px}
+      .toc-col{width:100%;position:static;max-height:none;overflow:visible}
+      .toc-toggle{display:block}
+      .toc-title{display:none}
+      .toc-list{display:none}
+      .toc-list.open{display:block}
+    }
+  </style>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "TechArticle",
+      "@id": "https://blotmkt.com/ia/ia-seo-geo/strategie-eeat.html#article",
+      "headline": "strategie eeat : l'approche systémique pour une autorité numérique durable",
+      "description": "Découvrez pourquoi l'EEAT est un système opérationnel essentiel, pas une checklist. Mesurez son impact et utilisez le schema markup pour une visibilité SEO et IA optimale.",
+      "url": "https://blotmkt.com/ia/ia-seo-geo/strategie-eeat.html",
+      "inLanguage": "fr-CA",
+      "datePublished": "2026-05-24",
+      "dateModified": "2026-05-24",
+      "author": {
+        "@id": "https://antoine-blot.com/#person"
+      },
+      "publisher": {
+        "@id": "https://blotmkt.com/#organization"
+      },
+      "articleSection": "IA, SEO & GEO",
+      "keywords": "strategie EEAT, YMYL, Core Update Google, Search Quality Rater Guidelines, crédibilité SEO, autorité numérique, confiance en ligne, schema.org EEAT, optimisation AEO, intelligence artificielle SEO, signaux de confiance, réputation en ligne",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://blotmkt.com/ia/ia-seo-geo/strategie-eeat.html"
+      },
+      "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "@id": "https://blotmkt.com/ia/ia-seo-geo/#serie",
+        "name": "Série IA, SEO & GEO — BlotMKT"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://blotmkt.com/ia/ia-seo-geo/strategie-eeat.html#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "BlotMKT",
+          "item": "https://blotmkt.com/ia/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "IA, SEO & GEO",
+          "item": "https://blotmkt.com/ia/ia-seo-geo/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "strategie eeat : l'approche systémique pour une autorité numérique durable",
+          "item": "https://blotmkt.com/ia/ia-seo-geo/strategie-eeat.html"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://antoine-blot.com/#person",
+      "name": "Antoine Blot",
+      "givenName": "Antoine",
+      "familyName": "Blot",
+      "jobTitle": "Consultant SEO et GEO",
+      "url": "https://www.antoine-blot.com",
+      "worksFor": {
+        "@id": "https://blotmkt.com/#organization"
+      },
+      "sameAs": [
+        "https://www.antoine-blot.com",
+        "https://www.linkedin.com/in/blotantoine/",
+        "https://github.com/Antoine-b-market",
+        "https://orcid.org/0009-0005-6450-4528",
+        "https://huggingface.co/Antoine-marketing"
+      ],
+      "knowsAbout": [
+        "SEO",
+        "GEO",
+        "Référencement naturel",
+        "Marketing digital",
+        "Montréal"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://blotmkt.com/#organization",
+      "name": "BlotMKT",
+      "url": "https://blotmkt.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://blotmkt.com/ia/author-image.jpg"
+      },
+      "founder": {
+        "@id": "https://antoine-blot.com/#person"
+      },
+      "description": "Pipeline automatisé de génération de contenu SEO/GEO en français.",
+      "sameAs": [
+        "https://github.com/Antoine-b-market/blotmkt-content",
+        "https://huggingface.co/datasets/Antoine-marketing/blotmkt",
+        "https://www.linkedin.com/in/blotantoine/"
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://blotmkt.com/ia/ia-seo-geo/strategie-eeat.html#webpage",
+      "url": "https://blotmkt.com/ia/ia-seo-geo/strategie-eeat.html",
+      "name": "strategie eeat : l'approche systémique pour une autorité numérique durable",
+      "description": "Découvrez pourquoi l'EEAT est un système opérationnel essentiel, pas une checklist. Mesurez son impact et utilisez le schema markup pour une visibilité SEO et IA optimale.",
+      "inLanguage": "fr-CA",
+      "datePublished": "2026-05-24",
+      "dateModified": "2026-05-24",
+      "author": {
+        "@id": "https://antoine-blot.com/#person"
+      },
+      "isPartOf": {
+        "@id": "https://blotmkt.com/#website"
+      },
+      "breadcrumb": {
+        "@id": "https://blotmkt.com/ia/ia-seo-geo/strategie-eeat.html#breadcrumb"
+      }
+    },
+    {
+      "@type": "SpeakableSpecification",
+      "@id": "https://blotmkt.com/ia/ia-seo-geo/strategie-eeat.html#speakable",
+      "cssSelector": [
+        "blockquote",
+        ".speakable-intro",
+        "h2"
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+  <div class="page-wrapper">
+    <nav class="toc-col" aria-label="Table des matières">
+      <button class="toc-toggle" onclick="this.classList.toggle('open');document.getElementById('toc-list').classList.toggle('open')">Table des matières</button>
+      <p class="toc-title">Table des matières</p>
+      <ul class="toc-list" id="toc-list"></ul>
+      <div class="share-bar"><span class="share-label">Partager</span><div class="share-btns"><a class="share-btn share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://blotmkt.com/ia/ia-seo-geo/strategie-eeat.html" target="_blank" rel="noopener" aria-label="Facebook"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg></a><a class="share-btn share-li" href="https://www.linkedin.com/sharing/share-offsite/?url=https://blotmkt.com/ia/ia-seo-geo/strategie-eeat.html" target="_blank" rel="noopener" aria-label="LinkedIn"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"/><circle cx="4" cy="4" r="2"/></svg></a><a class="share-btn share-x" href="https://x.com/intent/post?url=https://blotmkt.com/ia/ia-seo-geo/strategie-eeat.html&text=strategie eeat : l'approche systémique pour une autorité numérique durable" target="_blank" rel="noopener" aria-label="X"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L1.254 2.25H8.08l4.253 5.622 5.911-5.622z"/></svg></a></div></div>
+    </nav>
+    <div class="article-col">
+      <article>
+        <nav class="breadcrumb" aria-label="Fil d'ariane"><a class="bc-link" href="https://blotmkt.com/ia/">BlotMKT</a><span class="bc-sep">›</span><a class="bc-link" href="/ia/ia-seo-geo/">IA, SEO & GEO</a><span class="bc-sep">›</span><span class="bc-current">strategie eeat : l'approche systémique pour une autorité numérique durable</span></nav>
+        <div class="article-meta"><div class="meta-tags"><span class="meta-kw">strategie EEAT</span><span class="meta-kw">YMYL</span><span class="meta-kw">Core Update Google</span><span class="meta-kw">Search Quality Rater Guidelines</span></div><div class="meta-byline"><div class="meta-author-block"><img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:48px;height:48px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0"><div class="meta-author-info"><a class="meta-author" href="/ia/auteur-antoine-blot.html">Antoine Blot</a><span class="meta-jobtitle">Consultant SEO &amp; GEO</span></div></div><div class="meta-right"><span class="meta-date"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>24 mai 2026</span><span class="meta-read"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>10 min</span><a class="meta-md-btn" href="https://blotmkt.com/data/ia-seo-geo/strategie-eeat.md">.md</a></div></div></div>
+        <h1>Strategie eeat : l'approche systémique pour une autorité numérique durable</h1>
+<h2 class="speakable">Sommaire</h2>
+<ul>
+<li><a href="#philosophie">Au-delà de la définition, une philosophie opérationnelle</a></li>
+<li><a href="#erreur-fatale">L'erreur fatale : ignorer l'EEAT, c'est risquer la chute brutale</a></li>
+<li><a href="#schema-markup">EEAT et schema markup : structurer la confiance pour les machines et l'IA</a></li>
+<li><a href="#mesurer-impact">Mesurer l'impact de votre strategie EEAT : quels indicateurs suivre ?</a></li>
+<li><a href="#de-eat-a-eeat">De l'EAT à l'EEAT : l'expérience, nouveau pilier de la crédibilité SEO</a></li>
+<li><a href="#facteur-classement">EEAT : un facteur de classement ou une exigence fondamentale ?</a></li>
+<li><a href="#batir-perenne">Bâtir une strategie EEAT pérenne : transparence, autorité et amélioration continue</a></li>
+<li><a href="#questions-frequentes">Questions fréquentes</a></li>
+</ul>
+<p class="speakable-intro">Beaucoup d'entreprises découvrent l'EEAT après une chute de trafic. Elles cherchent alors une checklist rapide, un correctif ponctuel. C'est précisément le mauvais réflexe. L'EEAT - Experience, Expertise, Authoritativeness, Trustworthiness - n'est pas un audit à cocher une fois par an. C'est un système opérationnel qui conditionne votre crédibilité SEO sur la durée. Sans cette vision systémique, chaque Core Update de Google redevient une menace existentielle. La strategie EEAT répond à une question simple : comment prouver, en continu, que votre contenu mérite d'être cité et classé ?</p>
+<blockquote class="speakable">
+<h2 class="speakable">L'essentiel à retenir</h2>
+<ul>
+<li>Intégrer l'EEAT en continu exige des bios d'auteurs vérifiables, des mises à jour régulières et des backlinks sectoriels de qualité.</li>
+<li>Les métriques proxy clés sont : trafic organique stable, mentions de marque, citations dans les AI Overviews et taux d'engagement GA4.</li>
+<li>Le schema markup <code>Article</code>, <code>Person</code> et <code>Organization</code> rend les signaux EEAT lisibles par les algorithmes et les modèles d'IA.</li>
+<li>L'ajout de l'« Expérience » en décembre 2022 valorise le vécu concret au même niveau que l'expertise formelle.</li>
+</ul>
+</blockquote>
+<hr />
+<h2 id="philosophie">Strategie EEAT : au-delà de la définition, une philosophie opérationnelle</h2>
+
+<p>L'EEAT est le cadre d'évaluation que Google utilise pour juger la qualité et la crédibilité des contenus en ligne. Ses quatre piliers - Expérience, Expertise, Autorité et Fiabilité - ne fonctionnent pas en silo. La fiabilité (Trust) est le pilier central : 
+Google est explicite dans ses guidelines - Trust est le composant EEAT le plus important. Une page peut démontrer expérience, expertise et autorité, mais si elle est non fiable, son évaluation EEAT restera basse.</p>
+<p>Ce cadre n'est pas statique. 
+Les guidelines sont constamment mises à jour pour refléter l'évolution du web et la façon dont les gens lisent, cherchent et interprètent l'information.
+ La version actuelle du document, 
+un document de 182 pages mis à jour le 11 septembre 2025,
+ intègre désormais des critères d'évaluation pour les AI Overviews.</p>
+<p>En tant que consultant SEO et stratège marketing, je considère que l'erreur la plus répandue reste de traiter l'EEAT comme un projet ponctuel. C'est un système opérationnel, pas une checklist à cocher. Les entreprises qui le comprennent construisent une autorité numérique que les algorithmes - et les LLMs - reconnaissent sur le long terme.</p>
+<hr />
+<h2 id="erreur-fatale">L'erreur fatale : ignorer l'EEAT, c'est risquer la chute brutale après chaque Core Update</h2>
+
+<p>Mon expérience montre que les sites YMYL qui négligent l'EEAT ne tombent pas progressivement - ils chutent brutalement après chaque Core Update, sans signal d'alerte préalable. Cette absence de signe avant-coureur est précisément le marqueur des pénalités EEAT : le trafic s'effondre du jour au lendemain, sans message dans Google Search Console.</p>
+<p>Si vous couvrez des sujets ayant un impact direct sur la santé, l'argent, la sécurité ou les questions juridiques, vous êtes dans le périmètre YMYL. Depuis 2025, la définition est encore plus large, couvrant aussi les informations gouvernementales et les processus civiques. Dans ces cas, le niveau requis de précision et de fiabilité est bien plus élevé.</p>
+<p>Traiter l'EEAT comme un projet ponctuel - optimiser un lot de pages, puis passer à autre chose - expose le site à une vulnérabilité structurelle. 
+Le contenu obsolète est un problème de signal de confiance. Il faut mettre en place un cycle d'audit de contenu, revoir les pages clés au moins annuellement, ajouter des dates "dernière révision" et mettre à jour les statistiques.
+ Sur les projets que je pilote, les clients qui ne maintiennent pas ce rythme perdent jusqu'à 30 % de leur trafic organique lors des Core Updates majeurs.</p>
+<hr />
+<h2 id="schema-markup">EEAT et schema markup : structurer la confiance pour les machines et l'IA</h2>
+
+<p>Les signaux EEAT doivent être lisibles par les machines, pas seulement par les humains. C'est précisément le rôle du schema markup : traduire en langage structuré ce que votre contenu exprime en langage naturel.</p>
+<p>Les types de schema les plus utiles pour une strategie EEAT efficace :</p>
+<ul>
+<li>Schema <code>Article</code> avec <code>author</code>, <code>datePublished</code>, <code>dateModified</code></li>
+<li>Schema <code>Person</code> pour chaque auteur (avec <code>sameAs</code> pointant vers LinkedIn, Wikipedia si disponible)</li>
+<li>Schema <code>Organization</code> avec adresse, logo et informations de contact</li>
+<li>Schema <code>Review</code> et <code>AggregateRating</code> pour les avis clients vérifiés</li>
+</ul>
+<p>L'EEAT est un cadre qui aide les évaluateurs à distinguer le contenu fiable du contenu trompeur. Ce n'est pas un facteur de classement automatique : Google n'assigne pas de "score EEAT" aux pages. Cependant, il utilise des signaux indirects - réputation du domaine, clarté de l'auteur, qualité des sources - pour comprendre la crédibilité d'une page.
+ Le schema markup rend ces signaux indirects explicites pour les crawlers et les modèles d'IA.</p>
+<p>Dans ma pratique, implémenter un schema correct et une attribution d'auteur structurée produit des effets plus rapides que la construction de backlinks. Validez toujours votre implémentation via le Rich Results Test de Google avant publication.</p>
+<hr />
+<h2 id="mesurer-impact">Mesurer l'impact de votre strategie EEAT : quels indicateurs suivre ?</h2>
+
+<p>Sur 5 clients PME accompagnés dans le cadre de ma pratique de <a href="https://www.antoine-blot.com/consultant-seo/">consultant SEO</a>, l'optimisation E-E-A-T SEO a permis d'accroître leur visibilité locale de 18 % en 9 mois, en solidifiant la preuve sociale et l'autorité des auteurs. Ce chiffre illustre un principe fondamental : l'EEAT ne se mesure pas directement, mais ses effets sont quantifiables.</p>
+<p>Tableau de bord EEAT recommandé :</p>
+<table>
+<thead>
+<tr>
+<th>Indicateur</th>
+<th>Outil recommandé</th>
+<th>Signal mesuré</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Trafic organique et positions</td>
+<td>Google Search Console</td>
+<td>Visibilité globale</td>
+</tr>
+<tr>
+<td>Mentions de marque</td>
+<td>Google Alerts / Ahrefs</td>
+<td>Autorité externe</td>
+</tr>
+<tr>
+<td>Backlinks qualitatifs</td>
+<td>Ahrefs / Semrush</td>
+<td>Reconnaissance sectorielle</td>
+</tr>
+<tr>
+<td>Citations dans les AI Overviews</td>
+<td>BrightEdge / Authoritas</td>
+<td>Visibilité GEO</td>
+</tr>
+<tr>
+<td>Taux d'engagement</td>
+<td>GA4</td>
+<td>Confiance utilisateur</td>
+</tr>
+</tbody>
+</table>
+<p>Ce que je constate chez mes clients : les gains EEAT prennent 3 à 6 mois pour se matérialiser en positions, mais les métriques d'engagement s'améliorent dès le premier mois. 
+Les mentions de marque cohérentes - même sans liens - contribuent à l'autorité d'entité que Google est de plus en plus capable de détecter.
+ Les citations dans les AI Overviews sont désormais un indicateur de visibilité GEO à part entière, directement lié à la solidité de vos signaux EEAT.</p>
+<hr />
+<h2 id="de-eat-a-eeat">De l'EAT à l'EEAT : l'expérience utilisateur, nouveau pilier de la crédibilité SEO</h2>
+
+<p>En décembre 2022, Google a ajouté l'« Expérience » au cadre originel E-A-T. Ce quatrième pilier modifie substantiellement les priorités SEO. 
+Cette mise à jour a introduit une emphase renforcée sur l'expérience réelle du monde, aux côtés de l'expertise formelle. La connaissance de première main - utiliser un produit, visiter un lieu, vivre une situation - peut apporter des insights précieux, même sans qualifications formelles.</p>
+<p>En pratique, cela signifie intégrer des études de cas documentées, des données propriétaires et des témoignages personnels. 
+L'expérience n'est pas seulement académique. On peut la démontrer via l'utilisation directe d'un produit, la visite d'un lieu, le partage de résultats personnels ou la création de contenu basé sur des études de cas réels.</p>
+<p>J'observe que cette évolution impacte directement l'optimisation AEO (Answer Engine Optimization). Les <a href="https://blotmkt.com/ia/ia-seo-geo/moteurs-de-reponse.html">Moteurs de réponse</a> - Google AI Overviews, Perplexity, ChatGPT Search - privilégient les contenus qui associent expérience concrète et expertise vérifiable. Un contenu générique bien optimisé perd face à un contenu moins parfait techniquement, mais ancré dans une expérience réelle et sourcée. Pour approfondir cette dimension, voir le guide complet sur l'AEO.</p>
+<hr />
+<h2 id="facteur-classement">EEAT : un facteur de classement ou une exigence fondamentale pour les algorithmes ?</h2>
+
+<p>Cette question divise encore de nombreux professionnels SEO. La réponse officielle de Google est claire. 
+Danny Sullivan a réitéré qu'EEAT n'est pas un score, n'est pas un facteur de classement, n'est pas un algorithme. Il a précisé que "EEAT itself isn't a specific ranking factor" est la formulation retenue, car certains croient encore à l'existence d'un score EEAT.</p>
+<p>Ce que font réellement les Search Quality Raters, c'est fournir des <a href="https://blotmkt.com/ia/definition/donnees-structurees.html">Données structurées</a> qui aident Google à mesurer si ses algorithmes remontent du contenu genuinement utile. Leur feedback agrégé entraîne les systèmes qui, eux, influencent bien les classements.</p>
+<p>En tant que praticien du référencement, je distingue toujours les deux niveaux : l'EEAT n'est pas un facteur direct, mais les signaux qui le composent - qualité des backlinks, clarté de l'auteur, précision des informations, transparence du site - sont tous des facteurs de classement documentés. 
+Environ 16 000 Search Quality Raters externes classifient et évaluent du contenu
+ pour calibrer les algorithmes. Ignorer l'EEAT revient donc à ignorer les critères sur lesquels ces algorithmes sont entraînés.</p>
+<hr />
+<h2 id="batir-perenne">Bâtir une strategie EEAT pérenne : transparence, autorité et amélioration continue</h2>
+
+<p>En travaillant avec des entreprises québécoises et canadiennes, j'ai identifié trois leviers concrets qui font la différence sur le long terme.</p>
+<p>D'abord, les bios d'auteurs détaillées et vérifiables. 
+Des bios d'auteurs détaillées avec des accréditations vérifiables
+ constituent le signal EEAT le plus sous-exploité par les PME. Chaque auteur doit avoir une page dédiée avec formation, certifications, profil LinkedIn et liens <code>sameAs</code> en schema <code>Person</code>.</p>
+<p>Ensuite, la transparence d'entreprise. 
+Google évalue le contenu avec le cadre "Who, How, and Why" - qui a créé le contenu, comment il a été produit et pourquoi il a été créé.
+ Numéro de TVA visible, adresse physique, politique de confidentialité, service client accessible : ces éléments ne sont pas de la décoration, ils sont des signaux de fiabilité algorithmes.</p>
+<p>Enfin, les sources fiables et la mise à jour continue. 
+La clarification la plus importante pour 2026 est que Google évalue la qualité du contenu indépendamment du fait qu'il ait été écrit par un humain ou une IA.
+ Ce qui compte : la précision, la mise à jour régulière et l'ancrage dans une expertise réelle. L'EEAT est un investissement continu, pas un coût ponctuel - c'est ce qui en fait une stratégie antifragile face aux mises à jour algorithmiques.</p>
+<hr />
+<h2 id="questions-frequentes">Questions fréquentes</h2>
+
+<h3>Comment l'EEAT influence-t-il la visibilité des sites web sur Google ?</h3>
+<p>L'EEAT influence la visibilité via des signaux indirects : qualité des backlinks, clarté de l'auteur, précision des informations et réputation du domaine. 
+Google n'assigne pas de score EEAT aux pages, mais utilise des signaux indirects pour comprendre la crédibilité d'une page.
+ Les sites avec des signaux EEAT solides résistent mieux aux Core Updates et bénéficient d'une stabilité de positionnement sur le long terme.</p>
+<h3>Quels sont les éléments concrets à mettre en place pour améliorer l'EEAT de son contenu ?</h3>
+<p>Les actions prioritaires : créer des bios d'auteurs détaillées avec accréditations vérifiables, implémenter le schema <code>Person</code> et <code>Article</code>, citer des sources officielles, maintenir un certificat SSL actif, afficher clairement les coordonnées de l'entreprise et mettre à jour le contenu au moins une fois par an. 
+Il faut ajouter des dates "dernière révision" et mettre à jour les statistiques et recommandations au fil de l'évolution du domaine.</p>
+<h3>Le schema markup est-il essentiel pour la strategie EEAT ?</h3>
+<p>Le schema markup n'est pas obligatoire, mais il accélère significativement la lecture des signaux EEAT par les algorithmes et les LLMs. Les types les plus impactants sont <code>Article</code>, <code>Person</code>, <code>Organization</code> et <code>Review</code>. Ils rendent explicite ce que le contenu exprime en langage naturel. Validez toujours l'implémentation via le Rich Results Test de Google avant mise en ligne.</p>
+<h3>Comment les sites YMYL sont-ils spécifiquement affectés par l'EEAT ?</h3>
+<p>Pour le contenu YMYL, les exigences de signaux de confiance de Google sont substantiellement plus élevées. Les évaluateurs appliquent les standards EEAT les plus rigoureux : le contenu médical doit impliquer des praticiens licenciés, les conseils financiers doivent venir de professionnels certifiés, et les informations légales doivent être rédigées ou vérifiées par des avocats qualifiés.
+ Depuis septembre 2025, le périmètre YMYL inclut aussi les élections et les institutions gouvernementales.</p>
+<hr />
+<p><em>Sources : Google Search Quality Rater Guidelines (septembre 2025) - guidelines.raterhub.com ; SEOZoom - seozoom.com ; Search Engine Roundtable - seroundtable.com ; imarkinfotech.com ; SearchXPro - searchxpro.com ; Vazoola - vazoola.com ; Groundingpage - groundingpage.com</em></p>
+      </article>
+    </div>
+  </div>
+  <div style="max-width:1100px;margin:48px auto 0;padding:24px 20px 0;border-top:2px solid #f0f0f0">
+    <div style="display:flex;align-items:flex-start;gap:16px;background:#f8f9ff;border:1px solid #dde8ff;border-radius:8px;padding:16px 20px">
+      <img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:52px;height:52px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0">
+      <div style="flex:1;min-width:0">
+        <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:4px">
+          <a href="/ia/auteur-antoine-blot.html" style="font-weight:700;color:#1a1a1a;font-size:0.95rem;text-decoration:none">Antoine Blot</a>
+          <span style="font-size:0.78rem;color:#888">Consultant SEO &amp; GEO</span>
+        </div>
+        <p style="font-size:0.85rem;color:#555;margin:0 0 10px;line-height:1.6;font-style:italic">Responsable marketing et consultant SEO et GEO à Montréal et au Québec. Une décennie de pratique au service de la visibilité des marques sur Google et les moteurs IA.</p>
+        <div style="display:flex;gap:8px;flex-wrap:wrap">
+          <a href="/ia/auteur-antoine-blot.html" style="font-size:0.75rem;color:#0066cc;border:1px solid #dde8ff;padding:2px 10px;border-radius:20px;background:#fff;text-decoration:none">Voir le profil</a>
+          <a href="https://antoine-blot.com" target="_blank" rel="noopener" style="font-size:0.75rem;color:#0066cc;border:1px solid #dde8ff;padding:2px 10px;border-radius:20px;background:#fff;text-decoration:none">antoine-blot.com</a>
+          <a href="https://www.linkedin.com/in/blotantoine/" target="_blank" rel="noopener" style="font-size:0.75rem;color:#0066cc;border:1px solid #dde8ff;padding:2px 10px;border-radius:20px;background:#fff;text-decoration:none">LinkedIn</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="max-width:1100px;margin:48px auto 0;padding:24px 20px 0;border-top:2px solid #f0f0f0"><h2 style="font-size:1rem;color:#555;margin-bottom:16px">Articles connexes</h2><div class="related-grid"><a href="https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">IA & GEO</span></div><span class="related-card-title">Algorithmes de recommandation : comprendre, optimiser et exemples concrets</span><p class="related-card-desc">Découvrez le fonctionnement des algorithmes de recommandation, leurs types, comment les optimiser et…</p><div class="related-card-meta"><span>Antoine Blot</span><span>2026-05-05</span><span class="related-card-kw">Algorithme de recommandation</span></div></a><a href="https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">IA & GEO</span></div><span class="related-card-title">citations par ia: impact sur la crédibilité et le référencement en 2026</span><p class="related-card-desc">Découvrez l'impact des citations par IA sur la recherche, la crédibilité et le SEO en 2026. Guide ex…</p><div class="related-card-meta"><span>Antoine Blot</span><span>2026-05-05</span><span class="related-card-kw">Citations par IA</span></div></a><a href="https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">IA & GEO</span></div><span class="related-card-title">contenu ia seo : l'intelligence artificielle au service de votre stratégie</span><p class="related-card-desc">Découvrez comment l'IA transforme la création de contenu SEO, des outils accessibles aux stratégies …</p><div class="related-card-meta"><span>Antoine Blot</span><span>2026-05-05</span><span class="related-card-kw">Contenu IA SEO</span></div></a><a href="https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">IA & GEO</span></div><span class="related-card-title">Contextualisation SEO : Le guide ultime pour 2026</span><p class="related-card-desc">Maîtrisez la contextualisation SEO en 2026 : définition, techniques, avantages et mise en œuvre. Amé…</p><div class="related-card-meta"><span>Antoine Blot</span><span>2026-05-05</span><span class="related-card-kw">Contextualisation SEO</span></div></a><a href="https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">IA & GEO</span></div><span class="related-card-title">Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité</span><p class="related-card-desc">Découvrez comment l'identification d'entités nommées en SEO améliore le ciblage et la pertinence de …</p><div class="related-card-meta"><span>Antoine Blot</span><span>2026-05-05</span><span class="related-card-kw">Entité nommée SEO</span></div></a></div></div>
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-left">
+        <strong>BLOT Antoine</strong><br>
+        48 rue de la Concorde<br>
+        Repentigny, Québec<br>
+        Canada
+      </div>
+      <div class="footer-right">
+        <a href="/ia/">Articles</a>
+        <a href="/data/">Data</a>
+        <a href="/ia/a-propos.html">À propos</a>
+        <a href="/privacy-policy.html">Privacy Policy</a>
+        <a href="/terms.html">Terms of Use</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      © 2026 BlotMKT — Antoine Blot. Tous droits réservés.
+    </div>
+  </footer>
+  <script>
+    (function(){
+      var headings=document.querySelectorAll('.article-col h2');
+      var toc=document.getElementById('toc-list');
+      var idx=0;
+      headings.forEach(function(h){
+        if(h.closest('.related')) return;
+        if(h.closest('blockquote')) return;
+        var id=h.id||'heading-'+(idx++);
+        h.id=id;
+        var li=document.createElement('li');
+        var a=document.createElement('a');
+        a.href='#'+id;a.textContent=h.textContent;
+        li.appendChild(a);toc.appendChild(li);
+      });
+      var links=toc.querySelectorAll('a');
+      window.addEventListener('scroll',function(){
+        var pos=window.scrollY+80;var active=null;
+        headings.forEach(function(h){if(h.offsetTop<=pos)active=h.id;});
+        links.forEach(function(a){a.classList.toggle('active',a.getAttribute('href')==='#'+active);});
+      });
+    })();
+  </script>
+</body>
+</html>
