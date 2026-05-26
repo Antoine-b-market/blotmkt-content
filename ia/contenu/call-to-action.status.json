@@ -7,8 +7,8 @@
   "status": "pending_fix",
   "fix_type": "fix_qfo",
   "fix_target": {
-    "section": "Mesurer le ROI de vos CTA : indicateurs clés et tests A/B gagnants {#mesurer-le-roi-de-vos-cta-indicateurs-cles-et-tests-ab-gagnants}",
-    "qfo_score": 0.469,
+    "section": "Anatomie d'un CTA performant : rédaction, design et placement optimisés",
+    "qfo_score": 0.55,
     "weak_axes": [
       "sous_sujet",
       "prerequis",
@@ -23,76 +23,76 @@
   "hreflang": "fr-CA",
   "force_published": true,
   "created_at": "2026-05-14T03:22:01.270343Z",
-  "updated_at": "2026-05-24T05:41:31.097366Z",
+  "updated_at": "2026-05-25T04:52:38.155091Z",
   "scores": {
     "qfo_global": {
-      "value": 0.4695,
+      "value": 0.5504,
       "threshold": 0.62,
       "direction": "higher_better",
       "passed": false,
       "blocking": true
     },
     "quotability": {
-      "value": 0.4838,
+      "value": 0.4778,
       "threshold": 0.45,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "chunk_diversity": {
-      "value": 0.7145,
+      "value": 0.7208,
       "threshold": 0.86,
       "direction": "lower_better",
       "passed": true,
       "blocking": true
     },
     "atomic_proof": {
-      "value": 0.57,
+      "value": 0.5583,
       "threshold": 0.35,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "semantic_density": {
-      "value": 0.3997,
+      "value": 0.3756,
       "threshold": 0.3,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "information_gain": {
-      "value": 0.1383,
+      "value": 0.1351,
       "threshold": 0.08,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "perplexity_variance": {
-      "value": 0.2543,
+      "value": 0.2025,
       "threshold": 0.12,
       "direction": "higher_better",
       "passed": true,
       "blocking": true
     },
     "entity_alignment": {
-      "value": 0.5586,
+      "value": 0.4629,
       "threshold": 0.55,
       "direction": "higher_better",
-      "passed": true,
+      "passed": false,
       "blocking": false
     },
     "readability_km": {
-      "value": 62.26,
+      "value": 71.47,
       "threshold": 30.0,
       "direction": "higher_better",
       "passed": true,
       "blocking": false
     },
     "lexical_coverage": {
-      "value": 0.0909,
+      "value": 0.8462,
       "threshold": 0.35,
       "direction": "higher_better",
-      "passed": false,
+      "passed": true,
       "blocking": false
     }
   },
@@ -177,34 +177,149 @@
         "entity_alignment": 0.5012
       },
       "result": "partial"
+    },
+    {
+      "fix_type": "fix_qfo",
+      "model": "claude-sonnet-4-6",
+      "section_targeted": "Mesurer le ROI de vos CTA : indicateurs clés et tests A/B gagnants {#mesurer-le-roi-de-vos-cta-indicateurs-cles-et-tests-ab-gagnants}",
+      "fixed_at": "2026-05-24T05:43:19.435715Z",
+      "scores_before": {
+        "qfo_global": 0.4695,
+        "quotability": 0.4838,
+        "chunk_diversity": 0.7145,
+        "atomic_proof": 0.57,
+        "semantic_density": 0.3997,
+        "information_gain": 0.1383,
+        "perplexity_variance": 0.2543,
+        "entity_alignment": 0.5586,
+        "readability_km": 62.26,
+        "lexical_coverage": 0.0909
+      },
+      "scores_after": {
+        "qfo_global": 0.299,
+        "quotability": 0.4778,
+        "chunk_diversity": 0.7145,
+        "atomic_proof": 0.5182,
+        "semantic_density": 0.4187,
+        "information_gain": 0.1362,
+        "perplexity_variance": 0.2343,
+        "entity_alignment": 0.5586,
+        "readability_km": 62.04,
+        "lexical_coverage": 0.0909
+      },
+      "result": "partial"
+    },
+    {
+      "fix_type": "fix_qfo",
+      "model": "claude-sonnet-4-6",
+      "section_targeted": "Créer un call to action irrésistible : rédaction et design optimisés {#creer-un-call-to-action-irresistible-redaction-et-design-optimises}",
+      "fixed_at": "2026-05-25T04:46:52.658986Z",
+      "scores_before": {
+        "qfo_global": 0.299,
+        "quotability": 0.4772,
+        "chunk_diversity": 0.7145,
+        "atomic_proof": 0.54,
+        "semantic_density": 0.3825,
+        "information_gain": 0.1303,
+        "perplexity_variance": 0.2355,
+        "entity_alignment": 0.4597,
+        "readability_km": 61.94,
+        "lexical_coverage": 0.0909
+      },
+      "scores_after": {
+        "qfo_global": 0.5741,
+        "quotability": 0.472,
+        "chunk_diversity": 0.7151,
+        "atomic_proof": 0.4773,
+        "semantic_density": 0.5259,
+        "information_gain": 0.1589,
+        "perplexity_variance": 0.236,
+        "entity_alignment": 0.4597,
+        "readability_km": 63.11,
+        "lexical_coverage": 0.0909
+      },
+      "result": "partial"
+    },
+    {
+      "fix_type": "fix_qfo",
+      "model": "claude-sonnet-4-6",
+      "section_targeted": "Les différents types de call to action : choisir le bon selon votre objectif {#les-differents-types-de-call-to-action-choisir-le-bon-selon-votre-objectif}",
+      "fixed_at": "2026-05-25T04:47:39.387140Z",
+      "scores_before": {
+        "qfo_global": 0.5741,
+        "quotability": 0.472,
+        "chunk_diversity": 0.7151,
+        "atomic_proof": 0.4773,
+        "semantic_density": 0.5259,
+        "information_gain": 0.1589,
+        "perplexity_variance": 0.236,
+        "entity_alignment": 0.4597,
+        "readability_km": 63.11,
+        "lexical_coverage": 0.0909
+      },
+      "scores_after": {
+        "qfo_global": 0.3006,
+        "quotability": 0.4702,
+        "chunk_diversity": 0.6856,
+        "atomic_proof": 0.4792,
+        "semantic_density": 0.515,
+        "information_gain": 0.1522,
+        "perplexity_variance": 0.2434,
+        "entity_alignment": 0.4597,
+        "readability_km": 65.12,
+        "lexical_coverage": 0.0909
+      },
+      "result": "partial"
+    },
+    {
+      "fix_type": "fix_qfo",
+      "model": "claude-sonnet-4-6",
+      "section_targeted": "Mesurer le ROI de vos CTA : indicateurs clés et tests A/B gagnants {#mesurer-le-roi-de-vos-cta-indicateurs-cles-et-tests-ab-gagnants}",
+      "fixed_at": "2026-05-25T04:48:27.818908Z",
+      "scores_before": {
+        "qfo_global": 0.3006,
+        "quotability": 0.4702,
+        "chunk_diversity": 0.6856,
+        "atomic_proof": 0.4792,
+        "semantic_density": 0.515,
+        "information_gain": 0.1522,
+        "perplexity_variance": 0.2434,
+        "entity_alignment": 0.4597,
+        "readability_km": 65.12,
+        "lexical_coverage": 0.0909
+      },
+      "scores_after": {
+        "qfo_global": 0.3006,
+        "quotability": 0.4651,
+        "chunk_diversity": 0.6856,
+        "atomic_proof": 0.4542,
+        "semantic_density": 0.5045,
+        "information_gain": 0.1528,
+        "perplexity_variance": 0.247,
+        "entity_alignment": 0.4597,
+        "readability_km": 66.09,
+        "lexical_coverage": 0.0909
+      },
+      "result": "partial"
     }
   ],
   "lexical_detail": {
     "covered": [
+      "guide",
+      "utilisateur",
+      "visiteur",
+      "client",
+      "utilisateurs",
+      "étape",
+      "marketing numérique",
+      "seo",
+      "parcours",
       "CTA",
-      "PME"
+      "SEO"
     ],
     "missing": [
-      "appels action efficaces",
-      "cta soit performant",
-      "bonnes pratiques appels",
-      "pratiques appels action",
-      "soit performant éléments",
-      "performant éléments considérer",
-      "appel action marketing",
-      "marketing numérique québec",
-      "action marketing numérique",
-      "numérique québec canada",
-      "importance appel action",
-      "devenu prépondérant investissements",
-      "canada particulièrement québec",
-      "connecté étape suivante",
-      "étape suivante parcours",
-      "cta essentiels guider",
-      "utilisent internet quotidiennement",
-      "consommateurs utilisent internet",
-      "essentiels guider public",
-      "suivante parcours client"
+      "appels action",
+      "appel action cta"
     ]
   }
 }

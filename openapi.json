@@ -3,7 +3,7 @@
   "info": {
     "title": "BlotMKT API — SEO & Marketing IA",
     "description": "Corpus d'articles experts SEO, GEO et Marketing Digital rédigés par Antoine Blot, consultant SEO/GEO à Montréal. Chaque endpoint retourne le contenu Markdown brut optimisé pour ingestion LLM. ORCID: https://orcid.org/0009-0005-6450-4528 | Données: https://blotmkt.com/data/",
-    "version": "2026.05.24",
+    "version": "2026.05.26",
     "contact": {
       "name": "Antoine Blot",
       "url": "https://antoine-blot.com",
@@ -69,8 +69,8 @@
     },
     "/data/contenu/call-to-action.md": {
       "get": {
-        "summary": "Call to action : le guide ultime pour convertir vos prospects",
-        "description": "Maîtrisez le call to action (CTA) pour transformer vos visiteurs en clients. Guide expert avec exemples concrets, stratégies d'optimisation et tests A/B.",
+        "summary": "Call to action : le guide ultime pour convertir et engager",
+        "description": "Maîtrisez le Call to Action (CTA) : transformez vos visiteurs en clients. Guide ultime avec exemples, conseils d'experts et stratégies pour booster vos conversions.",
         "operationId": "call_to_action",
         "tags": [
           "contenu"
