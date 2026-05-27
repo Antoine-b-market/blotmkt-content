@@ -46,8 +46,8 @@
     },
     "/data/contenu/alt-text-image.md": {
       "get": {
-        "summary": "Alt text image : guide complet pour l'accessibilité, le SEO et la visibilité IA",
-        "description": "Alt text image : guide complet pour l'accessibilité WCAG, le SEO direct et la visibilité IA. Définition, rôle fondamental, erreurs à éviter et rédaction optimisée pour 2026.",
+        "summary": "L'alt text image : votre passeport pour l'accessibilité et la performance seo ia",
+        "description": "Maîtrisez l'alt text image pour booster votre SEO, améliorer l'accessibilité et préparer vos contenus à l'ère de l'IA. Découvrez nos astuces d'expert pour des images puissantes.",
         "operationId": "alt_text_image",
         "tags": [
           "contenu"
@@ -69,8 +69,8 @@
     },
     "/data/contenu/call-to-action.md": {
       "get": {
-        "summary": "Call to action : le guide ultime pour convertir et engager",
-        "description": "Maîtrisez le Call to Action (CTA) : transformez vos visiteurs en clients. Guide ultime avec exemples, conseils d'experts et stratégies pour booster vos conversions.",
+        "summary": "Call to action : le guide ultime pour convertir vos prospects",
+        "description": "Maîtrisez le Call to Action (CTA) et transformez vos visiteurs en clients. Exemples concrets, conseils d'experts et stratégies éprouvées pour des conversions maximales.",
         "operationId": "call_to_action",
         "tags": [
           "contenu"
@@ -93,7 +93,7 @@
     "/data/contenu/clustering-de-mots-cles.md": {
       "get": {
         "summary": "Clustering de mots-clés : guide complet pour booster votre seo",
-        "description": "Maîtrisez le clustering de mots-clés pour un seo optimisé. Organisez vos mots-clés et ciblez efficacement votre audience. Guide complet.",
+        "description": "Maîtrisez le clustering de mots-clés pour un SEO optimisé. Organisez vos mots-clés, ciblez votre audience efficacement et boostez vos positions. Guide complet.",
         "operationId": "clustering_de_mots_cles",
         "tags": [
           "contenu"
@@ -322,8 +322,8 @@
     },
     "/data/contenu/strategie-editoriale-seo.md": {
       "get": {
-        "summary": "Stratégie éditoriale SEO : de l'intention à la performance organique",
-        "description": "Découvrez comment élaborer une stratégie éditoriale SEO efficace. Mesurez l'impact du contenu, maîtrisez le SEO copywriting et construisez une autorité cognitive durable.",
+        "summary": "Stratégie éditoriale seo : bâtir une performance organique durable à l'ère de l'ia",
+        "description": "Découvrez comment bâtir une stratégie éditoriale SEO performante : intentions, piliers clés, mesure de l'efficacité face aux AI Overviews. De la valeur au ROI.",
         "operationId": "strategie_editoriale_seo",
         "tags": [
           "contenu"
@@ -345,8 +345,8 @@
     },
     "/data/contenu/structure-hn-seo.md": {
       "get": {
-        "summary": "Structure HN SEO : guide complet pour optimiser votre contenu",
-        "description": "Découvrez comment la structure HN SEO (H1, H2, H3) booste votre référencement. Guide pratique, exemples concrets et conseils d'experts.",
+        "summary": "Structure HN SEO : le guide complet pour optimiser votre contenu et captiver google & l'IA",
+        "description": "Maîtrisez la structure HN SEO (H1, H2, H3) pour un référencement optimal. Ce guide complet, avec exemples concrets, vous aide à captiver Google et les IA. Boostez votre visibilité !",
         "operationId": "structure_hn_seo",
         "tags": [
           "contenu"
@@ -368,8 +368,8 @@
     },
     "/data/contenu/transcription-video-seo.md": {
       "get": {
-        "summary": "Transcription vidéo seo : boostez votre référencement",
-        "description": "Découvrez comment la transcription vidéo SEO transforme vos contenus. Guide complet : méthode, outils, coûts réels et erreurs à éviter.",
+        "summary": "Transcription vidéo seo : le guide complet pour booster votre référencement",
+        "description": "Transformez vos vidéos en or pour Google et YouTube. Découvrez comment la transcription vidéo SEO augmente votre visibilité, votre trafic et votre ROI. Guide complet.",
         "operationId": "transcription_video_seo",
         "tags": [
           "contenu"
@@ -1493,6 +1493,52 @@
         }
       }
     },
+    "/data/strategie/audit-semantique-seo.md": {
+      "get": {
+        "summary": "Audit sémantique seo : la clé d'une stratégie performante à l'ère des ia et du geo",
+        "description": "Découvrez l'audit sémantique SEO: définition, méthodes, outils et avantages pour booster votre visibilité en ligne. Essentiel face aux moteurs de recherche génératifs et au GEO.",
+        "operationId": "audit_semantique_seo",
+        "tags": [
+          "strategie"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/strategie/audit-technique-seo.md": {
+      "get": {
+        "summary": "Audit technique SEO : débloquez la pleine puissance de votre site au québec",
+        "description": "Découvrez pourquoi l'audit technique SEO est crucial pour votre site. Étapes, outils, et impact sur votre visibilité au Québec. Optimisez performance, indexation et conversion.",
+        "operationId": "audit_technique_seo",
+        "tags": [
+          "strategie"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/data/strategie/consultant-geo-montreal.md": {
       "get": {
         "summary": "Consultant GEO montréal : votre expert pour dominer les moteurs de recherche IA et organique",
@@ -1590,6 +1636,52 @@
         "summary": "Personal branding seo : développez votre autorité et influence en ligne",
         "description": "Maîtrisez le personal branding SEO pour construire une réputation en ligne forte et durable. Attirez les bonnes opportunités et devenez une référence incontournable dans votre domaine.",
         "operationId": "personal_branding_seo",
+        "tags": [
+          "strategie"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/strategie/prix-forfait-seo.md": {
+      "get": {
+        "summary": "Prix forfait seo : démystifier les coûts pour une stratégie performante en 2026",
+        "description": "Comprenez les prix des forfaits SEO de qualité en 2026. Découvrez les facteurs de coût pour une stratégie de contenu, technique et netlinking ciblée, et évitez les pièges.",
+        "operationId": "prix_forfait_seo",
+        "tags": [
+          "strategie"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/strategie/seo-international.md": {
+      "get": {
+        "summary": "Seo international : guide complet pour une visibilité mondiale",
+        "description": "Découvrez comment le SEO international peut propulser votre site web à l'étranger. Stratégies, outils, et conseils pratiques pour dominer les marchés mondiaux.",
+        "operationId": "seo_international",
         "tags": [
           "strategie"
         ],

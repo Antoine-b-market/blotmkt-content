@@ -16,10 +16,11 @@ Ressources Contenu SEO par Antoine Blot, consultant SEO & GEO a Montreal.
 
 Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
 
-- [Call to action : le guide ultime pour convertir et engager](https://blotmkt.com/data/contenu/call-to-action.md)
-- [Alt text image : guide complet pour l'accessibilité, le SEO et la visibilité IA](https://blotmkt.com/data/contenu/alt-text-image.md)
+- [L'alt text image : votre passeport pour l'accessibilité et la performance seo ia](https://blotmkt.com/data/contenu/alt-text-image.md)
+- [Stratégie éditoriale seo : bâtir une performance organique durable à l'ère de l'ia](https://blotmkt.com/data/contenu/strategie-editoriale-seo.md)
+- [Structure HN SEO : le guide complet pour optimiser votre contenu et captiver google & l'IA](https://blotmkt.com/data/contenu/structure-hn-seo.md)
+- [Transcription vidéo seo : le guide complet pour booster votre référencement](https://blotmkt.com/data/contenu/transcription-video-seo.md)
 - [L'intention de recherche : la boussole seo à l'ère des llm et du geo](https://blotmkt.com/data/contenu/intention-de-recherche.md)
-- [Clustering de mots-clés : guide complet pour booster votre seo](https://blotmkt.com/data/contenu/clustering-de-mots-cles.md)
 - [Content gap SEO : comment identifier et combler les manques de contenu](https://blotmkt.com/data/contenu/content-gap-seo.md)
 - [Longue traîne SEO : la stratégie rentable pour 2026 et au-delà](https://blotmkt.com/data/contenu/longue-traine-seo.md)
 - [Méta description : guide ultime pour optimiser votre seo](https://blotmkt.com/data/contenu/meta-description.md)
@@ -28,9 +29,6 @@ Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
 - [Mots-clés transactionnels : le guide ultime pour booster vos conversions](https://blotmkt.com/data/contenu/mots-cles-transactionnels.md)
 - [Optimisation de contenu : le guide complet 2026 pour un seo durable](https://blotmkt.com/data/contenu/optimisation-de-contenu.md)
 - [Rédaction ia assistée : maximisez votre seo et votre productivité en 2026](https://blotmkt.com/data/contenu/redaction-ia-assistee.md)
-- [Stratégie éditoriale SEO : de l'intention à la performance organique](https://blotmkt.com/data/contenu/strategie-editoriale-seo.md)
-- [Structure HN SEO : guide complet pour optimiser votre contenu](https://blotmkt.com/data/contenu/structure-hn-seo.md)
-- [Transcription vidéo seo : boostez votre référencement](https://blotmkt.com/data/contenu/transcription-video-seo.md)
 
 
 ---

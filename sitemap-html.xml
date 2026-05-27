@@ -20,19 +20,7 @@
   </url>
   <url>
     <loc>https://blotmkt.com/ia/contenu/alt-text-image.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/contenu/call-to-action.html</loc>
-    <lastmod>2026-05-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html</loc>
-    <lastmod>2026-05-14</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -92,19 +80,19 @@
   </url>
   <url>
     <loc>https://blotmkt.com/ia/contenu/strategie-editoriale-seo.html</loc>
-    <lastmod>2026-05-14</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://blotmkt.com/ia/contenu/structure-hn-seo.html</loc>
-    <lastmod>2026-05-14</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://blotmkt.com/ia/contenu/transcription-video-seo.html</loc>
-    <lastmod>2026-05-14</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -385,6 +373,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://blotmkt.com/ia/strategie/audit-semantique-seo.html</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://blotmkt.com/ia/strategie/audit-technique-seo.html</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blotmkt.com/ia/strategie/consultant-geo-montreal.html</loc>
     <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -411,6 +411,18 @@
   <url>
     <loc>https://blotmkt.com/ia/strategie/personal-branding-seo.html</loc>
     <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://blotmkt.com/ia/strategie/prix-forfait-seo.html</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://blotmkt.com/ia/strategie/seo-international.html</loc>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

@@ -171,5 +171,5 @@ La compatibilité mobile est un facteur de classement confirmé depuis 2018. Goo
 - [Désindexation google : comprendre, agir et optimiser votre seo](https://blotmkt.com/ia/popularite/desindexation-google.html)
 - [guest blogging seo : guide complet pour un référencement durable en 2026](https://blotmkt.com/ia/popularite/guest-blogging-seo.html)
 - [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/ia/audit/indexation-api-google.html)
-- [Alt text image : guide complet pour l'accessibilité, le SEO et la visibilité IA](https://blotmkt.com/ia/contenu/alt-text-image.html)
-- [Call to action : le guide ultime pour convertir et engager](https://blotmkt.com/ia/contenu/call-to-action.html)
+- [L'alt text image : votre passeport pour l'accessibilité et la performance seo ia](https://blotmkt.com/ia/contenu/alt-text-image.html)
+- [Call to action : le guide ultime pour convertir vos prospects](https://blotmkt.com/ia/contenu/call-to-action.html)

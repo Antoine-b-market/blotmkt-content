@@ -222,7 +222,7 @@ FAQ_JSON-->
 ## Articles connexes
 
 - [Agence geo montréal : l'expertise spécialisée pour propulser votre visibilité ia et locale](https://blotmkt.com/ia/strategie/agence-geo-montreal.html)
+- [Audit sémantique seo : la clé d'une stratégie performante à l'ère des ia et du geo](https://blotmkt.com/ia/strategie/audit-semantique-seo.html)
+- [Audit technique SEO : débloquez la pleine puissance de votre site au québec](https://blotmkt.com/ia/strategie/audit-technique-seo.html)
 - [Consultant GEO montréal : votre expert pour dominer les moteurs de recherche IA et organique](https://blotmkt.com/ia/strategie/consultant-geo-montreal.html)
 - [Consultant seo montréal : l'expert qui transforme votre visibilité en croissance à montréal](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)
-- [Coût d'acquisition seo: guide complet pour optimiser votre investissement](https://blotmkt.com/ia/strategie/cout-acquisition-seo.html)
-- [Migration seo : guide complet pour une transition réussie et sans perte de trafic](https://blotmkt.com/ia/strategie/migration-seo.html)
