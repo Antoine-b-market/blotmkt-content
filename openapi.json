@@ -1449,8 +1449,8 @@
     },
     "/data/strategie/agence-geo-montreal.md": {
       "get": {
-        "summary": "Agence geo montréal : l'expertise spécialisée pour propulser votre visibilité ia et locale",
-        "description": "Découvrez l'agence GEO Montréal : expertise en optimisation pour IA et SEO local. Maximisez votre ROI au Québec avec une stratégie bilingue et performante.",
+        "summary": "Agence geo montréal : propulsez votre visibilité ia et locale en 2026",
+        "description": "Découvrez l'expertise des agences GEO à Montréal pour une visibilité IA et locale en 2026. Services, ROI, coûts et choix : guide pour votre stratégie québécoise.",
         "operationId": "agence_geo_montreal",
         "tags": [
           "strategie"
@@ -1610,8 +1610,8 @@
     },
     "/data/strategie/migration-seo.md": {
       "get": {
-        "summary": "Migration seo : guide complet pour une transition réussie et sans perte de trafic",
-        "description": "Maîtrisez votre migration SEO ! Checklist, stratégies et outils pour une transition de site web sans perte de trafic organique. Augmentez votre visibilité.",
+        "summary": "Migration seo: guide complet pour une transition réussie",
+        "description": "Maîtrisez la migration SEO ! Checklist, stratégies et outils pour une transition de site web sans perte de trafic. Augmentez votre visibilité.",
         "operationId": "migration_seo",
         "tags": [
           "strategie"
@@ -1633,8 +1633,8 @@
     },
     "/data/strategie/personal-branding-seo.md": {
       "get": {
-        "summary": "Personal branding seo : développez votre autorité et influence en ligne",
-        "description": "Maîtrisez le personal branding SEO pour construire une réputation en ligne forte et durable. Attirez les bonnes opportunités et devenez une référence incontournable dans votre domaine.",
+        "summary": "Développez votre personal branding grâce au SEO : le guide complet de l'expert",
+        "description": "Maîtrisez le personal branding SEO : bâtissez une réputation en ligne forte et durable. Attirez les bonnes opportunités et devenez une référence dans votre domaine.",
         "operationId": "personal_branding_seo",
         "tags": [
           "strategie"

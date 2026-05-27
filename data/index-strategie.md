@@ -16,17 +16,17 @@ Ressources Stratégie SEO par Antoine Blot, consultant SEO & GEO a Montreal.
 
 Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
 
+- [Agence geo montréal : propulsez votre visibilité ia et locale en 2026](https://blotmkt.com/data/strategie/agence-geo-montreal.md)
 - [Audit sémantique seo : la clé d'une stratégie performante à l'ère des ia et du geo](https://blotmkt.com/data/strategie/audit-semantique-seo.md)
 - [Audit technique SEO : débloquez la pleine puissance de votre site au québec](https://blotmkt.com/data/strategie/audit-technique-seo.md)
+- [Migration seo: guide complet pour une transition réussie](https://blotmkt.com/data/strategie/migration-seo.md)
+- [Développez votre personal branding grâce au SEO : le guide complet de l'expert](https://blotmkt.com/data/strategie/personal-branding-seo.md)
 - [Prix forfait seo : démystifier les coûts pour une stratégie performante en 2026](https://blotmkt.com/data/strategie/prix-forfait-seo.md)
 - [Seo international : guide complet pour une visibilité mondiale](https://blotmkt.com/data/strategie/seo-international.md)
 - [Consultant GEO montréal : votre expert pour dominer les moteurs de recherche IA et organique](https://blotmkt.com/data/strategie/consultant-geo-montreal.md)
-- [Agence geo montréal : l'expertise spécialisée pour propulser votre visibilité ia et locale](https://blotmkt.com/data/strategie/agence-geo-montreal.md)
 - [Agence SEO montréal : consultant expert ou agence, quel choix pour votre visibilité ?](https://blotmkt.com/data/strategie/agence-seo-montreal.md)
 - [Consultant seo montréal : l'expert qui transforme votre visibilité en croissance à montréal](https://blotmkt.com/data/strategie/consultant-seo-montreal.md)
 - [Coût d'acquisition seo: guide complet pour optimiser votre investissement](https://blotmkt.com/data/strategie/cout-acquisition-seo.md)
-- [Migration seo : guide complet pour une transition réussie et sans perte de trafic](https://blotmkt.com/data/strategie/migration-seo.md)
-- [Personal branding seo : développez votre autorité et influence en ligne](https://blotmkt.com/data/strategie/personal-branding-seo.md)
 
 
 ---
