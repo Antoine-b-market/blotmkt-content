@@ -944,7 +944,7 @@
     "/data/ia-seo-geo/algorithme-de-recommandation.md": {
       "get": {
         "summary": "Algorithmes de recommandation : comprendre, optimiser et exemples concrets",
-        "description": "Découvrez le fonctionnement des algorithmes de recommandation, leurs types, comment les optimiser et des exemples concrets pour booster vos conversions.",
+        "description": "Découvrez le fonctionnement des algorithmes de recommandation, leurs types, comment les optimiser et des exemples d'utilisation concrets. Guide complet.",
         "operationId": "algorithme_de_recommandation",
         "tags": [
           "ia-seo-geo"

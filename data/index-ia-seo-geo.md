@@ -16,6 +16,7 @@ Ressources IA, SEO & GEO par Antoine Blot, consultant SEO & GEO a Montreal.
 
 Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
 
+- [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/data/ia-seo-geo/algorithme-de-recommandation.md)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/data/ia-seo-geo/citations-par-ia.md)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/data/ia-seo-geo/contenu-ia-seo.md)
 - [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/data/ia-seo-geo/contextualisation-seo.md)
