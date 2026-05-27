@@ -17,6 +17,7 @@ Ressources Contenu SEO par Antoine Blot, consultant SEO & GEO a Montreal.
 Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
 
 - [L'alt text image : votre passeport pour l'accessibilité et la performance seo ia](https://blotmkt.com/data/contenu/alt-text-image.md)
+- [Clustering de mots-clés : guide complet pour booster votre seo](https://blotmkt.com/data/contenu/clustering-de-mots-cles.md)
 - [Stratégie éditoriale seo : bâtir une performance organique durable à l'ère de l'ia](https://blotmkt.com/data/contenu/strategie-editoriale-seo.md)
 - [Structure HN SEO : le guide complet pour optimiser votre contenu et captiver google & l'IA](https://blotmkt.com/data/contenu/structure-hn-seo.md)
 - [Transcription vidéo seo : le guide complet pour booster votre référencement](https://blotmkt.com/data/contenu/transcription-video-seo.md)

@@ -1472,8 +1472,8 @@
     },
     "/data/strategie/agence-seo-montreal.md": {
       "get": {
-        "summary": "Agence SEO montréal : consultant expert ou agence, quel choix pour votre visibilité ?",
-        "description": "Découvrez comment choisir l'expert SEO à Montréal idéal pour votre entreprise. Agence ou consultant indépendant ? Comparez les approches stratégiques pour un ROI maximal et une visibilité durable.",
+        "summary": "Agence SEO montréal : au-delà des services classiques, l'expertise stratégique locale",
+        "description": "Découvrez comment choisir votre agence SEO à Montréal. Consultant expert ou agence ? Comparez pour maximiser visibilité & ROI au Québec.",
         "operationId": "agence_seo_montreal",
         "tags": [
           "strategie"
@@ -1541,8 +1541,8 @@
     },
     "/data/strategie/consultant-geo-montreal.md": {
       "get": {
-        "summary": "Consultant GEO montréal : votre expert pour dominer les moteurs de recherche IA et organique",
-        "description": "Boostez votre visibilité locale et IA à Montréal avec un consultant GEO expert. Découvrez une stratégie hybride pour dominer les moteurs de recherche et de réponse.",
+        "summary": "Consultant GEO montréal : l'expert de votre visibilité IA et organique en 2026",
+        "description": "Boostez votre visibilité à Montréal. Un consultant GEO expert optimise votre présence dans les réponses IA et les résultats organiques pour capter plus de leads en 2026.",
         "operationId": "consultant_geo_montreal",
         "tags": [
           "strategie"
@@ -1564,8 +1564,8 @@
     },
     "/data/strategie/consultant-seo-montreal.md": {
       "get": {
-        "summary": "Consultant seo montréal : l'expert qui transforme votre visibilité en croissance à montréal",
-        "description": "Recherchez-vous un consultant SEO à Montréal ? Expert en référencement naturel et GEO, je booste votre visibilité sur Google et l'IA. Stratégie personnalisée pour Montréal.",
+        "summary": "Consultant SEO montréal : votre expert pour dominer google et l'IA en 2026",
+        "description": "Site invisible à Montréal ? Un consultant SEO expert transforme votre visibilité en croissance concrète. Maîtrisez Google, le GEO local et l'IA pour 2026. Contactez-nous !",
         "operationId": "consultant_seo_montreal",
         "tags": [
           "strategie"
@@ -1587,7 +1587,7 @@
     },
     "/data/strategie/cout-acquisition-seo.md": {
       "get": {
-        "summary": "Coût d'acquisition seo: guide complet pour optimiser votre investissement",
+        "summary": "Coût d'acquisition seo : guide complet pour optimiser votre investissement",
         "description": "Comprendre et optimiser votre coût d'acquisition SEO (CAC SEO). Découvrez les stratégies, les méthodes de calcul et les alternatives pour un ROI maximal.",
         "operationId": "cout_acquisition_seo",
         "tags": [
