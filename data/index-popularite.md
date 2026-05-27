@@ -16,6 +16,7 @@ Ressources Popularité & Netlinking par Antoine Blot, consultant SEO & GEO a Mon
 
 Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
 
+- [Désindexation google : comprendre, agir et optimiser votre seo](https://blotmkt.com/data/popularite/desindexation-google.md)
 - [Facteurs de classement Google : le guide ultime 2026 pour dominer les SERPs](https://blotmkt.com/data/popularite/facteurs-de-classement-google.md)
 - [guest blogging seo : guide complet pour un référencement durable en 2026](https://blotmkt.com/data/popularite/guest-blogging-seo.md)
 
