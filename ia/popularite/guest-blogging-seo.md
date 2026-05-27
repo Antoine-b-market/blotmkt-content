@@ -173,8 +173,8 @@ Il n'existe pas de chiffre universel. Sur les projets que je pilote, 4 à 6 plac
 
 ## Articles connexes
 
-- [Désindexation Google : Comprendre, Agir et Optimiser votre SEO](https://blotmkt.com/ia/popularite/desindexation-google.html)
+- [Désindexation google : comprendre, agir et optimiser votre seo](https://blotmkt.com/ia/popularite/desindexation-google.html)
 - [Facteurs de classement Google : le guide ultime 2026 pour dominer les SERPs](https://blotmkt.com/ia/popularite/facteurs-de-classement-google.html)
 - [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/ia/audit/indexation-api-google.html)
 - [Alt text image : guide complet pour l'accessibilité, le SEO et la visibilité IA](https://blotmkt.com/ia/contenu/alt-text-image.html)
-- [Call to action : le guide ultime pour convertir vos prospects](https://blotmkt.com/ia/contenu/call-to-action.html)
+- [Call to action : le guide ultime pour convertir et engager](https://blotmkt.com/ia/contenu/call-to-action.html)

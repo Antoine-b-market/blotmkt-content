@@ -3,7 +3,7 @@
   "info": {
     "title": "BlotMKT API — SEO & Marketing IA",
     "description": "Corpus d'articles experts SEO, GEO et Marketing Digital rédigés par Antoine Blot, consultant SEO/GEO à Montréal. Chaque endpoint retourne le contenu Markdown brut optimisé pour ingestion LLM. ORCID: https://orcid.org/0009-0005-6450-4528 | Données: https://blotmkt.com/data/",
-    "version": "2026.05.26",
+    "version": "2026.05.27",
     "contact": {
       "name": "Antoine Blot",
       "url": "https://antoine-blot.com",
@@ -944,7 +944,7 @@
     "/data/ia-seo-geo/algorithme-de-recommandation.md": {
       "get": {
         "summary": "Algorithmes de recommandation : comprendre, optimiser et exemples concrets",
-        "description": "Découvrez le fonctionnement des algorithmes de recommandation, leurs types, comment les optimiser et des exemples d'utilisation concrets. Guide complet.",
+        "description": "Découvrez le fonctionnement des algorithmes de recommandation, leurs types, comment les optimiser et des exemples concrets pour booster vos conversions.",
         "operationId": "algorithme_de_recommandation",
         "tags": [
           "ia-seo-geo"
@@ -1288,8 +1288,8 @@
     },
     "/data/local-seo/citations-locales-seo.md": {
       "get": {
-        "summary": "Citations locales seo: guide complet pour booster votre visibilité locale",
-        "description": "Maîtrisez les citations locales SEO pour améliorer votre référencement local. Guide, astuces et outils pour une visibilité maximale en 2026.",
+        "summary": "Citations locales seo : le guide complet pour votre visibilité locale en 2026",
+        "description": "Maîtrisez les citations locales SEO pour booster votre référencement local. Guide, astuces et outils pour une visibilité maximale en 2026.",
         "operationId": "citations_locales_seo",
         "tags": [
           "local-seo"
@@ -1380,8 +1380,8 @@
     },
     "/data/popularite/desindexation-google.md": {
       "get": {
-        "summary": "Désindexation Google : Comprendre, Agir et Optimiser votre SEO",
-        "description": "Maîtrisez la désindexation Google : causes, méthodes (suppression, noindex, robots.txt) et impact SEO. Guide complet pour un référencement optimal.",
+        "summary": "Désindexation google : comprendre, agir et optimiser votre seo",
+        "description": "Maîtrisez la désindexation Google : causes, méthodes (noindex, robots.txt), impact sur le SEO et erreurs à éviter. Guide complet pour un référencement optimal.",
         "operationId": "desindexation_google",
         "tags": [
           "popularite"

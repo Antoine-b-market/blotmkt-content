@@ -155,7 +155,7 @@ Réalisez un audit complet lors du lancement d'une Stratégie SEO locale, après
 ## Articles connexes
 
 - [Avis clients SEO : Booster votre visibilité et votre chiffre d'affaires](https://blotmkt.com/ia/local-seo/avis-clients-seo.html)
-- [Citations locales seo: guide complet pour booster votre visibilité locale](https://blotmkt.com/ia/local-seo/citations-locales-seo.html)
+- [Citations locales seo : le guide complet pour votre visibilité locale en 2026](https://blotmkt.com/ia/local-seo/citations-locales-seo.html)
 - [Optimisation google maps : guide complet pour 2026](https://blotmkt.com/ia/local-seo/optimisation-google-maps.html)
 - [Rayon de visibilité: guide complet pour une signalétique impactante](https://blotmkt.com/ia/local-seo/rayon-de-visibilite.html)
 - [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/ia/audit/indexation-api-google.html)

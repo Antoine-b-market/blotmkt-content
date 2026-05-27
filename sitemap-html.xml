@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blotmkt.com/</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://blotmkt.com/ia/a-propos.html</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -21,6 +21,12 @@
   <url>
     <loc>https://blotmkt.com/ia/contenu/alt-text-image.html</loc>
     <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://blotmkt.com/ia/contenu/call-to-action.html</loc>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -253,12 +259,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -338,7 +338,7 @@
   </url>
   <url>
     <loc>https://blotmkt.com/ia/local-seo/citations-locales-seo.html</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -356,12 +356,6 @@
   </url>
   <url>
     <loc>https://blotmkt.com/ia/local-seo/rayon-de-visibilite.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/popularite/desindexation-google.html</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
