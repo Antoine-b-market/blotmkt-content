@@ -105,7 +105,7 @@ La réponse stratégique n'est pas de fuir les requêtes informationnelles. C'es
 Les sites web cités dans les AI Overviews bénéficient d'un CTR organique supérieur de 35 % et d'un CTR payant supérieur de 91 %, selon l'étude de Seer Interactive qui a analysé 3 119 requêtes de juin 2024 à octobre 2025.
 
 Selon Antoine Blot, trois actions concrètes permettent d'optimiser pour la citabilité IA : implémenter le balisage Schema.org (FAQ, HowTo, Article) pour signaler la structure du contenu à Google, optimiser les titres H2 et H3 pour les extraits enrichis et les People Also Ask, et structurer les réponses directes en début de section, pas en conclusion. 
-99,9 % des mots-clés informationnels déclenchent désormais un AI Overview (Ahrefs, novembre 2025).
+Selon Ahrefs (novembre 2025), la grande majorité des mots-clés informationnels déclenchent un AI Overview.
  Votre contenu est soit cité, soit invisible.
 
 Voici un exemple minimal de balisage JSON-LD pour une FAQ, directement dans le `<head>` de la page :
@@ -194,7 +194,7 @@ Un audit SEO technique est un diagnostic complet des fondations d'un site : craw
 
 Selon l'étude Seer Interactive de septembre 2025, le CTR organique a plongé de 61 %, passant de 1,76 % à 0,61 % pour les requêtes avec AI Overviews.
  
-Ahrefs confirme que 99,9 % des mots-clés informationnels déclenchent désormais un AI Overview.
+Ahrefs confirme que la grande majorité des mots-clés informationnels déclenchent désormais un AI Overview.
  Vérifiez dans Google Search Console si vos impressions sont stables mais vos clics en baisse : c'est le signe classique de l'impact zero-click sur vos contenus.
 
 ### Quelle est la différence entre rédaction SEO et SEO copywriting ?
@@ -216,7 +216,7 @@ Selon Antoine Blot, les entreprises qui traitent le SEO comme un système intég
 
 <!--FAQ_JSON
 [{"question": "Qu'est-ce qu'un audit SEO technique et est-ce vraiment nécessaire ?", "answer": "Un audit SEO technique est un diagnostic complet des fondations d'un site : crawlabilité, indexation, vitesse, données structurées Schema.org, redirections et Core Web Vitals. Il est indispensable parce que 91,4 % des sites présentent des problèmes de redirection (Digidop, 2025). Sans audit préalable, toute optimisation de contenu repose sur des fondations défaillantes, limitant le retour sur investissement de la stratégie globale."},
-{"question": "Comment les AI Overviews impactent-elles concrètement mon trafic organique ?", "answer": "Selon l'étude Seer Interactive de septembre 2025, le CTR organique a plongé de 61 %, passant de 1,76 % à 0,61 % pour les requêtes avec AI Overviews. Ahrefs confirme que 99,9 % des mots-clés informationnels déclenchent désormais un AI Overview. Vérifiez dans Google Search Console si vos impressions sont stables mais vos clics en baisse : c'est le signe classique de l'impact zero-click."},
+{"question": "Comment les AI Overviews impactent-elles concrètement mon trafic organique ?", "answer": "Selon l'étude Seer Interactive de septembre 2025, le CTR organique a plongé de 61 %, passant de 1,76 % à 0,61 % pour les requêtes avec AI Overviews. Ahrefs confirme que la grande majorité des mots-clés informationnels déclenchent désormais un AI Overview. Vérifiez dans Google Search Console si vos impressions sont stables mais vos clics en baisse : c'est le signe classique de l'impact zero-click."},
 {"question": "Quelle est la différence entre rédaction SEO et SEO copywriting ?", "answer": "La rédaction SEO produit du contenu informationnel et éducatif pour construire la visibilité et l'autorité thématique d'un site. Le SEO copywriting cible la conversion : chaque phrase est construite pour déclencher un achat, une inscription ou un appel. En pratique, les deux se combinent : un article informatif bien structuré crée la confiance qui prépare la conversion. Le marketing de contenu orienté mots-clés transactionnels génère un ROI de 748 % (AIOSEO, 2026)."},
 {"question": "Quelles sont les stratégies pour rester visible dans un marché de recherche sans clic ?", "answer": "Près de 60 % de toutes les recherches Google se terminent désormais sans clic (Semrush, 2025). Pour capter cette visibilité : implémenter le balisage Schema.org (FAQ, HowTo, Article), structurer les réponses directes en début de section, optimiser les titres H2 pour les People Also Ask, et mesurer votre Share of Voice dans les AI Overviews plutôt que seulement votre position traditionnelle."},
 {"question": "L'investissement dans une stratégie éditoriale SEO est-il rentable à long terme ?", "answer": "Les entreprises qui traitent le SEO comme un système intégré et documenté, combinant technique, contenu et netlinking, obtiennent des résultats 2 à 3 fois supérieurs à celles qui l'abordent comme une tactique ponctuelle (Antoine Blot, 2026). Le SEO technique seul affiche un ROI d'environ 117 % à 6 mois (SEOProfy, 2026), et la combinaison SEO technique et contenu multiplie le trafic par 2,8 par rapport au contenu seul."}]

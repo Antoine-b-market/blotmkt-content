@@ -199,5 +199,5 @@ FAQ_JSON-->
 - [Agence SEO montréal : au-delà des services classiques, l'expertise stratégique locale](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
 - [Audit sémantique seo : la clé d'une stratégie performante à l'ère des ia et du geo](https://blotmkt.com/ia/strategie/audit-semantique-seo.html)
 - [Audit technique SEO : débloquez la pleine puissance de votre site au québec](https://blotmkt.com/ia/strategie/audit-technique-seo.html)
-- [Consultant GEO montréal : l'expert de votre visibilité IA et organique en 2026](https://blotmkt.com/ia/strategie/consultant-geo-montreal.html)
-- [Consultant SEO montréal : votre expert pour dominer google et l'IA en 2026](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)
+- [Coût d'acquisition seo : guide complet pour optimiser votre investissement](https://blotmkt.com/ia/strategie/cout-acquisition-seo.html)
+- [Migration seo: guide complet pour une transition réussie](https://blotmkt.com/ia/strategie/migration-seo.html)

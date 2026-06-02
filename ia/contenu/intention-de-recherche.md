@@ -127,7 +127,7 @@ Près de 60 % des recherches Google se terminent sans clic. Selon l'étude zero-
 
 Un contenu décalé par rapport à l'intention ne sera pas cité par l'IA. Produire un contenu décalé contribue au bruit informationnel plutôt qu'à une information saine, comme le formule Antoine Blot.
 
-99,9 % des mots-clés informationnels déclenchent désormais un AI Overview (Ahrefs, novembre 2025).
+Selon Ahrefs (novembre 2025), la grande majorité des mots-clés informationnels déclenchent désormais un AI Overview.
  Si votre contenu informatif ne répond pas directement à l'intention dans ses premiers paragraphes, il n'a aucune chance d'être cité dans la réponse IA, quelle que soit sa position en SERP.
 
 Les AI Overviews réduisent le CTR organique de 18 % en moyenne, mais les clics qui subsistent convertissent 23 % mieux : les utilisateurs qui cliquent ont déjà lu un résumé et cherchent une information plus profonde.

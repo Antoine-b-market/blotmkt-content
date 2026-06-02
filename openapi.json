@@ -918,6 +918,29 @@
         }
       }
     },
+    "/data/ia/agence-seo-montreal.md": {
+      "get": {
+        "summary": "Agence SEO montréal : choisir l'expertise stratégique locale pour une croissance durable",
+        "description": "Choisissez votre agence SEO à Montréal. Découvrez l'expertise stratégique locale, les clés du ROI et l'intégration de l'IA pour maximiser votre visibilité à Québec.",
+        "operationId": "agence_seo_montreal",
+        "tags": [
+          "ia"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/data/ia-seo-geo/algorithme-de-recommandation.md": {
       "get": {
         "summary": "Algorithmes de recommandation : comprendre, optimiser et exemples concrets",
