@@ -118,7 +118,7 @@ Dans ma pratique, j'ai constaté que les professionnels qui abandonnent leur str
 
 Erreur no 2 : ne pas cibler de niche. Les spécialistes reconnus commandent des honoraires 13 fois supérieurs à ceux des généralistes. Ce différentiel est documenté et directement lié à la clarté du positionnement thématique en ligne.
 
-Erreur no 3 : confondre SEO de marque et personal branding SEO. Selon [Antoine Blot](https://antoine-blot.com), la confusion la plus fréquente chez les dirigeants est de croire que le SEO de leur entreprise suffit à les positionner personnellement comme experts. Google traite "Jean-Michel Tremblay" et "Agence Tremblay Conseils" comme deux entités distinctes. Les deux doivent être optimisées séparément.
+Erreur no 3 : confondre SEO de marque et personal branding SEO. Selon Antoine Blot, la confusion la plus fréquente chez les dirigeants est de croire que le SEO de leur entreprise suffit à les positionner personnellement comme experts. Google traite "Jean-Michel Tremblay" et "Agence Tremblay Conseils" comme deux entités distinctes. Les deux doivent être optimisées séparément.
 
 Erreur no 4 : négliger les mentions non linkées. Dans ma pratique à Montréal, cette erreur est quasi universelle. Un article de La Presse ou du Devoir qui cite votre nom sans lien est une opportunité manquée. 
 En 2026, le link building a évolué. L'objectif est d'influencer la façon dont les moteurs de recherche et les LLM comprennent votre marque. Pensez davantage comme un professionnel des relations publiques. Votre objectif est une visibilité complète sur le web, des backlinks traditionnels aux mentions en forum jusqu'aux citations d'experts référencées par les IA.
@@ -152,7 +152,7 @@ Une récente enquête de Bain révèle qu'environ 80 % des consommateurs s'appui
 
 Le volume de recherche de marque, et non les backlinks, est le prédicteur le plus fort des citations IA (corrélation de 0,334). Cela signifie que les activités de construction de marque qui semblaient déconnectées du SEO impactent désormais directement la visibilité IA.
 
-Selon [Antoine Blot](https://antoine-blot.com), la méthodologie BlotMKT intègre trois leviers pour adapter le personal branding SEO à cette réalité :
+Selon Antoine Blot, la méthodologie BlotMKT intègre trois leviers pour adapter le personal branding SEO à cette réalité :
 
 1. Structurer le contenu en blocs autonomes de 200 à 500 mots, chacun capable de répondre à une requête précise sans contexte supplémentaire. 
 Chaque chunk sémantique doit répondre de façon complète à une requête potentielle.
@@ -203,7 +203,7 @@ Ajouter des statistiques à votre contenu peut augmenter votre visibilité IA de
 
 Oui, sans exception. Votre site personnel est la seule propriété numérique que vous contrôlez entièrement. 
 Les articles LinkedIn sont indexés par Google, ce qui signifie que votre contenu peut attirer du trafic externe depuis les résultats de recherche.
- Mais LinkedIn peut modifier ses règles ou fermer des fonctionnalités du jour au lendemain. Même le meilleur contenu structuré ne sera pas cité par un LLM si la page présente des problèmes techniques : temps de chargement lent, canoniques brisées ou Schema mal configuré. Avant d'investir dans une stratégie de citation IA, un audit SEO technique de base est indispensable.
+ Mais LinkedIn peut modifier ses règles ou fermer des fonctionnalités du jour au lendemain. Même le meilleur contenu structuré ne sera pas cité par un LLM si la page présente des problèmes techniques : temps de chargement lent, canoniques brisées ou Schema mal configuré. Avant d'investir dans une stratégie de citation IA, un [audit SEO technique](https://blotmkt.com/ia/audit/audit-seo-technique.html) de base est indispensable.
 
 ### Combien de temps faut-il pour voir des résultats avec le personal branding SEO ?
 

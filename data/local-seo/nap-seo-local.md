@@ -146,7 +146,7 @@ Réalisez un audit complet lors du lancement d'une Stratégie SEO locale, après
 
 ---
 
-*Sources : Whitespark, Local Search Ranking Factors 2026 (whitespark.ca) ; so-creation-web.com, [SEO local](https://blotmkt.com/ia/definition/seo-local.html) 2026 ; guest-suite.com, Guide SEO local 2026 ; effetpapillon.fr, Citations SEO pour le référencement local, avril 2026 ; rezoactif.com, Citations locales SEO 2026 ; seolocal-expert.fr, Citations & Cohérence NAP 2026 ; business-ereputation.com, SEO local 2026 ; machinalead.com, Référencement local SEO guide 2026*
+*Sources : Whitespark, Local Search Ranking Factors 2026 (whitespark.ca) ; so-creation-web.com, SEO local 2026 ; guest-suite.com, Guide SEO local 2026 ; effetpapillon.fr, Citations SEO pour le référencement local, avril 2026 ; rezoactif.com, [Citations locales SEO](https://blotmkt.com/ia/local-seo/citations-locales-seo.html) 2026 ; seolocal-expert.fr, Citations & Cohérence NAP 2026 ; business-ereputation.com, SEO local 2026 ; machinalead.com, Référencement local SEO guide 2026*
 
 ---
 
@@ -158,4 +158,4 @@ Réalisez un audit complet lors du lancement d'une Stratégie SEO locale, après
 - [Citations locales seo : le guide complet pour votre visibilité locale en 2026](https://blotmkt.com/ia/local-seo/citations-locales-seo.html)
 - [Optimisation google maps : guide complet pour 2026](https://blotmkt.com/ia/local-seo/optimisation-google-maps.html)
 - [Rayon de visibilité: guide complet pour une signalétique impactante](https://blotmkt.com/ia/local-seo/rayon-de-visibilite.html)
-- [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/ia/audit/indexation-api-google.html)
+- [Votre audit SEO technique : la radiographie de précision qui révèle les failles invisibles de votre site et active les leviers insoupçonnés pour dominer votre marché](https://blotmkt.com/ia/audit/audit-seo-technique.html)

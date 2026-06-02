@@ -106,7 +106,7 @@ Trois leviers produisent les résultats les plus rapides avec le budget le plus 
 Mettre à jour un article existant coûte 3 à 5 fois moins cher que d'en créer un nouveau, pour des résultats souvent supérieurs. La règle : tout contenu classé entre la position 5 et 20 est un candidat prioritaire. Ahrefs permet d'identifier ces pages en moins de 10 minutes.
 
 **2. Ciblage de la longue traîne**
-Les requêtes de longue traîne génèrent des leads plus qualifiés à moindre coût concurrentiel. Sur les marchés québécois, cette logique est amplifiée par la spécificité linguistique : "consultant SEO Montréal" ou "agence SEO Rive-Nord" ont des volumes plus faibles mais des taux de conversion 2 à 4 fois supérieurs aux requêtes génériques.
+Les requêtes de longue traîne génèrent des leads plus qualifiés à moindre coût concurrentiel. Sur les marchés québécois, cette logique est amplifiée par la spécificité linguistique : "[Consultant SEO Montréal](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)" ou "agence SEO Rive-Nord" ont des volumes plus faibles mais des taux de conversion 2 à 4 fois supérieurs aux requêtes génériques.
 
 **3. A/B testing des titres et méta-descriptions dans Google Search Console**
 C'est le levier le plus sous-utilisé que je rencontre chez mes clients. Tester deux versions de title et de meta description sur des pages déjà positionnées améliore le CTR organique sans aucun budget supplémentaire. Chaque point de CTR gagné réduit mécaniquement le CAC sans toucher aux dépenses.
@@ -121,7 +121,7 @@ Incremys (2026) estime le ROI moyen d'un projet SEO local pour une PME à ×3 su
 
 Selon Antoine Blot, sur 10 sites B2B québécois analysés en 2026, le coût d'acquisition par lead via SEO était en moyenne 4,2 fois inférieur au coût d'acquisition via Google Ads sur les mêmes mots-clés transactionnels. Ce ratio illustre concrètement ce que les données de marché confirment à l'échelle globale.
 
-Exemple concret, éditeur SaaS B2B québécois : en janvier 2025, son CAC SEA atteignait 320 $ par lead qualifié. Après 12 mois de stratégie centrée sur la longue traîne et la mise à jour de contenus existants, son [CAC SEO s'établissait à 74 $](https://antoine-blot.com), pour des leads de qualité comparable mesurée par le taux de closing.
+Exemple concret, éditeur SaaS B2B québécois : en janvier 2025, son CAC SEA atteignait 320 $ par lead qualifié. Après 12 mois de stratégie centrée sur la longue traîne et la mise à jour de contenus existants, son CAC SEO s'établissait à 74 $, pour des leads de qualité comparable mesurée par le taux de closing.
 
 Selon Incremys (2026), le coût par lead issu du référencement naturel est inférieur de 61 % à celui de l'outbound marketing traditionnel. Le taux de closing des leads SEO atteint 14,6 %, contre seulement 1,7 % pour les leads outbound.
 
@@ -223,7 +223,7 @@ Les contenus "me too" sans expertise originale disparaissent des feeds lors des 
 
 ---
 
-*Sources : Incremys, Statistiques SEO 2026 (mars 2026) ; Similarweb, Zero-click search study (juillet 2025) ; Ahrefs, AI Overview CTR impact study (avril 2025) ; Gartner, Search volume forecast (2024) ; WordStream, Google Ads Benchmarks 2025 ; [antoine-blot.com](https://antoine-blot.com)*
+*Sources : Incremys, Statistiques SEO 2026 (mars 2026) ; Similarweb, Zero-click search study (juillet 2025) ; Ahrefs, AI Overview CTR impact study (avril 2025) ; Gartner, Search volume forecast (2024) ; WordStream, Google Ads Benchmarks 2025 ; antoine-blot.com*
 
 <!--FAQ_JSON
 [{"question": "Le SEO est-il rentable pour toutes les tailles d'entreprise ?", "answer": "Oui, avec des temporalités différentes selon la taille et le secteur. Pour les TPE/PME, le SEO local génère un ROI de ×3 sur 12 mois selon Incremys (2026). Pour les grandes entreprises, la LTV amortit le CAC SEO sur plusieurs années. Le SEO est particulièrement rentable pour les modèles à revenus récurrents comme le SaaS ou les abonnements."},

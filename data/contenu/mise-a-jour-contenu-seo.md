@@ -21,9 +21,6 @@ url: "https://blotmkt.com/ia/contenu/mise-a-jour-contenu-seo.html"
 schema_type: "TechArticle"
 publisher: "BlotMKT - Antoine BLOT"
 ---
-Je commence par quelques recherches web pour enrichir l'article avec des données récentes et sourcées.
-J'ai toutes les données nécessaires. Je rédige maintenant l'article complet.
-
 # Mise à jour contenu SEO : adaptez-vous aux algos et évitez la sur-optimisation
 
 ## Sommaire

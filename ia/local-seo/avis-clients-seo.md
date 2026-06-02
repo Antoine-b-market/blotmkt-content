@@ -185,4 +185,4 @@ Google Business Profile est le point de départ incontournable. Grade.us et Repu
 - [nap seo local : guide complet pour booster votre visibilité](https://blotmkt.com/ia/local-seo/nap-seo-local.html)
 - [Optimisation google maps : guide complet pour 2026](https://blotmkt.com/ia/local-seo/optimisation-google-maps.html)
 - [Rayon de visibilité: guide complet pour une signalétique impactante](https://blotmkt.com/ia/local-seo/rayon-de-visibilite.html)
-- [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/ia/audit/indexation-api-google.html)
+- [Votre audit SEO technique : la radiographie de précision qui révèle les failles invisibles de votre site et active les leviers insoupçonnés pour dominer votre marché](https://blotmkt.com/ia/audit/audit-seo-technique.html)

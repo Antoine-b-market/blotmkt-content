@@ -50,7 +50,7 @@ Vous publiez régulièrement. Vous ciblez des mots-clés. Vos positions s'améli
 
 Une stratégie éditoriale SEO est un système de production et de diffusion de contenu optimisé, conçu pour aligner les besoins de votre public cible, les intentions de recherche cartographiées par des outils comme Google Keyword Planner, et les exigences techniques des moteurs de recherche. Elle ne se limite pas à créer du contenu : elle gouverne quoi produire, pour qui, quand, et comment le rendre visible et citable.
 
-Ce qu'elle n'est pas : une liste d'articles à publier chaque mois. Ce qu'elle est plutôt : une architecture thématique qui renforce l'autorité d'un domaine sur des clusters de sujets précis, soutenue par une optimisation on-page rigoureuse (balises meta title et description, structure Hn, données structurées Schema.org) et une fondation technique saine.
+Ce qu'elle n'est pas : une liste d'articles à publier chaque mois. Ce qu'elle est plutôt : une architecture thématique qui renforce l'autorité d'un domaine sur des clusters de sujets précis, soutenue par une optimisation on-page rigoureuse (balises meta title et description, structure Hn, [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) Schema.org) et une fondation technique saine.
 
 La distinction est cruciale. 
 60 % des recherches Google se terminent désormais sans aucun clic vers un site web, contre 58 % en 2024.
@@ -188,7 +188,7 @@ Comme l'explique Antoine Blot : les entreprises qui traitent le SEO comme une ta
 
 ### Qu'est-ce qu'un audit SEO technique et est-ce vraiment nécessaire ?
 
-Un audit SEO technique est un diagnostic complet des fondations d'un site : crawlabilité, indexation, vitesse, données structurées Schema.org, redirections et Core Web Vitals. Il est indispensable parce que 91,4 % des sites présentent des problèmes de redirection (Digidop, 2025). Sans audit préalable, toute optimisation de contenu repose sur des fondations défaillantes, ce qui limite les résultats et le retour sur investissement de la stratégie globale.
+Un [audit SEO technique](https://blotmkt.com/ia/audit/audit-seo-technique.html) est un diagnostic complet des fondations d'un site : crawlabilité, indexation, vitesse, données structurées Schema.org, redirections et Core Web Vitals. Il est indispensable parce que 91,4 % des sites présentent des problèmes de redirection (Digidop, 2025). Sans audit préalable, toute optimisation de contenu repose sur des fondations défaillantes, ce qui limite les résultats et le retour sur investissement de la stratégie globale.
 
 ### Comment les AI Overviews impactent-elles concrètement mon trafic organique ?
 

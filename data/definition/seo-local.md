@@ -19,10 +19,9 @@ date_modified: "2026-05-24 05:13"
 slug: "seo-local"
 url: "https://blotmkt.com/ia/definition/seo-local.html"
 schema_type: "TechArticle"
+is_pillar: "false"
 publisher: "BlotMKT - Antoine BLOT"
 ---
-Je vais d'abord faire des recherches pour alimenter l'article avec des données récentes et sourcées.
-
 # SEO local : le guide complet pour dominer votre marché et attirer des clients
 
 ## Sommaire

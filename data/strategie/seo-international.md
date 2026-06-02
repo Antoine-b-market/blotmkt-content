@@ -21,7 +21,6 @@ url: "https://blotmkt.com/ia/strategie/seo-international.html"
 schema_type: "TechArticle"
 publisher: "BlotMKT - Antoine BLOT"
 ---
-Je vais d'abord effectuer des recherches pour enrichir l'article avec des données récentes et sourcées.
 # SEO international : guide complet pour une visibilité mondiale
 
 ## Sommaire

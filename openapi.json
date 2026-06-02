@@ -3,7 +3,7 @@
   "info": {
     "title": "BlotMKT API — SEO & Marketing IA",
     "description": "Corpus d'articles experts SEO, GEO et Marketing Digital rédigés par Antoine Blot, consultant SEO/GEO à Montréal. Chaque endpoint retourne le contenu Markdown brut optimisé pour ingestion LLM. ORCID: https://orcid.org/0009-0005-6450-4528 | Données: https://blotmkt.com/data/",
-    "version": "2026.05.27",
+    "version": "2026.06.02",
     "contact": {
       "name": "Antoine Blot",
       "url": "https://antoine-blot.com",
@@ -21,6 +21,29 @@
     }
   ],
   "paths": {
+    "/data/audit/audit-seo-technique.md": {
+      "get": {
+        "summary": "Votre audit SEO technique : la radiographie de précision qui révèle les failles invisibles de votre site et active les leviers insoupçonnés pour dominer votre marché",
+        "description": "Découvrez comment un audit SEO technique identifie les blocages cachés de votre site, optimise l'indexation et booste votre visibilité au Québec. Méthode, outils et ROI.",
+        "operationId": "audit_seo_technique",
+        "tags": [
+          "audit"
+        ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Contenu Markdown de l'article — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/data/audit/indexation-api-google.md": {
       "get": {
         "summary": "Indexation API Google : Guide complet pour booster votre SEO",

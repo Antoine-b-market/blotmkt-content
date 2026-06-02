@@ -21,10 +21,6 @@ url: "https://blotmkt.com/ia/strategie/audit-semantique-seo.html"
 schema_type: "TechArticle"
 publisher: "BlotMKT - Antoine BLOT"
 ---
-Je vais d'abord effectuer quelques recherches pour enrichir l'article avec des données récentes et sourcées.
-
----
-
 # Audit sémantique SEO : la clé d'une stratégie performante à l'ère des IA et du GEO
 
 ## Sommaire

@@ -57,7 +57,7 @@ Vous publiez des articles invités depuis des mois, mais vos positions ne bougen
 
 Le guest blogging consiste à rédiger un article publié sur le site d'un tiers. En échange, l'auteur obtient un backlink vers son propre domaine. Ce lien peut figurer dans la biographie auteur ou directement dans le corps du texte, sous forme contextuelle. C'est un échange de valeur : contenu éditorial pour le site hôte, autorité et visibilité pour le contributeur.
 
-En 2026, les backlinks demeurent parmi les trois premiers Facteurs de classement Google, aux côtés du contenu de qualité et de l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html). La nuance majeure : un lien hors thématique ne produit plus d'effet mesurable. La pertinence thématique entre site hôte et domaine cible est devenue un critère de premier rang, au même titre que l'autorité de domaine.
+En 2026, les backlinks demeurent parmi les trois premiers [Facteurs de classement Google](https://blotmkt.com/ia/popularite/facteurs-de-classement-google.html), aux côtés du contenu de qualité et de l'Intention de recherche. La nuance majeure : un lien hors thématique ne produit plus d'effet mesurable. La pertinence thématique entre site hôte et domaine cible est devenue un critère de premier rang, au même titre que l'autorité de domaine.
 
 J'observe dans ma pratique que les entreprises qui traitent le guest blogging comme une stratégie de relations - et non comme un outil de génération de liens en volume - obtiennent des résultats durables sur 12 à 18 mois. Le guest posting s'est transformé : d'une tactique de link building mécanique à une discipline hybride entre digital PR et content marketing.
 
@@ -67,7 +67,7 @@ J'observe dans ma pratique que les entreprises qui traitent le guest blogging co
 
 En 2026, les liens obtenus via guest blogging sur des domaines avec Trust Flow supérieur à 35 et pertinence thématique forte généraient un impact de positionnement mesurable en moins de 5 semaines, contre aucun impact pour les domaines hors thématique. Ce constat, issu de mon travail de [consultant SEO](https://www.antoine-blot.com/consultant-seo/), change radicalement la manière dont on doit évaluer chaque placement.
 
-Selon une enquête SEMrush 2024, 92 % des marketeurs confirment que les backlinks issus d'articles invités restent parmi les premiers [Facteurs de classement Google](https://blotmkt.com/ia/popularite/facteurs-de-classement-google.html). Les sites publiant régulièrement des articles invités rapportent une hausse moyenne de 34 % du trafic de référence et une amélioration de 22 % de l'autorité de domaine en six mois. La notoriété de marque bénéficie aussi d'une exposition croisée difficile à obtenir autrement : des études indiquent une amélioration de la notoriété jusqu'à 50-70 % grâce au guest blogging stratégique.
+Selon une enquête SEMrush 2024, 92 % des marketeurs confirment que les backlinks issus d'articles invités restent parmi les premiers Facteurs de classement Google. Les sites publiant régulièrement des articles invités rapportent une hausse moyenne de 34 % du trafic de référence et une amélioration de 22 % de l'autorité de domaine en six mois. La notoriété de marque bénéficie aussi d'une exposition croisée difficile à obtenir autrement : des études indiquent une amélioration de la notoriété jusqu'à 50-70 % grâce au guest blogging stratégique.
 
 Les inconvénients sont réels et sous-estimés. La rédaction d'un article invité de qualité mobilise entre 3 et 6 heures. Les liens toxiques menacent les profils de backlinks mal surveillés. Les réseaux de sites et ancres sur-optimisées exposent à des actions manuelles Google. Ce n'est pas une arme universelle - c'est un levier de précision.
 
@@ -175,6 +175,6 @@ Il n'existe pas de chiffre universel. Sur les projets que je pilote, 4 à 6 plac
 
 - [Désindexation google : comprendre, agir et optimiser votre seo](https://blotmkt.com/ia/popularite/desindexation-google.html)
 - [Facteurs de classement Google : le guide ultime 2026 pour dominer les SERPs](https://blotmkt.com/ia/popularite/facteurs-de-classement-google.html)
+- [Votre audit SEO technique : la radiographie de précision qui révèle les failles invisibles de votre site et active les leviers insoupçonnés pour dominer votre marché](https://blotmkt.com/ia/audit/audit-seo-technique.html)
 - [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/ia/audit/indexation-api-google.html)
 - [L'alt text image : votre passeport pour l'accessibilité et la performance seo ia](https://blotmkt.com/ia/contenu/alt-text-image.html)
-- [Call to action : le guide ultime pour convertir vos prospects](https://blotmkt.com/ia/contenu/call-to-action.html)

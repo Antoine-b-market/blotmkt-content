@@ -2,7 +2,7 @@
 title: "SEO Local — Index Markdown"
 summary: "Corpus SEO Local en version Markdown pour citation, ingestion LLM ou integration RAG."
 author: "Antoine Blot"
-date: "2026-05-27"
+date: "2026-06-02"
 license: "CC BY 4.0"
 canonical_url: "https://blotmkt.com/data/index-local-seo.md"
 robots: "index, follow"

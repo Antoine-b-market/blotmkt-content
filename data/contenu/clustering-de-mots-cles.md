@@ -21,8 +21,6 @@ url: "https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html"
 schema_type: "TechArticle"
 publisher: "BlotMKT - Antoine BLOT"
 ---
-
-```markdown
 # Clustering de mots-clés : guide complet pour booster votre SEO
 
 ## Sommaire
@@ -41,7 +39,7 @@ Vous publiez du contenu, vous ciblez des mots-clés, vos positions stagnent. Le 
 > ## L'essentiel à retenir
 > - Le clustering regroupe des mots-clés similaires par intention commune pour cibler plusieurs requêtes sur une seule page.
 > - Les sites avec topic clusters génèrent entre 30 et 43 % de trafic organique supplémentaire (HubSpot, HireGrowth 2025).
-> - Une intention de recherche = un cluster de mots-clés = une page : c'est la règle fondamentale.
+> - Une [Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) = un cluster de mots-clés = une page : c'est la règle fondamentale.
 > - Les sites organisés en clusters reçoivent 3,2 fois plus de citations dans les systèmes IA (Yext, 2025).
 > - Le clustering réduit la cannibalisation SEO et améliore la capacité de crawl de votre site.
 <!-- speakable:end -->

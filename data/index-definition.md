@@ -2,7 +2,7 @@
 title: "Définitions SEO & GEO — Index Markdown"
 summary: "Corpus Définitions SEO & GEO en version Markdown pour citation, ingestion LLM ou integration RAG."
 author: "Antoine Blot"
-date: "2026-05-27"
+date: "2026-06-02"
 license: "CC BY 4.0"
 canonical_url: "https://blotmkt.com/data/index-definition.md"
 robots: "index, follow"

@@ -21,7 +21,6 @@ url: "https://blotmkt.com/ia/contenu/call-to-action.html"
 schema_type: "TechArticle"
 publisher: "BlotMKT - Antoine BLOT"
 ---
-Je commence par des recherches pour enrichir l'article avec des données récentes et sourcées.
 # Call to action : le guide ultime pour convertir vos prospects
 
 ## Sommaire

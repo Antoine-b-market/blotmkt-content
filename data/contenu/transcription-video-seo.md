@@ -21,10 +21,6 @@ url: "https://blotmkt.com/ia/contenu/transcription-video-seo.html"
 schema_type: "TechArticle"
 publisher: "BlotMKT - Antoine BLOT"
 ---
-Je vais d'abord effectuer quelques recherches pour enrichir l'article avec des données récentes et sourcées.
-
----
-
 # Transcription vidéo SEO : le guide complet pour booster votre référencement
 
 ## Sommaire
