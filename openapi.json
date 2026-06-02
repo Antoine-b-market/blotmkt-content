@@ -21,29 +21,6 @@
     }
   ],
   "paths": {
-    "/data/audit/audit-seo-technique.md": {
-      "get": {
-        "summary": "Votre audit SEO technique : la radiographie de précision qui révèle les failles invisibles de votre site et active les leviers insoupçonnés pour dominer votre marché",
-        "description": "Découvrez comment un audit SEO technique identifie les blocages cachés de votre site, optimise l'indexation et booste votre visibilité au Québec. Méthode, outils et ROI.",
-        "operationId": "audit_seo_technique",
-        "tags": [
-          "audit"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     "/data/audit/indexation-api-google.md": {
       "get": {
         "summary": "Indexation API Google : Guide complet pour booster votre SEO",
@@ -72,29 +49,6 @@
         "summary": "L'alt text image : votre passeport pour l'accessibilité et la performance seo ia",
         "description": "Maîtrisez l'alt text image pour booster votre SEO, améliorer l'accessibilité et préparer vos contenus à l'ère de l'IA. Découvrez nos astuces d'expert pour des images puissantes.",
         "operationId": "alt_text_image",
-        "tags": [
-          "contenu"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/contenu/call-to-action.md": {
-      "get": {
-        "summary": "Call to action : le guide ultime pour convertir vos prospects",
-        "description": "Maîtrisez le Call to Action (CTA) et transformez vos visiteurs en clients. Exemples concrets, conseils d'experts et stratégies éprouvées pour des conversions maximales.",
-        "operationId": "call_to_action",
         "tags": [
           "contenu"
         ],
@@ -1496,7 +1450,7 @@
     "/data/strategie/agence-seo-montreal.md": {
       "get": {
         "summary": "Agence SEO montréal : au-delà des services classiques, l'expertise stratégique locale",
-        "description": "Découvrez comment choisir votre agence SEO à Montréal. Consultant expert ou agence ? Comparez pour maximiser visibilité & ROI au Québec.",
+        "description": "Découvrez comment choisir votre agence SEO à Montréal. Consultant expert ou agence ? Comparez les approches pour maximiser votre visibilité et ROI au Québec.",
         "operationId": "agence_seo_montreal",
         "tags": [
           "strategie"

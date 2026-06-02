@@ -98,7 +98,7 @@ Chaque outil occupe un rôle distinct dans la chaîne de récupération :
 |---|---|---|
 | Google Search Console | Détection des actions manuelles, export de backlinks | Gratuit, données directes Google |
 | Ahrefs | Audit de backlinks approfondi, détection de liens toxiques | Index le plus large du marché |
-| SEMrush | Analyse de backlinks + [audit SEO technique](https://blotmkt.com/ia/audit/audit-seo-technique.html) | Suite tout-en-un |
+| SEMrush | Analyse de backlinks + audit SEO technique | Suite tout-en-un |
 | Moz Link Explorer | Évaluation de l'autorité de domaine et du spam score | Interface accessible, métriques claires |
 | Google Disavow Tool | Neutralisation des liens non supprimables | Outil officiel Google, intégré à la Search Console |
 

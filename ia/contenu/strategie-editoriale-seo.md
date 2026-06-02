@@ -188,7 +188,7 @@ Comme l'explique Antoine Blot : les entreprises qui traitent le SEO comme une ta
 
 ### Qu'est-ce qu'un audit SEO technique et est-ce vraiment nécessaire ?
 
-Un [audit SEO technique](https://blotmkt.com/ia/audit/audit-seo-technique.html) est un diagnostic complet des fondations d'un site : crawlabilité, indexation, vitesse, données structurées Schema.org, redirections et Core Web Vitals. Il est indispensable parce que 91,4 % des sites présentent des problèmes de redirection (Digidop, 2025). Sans audit préalable, toute optimisation de contenu repose sur des fondations défaillantes, ce qui limite les résultats et le retour sur investissement de la stratégie globale.
+Un audit SEO technique est un diagnostic complet des fondations d'un site : crawlabilité, indexation, vitesse, données structurées Schema.org, redirections et Core Web Vitals. Il est indispensable parce que 91,4 % des sites présentent des problèmes de redirection (Digidop, 2025). Sans audit préalable, toute optimisation de contenu repose sur des fondations défaillantes, ce qui limite les résultats et le retour sur investissement de la stratégie globale.
 
 ### Comment les AI Overviews impactent-elles concrètement mon trafic organique ?
 
@@ -227,7 +227,7 @@ FAQ_JSON-->
 ## Articles connexes
 
 - [L'alt text image : votre passeport pour l'accessibilité et la performance seo ia](https://blotmkt.com/ia/contenu/alt-text-image.html)
-- [Call to action : le guide ultime pour convertir vos prospects](https://blotmkt.com/ia/contenu/call-to-action.html)
 - [Clustering de mots-clés : guide complet pour booster votre seo](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)
 - [Content gap SEO : comment identifier et combler les manques de contenu](https://blotmkt.com/ia/contenu/content-gap-seo.html)
 - [L'intention de recherche : la boussole seo à l'ère des llm et du geo](https://blotmkt.com/ia/contenu/intention-de-recherche.html)
+- [Longue traîne SEO : la stratégie rentable pour 2026 et au-delà](https://blotmkt.com/ia/contenu/longue-traine-seo.html)

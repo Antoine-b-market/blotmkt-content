@@ -175,6 +175,6 @@ Il n'existe pas de chiffre universel. Sur les projets que je pilote, 4 à 6 plac
 
 - [Désindexation google : comprendre, agir et optimiser votre seo](https://blotmkt.com/ia/popularite/desindexation-google.html)
 - [Facteurs de classement Google : le guide ultime 2026 pour dominer les SERPs](https://blotmkt.com/ia/popularite/facteurs-de-classement-google.html)
-- [Votre audit SEO technique : la radiographie de précision qui révèle les failles invisibles de votre site et active les leviers insoupçonnés pour dominer votre marché](https://blotmkt.com/ia/audit/audit-seo-technique.html)
 - [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/ia/audit/indexation-api-google.html)
 - [L'alt text image : votre passeport pour l'accessibilité et la performance seo ia](https://blotmkt.com/ia/contenu/alt-text-image.html)
+- [Clustering de mots-clés : guide complet pour booster votre seo](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)
