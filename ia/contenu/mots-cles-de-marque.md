@@ -19,7 +19,7 @@ date_modified: "2026-05-14 04:06"
 slug: "mots-cles-de-marque"
 url: "https://blotmkt.com/ia/contenu/mots-cles-de-marque.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Mots-clés de marque : maîtrisez votre visibilité et protégez votre réputation
 

@@ -19,7 +19,7 @@ date_modified: "2026-05-14 03:31"
 slug: "longue-traine-seo"
 url: "https://blotmkt.com/ia/contenu/longue-traine-seo.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Longue traîne SEO : la stratégie rentable pour 2026 et au-delà
 

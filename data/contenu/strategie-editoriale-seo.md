@@ -19,7 +19,7 @@ date_modified: "2026-05-27 06:24"
 slug: "strategie-editoriale-seo"
 url: "https://blotmkt.com/ia/contenu/strategie-editoriale-seo.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Stratégie éditoriale SEO : bâtir une performance organique durable à l'ère de l'IA
 

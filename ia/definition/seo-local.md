@@ -20,7 +20,7 @@ slug: "seo-local"
 url: "https://blotmkt.com/ia/definition/seo-local.html"
 schema_type: "TechArticle"
 is_pillar: "false"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # SEO local : le guide complet pour dominer votre marché et attirer des clients
 

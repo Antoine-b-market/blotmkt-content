@@ -19,7 +19,7 @@ date_modified: "2026-05-24"
 slug: "trust-flow-seo"
 url: "https://blotmkt.com/ia/definition/trust-flow-seo.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Trust flow SEO : comprendre et booster l'autorité de votre site
 

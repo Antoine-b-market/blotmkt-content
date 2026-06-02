@@ -19,7 +19,7 @@ date_modified: "2026-05-24 05:13"
 slug: "ancre-de-lien"
 url: "https://blotmkt.com/ia/definition/ancre-de-lien.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Ancre de lien : rôle crucial en SEO et stratégie d'optimisation pour l'ère IA
 

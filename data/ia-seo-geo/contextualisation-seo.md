@@ -22,7 +22,7 @@ related_articles:
 sources:
   - https://blotmkt.com
   - https://antoine-blot.com
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 
 # Contextualisation SEO : Le guide ultime pour 2026

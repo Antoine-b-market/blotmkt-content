@@ -25,7 +25,7 @@ sources:
   - https://digitad.ca/facteurs-seo/
   - https://solutions.yp.ca/fr/digital-marketing/seo
   - https://cyberperformance.ca/comment-obtenir-une-meilleure-visibilite-sur-google-guide-expert/
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 
 # Discover Google SEO : les clés d'une stratégie performante et les erreurs à éviter en 2026

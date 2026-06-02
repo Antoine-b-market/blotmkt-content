@@ -19,7 +19,7 @@ date_modified: "2026-05-14 04:10"
 slug: "optimisation-de-contenu"
 url: "https://blotmkt.com/ia/contenu/optimisation-de-contenu.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Optimisation de contenu : le guide complet 2026 pour un SEO durable
 

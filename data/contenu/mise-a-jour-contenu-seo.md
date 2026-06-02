@@ -19,7 +19,7 @@ date_modified: "2026-05-14 03:52"
 slug: "mise-a-jour-contenu-seo"
 url: "https://blotmkt.com/ia/contenu/mise-a-jour-contenu-seo.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Mise à jour contenu SEO : adaptez-vous aux algos et évitez la sur-optimisation
 

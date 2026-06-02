@@ -25,7 +25,7 @@ sources:
   - https://www.whitepress.com/fr/base-de-connaissances/1902/articles-invites
   - https://solutions.lesechos.fr/business/strategie-marketing/l-importance-strategique-des-articles-invites-dans-le-seo/
   - https://www.adimeo.com/blog/guest-blogging
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 
 # Guest blogging SEO : guide complet pour un référencement durable en 2026

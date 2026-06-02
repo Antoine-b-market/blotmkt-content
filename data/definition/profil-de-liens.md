@@ -19,7 +19,7 @@ date_modified: "2026-05-24 05:14"
 slug: "profil-de-liens"
 url: "https://blotmkt.com/ia/definition/profil-de-liens.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Profil de liens : le guide ultime pour un SEO performant
 

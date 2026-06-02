@@ -25,7 +25,7 @@ sources:
   - https://developers.google.com/search/apis/indexing-api/v3/using-api?hl=fr
   - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjdJYlbDx1glCiZTbjkJcLY-3qK69ge99QDUyVbv_g4UbCDkHd69yz2HGN5Uazaqhcq9_sniUpUdPcOjUvuGxerVTmsfuI-LMYkd22EcydNqSBCd9GvIdb9-3RqG1OCrbXoSL5wyVpjFA_
   - https://www.reddit.com/r/microsaas/comments/1sadic8/the_google_indexing_api_explained_what_it_is_how/?tl=fr
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 
 # Indexation API Google : guide complet pour booster votre SEO

@@ -19,7 +19,7 @@ date_modified: "2026-05-14 04:04"
 slug: "redaction-ia-assistee"
 url: "https://blotmkt.com/ia/contenu/redaction-ia-assistee.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Rédaction IA assistée : maximisez votre SEO et votre productivité en 2026
 

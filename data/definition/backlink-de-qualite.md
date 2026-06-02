@@ -19,7 +19,7 @@ date_modified: "2026-05-24"
 slug: "backlink-de-qualite"
 url: "https://blotmkt.com/ia/definition/backlink-de-qualite.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Backlink de qualité : le guide complet pour booster votre SEO
 

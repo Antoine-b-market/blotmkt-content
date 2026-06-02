@@ -22,7 +22,7 @@ related_articles:
 sources:
   - https://blotmkt.com
   - https://antoine-blot.com
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 
 # PageRank Google : l'algorithme, son histoire et son impact SEO actuel

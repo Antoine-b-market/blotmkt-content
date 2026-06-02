@@ -1,6 +1,6 @@
 ---
 title: "geo : le guide complet pour dominer la recherche boostée par l'ia"
-description: "Découvrez notre guide complet sur le GEO (Generated Engagement Optimization). Maîtrisez les stratégies pour une visibilité optimale dans les réponses IA et le futur du search."
+description: "Découvrez notre guide complet sur le GEO (Generative Engine Optimization). Maîtrisez les stratégies pour une visibilité optimale dans les réponses IA et le futur du search."
 keyword: "GEO guide complet"
 category: "ia-seo-geo"
 canonical_url: "https://blotmkt.com/ia/ia-seo-geo/geo-guide-complet.html"
@@ -22,7 +22,7 @@ related_articles:
 sources:
   - https://blotmkt.com
   - https://antoine-blot.com
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 
 # GEO : le guide complet pour dominer la recherche boostée par l'IA

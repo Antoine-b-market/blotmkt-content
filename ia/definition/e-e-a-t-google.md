@@ -25,7 +25,7 @@ sources:
   - https://mailchimp.com/resources/google-eeat/
   - https://www.semrush.com/blog/eeat/
   - https://www.seo.com/basics/glossary/e-e-a-t/
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 
 # E-e-a-t Google : le guide ultime pour booster votre SEO

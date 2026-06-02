@@ -19,7 +19,7 @@ date_modified: "2026-05-14 03:50"
 slug: "content-gap-seo"
 url: "https://blotmkt.com/ia/contenu/content-gap-seo.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Content gap SEO : comment identifier et combler les manques de contenu
 

@@ -25,7 +25,7 @@ sources:
   - https://www.clickrank.ai/fr/google-algorithm-updates-history/
   - https://yurcom.net/2023/01/27/le-changements-de-lalgorithme-google-a-travers-les-ages/
   - https://rablab.ca/blog/comprendre-algorithme-google/
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 
 # Algorithme Google : comprendre son fonctionnement et éviter les pièges SEO

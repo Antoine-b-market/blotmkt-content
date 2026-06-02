@@ -19,7 +19,7 @@ date_modified: "2026-05-27 06:50"
 slug: "algorithme-de-recommandation"
 url: "https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Algorithmes de recommandation : comprendre, optimiser et exemples concrets
 

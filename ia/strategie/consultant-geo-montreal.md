@@ -19,7 +19,7 @@ date_modified: "2026-05-27 06:42"
 slug: "consultant-geo-montreal"
 url: "https://blotmkt.com/ia/strategie/consultant-geo-montreal.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Consultant GEO Montréal : l'expert de votre visibilité IA et organique en 2026
 

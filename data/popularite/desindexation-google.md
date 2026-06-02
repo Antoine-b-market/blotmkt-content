@@ -19,7 +19,7 @@ date_modified: "2026-05-26 20:31"
 slug: "desindexation-google"
 url: "https://blotmkt.com/ia/popularite/desindexation-google.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Désindexation Google : comprendre, agir et optimiser votre SEO
 

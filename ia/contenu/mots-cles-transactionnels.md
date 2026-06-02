@@ -19,7 +19,7 @@ date_modified: "2026-05-14 04:08"
 slug: "mots-cles-transactionnels"
 url: "https://blotmkt.com/ia/contenu/mots-cles-transactionnels.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Mots-clés transactionnels : le guide ultime pour booster vos conversions
 

@@ -25,7 +25,7 @@ sources:
   - https://www.miss-seo-girl.com/seo-local-ia-impact-strategies/
   - https://expertlocal.ca/blogue/ia-seo-local-avenir.html
   - https://agendafamilial.ca/lere-de-lintelligence-artificielle-a-boucherville-au-dela-du-referencement-traditionnel/
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 
 # Citations par ia: impact sur la crédibilité et le référencement en 2026

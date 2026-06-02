@@ -25,7 +25,7 @@ sources:
   - https://mooood.fr/moteur-reponse/
   - https://fr.wikipedia.org/wiki/Moteur_de_r%C3%A9ponse
   - https://advalians.fr/glossaire/moteur-de-reponses
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 
 # Moteurs de réponse : guide complet pour comprendre et les utiliser

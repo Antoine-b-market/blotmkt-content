@@ -19,7 +19,7 @@ date_modified: "2026-05-27 06:34"
 slug: "agence-geo-montreal"
 url: "https://blotmkt.com/ia/strategie/agence-geo-montreal.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Agence GEO Montréal : propulsez votre visibilité IA et locale en 2026
 

@@ -19,7 +19,7 @@ date_modified: "2026-05-24 05:14"
 slug: "maillage-interne-seo"
 url: "https://blotmkt.com/ia/definition/maillage-interne-seo.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Maillage interne SEO : structurez votre site pour dominer les SERP
 

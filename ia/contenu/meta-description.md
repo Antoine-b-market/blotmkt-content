@@ -19,7 +19,7 @@ date_modified: "2026-05-14"
 slug: "meta-description"
 url: "https://blotmkt.com/ia/contenu/meta-description.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Méta description : guide ultime pour optimiser votre SEO
 

@@ -19,7 +19,7 @@ date_modified: "2026-05-23 04:31"
 slug: "topic-cluster"
 url: "https://blotmkt.com/ia/definition/topic-cluster.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Topic cluster : le guide essentiel pour un SEO 2026 optimisé IA
 

@@ -20,7 +20,7 @@ slug: "consultant-seo-montreal"
 url: "https://blotmkt.com/ia/strategie/consultant-seo-montreal.html"
 schema_type: "TechArticle"
 is_pillar: "true"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Consultant SEO Montréal : votre expert pour dominer Google et l'IA en 2026
 
@@ -79,7 +79,7 @@ Selon [Antoine Blot](https://antoine-blot.com), une stratégie efficace en 2026 
 
 **Pilier 1 : l'audit comme fondation.** Avant toute action d'optimisation locale ou de création de contenu, un audit complet couvre : les Core Web Vitals via Google Search Console, l'analyse de log serveur pour identifier les pages crawlées et orphelines, la cartographie sémantique des intentions de recherche, et l'analyse concurrentielle par mot-clé stratégique. L'outil Screaming Frog pour le technique, Semrush ou Ahrefs pour le sémantique et les backlinks.
 
-**Pilier 2 : le contenu hybride.** Le contenu doit désormais servir deux maîtres simultanément : Google classique et les Search Generative Experiences. Les structures de données FAQ (FAQ Schema via Schema.org), les réponses directes en langage naturel, et les sections "Selon [auteur expert]" augmentent significativement la probabilité d'être cité dans une AI Overview. Selon les données Ahrefs (novembre 2025), 99,9 % des requêtes informationnelles déclenchent désormais une AI Overview.
+**Pilier 2 : le contenu hybride.** Le contenu doit désormais servir deux maîtres simultanément : Google classique et les Search Generative Experiences. Les structures de données FAQ (FAQ Schema via Schema.org), les réponses directes en langage naturel, et les sections "Selon [auteur expert]" augmentent significativement la probabilité d'être cité dans une AI Overview. La grande majorité des requêtes informationnelles déclenchent un AI Overview (Ahrefs, novembre 2025).
 
 **Pilier 3 : le [SEO local](https://blotmkt.com/ia/definition/seo-local.html) renforcé.** Google Business Profile (ex-Google My Business), citations NAP cohérentes sur les annuaires québécois, signaux de proximité géolocalisés. Les recherches locales sur mobile donnent lieu à une visite physique dans 76 % des cas selon les données agrégées de l'industrie.
 

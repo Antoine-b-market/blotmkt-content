@@ -19,7 +19,7 @@ date_modified: "2026-05-26 20:31"
 slug: "citations-locales-seo"
 url: "https://blotmkt.com/ia/local-seo/citations-locales-seo.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Citations locales SEO : le guide complet pour votre visibilité locale en 2026
 

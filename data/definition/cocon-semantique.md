@@ -25,7 +25,7 @@ sources:
   - https://julien-gourdon.fr/lexique/cocon-semantique
   - https://mastercaweb.unistra.fr/actualites/marketing-digital/cocon-semantique-la-strategie-pour-ameliorer-son-referencement-seo/
   - https://www.alix-co.fr/seo/cocons-semantiques-et-maillage-interne-une-strategie-pour-se-referencer-durablement/
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 
 # Cocon sémantique : Définition, Méthodologie et Avantages SEO

@@ -21,7 +21,7 @@ related_articles:
 sources:
   - https://blotmkt.com
   - https://antoine-blot.com
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 
 # AEO answer engine optimization : guide complet pour dominer les moteurs de réponse

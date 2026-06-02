@@ -19,7 +19,7 @@ date_modified: "2026-05-27"
 slug: "clustering-de-mots-cles"
 url: "https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Clustering de mots-clés : guide complet pour booster votre SEO
 

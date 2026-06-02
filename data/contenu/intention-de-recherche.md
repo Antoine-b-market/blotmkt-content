@@ -19,7 +19,7 @@ date_modified: "2026-05-24 05:14"
 slug: "intention-de-recherche"
 url: "https://blotmkt.com/ia/contenu/intention-de-recherche.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # L'intention de recherche : la boussole SEO à l'ère des LLM et du GEO
 

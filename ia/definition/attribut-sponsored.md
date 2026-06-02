@@ -19,7 +19,7 @@ date_modified: "2026-05-24 05:14"
 slug: "attribut-sponsored"
 url: "https://blotmkt.com/ia/definition/attribut-sponsored.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Attribut sponsored : guide complet pour une stratégie SEO conforme
 

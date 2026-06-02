@@ -19,7 +19,7 @@ date_modified: "2026-05-27 06:23"
 slug: "transcription-video-seo"
 url: "https://blotmkt.com/ia/contenu/transcription-video-seo.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Transcription vidéo SEO : le guide complet pour booster votre référencement
 

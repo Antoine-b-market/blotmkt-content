@@ -25,7 +25,7 @@ sources:
   - https://blog.hubspot.fr/marketing/consequences-recherche-vocale-seo
   - https://semji.com/fr/blog/recherches-vocales-et-seo/
   - https://caseo.ch/blog/recherche-vocale-seo
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 
 # Recherche vocale SEO : guide complet pour optimiser votre présence vocale

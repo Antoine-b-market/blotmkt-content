@@ -25,7 +25,7 @@ sources:
   - https://seranking.com/blog/featured-snippets/
   - https://www.semrush.com/blog/featured-snippets/
   - https://mailchimp.com/marketing-glossary/featured-snippet/
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 
 # Featured snippet : guide ultime pour dominer la position zéro

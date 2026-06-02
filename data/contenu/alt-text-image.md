@@ -19,7 +19,7 @@ date_modified: "2026-05-27 06:25"
 slug: "alt-text-image"
 url: "https://blotmkt.com/ia/contenu/alt-text-image.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # L'alt text image : votre passeport pour l'accessibilité et la performance SEO IA
 

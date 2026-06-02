@@ -19,7 +19,7 @@ date_modified: "2026-05-27 06:24"
 slug: "structure-hn-seo"
 url: "https://blotmkt.com/ia/contenu/structure-hn-seo.html"
 schema_type: "TechArticle"
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 # Structure HN SEO : le guide complet pour optimiser votre contenu et captiver Google & l'IA
 

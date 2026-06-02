@@ -25,7 +25,7 @@ sources:
   - https://www.adimeo.com/blog/eeat-google
   - https://www.lumyastudio.com/critere-eeat-google/
   - https://www.sebastien-vallat.com/eeat-google-booster-votre-visibilite/
-publisher: "BlotMKT - Antoine BLOT"
+publisher: "BlotMKT - Antoine Blot"
 ---
 
 # Strategie eeat : l'approche systémique pour une autorité numérique durable
