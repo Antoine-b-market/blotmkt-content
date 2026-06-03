@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blotmkt.com/</loc>
-    <lastmod>2026-06-02</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://blotmkt.com/ia/a-propos.html</loc>
-    <lastmod>2026-06-02</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -375,12 +375,6 @@
   <url>
     <loc>https://blotmkt.com/ia/popularite/guest-blogging-seo.html</loc>
     <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://blotmkt.com/ia/strategie/agence-seo-montreal.html</loc>
-    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
