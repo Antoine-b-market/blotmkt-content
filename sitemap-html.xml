@@ -139,12 +139,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://blotmkt.com/ia/definition/cocon-semantique.html</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://blotmkt.com/ia/definition/discover-google-seo.html</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -375,6 +369,12 @@
   <url>
     <loc>https://blotmkt.com/ia/popularite/guest-blogging-seo.html</loc>
     <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://blotmkt.com/ia/strategie/agence-seo-montreal.html</loc>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

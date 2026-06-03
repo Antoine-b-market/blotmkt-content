@@ -3,7 +3,7 @@
   "info": {
     "title": "BlotMKT API — SEO & Marketing IA",
     "description": "Corpus d'articles experts SEO, GEO et Marketing Digital rédigés par Antoine Blot, consultant SEO/GEO à Montréal. Chaque endpoint retourne le contenu Markdown brut optimisé pour ingestion LLM. ORCID: https://orcid.org/0009-0005-6450-4528 | Données: https://blotmkt.com/data/",
-    "version": "2026.06.02",
+    "version": "2026.06.03",
     "contact": {
       "name": "Antoine Blot",
       "url": "https://antoine-blot.com",
@@ -506,8 +506,8 @@
     },
     "/data/definition/cocon-semantique.md": {
       "get": {
-        "summary": "Cocon sémantique : Définition, Méthodologie et Avantages SEO",
-        "description": "Découvrez le cocon sémantique SEO : définition, construction, avantages, erreurs et checklist. Guide complet pour structurer votre contenu et booster votre SEO.",
+        "summary": "Cocon sémantique seo : guide complet définition, méthode et bénéfices",
+        "description": "maîtrisez le cocon sémantique seo : définition, étapes de construction, avantages pour votre référencement, outils et checklist d'optimisation. un guide expert par Antoine Blot.",
         "operationId": "cocon_semantique",
         "tags": [
           "definition"
@@ -1424,29 +1424,6 @@
         }
       }
     },
-    "/data/strategie/agence-geo-montreal.md": {
-      "get": {
-        "summary": "Agence geo montréal : propulsez votre visibilité ia et locale en 2026",
-        "description": "Découvrez l'expertise des agences GEO à Montréal pour une visibilité IA et locale en 2026. Services, ROI, coûts et choix : guide pour votre stratégie québécoise.",
-        "operationId": "agence_geo_montreal",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     "/data/strategie/agence-seo-montreal.md": {
       "get": {
         "summary": "Agence SEO montréal : au-delà des services classiques, l'expertise stratégique locale",
@@ -1498,52 +1475,6 @@
         "summary": "Audit technique SEO : débloquez la pleine puissance de votre site au québec",
         "description": "Découvrez pourquoi l'audit technique SEO est crucial pour votre site. Étapes, outils, et impact sur votre visibilité au Québec. Optimisez performance, indexation et conversion.",
         "operationId": "audit_technique_seo",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/consultant-geo-montreal.md": {
-      "get": {
-        "summary": "Consultant GEO montréal : l'expert de votre visibilité IA et organique en 2026",
-        "description": "Boostez votre visibilité à Montréal. Un consultant GEO expert optimise votre présence dans les réponses IA et les résultats organiques pour capter plus de leads en 2026.",
-        "operationId": "consultant_geo_montreal",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/consultant-seo-montreal.md": {
-      "get": {
-        "summary": "Consultant SEO montréal : votre expert pour dominer google et l'IA en 2026",
-        "description": "Site invisible à Montréal ? Un consultant SEO expert transforme votre visibilité en croissance concrète. Maîtrisez Google, le GEO local et l'IA pour 2026. Contactez-nous !",
-        "operationId": "consultant_seo_montreal",
         "tags": [
           "strategie"
         ],

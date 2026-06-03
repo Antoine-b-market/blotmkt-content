@@ -96,7 +96,7 @@ Trois approches se combinent pour construire un portefeuille solide.
 
 **1. Le brainstorming orienté achat**
 
-Listez tous les verbes d'action associés à votre offre : "acheter", "commander", "télécharger", "réserver", "obtenir un devis". Croisez-les avec vos produits, vos zones géographiques et vos tranches de prix. Pour une entreprise B2B basée à Montréal, cela donne des requêtes comme "logiciel gestion RH prix PME Québec" ou "Agence SEO Montréal tarif".
+Listez tous les verbes d'action associés à votre offre : "acheter", "commander", "télécharger", "réserver", "obtenir un devis". Croisez-les avec vos produits, vos zones géographiques et vos tranches de prix. Pour une entreprise B2B basée à Montréal, cela donne des requêtes comme "logiciel gestion RH prix PME Québec" ou "[agence SEO Montréal](https://blotmkt.com/ia/strategie/agence-seo-montreal.html) tarif".
 
 **2. L'analyse via outils SEO**
 
