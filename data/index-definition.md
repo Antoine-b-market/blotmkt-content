@@ -16,6 +16,7 @@ Ressources Définitions SEO & GEO par Antoine Blot, consultant SEO & GEO a Montr
 
 Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
 
+- [Cocon sémantique seo : guide complet définition, méthode et bénéfices](https://blotmkt.com/data/definition/cocon-semantique.md)
 - [Ancre de lien : rôle crucial en seo et stratégie d'optimisation pour l'ère ia](https://blotmkt.com/data/definition/ancre-de-lien.md)
 - [Attribut sponsored : guide complet pour une stratégie seo conforme](https://blotmkt.com/data/definition/attribut-sponsored.md)
 - [Backlink de qualité : le guide complet pour booster votre SEO](https://blotmkt.com/data/definition/backlink-de-qualite.md)
