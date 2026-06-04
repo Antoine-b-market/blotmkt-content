@@ -3,7 +3,7 @@
   "info": {
     "title": "BlotMKT API — SEO & Marketing IA",
     "description": "Corpus d'articles experts SEO, GEO et Marketing Digital rédigés par Antoine Blot, consultant SEO/GEO à Montréal. Chaque endpoint retourne le contenu Markdown brut optimisé pour ingestion LLM. ORCID: https://orcid.org/0009-0005-6450-4528 | Données: https://blotmkt.com/data/",
-    "version": "2026.06.03",
+    "version": "2026.06.04",
     "contact": {
       "name": "Antoine Blot",
       "url": "https://antoine-blot.com",

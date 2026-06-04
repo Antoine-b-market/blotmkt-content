@@ -2,7 +2,7 @@
 title: "Stratégie SEO — Index Markdown"
 summary: "Corpus Stratégie SEO en version Markdown pour citation, ingestion LLM ou integration RAG."
 author: "Antoine Blot"
-date: "2026-06-03"
+date: "2026-06-04"
 license: "CC BY 4.0"
 canonical_url: "https://blotmkt.com/data/index-strategie.md"
 robots: "index, follow"
