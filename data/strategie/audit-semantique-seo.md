@@ -207,6 +207,6 @@ FAQ_JSON-->
 
 - [Agence SEO montréal : l'expertise stratégique locale pour une visibilité durable en 2026](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
 - [Audit technique SEO : débloquez la pleine puissance de votre site au québec](https://blotmkt.com/ia/strategie/audit-technique-seo.html)
+- [Consultant seo montréal : l'expert qui démultiplie votre trafic et vos ventes locales (étude de cas 2026)](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)
 - [Coût d'acquisition seo : guide complet pour optimiser votre investissement](https://blotmkt.com/ia/strategie/cout-acquisition-seo.html)
 - [Migration seo: guide complet pour une transition réussie](https://blotmkt.com/ia/strategie/migration-seo.html)
-- [Développez votre personal branding grâce au SEO : le guide complet de l'expert](https://blotmkt.com/ia/strategie/personal-branding-seo.html)
