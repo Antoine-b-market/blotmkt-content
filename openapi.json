@@ -1426,8 +1426,8 @@
     },
     "/data/strategie/agence-seo-montreal.md": {
       "get": {
-        "summary": "Agence SEO montréal : au-delà des services classiques, l'expertise stratégique locale",
-        "description": "Découvrez comment choisir votre agence SEO à Montréal. Consultant expert ou agence ? Comparez les approches pour maximiser votre visibilité et ROI au Québec.",
+        "summary": "Agence seo montréal : le guide stratégique 2026 pour une expertise locale et durable",
+        "description": "Découvrez comment sélectionner la meilleure agence SEO à Montréal en 2026. Évitez les pièges, comprenez l'IA, l'E-E-A-T et le GEO pour une croissance organique locale et un ROI mesurable.",
         "operationId": "agence_seo_montreal",
         "tags": [
           "strategie"

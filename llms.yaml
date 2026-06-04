@@ -1,61 +1,46 @@
+api:
+  auth: X-API-Key header
+  openapi: https://blotmkt.com/openapi.json
+  params:
+    q: string (required)
+    top_k: integer (default 5)
+  search_endpoint: https://blotmkt.com/api/search
 author:
   email: contact@antoine-blot.com
   expertise:
   - SEO
   - GEO (Generative Engine Optimization)
-  - Marketing Digital
-  - Strategie de contenu
-  - Intelligence Artificielle appliquee au marketing
-  - Consultant SEO Montreal
-  identifiers:
-    github: https://github.com/Antoine-b-market/
-    orcid: https://orcid.org/0009-0005-6450-4528
-  languages:
-  - fr
-  - en
-  location: Montreal, Quebec, Canada
+  - Référencement naturel
+  - Stratégie de contenu
+  github: https://github.com/Antoine-b-market/
+  linkedin: https://www.linkedin.com/in/blotantoine/
+  location: Montréal, Québec, Canada
   name: Antoine Blot
-  social:
-    github: https://github.com/Antoine-b-market/
-    linkedin: https://www.linkedin.com/in/blotantoine/
-    orcid: https://orcid.org/0009-0005-6450-4528
-  title: Consultant SEO & Marketing Digital
+  orcid: https://orcid.org/0009-0005-6450-4528
+  title: Consultant SEO & GEO indépendant
   url: https://antoine-blot.com
 content_policy:
   citation: allowed with attribution
   contact: contact@antoine-blot.com
   indexing: allowed
 pages:
-- category: audit
-  date: 2026-05-05 11:23
-  description: Maîtrisez l'Indexation API Google pour accélérer l'exploration et l'indexation
-    de vos contenus. Découvrez les bonnes pratiques et les outils pour un SEO optimal.
-  html_url: https://blotmkt.com/ia/audit/indexation-api-google.html
-  keyword: Indexation API Google
-  title: 'Indexation API Google : Guide complet pour booster votre SEO'
-  url: https://blotmkt.com/data/audit/indexation-api-google.md
 - category: contenu
-  date: 2026-05-14 03:19
-  description: Maîtrisez l'alt text pour transformer vos images en atouts SEO, accessibilité
-    et visibilité IA. Découvrez comment optimiser vos descriptions pour Google et
-    les utilisateurs.
+  date: 2026-05-27 06:25
+  description: Maîtrisez l'alt text image pour booster votre SEO, améliorer l'accessibilité
+    et préparer vos contenus à l'ère de l'IA. Découvrez nos astuces d'expert pour
+    des images puissantes.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/contenu/alt-text-image.html
   keyword: Alt text image
-  title: 'Alt text image : le guide complet pour l''accessibilité, le SEO et la visibilité
-    IA'
+  title: 'L''alt text image : votre passeport pour l''accessibilité et la performance
+    seo ia'
   url: https://blotmkt.com/data/contenu/alt-text-image.md
 - category: contenu
-  date: 2026-05-14 03:22
-  description: Maîtrisez le call to action (CTA) et transformez vos visiteurs en clients.
-    Exemples concrets, conseils d'experts et stratégies éprouvées pour convertir.
-  html_url: https://blotmkt.com/ia/contenu/call-to-action.html
-  keyword: Call to action
-  title: 'Call to action : le guide ultime pour booster vos conversions'
-  url: https://blotmkt.com/data/contenu/call-to-action.md
-- category: contenu
-  date: 2026-05-14 03:24
-  description: Maîtrisez le clustering de mots-clés pour un seo optimisé. Organisez
-    vos mots-clés et ciblez efficacement votre audience. Guide complet.
+  date: 2026-05-27 06:25
+  description: Maîtrisez le clustering de mots-clés pour un SEO optimisé. Organisez
+    vos mots-clés, ciblez votre audience efficacement et boostez vos positions. Guide
+    complet.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html
   keyword: Clustering de mots-clés
   title: 'Clustering de mots-clés : guide complet pour booster votre seo'
@@ -65,23 +50,27 @@ pages:
   description: 'Découvrez le content gap SEO : définition, méthode, outils et comment
     combler les lacunes de contenu pour améliorer votre positionnement et attirer
     plus de trafic.'
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/contenu/content-gap-seo.html
   keyword: Content gap SEO
   title: 'Content gap SEO : comment identifier et combler les manques de contenu'
   url: https://blotmkt.com/data/contenu/content-gap-seo.md
 - category: contenu
-  date: 2026-05-14 03:29
-  description: Décryptez l'intention de recherche pour créer du contenu pertinent,
-    améliorer votre SEO et satisfaire vos utilisateurs. Guide essentiel.
+  date: 2026-05-24 05:14
+  description: Comprenez l'intention de recherche, clé du SEO 2026. Découvrez les
+    4 types, son impact sur les classements et comment les IA génératives redéfinissent
+    son optimisation.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/contenu/intention-de-recherche.html
   keyword: Intention de recherche
-  title: Maîtriser l'intention de recherche pour un seo éthique et performant
+  title: 'L''intention de recherche : la boussole seo à l''ère des llm et du geo'
   url: https://blotmkt.com/data/contenu/intention-de-recherche.md
 - category: contenu
   date: 2026-05-14 03:31
   description: Maximisez votre ROI avec la longue traîne SEO. Découvrez la stratégie
     hybride IA/humain, les données structurées et l'approche GEO pour une visibilité
     durable en 2026.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/contenu/longue-traine-seo.html
   keyword: Longue traîne SEO
   title: 'Longue traîne SEO : la stratégie rentable pour 2026 et au-delà'
@@ -90,6 +79,7 @@ pages:
   date: 2026-05-14 03:49
   description: Maîtrisez la méta description ! Définition, optimisation, exemples
     et impact SEO. Attirez plus de clics et boostez votre positionnement. Guide complet.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/contenu/meta-description.html
   keyword: Méta description
   title: 'Méta description : guide ultime pour optimiser votre seo'
@@ -98,6 +88,7 @@ pages:
   date: 2026-05-14 03:52
   description: Découvrez comment la mise à jour de contenu SEO s'impose pour éviter
     les pénalités Google et performer. Audit, stratégie continue et GEO au programme.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/contenu/mise-a-jour-contenu-seo.html
   keyword: Mise à jour contenu SEO
   title: 'Mise à jour contenu seo : adaptez-vous aux algos et évitez la sur-optimisation'
@@ -106,6 +97,7 @@ pages:
   date: 2026-05-14 04:06
   description: Découvrez comment les mots-clés de marque optimisent votre SEO. Identifiez-les,
     utilisez-les stratégiquement et protégez votre marque en ligne.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/contenu/mots-cles-de-marque.html
   keyword: Mots-clés de marque
   title: 'Mots-clés de marque : maîtrisez votre visibilité et protégez votre réputation'
@@ -115,6 +107,7 @@ pages:
   description: Découvrez les mots-clés transactionnels, la clé pour attirer des clients
     prêts à acheter. Guide complet et exemples concrets pour optimiser votre stratégie
     SEO & SEA.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/contenu/mots-cles-transactionnels.html
   keyword: Mots-clés transactionnels
   title: 'Mots-clés transactionnels : le guide ultime pour booster vos conversions'
@@ -124,6 +117,7 @@ pages:
   description: 'Maîtrisez l''optimisation de contenu SEO: techniques avancées, outils
     clés et stratégies 2026 pour propulser votre visibilité organique et engager.
     Guide complet.'
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/contenu/optimisation-de-contenu.html
   keyword: Optimisation de contenu
   title: 'Optimisation de contenu : le guide complet 2026 pour un seo durable'
@@ -133,98 +127,116 @@ pages:
   description: découvrez comment la rédaction ia assistée révolutionne le contenu
     et le seo. comprenez ses avantages, ses limites et les meilleures pratiques pour
     un roi optimal.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/contenu/redaction-ia-assistee.html
   keyword: Rédaction IA assistée
   title: 'Rédaction ia assistée : maximisez votre seo et votre productivité en 2026'
   url: https://blotmkt.com/data/contenu/redaction-ia-assistee.md
 - category: contenu
-  date: 2026-05-14 03:59
-  description: Découvrez comment élaborer une stratégie éditoriale SEO efficace. Mesurez
-    l'impact du contenu, maîtrisez le SEO copywriting et construisez une autorité
-    cognitive durable.
+  date: 2026-05-27 06:24
+  description: 'Découvrez comment bâtir une stratégie éditoriale SEO performante :
+    intentions, piliers clés, mesure de l''efficacité face aux AI Overviews. De la
+    valeur au ROI.'
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/contenu/strategie-editoriale-seo.html
   keyword: Stratégie éditoriale SEO
-  title: 'Stratégie éditoriale SEO : de l''intention à la performance organique'
+  title: 'Stratégie éditoriale seo : bâtir une performance organique durable à l''ère
+    de l''ia'
   url: https://blotmkt.com/data/contenu/strategie-editoriale-seo.md
 - category: contenu
-  date: 2026-05-14 04:02
-  description: Découvrez comment la structure HN SEO (H1, H2, H3) booste votre référencement.
-    Guide pratique, exemples concrets et conseils d'experts.
+  date: 2026-05-27 06:24
+  description: Maîtrisez la structure HN SEO (H1, H2, H3) pour un référencement optimal.
+    Ce guide complet, avec exemples concrets, vous aide à captiver Google et les IA.
+    Boostez votre visibilité !
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/contenu/structure-hn-seo.html
   keyword: Structure HN SEO
-  title: 'Structure HN SEO : guide complet pour optimiser votre contenu'
+  title: 'Structure HN SEO : le guide complet pour optimiser votre contenu et captiver
+    google & l''IA'
   url: https://blotmkt.com/data/contenu/structure-hn-seo.md
 - category: contenu
-  date: 2026-05-14 04:23
-  description: 'Découvrez comment la transcription vidéo SEO transforme vos contenus.
-    Guide complet : méthode, outils, coûts réels et erreurs à éviter.'
+  date: 2026-05-27 06:23
+  description: Transformez vos vidéos en or pour Google et YouTube. Découvrez comment
+    la transcription vidéo SEO augmente votre visibilité, votre trafic et votre ROI.
+    Guide complet.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/contenu/transcription-video-seo.html
   keyword: Transcription vidéo SEO
-  title: 'Transcription vidéo seo : boostez votre référencement'
+  title: 'Transcription vidéo seo : le guide complet pour booster votre référencement'
   url: https://blotmkt.com/data/contenu/transcription-video-seo.md
 - category: definition
   date: 2026-05-05 06:14
   description: Décryptez l'algorithme Google et ses mises à jour. Évitez la sur-optimisation
     et adoptez une stratégie SEO durable pour un meilleur positionnement.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/algorithme-google.html
   keyword: Algorithme Google
   title: 'Algorithme Google : comprendre son fonctionnement et éviter les pièges SEO'
   url: https://blotmkt.com/data/definition/algorithme-google.md
 - category: definition
-  date: 2026-05-05 06:19
-  description: Maîtrisez l'art de l'ancre de lien pour booster votre SEO. Découvrez
-    les bonnes pratiques, les types d'ancres à privilégier et comment éviter les pénalités
-    Google.
+  date: 2026-05-24 05:13
+  description: Découvrez le rôle essentiel de l'ancre de lien en SEO. Apprenez à l'optimiser
+    pour le positionnement, les IA et auditez votre profil d'ancres efficacement.
+    Guide complet.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/ancre-de-lien.html
   keyword: Ancre de lien
-  title: 'Ancre de lien : le guide complet pour un SEO performant'
+  title: 'Ancre de lien : rôle crucial en seo et stratégie d''optimisation pour l''ère
+    ia'
   url: https://blotmkt.com/data/definition/ancre-de-lien.md
 - category: definition
   date: 2026-05-05 06:23
   description: 'Maîtrisez l''attribut Nofollow : impact SEO, utilisation correcte,
     et stratégies d''optimisation pour un profil de liens sain. Guide complet 2024.'
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/attribut-nofollow.html
   keyword: Attribut Nofollow
   title: 'L''attribut nofollow: guide complet pour un seo éthique'
   url: https://blotmkt.com/data/definition/attribut-nofollow.md
 - category: definition
-  date: 2026-05-05 06:28
-  description: Découvrez comment l'attribut rel="sponsored" protège votre SEO et assure
-    la conformité légale. Guide complet pour identifier et taguer vos liens commerciaux.
+  date: 2026-05-24 05:14
+  description: maîtrisez l'attribut sponsored pour vos liens payants. ce guide complet
+    d'expert seo détaille son implémentation, son impact et la conformité légale et
+    technique.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/attribut-sponsored.html
   keyword: Attribut Sponsored
-  title: 'attribut sponsored : maîtriser la transparence pour un seo durable'
+  title: 'Attribut sponsored : guide complet pour une stratégie seo conforme'
   url: https://blotmkt.com/data/definition/attribut-sponsored.md
 - category: definition
-  date: 2026-05-05 06:34
-  description: Découvrez comment obtenir des backlinks de qualité et booster votre
-    SEO. Critères, audit, stratégies, outils et conseils d'experts pour 2026.
+  date: 2026-05-24 05:14
+  description: Découvrez comment obtenir des backlinks de qualité pour améliorer votre
+    SEO. Audit, stratégies, outils et conseils d'experts.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/backlink-de-qualite.html
   keyword: Backlink de qualité
-  title: 'Backlink de qualité : le guide ultime pour booster votre SEO'
+  title: 'Backlink de qualité : le guide complet pour booster votre SEO'
   url: https://blotmkt.com/data/definition/backlink-de-qualite.md
 - category: definition
   date: 2026-05-05 06:39
   description: Maîtrisez la canonisation SEO pour indiquer aux moteurs de recherche
     votre URL préférée. Évitez le contenu dupliqué et consolidez votre autorité. Guide
     pratique 2026.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/canonisation-seo.html
   keyword: Canonisation SEO
   title: 'canonisation seo : guide complet pour maîtriser le contenu dupliqué'
   url: https://blotmkt.com/data/definition/canonisation-seo.md
 - category: definition
-  date: 2026-05-05 06:44
-  description: 'Découvrez le cocon sémantique SEO : définition, construction, avantages,
-    erreurs et checklist. Guide complet pour structurer votre contenu et booster votre
-    SEO.'
+  date: 2026-06-03 06:34
+  description: 'maîtrisez le cocon sémantique seo : définition, étapes de construction,
+    avantages pour votre référencement, outils et checklist d''optimisation. un guide
+    expert par Antoine Blot.'
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/cocon-semantique.html
   keyword: Cocon sémantique
-  title: 'Cocon sémantique : Définition, Méthodologie et Avantages SEO'
+  title: 'Cocon sémantique seo : guide complet définition, méthode et bénéfices'
   url: https://blotmkt.com/data/definition/cocon-semantique.md
 - category: definition
   date: 2026-05-05 06:54
   description: explorez le seo google, ses piliers essentiels, comment éviter la sur-optimisation
     et les pénalités. anticipez les défis de l'ia en 2026 pour une visibilité durable.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/discover-google-seo.html
   keyword: Discover Google SEO
   title: 'discover google seo : les clés d''une stratégie performante et les erreurs
@@ -235,6 +247,7 @@ pages:
   description: 'Découvrez les données structurées : types, avantages SEO, implémentation
     technique et erreurs à éviter. Boostez votre visibilité dans les résultats de
     recherche et l''efficacité pour les IA.'
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/donnees-structurees.html
   keyword: Données structurées
   title: 'données structurées : guide complet pour un SEO boosté et une visibilité
@@ -245,6 +258,7 @@ pages:
   description: Maîtrisez l'E-E-A-T de Google (Expérience, Expertise, Autorité, Fiabilité)
     et améliorez votre référencement. Guide complet et conseils pratiques pour les
     experts.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/e-e-a-t-google.html
   keyword: E-E-A-T Google
   title: 'e-e-a-t google : le guide ultime pour booster votre seo'
@@ -253,6 +267,7 @@ pages:
   date: 2026-05-05 07:07
   description: Découvrez comment optimiser votre contenu pour les featured snippets
     et booster votre visibilité sur Google. Stratégies et techniques éprouvées.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/featured-snippet.html
   keyword: Featured Snippet
   title: 'Featured snippet : guide ultime pour dominer la position zéro'
@@ -261,6 +276,7 @@ pages:
   date: 2026-05-05 07:17
   description: Découvrez le Knowledge Graph, son impact sur le SEO, comment l'utiliser
     avec des API, l'IA et GraphQL pour améliorer votre visibilité.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/knowledge-graph.html
   keyword: Knowledge Graph
   title: 'Knowledge Graph : Guide Complet pour le SEO Sémantique'
@@ -270,22 +286,26 @@ pages:
   description: Découvrez comment les liens UGC (User-Generated Content) améliorent
     votre SEO, augmentent votre visibilité et engagent votre audience. Guide complet
     et exemples.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/lien-ugc.html
   keyword: Lien UGC
   title: 'Lien ugc : guide complet pour booster votre seo en 2026'
   url: https://blotmkt.com/data/definition/lien-ugc.md
 - category: definition
-  date: 2026-05-05 07:25
-  description: Le maillage interne est crucial pour le SEO. Découvrez comment structurer
-    vos liens internes pour améliorer l'indexation, la sémantique et la visibilité.
+  date: 2026-05-24 05:14
+  description: Maîtrisez le maillage interne SEO pour améliorer votre indexation,
+    distribuer le PageRank et renforcer la sémantique de votre site. Un levier puissant
+    et sous-estimé.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/maillage-interne-seo.html
   keyword: Maillage interne SEO
-  title: 'Maillage Interne SEO : Guide Ultime pour Booster Votre Référencement'
+  title: 'Maillage interne SEO : structurez votre site pour dominer les SERP'
   url: https://blotmkt.com/data/definition/maillage-interne-seo.md
 - category: definition
   date: 2026-05-05 07:29
   description: Découvrez comment créer une page pilier SEO efficace pour organiser
     votre contenu, améliorer votre référencement et attirer plus de visiteurs qualifiés.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/page-pilier-seo.html
   keyword: Page pilier SEO
   title: 'Page pilier SEO : le guide ultime pour structurer votre contenu et booster
@@ -295,22 +315,26 @@ pages:
   date: 2026-05-05 07:34
   description: découvrez pagerank google, son fonctionnement et son rôle crucial pour
     le seo moderne, malgré sa non-visibilité publique.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/pagerank-google.html
   keyword: PageRank Google
   title: 'pagerank google : l''algorithme, son histoire et son impact seo actuel'
   url: https://blotmkt.com/data/definition/pagerank-google.md
 - category: definition
-  date: 2026-05-05 07:38
-  description: Maîtrisez votre profil de liens en 2026 ! Stratégies, outils et bonnes
-    pratiques pour un SEO optimal et une autorité web renforcée.
+  date: 2026-05-24 05:14
+  description: 'Découvrez l''importance d''un profil de liens sain pour votre SEO
+    en 2026. Guide complet : audit, stratégies white hat, désaveu de liens toxiques
+    et diversification.'
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/profil-de-liens.html
   keyword: Profil de liens
-  title: 'Profil de liens : guide complet pour optimiser votre seo en 2026'
+  title: 'Profil de liens : le guide ultime pour un seo performant'
   url: https://blotmkt.com/data/definition/profil-de-liens.md
 - category: definition
   date: 2026-05-05 07:44
   description: Maîtrisez la recherche vocale SEO. Découvrez comment optimiser votre
     site web pour les assistants vocaux et capter un public en pleine croissance.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/recherche-vocale-seo.html
   keyword: Recherche vocale SEO
   title: 'recherche vocale seo : guide complet pour optimiser votre présence vocale'
@@ -319,57 +343,74 @@ pages:
   date: 2026-05-05 07:48
   description: 'Schema.org : apprenez à structurer vos données pour un meilleur référencement.
     Guide, exemples, types de schemas et outils pour optimiser votre SEO.'
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/schema-org.html
   keyword: Schema-org
   title: 'Schema.org : guide complet pour structurer vos données et booster votre
     seo'
   url: https://blotmkt.com/data/definition/schema-org.md
 - category: definition
-  date: 2026-05-05 07:52
-  description: 'dominez le seo local en 2026: google business profile, generative
-    engine optimization, audits et adaptation. guide complet et actionable.'
+  date: 2026-05-24 05:13
+  description: 'Maîtrisez le SEO local : notre guide complet vous aide à booster votre
+    visibilité en ligne, attirer plus de clients locaux et développer votre entreprise
+    durablement.'
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/seo-local.html
   keyword: SEO local
-  title: 'seo local: guide 2026 pour booster votre visibilité'
+  title: 'Seo local : le guide complet pour dominer votre marché et attirer des clients'
   url: https://blotmkt.com/data/definition/seo-local.md
 - category: definition
-  date: 2026-05-05 07:57
-  description: Maîtrisez le topic cluster pour booster votre SEO ! Découvrez comment
-    organiser votre contenu, choisir les bons outils et optimiser votre visibilité
-    IA.
+  date: 2026-05-23 04:31
+  description: Découvrez le topic cluster, stratégie SEO incontournable pour 2026.
+    Évitez la cannibalisation, augmentez les citations IA et bâtissez votre autorité
+    thématique.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/topic-cluster.html
   keyword: Topic cluster
-  title: 'Topic cluster: Le guide ultime pour structurer votre contenu SEO'
+  title: 'Topic cluster : le guide essentiel pour un seo 2026 optimisé ia'
   url: https://blotmkt.com/data/definition/topic-cluster.md
 - category: definition
   date: 2026-05-05 08:02
   description: Devenez un topique d'autorité dans votre domaine. Guide complet pour
     construire expertise, crédibilité et confiance en ligne et surpasser vos concurrents.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/topic-d-autorite.html
   keyword: Topic d'autorité
   title: 'Topic d''autorité : comment devenir la référence dans votre niche'
   url: https://blotmkt.com/data/definition/topic-d-autorite.md
 - category: definition
-  date: 2026-05-05 08:06
-  description: découvrez le Trust Flow en SEO, son impact sur l'autorité de votre
+  date: 2026-05-24 05:13
+  description: Découvrez le Trust Flow en SEO, son impact sur l'autorité de votre
     site web et comment l'améliorer pour un meilleur positionnement.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/trust-flow-seo.html
   keyword: Trust Flow SEO
-  title: 'trust flow seo: comprendre et booster l''autorité de votre site'
+  title: 'Trust flow seo : comprendre et booster l''autorité de votre site'
   url: https://blotmkt.com/data/definition/trust-flow-seo.md
 - category: definition
   date: 2026-05-05 08:12
   description: Découvrez les stratégies ymyl seo cruciales pour sécuriser votre site
     web, renforcer la confiance des utilisateurs et améliorer votre positionnement
     sur google.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/definition/ymyl-seo.html
   keyword: YMYL SEO
   title: 'ymyl seo : guide complet pour protéger votre réputation en ligne'
   url: https://blotmkt.com/data/definition/ymyl-seo.md
 - category: ia-seo-geo
-  date: 2026-05-05 13:18
+  date: 2026-05-05 08:17
+  description: ''
+  hreflang: fr-CA
+  html_url: https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html
+  keyword: ''
+  title: 'AEO answer engine optimization : guide complet pour dominer les moteurs
+    de réponse'
+  url: https://blotmkt.com/data/ia-seo-geo/aeo-answer-engine-optimization.md
+- category: ia-seo-geo
+  date: 2026-05-27 06:50
   description: Découvrez le fonctionnement des algorithmes de recommandation, leurs
     types, comment les optimiser et des exemples d'utilisation concrets. Guide complet.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html
   keyword: Algorithme de recommandation
   title: 'Algorithmes de recommandation : comprendre, optimiser et exemples concrets'
@@ -378,6 +419,7 @@ pages:
   date: 2026-05-05 13:23
   description: Découvrez l'impact des citations par IA sur la recherche, la crédibilité
     et le SEO en 2026. Guide expert pour optimiser votre visibilité auprès des LLMs.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html
   keyword: Citations par IA
   title: 'citations par ia: impact sur la crédibilité et le référencement en 2026'
@@ -387,6 +429,7 @@ pages:
   description: Découvrez comment l'IA transforme la création de contenu SEO, des outils
     accessibles aux stratégies gagnantes pour les PME. Optimisez votre visibilité
     dès 50€/mois.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html
   keyword: Contenu IA SEO
   title: 'contenu ia seo : l''intelligence artificielle au service de votre stratégie'
@@ -395,6 +438,7 @@ pages:
   date: 2026-05-05 08:29
   description: 'Maîtrisez la contextualisation SEO en 2026 : définition, techniques,
     avantages et mise en œuvre. Améliorez votre positionnement et l''expérience utilisateur.'
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html
   keyword: Contextualisation SEO
   title: 'Contextualisation SEO : Le guide ultime pour 2026'
@@ -404,15 +448,17 @@ pages:
   description: Découvrez comment l'identification d'entités nommées en SEO améliore
     le ciblage et la pertinence de votre contenu. Optimisation et visibilité boostées
     !
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo.html
   keyword: Entité nommée SEO
   title: 'Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité'
   url: https://blotmkt.com/data/ia-seo-geo/entite-nommee-seo.md
 - category: ia-seo-geo
   date: 2026-05-05 08:39
-  description: Découvrez notre guide complet sur le GEO (Generated Engagement Optimization).
+  description: Découvrez notre guide complet sur le GEO (Generative Engine Optimization).
     Maîtrisez les stratégies pour une visibilité optimale dans les réponses IA et
     le futur du search.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/ia-seo-geo/geo-guide-complet.html
   keyword: GEO guide complet
   title: 'geo : le guide complet pour dominer la recherche boostée par l''ia'
@@ -421,6 +467,7 @@ pages:
   date: 2026-05-05 08:45
   description: Découvrez comment l'IA SEO révolutionne le référencement en 2026. Stratégies,
     outils, et impacts pour optimiser votre visibilité en ligne.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/ia-seo-geo/ia-seo.html
   keyword: IA SEO
   title: 'ia seo : comment l''intelligence artificielle transforme le référencement'
@@ -430,6 +477,7 @@ pages:
   description: 'Comprenez les mises à jour Google 2026 post-IA : diagnostic, outils
     de récupération, stratégies E-E-A-T et protection contre les pénalités. Guide
     expert.'
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/ia-seo-geo/mise-a-jour-google.html
   keyword: Mise à jour Google
   title: 'mise à jour google 2026 : anticiper, diagnostiquer et se relever des pénalités
@@ -440,6 +488,7 @@ pages:
   description: 'Découvrez les moteurs de réponse : comment ils fonctionnent, pourquoi
     ils sont importants, et comment les intégrer à votre stratégie SEO. Guide complet
     2024.'
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/ia-seo-geo/moteurs-de-reponse.html
   keyword: Moteurs de réponse
   title: 'Moteurs de réponse : guide complet pour comprendre et les utiliser'
@@ -449,6 +498,7 @@ pages:
   description: Maîtrisez l'art du Prompt SEO pour générer du contenu IA de qualité.
     Découvrez les meilleures pratiques, les erreurs à éviter et les outils pour optimiser
     votre ROI.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/ia-seo-geo/prompt-seo.html
   keyword: Prompt SEO
   title: 'Prompt SEO : Le Guide Ultime pour un Contenu IA Performant en 2026'
@@ -457,6 +507,7 @@ pages:
   date: 2026-05-05 13:35
   description: Découvrez l'importance de la provenance des données. Améliorez la transparence
     et la confiance des utilisateurs grâce à un suivi rigoureux en 2026.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/ia-seo-geo/provenance-des-donnees.html
   keyword: Provenance des données
   title: 'provenance des données : guide complet pour une fiabilité accrue'
@@ -466,6 +517,7 @@ pages:
   description: Découvrez pourquoi l'EEAT est un système opérationnel essentiel, pas
     une checklist. Mesurez son impact et utilisez le schema markup pour une visibilité
     SEO et IA optimale.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/ia-seo-geo/strategie-eeat.html
   keyword: strategie EEAT
   title: 'strategie eeat : l''approche systémique pour une autorité numérique durable'
@@ -475,39 +527,36 @@ pages:
   description: 'Découvrez les techniques de structured data avancé : schémas imbriqués,
     programmatiques et conditionnels. Amplifiez votre SEO et votre E-E-A-T. Guide
     expert.'
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/ia-seo-geo/structured-data-avance.html
   keyword: structured data avance
   title: 'Maîtriser le structured data avancé : techniques et stratégies pour experts
     SEO'
   url: https://blotmkt.com/data/ia-seo-geo/structured-data-avance.md
-- category: ''
-  date: '2026-03-05'
-  description: Index complet des ressources SEO, GEO et Marketing Digital par Antoine
-    Blot, consultant à Montréal.
-  html_url: https://blotmkt.com/ia//index.html
-  keyword: ''
-  title: BlotMKT — Toutes les ressources SEO & Marketing IA
-  url: https://blotmkt.com/data//index.md
 - category: local-seo
   date: 2026-05-05 09:08
   description: Découvrez comment exploiter les avis clients pour améliorer votre SEO,
     attirer plus de prospects et augmenter vos ventes. Stratégies et outils inclus.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/local-seo/avis-clients-seo.html
   keyword: Avis clients SEO
   title: 'Avis clients SEO : Booster votre visibilité et votre chiffre d''affaires'
   url: https://blotmkt.com/data/local-seo/avis-clients-seo.md
 - category: local-seo
-  date: 2026-05-05 09:13
-  description: Maîtrisez les citations locales SEO pour améliorer votre référencement
+  date: 2026-05-26 20:31
+  description: Maîtrisez les citations locales SEO pour booster votre référencement
     local. Guide, astuces et outils pour une visibilité maximale en 2026.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/local-seo/citations-locales-seo.html
   keyword: Citations locales SEO
-  title: 'Citations locales seo: guide complet pour booster votre visibilité locale'
+  title: 'Citations locales seo : le guide complet pour votre visibilité locale en
+    2026'
   url: https://blotmkt.com/data/local-seo/citations-locales-seo.md
 - category: local-seo
   date: 2026-05-05 13:51
   description: Optimisez votre NAP (Nom, Adresse, Téléphone) pour un SEO local performant.
     Notre guide complet booste votre visibilité et attire plus de clients.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/local-seo/nap-seo-local.html
   keyword: NAP SEO local
   title: 'nap seo local : guide complet pour booster votre visibilité'
@@ -517,6 +566,7 @@ pages:
   description: Maîtrisez l'optimisation Google Maps en 2026. Découvrez les meilleures
     pratiques pour booster votre visibilité locale et attirer plus de clients grâce
     à GMB et au SEO local.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/local-seo/optimisation-google-maps.html
   keyword: Optimisation Google Maps
   title: 'Optimisation google maps : guide complet pour 2026'
@@ -526,22 +576,25 @@ pages:
   description: Découvrez comment optimiser le rayon de visibilité de votre signalétique.
     Conseils, exemples, et meilleures pratiques pour attirer l'attention et améliorer
     l'expérience client.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/local-seo/rayon-de-visibilite.html
   keyword: Rayon de visibilité
   title: 'Rayon de visibilité: guide complet pour une signalétique impactante'
   url: https://blotmkt.com/data/local-seo/rayon-de-visibilite.md
 - category: popularite
-  date: 2026-05-05 09:50
-  description: 'Maîtrisez la désindexation Google : causes, méthodes (suppression,
-    noindex, robots.txt) et impact SEO. Guide complet pour un référencement optimal.'
+  date: 2026-05-26 20:31
+  description: 'Maîtrisez la désindexation Google : causes, méthodes (noindex, robots.txt),
+    impact sur le SEO et erreurs à éviter. Guide complet pour un référencement optimal.'
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/popularite/desindexation-google.html
   keyword: Désindexation Google
-  title: 'Désindexation Google : Comprendre, Agir et Optimiser votre SEO'
+  title: 'Désindexation google : comprendre, agir et optimiser votre seo'
   url: https://blotmkt.com/data/popularite/desindexation-google.md
 - category: popularite
   date: 2026-05-05 09:54
   description: Découvrez les facteurs de classement Google essentiels en 2026 pour
     propulser votre site en première page. Audit SEO, outils, et stratégies avancées.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/popularite/facteurs-de-classement-google.html
   keyword: Facteurs de classement Google
   title: 'Facteurs de classement Google : le guide ultime 2026 pour dominer les SERPs'
@@ -551,80 +604,87 @@ pages:
   description: Découvrez comment le guest blogging peut améliorer votre SEO. Stratégies,
     avantages, et comment éviter les pièges pour un référencement optimal et durable
     en 2026.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/popularite/guest-blogging-seo.html
   keyword: Guest blogging SEO
   title: 'guest blogging seo : guide complet pour un référencement durable en 2026'
   url: https://blotmkt.com/data/popularite/guest-blogging-seo.md
 - category: strategie
-  date: 2026-05-14 04:33
-  description: 'Découvrez l''agence GEO Montréal : expertise en optimisation pour
-    IA et SEO local. Maximisez votre ROI au Québec avec une stratégie bilingue et
-    performante.'
-  html_url: https://blotmkt.com/ia/strategie/agence-geo-montreal.html
-  keyword: Agence GEO Montréal
-  title: 'Agence geo montréal : l''expertise spécialisée pour propulser votre visibilité
-    ia et locale'
-  url: https://blotmkt.com/data/strategie/agence-geo-montreal.md
+  date: 2026-05-27 06:20
+  description: 'Découvrez l''audit sémantique SEO: définition, méthodes, outils et
+    avantages pour booster votre visibilité en ligne. Essentiel face aux moteurs de
+    recherche génératifs et au GEO.'
+  hreflang: fr-CA
+  html_url: https://blotmkt.com/ia/strategie/audit-semantique-seo.html
+  keyword: Audit sémantique SEO
+  title: 'Audit sémantique seo : la clé d''une stratégie performante à l''ère des
+    ia et du geo'
+  url: https://blotmkt.com/data/strategie/audit-semantique-seo.md
 - category: strategie
-  date: 2026-05-14 04:29
-  description: Découvrez comment choisir l'expert SEO à Montréal idéal pour votre
-    entreprise. Agence ou consultant indépendant ? Comparez les approches stratégiques
-    pour un ROI maximal et une visibilité durable.
-  html_url: https://blotmkt.com/ia/strategie/agence-seo-montreal.html
-  keyword: Agence SEO Montréal
-  title: 'Agence SEO montréal : consultant expert ou agence, quel choix pour votre
-    visibilité ?'
-  url: https://blotmkt.com/data/strategie/agence-seo-montreal.md
+  date: 2026-05-27 06:21
+  description: Découvrez pourquoi l'audit technique SEO est crucial pour votre site.
+    Étapes, outils, et impact sur votre visibilité au Québec. Optimisez performance,
+    indexation et conversion.
+  hreflang: fr-CA
+  html_url: https://blotmkt.com/ia/strategie/audit-technique-seo.html
+  keyword: audit technique SEO
+  title: 'Audit technique SEO : débloquez la pleine puissance de votre site au québec'
+  url: https://blotmkt.com/data/strategie/audit-technique-seo.md
 - category: strategie
-  date: 2026-05-14 04:35
-  description: 'Expert consultant GEO à Montréal : propulsez votre visibilité sur
-    Google et les moteurs de réponse IA. Stratégie locale et hybride pour un ROI maximal.'
-  html_url: https://blotmkt.com/ia/strategie/consultant-geo-montreal.html
-  keyword: Consultant GEO Montréal
-  title: 'Consultant GEO montréal : votre expert pour dominer les moteurs de réponse
-    ia et organique'
-  url: https://blotmkt.com/data/strategie/consultant-geo-montreal.md
-- category: strategie
-  date: 2026-05-14 04:30
-  description: Recherchez-vous un consultant SEO à Montréal ? Expert en référencement
-    naturel et GEO, je booste votre visibilité sur Google et l'IA. Stratégie personnalisée
-    pour Montréal.
-  html_url: https://blotmkt.com/ia/strategie/consultant-seo-montreal.html
-  keyword: Consultant SEO Montréal
-  title: 'Consultant seo montréal : l''expert qui transforme votre visibilité en croissance
-    à montréal'
-  url: https://blotmkt.com/data/strategie/consultant-seo-montreal.md
-- category: strategie
-  date: 2026-05-14 05:24
+  date: 2026-05-27 06:42
   description: Comprendre et optimiser votre coût d'acquisition SEO (CAC SEO). Découvrez
     les stratégies, les méthodes de calcul et les alternatives pour un ROI maximal.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/strategie/cout-acquisition-seo.html
   keyword: Coût acquisition SEO
-  title: 'Coût d''acquisition seo: guide complet pour optimiser votre investissement'
+  title: 'Coût d''acquisition seo : guide complet pour optimiser votre investissement'
   url: https://blotmkt.com/data/strategie/cout-acquisition-seo.md
 - category: strategie
-  date: 2026-05-14 05:33
-  description: Maîtrisez votre migration SEO ! Checklist, stratégies et outils pour
-    une transition de site web sans perte de trafic organique. Augmentez votre visibilité.
+  date: 2026-05-27 06:35
+  description: Maîtrisez la migration SEO ! Checklist, stratégies et outils pour une
+    transition de site web sans perte de trafic. Augmentez votre visibilité.
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/strategie/migration-seo.html
   keyword: Migration SEO
-  title: 'Migration seo : guide complet pour une transition réussie et sans perte
-    de trafic'
+  title: 'Migration seo: guide complet pour une transition réussie'
   url: https://blotmkt.com/data/strategie/migration-seo.md
 - category: strategie
-  date: 2026-05-14 05:56
-  description: Maîtrisez le personal branding SEO pour construire une réputation en
-    ligne forte et durable. Attirez les bonnes opportunités et devenez une référence
-    incontournable dans votre domaine.
+  date: 2026-05-27 06:33
+  description: 'Maîtrisez le personal branding SEO : bâtissez une réputation en ligne
+    forte et durable. Attirez les bonnes opportunités et devenez une référence dans
+    votre domaine.'
+  hreflang: fr-CA
   html_url: https://blotmkt.com/ia/strategie/personal-branding-seo.html
   keyword: Personal branding SEO
-  title: 'Personal branding seo : développez votre autorité et influence en ligne'
+  title: 'Développez votre personal branding grâce au SEO : le guide complet de l''expert'
   url: https://blotmkt.com/data/strategie/personal-branding-seo.md
+- category: strategie
+  date: 2026-05-27 06:13
+  description: Comprenez les prix des forfaits SEO de qualité en 2026. Découvrez les
+    facteurs de coût pour une stratégie de contenu, technique et netlinking ciblée,
+    et évitez les pièges.
+  hreflang: fr-CA
+  html_url: https://blotmkt.com/ia/strategie/prix-forfait-seo.html
+  keyword: Prix forfait SEO
+  title: 'Prix forfait seo : démystifier les coûts pour une stratégie performante
+    en 2026'
+  url: https://blotmkt.com/data/strategie/prix-forfait-seo.md
+- category: strategie
+  date: 2026-05-27 06:16
+  description: Découvrez comment le SEO international peut propulser votre site web
+    à l'étranger. Stratégies, outils, et conseils pratiques pour dominer les marchés
+    mondiaux.
+  hreflang: fr-CA
+  html_url: https://blotmkt.com/ia/strategie/seo-international.html
+  keyword: SEO international
+  title: 'Seo international : guide complet pour une visibilité mondiale'
+  url: https://blotmkt.com/data/strategie/seo-international.md
 site:
-  description: Media expert SEO, Marketing Digital et GEO par Antoine Blot
+  description: Corpus d'articles SEO et GEO (Generative Engine Optimization) par Antoine
+    Blot, consultant SEO indépendant à Montréal.
   language: fr
   name: BlotMKT
   sameAs: https://www.antoine-blot.com
-  total_pages: 69
-  updated: '2026-05-15'
+  total_pages: 67
+  updated: '2026-06-04'
   url: https://blotmkt.com
