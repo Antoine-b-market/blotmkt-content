@@ -106,7 +106,7 @@ Trois leviers produisent les résultats les plus rapides avec le budget le plus 
 Mettre à jour un article existant coûte 3 à 5 fois moins cher que d'en créer un nouveau, pour des résultats souvent supérieurs. La règle : tout contenu classé entre la position 5 et 20 est un candidat prioritaire. Ahrefs permet d'identifier ces pages en moins de 10 minutes.
 
 **2. Ciblage de la longue traîne**
-Les requêtes de longue traîne génèrent des leads plus qualifiés à moindre coût concurrentiel. Sur les marchés québécois, cette logique est amplifiée par la spécificité linguistique : "Consultant SEO Montréal" ou "agence SEO Rive-Nord" ont des volumes plus faibles mais des taux de conversion 2 à 4 fois supérieurs aux requêtes génériques.
+Les requêtes de longue traîne génèrent des leads plus qualifiés à moindre coût concurrentiel. Sur les marchés québécois, cette logique est amplifiée par la spécificité linguistique : "[Consultant SEO Montréal](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)" ou "agence SEO Rive-Nord" ont des volumes plus faibles mais des taux de conversion 2 à 4 fois supérieurs aux requêtes génériques.
 
 **3. A/B testing des titres et méta-descriptions dans Google Search Console**
 C'est le levier le plus sous-utilisé que je rencontre chez mes clients. Tester deux versions de title et de meta description sur des pages déjà positionnées améliore le CTR organique sans aucun budget supplémentaire. Chaque point de CTR gagné réduit mécaniquement le CAC sans toucher aux dépenses.
@@ -238,6 +238,6 @@ FAQ_JSON-->
 
 - [Audit sémantique seo : la clé d'une stratégie performante à l'ère des ia et du geo](https://blotmkt.com/ia/strategie/audit-semantique-seo.html)
 - [Audit technique SEO : débloquez la pleine puissance de votre site au québec](https://blotmkt.com/ia/strategie/audit-technique-seo.html)
+- [Consultant SEO montréal : l'expert qui surclasse l'agence sur le marché québécois](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)
 - [Migration seo: guide complet pour une transition réussie](https://blotmkt.com/ia/strategie/migration-seo.html)
 - [Développez votre personal branding grâce au SEO : le guide complet de l'expert](https://blotmkt.com/ia/strategie/personal-branding-seo.html)
-- [Prix forfait seo : démystifier les coûts pour une stratégie performante en 2026](https://blotmkt.com/ia/strategie/prix-forfait-seo.html)

@@ -631,6 +631,17 @@ pages:
   title: 'Audit technique SEO : débloquez la pleine puissance de votre site au québec'
   url: https://blotmkt.com/data/strategie/audit-technique-seo.md
 - category: strategie
+  date: 2026-06-05 05:39
+  description: 'À Montréal, comment choisir votre consultant SEO ? Découvrez les avantages
+    d''un expert indépendant face à une agence : coûts, spécificités locales (Loi
+    96, GEO) et résultats concrets.'
+  hreflang: fr-CA
+  html_url: https://blotmkt.com/ia/strategie/consultant-seo-montreal.html
+  keyword: Consultant SEO Montréal
+  title: 'Consultant SEO montréal : l''expert qui surclasse l''agence sur le marché
+    québécois'
+  url: https://blotmkt.com/data/strategie/consultant-seo-montreal.md
+- category: strategie
   date: 2026-05-27 06:42
   description: Comprendre et optimiser votre coût d'acquisition SEO (CAC SEO). Découvrez
     les stratégies, les méthodes de calcul et les alternatives pour un ROI maximal.
@@ -685,6 +696,6 @@ site:
   language: fr
   name: BlotMKT
   sameAs: https://www.antoine-blot.com
-  total_pages: 67
-  updated: '2026-06-04'
+  total_pages: 68
+  updated: '2026-06-05'
   url: https://blotmkt.com

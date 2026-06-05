@@ -223,7 +223,7 @@ FAQ_JSON-->
 ## Articles connexes
 
 - [Audit sémantique seo : la clé d'une stratégie performante à l'ère des ia et du geo](https://blotmkt.com/ia/strategie/audit-semantique-seo.html)
+- [Consultant SEO montréal : l'expert qui surclasse l'agence sur le marché québécois](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)
 - [Coût d'acquisition seo : guide complet pour optimiser votre investissement](https://blotmkt.com/ia/strategie/cout-acquisition-seo.html)
 - [Migration seo: guide complet pour une transition réussie](https://blotmkt.com/ia/strategie/migration-seo.html)
 - [Développez votre personal branding grâce au SEO : le guide complet de l'expert](https://blotmkt.com/ia/strategie/personal-branding-seo.html)
-- [Prix forfait seo : démystifier les coûts pour une stratégie performante en 2026](https://blotmkt.com/ia/strategie/prix-forfait-seo.html)

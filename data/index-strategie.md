@@ -16,6 +16,7 @@ Ressources Stratégie SEO par Antoine Blot, consultant SEO & GEO a Montreal.
 
 Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
 
+- [Consultant SEO montréal : l'expert qui surclasse l'agence sur le marché québécois](https://blotmkt.com/data/strategie/consultant-seo-montreal.md)
 - [Audit sémantique seo : la clé d'une stratégie performante à l'ère des ia et du geo](https://blotmkt.com/data/strategie/audit-semantique-seo.md)
 - [Audit technique SEO : débloquez la pleine puissance de votre site au québec](https://blotmkt.com/data/strategie/audit-technique-seo.md)
 - [Coût d'acquisition seo : guide complet pour optimiser votre investissement](https://blotmkt.com/data/strategie/cout-acquisition-seo.md)
