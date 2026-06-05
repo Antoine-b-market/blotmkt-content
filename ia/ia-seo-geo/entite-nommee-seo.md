@@ -163,7 +163,7 @@ Commencez par analyser votre contenu existant via Google Natural Language API, q
 
 ### Quelle est la différence entre entité nommée et mot-clé de longue traîne ?
 
-Un mot-clé de longue traîne est une chaîne de caractères précise ("meilleur [Consultant SEO Montréal](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)"). 
+Un mot-clé de longue traîne est une chaîne de caractères précise ("meilleur Consultant SEO Montréal"). 
 Google traite les entités comme des choses du monde réel avec une identité, tandis que les mots-clés sont de simples chaînes de texte. Une entité a des attributs, des relations et un sens stable. Un mot-clé peut signifier des choses différentes selon le contexte.
  Les deux se complètent : le mot-clé capte l'intention ; l'entité ancre la page dans le Knowledge Graph.
 
