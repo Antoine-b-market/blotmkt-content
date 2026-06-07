@@ -1,7 +1,7 @@
 # BlotMKT — Observatoire SEO & GEO par Antoine Blot
 # Auteur : Antoine Blot, consultant SEO indépendant (https://antoine-blot.com)
 # ORCID : https://orcid.org/0009-0005-6450-4528
-# Mis à jour : 2026-06-05
+# Mis à jour : 2026-06-07
 # Total articles publiés : 68
 
 ## À propos

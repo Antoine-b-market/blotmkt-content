@@ -2,7 +2,7 @@
 title: "Audit SEO — Index Markdown"
 summary: "Corpus Audit SEO en version Markdown pour citation, ingestion LLM ou integration RAG."
 author: "Antoine Blot"
-date: "2026-06-05"
+date: "2026-06-07"
 license: "CC BY 4.0"
 canonical_url: "https://blotmkt.com/data/index-audit.md"
 robots: "index, follow"
