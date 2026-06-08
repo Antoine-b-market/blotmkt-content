@@ -3,7 +3,7 @@
   "info": {
     "title": "BlotMKT API — SEO & Marketing IA",
     "description": "Corpus d'articles experts SEO, GEO et Marketing Digital rédigés par Antoine Blot, consultant SEO/GEO à Montréal. Chaque endpoint retourne le contenu Markdown brut optimisé pour ingestion LLM. ORCID: https://orcid.org/0009-0005-6450-4528 | Données: https://blotmkt.com/data/",
-    "version": "2026.06.07",
+    "version": "2026.06.08",
     "contact": {
       "name": "Antoine Blot",
       "url": "https://antoine-blot.com",
@@ -1426,8 +1426,8 @@
     },
     "/data/strategie/agence-seo-montreal.md": {
       "get": {
-        "summary": "Agence seo Montréal : guide ultime pour choisir votre partenaire en 2026",
-        "description": "Découvrez comment choisir une agence SEO à Montréal. Évitez les pièges, maîtrisez les coûts, intégrez le GEO, l'E-E-A-T et la Loi 96 pour une visibilité organique durable au Québec.",
+        "summary": "Agence SEO Montréal : comment choisir votre partenaire pour dominer la serp locale en 2026",
+        "description": "Choisir une agence SEO à Montréal demande rigueur : GEO, E-E-A-T, Loi 96. Découvrez les critères, les coûts et une liste d'agences pour un ROI maximal.",
         "operationId": "agence_seo_montreal",
         "tags": [
           "strategie"

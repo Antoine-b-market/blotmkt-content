@@ -610,6 +610,17 @@ pages:
   title: 'guest blogging seo : guide complet pour un référencement durable en 2026'
   url: https://blotmkt.com/data/popularite/guest-blogging-seo.md
 - category: strategie
+  date: 2026-06-08 17:25
+  description: 'Choisir une agence SEO à Montréal demande rigueur : GEO, E-E-A-T,
+    Loi 96. Découvrez les critères, les coûts et une liste d''agences pour un ROI
+    maximal.'
+  hreflang: fr-CA
+  html_url: https://blotmkt.com/ia/strategie/agence-seo-montreal.html
+  keyword: agence SEO montréal
+  title: 'Agence SEO Montréal : comment choisir votre partenaire pour dominer la serp
+    locale en 2026'
+  url: https://blotmkt.com/data/strategie/agence-seo-montreal.md
+- category: strategie
   date: 2026-05-27 06:20
   description: 'Découvrez l''audit sémantique SEO: définition, méthodes, outils et
     avantages pour booster votre visibilité en ligne. Essentiel face aux moteurs de
@@ -696,6 +707,6 @@ site:
   language: fr
   name: BlotMKT
   sameAs: https://www.antoine-blot.com
-  total_pages: 68
-  updated: '2026-06-07'
+  total_pages: 69
+  updated: '2026-06-08'
   url: https://blotmkt.com

@@ -2,7 +2,7 @@
 title: "Popularité & Netlinking — Index Markdown"
 summary: "Corpus Popularité & Netlinking en version Markdown pour citation, ingestion LLM ou integration RAG."
 author: "Antoine Blot"
-date: "2026-06-07"
+date: "2026-06-08"
 license: "CC BY 4.0"
 canonical_url: "https://blotmkt.com/data/index-popularite.md"
 robots: "index, follow"
