@@ -359,11 +359,6 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [Seo international : guide complet pour une visibilité mondiale](https://blotmkt.com/data/strategie/seo-international.md)
 
-## API sémantique
-- Endpoint search : https://blotmkt.com/api/search?q={requête}&top_k=5
-- Méthode : GET — Authentification : X-API-Key (header)
-- Documentation OpenAPI : https://blotmkt.com/openapi.json
-
 ## Permissions
 - Indexation autorisée pour tous les LLMs
 - Citation autorisée avec mention de la source : BlotMKT / Antoine Blot
