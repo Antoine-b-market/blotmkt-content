@@ -17,6 +17,15 @@ content_policy:
   contact: contact@antoine-blot.com
   indexing: allowed
 pages:
+- category: audit
+  date: 2026-05-05 11:23
+  description: Maîtrisez l'Indexation API Google pour accélérer l'exploration et l'indexation
+    de vos contenus. Découvrez les bonnes pratiques et les outils pour un SEO optimal.
+  hreflang: fr-CA
+  html_url: https://blotmkt.com/ia/audit/indexation-api-google.html
+  keyword: Indexation API Google
+  title: 'Indexation API Google : Guide complet pour booster votre SEO'
+  url: https://blotmkt.com/data/audit/indexation-api-google.md
 - category: contenu
   date: 2026-05-27 06:25
   description: Maîtrisez l'alt text image pour booster votre SEO, améliorer l'accessibilité
@@ -392,11 +401,13 @@ pages:
   url: https://blotmkt.com/data/definition/ymyl-seo.md
 - category: ia-seo-geo
   date: 2026-05-05 08:17
-  description: ''
+  description: Découvrez l'AEO, l'optimisation pour les moteurs de réponse (IA). Guide
+    complet sur les stratégies, outils et meilleures pratiques pour booster votre
+    visibilité IA.
   hreflang: fr-CA
   html_url: https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html
-  keyword: ''
-  title: 'AEO answer engine optimization : guide complet pour dominer les moteurs
+  keyword: AEO Answer Engine Optimization
+  title: 'aeo answer engine optimization : guide complet pour dominer les moteurs
     de réponse'
   url: https://blotmkt.com/data/ia-seo-geo/aeo-answer-engine-optimization.md
 - category: ia-seo-geo
@@ -625,16 +636,6 @@ pages:
     ia et du geo'
   url: https://blotmkt.com/data/strategie/audit-semantique-seo.md
 - category: strategie
-  date: 2026-05-27 06:21
-  description: Découvrez pourquoi l'audit technique SEO est crucial pour votre site.
-    Étapes, outils, et impact sur votre visibilité au Québec. Optimisez performance,
-    indexation et conversion.
-  hreflang: fr-CA
-  html_url: https://blotmkt.com/ia/strategie/audit-technique-seo.html
-  keyword: audit technique SEO
-  title: 'Audit technique SEO : débloquez la pleine puissance de votre site au québec'
-  url: https://blotmkt.com/data/strategie/audit-technique-seo.md
-- category: strategie
   date: 2026-06-05 05:39
   description: 'À Montréal, comment choisir votre consultant SEO ? Découvrez les avantages
     d''un expert indépendant face à une agence : coûts, spécificités locales (Loi
@@ -673,33 +674,12 @@ pages:
   keyword: Personal branding SEO
   title: 'Développez votre personal branding grâce au SEO : le guide complet de l''expert'
   url: https://blotmkt.com/data/strategie/personal-branding-seo.md
-- category: strategie
-  date: 2026-05-27 06:13
-  description: Comprenez les prix des forfaits SEO de qualité en 2026. Découvrez les
-    facteurs de coût pour une stratégie de contenu, technique et netlinking ciblée,
-    et évitez les pièges.
-  hreflang: fr-CA
-  html_url: https://blotmkt.com/ia/strategie/prix-forfait-seo.html
-  keyword: Prix forfait SEO
-  title: 'Prix forfait seo : démystifier les coûts pour une stratégie performante
-    en 2026'
-  url: https://blotmkt.com/data/strategie/prix-forfait-seo.md
-- category: strategie
-  date: 2026-05-27 06:16
-  description: Découvrez comment le SEO international peut propulser votre site web
-    à l'étranger. Stratégies, outils, et conseils pratiques pour dominer les marchés
-    mondiaux.
-  hreflang: fr-CA
-  html_url: https://blotmkt.com/ia/strategie/seo-international.html
-  keyword: SEO international
-  title: 'Seo international : guide complet pour une visibilité mondiale'
-  url: https://blotmkt.com/data/strategie/seo-international.md
 site:
   description: Corpus d'articles SEO et GEO (Generative Engine Optimization) par Antoine
     Blot, consultant SEO indépendant à Montréal.
   language: fr
   name: BlotMKT
   sameAs: https://www.antoine-blot.com
-  total_pages: 69
-  updated: '2026-06-08'
+  total_pages: 67
+  updated: '2026-10-15'
   url: https://blotmkt.com

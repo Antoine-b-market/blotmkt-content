@@ -2,8 +2,8 @@
   "openapi": "3.1.0",
   "info": {
     "title": "BlotMKT — Observatoire SEO & GEO par Antoine Blot",
-    "description": "Corpus de 69 articles techniques sur le SEO, le GEO (Generative Engine Optimization) et le référencement naturel, rédigés par Antoine Blot, consultant SEO indépendant à Montréal. ORCID : https://orcid.org/0009-0005-6450-4528",
-    "version": "2026-06-08",
+    "description": "Corpus de 67 articles techniques sur le SEO, le GEO (Generative Engine Optimization) et le référencement naturel, rédigés par Antoine Blot, consultant SEO indépendant à Montréal. ORCID : https://orcid.org/0009-0005-6450-4528",
+    "version": "2026-10-15",
     "contact": {
       "name": "Antoine Blot",
       "url": "https://www.antoine-blot.com",
@@ -51,6 +51,50 @@
     }
   ],
   "paths": {
+    "/ia/audit/indexation-api-google.html": {
+      "get": {
+        "summary": "Indexation API Google : Guide complet pour booster votre SEO",
+        "description": "Maîtrisez l'Indexation API Google pour accélérer l'exploration et l'indexation de vos contenus. Découvrez les bonnes pratiques et les outils pour un SEO optimal.",
+        "operationId": "indexation-api-google",
+        "tags": [
+          "audit"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/audit/indexation-api-google.md": {
+      "get": {
+        "summary": "Indexation API Google : Guide complet pour booster votre SEO",
+        "description": "Maîtrisez l'Indexation API Google pour accélérer l'exploration et l'indexation de vos contenus. Découvrez les bonnes pratiques et les outils pour un SEO optimal.",
+        "operationId": "indexation-api-google-md",
+        "tags": [
+          "audit"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/ia/contenu/alt-text-image.html": {
       "get": {
         "summary": "L'alt text image : votre passeport pour l'accessibilité et la performance seo ia",
@@ -1725,8 +1769,8 @@
     },
     "/ia/ia-seo-geo/aeo-answer-engine-optimization.html": {
       "get": {
-        "summary": "AEO answer engine optimization : guide complet pour dominer les moteurs de réponse",
-        "description": "",
+        "summary": "aeo answer engine optimization : guide complet pour dominer les moteurs de réponse",
+        "description": "Découvrez l'AEO, l'optimisation pour les moteurs de réponse (IA). Guide complet sur les stratégies, outils et meilleures pratiques pour booster votre visibilité IA.",
         "operationId": "aeo-answer-engine-optimization",
         "tags": [
           "ia-seo-geo"
@@ -1747,8 +1791,8 @@
     },
     "/data/ia-seo-geo/aeo-answer-engine-optimization.md": {
       "get": {
-        "summary": "AEO answer engine optimization : guide complet pour dominer les moteurs de réponse",
-        "description": "",
+        "summary": "aeo answer engine optimization : guide complet pour dominer les moteurs de réponse",
+        "description": "Découvrez l'AEO, l'optimisation pour les moteurs de réponse (IA). Guide complet sur les stratégies, outils et meilleures pratiques pour booster votre visibilité IA.",
         "operationId": "aeo-answer-engine-optimization-md",
         "tags": [
           "ia-seo-geo"
@@ -2779,50 +2823,6 @@
         }
       }
     },
-    "/ia/strategie/audit-technique-seo.html": {
-      "get": {
-        "summary": "Audit technique SEO : débloquez la pleine puissance de votre site au québec",
-        "description": "Découvrez pourquoi l'audit technique SEO est crucial pour votre site. Étapes, outils, et impact sur votre visibilité au Québec. Optimisez performance, indexation et conversion.",
-        "operationId": "audit-technique-seo",
-        "tags": [
-          "strategie"
-        ],
-        "responses": {
-          "200": {
-            "description": "Article HTML avec schema.org",
-            "content": {
-              "text/html": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/audit-technique-seo.md": {
-      "get": {
-        "summary": "Audit technique SEO : débloquez la pleine puissance de votre site au québec",
-        "description": "Découvrez pourquoi l'audit technique SEO est crucial pour votre site. Étapes, outils, et impact sur votre visibilité au Québec. Optimisez performance, indexation et conversion.",
-        "operationId": "audit-technique-seo-md",
-        "tags": [
-          "strategie"
-        ],
-        "responses": {
-          "200": {
-            "description": "Article Markdown brut — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     "/ia/strategie/consultant-seo-montreal.html": {
       "get": {
         "summary": "Consultant SEO montréal : l'expert qui surclasse l'agence sur le marché québécois",
@@ -2982,94 +2982,6 @@
         "summary": "Développez votre personal branding grâce au SEO : le guide complet de l'expert",
         "description": "Maîtrisez le personal branding SEO : bâtissez une réputation en ligne forte et durable. Attirez les bonnes opportunités et devenez une référence dans votre domaine.",
         "operationId": "personal-branding-seo-md",
-        "tags": [
-          "strategie"
-        ],
-        "responses": {
-          "200": {
-            "description": "Article Markdown brut — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/ia/strategie/prix-forfait-seo.html": {
-      "get": {
-        "summary": "Prix forfait seo : démystifier les coûts pour une stratégie performante en 2026",
-        "description": "Comprenez les prix des forfaits SEO de qualité en 2026. Découvrez les facteurs de coût pour une stratégie de contenu, technique et netlinking ciblée, et évitez les pièges.",
-        "operationId": "prix-forfait-seo",
-        "tags": [
-          "strategie"
-        ],
-        "responses": {
-          "200": {
-            "description": "Article HTML avec schema.org",
-            "content": {
-              "text/html": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/prix-forfait-seo.md": {
-      "get": {
-        "summary": "Prix forfait seo : démystifier les coûts pour une stratégie performante en 2026",
-        "description": "Comprenez les prix des forfaits SEO de qualité en 2026. Découvrez les facteurs de coût pour une stratégie de contenu, technique et netlinking ciblée, et évitez les pièges.",
-        "operationId": "prix-forfait-seo-md",
-        "tags": [
-          "strategie"
-        ],
-        "responses": {
-          "200": {
-            "description": "Article Markdown brut — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/ia/strategie/seo-international.html": {
-      "get": {
-        "summary": "Seo international : guide complet pour une visibilité mondiale",
-        "description": "Découvrez comment le SEO international peut propulser votre site web à l'étranger. Stratégies, outils, et conseils pratiques pour dominer les marchés mondiaux.",
-        "operationId": "seo-international",
-        "tags": [
-          "strategie"
-        ],
-        "responses": {
-          "200": {
-            "description": "Article HTML avec schema.org",
-            "content": {
-              "text/html": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/seo-international.md": {
-      "get": {
-        "summary": "Seo international : guide complet pour une visibilité mondiale",
-        "description": "Découvrez comment le SEO international peut propulser votre site web à l'étranger. Stratégies, outils, et conseils pratiques pour dominer les marchés mondiaux.",
-        "operationId": "seo-international-md",
         "tags": [
           "strategie"
         ],

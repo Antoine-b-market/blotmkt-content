@@ -1,8 +1,8 @@
 # BlotMKT — Observatoire SEO & GEO par Antoine Blot
 # Auteur : Antoine Blot, consultant SEO indépendant (https://antoine-blot.com)
 # ORCID : https://orcid.org/0009-0005-6450-4528
-# Mis à jour : 2026-06-08
-# Total articles publiés : 69
+# Mis à jour : 2026-10-15
+# Total articles publiés : 67
 
 ## À propos
 BlotMKT est un corpus d'articles techniques sur le SEO, le GEO (Generative Engine Optimization) et le référencement naturel. Rédigés par Antoine Blot, consultant SEO indépendant à Montréal.
@@ -12,6 +12,9 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [À propos — Antoine Blot, Consultant SEO & GEO](https://blotmkt.com/ia/a-propos.html)
   Présentation d'Antoine Blot, consultant expert en SEO et GEO basé au Québec.
+
+- [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/ia/audit/indexation-api-google.html)
+  Maîtrisez l'Indexation API Google pour accélérer l'exploration et l'indexation de vos contenus. Découvrez les bonnes pratiques et les outils pour un SEO optimal.
 
 - [L'alt text image : votre passeport pour l'accessibilité et la performance seo ia](https://blotmkt.com/ia/contenu/alt-text-image.html)
   Maîtrisez l'alt text image pour booster votre SEO, améliorer l'accessibilité et préparer vos contenus à l'ère de l'IA. Découvrez nos astuces d'expert pour des images puissantes.
@@ -127,7 +130,8 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 - [ymyl seo : guide complet pour protéger votre réputation en ligne](https://blotmkt.com/ia/definition/ymyl-seo.html)
   Découvrez les stratégies ymyl seo cruciales pour sécuriser votre site web, renforcer la confiance des utilisateurs et améliorer votre positionnement sur google.
 
-- [AEO answer engine optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
+- [aeo answer engine optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
+  Découvrez l'AEO, l'optimisation pour les moteurs de réponse (IA). Guide complet sur les stratégies, outils et meilleures pratiques pour booster votre visibilité IA.
 
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
   Découvrez le fonctionnement des algorithmes de recommandation, leurs types, comment les optimiser et des exemples d'utilisation concrets. Guide complet.
@@ -198,9 +202,6 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 - [Audit sémantique seo : la clé d'une stratégie performante à l'ère des ia et du geo](https://blotmkt.com/ia/strategie/audit-semantique-seo.html)
   Découvrez l'audit sémantique SEO: définition, méthodes, outils et avantages pour booster votre visibilité en ligne. Essentiel face aux moteurs de recherche génératifs et au GEO.
 
-- [Audit technique SEO : débloquez la pleine puissance de votre site au québec](https://blotmkt.com/ia/strategie/audit-technique-seo.html)
-  Découvrez pourquoi l'audit technique SEO est crucial pour votre site. Étapes, outils, et impact sur votre visibilité au Québec. Optimisez performance, indexation et conversion.
-
 - [Consultant SEO montréal : l'expert qui surclasse l'agence sur le marché québécois](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)
   À Montréal, comment choisir votre consultant SEO ? Découvrez les avantages d'un expert indépendant face à une agence : coûts, spécificités locales (Loi 96, GEO) et résultats concrets.
 
@@ -213,13 +214,9 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 - [Développez votre personal branding grâce au SEO : le guide complet de l'expert](https://blotmkt.com/ia/strategie/personal-branding-seo.html)
   Maîtrisez le personal branding SEO : bâtissez une réputation en ligne forte et durable. Attirez les bonnes opportunités et devenez une référence dans votre domaine.
 
-- [Prix forfait seo : démystifier les coûts pour une stratégie performante en 2026](https://blotmkt.com/ia/strategie/prix-forfait-seo.html)
-  Comprenez les prix des forfaits SEO de qualité en 2026. Découvrez les facteurs de coût pour une stratégie de contenu, technique et netlinking ciblée, et évitez les pièges.
-
-- [Seo international : guide complet pour une visibilité mondiale](https://blotmkt.com/ia/strategie/seo-international.html)
-  Découvrez comment le SEO international peut propulser votre site web à l'étranger. Stratégies, outils, et conseils pratiques pour dominer les marchés mondiaux.
-
 ## Pages Markdown (texte brut, LLMs)
+
+- [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/data/audit/indexation-api-google.md)
 
 - [L'alt text image : votre passeport pour l'accessibilité et la performance seo ia](https://blotmkt.com/data/contenu/alt-text-image.md)
 
@@ -297,7 +294,7 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [ymyl seo : guide complet pour protéger votre réputation en ligne](https://blotmkt.com/data/definition/ymyl-seo.md)
 
-- [AEO answer engine optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/data/ia-seo-geo/aeo-answer-engine-optimization.md)
+- [aeo answer engine optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/data/ia-seo-geo/aeo-answer-engine-optimization.md)
 
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/data/ia-seo-geo/algorithme-de-recommandation.md)
 
@@ -345,8 +342,6 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [Audit sémantique seo : la clé d'une stratégie performante à l'ère des ia et du geo](https://blotmkt.com/data/strategie/audit-semantique-seo.md)
 
-- [Audit technique SEO : débloquez la pleine puissance de votre site au québec](https://blotmkt.com/data/strategie/audit-technique-seo.md)
-
 - [Consultant SEO montréal : l'expert qui surclasse l'agence sur le marché québécois](https://blotmkt.com/data/strategie/consultant-seo-montreal.md)
 
 - [Coût d'acquisition seo : guide complet pour optimiser votre investissement](https://blotmkt.com/data/strategie/cout-acquisition-seo.md)
@@ -354,10 +349,6 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 - [Migration seo: guide complet pour une transition réussie](https://blotmkt.com/data/strategie/migration-seo.md)
 
 - [Développez votre personal branding grâce au SEO : le guide complet de l'expert](https://blotmkt.com/data/strategie/personal-branding-seo.md)
-
-- [Prix forfait seo : démystifier les coûts pour une stratégie performante en 2026](https://blotmkt.com/data/strategie/prix-forfait-seo.md)
-
-- [Seo international : guide complet pour une visibilité mondiale](https://blotmkt.com/data/strategie/seo-international.md)
 
 ## Permissions
 - Indexation autorisée pour tous les LLMs
