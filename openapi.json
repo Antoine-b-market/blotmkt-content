@@ -1769,7 +1769,7 @@
     },
     "/ia/ia-seo-geo/aeo-answer-engine-optimization.html": {
       "get": {
-        "summary": "aeo answer engine optimization : guide complet pour dominer les moteurs de réponse",
+        "summary": "AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse",
         "description": "Découvrez l'AEO, l'optimisation pour les moteurs de réponse (IA). Guide complet sur les stratégies, outils et meilleures pratiques pour booster votre visibilité IA.",
         "operationId": "aeo-answer-engine-optimization",
         "tags": [
@@ -1791,7 +1791,7 @@
     },
     "/data/ia-seo-geo/aeo-answer-engine-optimization.md": {
       "get": {
-        "summary": "aeo answer engine optimization : guide complet pour dominer les moteurs de réponse",
+        "summary": "AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse",
         "description": "Découvrez l'AEO, l'optimisation pour les moteurs de réponse (IA). Guide complet sur les stratégies, outils et meilleures pratiques pour booster votre visibilité IA.",
         "operationId": "aeo-answer-engine-optimization-md",
         "tags": [

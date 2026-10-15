@@ -1,5 +1,5 @@
 ---
-title: "aeo answer engine optimization : guide complet pour dominer les moteurs de réponse"
+title: "AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse"
 description: "Découvrez l'AEO, l'optimisation pour les moteurs de réponse (IA). Guide complet sur les stratégies, outils et meilleures pratiques pour booster votre visibilité IA."
 keyword: "AEO Answer Engine Optimization"
 category: "ia-seo-geo"
@@ -25,7 +25,7 @@ sources:
 publisher: "BlotMKT - Antoine Blot"
 ---
 
-# AEO answer engine optimization : guide complet pour dominer les moteurs de réponse
+# AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse
 
 ## Sommaire
 - [Qu'est-ce que l'AEO (Answer Engine Optimization) ?](#quest-ce-que-laeo)
