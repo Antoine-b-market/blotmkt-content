@@ -82,11 +82,11 @@ La plupart des agences n'affichent pas leurs prix directement sur leur site web,
 ## Les services incontournables d'une agence SEO montréalaise performante {#services}
 
 Un forfait SEO sérieux en 2026 couvre sept volets distincts. 
-L'audit technique inclut le crawl du site, la vérification de l'indexation, le robots.txt, le sitemap XML, la performance (Core Web Vitals : LCP, INP, CLS), le rendu côté serveur, l'ouverture aux bots IA (GPTBot, ClaudeBot, PerplexityBot, Google-Extended), la structure des URL et les données structurées Schema.org.
+L'audit technique inclut le crawl du site, la vérification de l'indexation, le robots.txt, le sitemap XML, la performance (Core Web Vitals : LCP, INP, CLS), le rendu côté serveur, l'ouverture aux bots IA (GPTBot, ClaudeBot, PerplexityBot, Google-Extended), la structure des URL et les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) Schema.org.
 
 Au-delà du technique, voici ce qui compte vraiment :
 
-- Stratégie de contenu bilingue axée sur l'E-E-A-T et l'intention de recherche locale, pas sur le volume.
+- Stratégie de contenu bilingue axée sur l'E-E-A-T et l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) locale, pas sur le volume.
 - Optimisation Google Business Profile et citations NAP cohérentes. 42 %[^3] des recherches locales cliquent sur les résultats du Pack Google Maps : ignorer ce levier sur le marché montréalais est une faute stratégique.
 - 
 Pour toute entreprise qui sert un territoire physique (Montréal, Laval, Rive-Sud, Rive-Nord), la fiche Google Business Profile, les citations NAP (Name, Address, Phone) cohérentes, les avis et les pages locales sont stratégiques.
@@ -176,7 +176,7 @@ Sur les projets que je pilote, les résultats terrain confirment cette trajectoi
 | Rablab | 2016 | SEO + Google Ads, search intégré | Oui | Oui | 1 000 $ - 3 000 $ |
 | BlueHat Marketing | 2005 | SEO national, grands comptes, multimarché | Partiel | Oui | 3 000 $+ |
 | Let's Get Optimized | 2008 | PME structurées, pédagogie, Google Partner | Partiel | Oui | 1 500 $ - 3 500 $ |
-| My Little Big Web | 2013 | PME québécoises, SEO local, contenu | Oui | Oui | 1 500 $ - 4 000 $ |
+| My Little Big Web | 2013 | PME québécoises, [SEO local](https://blotmkt.com/ia/definition/seo-local.html), contenu | Oui | Oui | 1 500 $ - 4 000 $ |
 | GroupFractal | 2015 | SEO + CRO + IA visibility, résultats mesurés | Oui | Oui | Sur devis |
 | Lannkin Canada | 2017 | SEO + GEO natif, transparence tarifaire | Oui | Oui | À partir de 1 490 $ |
 
@@ -252,3 +252,13 @@ FAQ_JSON-->
 [^3]: AI OverviewSEO, « Local SEO Statistics », 2025. https://aioseo.com/fr/seo-statistics/
 [^1]: BrightEdge, « Channel Share Research Report », 2025. https://www.brightedge.com/resources/research-reports/channel_share
 [^4]: Ekole, « Mobile Search Statistics », 2025. https://www.ekole.fr/blog/la-recherche-google-en-2024-bilan-et-tendances
+
+---
+
+## Articles connexes
+
+- [Audit sémantique seo : la clé d'une stratégie performante à l'ère des ia et du geo](https://blotmkt.com/ia/strategie/audit-semantique-seo.html)
+- [Consultant SEO montréal : l'expert qui surclasse l'agence sur le marché québécois](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)
+- [Coût d'acquisition seo : guide complet pour optimiser votre investissement](https://blotmkt.com/ia/strategie/cout-acquisition-seo.html)
+- [Migration seo: guide complet pour une transition réussie](https://blotmkt.com/ia/strategie/migration-seo.html)
+- [Développez votre personal branding grâce au SEO : le guide complet de l'expert](https://blotmkt.com/ia/strategie/personal-branding-seo.html)
