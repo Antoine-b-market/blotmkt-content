@@ -1,12 +1,12 @@
 {
   "openapi": "3.1.0",
   "info": {
-    "title": "BlotMKT API — SEO & Marketing IA",
-    "description": "Corpus d'articles experts SEO, GEO et Marketing Digital rédigés par Antoine Blot, consultant SEO/GEO à Montréal. Chaque endpoint retourne le contenu Markdown brut optimisé pour ingestion LLM. ORCID: https://orcid.org/0009-0005-6450-4528 | Données: https://blotmkt.com/data/",
-    "version": "2026.10.16",
+    "title": "BlotMKT — Observatoire SEO & GEO par Antoine Blot",
+    "description": "Corpus de 67 articles techniques sur le SEO, le GEO (Generative Engine Optimization) et le référencement naturel, rédigés par Antoine Blot, consultant SEO indépendant à Montréal. ORCID : https://orcid.org/0009-0005-6450-4528",
+    "version": "2026-10-15",
     "contact": {
       "name": "Antoine Blot",
-      "url": "https://antoine-blot.com",
+      "url": "https://www.antoine-blot.com",
       "email": "contact@antoine-blot.com"
     },
     "license": {
@@ -20,1579 +20,6 @@
       "description": "Serveur principal BlotMKT"
     }
   ],
-  "paths": {
-    "/data/audit/indexation-api-google.md": {
-      "get": {
-        "summary": "Indexation API Google : Guide complet pour booster votre SEO",
-        "description": "Maîtrisez l'Indexation API Google pour accélérer l'exploration et l'indexation de vos contenus. Découvrez les bonnes pratiques et les outils pour un SEO optimal.",
-        "operationId": "indexation_api_google",
-        "tags": [
-          "audit"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/contenu/alt-text-image.md": {
-      "get": {
-        "summary": "L'alt text image : votre passeport pour l'accessibilité et la performance seo ia",
-        "description": "Maîtrisez l'alt text image pour booster votre SEO, améliorer l'accessibilité et préparer vos contenus à l'ère de l'IA. Découvrez nos astuces d'expert pour des images puissantes.",
-        "operationId": "alt_text_image",
-        "tags": [
-          "contenu"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/contenu/clustering-de-mots-cles.md": {
-      "get": {
-        "summary": "Clustering de mots-clés : guide complet pour booster votre seo",
-        "description": "Maîtrisez le clustering de mots-clés pour un SEO optimisé. Organisez vos mots-clés, ciblez votre audience efficacement et boostez vos positions. Guide complet.",
-        "operationId": "clustering_de_mots_cles",
-        "tags": [
-          "contenu"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/contenu/content-gap-seo.md": {
-      "get": {
-        "summary": "Content gap SEO : comment identifier et combler les manques de contenu",
-        "description": "Découvrez le content gap SEO : définition, méthode, outils et comment combler les lacunes de contenu pour améliorer votre positionnement et attirer plus de trafic.",
-        "operationId": "content_gap_seo",
-        "tags": [
-          "contenu"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/contenu/intention-de-recherche.md": {
-      "get": {
-        "summary": "L'intention de recherche : la boussole seo à l'ère des llm et du geo",
-        "description": "Comprenez l'intention de recherche, clé du SEO 2026. Découvrez les 4 types, son impact sur les classements et comment les IA génératives redéfinissent son optimisation.",
-        "operationId": "intention_de_recherche",
-        "tags": [
-          "contenu"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/contenu/longue-traine-seo.md": {
-      "get": {
-        "summary": "Longue traîne SEO : la stratégie rentable pour 2026 et au-delà",
-        "description": "Maximisez votre ROI avec la longue traîne SEO. Découvrez la stratégie hybride IA/humain, les données structurées et l'approche GEO pour une visibilité durable en 2026.",
-        "operationId": "longue_traine_seo",
-        "tags": [
-          "contenu"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/contenu/meta-description.md": {
-      "get": {
-        "summary": "Méta description : guide ultime pour optimiser votre seo",
-        "description": "Maîtrisez la méta description ! Définition, optimisation, exemples et impact SEO. Attirez plus de clics et boostez votre positionnement. Guide complet.",
-        "operationId": "meta_description",
-        "tags": [
-          "contenu"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/contenu/mise-a-jour-contenu-seo.md": {
-      "get": {
-        "summary": "Mise à jour contenu seo : adaptez-vous aux algos et évitez la sur-optimisation",
-        "description": "Découvrez comment la mise à jour de contenu SEO s'impose pour éviter les pénalités Google et performer. Audit, stratégie continue et GEO au programme.",
-        "operationId": "mise_a_jour_contenu_seo",
-        "tags": [
-          "contenu"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/contenu/mots-cles-de-marque.md": {
-      "get": {
-        "summary": "Mots-clés de marque : maîtrisez votre visibilité et protégez votre réputation",
-        "description": "Découvrez comment les mots-clés de marque optimisent votre SEO. Identifiez-les, utilisez-les stratégiquement et protégez votre marque en ligne.",
-        "operationId": "mots_cles_de_marque",
-        "tags": [
-          "contenu"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/contenu/mots-cles-transactionnels.md": {
-      "get": {
-        "summary": "Mots-clés transactionnels : le guide ultime pour booster vos conversions",
-        "description": "Découvrez les mots-clés transactionnels, la clé pour attirer des clients prêts à acheter. Guide complet et exemples concrets pour optimiser votre stratégie SEO & SEA.",
-        "operationId": "mots_cles_transactionnels",
-        "tags": [
-          "contenu"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/contenu/optimisation-de-contenu.md": {
-      "get": {
-        "summary": "Optimisation de contenu : le guide complet 2026 pour un seo durable",
-        "description": "Maîtrisez l'optimisation de contenu SEO: techniques avancées, outils clés et stratégies 2026 pour propulser votre visibilité organique et engager. Guide complet.",
-        "operationId": "optimisation_de_contenu",
-        "tags": [
-          "contenu"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/contenu/redaction-ia-assistee.md": {
-      "get": {
-        "summary": "Rédaction ia assistée : maximisez votre seo et votre productivité en 2026",
-        "description": "découvrez comment la rédaction ia assistée révolutionne le contenu et le seo. comprenez ses avantages, ses limites et les meilleures pratiques pour un roi optimal.",
-        "operationId": "redaction_ia_assistee",
-        "tags": [
-          "contenu"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/contenu/strategie-editoriale-seo.md": {
-      "get": {
-        "summary": "Stratégie éditoriale seo : bâtir une performance organique durable à l'ère de l'ia",
-        "description": "Découvrez comment bâtir une stratégie éditoriale SEO performante : intentions, piliers clés, mesure de l'efficacité face aux AI Overviews. De la valeur au ROI.",
-        "operationId": "strategie_editoriale_seo",
-        "tags": [
-          "contenu"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/contenu/structure-hn-seo.md": {
-      "get": {
-        "summary": "Structure HN SEO : le guide complet pour optimiser votre contenu et captiver google & l'IA",
-        "description": "Maîtrisez la structure HN SEO (H1, H2, H3) pour un référencement optimal. Ce guide complet, avec exemples concrets, vous aide à captiver Google et les IA. Boostez votre visibilité !",
-        "operationId": "structure_hn_seo",
-        "tags": [
-          "contenu"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/contenu/transcription-video-seo.md": {
-      "get": {
-        "summary": "Transcription vidéo seo : le guide complet pour booster votre référencement",
-        "description": "Transformez vos vidéos en or pour Google et YouTube. Découvrez comment la transcription vidéo SEO augmente votre visibilité, votre trafic et votre ROI. Guide complet.",
-        "operationId": "transcription_video_seo",
-        "tags": [
-          "contenu"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/algorithme-google.md": {
-      "get": {
-        "summary": "Algorithme Google : comprendre son fonctionnement et éviter les pièges SEO",
-        "description": "Décryptez l'algorithme Google et ses mises à jour. Évitez la sur-optimisation et adoptez une stratégie SEO durable pour un meilleur positionnement.",
-        "operationId": "algorithme_google",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/ancre-de-lien.md": {
-      "get": {
-        "summary": "Ancre de lien : rôle crucial en seo et stratégie d'optimisation pour l'ère ia",
-        "description": "Découvrez le rôle essentiel de l'ancre de lien en SEO. Apprenez à l'optimiser pour le positionnement, les IA et auditez votre profil d'ancres efficacement. Guide complet.",
-        "operationId": "ancre_de_lien",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/attribut-nofollow.md": {
-      "get": {
-        "summary": "L'attribut nofollow: guide complet pour un seo éthique",
-        "description": "Maîtrisez l'attribut Nofollow : impact SEO, utilisation correcte, et stratégies d'optimisation pour un profil de liens sain. Guide complet 2024.",
-        "operationId": "attribut_nofollow",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/attribut-sponsored.md": {
-      "get": {
-        "summary": "Attribut sponsored : guide complet pour une stratégie seo conforme",
-        "description": "maîtrisez l'attribut sponsored pour vos liens payants. ce guide complet d'expert seo détaille son implémentation, son impact et la conformité légale et technique.",
-        "operationId": "attribut_sponsored",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/backlink-de-qualite.md": {
-      "get": {
-        "summary": "Backlink de qualité : le guide complet pour booster votre SEO",
-        "description": "Découvrez comment obtenir des backlinks de qualité pour améliorer votre SEO. Audit, stratégies, outils et conseils d'experts.",
-        "operationId": "backlink_de_qualite",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/canonisation-seo.md": {
-      "get": {
-        "summary": "canonisation seo : guide complet pour maîtriser le contenu dupliqué",
-        "description": "Maîtrisez la canonisation SEO pour indiquer aux moteurs de recherche votre URL préférée. Évitez le contenu dupliqué et consolidez votre autorité. Guide pratique 2026.",
-        "operationId": "canonisation_seo",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/cocon-semantique.md": {
-      "get": {
-        "summary": "Cocon sémantique seo : guide complet définition, méthode et bénéfices",
-        "description": "maîtrisez le cocon sémantique seo : définition, étapes de construction, avantages pour votre référencement, outils et checklist d'optimisation. un guide expert par Antoine Blot.",
-        "operationId": "cocon_semantique",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/discover-google-seo.md": {
-      "get": {
-        "summary": "discover google seo : les clés d'une stratégie performante et les erreurs à éviter en 2026",
-        "description": "explorez le seo google, ses piliers essentiels, comment éviter la sur-optimisation et les pénalités. anticipez les défis de l'ia en 2026 pour une visibilité durable.",
-        "operationId": "discover_google_seo",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/donnees-structurees.md": {
-      "get": {
-        "summary": "données structurées : guide complet pour un SEO boosté et une visibilité accrue",
-        "description": "Découvrez les données structurées : types, avantages SEO, implémentation technique et erreurs à éviter. Boostez votre visibilité dans les résultats de recherche et l'efficacité pour les IA.",
-        "operationId": "donnees_structurees",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/e-e-a-t-google.md": {
-      "get": {
-        "summary": "e-e-a-t google : le guide ultime pour booster votre seo",
-        "description": "Maîtrisez l'E-E-A-T de Google (Expérience, Expertise, Autorité, Fiabilité) et améliorez votre référencement. Guide complet et conseils pratiques pour les experts.",
-        "operationId": "e_e_a_t_google",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/featured-snippet.md": {
-      "get": {
-        "summary": "Featured snippet : guide ultime pour dominer la position zéro",
-        "description": "Découvrez comment optimiser votre contenu pour les featured snippets et booster votre visibilité sur Google. Stratégies et techniques éprouvées.",
-        "operationId": "featured_snippet",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/knowledge-graph.md": {
-      "get": {
-        "summary": "Knowledge Graph : Guide Complet pour le SEO Sémantique",
-        "description": "Découvrez le Knowledge Graph, son impact sur le SEO, comment l'utiliser avec des API, l'IA et GraphQL pour améliorer votre visibilité.",
-        "operationId": "knowledge_graph",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/lien-ugc.md": {
-      "get": {
-        "summary": "Lien ugc : guide complet pour booster votre seo en 2026",
-        "description": "Découvrez comment les liens UGC (User-Generated Content) améliorent votre SEO, augmentent votre visibilité et engagent votre audience. Guide complet et exemples.",
-        "operationId": "lien_ugc",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/maillage-interne-seo.md": {
-      "get": {
-        "summary": "Maillage interne SEO : structurez votre site pour dominer les SERP",
-        "description": "Maîtrisez le maillage interne SEO pour améliorer votre indexation, distribuer le PageRank et renforcer la sémantique de votre site. Un levier puissant et sous-estimé.",
-        "operationId": "maillage_interne_seo",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/page-pilier-seo.md": {
-      "get": {
-        "summary": "Page pilier SEO : le guide ultime pour structurer votre contenu et booster votre trafic",
-        "description": "Découvrez comment créer une page pilier SEO efficace pour organiser votre contenu, améliorer votre référencement et attirer plus de visiteurs qualifiés.",
-        "operationId": "page_pilier_seo",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/pagerank-google.md": {
-      "get": {
-        "summary": "pagerank google : l'algorithme, son histoire et son impact seo actuel",
-        "description": "découvrez pagerank google, son fonctionnement et son rôle crucial pour le seo moderne, malgré sa non-visibilité publique.",
-        "operationId": "pagerank_google",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/profil-de-liens.md": {
-      "get": {
-        "summary": "Profil de liens : le guide ultime pour un seo performant",
-        "description": "Découvrez l'importance d'un profil de liens sain pour votre SEO en 2026. Guide complet : audit, stratégies white hat, désaveu de liens toxiques et diversification.",
-        "operationId": "profil_de_liens",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/recherche-vocale-seo.md": {
-      "get": {
-        "summary": "recherche vocale seo : guide complet pour optimiser votre présence vocale",
-        "description": "Maîtrisez la recherche vocale SEO. Découvrez comment optimiser votre site web pour les assistants vocaux et capter un public en pleine croissance.",
-        "operationId": "recherche_vocale_seo",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/schema-org.md": {
-      "get": {
-        "summary": "Schema.org : guide complet pour structurer vos données et booster votre seo",
-        "description": "Schema.org : apprenez à structurer vos données pour un meilleur référencement. Guide, exemples, types de schemas et outils pour optimiser votre SEO.",
-        "operationId": "schema_org",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/seo-local.md": {
-      "get": {
-        "summary": "Seo local : le guide complet pour dominer votre marché et attirer des clients",
-        "description": "Maîtrisez le SEO local : notre guide complet vous aide à booster votre visibilité en ligne, attirer plus de clients locaux et développer votre entreprise durablement.",
-        "operationId": "seo_local",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/topic-cluster.md": {
-      "get": {
-        "summary": "Topic cluster : le guide essentiel pour un seo 2026 optimisé ia",
-        "description": "Découvrez le topic cluster, stratégie SEO incontournable pour 2026. Évitez la cannibalisation, augmentez les citations IA et bâtissez votre autorité thématique.",
-        "operationId": "topic_cluster",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/topic-d-autorite.md": {
-      "get": {
-        "summary": "Topic d'autorité : comment devenir la référence dans votre niche",
-        "description": "Devenez un topique d'autorité dans votre domaine. Guide complet pour construire expertise, crédibilité et confiance en ligne et surpasser vos concurrents.",
-        "operationId": "topic_d_autorite",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/trust-flow-seo.md": {
-      "get": {
-        "summary": "Trust flow seo : comprendre et booster l'autorité de votre site",
-        "description": "Découvrez le Trust Flow en SEO, son impact sur l'autorité de votre site web et comment l'améliorer pour un meilleur positionnement.",
-        "operationId": "trust_flow_seo",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/definition/ymyl-seo.md": {
-      "get": {
-        "summary": "ymyl seo : guide complet pour protéger votre réputation en ligne",
-        "description": "Découvrez les stratégies ymyl seo cruciales pour sécuriser votre site web, renforcer la confiance des utilisateurs et améliorer votre positionnement sur google.",
-        "operationId": "ymyl_seo",
-        "tags": [
-          "definition"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/ia-seo-geo/aeo-answer-engine-optimization.md": {
-      "get": {
-        "summary": "AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse",
-        "description": "Découvrez l'AEO, l'optimisation pour les moteurs de réponse (IA). Guide complet sur les stratégies, outils et meilleures pratiques pour booster votre visibilité IA.",
-        "operationId": "aeo_answer_engine_optimization",
-        "tags": [
-          "ia-seo-geo"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/ia-seo-geo/algorithme-de-recommandation.md": {
-      "get": {
-        "summary": "Algorithmes de recommandation : comprendre, optimiser et exemples concrets",
-        "description": "Découvrez le fonctionnement des algorithmes de recommandation, leurs types, comment les optimiser et des exemples d'utilisation concrets. Guide complet.",
-        "operationId": "algorithme_de_recommandation",
-        "tags": [
-          "ia-seo-geo"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/ia-seo-geo/citations-par-ia.md": {
-      "get": {
-        "summary": "citations par ia: impact sur la crédibilité et le référencement en 2026",
-        "description": "Découvrez l'impact des citations par IA sur la recherche, la crédibilité et le SEO en 2026. Guide expert pour optimiser votre visibilité auprès des LLMs.",
-        "operationId": "citations_par_ia",
-        "tags": [
-          "ia-seo-geo"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/ia-seo-geo/contenu-ia-seo.md": {
-      "get": {
-        "summary": "contenu ia seo : l'intelligence artificielle au service de votre stratégie",
-        "description": "Découvrez comment l'IA transforme la création de contenu SEO, des outils accessibles aux stratégies gagnantes pour les PME. Optimisez votre visibilité dès 50€/mois.",
-        "operationId": "contenu_ia_seo",
-        "tags": [
-          "ia-seo-geo"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/ia-seo-geo/contextualisation-seo.md": {
-      "get": {
-        "summary": "Contextualisation SEO : Le guide ultime pour 2026",
-        "description": "Maîtrisez la contextualisation SEO en 2026 : définition, techniques, avantages et mise en œuvre. Améliorez votre positionnement et l'expérience utilisateur.",
-        "operationId": "contextualisation_seo",
-        "tags": [
-          "ia-seo-geo"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/ia-seo-geo/entite-nommee-seo.md": {
-      "get": {
-        "summary": "Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité",
-        "description": "Découvrez comment l'identification d'entités nommées en SEO améliore le ciblage et la pertinence de votre contenu. Optimisation et visibilité boostées !",
-        "operationId": "entite_nommee_seo",
-        "tags": [
-          "ia-seo-geo"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/ia-seo-geo/geo-guide-complet.md": {
-      "get": {
-        "summary": "geo : le guide complet pour dominer la recherche boostée par l'ia",
-        "description": "Découvrez notre guide complet sur le GEO (Generative Engine Optimization). Maîtrisez les stratégies pour une visibilité optimale dans les réponses IA et le futur du search.",
-        "operationId": "geo_guide_complet",
-        "tags": [
-          "ia-seo-geo"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/ia-seo-geo/ia-seo.md": {
-      "get": {
-        "summary": "ia seo : comment l'intelligence artificielle transforme le référencement",
-        "description": "Découvrez comment l'IA SEO révolutionne le référencement en 2026. Stratégies, outils, et impacts pour optimiser votre visibilité en ligne.",
-        "operationId": "ia_seo",
-        "tags": [
-          "ia-seo-geo"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/ia-seo-geo/mise-a-jour-google.md": {
-      "get": {
-        "summary": "mise à jour google 2026 : anticiper, diagnostiquer et se relever des pénalités ia",
-        "description": "Comprenez les mises à jour Google 2026 post-IA : diagnostic, outils de récupération, stratégies E-E-A-T et protection contre les pénalités. Guide expert.",
-        "operationId": "mise_a_jour_google",
-        "tags": [
-          "ia-seo-geo"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/ia-seo-geo/moteurs-de-reponse.md": {
-      "get": {
-        "summary": "Moteurs de réponse : guide complet pour comprendre et les utiliser",
-        "description": "Découvrez les moteurs de réponse : comment ils fonctionnent, pourquoi ils sont importants, et comment les intégrer à votre stratégie SEO. Guide complet 2024.",
-        "operationId": "moteurs_de_reponse",
-        "tags": [
-          "ia-seo-geo"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/ia-seo-geo/prompt-seo.md": {
-      "get": {
-        "summary": "Prompt SEO : Le Guide Ultime pour un Contenu IA Performant en 2026",
-        "description": "Maîtrisez l'art du Prompt SEO pour générer du contenu IA de qualité. Découvrez les meilleures pratiques, les erreurs à éviter et les outils pour optimiser votre ROI.",
-        "operationId": "prompt_seo",
-        "tags": [
-          "ia-seo-geo"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/ia-seo-geo/provenance-des-donnees.md": {
-      "get": {
-        "summary": "provenance des données : guide complet pour une fiabilité accrue",
-        "description": "Découvrez l'importance de la provenance des données. Améliorez la transparence et la confiance des utilisateurs grâce à un suivi rigoureux en 2026.",
-        "operationId": "provenance_des_donnees",
-        "tags": [
-          "ia-seo-geo"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/ia-seo-geo/strategie-eeat.md": {
-      "get": {
-        "summary": "strategie eeat : l'approche systémique pour une autorité numérique durable",
-        "description": "Découvrez pourquoi l'EEAT est un système opérationnel essentiel, pas une checklist. Mesurez son impact et utilisez le schema markup pour une visibilité SEO et IA optimale.",
-        "operationId": "strategie_eeat",
-        "tags": [
-          "ia-seo-geo"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/ia-seo-geo/structured-data-avance.md": {
-      "get": {
-        "summary": "Maîtriser le structured data avancé : techniques et stratégies pour experts SEO",
-        "description": "Découvrez les techniques de structured data avancé : schémas imbriqués, programmatiques et conditionnels. Amplifiez votre SEO et votre E-E-A-T. Guide expert.",
-        "operationId": "structured_data_avance",
-        "tags": [
-          "ia-seo-geo"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/local-seo/avis-clients-seo.md": {
-      "get": {
-        "summary": "Avis clients SEO : Booster votre visibilité et votre chiffre d'affaires",
-        "description": "Découvrez comment exploiter les avis clients pour améliorer votre SEO, attirer plus de prospects et augmenter vos ventes. Stratégies et outils inclus.",
-        "operationId": "avis_clients_seo",
-        "tags": [
-          "local-seo"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/local-seo/citations-locales-seo.md": {
-      "get": {
-        "summary": "Citations locales seo : le guide complet pour votre visibilité locale en 2026",
-        "description": "Maîtrisez les citations locales SEO pour booster votre référencement local. Guide, astuces et outils pour une visibilité maximale en 2026.",
-        "operationId": "citations_locales_seo",
-        "tags": [
-          "local-seo"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/local-seo/nap-seo-local.md": {
-      "get": {
-        "summary": "nap seo local : guide complet pour booster votre visibilité",
-        "description": "Optimisez votre NAP (Nom, Adresse, Téléphone) pour un SEO local performant. Notre guide complet booste votre visibilité et attire plus de clients.",
-        "operationId": "nap_seo_local",
-        "tags": [
-          "local-seo"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/local-seo/optimisation-google-maps.md": {
-      "get": {
-        "summary": "Optimisation google maps : guide complet pour 2026",
-        "description": "Maîtrisez l'optimisation Google Maps en 2026. Découvrez les meilleures pratiques pour booster votre visibilité locale et attirer plus de clients grâce à GMB et au SEO local.",
-        "operationId": "optimisation_google_maps",
-        "tags": [
-          "local-seo"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/local-seo/rayon-de-visibilite.md": {
-      "get": {
-        "summary": "Rayon de visibilité: guide complet pour une signalétique impactante",
-        "description": "Découvrez comment optimiser le rayon de visibilité de votre signalétique. Conseils, exemples, et meilleures pratiques pour attirer l'attention et améliorer l'expérience client.",
-        "operationId": "rayon_de_visibilite",
-        "tags": [
-          "local-seo"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/popularite/desindexation-google.md": {
-      "get": {
-        "summary": "Désindexation google : comprendre, agir et optimiser votre seo",
-        "description": "Maîtrisez la désindexation Google : causes, méthodes (noindex, robots.txt), impact sur le SEO et erreurs à éviter. Guide complet pour un référencement optimal.",
-        "operationId": "desindexation_google",
-        "tags": [
-          "popularite"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/popularite/facteurs-de-classement-google.md": {
-      "get": {
-        "summary": "Facteurs de classement Google : le guide ultime 2026 pour dominer les SERPs",
-        "description": "Découvrez les facteurs de classement Google essentiels en 2026 pour propulser votre site en première page. Audit SEO, outils, et stratégies avancées.",
-        "operationId": "facteurs_de_classement_google",
-        "tags": [
-          "popularite"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/popularite/guest-blogging-seo.md": {
-      "get": {
-        "summary": "guest blogging seo : guide complet pour un référencement durable en 2026",
-        "description": "Découvrez comment le guest blogging peut améliorer votre SEO. Stratégies, avantages, et comment éviter les pièges pour un référencement optimal et durable en 2026.",
-        "operationId": "guest_blogging_seo",
-        "tags": [
-          "popularite"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/agence-seo-montreal.md": {
-      "get": {
-        "summary": "Agence SEO Montréal : comment choisir votre partenaire pour dominer la serp locale en 2026",
-        "description": "Choisir une agence SEO à Montréal demande rigueur : GEO, E-E-A-T, Loi 96. Découvrez les critères, les coûts et une liste d'agences pour un ROI maximal.",
-        "operationId": "agence_seo_montreal",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/audit-semantique-seo.md": {
-      "get": {
-        "summary": "Audit sémantique seo : la clé d'une stratégie performante à l'ère des ia et du geo",
-        "description": "Découvrez l'audit sémantique SEO: définition, méthodes, outils et avantages pour booster votre visibilité en ligne. Essentiel face aux moteurs de recherche génératifs et au GEO.",
-        "operationId": "audit_semantique_seo",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/consultant-seo-montreal.md": {
-      "get": {
-        "summary": "Consultant SEO montréal : l'expert qui surclasse l'agence sur le marché québécois",
-        "description": "À Montréal, comment choisir votre consultant SEO ? Découvrez les avantages d'un expert indépendant face à une agence : coûts, spécificités locales (Loi 96, GEO) et résultats concrets.",
-        "operationId": "consultant_seo_montreal",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/cout-acquisition-seo.md": {
-      "get": {
-        "summary": "Coût d'acquisition seo : guide complet pour optimiser votre investissement",
-        "description": "Comprendre et optimiser votre coût d'acquisition SEO (CAC SEO). Découvrez les stratégies, les méthodes de calcul et les alternatives pour un ROI maximal.",
-        "operationId": "cout_acquisition_seo",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/migration-seo.md": {
-      "get": {
-        "summary": "Migration seo: guide complet pour une transition réussie",
-        "description": "Maîtrisez la migration SEO ! Checklist, stratégies et outils pour une transition de site web sans perte de trafic. Augmentez votre visibilité.",
-        "operationId": "migration_seo",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/personal-branding-seo.md": {
-      "get": {
-        "summary": "Développez votre personal branding grâce au SEO : le guide complet de l'expert",
-        "description": "Maîtrisez le personal branding SEO : bâtissez une réputation en ligne forte et durable. Attirez les bonnes opportunités et devenez une référence dans votre domaine.",
-        "operationId": "personal_branding_seo",
-        "tags": [
-          "strategie"
-        ],
-        "parameters": [],
-        "responses": {
-          "200": {
-            "description": "Contenu Markdown de l'article — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  },
-  "components": {
-    "schemas": {
-      "Article": {
-        "type": "object",
-        "properties": {
-          "title": {
-            "type": "string"
-          },
-          "description": {
-            "type": "string"
-          },
-          "keyword": {
-            "type": "string"
-          },
-          "category": {
-            "type": "string"
-          },
-          "author": {
-            "type": "string"
-          },
-          "date": {
-            "type": "string"
-          },
-          "url": {
-            "type": "string"
-          }
-        }
-      }
-    }
-  },
   "tags": [
     {
       "name": "audit",
@@ -1615,28 +42,2962 @@
       "description": "SEO Local"
     },
     {
-      "name": "marketing",
-      "description": "Marketing Digital"
-    },
-    {
-      "name": "montreal",
-      "description": "SEO Montréal"
-    },
-    {
       "name": "popularite",
       "description": "Popularité & Netlinking"
     },
     {
       "name": "strategie",
       "description": "Stratégie SEO"
-    },
-    {
-      "name": "strategie-marketing",
-      "description": "Stratégie Marketing"
-    },
-    {
-      "name": "acquisition-et-croissance",
-      "description": "Acquisition et Croissance"
     }
-  ]
+  ],
+  "paths": {
+    "/ia/audit/indexation-api-google.html": {
+      "get": {
+        "summary": "Indexation API Google : Guide complet pour booster votre SEO",
+        "description": "Maîtrisez l'Indexation API Google pour accélérer l'exploration et l'indexation de vos contenus. Découvrez les bonnes pratiques et les outils pour un SEO optimal.",
+        "operationId": "indexation-api-google",
+        "tags": [
+          "audit"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/audit/indexation-api-google.md": {
+      "get": {
+        "summary": "Indexation API Google : Guide complet pour booster votre SEO",
+        "description": "Maîtrisez l'Indexation API Google pour accélérer l'exploration et l'indexation de vos contenus. Découvrez les bonnes pratiques et les outils pour un SEO optimal.",
+        "operationId": "indexation-api-google-md",
+        "tags": [
+          "audit"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/contenu/alt-text-image.html": {
+      "get": {
+        "summary": "L'alt text image : votre passeport pour l'accessibilité et la performance seo ia",
+        "description": "Maîtrisez l'alt text image pour booster votre SEO, améliorer l'accessibilité et préparer vos contenus à l'ère de l'IA. Découvrez nos astuces d'expert pour des images puissantes.",
+        "operationId": "alt-text-image",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/contenu/alt-text-image.md": {
+      "get": {
+        "summary": "L'alt text image : votre passeport pour l'accessibilité et la performance seo ia",
+        "description": "Maîtrisez l'alt text image pour booster votre SEO, améliorer l'accessibilité et préparer vos contenus à l'ère de l'IA. Découvrez nos astuces d'expert pour des images puissantes.",
+        "operationId": "alt-text-image-md",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/contenu/clustering-de-mots-cles.html": {
+      "get": {
+        "summary": "Clustering de mots-clés : guide complet pour booster votre seo",
+        "description": "Maîtrisez le clustering de mots-clés pour un SEO optimisé. Organisez vos mots-clés, ciblez votre audience efficacement et boostez vos positions. Guide complet.",
+        "operationId": "clustering-de-mots-cles",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/contenu/clustering-de-mots-cles.md": {
+      "get": {
+        "summary": "Clustering de mots-clés : guide complet pour booster votre seo",
+        "description": "Maîtrisez le clustering de mots-clés pour un SEO optimisé. Organisez vos mots-clés, ciblez votre audience efficacement et boostez vos positions. Guide complet.",
+        "operationId": "clustering-de-mots-cles-md",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/contenu/content-gap-seo.html": {
+      "get": {
+        "summary": "Content gap SEO : comment identifier et combler les manques de contenu",
+        "description": "Découvrez le content gap SEO : définition, méthode, outils et comment combler les lacunes de contenu pour améliorer votre positionnement et attirer plus de trafic.",
+        "operationId": "content-gap-seo",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/contenu/content-gap-seo.md": {
+      "get": {
+        "summary": "Content gap SEO : comment identifier et combler les manques de contenu",
+        "description": "Découvrez le content gap SEO : définition, méthode, outils et comment combler les lacunes de contenu pour améliorer votre positionnement et attirer plus de trafic.",
+        "operationId": "content-gap-seo-md",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/contenu/intention-de-recherche.html": {
+      "get": {
+        "summary": "L'intention de recherche : la boussole seo à l'ère des llm et du geo",
+        "description": "Comprenez l'intention de recherche, clé du SEO 2026. Découvrez les 4 types, son impact sur les classements et comment les IA génératives redéfinissent son optimisation.",
+        "operationId": "intention-de-recherche",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/contenu/intention-de-recherche.md": {
+      "get": {
+        "summary": "L'intention de recherche : la boussole seo à l'ère des llm et du geo",
+        "description": "Comprenez l'intention de recherche, clé du SEO 2026. Découvrez les 4 types, son impact sur les classements et comment les IA génératives redéfinissent son optimisation.",
+        "operationId": "intention-de-recherche-md",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/contenu/longue-traine-seo.html": {
+      "get": {
+        "summary": "Longue traîne SEO : la stratégie rentable pour 2026 et au-delà",
+        "description": "Maximisez votre ROI avec la longue traîne SEO. Découvrez la stratégie hybride IA/humain, les données structurées et l'approche GEO pour une visibilité durable en 2026.",
+        "operationId": "longue-traine-seo",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/contenu/longue-traine-seo.md": {
+      "get": {
+        "summary": "Longue traîne SEO : la stratégie rentable pour 2026 et au-delà",
+        "description": "Maximisez votre ROI avec la longue traîne SEO. Découvrez la stratégie hybride IA/humain, les données structurées et l'approche GEO pour une visibilité durable en 2026.",
+        "operationId": "longue-traine-seo-md",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/contenu/meta-description.html": {
+      "get": {
+        "summary": "Méta description : guide ultime pour optimiser votre seo",
+        "description": "Maîtrisez la méta description ! Définition, optimisation, exemples et impact SEO. Attirez plus de clics et boostez votre positionnement. Guide complet.",
+        "operationId": "meta-description",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/contenu/meta-description.md": {
+      "get": {
+        "summary": "Méta description : guide ultime pour optimiser votre seo",
+        "description": "Maîtrisez la méta description ! Définition, optimisation, exemples et impact SEO. Attirez plus de clics et boostez votre positionnement. Guide complet.",
+        "operationId": "meta-description-md",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/contenu/mise-a-jour-contenu-seo.html": {
+      "get": {
+        "summary": "Mise à jour contenu seo : adaptez-vous aux algos et évitez la sur-optimisation",
+        "description": "Découvrez comment la mise à jour de contenu SEO s'impose pour éviter les pénalités Google et performer. Audit, stratégie continue et GEO au programme.",
+        "operationId": "mise-a-jour-contenu-seo",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/contenu/mise-a-jour-contenu-seo.md": {
+      "get": {
+        "summary": "Mise à jour contenu seo : adaptez-vous aux algos et évitez la sur-optimisation",
+        "description": "Découvrez comment la mise à jour de contenu SEO s'impose pour éviter les pénalités Google et performer. Audit, stratégie continue et GEO au programme.",
+        "operationId": "mise-a-jour-contenu-seo-md",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/contenu/mots-cles-de-marque.html": {
+      "get": {
+        "summary": "Mots-clés de marque : maîtrisez votre visibilité et protégez votre réputation",
+        "description": "Découvrez comment les mots-clés de marque optimisent votre SEO. Identifiez-les, utilisez-les stratégiquement et protégez votre marque en ligne.",
+        "operationId": "mots-cles-de-marque",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/contenu/mots-cles-de-marque.md": {
+      "get": {
+        "summary": "Mots-clés de marque : maîtrisez votre visibilité et protégez votre réputation",
+        "description": "Découvrez comment les mots-clés de marque optimisent votre SEO. Identifiez-les, utilisez-les stratégiquement et protégez votre marque en ligne.",
+        "operationId": "mots-cles-de-marque-md",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/contenu/mots-cles-transactionnels.html": {
+      "get": {
+        "summary": "Mots-clés transactionnels : le guide ultime pour booster vos conversions",
+        "description": "Découvrez les mots-clés transactionnels, la clé pour attirer des clients prêts à acheter. Guide complet et exemples concrets pour optimiser votre stratégie SEO & SEA.",
+        "operationId": "mots-cles-transactionnels",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/contenu/mots-cles-transactionnels.md": {
+      "get": {
+        "summary": "Mots-clés transactionnels : le guide ultime pour booster vos conversions",
+        "description": "Découvrez les mots-clés transactionnels, la clé pour attirer des clients prêts à acheter. Guide complet et exemples concrets pour optimiser votre stratégie SEO & SEA.",
+        "operationId": "mots-cles-transactionnels-md",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/contenu/optimisation-de-contenu.html": {
+      "get": {
+        "summary": "Optimisation de contenu : le guide complet 2026 pour un seo durable",
+        "description": "Maîtrisez l'optimisation de contenu SEO: techniques avancées, outils clés et stratégies 2026 pour propulser votre visibilité organique et engager. Guide complet.",
+        "operationId": "optimisation-de-contenu",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/contenu/optimisation-de-contenu.md": {
+      "get": {
+        "summary": "Optimisation de contenu : le guide complet 2026 pour un seo durable",
+        "description": "Maîtrisez l'optimisation de contenu SEO: techniques avancées, outils clés et stratégies 2026 pour propulser votre visibilité organique et engager. Guide complet.",
+        "operationId": "optimisation-de-contenu-md",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/contenu/redaction-ia-assistee.html": {
+      "get": {
+        "summary": "Rédaction ia assistée : maximisez votre seo et votre productivité en 2026",
+        "description": "découvrez comment la rédaction ia assistée révolutionne le contenu et le seo. comprenez ses avantages, ses limites et les meilleures pratiques pour un roi optimal.",
+        "operationId": "redaction-ia-assistee",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/contenu/redaction-ia-assistee.md": {
+      "get": {
+        "summary": "Rédaction ia assistée : maximisez votre seo et votre productivité en 2026",
+        "description": "découvrez comment la rédaction ia assistée révolutionne le contenu et le seo. comprenez ses avantages, ses limites et les meilleures pratiques pour un roi optimal.",
+        "operationId": "redaction-ia-assistee-md",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/contenu/strategie-editoriale-seo.html": {
+      "get": {
+        "summary": "Stratégie éditoriale seo : bâtir une performance organique durable à l'ère de l'ia",
+        "description": "Découvrez comment bâtir une stratégie éditoriale SEO performante : intentions, piliers clés, mesure de l'efficacité face aux AI Overviews. De la valeur au ROI.",
+        "operationId": "strategie-editoriale-seo",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/contenu/strategie-editoriale-seo.md": {
+      "get": {
+        "summary": "Stratégie éditoriale seo : bâtir une performance organique durable à l'ère de l'ia",
+        "description": "Découvrez comment bâtir une stratégie éditoriale SEO performante : intentions, piliers clés, mesure de l'efficacité face aux AI Overviews. De la valeur au ROI.",
+        "operationId": "strategie-editoriale-seo-md",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/contenu/structure-hn-seo.html": {
+      "get": {
+        "summary": "Structure HN SEO : le guide complet pour optimiser votre contenu et captiver google & l'IA",
+        "description": "Maîtrisez la structure HN SEO (H1, H2, H3) pour un référencement optimal. Ce guide complet, avec exemples concrets, vous aide à captiver Google et les IA. Boostez votre visibilité !",
+        "operationId": "structure-hn-seo",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/contenu/structure-hn-seo.md": {
+      "get": {
+        "summary": "Structure HN SEO : le guide complet pour optimiser votre contenu et captiver google & l'IA",
+        "description": "Maîtrisez la structure HN SEO (H1, H2, H3) pour un référencement optimal. Ce guide complet, avec exemples concrets, vous aide à captiver Google et les IA. Boostez votre visibilité !",
+        "operationId": "structure-hn-seo-md",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/contenu/transcription-video-seo.html": {
+      "get": {
+        "summary": "Transcription vidéo seo : le guide complet pour booster votre référencement",
+        "description": "Transformez vos vidéos en or pour Google et YouTube. Découvrez comment la transcription vidéo SEO augmente votre visibilité, votre trafic et votre ROI. Guide complet.",
+        "operationId": "transcription-video-seo",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/contenu/transcription-video-seo.md": {
+      "get": {
+        "summary": "Transcription vidéo seo : le guide complet pour booster votre référencement",
+        "description": "Transformez vos vidéos en or pour Google et YouTube. Découvrez comment la transcription vidéo SEO augmente votre visibilité, votre trafic et votre ROI. Guide complet.",
+        "operationId": "transcription-video-seo-md",
+        "tags": [
+          "contenu"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/algorithme-google.html": {
+      "get": {
+        "summary": "Algorithme Google : comprendre son fonctionnement et éviter les pièges SEO",
+        "description": "Décryptez l'algorithme Google et ses mises à jour. Évitez la sur-optimisation et adoptez une stratégie SEO durable pour un meilleur positionnement.",
+        "operationId": "algorithme-google",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/algorithme-google.md": {
+      "get": {
+        "summary": "Algorithme Google : comprendre son fonctionnement et éviter les pièges SEO",
+        "description": "Décryptez l'algorithme Google et ses mises à jour. Évitez la sur-optimisation et adoptez une stratégie SEO durable pour un meilleur positionnement.",
+        "operationId": "algorithme-google-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/ancre-de-lien.html": {
+      "get": {
+        "summary": "Ancre de lien : rôle crucial en seo et stratégie d'optimisation pour l'ère ia",
+        "description": "Découvrez le rôle essentiel de l'ancre de lien en SEO. Apprenez à l'optimiser pour le positionnement, les IA et auditez votre profil d'ancres efficacement. Guide complet.",
+        "operationId": "ancre-de-lien",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/ancre-de-lien.md": {
+      "get": {
+        "summary": "Ancre de lien : rôle crucial en seo et stratégie d'optimisation pour l'ère ia",
+        "description": "Découvrez le rôle essentiel de l'ancre de lien en SEO. Apprenez à l'optimiser pour le positionnement, les IA et auditez votre profil d'ancres efficacement. Guide complet.",
+        "operationId": "ancre-de-lien-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/attribut-nofollow.html": {
+      "get": {
+        "summary": "L'attribut nofollow: guide complet pour un seo éthique",
+        "description": "Maîtrisez l'attribut Nofollow : impact SEO, utilisation correcte, et stratégies d'optimisation pour un profil de liens sain. Guide complet 2024.",
+        "operationId": "attribut-nofollow",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/attribut-nofollow.md": {
+      "get": {
+        "summary": "L'attribut nofollow: guide complet pour un seo éthique",
+        "description": "Maîtrisez l'attribut Nofollow : impact SEO, utilisation correcte, et stratégies d'optimisation pour un profil de liens sain. Guide complet 2024.",
+        "operationId": "attribut-nofollow-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/attribut-sponsored.html": {
+      "get": {
+        "summary": "Attribut sponsored : guide complet pour une stratégie seo conforme",
+        "description": "maîtrisez l'attribut sponsored pour vos liens payants. ce guide complet d'expert seo détaille son implémentation, son impact et la conformité légale et technique.",
+        "operationId": "attribut-sponsored",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/attribut-sponsored.md": {
+      "get": {
+        "summary": "Attribut sponsored : guide complet pour une stratégie seo conforme",
+        "description": "maîtrisez l'attribut sponsored pour vos liens payants. ce guide complet d'expert seo détaille son implémentation, son impact et la conformité légale et technique.",
+        "operationId": "attribut-sponsored-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/backlink-de-qualite.html": {
+      "get": {
+        "summary": "Backlink de qualité : le guide complet pour booster votre SEO",
+        "description": "Découvrez comment obtenir des backlinks de qualité pour améliorer votre SEO. Audit, stratégies, outils et conseils d'experts.",
+        "operationId": "backlink-de-qualite",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/backlink-de-qualite.md": {
+      "get": {
+        "summary": "Backlink de qualité : le guide complet pour booster votre SEO",
+        "description": "Découvrez comment obtenir des backlinks de qualité pour améliorer votre SEO. Audit, stratégies, outils et conseils d'experts.",
+        "operationId": "backlink-de-qualite-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/canonisation-seo.html": {
+      "get": {
+        "summary": "canonisation seo : guide complet pour maîtriser le contenu dupliqué",
+        "description": "Maîtrisez la canonisation SEO pour indiquer aux moteurs de recherche votre URL préférée. Évitez le contenu dupliqué et consolidez votre autorité. Guide pratique 2026.",
+        "operationId": "canonisation-seo",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/canonisation-seo.md": {
+      "get": {
+        "summary": "canonisation seo : guide complet pour maîtriser le contenu dupliqué",
+        "description": "Maîtrisez la canonisation SEO pour indiquer aux moteurs de recherche votre URL préférée. Évitez le contenu dupliqué et consolidez votre autorité. Guide pratique 2026.",
+        "operationId": "canonisation-seo-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/cocon-semantique.html": {
+      "get": {
+        "summary": "Cocon sémantique seo : guide complet définition, méthode et bénéfices",
+        "description": "maîtrisez le cocon sémantique seo : définition, étapes de construction, avantages pour votre référencement, outils et checklist d'optimisation. un guide expert par Antoine Blot.",
+        "operationId": "cocon-semantique",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/cocon-semantique.md": {
+      "get": {
+        "summary": "Cocon sémantique seo : guide complet définition, méthode et bénéfices",
+        "description": "maîtrisez le cocon sémantique seo : définition, étapes de construction, avantages pour votre référencement, outils et checklist d'optimisation. un guide expert par Antoine Blot.",
+        "operationId": "cocon-semantique-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/discover-google-seo.html": {
+      "get": {
+        "summary": "discover google seo : les clés d'une stratégie performante et les erreurs à éviter en 2026",
+        "description": "explorez le seo google, ses piliers essentiels, comment éviter la sur-optimisation et les pénalités. anticipez les défis de l'ia en 2026 pour une visibilité durable.",
+        "operationId": "discover-google-seo",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/discover-google-seo.md": {
+      "get": {
+        "summary": "discover google seo : les clés d'une stratégie performante et les erreurs à éviter en 2026",
+        "description": "explorez le seo google, ses piliers essentiels, comment éviter la sur-optimisation et les pénalités. anticipez les défis de l'ia en 2026 pour une visibilité durable.",
+        "operationId": "discover-google-seo-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/donnees-structurees.html": {
+      "get": {
+        "summary": "données structurées : guide complet pour un SEO boosté et une visibilité accrue",
+        "description": "Découvrez les données structurées : types, avantages SEO, implémentation technique et erreurs à éviter. Boostez votre visibilité dans les résultats de recherche et l'efficacité pour les IA.",
+        "operationId": "donnees-structurees",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/donnees-structurees.md": {
+      "get": {
+        "summary": "données structurées : guide complet pour un SEO boosté et une visibilité accrue",
+        "description": "Découvrez les données structurées : types, avantages SEO, implémentation technique et erreurs à éviter. Boostez votre visibilité dans les résultats de recherche et l'efficacité pour les IA.",
+        "operationId": "donnees-structurees-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/e-e-a-t-google.html": {
+      "get": {
+        "summary": "e-e-a-t google : le guide ultime pour booster votre seo",
+        "description": "Maîtrisez l'E-E-A-T de Google (Expérience, Expertise, Autorité, Fiabilité) et améliorez votre référencement. Guide complet et conseils pratiques pour les experts.",
+        "operationId": "e-e-a-t-google",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/e-e-a-t-google.md": {
+      "get": {
+        "summary": "e-e-a-t google : le guide ultime pour booster votre seo",
+        "description": "Maîtrisez l'E-E-A-T de Google (Expérience, Expertise, Autorité, Fiabilité) et améliorez votre référencement. Guide complet et conseils pratiques pour les experts.",
+        "operationId": "e-e-a-t-google-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/featured-snippet.html": {
+      "get": {
+        "summary": "Featured snippet : guide ultime pour dominer la position zéro",
+        "description": "Découvrez comment optimiser votre contenu pour les featured snippets et booster votre visibilité sur Google. Stratégies et techniques éprouvées.",
+        "operationId": "featured-snippet",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/featured-snippet.md": {
+      "get": {
+        "summary": "Featured snippet : guide ultime pour dominer la position zéro",
+        "description": "Découvrez comment optimiser votre contenu pour les featured snippets et booster votre visibilité sur Google. Stratégies et techniques éprouvées.",
+        "operationId": "featured-snippet-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/knowledge-graph.html": {
+      "get": {
+        "summary": "Knowledge Graph : Guide Complet pour le SEO Sémantique",
+        "description": "Découvrez le Knowledge Graph, son impact sur le SEO, comment l'utiliser avec des API, l'IA et GraphQL pour améliorer votre visibilité.",
+        "operationId": "knowledge-graph",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/knowledge-graph.md": {
+      "get": {
+        "summary": "Knowledge Graph : Guide Complet pour le SEO Sémantique",
+        "description": "Découvrez le Knowledge Graph, son impact sur le SEO, comment l'utiliser avec des API, l'IA et GraphQL pour améliorer votre visibilité.",
+        "operationId": "knowledge-graph-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/lien-ugc.html": {
+      "get": {
+        "summary": "Lien ugc : guide complet pour booster votre seo en 2026",
+        "description": "Découvrez comment les liens UGC (User-Generated Content) améliorent votre SEO, augmentent votre visibilité et engagent votre audience. Guide complet et exemples.",
+        "operationId": "lien-ugc",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/lien-ugc.md": {
+      "get": {
+        "summary": "Lien ugc : guide complet pour booster votre seo en 2026",
+        "description": "Découvrez comment les liens UGC (User-Generated Content) améliorent votre SEO, augmentent votre visibilité et engagent votre audience. Guide complet et exemples.",
+        "operationId": "lien-ugc-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/maillage-interne-seo.html": {
+      "get": {
+        "summary": "Maillage interne SEO : structurez votre site pour dominer les SERP",
+        "description": "Maîtrisez le maillage interne SEO pour améliorer votre indexation, distribuer le PageRank et renforcer la sémantique de votre site. Un levier puissant et sous-estimé.",
+        "operationId": "maillage-interne-seo",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/maillage-interne-seo.md": {
+      "get": {
+        "summary": "Maillage interne SEO : structurez votre site pour dominer les SERP",
+        "description": "Maîtrisez le maillage interne SEO pour améliorer votre indexation, distribuer le PageRank et renforcer la sémantique de votre site. Un levier puissant et sous-estimé.",
+        "operationId": "maillage-interne-seo-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/page-pilier-seo.html": {
+      "get": {
+        "summary": "Page pilier SEO : le guide ultime pour structurer votre contenu et booster votre trafic",
+        "description": "Découvrez comment créer une page pilier SEO efficace pour organiser votre contenu, améliorer votre référencement et attirer plus de visiteurs qualifiés.",
+        "operationId": "page-pilier-seo",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/page-pilier-seo.md": {
+      "get": {
+        "summary": "Page pilier SEO : le guide ultime pour structurer votre contenu et booster votre trafic",
+        "description": "Découvrez comment créer une page pilier SEO efficace pour organiser votre contenu, améliorer votre référencement et attirer plus de visiteurs qualifiés.",
+        "operationId": "page-pilier-seo-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/pagerank-google.html": {
+      "get": {
+        "summary": "pagerank google : l'algorithme, son histoire et son impact seo actuel",
+        "description": "découvrez pagerank google, son fonctionnement et son rôle crucial pour le seo moderne, malgré sa non-visibilité publique.",
+        "operationId": "pagerank-google",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/pagerank-google.md": {
+      "get": {
+        "summary": "pagerank google : l'algorithme, son histoire et son impact seo actuel",
+        "description": "découvrez pagerank google, son fonctionnement et son rôle crucial pour le seo moderne, malgré sa non-visibilité publique.",
+        "operationId": "pagerank-google-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/profil-de-liens.html": {
+      "get": {
+        "summary": "Profil de liens : le guide ultime pour un seo performant",
+        "description": "Découvrez l'importance d'un profil de liens sain pour votre SEO en 2026. Guide complet : audit, stratégies white hat, désaveu de liens toxiques et diversification.",
+        "operationId": "profil-de-liens",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/profil-de-liens.md": {
+      "get": {
+        "summary": "Profil de liens : le guide ultime pour un seo performant",
+        "description": "Découvrez l'importance d'un profil de liens sain pour votre SEO en 2026. Guide complet : audit, stratégies white hat, désaveu de liens toxiques et diversification.",
+        "operationId": "profil-de-liens-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/recherche-vocale-seo.html": {
+      "get": {
+        "summary": "recherche vocale seo : guide complet pour optimiser votre présence vocale",
+        "description": "Maîtrisez la recherche vocale SEO. Découvrez comment optimiser votre site web pour les assistants vocaux et capter un public en pleine croissance.",
+        "operationId": "recherche-vocale-seo",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/recherche-vocale-seo.md": {
+      "get": {
+        "summary": "recherche vocale seo : guide complet pour optimiser votre présence vocale",
+        "description": "Maîtrisez la recherche vocale SEO. Découvrez comment optimiser votre site web pour les assistants vocaux et capter un public en pleine croissance.",
+        "operationId": "recherche-vocale-seo-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/schema-org.html": {
+      "get": {
+        "summary": "Schema.org : guide complet pour structurer vos données et booster votre seo",
+        "description": "Schema.org : apprenez à structurer vos données pour un meilleur référencement. Guide, exemples, types de schemas et outils pour optimiser votre SEO.",
+        "operationId": "schema-org",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/schema-org.md": {
+      "get": {
+        "summary": "Schema.org : guide complet pour structurer vos données et booster votre seo",
+        "description": "Schema.org : apprenez à structurer vos données pour un meilleur référencement. Guide, exemples, types de schemas et outils pour optimiser votre SEO.",
+        "operationId": "schema-org-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/seo-local.html": {
+      "get": {
+        "summary": "Seo local : le guide complet pour dominer votre marché et attirer des clients",
+        "description": "Maîtrisez le SEO local : notre guide complet vous aide à booster votre visibilité en ligne, attirer plus de clients locaux et développer votre entreprise durablement.",
+        "operationId": "seo-local",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/seo-local.md": {
+      "get": {
+        "summary": "Seo local : le guide complet pour dominer votre marché et attirer des clients",
+        "description": "Maîtrisez le SEO local : notre guide complet vous aide à booster votre visibilité en ligne, attirer plus de clients locaux et développer votre entreprise durablement.",
+        "operationId": "seo-local-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/topic-cluster.html": {
+      "get": {
+        "summary": "Topic cluster : le guide essentiel pour un seo 2026 optimisé ia",
+        "description": "Découvrez le topic cluster, stratégie SEO incontournable pour 2026. Évitez la cannibalisation, augmentez les citations IA et bâtissez votre autorité thématique.",
+        "operationId": "topic-cluster",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/topic-cluster.md": {
+      "get": {
+        "summary": "Topic cluster : le guide essentiel pour un seo 2026 optimisé ia",
+        "description": "Découvrez le topic cluster, stratégie SEO incontournable pour 2026. Évitez la cannibalisation, augmentez les citations IA et bâtissez votre autorité thématique.",
+        "operationId": "topic-cluster-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/topic-d-autorite.html": {
+      "get": {
+        "summary": "Topic d'autorité : comment devenir la référence dans votre niche",
+        "description": "Devenez un topique d'autorité dans votre domaine. Guide complet pour construire expertise, crédibilité et confiance en ligne et surpasser vos concurrents.",
+        "operationId": "topic-d-autorite",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/topic-d-autorite.md": {
+      "get": {
+        "summary": "Topic d'autorité : comment devenir la référence dans votre niche",
+        "description": "Devenez un topique d'autorité dans votre domaine. Guide complet pour construire expertise, crédibilité et confiance en ligne et surpasser vos concurrents.",
+        "operationId": "topic-d-autorite-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/trust-flow-seo.html": {
+      "get": {
+        "summary": "Trust flow seo : comprendre et booster l'autorité de votre site",
+        "description": "Découvrez le Trust Flow en SEO, son impact sur l'autorité de votre site web et comment l'améliorer pour un meilleur positionnement.",
+        "operationId": "trust-flow-seo",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/trust-flow-seo.md": {
+      "get": {
+        "summary": "Trust flow seo : comprendre et booster l'autorité de votre site",
+        "description": "Découvrez le Trust Flow en SEO, son impact sur l'autorité de votre site web et comment l'améliorer pour un meilleur positionnement.",
+        "operationId": "trust-flow-seo-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/definition/ymyl-seo.html": {
+      "get": {
+        "summary": "ymyl seo : guide complet pour protéger votre réputation en ligne",
+        "description": "Découvrez les stratégies ymyl seo cruciales pour sécuriser votre site web, renforcer la confiance des utilisateurs et améliorer votre positionnement sur google.",
+        "operationId": "ymyl-seo",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/definition/ymyl-seo.md": {
+      "get": {
+        "summary": "ymyl seo : guide complet pour protéger votre réputation en ligne",
+        "description": "Découvrez les stratégies ymyl seo cruciales pour sécuriser votre site web, renforcer la confiance des utilisateurs et améliorer votre positionnement sur google.",
+        "operationId": "ymyl-seo-md",
+        "tags": [
+          "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/ia-seo-geo/aeo-answer-engine-optimization.html": {
+      "get": {
+        "summary": "AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse",
+        "description": "Découvrez l'AEO, l'optimisation pour les moteurs de réponse (IA). Guide complet sur les stratégies, outils et meilleures pratiques pour booster votre visibilité IA.",
+        "operationId": "aeo-answer-engine-optimization",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/ia-seo-geo/aeo-answer-engine-optimization.md": {
+      "get": {
+        "summary": "AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse",
+        "description": "Découvrez l'AEO, l'optimisation pour les moteurs de réponse (IA). Guide complet sur les stratégies, outils et meilleures pratiques pour booster votre visibilité IA.",
+        "operationId": "aeo-answer-engine-optimization-md",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/ia-seo-geo/algorithme-de-recommandation.html": {
+      "get": {
+        "summary": "Algorithmes de recommandation : comprendre, optimiser et exemples concrets",
+        "description": "Découvrez le fonctionnement des algorithmes de recommandation, leurs types, comment les optimiser et des exemples d'utilisation concrets. Guide complet.",
+        "operationId": "algorithme-de-recommandation",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/ia-seo-geo/algorithme-de-recommandation.md": {
+      "get": {
+        "summary": "Algorithmes de recommandation : comprendre, optimiser et exemples concrets",
+        "description": "Découvrez le fonctionnement des algorithmes de recommandation, leurs types, comment les optimiser et des exemples d'utilisation concrets. Guide complet.",
+        "operationId": "algorithme-de-recommandation-md",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/ia-seo-geo/citations-par-ia.html": {
+      "get": {
+        "summary": "citations par ia: impact sur la crédibilité et le référencement en 2026",
+        "description": "Découvrez l'impact des citations par IA sur la recherche, la crédibilité et le SEO en 2026. Guide expert pour optimiser votre visibilité auprès des LLMs.",
+        "operationId": "citations-par-ia",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/ia-seo-geo/citations-par-ia.md": {
+      "get": {
+        "summary": "citations par ia: impact sur la crédibilité et le référencement en 2026",
+        "description": "Découvrez l'impact des citations par IA sur la recherche, la crédibilité et le SEO en 2026. Guide expert pour optimiser votre visibilité auprès des LLMs.",
+        "operationId": "citations-par-ia-md",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/ia-seo-geo/contenu-ia-seo.html": {
+      "get": {
+        "summary": "contenu ia seo : l'intelligence artificielle au service de votre stratégie",
+        "description": "Découvrez comment l'IA transforme la création de contenu SEO, des outils accessibles aux stratégies gagnantes pour les PME. Optimisez votre visibilité dès 50€/mois.",
+        "operationId": "contenu-ia-seo",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/ia-seo-geo/contenu-ia-seo.md": {
+      "get": {
+        "summary": "contenu ia seo : l'intelligence artificielle au service de votre stratégie",
+        "description": "Découvrez comment l'IA transforme la création de contenu SEO, des outils accessibles aux stratégies gagnantes pour les PME. Optimisez votre visibilité dès 50€/mois.",
+        "operationId": "contenu-ia-seo-md",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/ia-seo-geo/contextualisation-seo.html": {
+      "get": {
+        "summary": "Contextualisation SEO : Le guide ultime pour 2026",
+        "description": "Maîtrisez la contextualisation SEO en 2026 : définition, techniques, avantages et mise en œuvre. Améliorez votre positionnement et l'expérience utilisateur.",
+        "operationId": "contextualisation-seo",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/ia-seo-geo/contextualisation-seo.md": {
+      "get": {
+        "summary": "Contextualisation SEO : Le guide ultime pour 2026",
+        "description": "Maîtrisez la contextualisation SEO en 2026 : définition, techniques, avantages et mise en œuvre. Améliorez votre positionnement et l'expérience utilisateur.",
+        "operationId": "contextualisation-seo-md",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/ia-seo-geo/entite-nommee-seo.html": {
+      "get": {
+        "summary": "Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité",
+        "description": "Découvrez comment l'identification d'entités nommées en SEO améliore le ciblage et la pertinence de votre contenu. Optimisation et visibilité boostées !",
+        "operationId": "entite-nommee-seo",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/ia-seo-geo/entite-nommee-seo.md": {
+      "get": {
+        "summary": "Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité",
+        "description": "Découvrez comment l'identification d'entités nommées en SEO améliore le ciblage et la pertinence de votre contenu. Optimisation et visibilité boostées !",
+        "operationId": "entite-nommee-seo-md",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/ia-seo-geo/geo-guide-complet.html": {
+      "get": {
+        "summary": "geo : le guide complet pour dominer la recherche boostée par l'ia",
+        "description": "Découvrez notre guide complet sur le GEO (Generative Engine Optimization). Maîtrisez les stratégies pour une visibilité optimale dans les réponses IA et le futur du search.",
+        "operationId": "geo-guide-complet",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/ia-seo-geo/geo-guide-complet.md": {
+      "get": {
+        "summary": "geo : le guide complet pour dominer la recherche boostée par l'ia",
+        "description": "Découvrez notre guide complet sur le GEO (Generative Engine Optimization). Maîtrisez les stratégies pour une visibilité optimale dans les réponses IA et le futur du search.",
+        "operationId": "geo-guide-complet-md",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/ia-seo-geo/ia-seo.html": {
+      "get": {
+        "summary": "ia seo : comment l'intelligence artificielle transforme le référencement",
+        "description": "Découvrez comment l'IA SEO révolutionne le référencement en 2026. Stratégies, outils, et impacts pour optimiser votre visibilité en ligne.",
+        "operationId": "ia-seo",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/ia-seo-geo/ia-seo.md": {
+      "get": {
+        "summary": "ia seo : comment l'intelligence artificielle transforme le référencement",
+        "description": "Découvrez comment l'IA SEO révolutionne le référencement en 2026. Stratégies, outils, et impacts pour optimiser votre visibilité en ligne.",
+        "operationId": "ia-seo-md",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/ia-seo-geo/mise-a-jour-google.html": {
+      "get": {
+        "summary": "mise à jour google 2026 : anticiper, diagnostiquer et se relever des pénalités ia",
+        "description": "Comprenez les mises à jour Google 2026 post-IA : diagnostic, outils de récupération, stratégies E-E-A-T et protection contre les pénalités. Guide expert.",
+        "operationId": "mise-a-jour-google",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/ia-seo-geo/mise-a-jour-google.md": {
+      "get": {
+        "summary": "mise à jour google 2026 : anticiper, diagnostiquer et se relever des pénalités ia",
+        "description": "Comprenez les mises à jour Google 2026 post-IA : diagnostic, outils de récupération, stratégies E-E-A-T et protection contre les pénalités. Guide expert.",
+        "operationId": "mise-a-jour-google-md",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/ia-seo-geo/moteurs-de-reponse.html": {
+      "get": {
+        "summary": "Moteurs de réponse : guide complet pour comprendre et les utiliser",
+        "description": "Découvrez les moteurs de réponse : comment ils fonctionnent, pourquoi ils sont importants, et comment les intégrer à votre stratégie SEO. Guide complet 2024.",
+        "operationId": "moteurs-de-reponse",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/ia-seo-geo/moteurs-de-reponse.md": {
+      "get": {
+        "summary": "Moteurs de réponse : guide complet pour comprendre et les utiliser",
+        "description": "Découvrez les moteurs de réponse : comment ils fonctionnent, pourquoi ils sont importants, et comment les intégrer à votre stratégie SEO. Guide complet 2024.",
+        "operationId": "moteurs-de-reponse-md",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/ia-seo-geo/prompt-seo.html": {
+      "get": {
+        "summary": "Prompt SEO : Le Guide Ultime pour un Contenu IA Performant en 2026",
+        "description": "Maîtrisez l'art du Prompt SEO pour générer du contenu IA de qualité. Découvrez les meilleures pratiques, les erreurs à éviter et les outils pour optimiser votre ROI.",
+        "operationId": "prompt-seo",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/ia-seo-geo/prompt-seo.md": {
+      "get": {
+        "summary": "Prompt SEO : Le Guide Ultime pour un Contenu IA Performant en 2026",
+        "description": "Maîtrisez l'art du Prompt SEO pour générer du contenu IA de qualité. Découvrez les meilleures pratiques, les erreurs à éviter et les outils pour optimiser votre ROI.",
+        "operationId": "prompt-seo-md",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/ia-seo-geo/provenance-des-donnees.html": {
+      "get": {
+        "summary": "provenance des données : guide complet pour une fiabilité accrue",
+        "description": "Découvrez l'importance de la provenance des données. Améliorez la transparence et la confiance des utilisateurs grâce à un suivi rigoureux en 2026.",
+        "operationId": "provenance-des-donnees",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/ia-seo-geo/provenance-des-donnees.md": {
+      "get": {
+        "summary": "provenance des données : guide complet pour une fiabilité accrue",
+        "description": "Découvrez l'importance de la provenance des données. Améliorez la transparence et la confiance des utilisateurs grâce à un suivi rigoureux en 2026.",
+        "operationId": "provenance-des-donnees-md",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/ia-seo-geo/strategie-eeat.html": {
+      "get": {
+        "summary": "strategie eeat : l'approche systémique pour une autorité numérique durable",
+        "description": "Découvrez pourquoi l'EEAT est un système opérationnel essentiel, pas une checklist. Mesurez son impact et utilisez le schema markup pour une visibilité SEO et IA optimale.",
+        "operationId": "strategie-eeat",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/ia-seo-geo/strategie-eeat.md": {
+      "get": {
+        "summary": "strategie eeat : l'approche systémique pour une autorité numérique durable",
+        "description": "Découvrez pourquoi l'EEAT est un système opérationnel essentiel, pas une checklist. Mesurez son impact et utilisez le schema markup pour une visibilité SEO et IA optimale.",
+        "operationId": "strategie-eeat-md",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/ia-seo-geo/structured-data-avance.html": {
+      "get": {
+        "summary": "Maîtriser le structured data avancé : techniques et stratégies pour experts SEO",
+        "description": "Découvrez les techniques de structured data avancé : schémas imbriqués, programmatiques et conditionnels. Amplifiez votre SEO et votre E-E-A-T. Guide expert.",
+        "operationId": "structured-data-avance",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/ia-seo-geo/structured-data-avance.md": {
+      "get": {
+        "summary": "Maîtriser le structured data avancé : techniques et stratégies pour experts SEO",
+        "description": "Découvrez les techniques de structured data avancé : schémas imbriqués, programmatiques et conditionnels. Amplifiez votre SEO et votre E-E-A-T. Guide expert.",
+        "operationId": "structured-data-avance-md",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/local-seo/avis-clients-seo.html": {
+      "get": {
+        "summary": "Avis clients SEO : Booster votre visibilité et votre chiffre d'affaires",
+        "description": "Découvrez comment exploiter les avis clients pour améliorer votre SEO, attirer plus de prospects et augmenter vos ventes. Stratégies et outils inclus.",
+        "operationId": "avis-clients-seo",
+        "tags": [
+          "local-seo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/local-seo/avis-clients-seo.md": {
+      "get": {
+        "summary": "Avis clients SEO : Booster votre visibilité et votre chiffre d'affaires",
+        "description": "Découvrez comment exploiter les avis clients pour améliorer votre SEO, attirer plus de prospects et augmenter vos ventes. Stratégies et outils inclus.",
+        "operationId": "avis-clients-seo-md",
+        "tags": [
+          "local-seo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/local-seo/citations-locales-seo.html": {
+      "get": {
+        "summary": "Citations locales seo : le guide complet pour votre visibilité locale en 2026",
+        "description": "Maîtrisez les citations locales SEO pour booster votre référencement local. Guide, astuces et outils pour une visibilité maximale en 2026.",
+        "operationId": "citations-locales-seo",
+        "tags": [
+          "local-seo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/local-seo/citations-locales-seo.md": {
+      "get": {
+        "summary": "Citations locales seo : le guide complet pour votre visibilité locale en 2026",
+        "description": "Maîtrisez les citations locales SEO pour booster votre référencement local. Guide, astuces et outils pour une visibilité maximale en 2026.",
+        "operationId": "citations-locales-seo-md",
+        "tags": [
+          "local-seo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/local-seo/nap-seo-local.html": {
+      "get": {
+        "summary": "nap seo local : guide complet pour booster votre visibilité",
+        "description": "Optimisez votre NAP (Nom, Adresse, Téléphone) pour un SEO local performant. Notre guide complet booste votre visibilité et attire plus de clients.",
+        "operationId": "nap-seo-local",
+        "tags": [
+          "local-seo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/local-seo/nap-seo-local.md": {
+      "get": {
+        "summary": "nap seo local : guide complet pour booster votre visibilité",
+        "description": "Optimisez votre NAP (Nom, Adresse, Téléphone) pour un SEO local performant. Notre guide complet booste votre visibilité et attire plus de clients.",
+        "operationId": "nap-seo-local-md",
+        "tags": [
+          "local-seo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/local-seo/optimisation-google-maps.html": {
+      "get": {
+        "summary": "Optimisation google maps : guide complet pour 2026",
+        "description": "Maîtrisez l'optimisation Google Maps en 2026. Découvrez les meilleures pratiques pour booster votre visibilité locale et attirer plus de clients grâce à GMB et au SEO local.",
+        "operationId": "optimisation-google-maps",
+        "tags": [
+          "local-seo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/local-seo/optimisation-google-maps.md": {
+      "get": {
+        "summary": "Optimisation google maps : guide complet pour 2026",
+        "description": "Maîtrisez l'optimisation Google Maps en 2026. Découvrez les meilleures pratiques pour booster votre visibilité locale et attirer plus de clients grâce à GMB et au SEO local.",
+        "operationId": "optimisation-google-maps-md",
+        "tags": [
+          "local-seo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/local-seo/rayon-de-visibilite.html": {
+      "get": {
+        "summary": "Rayon de visibilité: guide complet pour une signalétique impactante",
+        "description": "Découvrez comment optimiser le rayon de visibilité de votre signalétique. Conseils, exemples, et meilleures pratiques pour attirer l'attention et améliorer l'expérience client.",
+        "operationId": "rayon-de-visibilite",
+        "tags": [
+          "local-seo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/local-seo/rayon-de-visibilite.md": {
+      "get": {
+        "summary": "Rayon de visibilité: guide complet pour une signalétique impactante",
+        "description": "Découvrez comment optimiser le rayon de visibilité de votre signalétique. Conseils, exemples, et meilleures pratiques pour attirer l'attention et améliorer l'expérience client.",
+        "operationId": "rayon-de-visibilite-md",
+        "tags": [
+          "local-seo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/popularite/desindexation-google.html": {
+      "get": {
+        "summary": "Désindexation google : comprendre, agir et optimiser votre seo",
+        "description": "Maîtrisez la désindexation Google : causes, méthodes (noindex, robots.txt), impact sur le SEO et erreurs à éviter. Guide complet pour un référencement optimal.",
+        "operationId": "desindexation-google",
+        "tags": [
+          "popularite"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/popularite/desindexation-google.md": {
+      "get": {
+        "summary": "Désindexation google : comprendre, agir et optimiser votre seo",
+        "description": "Maîtrisez la désindexation Google : causes, méthodes (noindex, robots.txt), impact sur le SEO et erreurs à éviter. Guide complet pour un référencement optimal.",
+        "operationId": "desindexation-google-md",
+        "tags": [
+          "popularite"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/popularite/facteurs-de-classement-google.html": {
+      "get": {
+        "summary": "Facteurs de classement Google : le guide ultime 2026 pour dominer les SERPs",
+        "description": "Découvrez les facteurs de classement Google essentiels en 2026 pour propulser votre site en première page. Audit SEO, outils, et stratégies avancées.",
+        "operationId": "facteurs-de-classement-google",
+        "tags": [
+          "popularite"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/popularite/facteurs-de-classement-google.md": {
+      "get": {
+        "summary": "Facteurs de classement Google : le guide ultime 2026 pour dominer les SERPs",
+        "description": "Découvrez les facteurs de classement Google essentiels en 2026 pour propulser votre site en première page. Audit SEO, outils, et stratégies avancées.",
+        "operationId": "facteurs-de-classement-google-md",
+        "tags": [
+          "popularite"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/popularite/guest-blogging-seo.html": {
+      "get": {
+        "summary": "guest blogging seo : guide complet pour un référencement durable en 2026",
+        "description": "Découvrez comment le guest blogging peut améliorer votre SEO. Stratégies, avantages, et comment éviter les pièges pour un référencement optimal et durable en 2026.",
+        "operationId": "guest-blogging-seo",
+        "tags": [
+          "popularite"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/popularite/guest-blogging-seo.md": {
+      "get": {
+        "summary": "guest blogging seo : guide complet pour un référencement durable en 2026",
+        "description": "Découvrez comment le guest blogging peut améliorer votre SEO. Stratégies, avantages, et comment éviter les pièges pour un référencement optimal et durable en 2026.",
+        "operationId": "guest-blogging-seo-md",
+        "tags": [
+          "popularite"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/strategie/agence-seo-montreal.html": {
+      "get": {
+        "summary": "Agence SEO Montréal : comment choisir votre partenaire pour dominer la serp locale en 2026",
+        "description": "Choisir une agence SEO à Montréal demande rigueur : GEO, E-E-A-T, Loi 96. Découvrez les critères, les coûts et une liste d'agences pour un ROI maximal.",
+        "operationId": "agence-seo-montreal",
+        "tags": [
+          "strategie"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/strategie/agence-seo-montreal.md": {
+      "get": {
+        "summary": "Agence SEO Montréal : comment choisir votre partenaire pour dominer la serp locale en 2026",
+        "description": "Choisir une agence SEO à Montréal demande rigueur : GEO, E-E-A-T, Loi 96. Découvrez les critères, les coûts et une liste d'agences pour un ROI maximal.",
+        "operationId": "agence-seo-montreal-md",
+        "tags": [
+          "strategie"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/strategie/audit-semantique-seo.html": {
+      "get": {
+        "summary": "Audit sémantique seo : la clé d'une stratégie performante à l'ère des ia et du geo",
+        "description": "Découvrez l'audit sémantique SEO: définition, méthodes, outils et avantages pour booster votre visibilité en ligne. Essentiel face aux moteurs de recherche génératifs et au GEO.",
+        "operationId": "audit-semantique-seo",
+        "tags": [
+          "strategie"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/strategie/audit-semantique-seo.md": {
+      "get": {
+        "summary": "Audit sémantique seo : la clé d'une stratégie performante à l'ère des ia et du geo",
+        "description": "Découvrez l'audit sémantique SEO: définition, méthodes, outils et avantages pour booster votre visibilité en ligne. Essentiel face aux moteurs de recherche génératifs et au GEO.",
+        "operationId": "audit-semantique-seo-md",
+        "tags": [
+          "strategie"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/strategie/consultant-seo-montreal.html": {
+      "get": {
+        "summary": "Consultant SEO montréal : l'expert qui surclasse l'agence sur le marché québécois",
+        "description": "À Montréal, comment choisir votre consultant SEO ? Découvrez les avantages d'un expert indépendant face à une agence : coûts, spécificités locales (Loi 96, GEO) et résultats concrets.",
+        "operationId": "consultant-seo-montreal",
+        "tags": [
+          "strategie"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/strategie/consultant-seo-montreal.md": {
+      "get": {
+        "summary": "Consultant SEO montréal : l'expert qui surclasse l'agence sur le marché québécois",
+        "description": "À Montréal, comment choisir votre consultant SEO ? Découvrez les avantages d'un expert indépendant face à une agence : coûts, spécificités locales (Loi 96, GEO) et résultats concrets.",
+        "operationId": "consultant-seo-montreal-md",
+        "tags": [
+          "strategie"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/strategie/cout-acquisition-seo.html": {
+      "get": {
+        "summary": "Coût d'acquisition seo : guide complet pour optimiser votre investissement",
+        "description": "Comprendre et optimiser votre coût d'acquisition SEO (CAC SEO). Découvrez les stratégies, les méthodes de calcul et les alternatives pour un ROI maximal.",
+        "operationId": "cout-acquisition-seo",
+        "tags": [
+          "strategie"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/strategie/cout-acquisition-seo.md": {
+      "get": {
+        "summary": "Coût d'acquisition seo : guide complet pour optimiser votre investissement",
+        "description": "Comprendre et optimiser votre coût d'acquisition SEO (CAC SEO). Découvrez les stratégies, les méthodes de calcul et les alternatives pour un ROI maximal.",
+        "operationId": "cout-acquisition-seo-md",
+        "tags": [
+          "strategie"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/strategie/migration-seo.html": {
+      "get": {
+        "summary": "Migration seo: guide complet pour une transition réussie",
+        "description": "Maîtrisez la migration SEO ! Checklist, stratégies et outils pour une transition de site web sans perte de trafic. Augmentez votre visibilité.",
+        "operationId": "migration-seo",
+        "tags": [
+          "strategie"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/strategie/migration-seo.md": {
+      "get": {
+        "summary": "Migration seo: guide complet pour une transition réussie",
+        "description": "Maîtrisez la migration SEO ! Checklist, stratégies et outils pour une transition de site web sans perte de trafic. Augmentez votre visibilité.",
+        "operationId": "migration-seo-md",
+        "tags": [
+          "strategie"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/strategie/personal-branding-seo.html": {
+      "get": {
+        "summary": "Développez votre personal branding grâce au SEO : le guide complet de l'expert",
+        "description": "Maîtrisez le personal branding SEO : bâtissez une réputation en ligne forte et durable. Attirez les bonnes opportunités et devenez une référence dans votre domaine.",
+        "operationId": "personal-branding-seo",
+        "tags": [
+          "strategie"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/strategie/personal-branding-seo.md": {
+      "get": {
+        "summary": "Développez votre personal branding grâce au SEO : le guide complet de l'expert",
+        "description": "Maîtrisez le personal branding SEO : bâtissez une réputation en ligne forte et durable. Attirez les bonnes opportunités et devenez une référence dans votre domaine.",
+        "operationId": "personal-branding-seo-md",
+        "tags": [
+          "strategie"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
 }

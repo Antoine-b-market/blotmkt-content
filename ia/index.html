@@ -21,7 +21,7 @@
       "name": "BlotMKT — Ressources SEO & Marketing IA",
       "description": "Index complet des ressources SEO, GEO et Marketing Digital par Antoine Blot.",
       "inLanguage": "fr-CA",
-      "dateModified": "2026-10-16",
+      "dateModified": "2026-10-15",
       "isPartOf": {
         "@id": "https://blotmkt.com/#website"
       },
@@ -109,7 +109,7 @@ body{font-family:system-ui,sans-serif;background:#f5f7fa;color:#1a1a1a;line-heig
 </div></header>
 <div class="main">
 <h1 class="page-title">BlotMKT — Ressources SEO & Marketing IA</h1>
-<p class="page-sub">67 ressources &nbsp;&middot;&nbsp; Mis a jour le 2026-10-16</p>
+<p class="page-sub">67 ressources &nbsp;&middot;&nbsp; Mis a jour le 2026-10-15</p>
 <div class="search-bar"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg><input type="text" id="search-input" placeholder="Rechercher parmi les 67 articles..." autocomplete="off"></div><div class="search-overlay" id="search-overlay"><div class="search-modal"><div class="search-modal-header"><span id="search-count"></span><button class="search-close" id="search-close">&times;</button></div><div class="search-results-grid" id="search-results"></div><div class="no-results" id="search-no-results" style="display:none">Aucun article trouve.</div></div></div>
 <div class="cat-filters"><a href="https://blotmkt.com/ia/audit/" class="cat-btn">Audit SEO <span class="cat-count">1</span></a><a href="https://blotmkt.com/ia/contenu/" class="cat-btn">Contenu SEO <span class="cat-count">14</span></a><a href="https://blotmkt.com/ia/definition/" class="cat-btn">Définitions SEO & GEO <span class="cat-count">24</span></a><a href="https://blotmkt.com/ia/ia-seo-geo/" class="cat-btn">IA, SEO & GEO <span class="cat-count">14</span></a><a href="https://blotmkt.com/ia/local-seo/" class="cat-btn">SEO Local <span class="cat-count">5</span></a><a href="https://blotmkt.com/ia/popularite/" class="cat-btn">Popularité & Netlinking <span class="cat-count">3</span></a><a href="https://blotmkt.com/ia/strategie/" class="cat-btn">Stratégie SEO <span class="cat-count">6</span></a></div>
 
@@ -181,7 +181,7 @@ body{font-family:system-ui,sans-serif;background:#f5f7fa;color:#1a1a1a;line-heig
   var input=document.getElementById("search-input");
   var closeBtn=document.getElementById("search-close");
   var data=null; var timer;
-  var catLabels={"audit": "Audit SEO", "contenu": "Contenu SEO", "definition": "D\u00e9finitions SEO & GEO", "ia-seo-geo": "IA, SEO & GEO", "ia": "IA & SEO", "local-seo": "SEO Local", "marketing": "Marketing Digital", "montreal": "SEO Montr\u00e9al", "popularite": "Popularit\u00e9 & Netlinking", "strategie": "Strat\u00e9gie SEO", "strategie-marketing": "Strat\u00e9gie Marketing", "acquisition-et-croissance": "Acquisition et Croissance", "contenu-inbound": "Contenu et Inbound", "medias-canaux": "M\u00e9dias et Canaux", "mesure-performance": "Mesure et Performance", "notoriete-reputation": "Notori\u00e9t\u00e9 et R\u00e9putation", "mesure-et-performance": "Mesure et Performance", "medias-et-canaux": "M\u00e9dias et Canaux", "notoriete-et-reputation": "Notori\u00e9t\u00e9 et R\u00e9putation", "contenu-et-inbound": "Contenu et Inbound", "test-lot1": "Test Lot1", "cro": "Cro"};
+  var catLabels={"audit": "Audit SEO", "contenu": "Contenu SEO", "definition": "D\u00e9finitions SEO & GEO", "ia-seo-geo": "IA, SEO & GEO", "ia": "IA & SEO", "local-seo": "SEO Local", "marketing": "Marketing Digital", "montreal": "SEO Montr\u00e9al", "popularite": "Popularit\u00e9 & Netlinking", "strategie": "Strat\u00e9gie SEO", "strategie-marketing": "Strat\u00e9gie Marketing", "acquisition-et-croissance": "Acquisition et Croissance", "contenu-inbound": "Contenu et Inbound", "medias-canaux": "M\u00e9dias et Canaux", "mesure-performance": "Mesure et Performance", "notoriete-reputation": "Notori\u00e9t\u00e9 et R\u00e9putation", "mesure-et-performance": "Mesure et Performance", "medias-et-canaux": "M\u00e9dias et Canaux", "notoriete-et-reputation": "Notori\u00e9t\u00e9 et R\u00e9putation", "contenu-et-inbound": "Contenu et Inbound", "cro": "Cro"};
   function load(cb){if(data){cb(data);return;}fetch("/ia/articles.json").then(function(r){return r.json();}).then(function(d){data=d;cb(d);});}
   function search(q){
     load(function(articles){
