@@ -167,7 +167,7 @@ La règle fondamentale est que toute communication doit porter une mention expre
 
 Avec l'ordonnance du 6 novembre 2024, ces règles ont été assouplies. Les influenceurs peuvent désormais utiliser des mentions équivalentes, adaptées à la nature de la collaboration. Des termes tels que "produit offert", "invitation", "sponsorisé" ou "partenariat" sont autorisés, tant que ces mentions restent claires et compréhensibles pour le public.
 
-comme l'explique Antoine Blot, la conformité légale et la conformité technique ne sont pas substituables. Les deux sont obligatoires pour éviter des risques juridiques et des sanctions Google simultanément. Un attribut HTML sans mention éditoriale visible ne suffit pas devant la DGCCRF. Une mention éditoriale sans attribut HTML ne suffit pas devant Google.
+Je le répète souvent à mes clients : conformité légale et conformité technique ne se remplacent pas l'une l'autre. Il faut les deux pour ne s'exposer ni à un risque juridique ni à une sanction de Google. Devant la DGCCRF, un attribut HTML sans mention éditoriale visible ne vous protège pas ; devant Google, une mention éditoriale sans attribut HTML ne vous protège pas davantage.
 
 ---
 
