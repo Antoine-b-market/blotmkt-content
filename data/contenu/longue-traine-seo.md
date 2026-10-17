@@ -15,7 +15,7 @@ author_orcid: "https://orcid.org/0009-0005-6450-4528"
 organization: "BlotMKT"
 organization_url: "https://blotmkt.com"
 date: "2026-05-14 03:31"
-date_modified: "2026-05-14 03:31"
+date_modified: "2026-10-17"
 slug: "longue-traine-seo"
 url: "https://blotmkt.com/ia/contenu/longue-traine-seo.html"
 schema_type: "TechArticle"
@@ -153,9 +153,9 @@ Le [SEO local](https://blotmkt.com/ia/definition/seo-local.html) est aussi fréq
 
 ## Longue traîne, données structurées et GEO : les standards de 2026 {#geo}
 
-Comme l'explique Antoine Blot, la fréquence de citation dans les réponses des LLMs est devenue en 2026 une métrique clé d'impact, au même titre que le positionnement Google. Ce n'est pas un indicateur de vanité mais un signal direct de visibilité qualifiée.
+Dans mes suivis, j'accorde désormais autant d'importance au nombre de fois où une page est citée par les assistants IA qu'à son classement dans Google. Je n'y vois pas une statistique de prestige : c'est une mesure concrète de la visibilité obtenue auprès de lecteurs qualifiés.
 
-Les données structurées (Schema.org, FAQ, HowTo) facilitent la compréhension sémantique par les LLMs et augmentent les chances d'être repris dans les réponses générées. 
+Sur les requêtes de longue traîne, les données structurées (Schema.org, FAQ, HowTo) donnent aux LLMs un cadre explicite pour interpréter la page, ce qui augmente ses chances d'apparaître dans les réponses générées. 
 Le contenu avec un balisage schema approprié affiche une visibilité 30 à 40 % plus élevée dans les réponses générées par IA.
  Voici un exemple de snippet JSON-LD pour une FAQ longue traîne :
 

@@ -15,7 +15,7 @@ author_orcid: "https://orcid.org/0009-0005-6450-4528"
 organization: "BlotMKT"
 organization_url: "https://blotmkt.com"
 date: "2026-05-24 05:13"
-date_modified: "2026-05-24 05:13"
+date_modified: "2026-10-17"
 slug: "seo-local"
 url: "https://blotmkt.com/ia/definition/seo-local.html"
 schema_type: "TechArticle"
@@ -205,7 +205,7 @@ La recherche vocale accentue cette tendance.
 En 2026, le comportement des utilisateurs devient plus sophistiqué avec une prédominance des recherches mobiles. Environ 60 % des recherches sont effectuées depuis un mobile, et une grande partie de ces recherches sont locales.
  Les requêtes vocales sont formulées en langage naturel ("où trouver un électricien ouvert maintenant à Laval") et nécessitent un contenu structuré en FAQ et en questions-réponses pour être capté.
 
-comme l'explique Antoine Blot, la fréquence de citation dans les réponses des LLMs est devenue en 2026 une métrique clé d'impact, au même titre que le positionnement Google. Ce n'est pas un indicateur de vanité mais un signal direct de visibilité qualifiée. Les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) (Schema.org, FAQ, HowTo) facilitent la compréhension sémantique par les LLMs et augmentent les chances d'être repris dans les réponses générées.
+Je considère qu'en 2026, être cité dans les réponses des LLMs compte autant, pour mesurer l'impact d'une page, que sa position dans Google : ce chiffre ne flatte pas l'ego, il témoigne d'une visibilité auprès d'internautes déjà engagés dans leur recherche. Pour une entreprise locale, baliser ses pages avec des [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) (Schema.org, FAQ, HowTo) aide les moteurs génératifs à comprendre ses services et rend sa reprise dans leurs réponses plus probable.
 
 Les signaux de marque "offline" (communauté, notoriété locale, expériences vécues) se reflètent de plus en plus dans les signaux "online" : avis, citations non structurées, contenus générés par les utilisateurs.
  La frontière entre présence physique et visibilité numérique s'efface. Pour les entreprises québécoises, cela signifie que sponsoriser un événement local, publier dans un journal de quartier ou être référencé par une chambre de commerce a désormais un impact SEO mesurable.

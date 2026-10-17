@@ -15,7 +15,7 @@ author_orcid: "https://orcid.org/0009-0005-6450-4528"
 organization: "BlotMKT"
 organization_url: "https://blotmkt.com"
 date: "2026-05-24 05:14"
-date_modified: "2026-05-24 05:14"
+date_modified: "2026-10-17"
 slug: "attribut-sponsored"
 url: "https://blotmkt.com/ia/definition/attribut-sponsored.html"
 schema_type: "TechArticle"
@@ -144,7 +144,7 @@ Google rappelle qu'en ne suivant pas ces règles, les sites s'exposent à des p�
 Du côté légal, le cadre français est précis. 
 La loi n°2023-451 du 9 juin 2023 et l'ordonnance du 6 novembre 2024 posent des règles claires pour encadrer l'activité d'influence commerciale.
  
-Lors de ses enquêtes 2023-2024, la DGCCRF a relevé 60 % d'anomalies chez les influenceurs contrôlés. Les sanctions varient : avertissement, amende administrative pouvant atteindre 75 000 €, voire transmission au procureur pour pratique commerciale trompeuse.
+Sur les influenceurs qu'elle a contrôlés en 2023 et 2024, la DGCCRF a constaté des manquements dans 60 % des cas, selon le cabinet Deshoulières Avocats. Les suites possibles vont du simple avertissement au signalement au procureur pour pratique commerciale trompeuse, en passant par une amende administrative plafonnée à 75 000 €.
 
 Ce n'est pas uniquement une question d'influenceurs. 
 Si une publication sponsorisée ne respecte pas les obligations légales, l'influenceur n'est pas le seul à risquer des sanctions : la marque peut également être tenue responsable.
