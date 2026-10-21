@@ -72,7 +72,7 @@ Le tableau ci-dessous regroupe huit agences montréalaises régulièrement cité
 | Parkour3 | Grands comptes | SEO technique & analytics | Entreprises multi-sites complexes |
 | Bofu | Lead generation | SEO + PPC intégrés | B2B avec cycle de vente long |
 | Tink | Créativité + SEO | Contenu de marque | Secteurs compétitifs, notoriété |
-| LG2 Digital | Stratégie globale | Bilinguisme & campagnes | Clients institutionnels ou corporatifs |
+| My Litle Big Web | Stratégie globale | SEO + PPC | PME, B2B, local |
 | Wallop | PME régionales | [SEO local](https://blotmkt.com/ia/definition/seo-local.html) Montréal / Laval | Commerces et services locaux |
 | Edgeprop | Technique avancé | Core Web Vitals & indexation | Sites à fort volume de pages |
 | BlotMKT | SEO + GEO hybride | Stratégie SEO/GEO, E-E-A-T | PME et professionnels libéraux |
