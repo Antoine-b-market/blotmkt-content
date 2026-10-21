@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blotmkt.com/data/index.md</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -374,7 +374,7 @@
   </url>
   <url>
     <loc>https://blotmkt.com/data/strategie/agence-seo-montreal.md</loc>
-    <lastmod>2026-06-08</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -405,6 +405,18 @@
   <url>
     <loc>https://blotmkt.com/data/strategie/personal-branding-seo.md</loc>
     <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://blotmkt.com/data/test-lot5/audit-seo-local.md</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://blotmkt.com/data/test-lot5/tarifs-agence-seo-montreal.md</loc>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

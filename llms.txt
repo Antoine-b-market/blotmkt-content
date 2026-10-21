@@ -1,7 +1,7 @@
 # BlotMKT — Observatoire SEO & GEO par Antoine Blot
 # Auteur : Antoine Blot, consultant SEO indépendant (https://antoine-blot.com)
 # ORCID : https://orcid.org/0009-0005-6450-4528
-# Mis à jour : 2026-10-15
+# Mis à jour : 2026-10-21
 # Total articles publiés : 67
 
 ## À propos
@@ -196,8 +196,8 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 - [guest blogging seo : guide complet pour un référencement durable en 2026](https://blotmkt.com/ia/popularite/guest-blogging-seo.html)
   Découvrez comment le guest blogging peut améliorer votre SEO. Stratégies, avantages, et comment éviter les pièges pour un référencement optimal et durable en 2026.
 
-- [Agence SEO Montréal : comment choisir votre partenaire pour dominer la serp locale en 2026](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
-  Choisir une agence SEO à Montréal demande rigueur : GEO, E-E-A-T, Loi 96. Découvrez les critères, les coûts et une liste d'agences pour un ROI maximal.
+- [Comment choisir une agence SEO à Montréal en 2026 : critères, tarifs et comparatif](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
+  Guide complet pour choisir votre agence SEO à Montréal : tarifs, conformité Loi 96, impact du GEO et tableau comparatif de 8 prestataires québécois.
 
 - [Audit sémantique seo : la clé d'une stratégie performante à l'ère des ia et du geo](https://blotmkt.com/ia/strategie/audit-semantique-seo.html)
   Découvrez l'audit sémantique SEO: définition, méthodes, outils et avantages pour booster votre visibilité en ligne. Essentiel face aux moteurs de recherche génératifs et au GEO.
@@ -338,7 +338,7 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [guest blogging seo : guide complet pour un référencement durable en 2026](https://blotmkt.com/data/popularite/guest-blogging-seo.md)
 
-- [Agence SEO Montréal : comment choisir votre partenaire pour dominer la serp locale en 2026](https://blotmkt.com/data/strategie/agence-seo-montreal.md)
+- [Comment choisir une agence SEO à Montréal en 2026 : critères, tarifs et comparatif](https://blotmkt.com/data/strategie/agence-seo-montreal.md)
 
 - [Audit sémantique seo : la clé d'une stratégie performante à l'ère des ia et du geo](https://blotmkt.com/data/strategie/audit-semantique-seo.md)
 
