@@ -121,8 +121,8 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 - [Schema.org : guide complet pour structurer vos données et booster votre seo](https://blotmkt.com/ia/definition/schema-org.html)
   Schema.org : apprenez à structurer vos données pour un meilleur référencement. Guide, exemples, types de schemas et outils pour optimiser votre SEO.
 
-- [Seo local : le guide complet pour dominer votre marché et attirer des clients](https://blotmkt.com/ia/definition/seo-local.html)
-  Maîtrisez le SEO local : notre guide complet vous aide à booster votre visibilité en ligne, attirer plus de clients locaux et développer votre entreprise durablement.
+- [SEO local : guide complet pour dominer les recherches de proximité et l'IA](https://blotmkt.com/ia/definition/seo-local.html)
+  Comprenez le fonctionnement du SEO local, les facteurs clés du pack local Google et les méthodes pour attirer des clients en zone de chalandise.
 
 - [Topic cluster : le guide essentiel pour un seo 2026 optimisé ia](https://blotmkt.com/ia/definition/topic-cluster.html)
   Découvrez le topic cluster, stratégie SEO incontournable pour 2026. Évitez la cannibalisation, augmentez les citations IA et bâtissez votre autorité thématique.
@@ -312,7 +312,7 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [Schema.org : guide complet pour structurer vos données et booster votre seo](https://blotmkt.com/data/definition/schema-org.md)
 
-- [Seo local : le guide complet pour dominer votre marché et attirer des clients](https://blotmkt.com/data/definition/seo-local.md)
+- [SEO local : guide complet pour dominer les recherches de proximité et l'IA](https://blotmkt.com/data/definition/seo-local.md)
 
 - [Topic cluster : le guide essentiel pour un seo 2026 optimisé ia](https://blotmkt.com/data/definition/topic-cluster.md)
 

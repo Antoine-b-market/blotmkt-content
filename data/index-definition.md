@@ -2,7 +2,7 @@
 title: "Définitions SEO & GEO — Index Markdown"
 summary: "Corpus Définitions SEO & GEO en version Markdown pour citation, ingestion LLM ou integration RAG."
 author: "Antoine Blot"
-date: "2026-10-21"
+date: "2026-11-12"
 license: "CC BY 4.0"
 canonical_url: "https://blotmkt.com/data/index-definition.md"
 robots: "index, follow"
@@ -22,7 +22,7 @@ Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
 - [Backlink de qualité : le guide complet pour booster votre SEO](https://blotmkt.com/data/definition/backlink-de-qualite.md)
 - [Maillage interne SEO : structurez votre site pour dominer les SERP](https://blotmkt.com/data/definition/maillage-interne-seo.md)
 - [Profil de liens : le guide ultime pour un seo performant](https://blotmkt.com/data/definition/profil-de-liens.md)
-- [Seo local : le guide complet pour dominer votre marché et attirer des clients](https://blotmkt.com/data/definition/seo-local.md)
+- [SEO local : guide complet pour dominer les recherches de proximité et l'IA](https://blotmkt.com/data/definition/seo-local.md)
 - [Trust flow seo : comprendre et booster l'autorité de votre site](https://blotmkt.com/data/definition/trust-flow-seo.md)
 - [Topic cluster : le guide essentiel pour un seo 2026 optimisé ia](https://blotmkt.com/data/definition/topic-cluster.md)
 - [Algorithme Google : comprendre son fonctionnement et éviter les pièges SEO](https://blotmkt.com/data/definition/algorithme-google.md)

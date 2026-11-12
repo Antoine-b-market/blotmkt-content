@@ -1549,8 +1549,8 @@
     },
     "/ia/definition/seo-local.html": {
       "get": {
-        "summary": "Seo local : le guide complet pour dominer votre marché et attirer des clients",
-        "description": "Maîtrisez le SEO local : notre guide complet vous aide à booster votre visibilité en ligne, attirer plus de clients locaux et développer votre entreprise durablement.",
+        "summary": "SEO local : guide complet pour dominer les recherches de proximité et l'IA",
+        "description": "Comprenez le fonctionnement du SEO local, les facteurs clés du pack local Google et les méthodes pour attirer des clients en zone de chalandise.",
         "operationId": "seo-local",
         "tags": [
           "definition"
@@ -1571,8 +1571,8 @@
     },
     "/data/definition/seo-local.md": {
       "get": {
-        "summary": "Seo local : le guide complet pour dominer votre marché et attirer des clients",
-        "description": "Maîtrisez le SEO local : notre guide complet vous aide à booster votre visibilité en ligne, attirer plus de clients locaux et développer votre entreprise durablement.",
+        "summary": "SEO local : guide complet pour dominer les recherches de proximité et l'IA",
+        "description": "Comprenez le fonctionnement du SEO local, les facteurs clés du pack local Google et les méthodes pour attirer des clients en zone de chalandise.",
         "operationId": "seo-local-md",
         "tags": [
           "definition"
