@@ -105,7 +105,7 @@ Sur les projets que je pilote, je croise systématiquement l'Authority Score Sem
 
 ---
 
-## Questions fréquentes {#questions-frequentes}
+## Questions fréquentes
 
 ### Le PageRank Google existe-t-il encore en 2026 ?
 

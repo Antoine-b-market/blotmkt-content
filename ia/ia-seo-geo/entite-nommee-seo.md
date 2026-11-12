@@ -27,7 +27,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce qu'une entité nommée en SEO ?](#definition-entite-nommee-seo)
 - [Comment fonctionne l'identification des entités nommées par les moteurs de recherche ?](#mecanisme-identification)
 - [Les avantages concrets de l'utilisation des entités nommées en SEO](#avantages-entites)
@@ -157,17 +157,17 @@ En tant que spécialiste GEO, j'anticipe que les données structurées deviendro
 
 ## FAQ : Réponses aux questions fréquentes sur les entités nommées en SEO {#questions-frequentes}
 
-### Comment trouver les entités nommées les plus pertinentes pour mon business ?
+### Comment trouver les entités nommées les plus pertinentes pour mon business ? {#comment-trouver-les-entites-nommees-les-plus-pertinentes}
 
 Commencez par analyser votre contenu existant via Google Natural Language API, qui retourne les entités détectées avec leur score de saillance sur 100. Examinez ensuite les Knowledge Panels de vos concurrents directs pour identifier les entités qu'ils ont déclarées. Enfin, consultez Wikidata pour repérer les entités officiellement reconnues dans votre secteur et leurs propriétés (`P` codes) utilisées par Google pour alimenter son graphe.
 
-### Quelle est la différence entre entité nommée et mot-clé de longue traîne ?
+### Quelle est la différence entre entité nommée et mot-clé de longue traîne ? {#quelle-est-la-difference-entre-entite-nommee-et-mot-cle-de}
 
-Un mot-clé de longue traîne est une chaîne de caractères précise ("meilleur [Consultant SEO Montréal](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)"). 
+Un mot-clé de longue traîne est une chaîne de caractères précise ("meilleur [consultant SEO Montréal](https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html)"). 
 Google traite les entités comme des choses du monde réel avec une identité, tandis que les mots-clés sont de simples chaînes de texte. Une entité a des attributs, des relations et un sens stable. Un mot-clé peut signifier des choses différentes selon le contexte.
  Les deux se complètent : le mot-clé capte l'intention ; l'entité ancre la page dans le Knowledge Graph.
 
-### Comment mesurer l'impact de l'optimisation des entités nommées sur mon trafic ?
+### Comment mesurer l'impact de l'optimisation des entités nommées sur mon trafic ? {#comment-mesurer-l-impact-de-l-optimisation-des-entites}
 
 Suivez quatre KPIs dans Google Search Console : les impressions totales (signe que l'indexation sémantique progresse), le CTR sur les fonctionnalités enrichies (Featured Snippets, Knowledge Panels), le positionnement moyen sur les requêtes thématiques liées à vos entités cibles, et le Share of Voice sectoriel mesuré via Semrush ou Conductor. En 2026, ajoutez la fréquence de citation dans les réponses des LLMs comme cinquième indicateur GEO.
 
@@ -186,5 +186,5 @@ Suivez quatre KPIs dans Google Search Console : les impressions totales (signe q
 - [AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix](https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
-- [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)

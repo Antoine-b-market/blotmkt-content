@@ -51,7 +51,7 @@ Beaucoup d'entreprises découvrent l'EEAT après une chute de trafic. Elles cher
 
 ---
 
-## Strategie EEAT : au-delà de la définition, une philosophie opérationnelle {#philosophie}
+## Strategie EEAT : au-delà de la définition, une philosophie opérationnelle
 
 L'EEAT est le cadre d'évaluation que Google utilise pour juger la qualité et la crédibilité des contenus en ligne. Ses quatre piliers - Expérience, Expertise, Autorité et Fiabilité - ne fonctionnent pas en silo. La fiabilité (Trust) est le pilier central : 
 Google est explicite dans ses guidelines - Trust est le composant EEAT le plus important. Une page peut démontrer expérience, expertise et autorité, mais si elle est non fiable, son évaluation EEAT restera basse.
@@ -66,7 +66,7 @@ En tant que consultant SEO et stratège marketing, je considère que l'erreur la
 
 ---
 
-## L'erreur fatale : ignorer l'EEAT, c'est risquer la chute brutale après chaque Core Update {#erreur-fatale}
+## L'erreur fatale : ignorer l'EEAT, c'est risquer la chute brutale après chaque Core Update
 
 Mon expérience montre que les sites YMYL qui négligent l'EEAT ne tombent pas progressivement - ils chutent brutalement après chaque Core Update, sans signal d'alerte préalable. Cette absence de signe avant-coureur est précisément le marqueur des pénalités EEAT : le trafic s'effondre du jour au lendemain, sans message dans Google Search Console.
 
@@ -78,7 +78,7 @@ Le contenu obsolète est un problème de signal de confiance. Il faut mettre en 
 
 ---
 
-## EEAT et schema markup : structurer la confiance pour les machines et l'IA {#schema-markup}
+## EEAT et schema markup : structurer la confiance pour les machines et l'IA
 
 Les signaux EEAT doivent être lisibles par les machines, pas seulement par les humains. C'est précisément le rôle du schema markup : traduire en langage structuré ce que votre contenu exprime en langage naturel.
 
@@ -96,7 +96,7 @@ Dans ma pratique, implémenter un schema correct et une attribution d'auteur str
 
 ---
 
-## Mesurer l'impact de votre strategie EEAT : quels indicateurs suivre ? {#mesurer-impact}
+## Mesurer l'impact de votre strategie EEAT : quels indicateurs suivre ?
 
 Sur 5 clients PME accompagnés dans le cadre de ma pratique de [consultant SEO](https://www.antoine-blot.com/consultant-seo/), l'optimisation E-E-A-T SEO a permis d'accroître leur visibilité locale de 18 % en 9 mois, en solidifiant la preuve sociale et l'autorité des auteurs. Ce chiffre illustre un principe fondamental : l'EEAT ne se mesure pas directement, mais ses effets sont quantifiables.
 
@@ -116,7 +116,7 @@ Les mentions de marque cohérentes - même sans liens - contribuent à l'autorit
 
 ---
 
-## De l'EAT à l'EEAT : l'expérience utilisateur, nouveau pilier de la crédibilité SEO {#de-eat-a-eeat}
+## De l'EAT à l'EEAT : l'expérience utilisateur, nouveau pilier de la crédibilité SEO
 
 En décembre 2022, Google a ajouté l'« Expérience » au cadre originel E-A-T. Ce quatrième pilier modifie substantiellement les priorités SEO. 
 Cette mise à jour a introduit une emphase renforcée sur l'expérience réelle du monde, aux côtés de l'expertise formelle. La connaissance de première main - utiliser un produit, visiter un lieu, vivre une situation - peut apporter des insights précieux, même sans qualifications formelles.
@@ -128,7 +128,7 @@ J'observe que cette évolution impacte directement l'optimisation AEO (Answer En
 
 ---
 
-## EEAT : un facteur de classement ou une exigence fondamentale pour les algorithmes ? {#facteur-classement}
+## EEAT : un facteur de classement ou une exigence fondamentale pour les algorithmes ?
 
 Cette question divise encore de nombreux professionnels SEO. La réponse officielle de Google est claire. 
 Danny Sullivan a réitéré qu'EEAT n'est pas un score, n'est pas un facteur de classement, n'est pas un algorithme. Il a précisé que "EEAT itself isn't a specific ranking factor" est la formulation retenue, car certains croient encore à l'existence d'un score EEAT.
@@ -141,7 +141,7 @@ Environ 16 000 Search Quality Raters externes classifient et évaluent du conten
 
 ---
 
-## Bâtir une strategie EEAT pérenne : transparence, autorité et amélioration continue {#batir-perenne}
+## Bâtir une strategie EEAT pérenne : transparence, autorité et amélioration continue
 
 En travaillant avec des entreprises québécoises et canadiennes, j'ai identifié trois leviers concrets qui font la différence sur le long terme.
 
@@ -159,7 +159,7 @@ La clarification la plus importante pour 2026 est que Google évalue la qualité
 
 ---
 
-## Questions fréquentes {#questions-frequentes}
+## Questions fréquentes
 
 ### Comment l'EEAT influence-t-il la visibilité des sites web sur Google ?
 
@@ -194,5 +194,5 @@ Pour le contenu YMYL, les exigences de signaux de confiance de Google sont subst
 - [AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix](https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
-- [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)

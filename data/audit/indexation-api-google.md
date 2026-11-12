@@ -52,7 +52,7 @@ Votre contenu est publié, mais Google met des jours à le découvrir. Pendant c
 
 ---
 
-## Qu'est-ce que l'Indexation API Google et pourquoi est-ce important ? {#definition}
+## Qu'est-ce que l'Indexation API Google et pourquoi est-ce important ?
 
 L'Indexation API Google notifie Google de la création, mise à jour ou suppression d'offres d'emploi ou de vidéos en direct, déclenchant une exploration prioritaire pour les contenus récents. Les actions principales sont : mise à jour d'URL, suppression d'URL, vérification du statut d'une requête et envoi de requêtes par lot. Elle est recommandée plutôt que les sitemaps pour les contenus à durée de vie courte.
 
@@ -65,7 +65,7 @@ En tant que consultant SEO, j'insiste sur un point souvent mal compris : l'API a
 
 ---
 
-## Comment fonctionne techniquement l'Indexation API Google ? {#mecanisme}
+## Comment fonctionne techniquement l'Indexation API Google ?
 
 L'activation de l'Indexation API suit un processus en quatre étapes. Première étape : créer un projet dans Google Cloud Platform et activer l'API d'indexation. Deuxième étape : générer un compte de service et télécharger la clé JSON d'authentification. Troisième étape : 
 dans la section Credentials de Google Cloud Console, cliquer sur "Create Credentials" et sélectionner "Service Account", puis télécharger le fichier de clé JSON contenant la clé privée et les informations d'authentification.
@@ -79,7 +79,7 @@ Mon expérience montre que la plupart des erreurs d'intégration surviennent à 
 
 ---
 
-## Cas d'usage concrets : où et comment utiliser l'API d'indexation ? {#usage}
+## Cas d'usage concrets : où et comment utiliser l'API d'indexation ?
 
 L'Indexation API Google n'est pas un outil universel. 
 Elle ne peut être utilisée que pour explorer des pages contenant soit un balisage `JobPosting`, soit un `BroadcastEvent` intégré dans un `VideoObject`.
@@ -95,7 +95,7 @@ Ce que je constate chez mes clients : les secteurs hors de ces trois cas tentent
 
 ---
 
-## Erreurs fréquentes et pièges à éviter avec l'API d'indexation {#echec}
+## Erreurs fréquentes et pièges à éviter avec l'API d'indexation
 
 Le premier piège est le dépassement de quota. 
 La limite journalière de 200 requêtes inclut à la fois les pages mises à jour et supprimées. Les grands sites qui publient et mettent à jour de nombreux contenus quotidiennement devront demander une augmentation de quota.
@@ -110,7 +110,7 @@ Dans ma pratique avec des clients à Montréal, j'ajoute systématiquement une v
 
 ---
 
-## L'Indexation API Google : preuves et résultats mesurables {#preuve}
+## L'Indexation API Google : preuves et résultats mesurables
 
 L'utilisation de l'Indexation API pour les pages d'offres d'emploi a réduit le délai d'indexation moyen de 6 jours à moins de 24 heures sur un site de recrutement. Ce résultat, observé en conditions réelles, illustre l'écart entre une indexation passive via sitemap et une notification directe à Googlebot. L'ensemble de la méthodologie est documentée dans mes [ressources SEO](https://www.antoine-blot.com/ressources-seo/).
 
@@ -123,7 +123,7 @@ Surveiller régulièrement Google Search Console pour monitorer le statut d'inde
 
 ---
 
-## Perspectives 2026 : l'avenir de l'indexation avec l'IA de Google {#avance}
+## Perspectives 2026 : l'avenir de l'indexation avec l'IA de Google
 
 Sur les projets que je pilote en tant que spécialiste GEO, la part de Googlebot dans le trafic crawler est passée de 30 % à 50 %, un signal clair que Google intensifie son exploration pour alimenter à la fois son moteur classique et ses fonctionnalités IA. Ignorer l'optimisation de l'exploration en 2026 revient à abandonner du terrain sur les deux tableaux.
 
@@ -136,7 +136,7 @@ L'évolution attendue pointe vers une extension progressive des types de contenu
 
 ---
 
-## FAQ : réponses aux questions fréquentes sur l'Indexation API Google {#questions-frequentes}
+## FAQ : réponses aux questions fréquentes sur l'Indexation API Google
 
 ### Comment gérer les erreurs 403 avec l'Indexation API ?
 

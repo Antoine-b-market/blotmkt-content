@@ -23,7 +23,7 @@ publisher: "BlotMKT - Antoine Blot"
 ---
 # Citations locales SEO : le guide complet pour votre visibilité locale en 2026
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce qu'une citation locale SEO et son rôle crucial en 2026 ?](#definition)
 - [Comment auditer vos citations locales existantes : le diagnostic indispensable](#audit)
 - [Les meilleurs sites pour créer des citations locales de qualité : sélection 2026](#plateformes)
@@ -216,28 +216,28 @@ Mesurez les signaux comportementaux en priorité : CTR dans la Search Console, a
 
 ## Questions fréquentes sur les citations locales SEO {#questions-frequentes}
 
-### Quelle est l'importance de la cohérence NAP pour mon SEO local ?
+### Quelle est l'importance de la cohérence NAP pour mon SEO local ? {#quelle-est-l-importance-de-la-coherence-nap-pour-mon-seo}
 
 Moz insiste sur un point central : la cohérence NAP reste un signal fondamental. Une citation locale incohérente ne se contente pas de ne rien apporter : elle peut activement nuire au classement.
  Selon Antoine Blot, sur 18 PME québécoises auditées en 2026, les entreprises avec un NAP cohérent sur 15+ annuaires affichaient une visibilité locale 2,4 fois supérieure à celles avec des incohérences sur 3 plateformes ou plus.
 
-### Quels sont les meilleurs outils pour suivre mes citations locales ?
+### Quels sont les meilleurs outils pour suivre mes citations locales ? {#quels-sont-les-meilleurs-outils-pour-suivre-mes-citations}
 
 BrightLocal est la référence pour l'audit et le suivi des citations, avec un module de classement local par zone géographique. Semrush permet d'analyser les citations de vos concurrents et d'identifier des annuaires manquants. 
 Moz a développé Moz Local, un outil spécifiquement conçu pour auditer et corriger les données NAP sur le web. Le fait que l'une des principales entreprises SEO au monde ait construit un produit entier autour de cette problématique dit tout de son importance.
 
-### Combien de citations locales sont nécessaires pour être efficace ?
+### Combien de citations locales sont nécessaires pour être efficace ? {#combien-de-citations-locales-sont-necessaires-pour-etre}
 
 Il n'existe pas de nombre magique. 
 La priorité va aux plateformes majeures (Google Business Profile, Pages Jaunes, Yelp, Mappy, Foursquare), aux annuaires locaux (site de la ville, portail d'actualités locales, unions de commerçants) et aux annuaires sectoriels (chambres de métiers, portails dédiés à votre profession).
  Dans ma pratique, 15 à 20 citations cohérentes sur des plateformes à forte autorité surpassent systématiquement 80 inscriptions sur des répertoires de faible qualité.
 
-### La création de citations locales est-elle toujours pertinente en 2026 ?
+### La création de citations locales est-elle toujours pertinente en 2026 ? {#la-creation-de-citations-locales-est-elle-toujours}
 
 Selon les experts en SEO local, l'IA révèle à quel point les citations sont importantes et fondamentales pour le SEO local traditionnel.
  En 2026, leur rôle s'est même étendu : les citations non structurées (mentions dans des articles, guides sectoriels, listes "best of") sont devenues un facteur de visibilité dans les réponses des moteurs IA comme ChatGPT ou Perplexity. Ignorer les citations, c'est s'exclure d'un nombre croissant de canaux de découverte.
 
-### Comment optimiser mon profil Google Business Profile pour les citations ?
+### Comment optimiser mon profil Google Business Profile pour les citations ? {#comment-optimiser-mon-profil-google-business-profile-pour}
 
 Auditez votre fiche Google Business Profile en priorité : catégories, description, services, photos, horaires, attributs, URL et suivi UTM.
  Assurez-vous que le NAP affiché sur GBP correspond exactement à celui de votre site web et de tous vos annuaires. Ajoutez le balisage Schema.org `LocalBusiness` sur votre page locale pour renforcer la cohérence entre vos citations et les données que Google lit directement sur votre site.

@@ -48,7 +48,7 @@ Le texte d'ancre est souvent le dernier élément qu'on optimise, et le premier 
 
 ---
 
-## Définition et rôle fondamental de l'ancre de lien en SEO {#definition}
+## Définition et rôle fondamental de l'ancre de lien en SEO
 
 Une ancre de lien, ou texte d'ancre, est le texte visible et cliquable d'un hyperlien HTML. Techniquement, elle correspond au contenu inséré entre les balises `<a href="URL">` et `</a>`. Ce texte est ce que voit l'utilisateur, mais surtout ce que lit le crawler de Google en premier.
 
@@ -64,7 +64,7 @@ Le W3C définit l'élément `<a>` comme un "hyperlien vers une autre ressource" 
 
 ---
 
-## L'ancre de lien : un signal de structure pour les IA et l'ontologie du site {#ia-ontologie}
+## L'ancre de lien : un signal de structure pour les IA et l'ontologie du site
 
 Les agents IA comme ChatGPT, Gemini ou Perplexity ne se contentent pas de lire le contenu d'une page. Ils analysent les structures de liens internes pour comprendre les relations entre concepts, thématiques et ressources. Une page bien ancrée dans un réseau de liens contextuels apparaît comme centrale dans l'architecture du savoir d'un site.
 
@@ -76,7 +76,7 @@ L'ancre doit correspondre au titre ou à la thématique de la page cible, et s'i
 
 ---
 
-## Impact direct sur le positionnement SEO : données et études de cas {#impact}
+## Impact direct sur le positionnement SEO : données et études de cas
 
 Les URL ayant un plus grand nombre de variations d'ancres de liens internes sont fortement corrélées à un trafic Google plus élevé, et les pages disposant d'au moins une ancre Exact Match enregistrent au moins cinq fois plus de trafic que les pages sans ancre ciblée (Zyppy).
 
@@ -99,7 +99,7 @@ L'optimisation et la diversité des ancres, combinées au nombre de liens intern
 
 ---
 
-## Les différents types d'ancres et leur utilisation stratégique {#types}
+## Les différents types d'ancres et leur utilisation stratégique
 
 Il existe cinq types d'ancres, chacun avec un rôle précis dans un profil sain :
 
@@ -121,7 +121,7 @@ L'ancre doit s'insérer là où le lecteur cherche naturellement une réponse co
 
 ---
 
-## Audit et optimisation : construire un profil d'ancres sain et puissant {#audit}
+## Audit et optimisation : construire un profil d'ancres sain et puissant
 
 La démarche d'audit suit quatre étapes séquentielles :
 
@@ -142,7 +142,7 @@ L'optimisation des ancres contextuelles dans les articles longs et sur les pages
 
 ---
 
-## Erreurs à éviter : sur-optimisation et liens toxiques {#erreurs}
+## Erreurs à éviter : sur-optimisation et liens toxiques
 
 > Erreur commune : concentrer 80 % de ses ancres externes sur l'Exact Match du mot-clé principal. C'est le schéma le plus sanctionné par les filtres anti-spam de Google depuis l'intégration de Penguin dans le core algorithm.
 
@@ -158,7 +158,7 @@ La balise `nofollow` est un outil, pas une solution. Elle indique à Google de n
 
 ---
 
-## L'ancre de lien en 2026 : vers une contextualisation accrue pour l'IA {#2026}
+## L'ancre de lien en 2026 : vers une contextualisation accrue pour l'IA
 
 En 2026, le texte d'ancre n'est plus seulement un signal pour les moteurs de recherche traditionnels. Les modèles de langage qui alimentent les réponses génératives analysent les structures de liens pour évaluer la centralité thématique d'une page dans son domaine.
 
@@ -172,7 +172,7 @@ Comme l'explique Antoine Blot, la naturalité et la pertinence des ancres ne son
 
 ---
 
-## Questions fréquentes {#faq}
+## Questions fréquentes
 
 ### Quelle est la différence entre maillage interne et netlinking ?
 

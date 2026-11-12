@@ -48,7 +48,7 @@ Le SEO tel que vous le pratiquez change de règles. En 2025, 69 % des recherches
 
 ---
 
-## Qu'est-ce que l'AEO (Answer Engine Optimization) ? {#quest-ce-que-laeo}
+## Qu'est-ce que l'AEO (Answer Engine Optimization) ?
 
 L'AEO (Answer Engine Optimization) est l'ensemble des pratiques marketing visant à maximiser la visibilité d'une marque dans les réponses générées par l'IA. Concrètement, il s'agit d'optimiser votre contenu pour que ChatGPT, Google AI Overviews, Perplexity ou Microsoft Copilot vous citent lorsqu'un utilisateur pose une question dans votre domaine.
 
@@ -60,7 +60,7 @@ En tant que consultant SEO basé à Montréal, j'observe que cette transition re
 
 ---
 
-## Pourquoi l'AEO est-elle importante pour votre stratégie SEO ? {#pourquoi-laeo-est-elle-importante}
+## Pourquoi l'AEO est-elle importante pour votre stratégie SEO ?
 
 L'argument business est direct et chiffré. Selon Semrush, les visiteurs arrivant via des citations IA convertissent à 4,4 fois le taux des visiteurs organiques classiques. Ces utilisateurs sont plus avancés dans leur parcours de recherche : ils ont déjà obtenu une réponse de l'IA et cherchent à approfondir ou à passer à l'acte.
 
@@ -72,7 +72,7 @@ J'observe que chez mes clients SaaS québécois, ceux qui ont commencé l'AEO en
 
 ---
 
-## Les piliers de l'AEO : comment optimiser pour les moteurs de réponse {#piliers-aeo}
+## Les piliers de l'AEO : comment optimiser pour les moteurs de réponse
 
 En 2026, les pages structurant une réponse directe en moins de 50 mots dès le premier paragraphe obtenaient 3,4 fois plus de citations dans les moteurs de réponse que les pages répondant en fin d'article. Ce constat - documenté dans ma pratique de [consultant SEO](https://www.antoine-blot.com/consultant-seo/) - oriente toute stratégie AEO sérieuse vers l'approche "answer-first".
 
@@ -90,7 +90,7 @@ Dans ma pratique, le contenu formaté spécifiquement pour l'extraction par les 
 
 ---
 
-## Intégrer l'AEO dans votre stratégie SEO globale : un guide pratique {#integrer-aeo}
+## Intégrer l'AEO dans votre stratégie SEO globale : un guide pratique
 
 L'AEO ne remplace pas le SEO : elle l'amplifie. Le SEO construit l'infrastructure - vitesse, crawlabilité, backlinks, contenu - et l'AEO apporte la couche d'interprétation : données structurées, clarté des entités, format answer-first. Bâtir une stratégie AEO sur des fondamentaux SEO fragiles limite son efficacité, car les modèles IA privilégient les sources crédibles avec une autorité et une accessibilité prouvées.
 
@@ -106,7 +106,7 @@ Ce que je constate chez mes clients, c'est que l'étape 2 - l'identification des
 
 ---
 
-## Outils et techniques pour l'AEO : automatisation et analyse {#outils-aeo}
+## Outils et techniques pour l'AEO : automatisation et analyse
 
 Le suivi de la performance AEO exige des outils différents du SEO classique. Plusieurs catégories méritent attention.
 
@@ -122,7 +122,7 @@ Mon expérience montre qu'un outil de suivi IA comme Conductor, combiné à Goog
 
 ---
 
-## Cas d'usage et exemples concrets de l'AEO en action {#cas-usage-aeo}
+## Cas d'usage et exemples concrets de l'AEO en action
 
 L'AEO produit des résultats différents selon les secteurs, mais trois configurations se distinguent particulièrement.
 
@@ -134,7 +134,7 @@ Médias et contenu éditorial : les sites informationnels bénéficient d'un ava
 
 ---
 
-## L'avenir de l'AEO : tendances et perspectives {#avenir-aeo}
+## L'avenir de l'AEO : tendances et perspectives
 
 Les moteurs de réponse continuent leur expansion. Google AI Overviews apparaissent dans environ 30 % de toutes les recherches et 74 % des requêtes de résolution de problèmes, selon Authoritas. ChatGPT a dépassé 800 millions d'utilisateurs actifs hebdomadaires en octobre 2025 - soit 2,6× la croissance enregistrée en moins d'un an.
 
@@ -150,7 +150,7 @@ En tant que stratège marketing digital, j'anticipe que les entreprises francoph
 
 ---
 
-## Questions fréquentes {#questions-frequentes}
+## Questions fréquentes
 
 ### Quelle est la différence entre SEO et AEO ?
 
@@ -178,6 +178,6 @@ Quatre métriques balisent le ROI : la progression des impressions dans Google S
 
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix](https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
 - [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
-- [Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité](https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo.html)

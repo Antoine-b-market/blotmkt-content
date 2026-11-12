@@ -2,7 +2,7 @@
 title: "IA, SEO & GEO — Index Markdown"
 summary: "Corpus IA, SEO & GEO en version Markdown pour citation, ingestion LLM ou integration RAG."
 author: "Antoine Blot"
-date: "2026-10-21"
+date: "2026-11-12"
 license: "CC BY 4.0"
 canonical_url: "https://blotmkt.com/data/index-ia-seo-geo.md"
 robots: "index, follow"
@@ -16,6 +16,7 @@ Ressources IA, SEO & GEO par Antoine Blot, consultant SEO & GEO a Montreal.
 
 Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
 
+- [Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix](https://blotmkt.com/data/ia-seo-geo/consultant-seo-montreal.md)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/data/ia-seo-geo/algorithme-de-recommandation.md)
 - [AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/data/ia-seo-geo/aeo-answer-engine-optimization.md)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/data/ia-seo-geo/citations-par-ia.md)

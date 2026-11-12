@@ -27,7 +27,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # PageRank Google : l'algorithme, son histoire et son impact SEO actuel
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce que le PageRank Google ?](#quest-ce-que-le-pagerank-google)
 - [Comment fonctionne l'algorithme PageRank ?](#comment-fonctionne-lalgorithme-pagerank)
 - [Pourquoi Google a supprimé l'affichage public du PageRank](#pourquoi-google-a-supprime-laffichage-public-du-pagerank)
@@ -47,7 +47,7 @@ Votre netlinking stagne, vos backlinks s'accumulent, et pourtant vos positions n
 
 ---
 
-## Qu'est-ce que le PageRank Google ?
+## Qu'est-ce que le PageRank Google ? {#qu-est-ce-que-le-pagerank-google}
 
 Le PageRank est un algorithme développé par Larry Page et Sergey Brin à l'université de Stanford en 1996. Il forme la colonne vertébrale originelle du moteur de recherche Google. Son principe : mesurer l'importance relative d'une page web en comptant le nombre et la qualité des liens entrants qu'elle reçoit. Chaque lien agit comme un vote de confiance. Un vote provenant d'une page elle-même très liée pèse davantage qu'un vote issu d'une page obscure. Le brevet initial a été déposé en septembre 1998, avant le lancement commercial de Google. Le score public s'échelonnait de 0 à 10 sur une échelle logarithmique - une page PR4 pouvait représenter 25 fois plus d'autorité qu'une page PR2.
 
@@ -55,7 +55,7 @@ Mon expérience montre que la plupart des propriétaires de sites confondent le 
 
 ---
 
-## Comment fonctionne l'algorithme PageRank ?
+## Comment fonctionne l'algorithme PageRank ? {#comment-fonctionne-l-algorithme-pagerank}
 
 L'algorithme simule le comportement d'un "surfeur aléatoire" qui navigue de lien en lien sur le web. À chaque étape, ce surfeur virtuel a une probabilité de cliquer sur un lien sortant ou de repartir depuis une nouvelle page. La probabilité qu'il atterrisse sur une page donnée approxime son PageRank. Un facteur d'amortissement - fixé à 0,85 dans le papier original de 1998 - représente la probabilité que le surfeur continue sa navigation plutôt qu'il ne repart de zéro.
 
@@ -65,7 +65,7 @@ Ce que je constate chez mes clients : l'architecture interne est souvent néglig
 
 ---
 
-## Pourquoi Google a supprimé l'affichage public du PageRank
+## Pourquoi Google a supprimé l'affichage public du PageRank {#pourquoi-google-a-supprime-l-affichage-public-du-pagerank}
 
 Google a cessé de mettre à jour les scores publics en décembre 2013, puis a définitivement retiré la Google Toolbar en 2016. La raison principale : le score visible était devenu une cible en soi, déconnectée de la valeur réelle des pages. Des fermes de liens et des systèmes automatisés généraient des milliers de backlinks artificiels pour faire grimper le PageRank sans contenu de qualité. Le signal public alimentait directement la manipulation.
 
@@ -75,7 +75,7 @@ J'observe que cette décision a finalement assaini les pratiques : les équipes 
 
 ---
 
-## PageRank interne : ce que révèlent les fuites Google de 2024
+## PageRank interne : ce que révèlent les fuites Google de 2024 {#pagerank-interne-ce-que-revelent-les-fuites-google-de-2024}
 
 En mars 2024, des documents internes de l'API Google ont été rendus publics. Ils révèlent l'existence de plusieurs versions du PageRank encore actives dans les systèmes de classement. La logique d'autorité transmise par les liens reste donc bien présente, sous des formes plus sophistiquées qu'en 1998. Le brevet original a expiré en 2018, mais un brevet de 2006 sur les "seed sites" - sites de confiance proches de sources comme le New York Times - semble avoir pris le relais. Ce système attribue un score selon la distance d'une page par rapport à ces sites d'ancrage fiables.
 
@@ -85,7 +85,7 @@ En travaillant avec des entreprises québécoises, je constate que la proximité
 
 ---
 
-## Preuve terrain : redistribuer le PageRank par l'audit de contenu
+## Preuve terrain : redistribuer le PageRank par l'audit de contenu {#preuve-terrain-redistribuer-le-pagerank-par-l-audit-de}
 
 Sur un site de 600 pages audité en 2026, supprimer 180 pages orphelines sans valeur a redistribué le PageRank interne vers les pages stratégiques, entraînant une progression moyenne de 5 positions sur les mots-clés cibles. Ces pages orphelines - jamais liées depuis le reste du site - consommaient du budget de crawl du Googlebot sans jamais recevoir ni transmettre d'autorité. Leur suppression a mécaniquement concentré le PageRank disponible sur les URLs qui en avaient besoin.
 
@@ -95,7 +95,7 @@ Dans ma pratique, je recommande de cartographier les flux de PageRank interne av
 
 ---
 
-## Outils alternatifs pour mesurer l'autorité d'une page
+## Outils alternatifs pour mesurer l'autorité d'une page {#outils-alternatifs-pour-mesurer-l-autorite-d-une-page}
 
 Sans score PageRank public, les praticiens SEO utilisent des métriques propriétaires. Semrush propose un Authority Score combinant le [Profil de liens](https://blotmkt.com/ia/definition/profil-de-liens.html), le trafic organique estimé et les signaux de spam. Ahrefs calcule un Domain Rating (DR) et un URL Rating (UR) basés sur la qualité et la quantité des backlinks. Moz utilise le Domain Authority (DA) et le Page Authority (PA). Majestic SEO produit un Citation Flow proche de la logique PageRank originelle. Aucune de ces métriques n'est directement équivalente au PageRank interne de Google - elles en sont des approximations.
 
@@ -107,15 +107,15 @@ Sur les projets que je pilote, je croise systématiquement l'Authority Score Sem
 
 ## Questions fréquentes {#questions-frequentes}
 
-### Le PageRank Google existe-t-il encore en 2026 ?
+### Le PageRank Google existe-t-il encore en 2026 ? {#le-pagerank-google-existe-t-il-encore-en-2026}
 
 Oui. Le score public a disparu en 2016, mais les fuites de l'API Google de mars 2024 ont confirmé l'existence de plusieurs versions internes du PageRank encore actives. La logique fondamentale - les liens comme votes d'autorité - reste un pilier du classement Google, intégré dans un ensemble plus large de signaux incluant la pertinence thématique et les signaux E-E-A-T.
 
-### Comment améliorer le PageRank interne d'un site ?
+### Comment améliorer le PageRank interne d'un site ? {#comment-ameliorer-le-pagerank-interne-d-un-site}
 
 Trois actions concrètes : supprimer les pages orphelines sans trafic ni valeur éditoriale, renforcer le maillage interne depuis les pages à forte autorité vers les pages cibles, et acquérir des backlinks depuis des domaines thématiquement cohérents avec votre secteur. Sur un site de 600 pages audité en 2026, la suppression de 180 pages orphelines a généré une hausse moyenne de 5 positions sur les mots-clés cibles.
 
-### Quelle différence entre PageRank et Domain Authority ?
+### Quelle différence entre PageRank et Domain Authority ? {#quelle-difference-entre-pagerank-et-domain-authority}
 
 Le PageRank est le score interne calculé par Google page par page, sur une base mathématique de graphe de liens. Le Domain Authority (DA) de Moz, comme le Domain Rating (DR) d'Ahrefs ou l'Authority Score de Semrush, sont des métriques tierces qui approximent cette autorité. Elles sont utiles pour comparer des sites entre eux, mais aucune ne reflète exactement le PageRank réel utilisé par Google.
 

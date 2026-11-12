@@ -46,7 +46,7 @@ Votre site perd des positions pendant qu'une agence facture ses réunions de coo
 
 ---
 
-## Consultant SEO Montréal : l'expert indépendant, votre atout face à l'agence {#expert-independant}
+## Consultant SEO Montréal : l'expert indépendant, votre atout face à l'agence
 
 Un consultant SEO indépendant n'est pas une agence réduite à une personne. C'est un profil senior qui choisit de travailler en direct avec ses clients, sans couche managériale entre la stratégie et l'exécution. Dans ma pratique à Montréal, cette différence de structure change tout : je connais chaque dossier en profondeur, je réponds directement, et j'ajuste la tactique sans attendre un compte-rendu hebdomadaire.
 
@@ -56,7 +56,7 @@ Ce que j'apporte concrètement : un audit technique couvrant Core Web Vitals, l'
 
 ---
 
-## Agence vs. consultant SEO Montréal : une comparaison coûts-avantages stratégique {#comparaison-couts}
+## Agence vs. consultant SEO Montréal : une comparaison coûts-avantages stratégique
 
 | Critère | Consultant indépendant | Agence SEO |
 |---|---|---|
@@ -74,7 +74,7 @@ La flexibilité est l'autre différentiel. Je travaille sur des mandats de 3 à 
 
 ---
 
-## Spécificités locales : la Loi 96, le bilinguisme et le GEO au cœur de votre stratégie montréalaise {#specificites-locales}
+## Spécificités locales : la Loi 96, le bilinguisme et le GEO au cœur de votre stratégie montréalaise
 
 Le marché SEO montréalais n'est pas Toronto avec du français en plus. C'est un environnement réglementaire et linguistique distinct qui exige une expertise spécifique sur trois plans.
 
@@ -86,7 +86,7 @@ Sur le GEO : j'ai accompagné un cabinet dentaire dans le quartier Rosemont - La
 
 ---
 
-## Quand l'expertise d'un consultant SEO indépendant devient indispensable à Montréal {#quand-indispensable}
+## Quand l'expertise d'un consultant SEO indépendant devient indispensable à Montréal
 
 Trois profils tirent le plus de valeur d'un consultant indépendant plutôt que d'une agence.
 
@@ -100,7 +100,7 @@ L'alignement direct avec les objectifs d'affaires — chiffre d'affaires, leads 
 
 ---
 
-## Dépasser les mythes : idées reçues sur le consultant SEO et la réalité montréalaise {#mythes}
+## Dépasser les mythes : idées reçues sur le consultant SEO et la réalité montréalaise
 
 **Mythe 1 : "Un consultant n'a pas les ressources d'une agence."**
 
@@ -116,7 +116,7 @@ C'est souvent l'inverse. Dans mes mandats, le client a accès en temps réel à 
 
 ---
 
-## Le ROI de votre investissement SEO : résultats concrets et mesurables à Montréal {#roi}
+## Le ROI de votre investissement SEO : résultats concrets et mesurables à Montréal
 
 Les KPI pertinents pour un mandat SEO local à Montréal ne se limitent pas au trafic organique. Ce que je suis systématiquement avec mes clients : positions sur les requêtes cibles (segmentées par langue), trafic qualifié par landing page, taux de conversion par source, nombre de leads attribuables au canal organique, et depuis 2025, le nombre de citations dans les AI Overviews de Google.
 
@@ -128,7 +128,7 @@ Ces résultats ne sont pas extrapolables à tous les secteurs ni à tous les bud
 
 ---
 
-## FAQ : choisir le bon consultant SEO pour votre entreprise à Montréal {#questions-frequentes}
+## FAQ : choisir le bon consultant SEO pour votre entreprise à Montréal
 
 ### Quel budget réaliste prévoir pour un consultant SEO à Montréal ?
 
@@ -160,7 +160,7 @@ FAQ_JSON-->
 
 ---
 
-## Références {#references}
+## Références
 
 [^1]: Ahrefs, « Quand un AI Overview est présent, le CTR organique de la position 1 chute de 58 % (Ahrefs, décembre 2025, étude sur 300 000 mots-clés) », 2026-06-02. https://ahrefs.com/blog/ai-overviews-reduce-clicks/
 [^2]: Montreally, « Top 12 agences SEO à Montréal en 2026 : palmarès détaillé », mai 2026. https://montreally.com/top-agences-seo-montreal-2026-palmares/

@@ -23,7 +23,7 @@ publisher: "BlotMKT - Antoine Blot"
 ---
 # L'alt text image : votre passeport pour l'accessibilité et la performance SEO IA
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Définition et rôle fondamental de l'alt text image](#definition-et-role-fondamental)
 - [Mécanisme et impact : comment l'alt text est interprété par les systèmes](#mecanisme-et-impact)
 - [Erreurs courantes et pièges à éviter avec l'alt text](#erreurs-courantes)
@@ -139,24 +139,24 @@ L'alt text et la légende se complètent : l'alt décrit l'image pour les machin
 
 ## Questions fréquentes sur l'alt text image {#questions-frequentes}
 
-### Comment rédiger un alt text efficace et pertinent ?
+### Comment rédiger un alt text efficace et pertinent ? {#comment-rediger-un-alt-text-efficace-et-pertinent}
 
 Concentrez-vous sur une description concise du contenu de l'image dans son contexte. 
 Conservez l'alt text entre 80 et 125 caractères pour éviter la troncature par les lecteurs d'écran comme JAWS ou NVDA. N'utilisez jamais "image de" ou "photo de". Utilisez `alt=""` pour les images purement décoratives. Priorisez la finalité et le contexte de l'image dans le texte environnant plutôt qu'une description visuelle littérale.
  Intégrez le mot-clé cible naturellement, sans le forcer.
 
-### L'alt text est-il un facteur de classement SEO direct pour Google ?
+### L'alt text est-il un facteur de classement SEO direct pour Google ? {#l-alt-text-est-il-un-facteur-de-classement-seo-direct-pour}
 
 L'alt text est un facteur de classement pour les images, pas un facteur SEO on-page au sens général du classement web. Il peut aider votre image à apparaître plus haut dans les résultats d'images, mais n'influence pas directement le classement de votre page dans Google.
  Il renforce cependant la pertinence thématique globale de la page, et joue un rôle croissant dans la visibilité au sein des AI Overviews.
 
-### Quelle est la différence entre un alt text et une légende d'image ?
+### Quelle est la différence entre un alt text et une légende d'image ? {#quelle-est-la-difference-entre-un-alt-text-et-une-legende-d}
 
 L'alt text est un attribut HTML invisible à l'écran (`alt=""`), destiné aux moteurs de recherche et aux lecteurs d'écran. La légende (`<figcaption>`) est un texte visible par tous les utilisateurs, remplissant un objectif éditorial. 
 Google utilise l'alt text avec ses algorithmes de vision par ordinateur et le contenu de la page pour comprendre le sujet de l'image.
  Les deux sont complémentaires, aucun ne remplace l'autre.
 
-### Comment auditer les alt texts manquants sur mon site ?
+### Comment auditer les alt texts manquants sur mon site ? {#comment-auditer-les-alt-texts-manquants-sur-mon-site}
 
 L'outil WAVE Evaluation Tool (WebAIM) détecte les images sans alt text et les descriptions douteuses directement dans le navigateur. 
 Les outils automatisés comme WAVE ne détectent qu'environ 30 à 40 % des problèmes WCAG réels. Le reste nécessite un jugement humain, des tests avec des technologies d'assistance et une interaction utilisateur réelle pour être mis en évidence.

@@ -23,7 +23,7 @@ publisher: "BlotMKT - Antoine Blot"
 ---
 # Algorithmes de recommandation : comprendre, optimiser et exemples concrets
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Définition et mécanisme d'un algorithme de recommandation](#definition-et-mecanisme)
 - [Comparaison des types : filtrage collaboratif, basé sur le contenu et hybride](#comparaison-des-types)
 - [Optimisation des algorithmes pour l'expérience et les conversions](#optimisation)
@@ -185,24 +185,24 @@ Comme l'explique Antoine Blot, la convergence entre GEO (Generative Engine Optim
 
 ## Questions fréquentes {#questions-frequentes}
 
-### Pourquoi les algorithmes de recommandation sont-ils si importants aujourd'hui ?
+### Pourquoi les algorithmes de recommandation sont-ils si importants aujourd'hui ? {#pourquoi-les-algorithmes-de-recommandation-sont-ils-si}
 
 Selon une étude Salesforce (2025), 51 % des interactions e-commerce impliquent déjà une couche d'IA.
  
 Amazon génère environ 35 % de son chiffre d'affaires grâce à son moteur de recommandation.
  Ces systèmes ne sont plus un avantage concurrentiel : ils sont devenus une condition de base pour rester dans la course en e-commerce, streaming et médias.
 
-### Comment choisir le bon type d'algorithme pour mon entreprise ?
+### Comment choisir le bon type d'algorithme pour mon entreprise ? {#comment-choisir-le-bon-type-d-algorithme-pour-mon-entreprise}
 
 Posez-vous deux questions : votre catalogue dépasse-t-il 100 produits ? Avez-vous plus de 1 000 visiteurs par mois ? Si oui aux deux, un filtrage collaboratif item-based est un point de départ solide. Si votre catalogue est récent ou vos utilisateurs peu nombreux, le cold start problem rendra inutile toute approche collaborative. Privilégiez alors une approche basée sur le contenu, ou une règle manuelle, le temps d'accumuler des données d'apprentissage suffisantes.
 
-### L'A/B testing est-il vraiment indispensable pour les recommandations ?
+### L'A/B testing est-il vraiment indispensable pour les recommandations ? {#l-a-b-testing-est-il-vraiment-indispensable-pour-les}
 
 Oui, sans exception. 
 Les algorithmes de Netflix sont hautement automatisés et réalisent des milliers de tests A/B par jour.
  À votre échelle, un test bi-hebdomadaire minimum reste la norme. Un algorithme non testé dérive silencieusement : les métriques de précision et de rappel semblent stables alors que l'engagement réel chute. Le test continu est la seule façon de détecter ce type de dérive avant qu'elle n'impacte le chiffre d'affaires.
 
-### Les petits sites peuvent-ils utiliser des algorithmes de recommandation ?
+### Les petits sites peuvent-ils utiliser des algorithmes de recommandation ? {#les-petits-sites-peuvent-ils-utiliser-des-algorithmes-de}
 
 En 2026, la personnalisation est accessible aux PME grâce à des modules IA abordables.
  
@@ -226,6 +226,6 @@ FAQ_JSON-->
 
 - [AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix](https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
 - [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
-- [Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité](https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo.html)

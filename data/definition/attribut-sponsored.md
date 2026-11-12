@@ -46,7 +46,7 @@ Chaque lien commercial non déclaré est une bombe à retardement dans votre [Pr
 
 ---
 
-## Attribut sponsored : définition et enjeux pour le SEO {#attribut-sponsored-definition-et-enjeux-pour-le-seo}
+## Attribut sponsored : définition et enjeux pour le SEO
 
 `rel="sponsored"` a été introduit par Google en 2019 pour distinguer les liens sponsorisés des liens naturels. Cette valeur s'applique aux liens qui résultent d'un arrangement commercial : publicité, affiliation, ou tout partenariat rémunéré.
 
@@ -59,7 +59,7 @@ En signalant un lien comme sponsorisé, vous respectez les consignes Google sur 
 
 ---
 
-## Sponsored vs. nofollow vs. ugc : comprendre les différences {#sponsored-vs-nofollow-vs-ugc-comprendre-les-differences}
+## Sponsored vs. nofollow vs. ugc : comprendre les différences
 
 Vrai ou faux : `rel="nofollow"` suffit pour un lien d'affiliation en 2026 ? Faux. Google préfère explicitement `rel="sponsored"` pour les liens payants depuis septembre 2019.
 
@@ -81,7 +81,7 @@ Google souhaite que ces nouvelles valeurs d'attribut remplacent l'utilisation de
 
 ---
 
-## Implémentation technique de l'attribut sponsored {#implementation-technique-de-lattribut-sponsored}
+## Implémentation technique de l'attribut sponsored
 
 Insérez l'attribut directement dans la balise `<a>` : `<a href="url" rel="sponsored">texte du lien</a>`.
 
@@ -104,7 +104,7 @@ Vous pouvez combiner `rel="sponsored nofollow"` si vous souhaitez ne pas transme
 
 ---
 
-## Impact de l'attribut sponsored sur le référencement {#impact-de-lattribut-sponsored-sur-le-referencement}
+## Impact de l'attribut sponsored sur le référencement
 
 Selon Antoine Blot, l'erreur classique est de croire que `rel="sponsored"` pénalise le site émetteur. C'est l'inverse : ne pas l'utiliser sur un lien commercial expose à une pénalité manuelle, quand l'utiliser correctement protège la crédibilité du profil de liens.
 
@@ -119,7 +119,7 @@ Maintenir une séparation nette entre liens éditoriaux et liens commerciaux ass
 
 ---
 
-## Cas d'usage concrets de l'attribut sponsored {#cas-dusage-concrets-de-lattribut-sponsored}
+## Cas d'usage concrets de l'attribut sponsored
 
 Pour les liens affiliés, Google demande aux sites participant à des programmes d'affiliation de qualifier correctement ces liens en utilisant `rel="sponsored"`, que ces liens aient été créés manuellement ou de manière dynamique.
  Cela inclut Amazon Associates, Awin, ShareASale et tout programme générant une commission au clic ou à la vente.
@@ -137,7 +137,7 @@ un blogueur qui publie un article contenant un lien vers une marque avec une ré
 
 ---
 
-## Conséquences de la non-conformité : risques techniques et légaux {#consequences-de-la-non-conformite-risques-techniques-et-legaux}
+## Conséquences de la non-conformité : risques techniques et légaux
 
 Google rappelle qu'en ne suivant pas ces règles, les sites s'exposent à des pénalités manuelles ou algorithmiques, qui peuvent affecter leur classement voire les bannir des résultats de recherche.
 
@@ -153,7 +153,7 @@ J'observe que beaucoup d'équipes marketing pensent que l'une des deux conformit
 
 ---
 
-## Double conformité : attribut sponsored et transparence légale {#double-conformite-attribut-sponsored-et-transparence-legale}
+## Double conformité : attribut sponsored et transparence légale
 
 Dans la méthodologie BlotMKT, je recommande systématiquement la double couverture sur tous les projets que je pilote. L'un protège la conformité technique, l'autre protège la crédibilité auprès des lecteurs et des régulateurs.
 
@@ -171,7 +171,7 @@ Je le répète souvent à mes clients : conformité légale et conformité techn
 
 ---
 
-## Questions fréquentes sur l'attribut sponsored {#questions-frequentes-sur-lattribut-sponsored}
+## Questions fréquentes sur l'attribut sponsored
 
 ### Comment vérifier si un lien est correctement tagué `rel="sponsored"` ?
 

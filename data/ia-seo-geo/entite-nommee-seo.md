@@ -48,7 +48,7 @@ Votre contenu cible des mots-clés, mais Google lit vos pages autrement. Il iden
 
 ---
 
-## Qu'est-ce qu'une entité nommée en SEO ? {#definition-entite-nommee-seo}
+## Qu'est-ce qu'une entité nommée en SEO ?
 
 Une entité nommée est un concept, un objet, une personne, un lieu ou une idée qui est unique, distincte et bien définie.
  
@@ -66,7 +66,7 @@ En tant que consultant SEO, j'explique à mes clients que la différence entre m
 
 ---
 
-## Comment fonctionne l'identification des entités nommées par les moteurs de recherche ? {#mecanisme-identification}
+## Comment fonctionne l'identification des entités nommées par les moteurs de recherche ?
 
 Avec l'avènement de l'algorithme MUM et l'intégration croissante de l'IA générative (AI Overview), Google a opéré une mutation radicale : le passage des "strings" (chaînes de caractères) aux "things" (choses, concepts, entités).
 
@@ -83,7 +83,7 @@ En travaillant avec des entreprises québécoises, je constate que la majorité 
 
 ---
 
-## Les avantages concrets de l'utilisation des entités nommées en SEO {#avantages-entites}
+## Les avantages concrets de l'utilisation des entités nommées en SEO
 
 Les entités réduisent l'ambiguïté, renforcent la qualité perçue et permettent à Google de relier votre contenu à son Knowledge Graph. Une stratégie basée sur les entités améliore la visibilité thématique, évite la cannibalisation et capte une longue traîne beaucoup mieux qualifiée.
 
@@ -96,7 +96,7 @@ Ce que j'observe chez mes clients : les pages structurées autour d'entités nom
 
 ---
 
-## Les erreurs à éviter dans l'optimisation des entités nommées {#erreurs-a-eviter}
+## Les erreurs à éviter dans l'optimisation des entités nommées
 
 La première erreur est le sur-emploi mécanique des entités. Répéter "Apple Inc.", "Tim Cook" et "iPhone" sans construire de relations sémantiques entre eux ne produit pas d'effet. 
 Plus votre contenu couvre les attributs d'une entité (dates, prix, fondateurs, spécificités techniques) et ses relations avec d'autres entités pertinentes, plus Google lui attribue un score de confiance.
@@ -111,7 +111,7 @@ Mon expérience montre que le manque de profondeur reste la faute la plus fréqu
 
 ---
 
-## Preuves de l'impact des entités nommées sur le ROI SEO {#preuves-roi}
+## Preuves de l'impact des entités nommées sur le ROI SEO
 
 Sur un site institutionnel en 2026, structurer les pages autour d'entités nommées reconnues par le Knowledge Graph a réduit l'ambiguïté sémantique et augmenté les impressions en recherche de 29 %. Ce résultat, que je documente dans mes mandats chez [antoine-blot.com/consultant-seo/](https://www.antoine-blot.com/consultant-seo/), est cohérent avec les tendances que j'observe chez l'ensemble de mes clients.
 
@@ -124,7 +124,7 @@ Sur les projets que je pilote, les KPIs qui bougent le plus rapidement après un
 
 ---
 
-## Outils et techniques pour identifier et optimiser les entités nommées {#outils-techniques}
+## Outils et techniques pour identifier et optimiser les entités nommées
 
 Trois niveaux d'outillage existent pour travailler les entités nommées en SEO.
 
@@ -142,7 +142,7 @@ Plus vous fournirez de triplets sémantiques clairs (Sujet > Verbe > Objet) dans
 
 ---
 
-## L'évolution de l'importance des entités nommées en SEO d'ici 2026 {#evolution-2026}
+## L'évolution de l'importance des entités nommées en SEO d'ici 2026
 
 Depuis 2024, et de façon accélérée en 2025 et 2026, la recherche bascule vers des interfaces de réponse : AI Overviews côté Google, et des moteurs "answer engine" comme Perplexity.
  Dans ce contexte, être une entité reconnue n'est plus optionnel.
@@ -155,7 +155,7 @@ En tant que spécialiste GEO, j'anticipe que les données structurées deviendro
 
 ---
 
-## FAQ : Réponses aux questions fréquentes sur les entités nommées en SEO {#questions-frequentes}
+## FAQ : Réponses aux questions fréquentes sur les entités nommées en SEO
 
 ### Comment trouver les entités nommées les plus pertinentes pour mon business ?
 
@@ -163,7 +163,7 @@ Commencez par analyser votre contenu existant via Google Natural Language API, q
 
 ### Quelle est la différence entre entité nommée et mot-clé de longue traîne ?
 
-Un mot-clé de longue traîne est une chaîne de caractères précise ("meilleur [Consultant SEO Montréal](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)"). 
+Un mot-clé de longue traîne est une chaîne de caractères précise ("meilleur [consultant SEO Montréal](https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html)"). 
 Google traite les entités comme des choses du monde réel avec une identité, tandis que les mots-clés sont de simples chaînes de texte. Une entité a des attributs, des relations et un sens stable. Un mot-clé peut signifier des choses différentes selon le contexte.
  Les deux se complètent : le mot-clé capte l'intention ; l'entité ancre la page dans le Knowledge Graph.
 
@@ -186,5 +186,5 @@ Suivez quatre KPIs dans Google Search Console : les impressions totales (signe q
 - [AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix](https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
-- [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)

@@ -27,7 +27,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # GEO : le guide complet pour dominer la recherche boostée par l'IA
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce que le GEO (Generative Engine Optimization) ?](#quest-ce-que-le-geo)
 - [GEO vs. SEO traditionnel : différences et synergies essentielles](#geo-vs-seo-traditionnel)
 - [Stratégies clés pour une implémentation GEO efficace et la visibilité AI](#strategies-cles)
@@ -144,17 +144,17 @@ Les pages optimisées pour l'IA qui incluent une réponse structurée courte et 
 
 ## Questions fréquentes {#questions-frequentes}
 
-### Quels outils sont essentiels pour mettre en œuvre une stratégie GEO ?
+### Quels outils sont essentiels pour mettre en œuvre une stratégie GEO ? {#quels-outils-sont-essentiels-pour-mettre-en-uvre-une}
 
 Les tactiques sont accessibles : structurer le contenu pour répondre directement aux questions, inclure des données originales, construire l'autorité de l'auteur, obtenir des citations tierces et publier régulièrement. La mesure est disponible dès aujourd'hui via GA4 et des audits manuels de citations.
  Pour les tests pratiques, ChatGPT, Perplexity et Gemini suffisent. Des outils comme Semrush AI SEO Toolkit aident à passer à l'échelle, mais ne sont pas requis pour débuter.
 
-### Combien de temps faut-il pour voir les résultats d'une stratégie GEO ?
+### Combien de temps faut-il pour voir les résultats d'une stratégie GEO ? {#combien-de-temps-faut-il-pour-voir-les-resultats-d-une}
 
 Mon expérience montre qu'une stratégie GEO dédiée nécessite 3 à 5 semaines minimum avant d'observer des résultats mesurables dans les citations IA. C'est le délai incompressible pour que les crawlers IA réévaluent le contenu restructuré. 
 Les marques qui investissent dans le GEO en 2026 seront les marques que les systèmes IA citeront en 2027 et au-delà - l'autorité de citation, comme l'autorité de domaine, se capitalise dans le temps.
 
-### Le SEO et le GEO sont-ils vraiment complémentaires ?
+### Le SEO et le GEO sont-ils vraiment complémentaires ? {#le-seo-et-le-geo-sont-ils-vraiment-complementaires}
 
 La stratégie optimale en 2026 combine SEO, AEO et GEO en couches complémentaires.
  
@@ -178,5 +178,5 @@ Même en top 3 sur Google, les AI Overviews peuvent amputer votre trafic d'envir
 - [AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix](https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
-- [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)

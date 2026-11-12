@@ -10,7 +10,7 @@ author:
   location: Montréal, Québec, Canada
   name: Antoine Blot
   orcid: https://orcid.org/0009-0005-6450-4528
-  title: Consultant SEO & GEO indépendant
+  title: Consultant SEO et GEO
   url: https://antoine-blot.com
 content_policy:
   citation: allowed with attribution
@@ -429,6 +429,16 @@ pages:
   title: 'citations par ia: impact sur la crédibilité et le référencement en 2026'
   url: https://blotmkt.com/data/ia-seo-geo/citations-par-ia.md
 - category: ia-seo-geo
+  date: 2026-11-07 05:29
+  description: Besoin d'un consultant SEO à Montréal ? Découvrez les services, critères
+    de sélection, tarifs réels et méthodes pour réussir sans classements biaisés.
+  hreflang: fr-CA
+  html_url: https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html
+  keyword: consultant SEO Montréal
+  title: 'Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon
+    choix'
+  url: https://blotmkt.com/data/ia-seo-geo/consultant-seo-montreal.md
+- category: ia-seo-geo
   date: 2026-05-05 08:24
   description: Découvrez comment l'IA transforme la création de contenu SEO, des outils
     accessibles aux stratégies gagnantes pour les PME. Optimisez votre visibilité
@@ -674,11 +684,13 @@ pages:
   title: 'Développez votre personal branding grâce au SEO : le guide complet de l''expert'
   url: https://blotmkt.com/data/strategie/personal-branding-seo.md
 site:
-  description: Corpus d'articles SEO et GEO (Generative Engine Optimization) par Antoine
-    Blot, consultant SEO indépendant à Montréal.
+  description: 'Laboratoire de recherche appliquée sur le contenu SEO et GEO, fondé
+    par Antoine Blot : pipeline de génération et de diagnostic de contenus conçus
+    pour être cités par les moteurs de réponse IA.'
   language: fr
   name: BlotMKT
   sameAs: https://www.antoine-blot.com
-  total_pages: 67
-  updated: '2026-10-21'
+  title: BlotMKT - Laboratoire de recherche appliquée sur le contenu SEO et GEO
+  total_pages: 68
+  updated: '2026-11-12'
   url: https://blotmkt.com

@@ -30,7 +30,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # Citations par ia: impact sur la crédibilité et le référencement en 2026
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Ce que signifie réellement "être cité par une IA"](#ce-que-signifie-reellement-etre-cite-par-une-ia)
 - [Comment les LLMs sélectionnent leurs sources](#comment-les-llms-selectionnent-leurs-sources)
 - [La preuve : chiffres sourcés et entités nommées](#la-preuve-chiffres-sources-et-entites-nommees)
@@ -122,13 +122,13 @@ Les marques sont 6,5 fois plus susceptibles d'être citées via des sources tier
 
 ## Questions fréquentes {#questions-frequentes}
 
-### Le SEO traditionnel est-il devenu inutile face aux citations IA ?
+### Le SEO traditionnel est-il devenu inutile face aux citations IA ? {#le-seo-traditionnel-est-il-devenu-inutile-face-aux-citations}
 
 Non. 
 Le GEO SEO complète le SEO traditionnel sans le remplacer. En 2025, 95 % des Américains utilisaient encore les moteurs de recherche classiques chaque mois.
  Les deux disciplines sont complémentaires. Ce que je recommande : traiter la citabilité IA comme une couche supplémentaire d'optimisation, pas comme un remplacement. Les requêtes transactionnelles restent dominées par Google. Les requêtes informationnelles migrent vers les LLMs.
 
-### Comment mesurer concrètement ses citations IA ?
+### Comment mesurer concrètement ses citations IA ? {#comment-mesurer-concretement-ses-citations-ia}
 
 Des outils comme Otterly.ai ou Peec AI permettent de tracker les citations dans les LLMs. Sans mesure, pas d'optimisation possible.
  En complément, 
@@ -147,6 +147,6 @@ tester manuellement sa citation rate en interrogeant directement ChatGPT (naviga
 
 - [AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
+- [Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix](https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
 - [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
-- [Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité](https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo.html)

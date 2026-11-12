@@ -48,7 +48,7 @@ Votre site publie du bon contenu. Pourtant, dans les résultats Google, il appar
 
 ---
 
-## Comprendre les données structurées : la fondation de la sémantique web {#comprendre}
+## Comprendre les données structurées : la fondation de la sémantique web
 
 Les données structurées représentent un format standardisé permettant d'organiser et d'étiqueter le contenu de vos pages web pour que les moteurs de recherche le comprennent sans ambiguïté.
  Sans ce balisage, Google lit vos mots mais n'en saisit pas nécessairement le sens. Il voit "45" sans savoir si c'est un prix, un délai ou une note.
@@ -65,7 +65,7 @@ Dans ma pratique, je constate que beaucoup d'équipes SEO confondent encore donn
 
 ---
 
-## Mécanisme d'interprétation : comment Google et les IA lisent vos données {#mecanisme}
+## Mécanisme d'interprétation : comment Google et les IA lisent vos données
 
 Lorsque Googlebot explore une page, il lit le bloc JSON-LD inséré dans le `<head>`. 
 Les rich snippets sont le résultat visible dans les SERPs quand Google détecte, valide et décide d'afficher vos données structurées : les étoiles, les FAQ dépliables, les prix, les dates d'événement.
@@ -78,7 +78,7 @@ J'observe que les pages auteur détaillées combinant un schéma `Person` valide
 
 ---
 
-## L'implémentation technique : guide pas à pas avec JSON-LD {#implementation}
+## L'implémentation technique : guide pas à pas avec JSON-LD
 
 JSON-LD est le format recommandé par Google, car il est le plus récent et le plus facile à implémenter. Il permet de séparer les données structurées du reste du code HTML, ce qui simplifie leur gestion.
 
@@ -98,7 +98,7 @@ Sur les projets que je pilote, je priorise toujours les types qui déclenchent d
 
 ---
 
-## Avantages concrets : rich snippets, CTR et expérience utilisateur {#avantages}
+## Avantages concrets : rich snippets, CTR et expérience utilisateur
 
 L'avantage le plus direct des données structurées est la visibilité et le taux de clics accrus. Les résultats enrichis sont plus grands, plus visuels et se démarquent de la concurrence.
 
@@ -114,7 +114,7 @@ Ce que je constate chez mes clients : un résultat enrichi en position 4 génèr
 
 ---
 
-## Preuve d'efficacité : l'impact sur l'E-E-A-T et la crédibilité {#preuve}
+## Preuve d'efficacité : l'impact sur l'E-E-A-T et la crédibilité
 
 En 2026, l'ajout de données structurées Schema.org valides sur 45 pages de service a permis à un site québécois d'obtenir des rich results sur 28 d'entre elles, augmentant le CTR moyen de 42 %. Ce cas est documenté dans mes [ressources SEO](https://www.antoine-blot.com/ressources-seo/).
 
@@ -127,7 +127,7 @@ Mon expérience montre que les pages qui combinent contenu de qualité, balisage
 
 ---
 
-## Erreurs fréquentes et pièges à éviter dans l'optimisation {#erreurs}
+## Erreurs fréquentes et pièges à éviter dans l'optimisation
 
 Avoir des données structurées valides ne garantit pas l'obtention de rich snippets. Google se réserve le droit de les afficher ou non selon la qualité globale de la page, sa popularité et le contexte de la requête. En revanche, sans données structurées valides, vous n'aurez jamais de rich snippets.
 
@@ -143,7 +143,7 @@ En travaillant avec des entreprises québécoises, je vois régulièrement des s
 
 ---
 
-## Perspectives 2026 : données structurées, IA et l'avenir de la recherche {#perspectives}
+## Perspectives 2026 : données structurées, IA et l'avenir de la recherche
 
 Les contenus bien structurés sont mieux compris, mieux résumés et potentiellement mieux cités dans les Google AI Overviews.
  C'est le changement le plus structurant pour le SEO en 2026.
@@ -159,7 +159,7 @@ J'observe que les sites qui investissent dans le balisage sémantique aujourd'hu
 
 ---
 
-## FAQ : vos questions fréquentes sur les données structurées {#questions-frequentes}
+## FAQ : vos questions fréquentes sur les données structurées
 
 ### Comment vérifier l'implémentation des données structurées ?
 

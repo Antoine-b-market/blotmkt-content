@@ -1,9 +1,9 @@
 {
   "openapi": "3.1.0",
   "info": {
-    "title": "BlotMKT — Observatoire SEO & GEO par Antoine Blot",
-    "description": "Corpus de 67 articles techniques sur le SEO, le GEO (Generative Engine Optimization) et le référencement naturel, rédigés par Antoine Blot, consultant SEO indépendant à Montréal. ORCID : https://orcid.org/0009-0005-6450-4528",
-    "version": "2026-10-21",
+    "title": "BlotMKT - Laboratoire de recherche appliquée sur le contenu SEO et GEO",
+    "description": "Laboratoire de recherche appliquée sur le contenu SEO et GEO, fondé par Antoine Blot : pipeline de génération et de diagnostic de contenus conçus pour être cités par les moteurs de réponse IA. Corpus de 68 articles sur le SEO, le GEO (Generative Engine Optimization) et le référencement naturel, rédigés par Antoine Blot, consultant SEO et GEO au Québec. ORCID : https://orcid.org/0009-0005-6450-4528",
+    "version": "2026-11-12",
     "contact": {
       "name": "Antoine Blot",
       "url": "https://www.antoine-blot.com",
@@ -1882,6 +1882,50 @@
         "summary": "citations par ia: impact sur la crédibilité et le référencement en 2026",
         "description": "Découvrez l'impact des citations par IA sur la recherche, la crédibilité et le SEO en 2026. Guide expert pour optimiser votre visibilité auprès des LLMs.",
         "operationId": "citations-par-ia-md",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/ia-seo-geo/consultant-seo-montreal.html": {
+      "get": {
+        "summary": "Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix",
+        "description": "Besoin d'un consultant SEO à Montréal ? Découvrez les services, critères de sélection, tarifs réels et méthodes pour réussir sans classements biaisés.",
+        "operationId": "consultant-seo-montreal",
+        "tags": [
+          "ia-seo-geo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/ia-seo-geo/consultant-seo-montreal.md": {
+      "get": {
+        "summary": "Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix",
+        "description": "Besoin d'un consultant SEO à Montréal ? Découvrez les services, critères de sélection, tarifs réels et méthodes pour réussir sans classements biaisés.",
+        "operationId": "consultant-seo-montreal-md",
         "tags": [
           "ia-seo-geo"
         ],

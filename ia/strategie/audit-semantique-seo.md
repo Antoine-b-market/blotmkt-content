@@ -23,7 +23,7 @@ publisher: "BlotMKT - Antoine Blot"
 ---
 # Audit sémantique SEO : la clé d'une stratégie performante à l'ère des IA et du GEO
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce que l'audit sémantique SEO et pourquoi est-il crucial ?](#quest-ce-que-laudit-semantique-seo-et-pourquoi-est-il-crucial)
 - [Méthodologie de l'audit sémantique : les étapes clés pour structurer votre site](#methodologie-de-laudit-semantique-les-etapes-cles-pour-structurer-votre-site)
 - [Audit sémantique : quels bénéfices et cas d'usage concrets ?](#audit-semantique-quels-benefices-et-cas-dusage-concrets)
@@ -169,23 +169,23 @@ Les bonnes pratiques SEO classiques sont la base de l'optimisation pour la reche
 
 ## Questions fréquentes sur l'audit sémantique SEO {#questions-frequentes-sur-laudit-semantique-seo}
 
-### Quelle est la différence principale entre un audit de contenu et un audit sémantique ?
+### Quelle est la différence principale entre un audit de contenu et un audit sémantique ? {#quelle-est-la-difference-principale-entre-un-audit-de}
 
 Un audit de contenu évalue les pages existantes : trafic, engagement, date de mise à jour, doublons. Un audit sémantique définit ce que le site devrait couvrir en fonction des intentions de recherche et des entités thématiques de son secteur. L'audit de contenu dit "que valent vos pages actuelles". L'audit sémantique dit "quoi produire, pour qui, et comment structurer le tout". Les deux sont complémentaires, l'ordre logique est sémantique d'abord.
 
-### À quelle fréquence doit-on réaliser un audit sémantique sur son site web ?
+### À quelle fréquence doit-on réaliser un audit sémantique sur son site web ? {#a-quelle-frequence-doit-on-realiser-un-audit-semantique-sur}
 
 J'observe dans ma pratique qu'un audit sémantique complet tous les 12 à 18 mois est un rythme adapté pour les PME actives. Un audit partiel, centré sur les pages stratégiques ou les nouvelles cibles, peut intervenir à chaque changement d'algorithme majeur ou lancement de nouvelle offre. 
 Google a publié quatre mises à jour algorithmiques en 2025.
  La vélocité du search génératif renforce encore ce besoin de révision régulière.
 
-### L'audit sémantique est-il accessible aux petites entreprises et aux PME ?
+### L'audit sémantique est-il accessible aux petites entreprises et aux PME ? {#l-audit-semantique-est-il-accessible-aux-petites-entreprises}
 
 Oui, à condition d'en calibrer la portée. Une PME n'a pas besoin d'analyser 10 000 mots-clés. Un audit sémantique ciblé sur 3 à 5 topics prioritaires, réalisé avec Google Search Console et Semrush, suffit pour identifier les lacunes les plus coûteuses. 
 74 % des petites entreprises investissent dans le SEO, avec des coûts mensuels moyens de 497 dollars.
  Le vrai investissement n'est pas l'outil, mais la rigueur de l'analyse et la qualité du plan d'action qui en découle.
 
-### Comment mesurer le ROI d'un audit sémantique pour justifier l'investissement ?
+### Comment mesurer le ROI d'un audit sémantique pour justifier l'investissement ? {#comment-mesurer-le-roi-d-un-audit-semantique-pour-justifier}
 
 Trois métriques suffisent : progression des positions sur les requêtes cibles via Google Search Console, évolution du trafic organique qualifié, et taux de conversion sur les pages optimisées. Dans la méthodologie d'Antoine Blot, les sites audités avant production atteignent leurs positions cibles 2,3 fois plus vite que les sites qui publient sans cartographie. 
 Le canal organique coûte environ 31 dollars par lead, contre 181 dollars en publicité payante, soit 5,8 fois plus de leads par dollar dépensé.

@@ -47,7 +47,7 @@ Votre forum, vos avis clients, vos commentaires de blog génèrent des dizaines 
 
 ---
 
-## Qu'est-ce qu'un lien UGC et pourquoi est-ce important pour le SEO ? {#quest-ce-quun-lien-ugc-et-pourquoi-est-ce-important-pour-le-seo}
+## Qu'est-ce qu'un lien UGC et pourquoi est-ce important pour le SEO ?
 
 L'attribut `rel="ugc"` (User Generated Content) identifie les liens insérés par des tiers sur un site, typiquement dans un commentaire ou dans un post sur un forum.
  Google l'a introduit en septembre 2019, aux côtés de `rel="sponsored"`, pour affiner la classification des liens sortants.
@@ -63,7 +63,7 @@ En tant que consultant SEO, je constate que la majorité des plateformes communa
 
 ---
 
-## Les avantages concrets des liens UGC pour votre stratégie SEO {#les-avantages-concrets-des-liens-ugc-pour-votre-strategie-seo}
+## Les avantages concrets des liens UGC pour votre stratégie SEO
 
 Un profil de liens 100 % éditorial peut paraître artificiel aux yeux de Google. Les liens UGC apportent une dimension organique mesurable. 
 Quand les liens entrants pointant vers votre site sont de bonne qualité, vous obtenez un bon trust flow. Google utilise l'algorithme PageRank pour définir la popularité d'une page web ; plus votre site a d'autorité, plus votre visibilité dans les résultats grimpe.
@@ -74,7 +74,7 @@ Mon expérience montre également que les avis clients balisés en UGC deviennen
 
 ---
 
-## Comment obtenir des liens UGC de manière éthique et durable ? {#comment-obtenir-des-liens-ugc-de-maniere-ethique-et-durable}
+## Comment obtenir des liens UGC de manière éthique et durable ?
 
 Obtenir des liens UGC pertinents ne s'improvise pas. Voici les quatre actions qui produisent des résultats concrets.
 
@@ -88,7 +88,7 @@ Un lien gagné de qualité est un signal de confiance et d'autorité, même lors
 
 ---
 
-## Liens UGC vs. autres types de liens : quelles différences et complémentarités ? {#liens-ugc-vs-autres-types-de-liens-quelles-differences-et-complementarites}
+## Liens UGC vs. autres types de liens : quelles différences et complémentarités ?
 
 | Attribut | Origine | Transfert de PageRank | Usage |
 |---|---|---|---|
@@ -107,7 +107,7 @@ Il est possible de combiner plusieurs valeurs : `rel="sponsored ugc"` ou `rel="u
 
 ---
 
-## Comment détecter et gérer les liens UGC spammy ou de mauvaise qualité ? {#comment-detecter-et-gerer-les-liens-ugc-spammy-ou-de-mauvaise-qualite}
+## Comment détecter et gérer les liens UGC spammy ou de mauvaise qualité ?
 
 Sur un site communautaire audité en 2026, l'absence de l'attribut UGC sur 200 liens générés par les utilisateurs exposait le domaine à une dilution de profil de liens, corrigée par un déploiement automatisé en 72 heures. Ce cas réel illustre la rapidité avec laquelle une correction technique peut stabiliser un profil. Retrouvez les protocoles d'audit détaillés dans mes [ressources SEO](https://www.antoine-blot.com/ressources-seo/).
 
@@ -118,7 +118,7 @@ Les techniques de modération efficaces incluent : filtrage automatique des URL 
 
 ---
 
-## L'avenir des liens UGC : évolutions et perspectives pour 2026 {#lavenir-des-liens-ugc-evolutions-et-perspectives-pour-2026}
+## L'avenir des liens UGC : évolutions et perspectives pour 2026
 
 Ces dernières années, Google a affiné la façon dont il analyse les liens pour mieux comprendre leur finalité. Trois attributs `rel` principaux sont utilisés pour qualifier les liens sortants, chacun avec un impact différent sur le SEO organique.
  La direction est claire : la [Provenance des données](https://blotmkt.com/ia/ia-seo-geo/provenance-des-donnees.html) devient un critère de classement à part entière.
@@ -129,7 +129,7 @@ En matière de [SEO local](https://blotmkt.com/ia/definition/seo-local.html), le
 
 ---
 
-## Questions fréquentes sur les liens UGC {#questions-frequentes-sur-les-liens-ugc}
+## Questions fréquentes sur les liens UGC
 
 ### L'attribut `rel="ugc"` a-t-il un impact sur le PageRank ?
 

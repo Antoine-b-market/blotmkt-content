@@ -27,7 +27,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # L'attribut nofollow : guide complet pour un SEO éthique
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Comprendre l'attribut nofollow : définition et fonctionnement](#comprendre)
 - [Dofollow vs nofollow : quel impact sur votre SEO ?](#dofollow-vs-nofollow)
 - [Quand et comment utiliser l'attribut nofollow correctement](#usage)
@@ -180,19 +180,19 @@ En tant que consultant SEO et GEO, j'observe une convergence : les liens nofollo
 
 ## Questions fréquentes sur l'attribut nofollow {#faq}
 
-### Faut-il utiliser l'attribut nofollow pour les liens internes ?
+### Faut-il utiliser l'attribut nofollow pour les liens internes ? {#faut-il-utiliser-l-attribut-nofollow-pour-les-liens-internes}
 
 Non, dans la quasi-totalité des cas. Nofollower un lien interne ne redistribue pas l'autorité vers d'autres pages - elle est perdue. 
 Le PageRank sculpting via nofollow ne fonctionne plus depuis 2009.
  Réservez le nofollow interne aux rares cas où une page est réellement inutile au crawl, comme une URL de déconnexion ou une page de panier vide.
 
-### L'attribut nofollow pénalise-t-il le SEO ?
+### L'attribut nofollow pénalise-t-il le SEO ? {#l-attribut-nofollow-penalise-t-il-le-seo}
 
 Réserver nofollow aux liens incontrôlables ou payants est conforme aux directives de Google et évite tout risque de signaler artificiellement une approbation.
  En revanche, l'appliquer de façon abusive sur tous les liens sortants peut nuire : 
 Google assumera alors que l'attribut a été "abusé" pour empêcher la transmission de confiance vers d'autres sources.
 
-### Comment vérifier si un lien est nofollow ?
+### Comment vérifier si un lien est nofollow ? {#comment-verifier-si-un-lien-est-nofollow}
 
 Examinez le code source HTML pour l'attribut `rel="nofollow"`, utilisez des extensions de navigateur comme NoFollow ou SEO Minion qui surlignent les liens nofollow visuellement, ou utilisez des outils SEO en ligne. La plupart des navigateurs modernes permettent d'inspecter les propriétés d'un élément directement en faisant un clic droit sur le lien et en affichant ses attributs HTML.
 

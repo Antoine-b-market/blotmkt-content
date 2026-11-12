@@ -30,7 +30,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # Indexation API Google : guide complet pour booster votre SEO
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce que l'Indexation API Google et pourquoi est-ce important ?](#definition)
 - [Comment fonctionne techniquement l'Indexation API Google ?](#mecanisme)
 - [Cas d'usage concrets : où et comment utiliser l'API d'indexation ?](#usage)
@@ -138,25 +138,25 @@ L'évolution attendue pointe vers une extension progressive des types de contenu
 
 ## FAQ : réponses aux questions fréquentes sur l'Indexation API Google {#questions-frequentes}
 
-### Comment gérer les erreurs 403 avec l'Indexation API ?
+### Comment gérer les erreurs 403 avec l'Indexation API ? {#comment-gerer-les-erreurs-403-avec-l-indexation-api}
 
 Une erreur 403 Forbidden indique un problème de permission sur le compte de service. La cause la plus fréquente : le compte de service a été ajouté comme "Utilisateur" dans Google Search Console au lieu du rôle "Owner". Vérifiez les paramètres de propriété dans Search Console, corrigez le rôle, et relancez la requête. Cette erreur HTTP ne nécessite pas de modifier le code de l'API.
 
-### L'API d'indexation remplace-t-elle le sitemap XML ?
+### L'API d'indexation remplace-t-elle le sitemap XML ? {#l-api-d-indexation-remplace-t-elle-le-sitemap-xml}
 
 Non. 
 L'API est recommandée plutôt que les sitemaps pour les contenus à durée de vie courte
 , comme les offres d'emploi ou les événements en direct. Le sitemap XML reste indispensable pour la couverture globale du site. La stratégie optimale combine les deux : sitemap pour les pages stables, API pour les contenus dynamiques qui changent dans les 24 à 48 heures suivant leur publication.
 
-### Comment optimiser le crawl mobile avec l'Indexation API Google ?
+### Comment optimiser le crawl mobile avec l'Indexation API Google ? {#comment-optimiser-le-crawl-mobile-avec-l-indexation-api}
 
 L'API accélère l'exploration, mais Googlebot utilise majoritairement son crawler mobile pour indexer les pages. Une page soumise via l'API mais non optimisée pour mobile sera crawlée, peut-être indexée, mais mal classée. Vérifiez les scores Core Web Vitals dans Google Search Console avant d'activer l'API. Le mobile-first indexing est la norme depuis 2018 : une page lente sur mobile pénalise directement sa capacité à bien se classer.
 
-### Comment intégrer l'API d'indexation avec WordPress ?
+### Comment intégrer l'API d'indexation avec WordPress ? {#comment-integrer-l-api-d-indexation-avec-wordpress}
 
 Sur WordPress, les plugins Rank Math et SEOPress intègrent nativement l'Indexation API Google. Après configuration du compte de service dans Google Cloud Platform et ajout des permissions dans Search Console, le plugin automatise les soumissions à chaque publication ou mise à jour de contenu. Cette intégration ne nécessite aucune ligne de code et réduit le délai d'indexation à moins de 24 heures pour les contenus éligibles.
 
-### L'API d'indexation est-elle payante ?
+### L'API d'indexation est-elle payante ? {#l-api-d-indexation-est-elle-payante}
 
 L'utilisation de l'Indexation API est disponible sans paiement.
  Le quota par défaut de 200 requêtes par jour est gratuit. Une augmentation de quota peut nécessiter la création d'un compte de facturation Google Cloud, mais l'API elle-même ne génère pas de coût direct pour les volumes standards. Les sites de recrutement ou d'événements avec un volume élevé de publications doivent planifier cette démarche en amont.

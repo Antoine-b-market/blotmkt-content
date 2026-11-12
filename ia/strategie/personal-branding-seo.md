@@ -23,7 +23,7 @@ publisher: "BlotMKT - Antoine Blot"
 ---
 # Développez votre personal branding grâce au SEO : le guide complet de l'expert
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce que le personal branding SEO et pourquoi est-il essentiel à l'ère numérique ?](#definition)
 - [Les lacunes du personal branding SEO au Québec : ce que révèle mon audit](#audit-quebec)
 - [Mettre en place une stratégie de personal branding SEO : les étapes fondamentales](#etapes)
@@ -187,25 +187,25 @@ J'observe dans ma pratique que les professionnels qui suivent ces quatre indicat
 
 ## Questions fréquentes sur le personal branding SEO {#questions-frequentes}
 
-### Comment développer son personal branding en tant qu'expert sur Google ?
+### Comment développer son personal branding en tant qu'expert sur Google ? {#comment-developper-son-personal-branding-en-tant-qu-expert}
 
 Commencez par taper votre nom sur Google et analyser les 10 premiers résultats. C'est votre audit de départ, gratuit. Définissez ensuite un positionnement thématique précis, créez un site personnel avec un balisage Schema.org Person, et publiez régulièrement du contenu expert. 
 L'IA façonne désormais la façon dont les gens vous découvrent : les moteurs de recherche et les plateformes mettent de plus en plus en avant les créateurs et professionnels qui démontrent une expertise réelle, pas seulement un profil soigné.
  Les spécialistes reconnus commandent des honoraires 13 fois supérieurs aux généralistes.
 
-### Quels sont les indicateurs clés pour suivre l'efficacité de son personal branding SEO ?
+### Quels sont les indicateurs clés pour suivre l'efficacité de son personal branding SEO ? {#quels-sont-les-indicateurs-cles-pour-suivre-l-efficacite-de}
 
 Quatre métriques suffisent : trafic organique de marque dans Google Search Console, volume de mentions via Ahrefs ou Google Alerts, positions SERP sur vos mots-clés d'expertise dans Semrush, et opportunités entrantes directement attribuables à votre visibilité. 
 Ajouter des statistiques à votre contenu peut augmenter votre visibilité IA de 22 %
 , un levier mesurable à intégrer dès la rédaction.
 
-### Faut-il un site web dédié pour son personal branding SEO ?
+### Faut-il un site web dédié pour son personal branding SEO ? {#faut-il-un-site-web-dedie-pour-son-personal-branding-seo}
 
 Oui, sans exception. Votre site personnel est la seule propriété numérique que vous contrôlez entièrement. 
 Les articles LinkedIn sont indexés par Google, ce qui signifie que votre contenu peut attirer du trafic externe depuis les résultats de recherche.
  Mais LinkedIn peut modifier ses règles ou fermer des fonctionnalités du jour au lendemain. Même le meilleur contenu structuré ne sera pas cité par un LLM si la page présente des problèmes techniques : temps de chargement lent, canoniques brisées ou Schema mal configuré. Avant d'investir dans une stratégie de citation IA, un audit SEO technique de base est indispensable.
 
-### Combien de temps faut-il pour voir des résultats avec le personal branding SEO ?
+### Combien de temps faut-il pour voir des résultats avec le personal branding SEO ? {#combien-de-temps-faut-il-pour-voir-des-resultats-avec-le}
 
 J'observe dans ma pratique que les premiers signaux apparaissent entre 60 et 90 jours pour les requêtes sur votre nom propre. Les mots-clés d'expertise, plus compétitifs, nécessitent 6 à 12 mois de publication cohérente. 
 Pour rester visible, vous devez maintenir votre contenu frais, précis et pertinent. C'est aussi ce que veulent les utilisateurs. Backlinko a par exemple obtenu une hausse de trafic organique de 70,43 % après avoir mis à jour un article en avril 2025.

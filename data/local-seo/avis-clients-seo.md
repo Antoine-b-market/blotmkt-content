@@ -155,7 +155,7 @@ Sur les projets que je pilote, j'intègre systématiquement un monitoring des ci
 
 ---
 
-## Questions fréquentes {#questions-frequentes}
+## Questions fréquentes
 
 ### Combien d'avis sont nécessaires pour un impact SEO significatif ?
 

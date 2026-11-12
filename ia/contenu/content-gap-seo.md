@@ -23,7 +23,7 @@ publisher: "BlotMKT - Antoine Blot"
 ---
 # Content gap SEO : comment identifier et combler les manques de contenu
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce qu'un content gap en SEO ?](#quest-ce-quun-content-gap-en-seo)
 - [Types de content gaps : intention, format, mots-clés](#types-de-content-gaps-intention-format-mots-cles)
 - [Comment identifier un content gap : les étapes clés](#comment-identifier-un-content-gap-les-etapes-cles)
@@ -203,25 +203,25 @@ Sur un domaine neuf, comptez 4 à 8 mois pour les premiers clics qualifiés. Sur
 
 ## Questions fréquentes {#questions-frequentes}
 
-### Comment savoir si mon site a un content gap ?
+### Comment savoir si mon site a un content gap ? {#comment-savoir-si-mon-site-a-un-content-gap}
 
 Exportez vos données Google Search Console et filtrez les requêtes avec plus de 500 impressions et un CTR inférieur à 3 %. Ces requêtes révèlent une visibilité sans conversion de clic : votre page apparaît mais ne répond pas suffisamment à l'intention. Croisez ensuite avec le Keyword Gap de Semrush en y entrant 3 à 5 concurrents directs. 
 Selon Ahrefs, 90,63 % des pages web ne reçoivent aucun trafic provenant de la recherche organique sur Google.
  Votre site a presque certainement des gaps.
 
-### Quels sont les risques de ne pas adresser un content gap ?
+### Quels sont les risques de ne pas adresser un content gap ? {#quels-sont-les-risques-de-ne-pas-adresser-un-content-gap}
 
 Ne pas combler ses gaps SEO, c'est laisser un concurrent s'installer durablement sur une requête que vous auriez pu capter. Plus le temps passe, plus la page concurrente accumule des backlinks et de l'autorité thématique. 
 Les pages classées en première position possèdent en moyenne 3,8 fois plus de backlinks que celles classées entre la 2e et la 10e place (Backlinko).
  Chaque mois d'inaction creuse un écart d'autorité difficile à rattraper.
 
-### L'analyse de content gap s'applique-t-elle aussi au contenu existant ?
+### L'analyse de content gap s'applique-t-elle aussi au contenu existant ? {#l-analyse-de-content-gap-s-applique-t-elle-aussi-au-contenu}
 
 Oui, et c'est là que réside souvent le meilleur ROI. comme l'explique Antoine Blot, l'analyse de content gap s'applique aussi bien au niveau domaine (mots-clés manquants) qu'au niveau page (sous-thèmes absents dans un article existant face aux pages mieux classées). 
 Des pages déjà positionnées en page 2 ne demandent souvent qu'un enrichissement ciblé pour basculer en page 1.
  Prioriser l'optimisation de l'existant avant la création nette est souvent la décision la plus rentable à court terme.
 
-### Faut-il des compétences techniques avancées pour une analyse de content gap ?
+### Faut-il des compétences techniques avancées pour une analyse de content gap ? {#faut-il-des-competences-techniques-avancees-pour-une-analyse}
 
 Pas pour démarrer. Google Search Console et Semrush permettent une première analyse sans compétences en développement. Cela dit, j'observe que les professionnels qui maîtrisent la lecture d'intention de recherche et l'analyse sémantique obtiennent des diagnostics bien plus précis. La technique d'analyse avancée, comme le croisement NLP via le SERP Gap Analyzer, demande une familiarité avec les concepts d'optimisation sémantique.
 

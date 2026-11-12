@@ -23,7 +23,7 @@ publisher: "BlotMKT - Antoine Blot"
 ---
 # Stratégie éditoriale SEO : bâtir une performance organique durable à l'ère de l'IA
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce qu'une stratégie éditoriale SEO et pourquoi est-elle cruciale ?](#definition)
 - [Pourquoi la plupart des stratégies éditoriales SEO échouent-elles ?](#echec)
 - [Les 6 piliers incontournables d'une stratégie éditoriale SEO performante](#piliers)
@@ -186,27 +186,27 @@ Comme l'explique Antoine Blot : les entreprises qui traitent le SEO comme une ta
 
 ## Questions fréquentes sur la stratégie éditoriale SEO {#questions-frequentes}
 
-### Qu'est-ce qu'un audit SEO technique et est-ce vraiment nécessaire ?
+### Qu'est-ce qu'un audit SEO technique et est-ce vraiment nécessaire ? {#qu-est-ce-qu-un-audit-seo-technique-et-est-ce-vraiment}
 
 Un audit SEO technique est un diagnostic complet des fondations d'un site : crawlabilité, indexation, vitesse, données structurées Schema.org, redirections et Core Web Vitals. Il est indispensable parce que 91,4 % des sites présentent des problèmes de redirection (Digidop, 2025). Sans audit préalable, toute optimisation de contenu repose sur des fondations défaillantes, ce qui limite les résultats et le retour sur investissement de la stratégie globale.
 
-### Comment les AI Overviews impactent-elles concrètement mon trafic organique ?
+### Comment les AI Overviews impactent-elles concrètement mon trafic organique ? {#comment-les-ai-overviews-impactent-elles-concretement-mon}
 
 Selon l'étude Seer Interactive de septembre 2025, le CTR organique a plongé de 61 %, passant de 1,76 % à 0,61 % pour les requêtes avec AI Overviews.
  
 Ahrefs confirme que la grande majorité des mots-clés informationnels déclenchent désormais un AI Overview.
  Vérifiez dans Google Search Console si vos impressions sont stables mais vos clics en baisse : c'est le signe classique de l'impact zero-click sur vos contenus.
 
-### Quelle est la différence entre rédaction SEO et SEO copywriting ?
+### Quelle est la différence entre rédaction SEO et SEO copywriting ? {#quelle-est-la-difference-entre-redaction-seo-et-seo}
 
 La rédaction SEO produit du contenu informationnel et éducatif pour construire la visibilité et l'autorité thématique d'un site. Le SEO copywriting cible la conversion : chaque phrase est construite pour déclencher un achat, une inscription ou un appel. En pratique, les deux se combinent : un article informatif bien structuré crée la confiance qui prépare la conversion. Le marketing de contenu orienté mots-clés transactionnels génère un ROI de 748 % (AIOSEO, 2026).
 
-### Quelles sont les stratégies pour rester visible dans un marché de recherche sans clic ?
+### Quelles sont les stratégies pour rester visible dans un marché de recherche sans clic ? {#quelles-sont-les-strategies-pour-rester-visible-dans-un}
 
 Près de 60 % de toutes les recherches Google se terminent désormais sans clic, avec 58,5 % aux États-Unis et 59,7 % en Europe selon Semrush (2025).
  Pour capter cette visibilité : implémenter le balisage Schema.org (FAQ, HowTo, Article), structurer les réponses directes en début de section, optimiser les titres H2 pour les People Also Ask, et mesurer votre Share of Voice dans les AI Overviews plutôt que seulement votre position.
 
-### L'investissement dans une stratégie éditoriale SEO est-il rentable à long terme ?
+### L'investissement dans une stratégie éditoriale SEO est-il rentable à long terme ? {#l-investissement-dans-une-strategie-editoriale-seo-est-il}
 
 Selon Antoine Blot, les entreprises qui traitent le SEO comme un système intégré et documenté, combinant technique, contenu et netlinking, obtiennent des résultats 2 à 3 fois supérieurs à celles qui l'abordent comme une tactique ponctuelle. Le SEO technique seul affiche un ROI d'environ 117 % à 6 mois (SEOProfy, 2026), et la combinaison SEO technique et contenu multiplie le trafic par 2,8 par rapport au contenu seul.
 

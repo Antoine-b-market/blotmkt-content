@@ -51,7 +51,7 @@ Le GEO, Generative Engine Optimization, optimise pour être cité dans une répo
 
 ---
 
-## Qu'est-ce que l'audit sémantique SEO et pourquoi est-il crucial ? {#quest-ce-que-laudit-semantique-seo-et-pourquoi-est-il-crucial}
+## Qu'est-ce que l'audit sémantique SEO et pourquoi est-il crucial ?
 
 Un audit sémantique SEO est une analyse approfondie du contenu d'un site web visant à optimiser sa stratégie éditoriale pour les utilisateurs et les moteurs de recherche. Il examine les mots-clés, les intentions de recherche, le trafic et les contenus afin d'identifier des actions concrètes pour créer des pages plus pertinentes.
 
@@ -63,7 +63,7 @@ Selon Antoine Blot, consultant SEO basé à [Montréal](https://www.antoine-blot
 
 ---
 
-## Méthodologie de l'audit sémantique : les étapes clés pour structurer votre site {#methodologie-de-laudit-semantique-les-etapes-cles-pour-structurer-votre-site}
+## Méthodologie de l'audit sémantique : les étapes clés pour structurer votre site
 
 Avant d'ouvrir le premier outil, il faut poser un cadre. Travailler la sémantique d'un site sans objectif défini revient à dessiner une carte sans savoir où aller.
 
@@ -81,7 +81,7 @@ Dans ma pratique, je commence systématiquement par l'étape 1 avant d'ouvrir Se
 
 ---
 
-## Audit sémantique : quels bénéfices et cas d'usage concrets ? {#audit-semantique-quels-benefices-et-cas-dusage-concrets}
+## Audit sémantique : quels bénéfices et cas d'usage concrets ?
 
 Dans ma pratique, j'ai mesuré que les sites ayant subi un audit sémantique complet avant toute production de contenu atteignent leurs positions cibles 2,3 fois plus vite que ceux qui publient sans cartographie préalable. Ce chiffre vient de mandats réels, pas d'études génériques.
 
@@ -96,7 +96,7 @@ Trois bénéfices concrets, dans l'ordre d'impact observé :
 
 ---
 
-## Audit sémantique vs. autres audits SEO : spécificités et complémentarités {#audit-semantique-vs-autres-audits-seo-specificites-et-complementarites}
+## Audit sémantique vs. autres audits SEO : spécificités et complémentarités
 
 **Vrai ou faux : "un audit de contenu remplace un audit sémantique."** Faux. L'audit de contenu évalue les pages existantes une à une. L'audit sémantique définit quoi cibler et comment structurer, avant ou en parallèle de la production. Les deux se complètent, dans cet ordre.
 
@@ -113,7 +113,7 @@ La vitesse et la technique comptent : une seconde de chargement supplémentaire 
 
 ---
 
-## Les outils indispensables pour un audit sémantique performant {#les-outils-indispensables-pour-un-audit-semantique-performant}
+## Les outils indispensables pour un audit sémantique performant
 
 Aucun outil unique ne couvre l'intégralité d'un audit sémantique. La combinaison fait la différence :
 
@@ -145,7 +145,7 @@ Des solutions d'IA comme GrackerAI peuvent compléter ce dispositif pour l'idéa
 
 ---
 
-## L'audit sémantique à l'ère des IA et du GEO : anticiper l'avenir du Search {#laudit-semantique-a-lere-des-ia-et-du-geo-anticiper-lavenir-du-search}
+## L'audit sémantique à l'ère des IA et du GEO : anticiper l'avenir du Search
 
 Voici le chiffre qui change tout dans mon approche depuis 2025 : sur plusieurs sites québécois audités, dont le contenu visait également les moteurs génératifs comme Perplexity ou SearchGPT, j'ai constaté que 74 % présentaient un déficit de structuration sémantique. Absence de champs lexicaux cohérents et de relations entité-concept. Résultat : exclusion systématique des citations IA malgré une bonne autorité de domaine.
 
@@ -167,7 +167,7 @@ Les bonnes pratiques SEO classiques sont la base de l'optimisation pour la reche
 
 ---
 
-## Questions fréquentes sur l'audit sémantique SEO {#questions-frequentes-sur-laudit-semantique-seo}
+## Questions fréquentes sur l'audit sémantique SEO
 
 ### Quelle est la différence principale entre un audit de contenu et un audit sémantique ?
 

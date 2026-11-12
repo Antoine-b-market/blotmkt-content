@@ -54,7 +54,7 @@ Gartner prédit une baisse de 25 % des recherches traditionnelles d'ici fin 2026
 
 ---
 
-## Qu'est-ce que l'intention de recherche et pourquoi est-elle cruciale ? {#definition}
+## Qu'est-ce que l'intention de recherche et pourquoi est-elle cruciale ?
 
 L'intention de recherche est le résultat réel qu'une personne cherche à atteindre avec sa requête : comprendre, comparer, agir ou accéder à quelque chose de précis. Ce n'est pas le mot-clé saisi mais le besoin qu'il révèle.
 
@@ -75,7 +75,7 @@ Dans ma pratique, je constate que la majorité des sites web québécois ratent 
 
 ---
 
-## Les mécanismes d'évaluation de l'intention par Google et les IA {#mecanismes}
+## Les mécanismes d'évaluation de l'intention par Google et les IA
 
 Google structure son algorithme entier autour de l'intention. Les Search Quality Raters évaluent explicitement si les résultats satisfont cette intention via leur critère "Needs Met", qui mesure la capacité d'une page à répondre au besoin de l'utilisateur. Depuis la mise à jour de janvier 2025, les guidelines atteignent 181 pages et intègrent une guidance étendue sur l'évaluation des intentions mineures et secondaires.
 
@@ -95,7 +95,7 @@ L'intention dominante d'une requête peut évoluer dans le temps : Google peut p
 
 ---
 
-## Impact avéré sur le classement et la conversion {#preuve}
+## Impact avéré sur le classement et la conversion
 
 Le contenu de qualité, les backlinks et l'intention de recherche sont les 3 principaux facteurs de classement en 2026.
  Les contenus alignés sur l'intention ont 2,5 fois plus de chances d'atteindre la première page (sitereferencement.com, 2025).
@@ -116,7 +116,7 @@ Ajoutez des outils comme Otterly.ai ou Promptmonitor pour le suivi des citations
 
 ---
 
-## Les pièges d'une intention mal comprise à l'ère des IA {#echec}
+## Les pièges d'une intention mal comprise à l'ère des IA
 
 Erreur commune : optimiser pour le trafic quand la SERP a basculé vers la visibilité.
 
@@ -135,7 +135,7 @@ Les AI Overviews réduisent le CTR organique de 18 % en moyenne, mais les clics 
 
 ---
 
-## L'intention de recherche en 2026 : au-delà des mots-clés, l'éthique et les LLM {#avance}
+## L'intention de recherche en 2026 : au-delà des mots-clés, l'éthique et les LLM
 
 Les modèles de langage génératifs ne suppriment pas l'intention de recherche. Ils la rendent plus exigeante à satisfaire.
 
@@ -153,7 +153,7 @@ Les pages de comparatif intégrant 3 tableaux obtiennent 25,7 % de citations sup
 
 ---
 
-## Questions fréquentes sur l'analyse et l'optimisation de l'intention {#questions-frequentes}
+## Questions fréquentes sur l'analyse et l'optimisation de l'intention
 
 ### Quels sont les 4 types d'intention de recherche et leurs formats associés ?
 

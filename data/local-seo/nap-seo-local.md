@@ -126,7 +126,7 @@ Si vous souhaitez bénéficier d'un audit de ce type pour votre entreprise, déc
 
 ---
 
-## Questions fréquentes {#questions-frequentes}
+## Questions fréquentes
 
 ### Comment créer une fiche Google Business Profile performante pour le SEO local ?
 

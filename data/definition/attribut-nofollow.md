@@ -49,7 +49,7 @@ Vous balancez un nofollow sur chaque lien externe par précaution ? Vous perdez 
 
 ---
 
-## Comprendre l'attribut nofollow : définition et fonctionnement {#comprendre}
+## Comprendre l'attribut nofollow : définition et fonctionnement
 
 L'attribut nofollow est une valeur de l'attribut `rel` placée dans une balise HTML `<a>`. La syntaxe est : `<a href="https://exemple.com" rel="nofollow">Texte du lien</a>`. 
 Le nofollow sert à indiquer aux moteurs de recherche de ne pas tenir compte de certains liens ; il peut s'appliquer à tous les liens d'une page via la balise meta robots, ou lien par lien via l'attribut `rel="nofollow"`.
@@ -66,7 +66,7 @@ Dans ma pratique, j'observe que cette nuance échappe à beaucoup de responsable
 
 ---
 
-## Dofollow vs nofollow : quel impact sur votre SEO ? {#dofollow-vs-nofollow}
+## Dofollow vs nofollow : quel impact sur votre SEO ?
 
 Un lien dofollow est considéré comme un vote de confiance, pouvant influencer directement le positionnement SEO d'une page liée.
  
@@ -85,7 +85,7 @@ Il n'y a aucun avantage SEO à marquer arbitrairement des références de haute 
 
 ---
 
-## Quand et comment utiliser l'attribut nofollow correctement {#usage}
+## Quand et comment utiliser l'attribut nofollow correctement
 
 N'utilisez des attributs de lien comme `rel="nofollow"`, sponsored ou ugc que lorsqu'il y a une raison spécifique - par exemple, vous ne faites pas confiance ou ne voulez pas approuver la page cible.
  Trois cas d'usage principaux s'imposent en 2026.
@@ -105,7 +105,7 @@ En travaillant avec des entreprises québécoises, je recommande toujours d'appl
 
 ---
 
-## L'attribut nofollow et le trafic de référence : un avantage caché {#trafic}
+## L'attribut nofollow et le trafic de référence : un avantage caché
 
 Sur un site institutionnel audité en 2026, convertir 34 liens internes nofollow vers des pages stratégiques en liens suivis a fait progresser 9 pages cibles d'une moyenne de 7 positions en 6 semaines. Ce résultat illustre un principe sous-estimé : la valeur du nofollow ne se limite pas à ce qu'il bloque - elle inclut ce que sa suppression libère.
 
@@ -117,7 +117,7 @@ Mon expérience montre que les liens nofollow provenant de plateformes à fort t
 
 ---
 
-## Alternatives au nofollow : gérer vos liens sortants efficacement {#alternatives}
+## Alternatives au nofollow : gérer vos liens sortants efficacement
 
 Google a introduit des attributs supplémentaires pour offrir une granularité plus fine : `rel="sponsored"` et `rel="ugc"`.
  
@@ -131,7 +131,7 @@ Ce que je constate chez mes clients e-commerce : la confusion entre `nofollow` e
 
 ---
 
-## Audit et gestion des liens nofollow existants sur votre site {#audit}
+## Audit et gestion des liens nofollow existants sur votre site
 
 Vous pouvez vérifier si un lien est nofollow en examinant le code source HTML pour l'attribut `rel="nofollow"`, en utilisant des extensions de navigateur comme NoFollow ou SEO Minion qui surlignent visuellement les liens nofollow, ou en utilisant des outils SEO en ligne qui analysent les attributs de liens.
 
@@ -145,7 +145,7 @@ Une page en noindex voit ses liens internes continuer à transmettre du jus SEO 
 
 ---
 
-## Mythes et idées reçues sur l'attribut nofollow {#mythes}
+## Mythes et idées reçues sur l'attribut nofollow
 
 Mythe 1 - "Le nofollow est inutile pour le SEO". 
 Google a rendu explicite que tous les attributs de lien - sponsored, ugc et nofollow - sont traités comme des indications. En pratique, même si vous étiquetez un lien nofollow, Google peut toujours l'explorer ou même le prendre en compte dans certains scénarios.
@@ -163,7 +163,7 @@ L'ancienne notion de préservation du "jus de lien" via nofollow est obsolète.
 
 ---
 
-## L'évolution de l'attribut nofollow en 2026 : perspectives et tendances {#evolution}
+## L'évolution de l'attribut nofollow en 2026 : perspectives et tendances
 
 Google a changé le rôle de nofollow d'une directive à une indication.
  Cette évolution s'accélère avec l'essor des moteurs génératifs. 
@@ -178,7 +178,7 @@ En tant que consultant SEO et GEO, j'observe une convergence : les liens nofollo
 
 ---
 
-## Questions fréquentes sur l'attribut nofollow {#faq}
+## Questions fréquentes sur l'attribut nofollow
 
 ### Faut-il utiliser l'attribut nofollow pour les liens internes ?
 

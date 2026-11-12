@@ -50,7 +50,7 @@ Votre site stagne en page 2 malgré des mois de travail. Vous publiez du contenu
 
 ---
 
-## Les trois piliers du classement Google en 2026 {#trois-piliers}
+## Les trois piliers du classement Google en 2026
 
 Presque tous les systèmes de classement Google s'inscrivent dans l'un de trois ensembles : la pertinence on-page, l'autorité off-page et la santé technique. Si l'un de ces piliers s'effondre, les deux autres ne peuvent pas compenser. En 2026, les sites les plus performants ne sont pas "parfaits" partout - ils sont cohérents sur ces trois dimensions.
 
@@ -60,7 +60,7 @@ En tant que consultant SEO basé à Montréal, j'observe que la majorité des si
 
 ---
 
-## Contenu et couverture sémantique : ce que Google mesure vraiment {#contenu-semantique}
+## Contenu et couverture sémantique : ce que Google mesure vraiment
 
 En 2026, la recherche sémantique récompense un vocabulaire varié et une couverture thématique claire plutôt que la répétition brute d'un mot-clé.
  
@@ -75,7 +75,7 @@ Dans ma pratique, les pages qui progressent le plus vite après une refonte édi
 
 ---
 
-## Core Web Vitals et signaux techniques {#core-web-vitals}
+## Core Web Vitals et signaux techniques
 
 Les Core Web Vitals sont les métriques officielles de Google pour mesurer l'expérience utilisateur. Le LCP (Largest Contentful Paint) mesure le temps de chargement du contenu principal - la cible est sous 2,5 secondes. Le CLS (Cumulative Layout Shift) mesure la stabilité visuelle, et l'INP (Interaction to Next Paint) remplace le FID depuis mars 2024 pour mesurer la réactivité.
 
@@ -89,7 +89,7 @@ J'observe que sur les projets que je pilote, un LCP entre 2,5 et 4 secondes fait
 
 ---
 
-## Backlinks éditoriaux et autorité de domaine {#backlinks}
+## Backlinks éditoriaux et autorité de domaine
 
 Le SEO off-page reste la façon qu'a Google de demander : "est-ce que d'autres font confiance à cette page ou à cette marque ?" Les backlinks, les mentions de marque et le digital PR demeurent des signaux d'autorité centraux.
 
@@ -100,7 +100,7 @@ Pour obtenir des backlinks éditoriaux en 2026, les approches qui fonctionnent s
 
 ---
 
-## E-E-A-T : le cadre d'évaluation de la qualité {#eeat}
+## E-E-A-T : le cadre d'évaluation de la qualité
 
 L'E-E-A-T - Expérience, Expertise, Autorité, Fiabilité - est le cadre utilisé par les Quality Raters de Google pour évaluer la qualité d'une page. Ce n'est pas un facteur de classement direct, mais il conditionne la façon dont l'algorithme interprète votre contenu après chaque Core Update.
 
@@ -114,7 +114,7 @@ Mon expérience montre que les sites YMYL - santé, finances, juridique - subiss
 
 ---
 
-## Erreurs techniques qui plombent votre classement {#erreurs-techniques}
+## Erreurs techniques qui plombent votre classement
 
 Les problèmes techniques sont souvent invisibles pour les propriétaires de sites, mais très lisibles pour Googlebot. Les plus courants et les plus pénalisants en 2026 sont : les erreurs de crawl bloquant des pages importantes (codes HTTP 4xx, redirection en boucle), les pages retournant un statut 403 Forbidden aux robots alors qu'elles devraient être accessibles, les directives noindex mal placées, et la cannibalisation de mots-clés entre des pages trop similaires.
 
@@ -124,7 +124,7 @@ En travaillant avec des entreprises québécoises sur leurs audits SEO, je renco
 
 ---
 
-## La preuve terrain : ce que révèlent 50 pages en top 3 {#preuve}
+## La preuve terrain : ce que révèlent 50 pages en top 3
 
 En 2026, j'ai analysé 50 pages en top 3 sur des requêtes compétitives en français, dans le cadre de mes travaux chez [BlotMKT](https://www.antoine-blot.com/consultant-seo/). Le constat est sans ambiguïté : 94 % combinaient un temps de chargement sous 2,5 s, une couverture sémantique supérieure à 80 % et au moins un backlink éditorial depuis un domaine thématique.
 
@@ -135,7 +135,7 @@ La Generative Engine Optimization (GEO) s'impose également comme dimension comp
 
 ---
 
-## Questions fréquentes {#questions-frequentes}
+## Questions fréquentes
 
 ### Combien de facteurs de classement Google existe-t-il en 2026 ?
 

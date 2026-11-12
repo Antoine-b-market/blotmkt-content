@@ -48,7 +48,7 @@ Google utilise l'alt text avec ses algorithmes de vision par ordinateur et le co
 
 ---
 
-## Définition et rôle fondamental de l'alt text image {#definition-et-role-fondamental}
+## Définition et rôle fondamental de l'alt text image
 
 L'alt text est un attribut HTML ajouté à la balise `<img>` sous cette forme :
 
@@ -65,7 +65,7 @@ Dans ma pratique, j'observe que les équipes confondent souvent accessibilité e
 
 ---
 
-## Mécanisme et impact : comment l'alt text est interprété par les systèmes {#mecanisme-et-impact}
+## Mécanisme et impact : comment l'alt text est interprété par les systèmes
 
 Vrai ou faux : "Google voit les images, l'alt text ne change rien."
 
@@ -78,7 +78,7 @@ L'alt text, les légendes (`<figcaption>`), le texte environnant et les [Donnée
 
 ---
 
-## Erreurs courantes et pièges à éviter avec l'alt text {#erreurs-courantes}
+## Erreurs courantes et pièges à éviter avec l'alt text
 
 J'observe trois patterns d'échec qui reviennent systématiquement.
 
@@ -96,7 +96,7 @@ Conservez l'alt text entre 80 et 125 caractères pour éviter la troncature par 
 
 ---
 
-## Preuve de l'enjeu : chiffres clés et ROI du bon alt text en 2026 {#preuve-de-lenjeu}
+## Preuve de l'enjeu : chiffres clés et ROI du bon alt text en 2026
 
 Les données 2026 posent le problème en termes d'ampleur absolue, pas seulement proportionnelle.
 
@@ -111,7 +111,7 @@ Selon Antoine Blot, cette distinction est capitale : beaucoup de clients québé
 
 ---
 
-## L'alt text en 2026 : levier pour les AI Overviews et la recherche sémantique {#alt-text-en-2026}
+## L'alt text en 2026 : levier pour les AI Overviews et la recherche sémantique
 
 Avec les AI Overviews et les modèles de recherche générative qui dominent le paysage, le contexte explicite est plus critique que jamais.
 
@@ -137,7 +137,7 @@ L'alt text et la légende se complètent : l'alt décrit l'image pour les machin
 
 ---
 
-## Questions fréquentes sur l'alt text image {#questions-frequentes}
+## Questions fréquentes sur l'alt text image
 
 ### Comment rédiger un alt text efficace et pertinent ?
 

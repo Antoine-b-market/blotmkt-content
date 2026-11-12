@@ -51,7 +51,7 @@ Depuis 2024, et de façon accélérée en 2025 et 2026, la recherche bascule ver
 
 ---
 
-## Qu'est-ce qu'un Knowledge Graph et pourquoi est-il important pour le SEO ? {#quest-ce-quun-knowledge-graph}
+## Qu'est-ce qu'un Knowledge Graph et pourquoi est-il important pour le SEO ?
 
 Le Knowledge Graph est le cœur de la recherche sémantique. Depuis 2012, Google construit une gigantesque base de données qui stocke non pas des sites web, mais des faits sur le monde réel et leurs relations mutuelles.
  
@@ -66,7 +66,7 @@ Dans ma pratique, je constate que les sites qui n'ont pas structuré leurs entit
 
 ---
 
-## Comment les Knowledge Graphs améliorent votre contenu et votre SEO {#comment-les-knowledge-graphs-ameliorent}
+## Comment les Knowledge Graphs améliorent votre contenu et votre SEO
 
 Devenir une entité dans le Knowledge Graph est l'avenir de l'Entity SEO. Les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html), les informations NAP cohérentes, les entrées Wikipedia et les mentions sur des sites faisant autorité sont les clés pour apparaître dans les Knowledge Panels et les Featured Snippets.
 
@@ -82,7 +82,7 @@ J'observe que les sites ayant structuré leurs entités avec des données sameAs
 
 ---
 
-## Exploiter les APIs Knowledge Graph pour un SEO sémantique puissant {#exploiter-les-apis}
+## Exploiter les APIs Knowledge Graph pour un SEO sémantique puissant
 
 La Google Knowledge Graph API permet d'interroger directement la base d'entités de Google. Elle retourne des données structurées sur une entité : nom, description, types Schema.org, sameAs vers Wikidata ou DBpedia, score de notoriété. Son endpoint REST accepte une clé API et un paramètre `query` ou `ids`. Le résultat JSON permet d'identifier si votre entité est reconnue, et avec quel niveau de confiance.
 
@@ -95,7 +95,7 @@ Sur les projets que je pilote, l'audit combiné Google Knowledge Graph API + Nat
 
 ---
 
-## GraphQL : l'outil secret pour structurer et optimiser votre Knowledge Graph {#graphql}
+## GraphQL : l'outil secret pour structurer et optimiser votre Knowledge Graph
 
 GraphQL est un langage de requête d'API qui permet d'interroger exactement les données dont vous avez besoin. Appliqué au SEO, il élimine la surcharge de données des APIs REST classiques et rend le SEO programmable à grande échelle.
 
@@ -115,7 +115,7 @@ En travaillant avec des entreprises québécoises sur l'adoption de GraphQL, j'a
 
 ---
 
-## Outils et technologies indispensables pour un SEO sémantique réussi {#outils-et-technologies}
+## Outils et technologies indispensables pour un SEO sémantique réussi
 
 Un stack SEO sémantique efficace en 2026 repose sur quatre catégories d'outils.
 
@@ -132,7 +132,7 @@ Ce que je constate chez mes clients est constant : les équipes qui combinent Gr
 
 ---
 
-## Limites et défis des Knowledge Graphs en SEO {#limites-et-defis}
+## Limites et défis des Knowledge Graphs en SEO
 
 La complexité de mise en œuvre est réelle. Créer un Knowledge Graph interne fonctionnel nécessite des compétences en modélisation de données, en NLP et en développement API. Un projet Neo4j bien configuré demande entre 3 et 6 mois de travail avant de produire des résultats mesurables.
 
@@ -147,7 +147,7 @@ Mon expérience montre que 60 % des échecs d'implémentation Knowledge Graph vi
 
 ---
 
-## Knowledge Graphs : le futur du SEO en 2026 ? {#futur-seo-2026}
+## Knowledge Graphs : le futur du SEO en 2026 ?
 
 Les principales tendances SEO pour 2026 incluent la recherche conversationnelle et multimodale, l'importance croissante de l'E-E-A-T, la nécessité de structurer le contenu pour les IA via des données structurées et des graphes de connaissance, et la préparation à l'ère des agents IA.
 
@@ -162,7 +162,7 @@ Sur les projets que je pilote en 2026, je constate une corrélation directe entr
 
 ---
 
-## Questions fréquentes sur les Knowledge Graphs et le SEO {#questions-frequentes}
+## Questions fréquentes sur les Knowledge Graphs et le SEO
 
 ### Comment démarrer avec un Knowledge Graph pour son site ?
 

@@ -52,7 +52,7 @@ Les algorithmes de recommandation sont plus efficaces avec un catalogue large (p
 
 ---
 
-## Définition et mécanisme d'un algorithme de recommandation {#definition-et-mecanisme}
+## Définition et mécanisme d'un algorithme de recommandation
 
 Un algorithme de recommandation est un système informatique conçu pour filtrer l'information et présenter aux utilisateurs les contenus, produits ou services susceptibles de les intéresser. Son fonctionnement repose sur trois étapes séquentielles : collecte des données comportementales (clics, achats, temps passé sur une page), analyse par des méthodes statistiques ou de machine learning, puis génération de prédictions personnalisées.
 
@@ -64,7 +64,7 @@ En travaillant avec des entreprises françaises et québécoises, j'observe que 
 
 ---
 
-## Comparaison des types : filtrage collaboratif, basé sur le contenu et hybride {#comparaison-des-types}
+## Comparaison des types : filtrage collaboratif, basé sur le contenu et hybride
 
 Trois grandes familles structurent le champ des algorithmes de recommandation.
 
@@ -83,7 +83,7 @@ Mon expérience montre que les équipes techniques sous-estiment systématiqueme
 
 ---
 
-## Optimisation des algorithmes pour l'expérience et les conversions {#optimisation}
+## Optimisation des algorithmes pour l'expérience et les conversions
 
 L'optimisation d'un système de recommandation passe par quatre leviers concrets : qualité des données d'entrée, personnalisation contextuelle, A/B testing systématique, et suivi des métriques d'engagement (précision, rappel, taux de clic).
 
@@ -98,7 +98,7 @@ Dans ma pratique, sur 6 sites éditoriaux analysés en 2026, les contenus align�
 
 ---
 
-## Cas d'usage concrets et retour sur investissement {#cas-usage}
+## Cas d'usage concrets et retour sur investissement
 
 Amazon génère environ 35 % de son chiffre d'affaires grâce à son moteur de recommandation. En e-commerce, un algorithme de recommandation permet d'augmenter le panier moyen, le taux de conversion et la rétention client en proposant des produits complémentaires ou personnalisés, réduisant ainsi la friction dans le parcours d'achat.
 
@@ -119,7 +119,7 @@ J'observe que les entreprises québécoises du secteur retail sous-investissent 
 
 ---
 
-## Avantages, inconvénients et défis des systèmes de recommandation {#avantages-inconvenients}
+## Avantages, inconvénients et défis des systèmes de recommandation
 
 Vrai vs Faux sur les algorithmes de recommandation :
 
@@ -139,7 +139,7 @@ Sur les gros sites e-commerce, plusieurs moteurs ou algorithmes de recommandatio
 
 ---
 
-## Outils et technologies pour implémenter des recommandations {#outils-technologies}
+## Outils et technologies pour implémenter des recommandations
 
 Le choix de l'outil dépend d'un seul critère structurant : avez-vous une équipe data en interne ou non ?
 
@@ -167,7 +167,7 @@ Les algorithmes de recommandation de Netflix sont hautement automatisés et réa
 
 ---
 
-## L'avenir des algorithmes de recommandation : tendances 2026 {#avenir}
+## L'avenir des algorithmes de recommandation : tendances 2026
 
 Trois tendances de fond restructurent le secteur cette année.
 
@@ -183,7 +183,7 @@ Comme l'explique Antoine Blot, la convergence entre GEO (Generative Engine Optim
 
 ---
 
-## Questions fréquentes {#questions-frequentes}
+## Questions fréquentes
 
 ### Pourquoi les algorithmes de recommandation sont-ils si importants aujourd'hui ?
 
@@ -226,6 +226,6 @@ FAQ_JSON-->
 
 - [AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix](https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
 - [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
-- [Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité](https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo.html)

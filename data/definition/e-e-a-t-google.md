@@ -51,7 +51,7 @@ Les sites web sans crédibilité vérifiable perdent du terrain à chaque core u
 
 ---
 
-## Comprendre l'E-E-A-T : l'essence de la qualité Google {#comprendre-leeat-lessence-de-la-qualite-google}
+## Comprendre l'E-E-A-T : l'essence de la qualité Google
 
 L'E-E-A-T désigne quatre critères d'évaluation qualitative codifiés dans les Search Quality Rater Guidelines de Google. Expérience : démontrer une connaissance pratique et vécue du sujet. Expertise : justifier une compétence ou qualification reconnue. Autorité : être cité et respecté dans son domaine. Fiabilité : offrir une information transparente, sourcée et vérifiable - c'est le critère central duquel découlent les trois autres.
 
@@ -63,7 +63,7 @@ Ce que je constate chez mes clients : beaucoup confondent E-E-A-T avec une check
 
 ---
 
-## Comment Google mesure et utilise l'E-E-A-T dans ses algorithmes {#comment-google-mesure-et-utilise-leeat-dans-ses-algorithmes}
+## Comment Google mesure et utilise l'E-E-A-T dans ses algorithmes
 
 Les Quality Raters sont des personnes qui fournissent des retours sur la qualité des résultats algorithmiques. Ils sont formés pour évaluer si un contenu démontre un niveau d'E-E-A-T fort. Les critères qu'ils utilisent sont détaillés dans les Search Quality Rater Guidelines.
 
@@ -76,7 +76,7 @@ Les évaluations E-E-A-T doivent reposer sur le contenu principal lui-même, sur
 
 ---
 
-## Démontrer l'expérience : partager votre vécu et vos insights uniques {#demontrer-lexperience-partager-votre-vecu-et-vos-insights-uniques}
+## Démontrer l'expérience : partager votre vécu et vos insights uniques
 
 L'expérience de première main est ce qui distingue un contenu générique d'un contenu mémorable. 
 Pour les tests de produits, par exemple, indiquer le nombre de produits testés, les résultats obtenus et la méthode employée - accompagnés de preuves visuelles comme des photos - renforce la confiance des lecteurs.
@@ -88,7 +88,7 @@ De nombreux types de contenus comportent une dimension "Comment". Cela inclut le
 
 ---
 
-## Affirmer votre expertise : prouver votre compétence et qualification {#affirmer-votre-expertise-prouver-votre-competence-et-qualification}
+## Affirmer votre expertise : prouver votre compétence et qualification
 
 L'expertise se prouve, elle ne se déclare pas. 
 Pour s'aligner sur l'E-E-A-T, les créateurs de contenu doivent mettre en avant leur expérience de première main, souligner leurs qualifications professionnelles pertinentes et s'assurer que l'information présentée est fiable. Pour les sujets sensibles, cela peut signifier des biographies d'auteurs détaillées, des références vérifiées ou des revues par des experts.
@@ -100,7 +100,7 @@ Mon expérience montre que les pages auteur bien construites sont souvent le lev
 
 ---
 
-## Bâtir votre autorité : devenir une référence reconnue {#batir-votre-autorite-devenir-une-reference-reconnue}
+## Bâtir votre autorité : devenir une référence reconnue
 
 L'autorité se construit hors de votre site autant que sur vos pages. Les backlinks provenant de médias reconnus, d'associations professionnelles ou d'institutions académiques envoient des signaux forts à Google. Une mention dans un article du Devoir ou de Radio-Canada vaut davantage qu'une centaine de liens provenant de répertoires génériques.
 
@@ -111,7 +111,7 @@ En travaillant avec des entreprises québécoises, je constate que la participat
 
 ---
 
-## Instaurer la fiabilité : créer un environnement de confiance {#instaurer-la-fiabilite-creer-un-environnement-de-confiance}
+## Instaurer la fiabilité : créer un environnement de confiance
 
 La fiabilité est le pilier fondateur de l'E-E-A-T. Sans elle, les trois autres n'ont aucun poids. 
 Google applique des standards de Page Quality très élevés pour les pages YMYL, car un contenu de faible qualité peut avoir un impact négatif concret sur la santé, la stabilité financière ou la sécurité des utilisateurs.
@@ -123,7 +123,7 @@ Le praticien du référencement que je suis insiste sur un point souvent néglig
 
 ---
 
-## L'E-E-A-T à l'ère de l'IA : les défis et opportunités pour 2026 {#leeat-a-lere-de-lia-les-defis-et-opportunites-pour-2026}
+## L'E-E-A-T à l'ère de l'IA : les défis et opportunités pour 2026
 
 Avec la mise à jour de janvier 2025 des Search Quality Rater Guidelines, Google dirige les évaluateurs de qualité vers la détection du contenu IA de faible qualité et travaille plus que jamais pour que les meilleurs résultats atteignent le sommet des SERP.
 
@@ -135,7 +135,7 @@ Le contenu IA qui échoue à ces tests - générique, non relu, bourré de mots-
 
 ---
 
-## Questions fréquentes sur l'E-E-A-T de Google {#questions-frequentes-sur-leeat-de-google}
+## Questions fréquentes sur l'E-E-A-T de Google
 
 ### L'E-E-A-T est-il un facteur de classement direct ?
 

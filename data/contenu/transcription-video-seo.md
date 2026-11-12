@@ -51,7 +51,7 @@ Les vidéos sous-titrées génèrent jusqu'à 40 % de vues supplémentaires comp
 
 ---
 
-## Qu'est-ce que la transcription vidéo SEO ? {#quest-ce-que}
+## Qu'est-ce que la transcription vidéo SEO ?
 
 La transcription vidéo SEO consiste à convertir le contenu audio d'une vidéo en un document texte, puis à optimiser ce texte pour améliorer le référencement naturel sur les moteurs de recherche. Google et YouTube ne "regardent" pas vos vidéos : ils analysent du texte pour en comprendre le sujet. Sans transcription, le contenu parlé reste invisible pour leurs algorithmes.
 
@@ -64,7 +64,7 @@ Selon Antoine Blot, la transcription n'est pas une simple recopie. C'est un docu
 
 ---
 
-## Les leviers SEO activés par la transcription vidéo {#leviers-seo}
+## Les leviers SEO activés par la transcription vidéo
 
 **Vrai ou Faux : "YouTube indexe déjà automatiquement le contenu audio de mes vidéos."**
 
@@ -87,7 +87,7 @@ selon Antoine Blot, ce double bénéfice accessibilité et SEO est l'un des rare
 
 ---
 
-## ROI mesurable : quand chaque minute transcrite compte {#roi-mesurable}
+## ROI mesurable : quand chaque minute transcrite compte
 
 Une étude a révélé une augmentation de 40 % des vues pour les vidéos sous-titrées par rapport aux vidéos sans sous-titres. Cette même étude a montré que les spectateurs étaient 80 % plus susceptibles de regarder une vidéo jusqu'à la fin lorsque des sous-titres étaient disponibles.
 
@@ -105,7 +105,7 @@ Dans ma pratique, le ROI devient positif dès que la transcription génère une 
 
 ---
 
-## Transcription automatique vs. humaine : coûts et précision {#auto-vs-humaine}
+## Transcription automatique vs. humaine : coûts et précision
 
 | Critère | Automatique (ASR) | Humaine ou hybride |
 |---|---|---|
@@ -126,7 +126,7 @@ Ma recommandation : utilisez l'ASR pour générer le brouillon, puis procédez �
 
 ---
 
-## Le protocole en 4 étapes pour une transcription vidéo SEO réussie {#protocole-4-etapes}
+## Le protocole en 4 étapes pour une transcription vidéo SEO réussie
 
 **Étape 1 : Transcrire fidèlement l'audio**
 
@@ -167,7 +167,7 @@ définir les segments vidéo avec les données structurées `Clip` ou `SeekToAct
 
 ---
 
-## Cas concrets : maximiser l'impact de vos vidéos avec la transcription {#cas-concrets}
+## Cas concrets : maximiser l'impact de vos vidéos avec la transcription
 
 Tous les formats vidéo ne se valent pas face à la transcription. Voici ceux où le ROI est le plus rapide :
 
@@ -190,7 +190,7 @@ En contexte québécois, les contenus B2B restent largement sous-transcrits en 2
 
 ---
 
-## Mythes et idées reçues sur la transcription vidéo pour le SEO {#mythes}
+## Mythes et idées reçues sur la transcription vidéo pour le SEO
 
 **"YouTube transcrit déjà mes vidéos automatiquement"**
 
@@ -212,7 +212,7 @@ comme l'explique Antoine Blot sur [antoine-blot.com](https://antoine-blot.com) :
 
 ---
 
-## L'avenir de la vidéo et du SEO : IA, transcriptions et contenu francophone {#avenir}
+## L'avenir de la vidéo et du SEO : IA, transcriptions et contenu francophone
 
 L'IA génère désormais 17,3 % du contenu présent dans les résultats Google. Les AI Overviews apparaissent sur 2 milliards de requêtes par mois, transformant radicalement les SERPs.
  Dans ce contexte, les contenus cités par les LLMs sont ceux qui sont structurés, sourcés et textuellement accessibles. Une vidéo transcrite a mécaniquement plus de chances d'être citée par un modèle de langage qu'une vidéo sans couche textuelle.
@@ -226,7 +226,7 @@ La vidéo transcrite devient la fondation d'une stratégie de contenu omnicanal 
 
 ---
 
-## Vos questions fréquentes sur la transcription vidéo SEO {#faq}
+## Vos questions fréquentes sur la transcription vidéo SEO
 
 ### Comment choisir entre transcription automatique et humaine ?
 

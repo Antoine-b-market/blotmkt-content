@@ -47,7 +47,7 @@ Votre site doit migrer : changement de domaine, refonte complète, nouveau CMS. 
 
 ---
 
-## Qu'est-ce qu'une migration SEO et pourquoi est-ce crucial ? {#quest-ce-quune-migration-seo-et-pourquoi-est-ce-crucial}
+## Qu'est-ce qu'une migration SEO et pourquoi est-ce crucial ?
 
 La migration SEO est le processus de transfert d'un site web tout en préservant ses positions, sa visibilité organique et l'autorité qu'il a acquise auprès des moteurs de recherche.
  Ces changements incluent : un changement de domaine, une modification de la structure d'URL, un passage de HTTP à HTTPS, une refonte complète ou un changement de CMS — par exemple de WordPress vers Shopify.
@@ -58,7 +58,7 @@ Chaque modification majeure — que ce soit la structure des URL, le design, le 
 
 ---
 
-## Les risques d'une migration SEO mal gérée : chiffres et conséquences {#les-risques-dune-migration-seo-mal-geree-chiffres-et-consequences}
+## Les risques d'une migration SEO mal gérée : chiffres et conséquences
 
 Erreur commune : croire que les développeurs gèrent le SEO par défaut pendant une refonte. Ce n'est pas leur rôle, mais cela reste leur périmètre d'intervention technique.
 
@@ -70,7 +70,7 @@ La désorganisation du maillage interne est un autre écueil fréquent : si les 
 
 ---
 
-## Pourquoi la préparation est la clé : données et retours d'expérience {#pourquoi-la-preparation-est-la-cle-donnees-et-retours-dexperience}
+## Pourquoi la préparation est la clé : données et retours d'expérience
 
 > Vrai vs Faux : "Une bonne équipe de développement suffit pour sécuriser une migration SEO."
 > Faux. Le développement et le SEO sont deux disciplines complémentaires mais distinctes. Aucune migration ne se pilote sans audit SEO dédié en amont.
@@ -84,7 +84,7 @@ Selon Antoine Blot, consultant SEO et GEO à Montréal, la phase pré-migration 
 
 ---
 
-## Préparation : la checklist SEO pré-migration essentielle {#preparation-la-checklist-seo-pre-migration-essentielle}
+## Préparation : la checklist SEO pré-migration essentielle
 
 Quatre actions non négociables avant de toucher au moindre fichier en production :
 
@@ -103,7 +103,7 @@ Avant de faire tout changement d'URL, mappez chaque changement en 1:1, importez 
 
 ---
 
-## Migration : la checklist SEO du jour J pour un lancement sans accroc {#migration-la-checklist-seo-du-jour-j-pour-un-lancement-sans-accroc}
+## Migration : la checklist SEO du jour J pour un lancement sans accroc
 
 Le jour du lancement n'est pas le moment de découvrir les problèmes. Tout doit avoir été validé en staging. Voici le séquençage opérationnel :
 
@@ -128,7 +128,7 @@ Redirect 301 /ancienne-page https://www.monsite.com/nouvelle-page
 
 ---
 
-## Post-migration : surveillance et optimisation continue {#post-migration-surveillance-et-optimisation-continue}
+## Post-migration : surveillance et optimisation continue
 
 La migration ne se termine pas au lancement. Le suivi post-lancement est aussi structurant que la préparation.
 
@@ -144,7 +144,7 @@ Google recommande de maintenir les redirections actives pendant au moins un an p
 
 ---
 
-## Transformer la migration en opportunité : leviers d'optimisation {#transformer-la-migration-en-opportunite-leviers-doptimisation}
+## Transformer la migration en opportunité : leviers d'optimisation
 
 J'observe que la plupart des entreprises québécoises abordent la migration comme un risque à contenir. C'est une erreur de cadrage. Une migration bien menée est l'une des rares occasions de repenser l'architecture d'information d'un site dans sa globalité.
 
@@ -160,7 +160,7 @@ La migration est aussi le bon moment pour intégrer un balisage sémantique avan
 
 ---
 
-## Anticiper l'avenir : une stratégie de migration SEO à l'épreuve du temps {#anticiper-lavenir-une-strategie-de-migration-seo-a-lepreuve-du-temps}
+## Anticiper l'avenir : une stratégie de migration SEO à l'épreuve du temps
 
 Une Core Update ne cible pas un site en particulier : elle réévalue la qualité globale des contenus selon des critères comme l'E-E-A-T (Expérience, Expertise, Autorité, Fiabilité), la profondeur du contenu et l'alignement avec l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html).
  Préparer son site à résister à ces mises à jour commence dès la migration.
@@ -174,7 +174,7 @@ L'outil de changement d'adresse dans Google Search Console transfère divers sig
 
 ---
 
-## Questions fréquentes sur la migration SEO {#questions-frequentes-sur-la-migration-seo}
+## Questions fréquentes sur la migration SEO
 
 ### Quel est le rôle des redirections 301 dans une migration SEO ?
 

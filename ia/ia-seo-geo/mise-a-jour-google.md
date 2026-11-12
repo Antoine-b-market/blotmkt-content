@@ -27,7 +27,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # Mise à jour Google 2026 : anticiper, diagnostiquer et se relever des pénalités IA
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Comprendre la nouvelle ère des mises à jour Google 2026](#comprendre-la-nouvelle-ere-des-mises-a-jour-google-2026)
 - [Mécanismes de pénalité : au-delà du simple ajustement de position](#mecanismes-de-penalite-au-dela-du-simple-ajustement-de-position)
 - [Détection et monitoring : les KPIs indispensables post-update](#detection-et-monitoring-les-kpis-indispensables-post-update)
@@ -48,7 +48,7 @@ Votre trafic organique chute un mardi matin. Rien n'a changé sur votre site. Vo
 
 ---
 
-## Comprendre la nouvelle ère des mises à jour Google 2026
+## Comprendre la nouvelle ère des mises à jour Google 2026 {#comprendre-la-nouvelle-ere-des-mises-a-jour-google-2026}
 
 Google a confirmé via son Search Status Dashboard que la Core Update de mars 2026 est désormais entièrement déployée depuis le 8 avril. Lancée le 27 mars, elle aura duré 12 jours au total - plus rapide que la Core Update de décembre 2025 qui avait nécessité 18 jours.
  Ce rythme s'accélère.
@@ -64,7 +64,7 @@ La Spam Update d'août 2025 avait déjà ciblé les sites pratiquant le SEO prog
 
 ---
 
-## Mécanismes de pénalité : au-delà du simple ajustement de position
+## Mécanismes de pénalité : au-delà du simple ajustement de position {#mecanismes-de-penalite-au-dela-du-simple-ajustement-de}
 
 Dans la grande majorité des cas, il ne s'agit pas d'une pénalité manuelle, mais d'un réajustement algorithmique. La nuance est fondamentale : une pénalité manuelle est visible dans Google Search Console, sous "Actions manuelles". Elle est rare, ciblée, et nécessite une demande de réexamen.
 
@@ -76,7 +76,7 @@ L'action préventive via le fichier de désaveu s'impose dès qu'un domaine réf
 
 ---
 
-## Détection et monitoring : les KPIs indispensables post-update
+## Détection et monitoring : les KPIs indispensables post-update {#detection-et-monitoring-les-kpis-indispensables-post-update}
 
 La détection commence par une corrélation temporelle précise. 
 En mars 2026, Google a déployé deux updates en 3 jours - Spam Update d'abord (filtre), Core Update ensuite (reclassement). Corrélez toute baisse de trafic à ces dates avant d'agir.
@@ -90,7 +90,7 @@ La cooccurrence de la Spam Update et de la Core Update rend l'analyse des fluctu
 
 ---
 
-## Boîte à outils de récupération : action post-pénalité
+## Boîte à outils de récupération : action post-pénalité {#boite-a-outils-de-recuperation-action-post-penalite}
 
 Chaque outil occupe un rôle distinct dans la chaîne de récupération :
 
@@ -107,7 +107,7 @@ Observez le type de contenu que l'[Algorithme Google](https://blotmkt.com/ia/def
 
 ---
 
-## Erreurs courantes et pièges à éviter lors des mises à jour Google
+## Erreurs courantes et pièges à éviter lors des mises à jour Google {#erreurs-courantes-et-pieges-a-eviter-lors-des-mises-a-jour}
 
 Google précise que le déploiement d'un core update peut s'étendre sur environ deux semaines, et recommande de suivre la progression via ses canaux officiels avant d'entreprendre des corrections hâtives.
  La première semaine génère systématiquement une surinterprétation.
@@ -120,7 +120,7 @@ Commencez par des vérifications rapides : indexation, erreurs 4xx/5xx, balises 
 
 ---
 
-## L'impact mesurable des Core Web Vitals et de la fréquence de publication
+## L'impact mesurable des Core Web Vitals et de la fréquence de publication {#l-impact-mesurable-des-core-web-vitals-et-de-la-frequence-de}
 
 Ce que je constate chez mes clients en 2026 : les sites ayant maintenu une fréquence de publication stable et un faible taux de contenu thin ont récupéré leur trafic pré-update en moyenne 6 semaines plus vite que les sites sans stratégie de contenu définie. Ce n'est pas une théorie - c'est un écart mesurable, observable sur les tableaux de bord Google Analytics de plusieurs projets que je pilote. Retrouvez mes analyses terrain sur [antoine-blot.com](https://www.antoine-blot.com/consultant-seo/).
 
@@ -132,7 +132,7 @@ Chaque page doit répondre clairement à une question ou à un besoin précis. L
 
 ---
 
-## Stratégies proactives pour 2026 : l'E-E-A-T comme pilier
+## Stratégies proactives pour 2026 : l'E-E-A-T comme pilier {#strategies-proactives-pour-2026-l-e-e-a-t-comme-pilier}
 
 La Core Update de mars 2026 poursuit un objectif constant : mieux faire remonter un contenu pertinent, fiable et satisfaisant pour les internautes.
  Ce cap est stable depuis plusieurs cycles - ce n'est plus une tendance, c'est une direction permanente.
@@ -145,27 +145,27 @@ Les signaux de confiance cohérents comptent : biographies d'auteurs, sources ci
 
 ---
 
-## Questions fréquentes sur les mises à jour Google et la récupération
+## Questions fréquentes sur les mises à jour Google et la récupération {#questions-frequentes-sur-les-mises-a-jour-google-et-la}
 
-### Comment savoir si mon site a été pénalisé par Google ?
+### Comment savoir si mon site a été pénalisé par Google ? {#comment-savoir-si-mon-site-a-ete-penalise-par-google}
 
 Consultez le Google Search Status Dashboard pour confirmer qu'une update était active à la date de votre baisse de trafic. 
 Une pénalité manuelle est visible dans Google Search Console, sous "Actions manuelles" : elle est rare, ciblée, et nécessite une demande de réexamen.
  Si aucune action manuelle n'apparaît, il s'agit d'un réajustement algorithmique. Dans Google Search Console, comparez les clics et impressions des 28 jours précédant l'update à ceux des 28 jours suivants, triés par les plus fortes pertes.
 
-### Que faire si mon site a perdu du trafic après une mise à jour Google ?
+### Que faire si mon site a perdu du trafic après une mise à jour Google ? {#que-faire-si-mon-site-a-perdu-du-trafic-apres-une-mise-a}
 
 Pour des déclins marqués, lancez un audit approfondi combinant technique, contenu et netlinking.
  Priorisez l'audit E-E-A-T, la correction du contenu thin, puis patientez : les sites présentant de réelles améliorations substantielles voient généralement leur récupération reconnue lors de la prochaine core update majeure, soit 3 à 4 mois plus tard. 
 La stabilisation après une Core Update prend typiquement 2 à 6 semaines. Google recommande de s'abstenir de changements drastiques pendant cette période.
 
-### Comment améliorer l'E-E-A-T de mon site web pour les algorithmes 2026 ?
+### Comment améliorer l'E-E-A-T de mon site web pour les algorithmes 2026 ? {#comment-ameliorer-l-e-e-a-t-de-mon-site-web-pour-les}
 
 Auditez chaque page impactée : est-ce que la page montre une expérience réelle ? L'auteur est-il identifiable et crédible ? Les affirmations sont-elles sourcées ? Ajoutez des biographies d'auteurs, des citations et des exemples concrets là où ils manquent. 
 Cela implique de documenter votre expertise, d'apporter des preuves, d'écouter vos utilisateurs et d'itérer rapidement.
  L'E-E-A-T n'est pas un curseur technique - c'est la démonstration tangible qu'un contenu a été produit par quelqu'un qui sait réellement de quoi il parle.
 
-### Comment optimiser mon site pour les AI Overviews de Google ?
+### Comment optimiser mon site pour les AI Overviews de Google ? {#comment-optimiser-mon-site-pour-les-ai-overviews-de-google}
 
 Structurez chaque section pour qu'elle réponde de façon autonome à une question précise, sans nécessiter de contexte supplémentaire. Utilisez un langage direct, des réponses en début de paragraphe, et le balisage Schema.org adapté. 
 Le trafic se redistribue vers les sources autoritatives de haute qualité, tandis que les AI Overviews continuent de réduire les clics même quand les classements restent stables.
@@ -184,5 +184,5 @@ Le trafic se redistribue vers les sources autoritatives de haute qualité, tandi
 - [AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix](https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
-- [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)

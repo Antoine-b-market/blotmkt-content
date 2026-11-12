@@ -49,7 +49,7 @@ Google recommande explicitement la gestion du budget de crawl comme priorité SE
 
 ---
 
-## Désindexation Google : concept et importance stratégique {#concept}
+## Désindexation Google : concept et importance stratégique
 
 La désindexation est le retrait d'une page web de l'ensemble du site retiré de l'index de Google. Une page désindexée reste accessible via son URL directe, mais devient invisible dans les résultats de recherche Google pour toutes les requêtes utilisateurs. 
 Une page non indexée n'apparaît jamais dans Google, peu importe sa qualité ou son optimisation : elle est invisible pour les utilisateurs.
@@ -62,7 +62,7 @@ Maîtriser la désindexation, c'est contrôler ce que Google montre à vos visit
 
 ---
 
-## Comment Google gère l'indexation et la désindexation des contenus {#mecanisme}
+## Comment Google gère l'indexation et la désindexation des contenus
 
 Crawler signifie que Googlebot a visité la page et lu son HTML. Indexer signifie que Google a décidé de l'inclure dans l'index. C'est une décision éditoriale algorithmique, pas un acte mécanique. Une page peut être crawlée sans jamais être indexée.
 
@@ -76,7 +76,7 @@ Une page qui paraphrase d'autres sources sans apport d'expérience directe est c
 
 ---
 
-## Méthodes de désindexation : noindex, robots.txt et suppression via Search Console {#methodes}
+## Méthodes de désindexation : noindex, robots.txt et suppression via Search Console
 
 Trois méthodes principales existent. Leurs comportements sont fondamentalement différents.
 
@@ -96,7 +96,7 @@ La suppression via Google Search Console (outil "Supprimer l'URL") reste uniquem
 
 ---
 
-## Quand désindexer une page : cas pratiques et bénéfices SEO {#usage}
+## Quand désindexer une page : cas pratiques et bénéfices SEO
 
 J'observe que la désindexation stratégique est rarement pratiquée, et presque jamais documentée dans les processus internes des entreprises que j'accompagne.
 
@@ -117,7 +117,7 @@ selon Antoine Blot, la désindexation ciblée d'URL sans valeur SEO est un levie
 
 ---
 
-## Erreurs courantes de désindexation et pièges à éviter {#erreurs}
+## Erreurs courantes de désindexation et pièges à éviter
 
 **Vrai vs Faux :**
 
@@ -139,7 +139,7 @@ Autre erreur fréquente : désindexer des pages qui génèrent du trafic résidu
 
 ---
 
-## Vérifier l'état d'indexation et agir en cas de désindexation involontaire {#verification}
+## Vérifier l'état d'indexation et agir en cas de désindexation involontaire
 
 Google Search Console (GSC) est l'outil principal pour diagnostiquer une désindexation.
 
@@ -158,7 +158,7 @@ Construire ces vérifications dans votre workflow SEO technique régulier est in
 
 ---
 
-## Alternatives à la désindexation : redirection, canonisation et amélioration {#alternatives}
+## Alternatives à la désindexation : redirection, canonisation et amélioration
 
 La désindexation pure n'est pas toujours la bonne réponse. Trois alternatives méritent d'être évaluées en priorité.
 
@@ -174,7 +174,7 @@ selon Antoine Blot, si la page a des liens entrants ou du trafic résiduel, pré
 
 ---
 
-## Désindexation en 2026 : l'impact des mises à jour Google et l'IA {#2026}
+## Désindexation en 2026 : l'impact des mises à jour Google et l'IA
 
 Le Helpful Content Update n'existe plus en tant que mise à jour séparée. Il n'y a plus de "Helpful Content Update" isolée, le signal est désormais ajusté à chaque core update. Depuis mars 2024, quatre core updates en 2025 (mars, juin, août, décembre) et un Discover Core Update en février 2026 ont continué d'affiner ce système.
 
@@ -189,7 +189,7 @@ Google détermine les ressources de crawl allouées à chaque site en tenant com
 
 ---
 
-## Questions fréquentes sur la désindexation Google {#faq}
+## Questions fréquentes sur la désindexation Google
 
 ### Comment savoir si une page est désindexée de Google ?
 

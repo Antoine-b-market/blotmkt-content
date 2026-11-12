@@ -27,7 +27,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # Optimisation google maps : guide complet pour 2026
 
-## Sommaire
+## Sommaire {#sommaire}
 - [L'optimisation google maps : qu'est-ce que c'est et pourquoi est-ce important ?](#definition)
 - [Comprendre le fonctionnement de l'algorithme google maps en 2026](#algorithme)
 - [Optimisation du google business profile : la base d'une présence locale forte](#gbp)
@@ -158,18 +158,18 @@ Pour la première fois en 2026, les facteurs de classement dans les réponses de
 
 ## Questions fréquentes sur l'optimisation google maps {#faq}
 
-### Comment améliorer mon classement sur Google Maps ?
+### Comment améliorer mon classement sur Google Maps ? {#comment-ameliorer-mon-classement-sur-google-maps}
 
 Complétez votre fiche GBP à 100 % (catégorie principale précise, services détaillés, photos actualisées, horaires exacts), harmonisez votre NAP entre la fiche et votre site, collectez des avis authentiques régulièrement et répondez à chacun. 
 Selon le rapport Whitespark 2026, 8 des 10 premiers facteurs de classement dans le Local Pack proviennent directement de la fiche GBP.
  Le levier le plus rapide reste la complétude et la régularité de la mise à jour de votre profil.
 
-### Combien de temps faut-il pour voir les résultats de l'optimisation google maps ?
+### Combien de temps faut-il pour voir les résultats de l'optimisation google maps ? {#combien-de-temps-faut-il-pour-voir-les-resultats-de-l}
 
 Les premières améliorations de classement apparaissent généralement entre 4 et 12 semaines après une optimisation complète de la fiche GBP. Les résultats dépendent de la compétitivité du secteur et de la zone géographique. 
 Ne visez pas la perfection immédiate, mais privilégiez la régularité. Commencez par auditer votre fiche, sollicitez vos clients pour des avis et publiez chaque semaine. C'est cette constance qui vous démarquera durablement de la concurrence.
 
-### Quel est le coût de l'optimisation google maps ?
+### Quel est le coût de l'optimisation google maps ? {#quel-est-le-cout-de-l-optimisation-google-maps}
 
 L'optimisation Google Maps peut s'effectuer en interne pour 2 à 5 heures de travail mensuel pour une PME. Confier cette gestion à un consultant [SEO local](https://blotmkt.com/ia/definition/seo-local.html) représente généralement entre 300 € et 1 500 € par mois selon la compétitivité du secteur. 
 Le SEO local n'est pas réservé aux grandes entreprises avec des budgets marketing. C'est l'outil le plus puissant pour une petite entreprise ou un indépendant qui veut être trouvé localement, sans payer de publicité.

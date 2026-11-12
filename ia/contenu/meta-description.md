@@ -23,7 +23,7 @@ publisher: "BlotMKT - Antoine Blot"
 ---
 # Méta description : guide ultime pour optimiser votre SEO
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce qu'une méta description et pourquoi est-elle essentielle pour le SEO ?](#definition-meta-description-seo)
 - [Pourquoi Google réécrit si souvent les méta descriptions ?](#google-reecrit-meta-description)
 - [Comment rédiger une méta description irrésistible : le guide étape par étape](#rediger-meta-description)
@@ -212,7 +212,7 @@ Le CTR organique mesure la fréquence à laquelle les utilisateurs cliquent sur 
 
 ## Questions fréquentes {#questions-frequentes}
 
-### Quelle est la longueur idéale d'une méta description en 2026 ?
+### Quelle est la longueur idéale d'une méta description en 2026 ? {#quelle-est-la-longueur-ideale-d-une-meta-description-en-2026}
 
 
 En 2025 et 2026, la longueur recommandée pour une méta description se situe entre 150 et 160 caractères.
@@ -220,7 +220,7 @@ En 2025 et 2026, la longueur recommandée pour une méta description se situe en
 La taille moyenne du snippet est de 156 caractères sur desktop et 120 sur mobile
 , selon l'étude Portent sur 30 000 mots-clés.
 
-### Est-ce que Google utilise toujours les méta descriptions que je rédige ?
+### Est-ce que Google utilise toujours les méta descriptions que je rédige ? {#est-ce-que-google-utilise-toujours-les-meta-descriptions-que}
 
 
 Google réécrit les méta descriptions qui apparaissent dans les résultats dans près de 63 % des cas.
@@ -228,7 +228,7 @@ Google réécrit les méta descriptions qui apparaissent dans les résultats dan
 Ce taux élevé ne signifie pas qu'il faut abandonner la rédaction. Plus votre méta cible un mot-clé à fort volume et plus elle est pertinente, plus Google la conservera telle quelle.
  Rédiger une méta description reste utile même si Google la modifie : elle guide sa réécriture et améliore la cohérence du snippet affiché.
 
-### La méta description est-elle un facteur de positionnement direct ?
+### La méta description est-elle un facteur de positionnement direct ? {#la-meta-description-est-elle-un-facteur-de-positionnement}
 
 Non. 
 Cela a été confirmé par John Mueller, Search Advocate chez Google.
@@ -236,7 +236,7 @@ Cela a été confirmé par John Mueller, Search Advocate chez Google.
 La méta description impacte les facteurs de ranking indirects : en améliorant le CTR et en réduisant le taux de rebond, elle contribue indirectement aux signaux qui affectent les rankings.
  C'est un levier de conversion du trafic, pas de génération de positionnement.
 
-### Comment mesurer l'impact de mes optimisations de méta descriptions ?
+### Comment mesurer l'impact de mes optimisations de méta descriptions ? {#comment-mesurer-l-impact-de-mes-optimisations-de-meta}
 
 Google Search Console est l'outil de référence. Filtrez par URL, comparez le CTR avant et après modification sur une fenêtre de 4 à 8 semaines avec un volume d'impressions suffisant (minimum 500 impressions par URL pour avoir des données statistiquement significatives). 
 Une étude Backlinko 2024 a trouvé que les pages avec des balises bien optimisées enregistraient une amélioration moyenne du CTR de 31 % par rapport à celles sans optimisation.

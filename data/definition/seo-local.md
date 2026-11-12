@@ -58,7 +58,7 @@ Passer de 3 à 5 étoiles sur Google génère +25 % de clics
 
 ---
 
-## Qu'est-ce que le SEO local et pourquoi est-ce crucial pour votre entreprise ? {#quest-ce-que-le-seo-local}
+## Qu'est-ce que le SEO local et pourquoi est-ce crucial pour votre entreprise ?
 
 Le SEO local regroupe l'ensemble des techniques d'optimisation visant à améliorer la visibilité d'une entreprise dans les résultats de recherche géolocalisés. 
 La recherche locale utilise des moteurs comme Google pour trouver des produits, services ou entreprises dans une zone géographique précise. Elle cible les requêtes de type "restaurants près de moi" ou "meilleur plombier à [ville]".
@@ -74,7 +74,7 @@ La confiance et la précision des données sont le socle de tout. Google traite 
 
 ---
 
-## Les mécanismes du classement local : comment Google vous trouve (ou pas) {#mecanismes-classement-local}
+## Les mécanismes du classement local : comment Google vous trouve (ou pas)
 
 Google détermine les classements de recherche locale sur la base de trois facteurs principaux : la pertinence (à quel point votre GBP correspond à la requête), la distance (à quelle distance se trouve votre établissement du terme de localisation utilisé) et la proéminence (à quel point votre entreprise est connue, selon les informations que Google possède à son sujet).
 
@@ -116,7 +116,7 @@ Ce balisage aide les LLMs et Google à identifier votre entité locale sans ambi
 
 ---
 
-## Stratégies d'optimisation concrètes pour une visibilité locale maximale {#strategies-optimisation}
+## Stratégies d'optimisation concrètes pour une visibilité locale maximale
 
 **Vrai vs Faux : l'optimisation du GBP**
 
@@ -143,7 +143,7 @@ Les backlinks provenant de sites web locaux (comme la Chambre de commerce, les b
 
 ---
 
-## Preuve sociale : l'impact indéniable des avis clients et de l'engagement {#avis-clients}
+## Preuve sociale : l'impact indéniable des avis clients et de l'engagement
 
 88 % des consommateurs font autant confiance aux avis en ligne qu'aux recommandations de leur entourage.
  Ce chiffre explique pourquoi les avis ne sont pas un "nice to have" mais un facteur de classement direct et un accélérateur de conversion.
@@ -167,7 +167,7 @@ Dans ma pratique, j'observe que les entreprises qui répondent à 100 % de leurs
 
 ---
 
-## Erreurs fatales en SEO local : ce qu'il ne faut absolument pas faire {#erreurs-fatales}
+## Erreurs fatales en SEO local : ce qu'il ne faut absolument pas faire
 
 **Erreur commune : traiter le GBP comme un annuaire statique.**
 
@@ -192,7 +192,7 @@ Selon Antoine Blot, l'approche multi-zones sans adresse physique peut fonctionne
 
 ---
 
-## SEO local en 2026 et au-delà : anticiper les évolutions pour rester leader {#seo-local-2026}
+## SEO local en 2026 et au-delà : anticiper les évolutions pour rester leader
 
 En 2026, gagner en visibilité locale ne consiste plus à optimiser un seul levier mais à synchroniser GBP, site et réputation pour répondre aux attentes des utilisateurs dans trois environnements distincts : Maps, résultats organiques et recherche IA.
 
@@ -212,7 +212,7 @@ Les signaux de marque "offline" (communauté, notoriété locale, expériences v
 
 ---
 
-## Questions fréquentes sur le SEO local {#questions-frequentes}
+## Questions fréquentes sur le SEO local
 
 ### Combien de temps faut-il pour voir les résultats du SEO local ?
 

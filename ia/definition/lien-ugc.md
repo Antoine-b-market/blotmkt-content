@@ -27,7 +27,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # Lien ugc : guide complet pour booster votre seo en 2026
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce qu'un lien UGC et pourquoi est-ce important pour le SEO ?](#quest-ce-quun-lien-ugc-et-pourquoi-est-ce-important-pour-le-seo)
 - [Les avantages concrets des liens UGC pour votre stratégie SEO](#les-avantages-concrets-des-liens-ugc-pour-votre-strategie-seo)
 - [Comment obtenir des liens UGC de manière éthique et durable ?](#comment-obtenir-des-liens-ugc-de-maniere-ethique-et-durable)
@@ -131,20 +131,20 @@ En matière de [SEO local](https://blotmkt.com/ia/definition/seo-local.html), le
 
 ## Questions fréquentes sur les liens UGC {#questions-frequentes-sur-les-liens-ugc}
 
-### L'attribut `rel="ugc"` a-t-il un impact sur le PageRank ?
+### L'attribut `rel="ugc"` a-t-il un impact sur le PageRank ? {#l-attribut-rel-ugc-a-t-il-un-impact-sur-le-pagerank}
 
 Google peut choisir d'utiliser ces attributs de lien à des fins de classement s'il le souhaite, en particulier pour évaluer le lien lui-même. Cependant, Google a confirmé que la présence de ces attributs ne sera pas utilisée comme facteur de classement pour évaluer la page web ou le site utilisant les attributs.
  En pratique, `rel="ugc"` fonctionne comme un indice contextuel, non comme un bloqueur de PageRank automatique.
 
-### Comment encourager la création de contenu UGC de qualité ?
+### Comment encourager la création de contenu UGC de qualité ? {#comment-encourager-la-creation-de-contenu-ugc-de-qualite}
 
 La méthode la plus durable combine trois actions : répondre systématiquement aux contributions (signal de reconnaissance), organiser des challenges thématiques mensuels, et mettre en avant publiquement les meilleures contributions. Sur les projets que je pilote, cette approche génère un taux de contribution récurrente supérieur de 40 % par rapport aux plateformes passives. La récompense symbolique surpasse souvent la récompense financière.
 
-### Quels sont les outils pour surveiller les liens UGC sur mon site ?
+### Quels sont les outils pour surveiller les liens UGC sur mon site ? {#quels-sont-les-outils-pour-surveiller-les-liens-ugc-sur-mon}
 
 Trois outils couvrent l'essentiel en 2026 : Google Search Console pour le rapport des liens entrants et sortants, Ahrefs pour l'analyse des ancres et la détection des domaines toxiques, et SISTRIX pour surveiller la visibilité des domaines référents dans le temps. Pour les grands forums, un script de crawl Screaming Frog ciblant les balises `rel` permet d'auditer l'ensemble des attributs en quelques heures.
 
-### Comment utiliser les liens UGC pour améliorer mon SEO local ?
+### Comment utiliser les liens UGC pour améliorer mon SEO local ? {#comment-utiliser-les-liens-ugc-pour-ameliorer-mon-seo-local}
 
 Balisez les avis clients avec `rel="ugc"` et enrichissez-les avec un schéma `LocalBusiness` ou `Review` en JSON-LD. Google valorise les avis géolocalisés authentiques dans les résultats locaux. 
 Pour les liens sponsorisés ou payants, Google préfère `rel="sponsored"`, et pour le contenu généré par l'utilisateur, `rel="ugc"`.

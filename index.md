@@ -1,6 +1,6 @@
 ---
 title: "BlotMKT — Recherche SEO & GEO par Antoine Blot"
-description: "BlotMKT est un pipeline de recherche appliquée sur le contenu SEO et GEO en français. 160+ articles structurés pour Google et les LLMs."
+description: "BlotMKT est un laboratoire de recherche appliquée sur le contenu SEO et GEO en français, fondé par Antoine Blot, consultant SEO et GEO au Québec."
 url: "https://blotmkt.com/"
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
@@ -16,8 +16,8 @@ BlotMKT est un laboratoire ouvert : un pipeline automatisé qui génère, struct
 
 BlotMKT est un projet de recherche appliquée sur l'optimisation du contenu pour les moteurs de recherche et les grands modèles de langage (LLMs). Il explore concrètement comment structurer, rédiger et mailler un corpus de contenu pour maximiser sa visibilité à la fois sur Google et dans les réponses générées par des IA comme ChatGPT, Claude ou Gemini.
 
-- 160+ articles générés, structurés et maillés
-- 6 catégories SEO/GEO en français
+- Des articles générés, structurés et maillés
+- Des catégories SEO et GEO en français
 - Format HTML pour Google + format Markdown natif pour les LLMs
 - Pipeline automatisé : Gemini (brief) → Claude (rédaction) → ChromaDB (RAG)
 

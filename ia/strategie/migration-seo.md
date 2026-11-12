@@ -23,7 +23,7 @@ publisher: "BlotMKT - Antoine Blot"
 ---
 # Migration SEO : guide complet pour une transition réussie
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce qu'une migration SEO et pourquoi est-ce crucial ?](#quest-ce-quune-migration-seo-et-pourquoi-est-ce-crucial)
 - [Les risques d'une migration SEO mal gérée : chiffres et conséquences](#les-risques-dune-migration-seo-mal-geree-chiffres-et-consequences)
 - [Pourquoi la préparation est la clé : données et retours d'expérience](#pourquoi-la-preparation-est-la-cle-donnees-et-retours-dexperience)
@@ -176,24 +176,24 @@ L'outil de changement d'adresse dans Google Search Console transfère divers sig
 
 ## Questions fréquentes sur la migration SEO {#questions-frequentes-sur-la-migration-seo}
 
-### Quel est le rôle des redirections 301 dans une migration SEO ?
+### Quel est le rôle des redirections 301 dans une migration SEO ? {#quel-est-le-role-des-redirections-301-dans-une-migration-seo}
 
 Une redirection 301 est une redirection côté serveur qui indique que le contenu a été déplacé de façon permanente. Les utilisateurs et les robots qui tentent d'accéder à cette URL sont automatiquement envoyés vers une URL différente. Les redirections 301 préservent la majeure partie du link equity des liens existants, ce qui représente un bénéfice SEO considérable.
  
 Les redirections permanentes (301 et autres) ne causent pas de perte de PageRank selon Google Search Central.
 
-### Comment Google gère-t-il les migrations de site ?
+### Comment Google gère-t-il les migrations de site ? {#comment-google-gere-t-il-les-migrations-de-site}
 
 Lorsque vous soumettez une demande de changement d'adresse via Search Console, cela indique à Google de mettre l'accent sur l'exploration et l'indexation de votre nouveau site plutôt que sur l'ancien.
  
 Si vous combinez un déplacement de site avec une refonte du contenu et de la structure des URL dans le nouvel emplacement, vous verrez probablement une perte de trafic temporaire car Google devra réapprendre et réévaluer les pages individuelles.
 
-### Combien de temps faut-il pour que le SEO se stabilise après une migration ?
+### Combien de temps faut-il pour que le SEO se stabilise après une migration ? {#combien-de-temps-faut-il-pour-que-le-seo-se-stabilise-apres}
 
 La stabilisation n'est pas immédiate : elle dépend du crawl, de l'indexation et de la consolidation des signaux. En pratique, des fluctuations sur plusieurs semaines sont courantes, avec des effets plus graduels sur plusieurs mois, surtout pour les grands sites ou les structures fortement modifiées.
  Pour un site de taille moyenne (500 à 5 000 URL), comptez 3 à 6 mois pour une stabilisation complète des classements.
 
-### Une refonte visuelle sans changement d'URL nécessite-t-elle une migration SEO ?
+### Une refonte visuelle sans changement d'URL nécessite-t-elle une migration SEO ? {#une-refonte-visuelle-sans-changement-d-url-necessite-t-elle}
 
 Techniquement non, si les URL restent identiques. Mais dans ma pratique, j'observe que les refontes visuelles s'accompagnent presque toujours de changements de templates qui affectent les balises title, les méta-descriptions, les balises Hn ou les temps de chargement. 
 En termes de recherche, une refonte est tout changement qui modifie la façon dont Google découvre, comprend et classe vos pages.

@@ -45,7 +45,7 @@ Accumuler des backlinks sans mesurer leur qualité : c'est l'erreur la plus fré
 
 ---
 
-## Qu'est-ce que le Trust Flow et pourquoi est-ce important pour le SEO ? {#quest-ce-que-le-trust-flow-et-pourquoi-est-ce-important-pour-le-seo}
+## Qu'est-ce que le Trust Flow et pourquoi est-ce important pour le SEO ?
 
 Le Trust Flow est une métrique de Majestic qui score la qualité d'un site web en fonction de ses backlinks, sur une échelle de 0 à 100.
  
@@ -66,7 +66,7 @@ Cibler des sites avec des profils intéressants dans le cadre d'une stratégie d
 
 ---
 
-## Trust Flow vs Citation Flow : quelles différences et comment les utiliser ? {#trust-flow-vs-citation-flow-quelles-differences-et-comment-les-utiliser}
+## Trust Flow vs Citation Flow : quelles différences et comment les utiliser ?
 
 Le Trust Flow dispose d'une métrique complémentaire, le Citation Flow. Là où la qualité inspire le Trust Flow, le Citation Flow est conduit par la quantité.
  Ces deux métriques forment un tandem : l'une sans l'autre donne une image incomplète du profil de liens.
@@ -89,7 +89,7 @@ Un écueil fréquent : acheter des liens en masse pour faire monter le Citation 
 
 ---
 
-## Stratégies concrètes pour augmenter le Trust Flow de votre site web {#strategies-concretes-pour-augmenter-le-trust-flow-de-votre-site-web}
+## Stratégies concrètes pour augmenter le Trust Flow de votre site web
 
 Le link building reste le principal vecteur pour établir autorité, pertinence et confiance auprès des moteurs de recherche. La discussion a évolué du simple volume vers la qualité des liens, leur pertinence, et la relation avec les sites qui pointent vers vous.
 
@@ -110,7 +110,7 @@ En 2026, un score TF élevé ne suffit plus : il doit être thématiquement pert
 
 ---
 
-## Mesurer et analyser le Trust Flow : les outils indispensables {#mesurer-et-analyser-le-trust-flow-les-outils-indispensables}
+## Mesurer et analyser le Trust Flow : les outils indispensables
 
 Le Trust Flow, dans ma pratique à Montréal, n'est pas qu'un indicateur chiffré. C'est avant tout un diagnostic stratégique de la réputation de votre site. Mon approche consiste à déchiffrer ces scores pour comprendre la véritable qualité des sources de liens, et non simplement leur quantité. Cela nous permet de passer d'une observation à une prise de décision éclairée.
 
@@ -122,7 +122,7 @@ Enfin, j'utilise Ahrefs ou Semrush, non pas seulement pour la comparaison des Do
 
 Le suivi se fait en fonction de l'intensité des campagnes. Pour des sites établis, une revue trimestrielle suffit souvent. En période d'acquisition intensive de liens, comme lors d'un lancement produit majeur, un audit mensuel détaillé devient impératif pour ajuster le cap.
 
-## Sécurité et Trust Flow : l'importance du Zero Trust SEO {#securite-et-trust-flow-limportance-du-zero-trust-seo}
+## Sécurité et Trust Flow : l'importance du Zero Trust SEO
 
 La sécurité d'un site web est directement liée à la préservation de son Trust Flow. Un site compromis, dont le contenu est altéré par une injection de code malveillant ou un spam de liens sortants, peut voir son score s'effondrer en quelques semaines.
 
@@ -141,7 +141,7 @@ Selon Antoine Blot, l'approche Zero Trust n'est pas réservée aux grandes entre
 
 ---
 
-## Trust Flow et ROI : quel retour sur investissement attendre ? {#trust-flow-et-roi-quel-retour-sur-investissement-attendre}
+## Trust Flow et ROI : quel retour sur investissement attendre ?
 
 Vrai ou Faux : "le link building de qualité coûte trop cher pour les PME."
 
@@ -165,7 +165,7 @@ les scores TF peuvent être manipulés. Acheter des liens sur des réseaux de si
 
 ---
 
-## Questions fréquentes {#questions-frequentes}
+## Questions fréquentes
 
 ### Comment vérifier mon Trust Flow ?
 

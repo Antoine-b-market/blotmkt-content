@@ -1,11 +1,11 @@
-# BlotMKT — Observatoire SEO & GEO par Antoine Blot
-# Auteur : Antoine Blot, consultant SEO indépendant (https://antoine-blot.com)
+# BlotMKT - Laboratoire de recherche appliquée sur le contenu SEO et GEO
+# Auteur : Antoine Blot, consultant SEO et GEO au Québec (https://antoine-blot.com)
 # ORCID : https://orcid.org/0009-0005-6450-4528
-# Mis à jour : 2026-10-21
-# Total articles publiés : 67
+# Mis à jour : 2026-11-12
+# Total articles publiés : 68
 
 ## À propos
-BlotMKT est un corpus d'articles techniques sur le SEO, le GEO (Generative Engine Optimization) et le référencement naturel. Rédigés par Antoine Blot, consultant SEO indépendant à Montréal.
+BlotMKT est un laboratoire de recherche appliquée sur le contenu SEO et GEO en français, fondé par Antoine Blot, consultant SEO et GEO au Québec.
 ORCID : https://orcid.org/0009-0005-6450-4528
 
 ## Pages HTML (structurées, schema.org, canonical)
@@ -13,8 +13,12 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 - [À propos — Antoine Blot, Consultant SEO & GEO](https://blotmkt.com/ia/a-propos.html)
   Présentation d'Antoine Blot, consultant expert en SEO et GEO basé au Québec.
 
+### Audit SEO
+
 - [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/ia/audit/indexation-api-google.html)
   Maîtrisez l'Indexation API Google pour accélérer l'exploration et l'indexation de vos contenus. Découvrez les bonnes pratiques et les outils pour un SEO optimal.
+
+### Contenu SEO
 
 - [L'alt text image : votre passeport pour l'accessibilité et la performance seo ia](https://blotmkt.com/ia/contenu/alt-text-image.html)
   Maîtrisez l'alt text image pour booster votre SEO, améliorer l'accessibilité et préparer vos contenus à l'ère de l'IA. Découvrez nos astuces d'expert pour des images puissantes.
@@ -57,6 +61,8 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [Transcription vidéo seo : le guide complet pour booster votre référencement](https://blotmkt.com/ia/contenu/transcription-video-seo.html)
   Transformez vos vidéos en or pour Google et YouTube. Découvrez comment la transcription vidéo SEO augmente votre visibilité, votre trafic et votre ROI. Guide complet.
+
+### Définitions SEO & GEO
 
 - [Algorithme Google : comprendre son fonctionnement et éviter les pièges SEO](https://blotmkt.com/ia/definition/algorithme-google.html)
   Décryptez l'algorithme Google et ses mises à jour. Évitez la sur-optimisation et adoptez une stratégie SEO durable pour un meilleur positionnement.
@@ -130,6 +136,8 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 - [ymyl seo : guide complet pour protéger votre réputation en ligne](https://blotmkt.com/ia/definition/ymyl-seo.html)
   Découvrez les stratégies ymyl seo cruciales pour sécuriser votre site web, renforcer la confiance des utilisateurs et améliorer votre positionnement sur google.
 
+### IA, SEO & GEO
+
 - [AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
   Découvrez l'AEO, l'optimisation pour les moteurs de réponse (IA). Guide complet sur les stratégies, outils et meilleures pratiques pour booster votre visibilité IA.
 
@@ -138,6 +146,9 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
   Découvrez l'impact des citations par IA sur la recherche, la crédibilité et le SEO en 2026. Guide expert pour optimiser votre visibilité auprès des LLMs.
+
+- [Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix](https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html)
+  Besoin d'un consultant SEO à Montréal ? Découvrez les services, critères de sélection, tarifs réels et méthodes pour réussir sans classements biaisés.
 
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
   Découvrez comment l'IA transforme la création de contenu SEO, des outils accessibles aux stratégies gagnantes pour les PME. Optimisez votre visibilité dès 50€/mois.
@@ -172,6 +183,8 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 - [Maîtriser le structured data avancé : techniques et stratégies pour experts SEO](https://blotmkt.com/ia/ia-seo-geo/structured-data-avance.html)
   Découvrez les techniques de structured data avancé : schémas imbriqués, programmatiques et conditionnels. Amplifiez votre SEO et votre E-E-A-T. Guide expert.
 
+### SEO Local
+
 - [Avis clients SEO : Booster votre visibilité et votre chiffre d'affaires](https://blotmkt.com/ia/local-seo/avis-clients-seo.html)
   Découvrez comment exploiter les avis clients pour améliorer votre SEO, attirer plus de prospects et augmenter vos ventes. Stratégies et outils inclus.
 
@@ -187,6 +200,8 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 - [Rayon de visibilité: guide complet pour une signalétique impactante](https://blotmkt.com/ia/local-seo/rayon-de-visibilite.html)
   Découvrez comment optimiser le rayon de visibilité de votre signalétique. Conseils, exemples, et meilleures pratiques pour attirer l'attention et améliorer l'expérience client.
 
+### Popularité & Netlinking
+
 - [Désindexation google : comprendre, agir et optimiser votre seo](https://blotmkt.com/ia/popularite/desindexation-google.html)
   Maîtrisez la désindexation Google : causes, méthodes (noindex, robots.txt), impact sur le SEO et erreurs à éviter. Guide complet pour un référencement optimal.
 
@@ -195,6 +210,8 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [guest blogging seo : guide complet pour un référencement durable en 2026](https://blotmkt.com/ia/popularite/guest-blogging-seo.html)
   Découvrez comment le guest blogging peut améliorer votre SEO. Stratégies, avantages, et comment éviter les pièges pour un référencement optimal et durable en 2026.
+
+### Stratégie SEO
 
 - [Comment choisir une agence SEO à Montréal en 2026 : critères, tarifs et comparatif](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
   Guide complet pour choisir votre agence SEO à Montréal : tarifs, conformité Loi 96, impact du GEO et tableau comparatif de 8 prestataires québécois.
@@ -216,7 +233,11 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 
 ## Pages Markdown (texte brut, LLMs)
 
+### Audit SEO
+
 - [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/data/audit/indexation-api-google.md)
+
+### Contenu SEO
 
 - [L'alt text image : votre passeport pour l'accessibilité et la performance seo ia](https://blotmkt.com/data/contenu/alt-text-image.md)
 
@@ -245,6 +266,8 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 - [Structure HN SEO : le guide complet pour optimiser votre contenu et captiver google & l'IA](https://blotmkt.com/data/contenu/structure-hn-seo.md)
 
 - [Transcription vidéo seo : le guide complet pour booster votre référencement](https://blotmkt.com/data/contenu/transcription-video-seo.md)
+
+### Définitions SEO & GEO
 
 - [Algorithme Google : comprendre son fonctionnement et éviter les pièges SEO](https://blotmkt.com/data/definition/algorithme-google.md)
 
@@ -294,11 +317,15 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [ymyl seo : guide complet pour protéger votre réputation en ligne](https://blotmkt.com/data/definition/ymyl-seo.md)
 
+### IA, SEO & GEO
+
 - [AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/data/ia-seo-geo/aeo-answer-engine-optimization.md)
 
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/data/ia-seo-geo/algorithme-de-recommandation.md)
 
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/data/ia-seo-geo/citations-par-ia.md)
+
+- [Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix](https://blotmkt.com/data/ia-seo-geo/consultant-seo-montreal.md)
 
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/data/ia-seo-geo/contenu-ia-seo.md)
 
@@ -322,6 +349,8 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [Maîtriser le structured data avancé : techniques et stratégies pour experts SEO](https://blotmkt.com/data/ia-seo-geo/structured-data-avance.md)
 
+### SEO Local
+
 - [Avis clients SEO : Booster votre visibilité et votre chiffre d'affaires](https://blotmkt.com/data/local-seo/avis-clients-seo.md)
 
 - [Citations locales seo : le guide complet pour votre visibilité locale en 2026](https://blotmkt.com/data/local-seo/citations-locales-seo.md)
@@ -332,11 +361,15 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [Rayon de visibilité: guide complet pour une signalétique impactante](https://blotmkt.com/data/local-seo/rayon-de-visibilite.md)
 
+### Popularité & Netlinking
+
 - [Désindexation google : comprendre, agir et optimiser votre seo](https://blotmkt.com/data/popularite/desindexation-google.md)
 
 - [Facteurs de classement Google : le guide ultime 2026 pour dominer les SERPs](https://blotmkt.com/data/popularite/facteurs-de-classement-google.md)
 
 - [guest blogging seo : guide complet pour un référencement durable en 2026](https://blotmkt.com/data/popularite/guest-blogging-seo.md)
+
+### Stratégie SEO
 
 - [Comment choisir une agence SEO à Montréal en 2026 : critères, tarifs et comparatif](https://blotmkt.com/data/strategie/agence-seo-montreal.md)
 

@@ -23,7 +23,7 @@ publisher: "BlotMKT - Antoine Blot"
 ---
 # L'intention de recherche : la boussole SEO à l'ère des LLM et du GEO
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce que l'intention de recherche et pourquoi est-elle cruciale ?](#definition)
 - [Les mécanismes d'évaluation de l'intention par Google et les IA](#mecanismes)
 - [Impact avéré sur le classement et la conversion](#preuve)
@@ -155,13 +155,13 @@ Les pages de comparatif intégrant 3 tableaux obtiennent 25,7 % de citations sup
 
 ## Questions fréquentes sur l'analyse et l'optimisation de l'intention {#questions-frequentes}
 
-### Quels sont les 4 types d'intention de recherche et leurs formats associés ?
+### Quels sont les 4 types d'intention de recherche et leurs formats associés ? {#quels-sont-les-4-types-d-intention-de-recherche-et-leurs}
 
 Les quatre types sont : informationnelle (comprendre, format guide ou article long), navigationnelle (accéder à une destination précise, format page d'accueil ou de connexion), transactionnelle (agir ou acheter, format fiche produit ou page de service) et commerciale (comparer avant de décider, format comparatif ou tableau). 
 70 % des recherches sont informationnelles, 22 % commerciales, 7 % navigationnelles.
  Les requêtes transactionnelles convertissent 15 fois mieux que les informationnelles, mais 23 % des requêtes informationnelles mènent à terme à une action transactionnelle.
 
-### Comment l'intention de recherche impacte-t-elle le classement SEO ?
+### Comment l'intention de recherche impacte-t-elle le classement SEO ? {#comment-l-intention-de-recherche-impacte-t-elle-le}
 
 L'intention de recherche figure parmi les 3 principaux facteurs de classement en 2026, aux côtés du contenu de qualité et des backlinks.
  Les contenus alignés ont 2,5 fois plus de chances d'atteindre la première page. 
@@ -170,13 +170,13 @@ L'intention n'est pas figée : sur les requêtes compétitives, un glissement de
 Gartner prédit une baisse de 25 % des recherches traditionnelles d'ici fin 2026 :
  l'intention devient aussi le signal qui décide si un LLM vous cite ou vous ignore.
 
-### Quels outils utiliser pour analyser l'intention de recherche d'un mot-clé ?
+### Quels outils utiliser pour analyser l'intention de recherche d'un mot-clé ? {#quels-outils-utiliser-pour-analyser-l-intention-de-recherche}
 
 Google Search Console est le point de départ : les données de requêtes réelles révèlent les variations d'intention autour d'un mot-clé cible. L'analyse manuelle des SERP reste indispensable pour lire le format dominant (guide, liste, fiche produit). 
 Les plateformes d'automatisation SEO basées sur l'IA (briefs automatisés, analyse sémantique, suivi de visibilité IA) se généralisent ; Semrush, Ahrefs et SE Ranking connaissent une forte adoption.
  La combinaison SERP réelle, Search Console et données comportementales est la seule approche qui évite les diagnostics partiels.
 
-### L'intention de recherche locale (GEO) est-elle différente des autres intentions ?
+### L'intention de recherche locale (GEO) est-elle différente des autres intentions ? {#l-intention-de-recherche-locale-geo-est-elle-differente-des}
 
 Oui. Une intention locale combine un besoin immédiat et une dimension géographique précise. 
 46 % des recherches Google ont une intention locale, et 76 % des recherches "near me" débouchent sur une visite physique en 24 heures.
@@ -184,7 +184,7 @@ Oui. Une intention locale combine un besoin immédiat et une dimension géograph
 Le [SEO local](https://blotmkt.com/ia/definition/seo-local.html) génère un ROI trois fois supérieur aux autres canaux pour les PME.
  À Montréal, la dualité linguistique crée une complexité supplémentaire : les résultats locaux varient selon la langue de la requête, exigeant une stratégie GEO distincte pour chaque marché.
 
-### Comment les AI Overviews impactent-elles la façon de satisfaire l'intention ?
+### Comment les AI Overviews impactent-elles la façon de satisfaire l'intention ? {#comment-les-ai-overviews-impactent-elles-la-facon-de}
 
 Les recherches déclenchant un AI Overview affichent un taux zero-click moyen de 83 %, contre 60 % pour les requêtes traditionnelles sans AI Overview.
  

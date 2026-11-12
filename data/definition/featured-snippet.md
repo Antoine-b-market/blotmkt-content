@@ -53,7 +53,7 @@ Les featured snippets absorbent environ 42,9 % du total des clics sur une page d
 
 ---
 
-## Qu'est-ce qu'un featured snippet ? {#quest-ce-quun-featured-snippet}
+## Qu'est-ce qu'un featured snippet ?
 
 Un featured snippet est un bloc de contenu extrait automatiquement d'une page web et affiché en haut des résultats Google, avant le premier résultat organique classique. 
 Appelée "position zéro", cette zone est apparue dès 2014 et a profondément restructuré la façon dont les éditeurs et praticiens SEO abordent la visibilité dans les moteurs de recherche.
@@ -68,7 +68,7 @@ En tant que consultant SEO, je précise que la position zéro n'est pas réserv�
 
 ---
 
-## Comment fonctionne l'algorithme des featured snippets ? {#comment-fonctionne-lalgorithme-des-featured-snippets}
+## Comment fonctionne l'algorithme des featured snippets ?
 
 L'[Algorithme Google](https://blotmkt.com/ia/definition/algorithme-google.html) analyse la requête de l'utilisateur pour identifier son intention principale. Il parcourt ensuite les pages du top 10 pour repérer le passage qui répond le plus directement à cette intention - sans que le webmaster ait à intervenir manuellement.
 
@@ -81,7 +81,7 @@ J'observe que cette dynamique ne doit pas décourager l'optimisation pour la pos
 
 ---
 
-## Cas d'usage concrets des featured snippets {#cas-dusage-concrets-des-featured-snippets}
+## Cas d'usage concrets des featured snippets
 
 Les featured snippets s'activent principalement sur des requêtes informationnelles à fort volume. Les secteurs santé, finance, cuisine et éducation concentrent une part disproportionnée des positions zéro, car leurs audiences posent des questions factuelles précises.
 
@@ -94,7 +94,7 @@ Ce que je constate chez mes clients québécois : les requêtes bilingues et les
 
 ---
 
-## Erreurs fréquentes à éviter lors de l'optimisation {#erreurs-frequentes-a-eviter}
+## Erreurs fréquentes à éviter lors de l'optimisation
 
 La première erreur est de noyer la réponse dans un long préambule. Google extrait le passage qui répond directement à la requête : si cette réponse arrive au troisième paragraphe, le snippet ira chez un concurrent plus direct.
 
@@ -109,7 +109,7 @@ Mon expérience montre que l'absence de [Données structurées](https://blotmkt.
 
 ---
 
-## Preuves et statistiques sur l'efficacité des featured snippets {#preuves-et-statistiques}
+## Preuves et statistiques sur l'efficacité des featured snippets
 
 En reformatant 20 réponses en listes numérotées de 40 à 60 mots sur un site éditorial en 2026, 7 pages ont obtenu un featured snippet en 6 semaines, générant une hausse de CTR moyenne de 28 %. Cette expérience est documentée dans mes [ressources SEO](https://www.antoine-blot.com/ressources-seo/), avec le protocole complet et les résultats par page.
 
@@ -121,7 +121,7 @@ Dans ma pratique, ce dernier chiffre change radicalement la façon dont mes clie
 
 ---
 
-## Techniques d'optimisation on-page pour les featured snippets {#techniques-doptimisation-on-page}
+## Techniques d'optimisation on-page pour les featured snippets
 
 La structure est primordiale. Chaque section de page doit être introduite par un titre H2 ou H3 formulé comme une question, suivi immédiatement d'une réponse directe de 40 à 60 mots. Cette réponse ne doit pas démarrer par "il est important de" ou une formule introductive.
 
@@ -135,7 +135,7 @@ Sur les projets que je pilote, l'implémentation du schema FAQ en JSON-LD - avec
 
 ---
 
-## L'avenir des featured snippets et leur impact sur le SEO {#lavenir-des-featured-snippets}
+## L'avenir des featured snippets et leur impact sur le SEO
 
 La rapide expansion des AI Overviews tout au long de 2025 a provoqué une baisse marquée de la prévalence des featured snippets, avec une analyse Ahrefs à grande échelle enregistrant une chute de 64 % de la visibilité des snippets entre janvier et juin 2025.
  Cependant, la tendance se rééquilibre.
@@ -148,7 +148,7 @@ En tant que spécialiste GEO, j'anticipe une convergence : les techniques d'opti
 
 ---
 
-## Questions fréquentes sur les featured snippets {#questions-frequentes}
+## Questions fréquentes sur les featured snippets
 
 ### Comment suivre mes featured snippets sur Google Search Console ?
 

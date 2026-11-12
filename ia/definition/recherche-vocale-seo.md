@@ -30,7 +30,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # Recherche vocale SEO : guide complet pour optimiser votre présence vocale
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Comprendre la recherche vocale et son impact sur le SEO](#comprendre-la-recherche-vocale-et-son-impact-sur-le-seo)
 - [SEO technique et recherche vocale : un duo gagnant](#seo-technique-et-recherche-vocale-un-duo-gagnant)
 - [Contenu SEO optimisé pour la recherche vocale : les meilleures pratiques](#contenu-seo-optimise-pour-la-recherche-vocale-les-meilleures-pratiques)
@@ -51,7 +51,7 @@ En 2026, environ 20,5 % des internautes du monde entier utilisent activement la 
 
 ---
 
-## Comprendre la recherche vocale et son impact sur le SEO
+## Comprendre la recherche vocale et son impact sur le SEO {#comprendre-la-recherche-vocale-et-son-impact-sur-le-seo}
 
 La recherche vocale désigne l'usage d'un assistant vocal - Google Assistant, Siri, Alexa ou Gemini - pour soumettre une requête à l'oral plutôt qu'au clavier. 
 La longueur moyenne des recherches vocales atteint 29 mots, contre 3 à 4 mots pour les requêtes textuelles classiques.
@@ -67,7 +67,7 @@ Selon Google, 58 % des recherches vocales concernent un besoin local.
 
 ---
 
-## SEO technique et recherche vocale : un duo gagnant
+## SEO technique et recherche vocale : un duo gagnant {#seo-technique-et-recherche-vocale-un-duo-gagnant}
 
 Le SEO technique est le socle de la visibilité vocale. Sans ces fondations, aucune optimisation éditoriale ne suffira. Sur les projets que je pilote en tant que spécialiste GEO, les gains les plus rapides viennent systématiquement de la correction des erreurs techniques avant même de toucher au contenu.
 
@@ -84,7 +84,7 @@ ces balises intégrées dans le code HTML indiquent s'il s'agit d'un produit, d'
 
 ---
 
-## Contenu SEO optimisé pour la recherche vocale : les meilleures pratiques
+## Contenu SEO optimisé pour la recherche vocale : les meilleures pratiques {#contenu-seo-optimise-pour-la-recherche-vocale-les-meilleures}
 
 Dans ma pratique, sur 15 pages optimisées pour la recherche vocale en 2026, celles structurant une réponse directe en moins de 45 mots dans le premier paragraphe obtenaient 4 fois plus de chances d'être lues par un assistant vocal. Vous trouverez la méthodologie complète dans mes [ressources SEO](https://www.antoine-blot.com/ressources-seo/).
 
@@ -103,7 +103,7 @@ Les featured snippets génèrent un taux de clic moyen de 6 % dans la SERP, mais
 
 ---
 
-## Suivi et analyse des performances de votre SEO vocal
+## Suivi et analyse des performances de votre SEO vocal {#suivi-et-analyse-des-performances-de-votre-seo-vocal}
 
 Ce que je constate chez mes clients : les dashboards SEO classiques (sessions, positions moyennes) ne capturent pas la performance vocale. Il faut adapter ses indicateurs. Google Search Console et Google Analytics restent les outils de base, mais leur lecture doit évoluer.
 
@@ -118,7 +118,7 @@ Le Share of Voice devient l'indicateur pivot : à quelle fréquence votre marque
 
 ---
 
-## Mesurer le succès de votre stratégie d'IA conversationnelle en SEO
+## Mesurer le succès de votre stratégie d'IA conversationnelle en SEO {#mesurer-le-succes-de-votre-strategie-d-ia-conversationnelle}
 
 Les KPIs traditionnels ne suffisent plus face aux réponses génératives des LLMs. Mon expérience montre que les équipes qui continuent de piloter uniquement par le trafic organique passent à côté d'une partie croissante de leur audience.
 
@@ -131,22 +131,22 @@ Le marché du GEO (Generative Engine Optimization) pèse 886 millions de dollars
 
 ## Questions fréquentes {#questions-frequentes}
 
-### Comment optimiser son site web pour les assistants vocaux ?
+### Comment optimiser son site web pour les assistants vocaux ? {#comment-optimiser-son-site-web-pour-les-assistants-vocaux}
 
 Structurez chaque page autour d'une réponse directe en moins de 45 mots dès le premier paragraphe. 
 Le contenu en FAQ ou en format questions-réponses colle aux requêtes orales
  et favorise l'extraction par les assistants vocaux. Ajoutez les balises schema.org (FAQ, HowTo, LocalBusiness), assurez un temps de chargement mobile sous 2,5 secondes et maintenez votre fiche Google Business Profile à jour. Ces quatre actions couvrent 80 % des gains accessibles sur un projet d'optimisation vocale standard.
 
-### Pourquoi le SEO technique est-il si important pour la recherche vocale ?
+### Pourquoi le SEO technique est-il si important pour la recherche vocale ? {#pourquoi-le-seo-technique-est-il-si-important-pour-la}
 
 Les requêtes vocales sont désormais trois fois plus précises qu'en 2023, avec un taux de compréhension atteignant 95 % pour les recherches en français.
  Un assistant vocal ne lit qu'une réponse par requête : si votre page est lente, mal indexée ou dépourvue de données structurées, elle est simplement ignorée. Le SEO technique garantit que votre contenu est crawlable, compréhensible et livrable rapidement - conditions non négociables pour figurer dans la réponse vocale.
 
-### Quels sont les meilleurs indicateurs pour suivre la performance du SEO vocal ?
+### Quels sont les meilleurs indicateurs pour suivre la performance du SEO vocal ? {#quels-sont-les-meilleurs-indicateurs-pour-suivre-la}
 
 Suivez le Share of Voice mesuré via Conductor ou Semrush, le positionnement top 3 sur requêtes interrogatives, les impressions sans clics dans Google Search Console et les requêtes de 5 mots et plus. En 2026, ajoutez la fréquence de citation dans les LLMs (ChatGPT, Perplexity, Gemini) par requête cible. Moins d'un quart des marketeurs mesurent ce dernier indicateur aujourd'hui - c'est là que se construit l'avantage compétitif.
 
-### Comment l'IA et les chatbots peuvent-ils améliorer ma stratégie de mots-clés pour la recherche vocale ?
+### Comment l'IA et les chatbots peuvent-ils améliorer ma stratégie de mots-clés pour la recherche vocale ? {#comment-l-ia-et-les-chatbots-peuvent-ils-ameliorer-ma}
 
 Les chatbots génèrent des données conversationnelles exploitables : formulations exactes, questions fréquentes, points de friction. Ces données alimentent la recherche de mots-clés longue traîne et la création de pages FAQ. 
 Les grands modèles de langage comme ChatGPT, Gemini ou Claude

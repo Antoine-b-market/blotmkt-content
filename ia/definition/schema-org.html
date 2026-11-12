@@ -133,8 +133,8 @@
       "description": "Schema.org : apprenez à structurer vos données pour un meilleur référencement. Guide, exemples, types de schemas et outils pour optimiser votre SEO.",
       "url": "https://blotmkt.com/ia/definition/schema-org.html",
       "inLanguage": "fr-CA",
-      "datePublished": "2026-05-05",
-      "dateModified": "2026-05-05",
+      "datePublished": "2026-05-05T03:48:00-04:00",
+      "dateModified": "2026-05-05T03:48:00-04:00",
       "author": {
         "@id": "https://antoine-blot.com/#person"
       },
@@ -151,7 +151,12 @@
         "@type": "CreativeWorkSeries",
         "@id": "https://blotmkt.com/ia/definition/#serie",
         "name": "Série Définitions SEO & GEO — BlotMKT"
-      }
+      },
+      "about": [
+        {
+          "@id": "https://blotmkt.com/ia/definition/schema-org.html#terme"
+        }
+      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -185,9 +190,6 @@
       "familyName": "Blot",
       "jobTitle": "Consultant SEO et GEO",
       "url": "https://www.antoine-blot.com",
-      "worksFor": {
-        "@id": "https://blotmkt.com/#organization"
-      },
       "sameAs": [
         "https://www.antoine-blot.com",
         "https://www.linkedin.com/in/blotantoine/",
@@ -215,7 +217,7 @@
       "founder": {
         "@id": "https://antoine-blot.com/#person"
       },
-      "description": "Pipeline automatisé de génération de contenu SEO/GEO en français.",
+      "description": "Laboratoire de recherche appliquée sur le contenu SEO et GEO, fondé par Antoine Blot : pipeline de génération et de diagnostic de contenus conçus pour être cités par les moteurs de réponse IA.",
       "sameAs": [
         "https://github.com/Antoine-b-market/blotmkt-content",
         "https://huggingface.co/datasets/Antoine-marketing/blotmkt",
@@ -229,8 +231,8 @@
       "name": "Schema-org",
       "description": "Schema.org : apprenez à structurer vos données pour un meilleur référencement. Guide, exemples, types de schemas et outils pour optimiser votre SEO.",
       "inLanguage": "fr-CA",
-      "datePublished": "2026-05-05",
-      "dateModified": "2026-05-05",
+      "datePublished": "2026-05-05T03:48:00-04:00",
+      "dateModified": "2026-05-05T03:48:00-04:00",
       "author": {
         "@id": "https://antoine-blot.com/#person"
       },
@@ -248,6 +250,52 @@
         "blockquote",
         ".speakable-intro",
         "h2"
+      ]
+    },
+    {
+      "@type": "DefinedTermSet",
+      "@id": "https://blotmkt.com/ia/definition/#termes",
+      "name": "Termes du SEO et du GEO — BlotMKT",
+      "url": "https://blotmkt.com/ia/definition/",
+      "inLanguage": "fr-CA"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://blotmkt.com/ia/definition/schema-org.html#terme",
+      "name": "Schema.org",
+      "inDefinedTermSet": {
+        "@id": "https://blotmkt.com/ia/definition/#termes"
+      },
+      "url": "https://blotmkt.com/ia/definition/schema-org.html"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://blotmkt.com/ia/definition/schema-org.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Comment Schema.org améliore-t-il le CTR d'un site web ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Schema.org améliore le CTR en générant des rich results visuellement différenciants dans la SERP : étoiles, prix, FAQ, images, temps de préparation. Les études documentent des hausses de CTR de 20 à 40 % pour les pages avec rich results par rapport aux résultats standards. Un résultat en position 4 avec rich snippets surpasse souvent un résultat en position 2 sans enrichissement, parce que la surface visuelle et l'information immédiate captent l'attention de l'utilisateur avant même le clic."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Schema.org est-il important pour le SEO local ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Le type `LocalBusiness` renforce la cohérence NAP (nom, adresse, téléphone), les horaires d'ouverture et les signaux du Knowledge Panel. Des données structurées bien organisées permettent à Google Assistant et Siri de fournir des réponses précises aux requêtes vocales. Avec 46 % des recherches Google à intention locale, un balisage `LocalBusiness` complet est l'un des investissements SEO les plus rapides à rentabiliser pour une entreprise physique."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment éviter les erreurs courantes lors de l'implémentation de Schema.org ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Les trois erreurs les plus fréquentes sont : choisir un type incohérent avec le contenu réel, omettre les propriétés recommandées (pas seulement les obligatoires), et ne pas monitorer les régressions après les mises à jour CMS. La méthode fiable consiste à valider chaque nouveau template via le Rich Results Test, à surveiller les rapports de données structurées dans Google Search Console, et à tester toute modification sur un sous-ensemble d'URLs avant déploiement global."
+          }
+        }
       ]
     }
   ]
@@ -267,7 +315,7 @@
         <nav class="breadcrumb" aria-label="Fil d'ariane"><a class="bc-link" href="https://blotmkt.com/ia/">BlotMKT</a><span class="bc-sep">›</span><a class="bc-link" href="/ia/definition/">Définitions SEO & GEO</a><span class="bc-sep">›</span><span class="bc-current">Schema-org</span></nav>
         <div class="article-meta"><div class="meta-tags"><span class="meta-kw">Schema-org</span></div><div class="meta-byline"><div class="meta-author-block"><img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:48px;height:48px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0"><div class="meta-author-info"><a class="meta-author" href="/ia/auteur-antoine-blot.html">Antoine Blot</a><span class="meta-jobtitle">Consultant SEO &amp; GEO</span></div></div><div class="meta-right"><span class="meta-date"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>5 mai 2026</span><span class="meta-read"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>9 min</span><a class="meta-md-btn" href="https://blotmkt.com/data/definition/schema-org.md">.md</a></div></div></div>
         <h1>Schema.org : guide complet pour structurer vos données et booster votre seo</h1>
-<h2 class="speakable">Sommaire</h2>
+<h2 id="sommaire" class="speakable">Sommaire</h2>
 <ul>
 <li><a href="#schemaorg-définition-et-principes-fondamentaux">Schema.org : définition et principes fondamentaux</a></li>
 <li><a href="#les-types-de-schemaorg-les-plus-courants-et-comment-les-utiliser-efficacement">Les types de Schema.org les plus courants et comment les utiliser efficacement</a></li>
@@ -279,7 +327,7 @@
 </ul>
 <p class="speakable-intro">Vos pages se positionnent, votre contenu est solide - pourtant vos concurrents affichent des étoiles, des prix et des FAQ directement dans Google. Vous, non. Ce décalage a un nom : l'absence de <a href="https://blotmkt.com/ia/definition/donnees-structurees.html">Données structurées</a>. Sans Schema.org, les moteurs de recherche devinent ce que vous publiez. Avec, vous leur dites explicitement. Ce guide vous montre comment implémenter le balisage Schema.org efficacement, quel format privilégier, quels types choisir, et comment mesurer l'impact réel sur votre visibilité organique en 2026.</p>
 <blockquote class="speakable">
-<h2 class="speakable">L'essentiel à retenir</h2>
+<h2 id="essentiel" class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>Les types Article, Product, Event, LocalBusiness et FAQPage couvrent 80 % des besoins SEO courants.</li>
 <li>Le Rich Results Test de Google et le Schema Markup Validator permettent de valider tout balisage avant publication.</li>
@@ -288,15 +336,13 @@
 </ul>
 </blockquote>
 <hr />
-<h2 id="schemaorg-définition-et-principes-fondamentaux">Schema.org : définition et principes fondamentaux</h2>
-
+<h2 id="schemaorg-définition-et-principes-fondamentaux" class="speakable">Schema.org : définition et principes fondamentaux</h2>
 <p>Schema.org est un vocabulaire de balisage sémantique créé en 2011 par Google, Microsoft, Yahoo et Yandex. Son rôle : fournir un langage commun pour décrire le contenu d'une page web aux moteurs de recherche. Le vocabulaire recense plus de 800 types d'entités - de <code>Product</code> à <code>Hospital</code>, en passant par <code>Organization</code> et <code>Event</code>.</p>
 <p>Le format d'implémentation recommandé est le JSON-LD (JavaScript Object Notation for Linked Data). Google le préconise explicitement car il s'intègre dans une balise <code>&lt;script&gt;</code> séparée du HTML, ce qui le rend plus facile à maintenir à grande échelle. Les alternatives Microdata et RDFa existent mais génèrent davantage de dette technique.</p>
 <p>Sur le plan fonctionnel, Schema.org améliore la compréhension du contenu par les moteurs de recherche et favorise l'obtention de rich results : étoiles, prix, FAQ, fil d'Ariane ou carrousels dans la SERP. Ces enrichissements visuels augmentent la surface occupée par votre résultat et attirent davantage de clics.</p>
 <p>Dans ma pratique, je vois encore trop de sites qui ignorent ce balisage. En 2026, c'est un écart de compétitivité mesurable - pas une option technique secondaire.</p>
 <hr />
-<h2 id="les-types-de-schemaorg-les-plus-courants-et-comment-les-utiliser-efficacement">Les types de Schema.org les plus courants et comment les utiliser efficacement</h2>
-
+<h2 id="les-types-de-schemaorg-les-plus-courants-et-comment-les-utiliser-efficacement" class="speakable">Les types de Schema.org les plus courants et comment les utiliser efficacement</h2>
 <p>Il existe plus de 800 types de schemas, mais se concentrer sur les 8 types à fort impact permet d'obtenir 80 % des bénéfices SEO. Les plus utilisés en pratique :</p>
 <ul>
 <li><code>Article</code> - pour les blogs, les actualités et les guides éditoriaux</li>
@@ -309,16 +355,14 @@
 <p>En novembre 2025, Google a déprécié 7 types de schemas supplémentaires, dont <code>Course Info</code>, <code>Claim Review</code> et <code>Vehicle Listing</code>. Ce mouvement confirme une tendance : concentrer les efforts sur les types à fort rendement SEO.</p>
 <p>J'observe chez mes clients que la combinaison <code>Product</code> + <code>FAQ</code> + <code>Review</code> schema sur les pages e-commerce est la plus rentable à implémenter en priorité.</p>
 <hr />
-<h2 id="propriétés-schemaorg-le-détail-pour-optimiser-vos-rich-results">Propriétés Schema.org : le détail pour optimiser vos rich results</h2>
-
+<h2 id="propriétés-schemaorg-le-détail-pour-optimiser-vos-rich-results" class="speakable">Propriétés Schema.org : le détail pour optimiser vos rich results</h2>
 <p>Chaque type de schema dispose de ses propres propriétés. Pour <code>Product</code>, les propriétés clés sont : <code>name</code>, <code>description</code>, <code>image</code>, <code>price</code>, <code>availability</code> et <code>aggregateRating</code>. Pour <code>Article</code>, ce sont : <code>headline</code>, <code>author</code>, <code>datePublished</code>, <code>dateModified</code> et <code>image</code>.</p>
 <p>Schema.org peut qualifier des pages pour des fonctionnalités SERP améliorées : étoiles, prix, FAQ, fil d'Ariane, carrousels produits. Ces formats améliorent le taux de clics car ils rendent votre résultat plus informatif et visuellement différenciant. Les études montrent des hausses de CTR de 20 à 40 % pour les pages bénéficiant de rich results, par rapport aux résultats standards.</p>
 <p>Nestlé a enregistré un CTR 82 % plus élevé sur les pages avec rich results, et Food Network a observé une hausse de 35 % de ses visites grâce aux données structurées. Ces chiffres sont le résultat direct de propriétés bien renseignées, pas d'un effet de hasard.</p>
 <p>La précision des données est non négociable : une <code>aggregateRating</code> incorrecte ou une <code>availability</code> périmée expose à une sanction manuelle de Google.</p>
 <p>Mon expérience montre que les sites qui renseignent toutes les propriétés recommandées - pas seulement les obligatoires - obtiennent des rich results plus stables dans le temps.</p>
 <hr />
-<h2 id="outils-pour-tester-et-valider-votre-balisage-schemaorg">Outils pour tester et valider votre balisage Schema.org</h2>
-
+<h2 id="outils-pour-tester-et-valider-votre-balisage-schemaorg" class="speakable">Outils pour tester et valider votre balisage Schema.org</h2>
 <p>Valider son balisage avant publication n'est pas optionnel. Les spécifications Schema.org évoluent, les CMS causent des régressions lors des mises à jour, et les erreurs silencieuses s'accumulent sans monitoring actif.</p>
 <p>La pile d'outils recommandée comprend trois niveaux :</p>
 <ol>
@@ -329,27 +373,24 @@
 <p>Toutes les erreurs n'ont pas le même impact. Les erreurs critiques - syntaxe invalide, type incohérent, champs obligatoires manquants - bloquent l'éligibilité aux rich results. Les avertissements n'empêchent pas le déclenchement mais dégradent la qualité du signal envoyé aux moteurs.</p>
 <p>Sur les projets que je pilote, j'applique une approche itérative : chaque nouveau template de schema est testé sur 10 URLs avant déploiement global. Cette méthode a réduit les régressions massives post-déploiement à zéro sur mes trois derniers audits.</p>
 <hr />
-<h2 id="schemaorg-et-seo-local-une-combinaison-gagnante">Schema.org et SEO local : une combinaison gagnante</h2>
-
+<h2 id="schemaorg-et-seo-local-une-combinaison-gagnante" class="speakable">Schema.org et SEO local : une combinaison gagnante</h2>
 <p>Le type <code>LocalBusiness</code> est l'un des schemas les plus rentables pour les entreprises ayant une présence physique. Il renforce la cohérence NAP (nom, adresse, téléphone), les horaires d'ouverture, les actions de réservation et les signaux du Knowledge Panel.</p>
 <p>46 % des recherches Google ont une intention locale. Dans ce contexte, un balisage <code>LocalBusiness</code> complet améliore la visibilité dans les packs locaux, les résultats Maps et les recherches vocales. Des données bien structurées permettent à Google Assistant et Siri de fournir des réponses précises sur les horaires, l'adresse ou les services disponibles.</p>
 <p>Une entreprise locale avec une adresse et des horaires correctement balisés a statistiquement plus de chances d'apparaître dans les résultats vocaux. 76 % des utilisateurs visitent un commerce dans les 24 heures suivant une recherche mobile locale, selon les données 2026 d'Incremys.</p>
 <p>En travaillant avec des entreprises québécoises, je constate que la majorité sous-utilise <code>LocalBusiness</code> : les champs <code>openingHoursSpecification</code>, <code>geo</code> et <code>hasMap</code> sont rarement renseignés, alors qu'ils améliorent directement la visibilité dans les packs locaux.</p>
 <hr />
-<h2 id="automatisation-et-personnalisation-lavenir-du-schemaorg">Automatisation et personnalisation : l'avenir du Schema.org</h2>
-
+<h2 id="automatisation-et-personnalisation-lavenir-du-schemaorg" class="speakable">Automatisation et personnalisation : l'avenir du Schema.org</h2>
 <p>L'automatisation du structured data devient indispensable pour les sites de plus de 10 000 pages. Les approches se structurent en deux catégories. La première : les plugins CMS avancés (Yoast SEO Premium, Rank Math Pro, Schema Pro) gèrent les templates par type de contenu. La seconde : les scripts custom interrogent des APIs produit ou des bases de données pour injecter des valeurs dynamiques en JSON-LD.</p>
 <p>En mars 2025, Google et Microsoft ont confirmé publiquement qu'ils utilisent le balisage Schema.org pour alimenter leurs fonctionnalités d'IA générative, car les données structurées sont "efficaces, précises et facilement traitables par les machines." ChatGPT a suivi, confirmant l'utilisation du structured data pour les résultats produits.</p>
 <p>En 2026, les pages intégrant un balisage Schema.org FAQPage valide obtenaient en moyenne 2,8 fois plus d'impressions dans les AI Overviews que les pages sans données structurées sur les mêmes requêtes. J'ai documenté ce constat sur plusieurs projets - retrouvez l'analyse complète dans mes <a href="https://www.antoine-blot.com/ressources-seo/">ressources SEO</a>.</p>
 <p>Comme spécialiste GEO, je suis convaincu que le structured data est devenu la langue privilégiée des intelligences artificielles des moteurs de recherche. Le GEO (Generative Engine Optimization) optimise les chances d'être cité dans ChatGPT, Gemini ou Perplexity - et Schema.org en est l'infrastructure de base.</p>
 <hr />
-<h2 id="questions-fréquentes-sur-schemaorg">Questions fréquentes sur Schema.org</h2>
-
-<h3>Comment Schema.org améliore-t-il le CTR d'un site web ?</h3>
+<h2 id="questions-fréquentes-sur-schemaorg" class="speakable">Questions fréquentes sur Schema.org</h2>
+<h3 id="comment-schema-org-ameliore-t-il-le-ctr-d-un-site-web">Comment Schema.org améliore-t-il le CTR d'un site web ?</h3>
 <p>Schema.org améliore le CTR en générant des rich results visuellement différenciants dans la SERP : étoiles, prix, FAQ, images, temps de préparation. Les études documentent des hausses de CTR de 20 à 40 % pour les pages avec rich results par rapport aux résultats standards. Un résultat en position 4 avec rich snippets surpasse souvent un résultat en position 2 sans enrichissement, parce que la surface visuelle et l'information immédiate captent l'attention de l'utilisateur avant même le clic.</p>
-<h3>Schema.org est-il important pour le SEO local ?</h3>
+<h3 id="schema-org-est-il-important-pour-le-seo-local">Schema.org est-il important pour le SEO local ?</h3>
 <p>Oui. Le type <code>LocalBusiness</code> renforce la cohérence NAP (nom, adresse, téléphone), les horaires d'ouverture et les signaux du Knowledge Panel. Des données structurées bien organisées permettent à Google Assistant et Siri de fournir des réponses précises aux requêtes vocales. Avec 46 % des recherches Google à intention locale, un balisage <code>LocalBusiness</code> complet est l'un des investissements SEO les plus rapides à rentabiliser pour une entreprise physique.</p>
-<h3>Comment éviter les erreurs courantes lors de l'implémentation de Schema.org ?</h3>
+<h3 id="comment-eviter-les-erreurs-courantes-lors-de-l">Comment éviter les erreurs courantes lors de l'implémentation de Schema.org ?</h3>
 <p>Les trois erreurs les plus fréquentes sont : choisir un type incohérent avec le contenu réel, omettre les propriétés recommandées (pas seulement les obligatoires), et ne pas monitorer les régressions après les mises à jour CMS. La méthode fiable consiste à valider chaque nouveau template via le Rich Results Test, à surveiller les rapports de données structurées dans Google Search Console, et à tester toute modification sur un sous-ensemble d'URLs avant déploiement global.</p>
 <hr />
 <p><em>Sources : Schema App Solutions (schemaapp.com, 2025) ; ALM Corp, Schema Markup in 2026 (almcorp.com, 2025) ; Incremys, Schema.org for SEO (incremys.com, 2026) ; Tonic Worldwide, Schema Markup and Rich Snippets in 2026 (tonicworldwide.com, 2026) ; Search Engine Land, Structured Data and SEO (searchengineland.com, 2024) ; Clickforest, Structured Data Guide 2026 (clickforest.com, 2025) ; Viserx, Google Drops 7 Schema Types (viserx.com, 2025)</em></p>
@@ -364,7 +405,7 @@
           <a href="/ia/auteur-antoine-blot.html" style="font-weight:700;color:#1a1a1a;font-size:0.95rem;text-decoration:none">Antoine Blot</a>
           <span style="font-size:0.78rem;color:#888">Consultant SEO &amp; GEO</span>
         </div>
-        <p style="font-size:0.85rem;color:#555;margin:0 0 10px;line-height:1.6;font-style:italic">Responsable marketing et consultant SEO et GEO à Montréal et au Québec. Une décennie de pratique au service de la visibilité des marques sur Google et les moteurs IA.</p>
+        <p style="font-size:0.85rem;color:#555;margin:0 0 10px;line-height:1.6;font-style:italic">Expert en stratégies d'acquisition organique (SEO et GEO) basé au Québec. 12 ans de pratique et de veille technologique au service de la visibilité des marques sur Google et les moteurs IA.</p>
         <div style="display:flex;gap:8px;flex-wrap:wrap">
           <a href="/ia/auteur-antoine-blot.html" style="font-size:0.75rem;color:#0066cc;border:1px solid #dde8ff;padding:2px 10px;border-radius:20px;background:#fff;text-decoration:none">Voir le profil</a>
           <a href="https://antoine-blot.com" target="_blank" rel="noopener" style="font-size:0.75rem;color:#0066cc;border:1px solid #dde8ff;padding:2px 10px;border-radius:20px;background:#fff;text-decoration:none">antoine-blot.com</a>
@@ -378,9 +419,7 @@
     <div class="footer-inner">
       <div class="footer-left">
         <strong>BLOT Antoine</strong><br>
-        48 rue de la Concorde<br>
-        Repentigny, Québec<br>
-        Canada
+        48 rue de la Concorde, Repentigny, QC J6A 3W2, Canada
       </div>
       <div class="footer-right">
         <a href="/ia/">Articles</a>

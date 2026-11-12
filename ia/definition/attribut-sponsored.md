@@ -23,7 +23,7 @@ publisher: "BlotMKT - Antoine Blot"
 ---
 # Attribut sponsored : guide complet pour une stratégie SEO conforme
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Attribut sponsored : définition et enjeux pour le SEO](#attribut-sponsored-definition-et-enjeux-pour-le-seo)
 - [Sponsored vs. nofollow vs. ugc : comprendre les différences](#sponsored-vs-nofollow-vs-ugc-comprendre-les-differences)
 - [Implémentation technique de l'attribut sponsored](#implementation-technique-de-lattribut-sponsored)
@@ -173,28 +173,28 @@ Je le répète souvent à mes clients : conformité légale et conformité techn
 
 ## Questions fréquentes sur l'attribut sponsored {#questions-frequentes-sur-lattribut-sponsored}
 
-### Comment vérifier si un lien est correctement tagué `rel="sponsored"` ?
+### Comment vérifier si un lien est correctement tagué `rel="sponsored"` ? {#comment-verifier-si-un-lien-est-correctement-tague-rel}
 
 Deux méthodes rapides. Dans le navigateur, faites clic droit sur le lien et "Inspecter" : la balise `<a>` doit contenir `rel="sponsored"`. À grande échelle, un crawl Screaming Frog avec export des liens sortants permet d'identifier tous les attributs `rel` en un seul passage. Google Search Console ne remonte pas directement les attributs de liens sortants : l'audit code reste obligatoire.
 
-### L'attribut sponsored impacte-t-il directement le positionnement du site émetteur ?
+### L'attribut sponsored impacte-t-il directement le positionnement du site émetteur ? {#l-attribut-sponsored-impacte-t-il-directement-le}
 
 Non, pas directement. 
 L'effet essentiel est que le lien n'influencera normalement pas le classement de la page liée.
  L'impact réel est protecteur : l'absence de `rel="sponsored"` sur un lien commercial peut déclencher une action manuelle. Utiliser l'attribut correctement évite cette sanction et maintient la crédibilité du profil de liens.
 
-### Faut-il utiliser `nofollow` en plus de `sponsored` ?
+### Faut-il utiliser `nofollow` en plus de `sponsored` ? {#faut-il-utiliser-nofollow-en-plus-de-sponsored}
 
 Combiner `rel="sponsored nofollow"` est possible, mais redondant.
  Depuis septembre 2019, `rel="sponsored"` seul suffit pour signaler la nature commerciale et supprimer le transfert de PageRank. Conserver `nofollow` en plus ne cause pas de problème, mais n'apporte pas de valeur supplémentaire sur un lien déjà tagué `sponsored`.
 
-### Les mentions légales visibles suffisent-elles sans l'attribut HTML ?
+### Les mentions légales visibles suffisent-elles sans l'attribut HTML ? {#les-mentions-legales-visibles-suffisent-elles-sans-l}
 
 Non. 
 La DGCCRF a rappelé à plusieurs reprises l'importance de la transparence dans les contenus sponsorisés.
  Mais une mention textuelle visible répond à l'obligation légale française, pas à la directive technique de Google. Les deux exigences sont indépendantes et cumulatives. Un contenu avec mention éditoriale mais sans `rel="sponsored"` reste une infraction aux directives de liens de Google.
 
-### Est-il obligatoire de modifier les anciens liens `nofollow` vers des liens d'affiliation ?
+### Est-il obligatoire de modifier les anciens liens `nofollow` vers des liens d'affiliation ? {#est-il-obligatoire-de-modifier-les-anciens-liens-nofollow}
 
 Techniquement, Google indique que les anciens liens `nofollow` sur des placements payants ne déclenchent pas automatiquement de pénalité si la pratique est cohérente. Dans ma pratique, je recommande de migrer progressivement lors des audits : 
 vous pouvez laisser l'attribut `nofollow` pour vos liens sponsorisés existants et passer à `sponsored` pour les nouveaux.

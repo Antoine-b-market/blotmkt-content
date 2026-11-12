@@ -51,7 +51,7 @@ les sessions référées par l'IA ont bondi de 527 % en glissement annuel sur le
 
 ---
 
-## Qu'est-ce que le GEO (Generative Engine Optimization) ? {#quest-ce-que-le-geo}
+## Qu'est-ce que le GEO (Generative Engine Optimization) ?
 
 Le GEO (Generative Engine Optimization) est la pratique qui consiste à optimiser son contenu pour apparaître comme source et citation dans les réponses générées par des plateformes IA comme ChatGPT, Perplexity, Google AI Overviews et Claude.
  
@@ -69,7 +69,7 @@ ChatGPT compte 800 millions d'utilisateurs hebdomadaires, Perplexity enregistre 
 
 ---
 
-## GEO vs. SEO traditionnel : différences et synergies essentielles {#geo-vs-seo-traditionnel}
+## GEO vs. SEO traditionnel : différences et synergies essentielles
 
 Le SEO optimise les pages pour apparaître dans les résultats des moteurs traditionnels comme Google via des leviers techniques et de popularité. Le GEO optimise le contenu pour être cité dans les réponses générées par les IA. Le SEO cible l'algorithme de classement, le GEO cible le raisonnement du modèle de langage. Les deux approches sont complémentaires.
 
@@ -84,7 +84,7 @@ Un site avec une fondation SEO solide a plus de chances d'être cité par les mo
 
 ---
 
-## Stratégies clés pour une implémentation GEO efficace et la visibilité AI {#strategies-cles}
+## Stratégies clés pour une implémentation GEO efficace et la visibilité AI
 
 Les principes fondamentaux du GEO sont clairs : structurer le contenu avec des réponses directes dans les 40 à 60 premiers mots, maintenir une densité de faits avec une statistique toutes les 150 à 200 mots, citer des sources d'autorité, et implémenter un schema markup approprié.
 
@@ -99,7 +99,7 @@ les pages avec un schema FAQ obtiennent disproportionnellement plus de citations
 
 ---
 
-## Maximiser le ROI du GEO : avantages pour l'engagement et l'autorité AI {#maximiser-le-roi}
+## Maximiser le ROI du GEO : avantages pour l'engagement et l'autorité AI
 
 Sur 12 sites audités en e-commerce local à Montréal, un GEO guide complet a boosté la visibilité organique de 38 % pour les recherches "près de moi", captant une clientèle ultra-ciblée. Ce résultat n'est pas un accident de parcours - c'est la conséquence directe d'une structuration de contenu pensée pour les moteurs génératifs. Retrouvez le détail de cette méthodologie sur ma page [consultant SEO](https://www.antoine-blot.com/consultant-seo/).
 
@@ -112,7 +112,7 @@ Le marché du GEO passera de 886 millions de dollars en 2024 à 7,3 milliards de
 
 ---
 
-## Cas d'usage concrets et adaptation du GEO aux évolutions de l'IA {#cas-dusage}
+## Cas d'usage concrets et adaptation du GEO aux évolutions de l'IA
 
 Le GEO nivelle le terrain de jeu - une petite entreprise avec une expertise profonde et spécifique peut surpasser de grandes marques dans les réponses IA.
  C'est l'une des opportunités les plus concrètes que j'observe en 2026 pour les PME montréalaises.
@@ -126,7 +126,7 @@ Les évolutions attendues incluent la standardisation des outils de mesure GEO, 
 
 ---
 
-## Erreurs à éviter en optimisation GEO {#erreurs-a-eviter}
+## Erreurs à éviter en optimisation GEO
 
 Le keyword stuffing, méthode traditionnelle du SEO, performe souvent moins bien dans les contextes génératifs.
  C'est l'erreur la plus fréquente que j'observe chez les marques qui "font du GEO" sans en comprendre la mécanique réelle.
@@ -142,7 +142,7 @@ Les pages optimisées pour l'IA qui incluent une réponse structurée courte et 
 
 ---
 
-## Questions fréquentes {#questions-frequentes}
+## Questions fréquentes
 
 ### Quels outils sont essentiels pour mettre en œuvre une stratégie GEO ?
 
@@ -178,5 +178,5 @@ Même en top 3 sur Google, les AI Overviews peuvent amputer votre trafic d'envir
 - [AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix](https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
-- [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)

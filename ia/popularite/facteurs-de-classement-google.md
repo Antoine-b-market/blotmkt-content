@@ -27,7 +27,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # Facteurs de classement Google : le guide ultime 2026 pour dominer les SERPs
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Les trois piliers du classement Google en 2026](#trois-piliers)
 - [Contenu et couverture sémantique : ce que Google mesure vraiment](#contenu-semantique)
 - [Core Web Vitals et signaux techniques](#core-web-vitals)
@@ -137,22 +137,22 @@ La Generative Engine Optimization (GEO) s'impose également comme dimension comp
 
 ## Questions fréquentes {#questions-frequentes}
 
-### Combien de facteurs de classement Google existe-t-il en 2026 ?
+### Combien de facteurs de classement Google existe-t-il en 2026 ? {#combien-de-facteurs-de-classement-google-existe-t-il-en-2026}
 
 Le "mythe des 200 facteurs" rend le SEO artificiellement complexe. Google utilise des systèmes qui évaluent des patterns, pas des interrupteurs isolés. Une seule mise à jour peut remodeler l'interprétation de plusieurs signaux simultanément. À la place d'une liste à cocher, concentrez-vous sur les piliers que ces systèmes récompensent : correspondance d'intention, confiance, autorité et pages utilisables.
 
-### Comment Google détecte-t-il les contenus IA de mauvaise qualité ?
+### Comment Google détecte-t-il les contenus IA de mauvaise qualité ? {#comment-google-detecte-t-il-les-contenus-ia-de-mauvaise}
 
 Les Spam Updates ciblent précisément les contenus IA publiés en masse sans relecture humaine, le duplicate content, le netlinking artificiel et le parasite SEO. Leur déploiement est souvent rapide, parfois inférieur à 24 heures.
  En 2026, générer du contenu IA sans expertise réelle ni supervision éditoriale humaine déclenche ces filtres directement.
 
-### Que faire après une baisse de trafic suite à un core update ?
+### Que faire après une baisse de trafic suite à un core update ? {#que-faire-apres-une-baisse-de-trafic-suite-a-un-core-update}
 
 Dans Google Search Console, surveillez les impressions, clics, CTR et positions moyennes en segmentant par requêtes, pages et pays.
  
 Priorisez les pages stratégiques - celles qui génèrent le plus de trafic ou qui ciblent vos requêtes commerciales principales - et traitez-les une par une avec un vrai enrichissement éditorial.
 
-### Le mobile est-il vraiment un facteur de classement Google ?
+### Le mobile est-il vraiment un facteur de classement Google ? {#le-mobile-est-il-vraiment-un-facteur-de-classement-google}
 
 La compatibilité mobile est un facteur de classement confirmé depuis 2018. Google applique l'indexation mobile-first : c'est la version mobile de vos pages qui est crawlée et évaluée en priorité. Un site non responsive ou lent sur mobile sera systématiquement désavantagé, même sur les recherches depuis desktop.
 

@@ -44,7 +44,7 @@ Vous cherchez une agence SEO à Montréal et vous vous retrouvez face à des diz
 
 ---
 
-## Critères de sélection et modèles tarifaires pour votre référencement à Montréal {#criteres}
+## Critères de sélection et modèles tarifaires pour votre référencement à Montréal
 
 ### Ce que les grilles tarifaires ne vous disent pas
 
@@ -62,7 +62,7 @@ Avant toute chose, vérifiez que l'agence maîtrise votre environnement techniqu
 
 ---
 
-## Tableau comparatif de 8 agences SEO de référence à Montréal {#comparatif}
+## Tableau comparatif de 8 agences SEO de référence à Montréal
 
 Le tableau ci-dessous regroupe huit agences montréalaises régulièrement citées. Je le présente par profil dominant plutôt que par classement : l'objectif est d'aligner le bon prestataire avec votre situation réelle.
 
@@ -92,7 +92,7 @@ Un prestataire qui esquive la quatrième question en 2026 n'est pas à jour.
 
 ---
 
-## Mesure des résultats terrain : cas concret d'une stratégie SEO et GEO à Montréal {#preuve}
+## Mesure des résultats terrain : cas concret d'une stratégie SEO et GEO à Montréal
 
 Sur un mandat de huit mois pour un cabinet dentaire dans l'arrondissement Rosemont-La Petite-Patrie, j'ai piloté une stratégie SEO/GEO combinant audit technique, optimisation sémantique locale et structuration des entités pour les moteurs de réponse. Les résultats mesurés entre novembre 2025 et juin 2026 : +35 % de trafic organique, 47 demandes de rendez-vous par mois attribuées au SEO et 70 citations directes obtenues dans Google AI Overview.
 
@@ -102,7 +102,7 @@ Je déconseille de mesurer uniquement le trafic organique. Un cabinet dentaire �
 
 ---
 
-## Les pièges contractuels et fausses promesses du référencement web {#pieges}
+## Les pièges contractuels et fausses promesses du référencement web
 
 ### Vrai ou faux : démystification des promesses courantes
 
@@ -126,7 +126,7 @@ Si votre site a subi une pénalité manuelle ou algorithmique, la situation se c
 
 ---
 
-## De Google aux moteurs IA : ce que votre partenaire SEO doit anticiper en 2026 {#geo}
+## De Google aux moteurs IA : ce que votre partenaire SEO doit anticiper en 2026
 
 ### Le GEO n'est pas une option
 
@@ -142,7 +142,7 @@ Au-delà du contenu, la performance technique conditionne l'indexation mobile-fi
 
 ---
 
-## Références {#references}
+## Références
 
 [^1]: Oshara, « Les meilleures agences web à Montréal », 2026. https://oshara.ca/les-meilleures-agences-web-a-montreal/
 [^2]: Webdesignguide.ca, « SEO Services Montreal », 2026. https://webdesignguide.ca/seo-services-montreal/
@@ -150,7 +150,7 @@ Au-delà du contenu, la performance technique conditionne l'indexation mobile-fi
 
 ---
 
-## Questions fréquentes {#questions-frequentes}
+## Questions fréquentes
 
 ### Combien coûte une agence SEO à Montréal ?
 

@@ -48,7 +48,7 @@ Votre enseigne est belle - mais personne ne la voit avant d'être déjà devant 
 
 ---
 
-## Définition du rayon de visibilité en signalétique : l'importance cruciale {#definition-rayon-visibilite}
+## Définition du rayon de visibilité en signalétique : l'importance cruciale
 
 Le rayon de visibilité désigne la distance maximale à laquelle un observateur peut percevoir, identifier et comprendre une signalétique. Ce n'est pas une valeur fixe : elle dépend simultanément de la taille des caractères, du contraste, de l'éclairage ambiant et de la qualité des matériaux. 
 Les dimensions des panneaux dépendent directement de la distance de lecture. La norme NF X 08-003-1 fixe la formule suivante : la hauteur minimale du panneau en mètres est égale à la distance d'observation divisée par 100. Pour une distance de 25 mètres, le panneau mesure au minimum 250 mm de côté.
@@ -60,7 +60,7 @@ Mon expérience montre que la majorité des enseignes auditées sont sous-dimens
 
 ---
 
-## L'impact du rayon de visibilité sur l'attraction client et l'image de marque {#impact-attraction-client}
+## L'impact du rayon de visibilité sur l'attraction client et l'image de marque
 
 Un rayon de visibilité étendu génère trois effets mesurables. D'abord, l'augmentation du trafic qualifié : une enseigne perçue à 30 mètres plutôt qu'à 10 mètres triple le temps de décision disponible pour un passant. Ensuite, l'amélioration de la notoriété : une enseigne mémorisée même sans achat immédiat construit une familiarité de marque. Enfin, le renforcement de l'image professionnelle : une signalétique lisible, contrastée et bien éclairée signale un commerce qui investit dans sa qualité.
 
@@ -68,7 +68,7 @@ Sur 14 fiches Google Business Profile auditées en 2026, les entreprises génér
 
 ---
 
-## Facteurs clés pour maximiser le rayon de visibilité : le guide pratique {#facteurs-cles-maximiser}
+## Facteurs clés pour maximiser le rayon de visibilité : le guide pratique
 
 Trois variables techniques déterminent la portée visuelle d'une signalétique.
 
@@ -84,7 +84,7 @@ Dans les zones à faible éclairage, une version photoluminescente garantit la v
 
 ---
 
-## Mesurer et améliorer le rayon de visibilité existant : audit et optimisation {#mesurer-ameliorer-audit}
+## Mesurer et améliorer le rayon de visibilité existant : audit et optimisation
 
 Un audit de visibilité se conduit en trois étapes sur le terrain. D'abord, l'observation à 5, 15 et 30 mètres : noter ce qui est perçu, ce qui est lisible, ce qui est compris. Ensuite, la mesure instrumentée : un luxmètre évalue l'éclairage ambiant, un colorimètre mesure le ratio de contraste réel. Enfin, l'identification des obstacles - végétation, mobilier urbain, véhicules stationnés - qui réduisent le cône de visibilité effectif.
 
@@ -95,7 +95,7 @@ Dans ma pratique avec des commerces en zone urbaine, je recommande un audit visu
 
 ---
 
-## Alternatives pour une visibilité accrue sans augmenter la taille {#alternatives-visibilite}
+## Alternatives pour une visibilité accrue sans augmenter la taille
 
 Augmenter la taille d'une enseigne n'est pas toujours possible : réglementation locale, contraintes architecturales, budget. Quatre alternatives produisent des résultats tangibles.
 
@@ -110,7 +110,7 @@ Stratège marketing depuis plusieurs années, je recommande en priorité l'optim
 
 ---
 
-## Exemples concrets de signalétiques avec un rayon de visibilité optimal : inspiration et bonnes pratiques {#exemples-concrets}
+## Exemples concrets de signalétiques avec un rayon de visibilité optimal : inspiration et bonnes pratiques
 
 Quatre cas illustrent ce que signifie un rayon de visibilité maîtrisé.
 
@@ -123,7 +123,7 @@ Ce que je constate chez mes clients dans la restauration : les enseignes combina
 
 ---
 
-## Accessibilité et rayon de visibilité : considérations WCAG {#accessibilite-wcag}
+## Accessibilité et rayon de visibilité : considérations WCAG
 
 L'accessibilité n'est pas un sujet distinct du rayon de visibilité - elle en est la version inclusive. Concevoir pour les personnes malvoyantes, daltoniens ou seniors améliore mécaniquement la lisibilité pour tous.
 
@@ -137,7 +137,7 @@ En travaillant avec des entreprises sur leurs audits signalétiques en 2026, je 
 
 ---
 
-## Questions fréquentes {#questions-frequentes}
+## Questions fréquentes
 
 ### Comment améliorer la visibilité d'une enseigne sans la remplacer ?
 

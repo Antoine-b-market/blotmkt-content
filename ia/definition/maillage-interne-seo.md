@@ -23,7 +23,7 @@ publisher: "BlotMKT - Antoine Blot"
 ---
 # Maillage interne SEO : structurez votre site pour dominer les SERP
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Définition et rôle fondamental du maillage interne SEO](#definition-et-role-fondamental)
 - [Pourquoi le maillage interne est-il essentiel pour votre SEO ?](#pourquoi-essentiel)
 - [Bonnes pratiques pour un maillage interne efficace et pertinent](#bonnes-pratiques)
@@ -212,30 +212,30 @@ Le balisage schema.org pour les featured snippets est fondamental pour optimiser
 
 ## FAQ : questions fréquentes sur le maillage interne SEO {#faq}
 
-### Quelle est la différence entre maillage interne et netlinking ?
+### Quelle est la différence entre maillage interne et netlinking ? {#quelle-est-la-difference-entre-maillage-interne-et}
 
 Le netlinking désigne les liens provenant de sites externes vers votre domaine. Le maillage interne relie les pages d'un même domaine entre elles. La différence fondamentale : vous contrôlez à 100 % votre maillage interne, mais dépendez toujours d'éditeurs tiers pour le netlinking. 
 Le coût moyen d'achat d'un backlink est de 361 $ selon Ahrefs.
  Le maillage interne, lui, ne coûte que du temps de réflexion stratégique.
 
-### Combien de liens internes par page est-il recommandé d'avoir ?
+### Combien de liens internes par page est-il recommandé d'avoir ? {#combien-de-liens-internes-par-page-est-il-recommande-d-avoir}
 
 Pour un contenu court (moins de 1 000 mots), 2 à 5 liens internes sont recommandés. Pour un contenu long (plus de 2 000 mots), 5 à 10 liens internes sont appropriés.
  Ces fourchettes visent un équilibre entre valeur utilisateur et transmission d'autorité sans dilution excessive.
 
-### Le maillage interne peut-il remplacer le netlinking ?
+### Le maillage interne peut-il remplacer le netlinking ? {#le-maillage-interne-peut-il-remplacer-le-netlinking}
 
 Non, mais il peut en amplifier considérablement l'effet. 
 Un lien interne stratégique depuis une page à haute autorité peut apporter plus de boost au classement qu'un backlink externe de faible qualité.
  La stratégie gagnante combine des backlinks de qualité et un maillage interne qui dirige leur autorité vers les pages prioritaires.
 
-### Comment auditer l'efficacité de son maillage interne actuel ?
+### Comment auditer l'efficacité de son maillage interne actuel ? {#comment-auditer-l-efficacite-de-son-maillage-interne-actuel}
 
 Trois outils complémentaires : Screaming Frog SEO Spider pour cartographier les liens et identifier les pages orphelines, Google Search Console pour mesurer la couverture d'indexation et détecter les erreurs de crawl, et Google Analytics 4 pour analyser les chemins de navigation et repérer les pages où les utilisateurs quittent votre site. 
 Une structure de liens internes optimisée peut améliorer le taux de crawl de 40 % à 70 %, selon JetOctopus (2024).
  Comparez votre taux de crawl avant et après une refonte de maillage pour mesurer l'impact réel.
 
-### Qu'est-ce qu'une page orpheline en SEO ?
+### Qu'est-ce qu'une page orpheline en SEO ? {#qu-est-ce-qu-une-page-orpheline-en-seo}
 
 Une page orpheline est une page qui ne reçoit aucun lien interne depuis le reste du site. 
 Google utilise les graphes de liens internes pour cartographier les clusters d'autorité thématique.

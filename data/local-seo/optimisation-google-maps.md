@@ -51,7 +51,7 @@ le taux de conversion d'une recherche locale dans la journée atteint 18 %, cont
 
 ---
 
-## L'optimisation google maps : qu'est-ce que c'est et pourquoi est-ce important ? {#definition}
+## L'optimisation google maps : qu'est-ce que c'est et pourquoi est-ce important ?
 
 L'optimisation Google Maps désigne l'ensemble des actions visant à améliorer la visibilité d'un établissement dans les résultats locaux de Google - notamment le "Local Pack", ce bloc de trois fiches qui apparaît au-dessus des résultats organiques. 
 Apparaître dans le Local Pack est le Graal pour toute entreprise locale : c'est l'encart qui capte la majorité des clics avant même les résultats naturels.
@@ -63,7 +63,7 @@ Dans ma pratique avec des entreprises québécoises, j'observe que beaucoup sous
 
 ---
 
-## Comprendre le fonctionnement de l'algorithme google maps en 2026 {#algorithme}
+## Comprendre le fonctionnement de l'algorithme google maps en 2026
 
 Les résultats de recherche à proximité s'appuient principalement sur des critères de pertinence, de distance et de popularité. Ensemble, ces facteurs aident Google à trouver la meilleure correspondance pour les recherches des clients.
  Mais en 2026, l'équilibre entre ces trois piliers a évolué.
@@ -77,7 +77,7 @@ En 2026, l'exactitude des horaires est devenue un facteur de pondération critiq
 
 ---
 
-## Optimisation du google business profile : la base d'une présence locale forte {#gbp}
+## Optimisation du google business profile : la base d'une présence locale forte
 
 Selon l'étude Whitespark 2026, le profil Google Business Profile (GBP) reste le levier numéro un du référencement local, représentant 32 % des signaux du Local Pack.
  C'est votre fondation. Tout commence ici.
@@ -91,7 +91,7 @@ En travaillant avec des entreprises québécoises, j'ai mesuré un résultat fra
 
 ---
 
-## Stratégies avancées d'optimisation on-site pour google maps {#onsite}
+## Stratégies avancées d'optimisation on-site pour google maps
 
 Votre site web amplifie ou freine votre fiche GBP. 
 La pertinence de votre site web influence directement le classement de votre fiche sur Google Maps. Le SEO on-page est une composante essentielle du référencement local, qui permet d'optimiser votre site pour mieux correspondre aux critères de recherche locaux.
@@ -105,7 +105,7 @@ Mon expérience montre que la page locale est souvent le maillon faible. Un clie
 
 ---
 
-## L'importance du netlinking local pour votre référencement maps {#netlinking}
+## L'importance du netlinking local pour votre référencement maps
 
 Le netlinking local agit comme un vote de confiance crucial aux yeux de Google. Plus votre entreprise récolte de mentions et recommandations de sources crédibles géographiquement, plus l'algorithme vous considère comme une autorité dans votre secteur. Développer ce réseau demande une démarche structurée et persévérante.
 
@@ -115,7 +115,7 @@ Un backlink depuis un blogue de quartier ou un site d'actualités municipales es
 
 Dans ma pratique, je valorise particulièrement les liens provenant d'organismes à but non lucratif de la région. Ces organisations sont souvent perçues comme objectives et dignes de confiance. Un partenariat, même modeste, peut se traduire par un lien précieux.
 
-## Les erreurs courantes à éviter lors de l'optimisation google maps {#erreurs}
+## Les erreurs courantes à éviter lors de l'optimisation google maps
 
 Les établissements qui disposent d'informations complètes et précises sont plus susceptibles de s'afficher dans les résultats à proximité. Si les informations ne sont pas exactes, la fiche peut ne pas s'afficher lorsque les utilisateurs recherchent vos produits ou services dans votre zone géographique.
 
@@ -128,7 +128,7 @@ Sur les projets que je pilote, la cause numéro un de sous-performance n'est pas
 
 ---
 
-## Mesurer et analyser les résultats de votre optimisation google maps {#mesure}
+## Mesurer et analyser les résultats de votre optimisation google maps
 
 Google mesure précisément le taux de clic, les demandes d'itinéraire et les appels générés depuis votre fiche.
  Ce sont exactement ces mêmes métriques que vous devez suivre dans l'interface GBP pour évaluer vos progrès.
@@ -142,7 +142,7 @@ J'observe que la plupart de mes clients ne consultent leur tableau de bord GBP q
 
 ---
 
-## L'avenir de l'optimisation google maps : l'impact de l'ia {#avenir}
+## L'avenir de l'optimisation google maps : l'impact de l'ia
 
 L'enjeu pour 2026 est simple : orchestrer les signaux locaux pour répondre à la fois aux intentions de recherche locales classiques et aux nouveaux parcours en mode conversationnel IA.
  Google Gemini, AI Overviews et les assistants vocaux puisent dans les fiches GBP et les [Données structurées](https://blotmkt.com/ia/definition/donnees-structurees.html) pour formuler leurs recommandations.
@@ -156,7 +156,7 @@ Pour la première fois en 2026, les facteurs de classement dans les réponses de
 
 ---
 
-## Questions fréquentes sur l'optimisation google maps {#faq}
+## Questions fréquentes sur l'optimisation google maps
 
 ### Comment améliorer mon classement sur Google Maps ?
 

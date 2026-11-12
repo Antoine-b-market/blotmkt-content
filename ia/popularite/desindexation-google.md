@@ -23,7 +23,7 @@ publisher: "BlotMKT - Antoine Blot"
 ---
 # Désindexation Google : comprendre, agir et optimiser votre SEO
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Désindexation Google : concept et importance stratégique](#concept)
 - [Comment Google gère l'indexation et la désindexation des contenus](#mecanisme)
 - [Méthodes de désindexation : noindex, robots.txt et suppression via Search Console](#methodes)
@@ -191,25 +191,25 @@ Google détermine les ressources de crawl allouées à chaque site en tenant com
 
 ## Questions fréquentes sur la désindexation Google {#faq}
 
-### Comment savoir si une page est désindexée de Google ?
+### Comment savoir si une page est désindexée de Google ? {#comment-savoir-si-une-page-est-desindexee-de-google}
 
 Deux méthodes complémentaires. La première : taper `site:votredomaine.com/url-cible` dans Google. L'absence de résultat indique une désindexation. La seconde, plus précise : utiliser l'outil d'inspection d'URL dans Google Search Console. 
 Google Search Console est l'outil principal pour diagnostiquer une désindexation
  car il indique le statut exact, la directive détectée et la date du dernier crawl. 
 Le trafic chute, les positions SEO s'effondrent, et Google Search Console affiche "Explorée, actuellement non indexée" ou pire, rien du tout.
 
-### Quelle est la différence entre `noindex` et bloquer via `robots.txt` ?
+### Quelle est la différence entre `noindex` et bloquer via `robots.txt` ? {#quelle-est-la-difference-entre-noindex-et-bloquer-via-robots}
 
 La balise `noindex` empêche l'indexation mais nécessite que la page soit accessible au crawl. Le `robots.txt` bloque le crawl mais ne garantit pas la désindexation : une page bloquée par Disallow peut rester dans l'index si d'autres pages y font référence. 
 La balise à supprimer avant la mise en production est `<meta name="robots" content="noindex, nofollow">`, à remplacer par `<meta name="robots" content="index, follow">`.
  Les deux directives ne sont pas interchangeables et ne doivent pas être combinées sans maîtriser leur ordre d'application.
 
-### Désindexer une page impacte-t-il le SEO global de mon site ?
+### Désindexer une page impacte-t-il le SEO global de mon site ? {#desindexer-une-page-impacte-t-il-le-seo-global-de-mon-site}
 
 Oui, dans les deux sens. Une désindexation ciblée de pages sans valeur améliore la qualité perçue du site par Google et optimise le budget de crawl pour les pages stratégiques. Une désindexation involontaire produit l'effet inverse. 
 Les mises à jour core de Google ont évolué d'une évaluation page par page vers une analyse au niveau du portfolio. Les sites maintenant un ratio élevé de pages à faible engagement font face à des pénalités disproportionnées qui affectent l'ensemble de leur potentiel de classement.
 
-### Combien de temps faut-il pour qu'une page soit désindexée après une directive `noindex` ?
+### Combien de temps faut-il pour qu'une page soit désindexée après une directive `noindex` ? {#combien-de-temps-faut-il-pour-qu-une-page-soit-desindexee}
 
 Le délai de réindexation est de 1 à 14 jours selon la popularité de la page.
  Pour la désindexation, le délai est comparable : il dépend de la fréquence à laquelle Googlebot recrawle la page. Une page populaire avec des liens entrants sera recrawlée rapidement, une page orpheline peut mettre plusieurs semaines. La demande de suppression via Google Search Console est la seule méthode qui agit sans attendre un recrawl.

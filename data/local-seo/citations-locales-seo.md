@@ -45,7 +45,7 @@ Votre fiche Google Business Profile est complète. Votre site web est optimisé.
 
 ---
 
-## Qu'est-ce qu'une citation locale SEO et son rôle crucial en 2026 ? {#definition}
+## Qu'est-ce qu'une citation locale SEO et son rôle crucial en 2026 ?
 
 Une citation locale SEO est une mention structurée de votre entreprise sur le web. Elle contient au minimum votre NAP : Nom, Adresse, Téléphone, souvent complétée par d'autres données comme le site web, la description, les catégories, les photos ou les horaires.
 
@@ -60,7 +60,7 @@ Des recherches indiquent que les entreprises avec des informations NAP cohérent
 
 ---
 
-## Comment auditer vos citations locales existantes : le diagnostic indispensable {#audit}
+## Comment auditer vos citations locales existantes : le diagnostic indispensable
 
 Avant de créer de nouvelles citations, identifiez ce qui existe déjà. Un audit mal fait conduit à multiplier des fiches incohérentes, ce qui aggrave le problème au lieu de le régler.
 
@@ -84,7 +84,7 @@ Décidez d'une version officielle de votre NAP, centralisez-la dans un document 
 
 ---
 
-## Les meilleurs sites pour créer des citations locales de qualité : sélection 2026 {#plateformes}
+## Les meilleurs sites pour créer des citations locales de qualité : sélection 2026
 
 Vrai ou faux : plus vous créez de citations, mieux vous vous classez ?
 
@@ -130,7 +130,7 @@ ChatGPT, Perplexity et Google Gemini ont besoin du balisage Schema.org pour comp
 
 ---
 
-## Stratégies pour optimiser vos citations locales : au-delà de la cohérence NAP {#strategies}
+## Stratégies pour optimiser vos citations locales : au-delà de la cohérence NAP
 
 Selon Antoine Blot, sur 18 PME québécoises auditées en 2026, celles dont les citations NAP étaient cohérentes sur plus de 15 annuaires locaux obtenaient une visibilité locale 2,4 fois supérieure à celles présentant des incohérences sur 3 plateformes ou plus. La cohérence n'est pas optionnelle : c'est le multiplicateur de toute votre stratégie locale. Retrouvez les méthodes détaillées d'[optimisation du SEO local sur antoine-blot.com](https://antoine-blot.com).
 
@@ -153,7 +153,7 @@ Les entreprises avec des photos régulièrement mises à jour reçoivent 35 % pl
 
 ---
 
-## Les pièges à éviter et les erreurs fréquentes en gestion de citations locales {#pieges}
+## Les pièges à éviter et les erreurs fréquentes en gestion de citations locales
 
 Dans ma pratique, les mêmes erreurs reviennent systématiquement chez les entreprises québécoises qui stagnent dans le pack local.
 
@@ -184,7 +184,7 @@ Des données NAP cohérentes sur des annuaires comme Yelp et YellowPages sont de
 
 ---
 
-## Mesurer le ROI de vos citations locales : indicateurs et outils clés {#roi}
+## Mesurer le ROI de vos citations locales : indicateurs et outils clés
 
 Sur les projets que je pilote, les indicateurs qui comptent vraiment sont les appels entrants tracés via Google Business Profile, les demandes d'itinéraire, et le taux de conversion des pages locales. Un classement sans conversion ne sert à rien.
 
@@ -214,7 +214,7 @@ Mesurez les signaux comportementaux en priorité : CTR dans la Search Console, a
 
 ---
 
-## Questions fréquentes sur les citations locales SEO {#questions-frequentes}
+## Questions fréquentes sur les citations locales SEO
 
 ### Quelle est l'importance de la cohérence NAP pour mon SEO local ?
 

@@ -55,7 +55,7 @@ Le maillage interne impacte désormais la visibilité dans les moteurs IA : un l
 
 ---
 
-## Définition et rôle fondamental du maillage interne SEO {#definition-et-role-fondamental}
+## Définition et rôle fondamental du maillage interne SEO
 
 Le maillage interne (ou "internal linking") désigne l'ensemble des liens HTML qui relient les pages d'un même nom de domaine entre elles. Ce n'est pas uniquement un menu de navigation mais plutôt un système circulatoire qui fait transiter l'autorité, la sémantique et le signal de priorité à travers chaque recoin de votre site.
 
@@ -69,7 +69,7 @@ Ajouter un lien interne n'est pas gratuit : cela dilue mécaniquement la valeur 
 
 ---
 
-## Pourquoi le maillage interne est-il essentiel pour votre SEO ? {#pourquoi-essentiel}
+## Pourquoi le maillage interne est-il essentiel pour votre SEO ?
 
 **Distribution du PageRank**
 
@@ -96,7 +96,7 @@ Le maillage interne ne se limite pas à organiser le contenu : il transmet égal
 
 ---
 
-## Bonnes pratiques pour un maillage interne efficace et pertinent {#bonnes-pratiques}
+## Bonnes pratiques pour un maillage interne efficace et pertinent
 
 **Vrai vs Faux : les idées reçues sur le maillage interne**
 
@@ -121,7 +121,7 @@ Utiliser des ancres stratégiques variées, alignées avec les intentions de rec
 
 ---
 
-## Stratégies de maillage interne : silo, cluster et exemples concrets {#strategies-silo-cluster}
+## Stratégies de maillage interne : silo, cluster et exemples concrets
 
 Deux architectures dominent les pratiques actuelles. Choisir entre elles dépend de la nature de votre site.
 
@@ -150,7 +150,7 @@ Le rapport "Internal Backlinks" de Screaming Frog présente la façon dont les p
 
 ---
 
-## Erreurs fréquentes à éviter pour ne pas nuire à votre SEO {#erreurs-frequentes}
+## Erreurs fréquentes à éviter pour ne pas nuire à votre SEO
 
 > **Erreur commune** : "On a un sitemap XML, notre maillage est donc correct." Le sitemap facilite la déclaration des URL, mais n'équivaut pas à un maillage sémantique. Google peut connaître l'existence d'une page sans comprendre sa place dans votre architecture thématique.
 
@@ -179,7 +179,7 @@ Ancres comme "en savoir plus", "ici" ou "cliquez ici" n'apportent aucun signal s
 
 ---
 
-## Maillage interne et IA : une arme sémantique silencieuse pour 2025+ {#maillage-interne-ia}
+## Maillage interne et IA : une arme sémantique silencieuse pour 2025+
 
 Le référencement généré par l'IA (GEO) change la façon dont les LLMs et les moteurs génératifs consomment votre site. Ce n'est pas une rupture avec le SEO classique mais plutôt une intensification de ses exigences structurelles.
 
@@ -210,7 +210,7 @@ Le balisage schema.org pour les featured snippets est fondamental pour optimiser
 
 ---
 
-## FAQ : questions fréquentes sur le maillage interne SEO {#faq}
+## FAQ : questions fréquentes sur le maillage interne SEO
 
 ### Quelle est la différence entre maillage interne et netlinking ?
 

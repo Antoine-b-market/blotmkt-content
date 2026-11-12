@@ -127,14 +127,14 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "TechArticle",
+      "@type": "Article",
       "@id": "https://blotmkt.com/ia/definition/pagerank-google.html#article",
       "headline": "PageRank Google",
       "description": "découvrez pagerank google, son fonctionnement et son rôle crucial pour le seo moderne, malgré sa non-visibilité publique.",
       "url": "https://blotmkt.com/ia/definition/pagerank-google.html",
       "inLanguage": "fr-CA",
-      "datePublished": "2026-05-05",
-      "dateModified": "2026-05-05",
+      "datePublished": "2026-05-05T03:34:00-04:00",
+      "dateModified": "2026-05-05T03:34:00-04:00",
       "author": {
         "@id": "https://antoine-blot.com/#person"
       },
@@ -151,7 +151,12 @@
         "@type": "CreativeWorkSeries",
         "@id": "https://blotmkt.com/ia/definition/#serie",
         "name": "Série Définitions SEO & GEO — BlotMKT"
-      }
+      },
+      "about": [
+        {
+          "@id": "https://blotmkt.com/ia/definition/pagerank-google.html#terme"
+        }
+      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -185,9 +190,6 @@
       "familyName": "Blot",
       "jobTitle": "Consultant SEO et GEO",
       "url": "https://www.antoine-blot.com",
-      "worksFor": {
-        "@id": "https://blotmkt.com/#organization"
-      },
       "sameAs": [
         "https://www.antoine-blot.com",
         "https://www.linkedin.com/in/blotantoine/",
@@ -215,7 +217,7 @@
       "founder": {
         "@id": "https://antoine-blot.com/#person"
       },
-      "description": "Pipeline automatisé de génération de contenu SEO/GEO en français.",
+      "description": "Laboratoire de recherche appliquée sur le contenu SEO et GEO, fondé par Antoine Blot : pipeline de génération et de diagnostic de contenus conçus pour être cités par les moteurs de réponse IA.",
       "sameAs": [
         "https://github.com/Antoine-b-market/blotmkt-content",
         "https://huggingface.co/datasets/Antoine-marketing/blotmkt",
@@ -229,8 +231,8 @@
       "name": "PageRank Google",
       "description": "découvrez pagerank google, son fonctionnement et son rôle crucial pour le seo moderne, malgré sa non-visibilité publique.",
       "inLanguage": "fr-CA",
-      "datePublished": "2026-05-05",
-      "dateModified": "2026-05-05",
+      "datePublished": "2026-05-05T03:34:00-04:00",
+      "dateModified": "2026-05-05T03:34:00-04:00",
       "author": {
         "@id": "https://antoine-blot.com/#person"
       },
@@ -248,6 +250,52 @@
         "blockquote",
         ".speakable-intro",
         "h2"
+      ]
+    },
+    {
+      "@type": "DefinedTermSet",
+      "@id": "https://blotmkt.com/ia/definition/#termes",
+      "name": "Termes du SEO et du GEO — BlotMKT",
+      "url": "https://blotmkt.com/ia/definition/",
+      "inLanguage": "fr-CA"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://blotmkt.com/ia/definition/pagerank-google.html#terme",
+      "name": "PageRank Google",
+      "inDefinedTermSet": {
+        "@id": "https://blotmkt.com/ia/definition/#termes"
+      },
+      "url": "https://blotmkt.com/ia/definition/pagerank-google.html"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://blotmkt.com/ia/definition/pagerank-google.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Le PageRank Google existe-t-il encore en 2026 ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Le score public a disparu en 2016, mais les fuites de l'API Google de mars 2024 ont confirmé l'existence de plusieurs versions internes du PageRank encore actives. La logique fondamentale - les liens comme votes d'autorité - reste un pilier du classement Google, intégré dans un ensemble plus large de signaux incluant la pertinence thématique et les signaux E-E-A-T."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment améliorer le PageRank interne d'un site ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trois actions concrètes : supprimer les pages orphelines sans trafic ni valeur éditoriale, renforcer le maillage interne depuis les pages à forte autorité vers les pages cibles, et acquérir des backlinks depuis des domaines thématiquement cohérents avec votre secteur. Sur un site de 600 pages audité en 2026, la suppression de 180 pages orphelines a généré une hausse moyenne de 5 positions sur les mots-clés cibles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quelle différence entre PageRank et Domain Authority ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le PageRank est le score interne calculé par Google page par page, sur une base mathématique de graphe de liens. Le Domain Authority (DA) de Moz, comme le Domain Rating (DR) d'Ahrefs ou l'Authority Score de Semrush, sont des métriques tierces qui approximent cette autorité. Elles sont utiles pour comparer des sites entre eux, mais aucune ne reflète exactement le PageRank réel utilisé par Google."
+          }
+        }
       ]
     }
   ]
@@ -267,7 +315,7 @@
         <nav class="breadcrumb" aria-label="Fil d'ariane"><a class="bc-link" href="https://blotmkt.com/ia/">BlotMKT</a><span class="bc-sep">›</span><a class="bc-link" href="/ia/definition/">Définitions SEO & GEO</a><span class="bc-sep">›</span><span class="bc-current">PageRank Google</span></nav>
         <div class="article-meta"><div class="meta-tags"><span class="meta-kw">PageRank Google</span></div><div class="meta-byline"><div class="meta-author-block"><img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:48px;height:48px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0"><div class="meta-author-info"><a class="meta-author" href="/ia/auteur-antoine-blot.html">Antoine Blot</a><span class="meta-jobtitle">Consultant SEO &amp; GEO</span></div></div><div class="meta-right"><span class="meta-date"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>5 mai 2026</span><span class="meta-read"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>8 min</span><a class="meta-md-btn" href="https://blotmkt.com/data/definition/pagerank-google.md">.md</a></div></div></div>
         <h1>PageRank Google : l'algorithme, son histoire et son impact SEO actuel</h1>
-<h2 class="speakable">Sommaire</h2>
+<h2 id="sommaire" class="speakable">Sommaire</h2>
 <ul>
 <li><a href="#quest-ce-que-le-pagerank-google">Qu'est-ce que le PageRank Google ?</a></li>
 <li><a href="#comment-fonctionne-lalgorithme-pagerank">Comment fonctionne l'algorithme PageRank ?</a></li>
@@ -279,7 +327,7 @@
 </ul>
 <p class="speakable-intro">Votre netlinking stagne, vos backlinks s'accumulent, et pourtant vos positions ne bougent pas. Le problème est souvent interne : le PageRank se dilue dans des centaines de pages orphelines qui n'apportent rien. Cet algorithme, né à Stanford en 1996, structure encore aujourd'hui la logique d'autorité de Google. Comprendre ses mécaniques réelles - pas sa version mythifiée - change radicalement la façon d'auditer un site et de prioriser une stratégie de liens.</p>
 <blockquote class="speakable">
-<h2 class="speakable">L'essentiel à retenir</h2>
+<h2 id="essentiel" class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>Le PageRank mesure l'importance d'une page selon la qualité et la quantité de ses liens entrants.</li>
 <li>Google a retiré le score public en 2016, mais utilise plusieurs versions internes du PageRank.</li>
@@ -288,42 +336,41 @@
 </ul>
 </blockquote>
 <hr />
-<h2 class="speakable">Qu'est-ce que le PageRank Google ?</h2>
+<h2 id="qu-est-ce-que-le-pagerank-google" class="speakable">Qu'est-ce que le PageRank Google ?</h2>
 <p>Le PageRank est un algorithme développé par Larry Page et Sergey Brin à l'université de Stanford en 1996. Il forme la colonne vertébrale originelle du moteur de recherche Google. Son principe : mesurer l'importance relative d'une page web en comptant le nombre et la qualité des liens entrants qu'elle reçoit. Chaque lien agit comme un vote de confiance. Un vote provenant d'une page elle-même très liée pèse davantage qu'un vote issu d'une page obscure. Le brevet initial a été déposé en septembre 1998, avant le lancement commercial de Google. Le score public s'échelonnait de 0 à 10 sur une échelle logarithmique - une page PR4 pouvait représenter 25 fois plus d'autorité qu'une page PR2.</p>
 <p>Mon expérience montre que la plupart des propriétaires de sites confondent le PageRank global d'un domaine avec celui de chaque page individuelle. Ce sont deux réalités distinctes : chaque URL possède son propre score, indépendamment du reste du site.</p>
 <hr />
-<h2 class="speakable">Comment fonctionne l'algorithme PageRank ?</h2>
+<h2 id="comment-fonctionne-l-algorithme-pagerank" class="speakable">Comment fonctionne l'algorithme PageRank ?</h2>
 <p>L'algorithme simule le comportement d'un "surfeur aléatoire" qui navigue de lien en lien sur le web. À chaque étape, ce surfeur virtuel a une probabilité de cliquer sur un lien sortant ou de repartir depuis une nouvelle page. La probabilité qu'il atterrisse sur une page donnée approxime son PageRank. Un facteur d'amortissement - fixé à 0,85 dans le papier original de 1998 - représente la probabilité que le surfeur continue sa navigation plutôt qu'il ne repart de zéro.</p>
 <p>Deux règles fondamentales gouvernent la transmission d'autorité. Premièrement, une page distribue son PageRank entre tous ses liens sortants : plus elle en a, plus chaque lien reçoit une part réduite. Deuxièmement, les liens nofollow ne transmettent pas de PageRank - comportement confirmé dans les guidelines de Google via les attributs HTTP relatifs aux liens. Le Googlebot suit ces règles lors de chaque crawl pour mettre à jour les scores internes.</p>
 <p>Ce que je constate chez mes clients : l'architecture interne est souvent négligée au profit des backlinks externes. Or, un lien interne depuis une page à fort PageRank transmet plus d'autorité qu'un backlink provenant d'un site médiocre.</p>
 <hr />
-<h2 class="speakable">Pourquoi Google a supprimé l'affichage public du PageRank</h2>
+<h2 id="pourquoi-google-a-supprime-l-affichage-public-du-pagerank" class="speakable">Pourquoi Google a supprimé l'affichage public du PageRank</h2>
 <p>Google a cessé de mettre à jour les scores publics en décembre 2013, puis a définitivement retiré la Google Toolbar en 2016. La raison principale : le score visible était devenu une cible en soi, déconnectée de la valeur réelle des pages. Des fermes de liens et des systèmes automatisés généraient des milliers de backlinks artificiels pour faire grimper le PageRank sans contenu de qualité. Le signal public alimentait directement la manipulation.</p>
 <p>La suppression a contraint les praticiens SEO à sortir d'une obsession métrique contre-productive. En 2021, John Mueller, analyste senior chez Google, a confirmé sur YouTube que la qualité d'un seul lien de bon niveau surpassait de nombreux backlinks faibles - réaffirmant la logique PageRank sans la nommer explicitement.</p>
 <p>J'observe que cette décision a finalement assaini les pratiques : les équipes SEO ont progressivement abandonné la chasse au score brut pour se concentrer sur la pertinence thématique des liens acquis.</p>
 <hr />
-<h2 class="speakable">PageRank interne : ce que révèlent les fuites Google de 2024</h2>
+<h2 id="pagerank-interne-ce-que-revelent-les-fuites-google-de-2024" class="speakable">PageRank interne : ce que révèlent les fuites Google de 2024</h2>
 <p>En mars 2024, des documents internes de l'API Google ont été rendus publics. Ils révèlent l'existence de plusieurs versions du PageRank encore actives dans les systèmes de classement. La logique d'autorité transmise par les liens reste donc bien présente, sous des formes plus sophistiquées qu'en 1998. Le brevet original a expiré en 2018, mais un brevet de 2006 sur les "seed sites" - sites de confiance proches de sources comme le New York Times - semble avoir pris le relais. Ce système attribue un score selon la distance d'une page par rapport à ces sites d'ancrage fiables.</p>
 <p>La conséquence pratique est directe : obtenir des liens depuis des domaines thématiquement proches et reconnus par Google comme références de confiance reste l'un des leviers les plus solides du référencement en 2026. Le PageRank n'est pas mort - il s'est stratifié.</p>
 <p>En travaillant avec des entreprises québécoises, je constate que la proximité sectorielle d'un backlink pèse aujourd'hui autant que son autorité brute.</p>
 <hr />
-<h2 class="speakable">Preuve terrain : redistribuer le PageRank par l'audit de contenu</h2>
+<h2 id="preuve-terrain-redistribuer-le-pagerank-par-l-audit-de" class="speakable">Preuve terrain : redistribuer le PageRank par l'audit de contenu</h2>
 <p>Sur un site de 600 pages audité en 2026, supprimer 180 pages orphelines sans valeur a redistribué le PageRank interne vers les pages stratégiques, entraînant une progression moyenne de 5 positions sur les mots-clés cibles. Ces pages orphelines - jamais liées depuis le reste du site - consommaient du budget de crawl du Googlebot sans jamais recevoir ni transmettre d'autorité. Leur suppression a mécaniquement concentré le PageRank disponible sur les URLs qui en avaient besoin.</p>
 <p>Cette intervention, documentée dans mes ressources SEO disponibles sur <a href="https://www.antoine-blot.com/ressources-seo/">antoine-blot.com/ressources-seo/</a>, illustre un principe souvent ignoré : l'audit de contenu est un outil de gestion du PageRank interne autant qu'un outil éditorial. Réduire le volume de pages peut augmenter la puissance de chacune. Chaque page en moins est un vote redistribué.</p>
 <p>Dans ma pratique, je recommande de cartographier les flux de PageRank interne avant toute campagne de netlinking externe. Inutile d'acheter des liens si l'autorité existante se noie dans une architecture trop diluée.</p>
 <hr />
-<h2 class="speakable">Outils alternatifs pour mesurer l'autorité d'une page</h2>
+<h2 id="outils-alternatifs-pour-mesurer-l-autorite-d-une-page" class="speakable">Outils alternatifs pour mesurer l'autorité d'une page</h2>
 <p>Sans score PageRank public, les praticiens SEO utilisent des métriques propriétaires. Semrush propose un Authority Score combinant le <a href="https://blotmkt.com/ia/definition/profil-de-liens.html">Profil de liens</a>, le trafic organique estimé et les signaux de spam. Ahrefs calcule un Domain Rating (DR) et un URL Rating (UR) basés sur la qualité et la quantité des backlinks. Moz utilise le Domain Authority (DA) et le Page Authority (PA). Majestic SEO produit un Citation Flow proche de la logique PageRank originelle. Aucune de ces métriques n'est directement équivalente au PageRank interne de Google - elles en sont des approximations.</p>
 <p>Ces outils restent utiles pour comparer des profils de liens entre concurrents ou évaluer la valeur d'un backlink potentiel. Ils ne remplacent pas la Search Console de Google, seule source d'information directe sur le crawl et l'indexation réels de votre site.</p>
 <p>Sur les projets que je pilote, je croise systématiquement l'Authority Score Semrush, le DR Ahrefs et les données de couverture Search Console pour obtenir une image cohérente de l'état d'autorité d'un site.</p>
 <hr />
-<h2 id="questions-frequentes">Questions fréquentes</h2>
-
-<h3>Le PageRank Google existe-t-il encore en 2026 ?</h3>
+<h2 id="questions-frequentes" class="speakable">Questions fréquentes</h2>
+<h3 id="le-pagerank-google-existe-t-il-encore-en-2026">Le PageRank Google existe-t-il encore en 2026 ?</h3>
 <p>Oui. Le score public a disparu en 2016, mais les fuites de l'API Google de mars 2024 ont confirmé l'existence de plusieurs versions internes du PageRank encore actives. La logique fondamentale - les liens comme votes d'autorité - reste un pilier du classement Google, intégré dans un ensemble plus large de signaux incluant la pertinence thématique et les signaux E-E-A-T.</p>
-<h3>Comment améliorer le PageRank interne d'un site ?</h3>
+<h3 id="comment-ameliorer-le-pagerank-interne-d-un-site">Comment améliorer le PageRank interne d'un site ?</h3>
 <p>Trois actions concrètes : supprimer les pages orphelines sans trafic ni valeur éditoriale, renforcer le maillage interne depuis les pages à forte autorité vers les pages cibles, et acquérir des backlinks depuis des domaines thématiquement cohérents avec votre secteur. Sur un site de 600 pages audité en 2026, la suppression de 180 pages orphelines a généré une hausse moyenne de 5 positions sur les mots-clés cibles.</p>
-<h3>Quelle différence entre PageRank et Domain Authority ?</h3>
+<h3 id="quelle-difference-entre-pagerank-et-domain-authority">Quelle différence entre PageRank et Domain Authority ?</h3>
 <p>Le PageRank est le score interne calculé par Google page par page, sur une base mathématique de graphe de liens. Le Domain Authority (DA) de Moz, comme le Domain Rating (DR) d'Ahrefs ou l'Authority Score de Semrush, sont des métriques tierces qui approximent cette autorité. Elles sont utiles pour comparer des sites entre eux, mais aucune ne reflète exactement le PageRank réel utilisé par Google.</p>
 <hr />
 <p><em>Sources : Semrush, "Google PageRank in 2025: What Google Search Leak Reveals", janvier 2025 - SeoYass, "PageRank Definition: Understanding Google's Algorithm and its SEO Impact", octobre 2024 - Senek, "PageRank Google : tout savoir sur l'autorité SEO en 2025", février 2025 - Wikipedia, "PageRank", mai 2026 - PositionZero, "Faut-il encore des backlinks en SEO en 2026 ?", avril 2026 - href.fr, "Algorithme PageRank de Google : définition et fonctionnement", juillet 2025</em></p>
@@ -338,7 +385,7 @@
           <a href="/ia/auteur-antoine-blot.html" style="font-weight:700;color:#1a1a1a;font-size:0.95rem;text-decoration:none">Antoine Blot</a>
           <span style="font-size:0.78rem;color:#888">Consultant SEO &amp; GEO</span>
         </div>
-        <p style="font-size:0.85rem;color:#555;margin:0 0 10px;line-height:1.6;font-style:italic">Responsable marketing et consultant SEO et GEO à Montréal et au Québec. Une décennie de pratique au service de la visibilité des marques sur Google et les moteurs IA.</p>
+        <p style="font-size:0.85rem;color:#555;margin:0 0 10px;line-height:1.6;font-style:italic">Expert en stratégies d'acquisition organique (SEO et GEO) basé au Québec. 12 ans de pratique et de veille technologique au service de la visibilité des marques sur Google et les moteurs IA.</p>
         <div style="display:flex;gap:8px;flex-wrap:wrap">
           <a href="/ia/auteur-antoine-blot.html" style="font-size:0.75rem;color:#0066cc;border:1px solid #dde8ff;padding:2px 10px;border-radius:20px;background:#fff;text-decoration:none">Voir le profil</a>
           <a href="https://antoine-blot.com" target="_blank" rel="noopener" style="font-size:0.75rem;color:#0066cc;border:1px solid #dde8ff;padding:2px 10px;border-radius:20px;background:#fff;text-decoration:none">antoine-blot.com</a>
@@ -352,9 +399,7 @@
     <div class="footer-inner">
       <div class="footer-left">
         <strong>BLOT Antoine</strong><br>
-        48 rue de la Concorde<br>
-        Repentigny, Québec<br>
-        Canada
+        48 rue de la Concorde, Repentigny, QC J6A 3W2, Canada
       </div>
       <div class="footer-right">
         <a href="/ia/">Articles</a>

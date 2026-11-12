@@ -47,7 +47,7 @@ Vos pages se positionnent, votre contenu est solide - pourtant vos concurrents a
 
 ---
 
-## Schema.org : définition et principes fondamentaux {#schemaorg-définition-et-principes-fondamentaux}
+## Schema.org : définition et principes fondamentaux
 
 Schema.org est un vocabulaire de balisage sémantique créé en 2011 par Google, Microsoft, Yahoo et Yandex. Son rôle : fournir un langage commun pour décrire le contenu d'une page web aux moteurs de recherche. Le vocabulaire recense plus de 800 types d'entités - de `Product` à `Hospital`, en passant par `Organization` et `Event`.
 
@@ -59,7 +59,7 @@ Dans ma pratique, je vois encore trop de sites qui ignorent ce balisage. En 2026
 
 ---
 
-## Les types de Schema.org les plus courants et comment les utiliser efficacement {#les-types-de-schemaorg-les-plus-courants-et-comment-les-utiliser-efficacement}
+## Les types de Schema.org les plus courants et comment les utiliser efficacement
 
 Il existe plus de 800 types de schemas, mais se concentrer sur les 8 types à fort impact permet d'obtenir 80 % des bénéfices SEO. Les plus utilisés en pratique :
 
@@ -77,7 +77,7 @@ J'observe chez mes clients que la combinaison `Product` + `FAQ` + `Review` schem
 
 ---
 
-## Propriétés Schema.org : le détail pour optimiser vos rich results {#propriétés-schemaorg-le-détail-pour-optimiser-vos-rich-results}
+## Propriétés Schema.org : le détail pour optimiser vos rich results
 
 Chaque type de schema dispose de ses propres propriétés. Pour `Product`, les propriétés clés sont : `name`, `description`, `image`, `price`, `availability` et `aggregateRating`. Pour `Article`, ce sont : `headline`, `author`, `datePublished`, `dateModified` et `image`.
 
@@ -91,7 +91,7 @@ Mon expérience montre que les sites qui renseignent toutes les propriétés rec
 
 ---
 
-## Outils pour tester et valider votre balisage Schema.org {#outils-pour-tester-et-valider-votre-balisage-schemaorg}
+## Outils pour tester et valider votre balisage Schema.org
 
 Valider son balisage avant publication n'est pas optionnel. Les spécifications Schema.org évoluent, les CMS causent des régressions lors des mises à jour, et les erreurs silencieuses s'accumulent sans monitoring actif.
 
@@ -107,7 +107,7 @@ Sur les projets que je pilote, j'applique une approche itérative : chaque nouve
 
 ---
 
-## Schema.org et SEO local : une combinaison gagnante {#schemaorg-et-seo-local-une-combinaison-gagnante}
+## Schema.org et SEO local : une combinaison gagnante
 
 Le type `LocalBusiness` est l'un des schemas les plus rentables pour les entreprises ayant une présence physique. Il renforce la cohérence NAP (nom, adresse, téléphone), les horaires d'ouverture, les actions de réservation et les signaux du Knowledge Panel.
 
@@ -119,7 +119,7 @@ En travaillant avec des entreprises québécoises, je constate que la majorité 
 
 ---
 
-## Automatisation et personnalisation : l'avenir du Schema.org {#automatisation-et-personnalisation-lavenir-du-schemaorg}
+## Automatisation et personnalisation : l'avenir du Schema.org
 
 L'automatisation du structured data devient indispensable pour les sites de plus de 10 000 pages. Les approches se structurent en deux catégories. La première : les plugins CMS avancés (Yoast SEO Premium, Rank Math Pro, Schema Pro) gèrent les templates par type de contenu. La seconde : les scripts custom interrogent des APIs produit ou des bases de données pour injecter des valeurs dynamiques en JSON-LD.
 
@@ -131,7 +131,7 @@ Comme spécialiste GEO, je suis convaincu que le structured data est devenu la l
 
 ---
 
-## Questions fréquentes sur Schema.org {#questions-fréquentes-sur-schemaorg}
+## Questions fréquentes sur Schema.org
 
 ### Comment Schema.org améliore-t-il le CTR d'un site web ?
 

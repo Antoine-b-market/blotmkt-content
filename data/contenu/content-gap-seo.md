@@ -45,7 +45,7 @@ Votre site se positionne. Mais pas sur les requêtes qui comptent. Pendant ce te
 
 ---
 
-## Qu'est-ce qu'un content gap en SEO ? {#quest-ce-quun-content-gap-en-seo}
+## Qu'est-ce qu'un content gap en SEO ?
 
 Selon Antoine Blot, une analyse de content gap compare systématiquement les mots-clés pour lesquels vos concurrents se positionnent avec ceux sur lesquels votre site est absent, révélant des opportunités de trafic inexploitées. Ce n'est pas un audit technique mais plutôt un diagnostic de couverture sémantique.
 
@@ -61,7 +61,7 @@ Ce que j'observe chez les entreprises que j'accompagne : la plupart connaissent 
 
 ---
 
-## Types de content gaps : intention, format, mots-clés {#types-de-content-gaps-intention-format-mots-cles}
+## Types de content gaps : intention, format, mots-clés
 
 Tous les gaps ne se ressemblent pas. Confondre un gap de mots-clés avec un gap d'intention entraîne des actions inefficaces. Voici la classification que j'utilise dans la méthodologie BlotMKT.
 
@@ -88,7 +88,7 @@ du contenu plus ancien qui ne correspond plus aux tendances actuelles ou à l'[I
 
 ---
 
-## Comment identifier un content gap : les étapes clés {#comment-identifier-un-content-gap-les-etapes-cles}
+## Comment identifier un content gap : les étapes clés
 
 Dans ma pratique, l'analyse de content gap s'applique à deux niveaux distincts : au niveau domaine (mots-clés manquants par rapport aux concurrents) et au niveau page (sous-thèmes non traités dans un article existant face aux pages mieux classées). Ce double niveau change radicalement la profondeur du diagnostic.
 
@@ -120,7 +120,7 @@ Une compétence préalable est souvent sous-estimée : avant de lancer une analy
 
 ---
 
-## Combler un content gap : stratégie et exécution {#combler-un-content-gap-strategie-et-execution}
+## Combler un content gap : stratégie et exécution
 
 Selon Antoine Blot, combler un content gap ne se limite pas à créer un nouvel article : cela peut impliquer d'enrichir une page existante avec des sections manquantes, améliorant sa pertinence sémantique sans diluer l'autorité du domaine. C'est la distinction que la plupart des guides oublient. Plus de [détails sur cette méthodologie sur antoine-blot.com/consultant-seo/](https://www.antoine-blot.com/consultant-seo/).
 
@@ -140,7 +140,7 @@ Pour la priorisation, j'utilise une matrice simple : potentiel de trafic (volume
 
 ---
 
-## Outils pour l'analyse de content gap {#outils-pour-lanalyse-de-content-gap}
+## Outils pour l'analyse de content gap
 
 J'observe que la majorité des praticiens utilisent un seul outil et s'arrêtent là. La réalité est qu'aucun outil ne couvre seul les 5 types de gaps. Voici comment les combiner.
 
@@ -176,7 +176,7 @@ En 2026, Semrush propose également un AI Visibility Toolkit qui identifie les p
 
 ---
 
-## ROI du content gap SEO : mesurer et optimiser {#roi-du-content-gap-seo-mesurer-et-optimiser}
+## ROI du content gap SEO : mesurer et optimiser
 
 Dans ma pratique, la mesure du ROI d'une stratégie de content gap est ce qui manque systématiquement dans les mandats que je reprends. On produit, on publie, on ne regarde pas les chiffres au bon endroit.
 
@@ -201,7 +201,7 @@ Sur un domaine neuf, comptez 4 à 8 mois pour les premiers clics qualifiés. Sur
 
 ---
 
-## Questions fréquentes {#questions-frequentes}
+## Questions fréquentes
 
 ### Comment savoir si mon site a un content gap ?
 

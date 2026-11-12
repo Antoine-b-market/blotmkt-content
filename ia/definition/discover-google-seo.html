@@ -127,14 +127,14 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "TechArticle",
+      "@type": "Article",
       "@id": "https://blotmkt.com/ia/definition/discover-google-seo.html#article",
       "headline": "Discover Google SEO",
       "description": "explorez le seo google, ses piliers essentiels, comment éviter la sur-optimisation et les pénalités. anticipez les défis de l'ia en 2026 pour une visibilité durable.",
       "url": "https://blotmkt.com/ia/definition/discover-google-seo.html",
       "inLanguage": "fr-CA",
-      "datePublished": "2026-05-05",
-      "dateModified": "2026-05-05",
+      "datePublished": "2026-05-05T02:54:00-04:00",
+      "dateModified": "2026-05-05T02:54:00-04:00",
       "author": {
         "@id": "https://antoine-blot.com/#person"
       },
@@ -151,7 +151,12 @@
         "@type": "CreativeWorkSeries",
         "@id": "https://blotmkt.com/ia/definition/#serie",
         "name": "Série Définitions SEO & GEO — BlotMKT"
-      }
+      },
+      "about": [
+        {
+          "@id": "https://blotmkt.com/ia/definition/discover-google-seo.html#terme"
+        }
+      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -185,9 +190,6 @@
       "familyName": "Blot",
       "jobTitle": "Consultant SEO et GEO",
       "url": "https://www.antoine-blot.com",
-      "worksFor": {
-        "@id": "https://blotmkt.com/#organization"
-      },
       "sameAs": [
         "https://www.antoine-blot.com",
         "https://www.linkedin.com/in/blotantoine/",
@@ -215,7 +217,7 @@
       "founder": {
         "@id": "https://antoine-blot.com/#person"
       },
-      "description": "Pipeline automatisé de génération de contenu SEO/GEO en français.",
+      "description": "Laboratoire de recherche appliquée sur le contenu SEO et GEO, fondé par Antoine Blot : pipeline de génération et de diagnostic de contenus conçus pour être cités par les moteurs de réponse IA.",
       "sameAs": [
         "https://github.com/Antoine-b-market/blotmkt-content",
         "https://huggingface.co/datasets/Antoine-marketing/blotmkt",
@@ -229,8 +231,8 @@
       "name": "Discover Google SEO",
       "description": "explorez le seo google, ses piliers essentiels, comment éviter la sur-optimisation et les pénalités. anticipez les défis de l'ia en 2026 pour une visibilité durable.",
       "inLanguage": "fr-CA",
-      "datePublished": "2026-05-05",
-      "dateModified": "2026-05-05",
+      "datePublished": "2026-05-05T02:54:00-04:00",
+      "dateModified": "2026-05-05T02:54:00-04:00",
       "author": {
         "@id": "https://antoine-blot.com/#person"
       },
@@ -248,6 +250,60 @@
         "blockquote",
         ".speakable-intro",
         "h2"
+      ]
+    },
+    {
+      "@type": "DefinedTermSet",
+      "@id": "https://blotmkt.com/ia/definition/#termes",
+      "name": "Termes du SEO et du GEO — BlotMKT",
+      "url": "https://blotmkt.com/ia/definition/",
+      "inLanguage": "fr-CA"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://blotmkt.com/ia/definition/discover-google-seo.html#terme",
+      "name": "Discover Google SEO",
+      "inDefinedTermSet": {
+        "@id": "https://blotmkt.com/ia/definition/#termes"
+      },
+      "url": "https://blotmkt.com/ia/definition/discover-google-seo.html"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://blotmkt.com/ia/definition/discover-google-seo.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quelle est la différence entre le SEO classique et Google Discover ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le SEO classique répond à des requêtes formulées par l'utilisateur dans la barre de recherche. Google Discover ne repose pas sur une requête tapée : le contenu doit correspondre au comportement de navigation et aux centres d'intérêt de l'utilisateur. Les signaux de classement diffèrent : fraîcheur, autorité thématique, qualité des images et E-E-A-T sont prépondérants dans Discover, tandis que le SEO Search privilégie la pertinence mot-clé et les backlinks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quelles images utiliser pour optimiser Google Discover ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Google Discover exige des images d'au moins 1200 pixels de large avec un ratio 16:9 et une résolution supérieure à 300 000 pixels. La balise meta `max-image-preview: large` doit être activée dans l'en-tête de la page. Privilégiez des photos originales plutôt que des visuels stock génériques : les images authentiques surclassent systématiquement les visuels génériques dans le feed, comme le confirment les données de terrain 2026."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment détecter une pénalité Google sur mon site ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Connectez-vous à Google Search Console et consultez l'onglet \"Actions manuelles\". Une chute brutale du trafic organique visible dans Google Analytics sans action manuelle identifiée signale une pénalité algorithmique. Comparez les dates de baisse avec le calendrier des core updates Google (Panda, Penguin, spam updates) pour corréler l'origine précise de la sanction."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Le contenu généré par IA est-il pénalisé par Google en 2026 ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Google ne pénalise pas le contenu IA en tant que tel, mais sanctionne le contenu sans valeur ajoutée réelle, sans supervision humaine et sans expertise démontrable. En 2026, les spam updates ciblent explicitement la production de masse automatisée. Un contenu IA révisé, enrichi de données terrain et signé par un auteur identifiable reste conforme aux exigences E-E-A-T."
+          }
+        }
       ]
     }
   ]
@@ -267,7 +323,7 @@
         <nav class="breadcrumb" aria-label="Fil d'ariane"><a class="bc-link" href="https://blotmkt.com/ia/">BlotMKT</a><span class="bc-sep">›</span><a class="bc-link" href="/ia/definition/">Définitions SEO & GEO</a><span class="bc-sep">›</span><span class="bc-current">Discover Google SEO</span></nav>
         <div class="article-meta"><div class="meta-tags"><span class="meta-kw">Discover Google SEO</span></div><div class="meta-byline"><div class="meta-author-block"><img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:48px;height:48px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0"><div class="meta-author-info"><a class="meta-author" href="/ia/auteur-antoine-blot.html">Antoine Blot</a><span class="meta-jobtitle">Consultant SEO &amp; GEO</span></div></div><div class="meta-right"><span class="meta-date"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>5 mai 2026</span><span class="meta-read"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>7 min</span><a class="meta-md-btn" href="https://blotmkt.com/data/definition/discover-google-seo.md">.md</a></div></div></div>
         <h1>Discover Google SEO : les clés d'une stratégie performante et les erreurs à éviter en 2026</h1>
-<h2 class="speakable">Sommaire</h2>
+<h2 id="sommaire" class="speakable">Sommaire</h2>
 <ul>
 <li><a href="#definition">Qu'est-ce que le SEO Google et Google Discover ?</a></li>
 <li><a href="#piliers">Les piliers d'une optimisation Google saine</a></li>
@@ -278,7 +334,7 @@
 </ul>
 <p class="speakable-intro">Vous publiez régulièrement, vous optimisez vos balises, mais votre trafic organique stagne ou recule. Ce n'est pas une fatalité - c'est souvent le signe d'une stratégie mal calibrée ou d'erreurs techniques qui se cumulent silencieusement. En 2026, le référencement Google exige de naviguer entre des exigences de qualité plus strictes et des pénalités algorithmiques de plus en plus rapides. Cet article détaille les bases, les pièges concrets, et les bonnes pratiques pour construire une visibilité durable.</p>
 <blockquote class="speakable">
-<h2 class="speakable">L'essentiel à retenir</h2>
+<h2 id="essentiel" class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>Le SEO Google est l'ensemble des techniques visant à améliorer le classement organique d'un site dans les résultats Google.</li>
 <li>Une stratégie saine repose sur 3 piliers : optimisation on-page, SEO technique, et netlinking qualitatif.</li>
@@ -287,8 +343,7 @@
 </ul>
 </blockquote>
 <hr />
-<h2 id="definition">Qu'est-ce que le SEO Google et Google Discover ?</h2>
-
+<h2 id="definition" class="speakable">Qu'est-ce que le SEO Google et Google Discover ?</h2>
 <p>Le SEO Google (Search Engine Optimization) désigne l'ensemble des pratiques visant à améliorer la position d'un site dans les résultats organiques de Google. Son objectif : générer du trafic qualifié sans budget publicitaire récurrent.</p>
 <p>Discover représente désormais 68 % du trafic Google pour les grands éditeurs, soit presque trois fois le volume du Search traditionnel.
  Ce chiffre change radicalement la hiérarchie des priorités SEO.</p>
@@ -297,16 +352,14 @@
 Ce cadre est particulièrement déterminant dans Discover, car le flux repose sur des recommandations personnalisées où la confiance joue un rôle central.</p>
 <p>Dans ma pratique, j'observe que les entreprises qui confondent les deux canaux - Search et Discover - sous-optimisent systématiquement l'un ou l'autre. Ce sont des logiques différentes qui demandent des contenus différents.</p>
 <hr />
-<h2 id="piliers">Les piliers d'une optimisation Google saine</h2>
-
+<h2 id="piliers" class="speakable">Les piliers d'une optimisation Google saine</h2>
 <p>Une stratégie de référencement Google repose sur trois piliers complémentaires. L'on-page d'abord : balise title unique, meta description incitative, structure Hn cohérente, URLs descriptives. La balise title est l'élément HTML qui définit le titre cliquable dans les résultats - Google la réécrit dans 57 % des cas lorsqu'elle est trop longue ou hors sujet.</p>
 <p>Le SEO technique ensuite : vitesse de chargement, compatibilité mobile, HTTPS, Core Web Vitals. 
 Google recommande explicitement d'utiliser les éléments HTML <code>&lt;img&gt;</code> avec les attributs <code>src</code> et <code>alt</code> descriptifs, et d'éviter les images en CSS pur.</p>
 <p>Le netlinking enfin : la qualité des liens entrants reste un signal de classement majeur. Un lien depuis un site d'autorité sectorielle vaut infiniment plus que dix liens provenant de répertoires génériques.</p>
 <p>Ce que je constate chez mes clients québécois et français : beaucoup investissent sur le contenu sans jamais auditer la structure technique. Un site lent sur mobile avec des erreurs d'indexation ne bénéficiera d'aucun effort éditorial. Google Search Console est l'outil de départ obligatoire pour identifier ces blocages.</p>
 <hr />
-<h2 id="discover">Google Discover : un canal distinct à maîtriser</h2>
-
+<h2 id="discover" class="speakable">Google Discover : un canal distinct à maîtriser</h2>
 <p>Google classe désormais les contenus Discover de manière indépendante des résultats Search, via un algorithme séparé optimisé pour la consommation de contenus selon les centres d'intérêt.</p>
 <p>Les images sont le premier signal visible. 
 Les articles avec des images ≥ 1200 px et la balise meta <code>max-image-preview:large</code> génèrent 45 % de CTR supplémentaire dans Discover par rapport aux articles avec des visuels absents ou plus petits.</p>
@@ -314,16 +367,14 @@ Les articles avec des images ≥ 1200 px et la balise meta <code>max-image-previ
 <p>La notoriété thématique est désormais un signal de classement dans Discover : publier régulièrement dans une niche construit la visibilité sur le feed, tandis que couvrir des sujets tendance de façon sporadique ne génère plus de trafic durable.</p>
 <p>Les photos originales et les visuels créés spécifiquement pour l'article surclassent systématiquement les images stock génériques dans Discover.</p>
 <hr />
-<h2 id="erreurs">Les erreurs qui déclenchent des pénalités en 2026</h2>
-
+<h2 id="erreurs" class="speakable">Les erreurs qui déclenchent des pénalités en 2026</h2>
 <p>Certaines pratiques restent des déclencheurs de pénalités documentés : keyword stuffing, cloaking, et acquisition de backlinks via des réseaux de liens spammy. En 2026, générer du contenu IA en masse sans supervision humaine ni expertise réelle s'y ajoute directement.</p>
 <p>La mise à jour Discover de février 2026 pénalise le clickbait et récompense les contenus substantiels et originaux - les sites qui misaient sur des titres sensationnels ont enregistré des baisses de trafic entre 30 et 60 %.</p>
 <p>Les pénalités algorithmiques sont des sanctions automatiques déclenchées par des mises à jour comme Panda (contenu de faible qualité) ou Penguin (liens artificiels). Les pénalités manuelles, elles, nécessitent une évaluation humaine via l'onglet "Actions manuelles" de Google Search Console.</p>
 <p>Le processus d'évaluation de Google analyse les signaux E-E-A-T, l'unicité du contenu, la précision factuelle, et les données d'engagement : temps passé sur la page, taux de rebond. Un contenu techniquement propre mais vide de substance réelle ne passe plus les filtres de 2026.</p>
 <p>Mon expérience montre que la sur-optimisation - répétition excessive du mot-clé cible, densité artificielle - est aussi nocive que l'absence d'optimisation. L'algorithme détecte les patterns mécaniques.</p>
 <hr />
-<h2 id="mesure">Mesurer et corriger : outils et méthodes</h2>
-
+<h2 id="mesure" class="speakable">Mesurer et corriger : outils et méthodes</h2>
 <p>Google Search Console et Google Analytics sont les deux outils gratuits incontournables pour piloter une Stratégie SEO. Search Console révèle les impressions, les clics, les positions moyennes et les erreurs d'indexation. 
 Le rapport Discover dans Search Console permet aussi de tester des variantes de titres et de surveiller les variations de CTR pour identifier les formats qui performent.</p>
 <p>Pour récupérer après une pénalité : commencez par identifier la source exacte dans Google Search Console (onglet "Actions manuelles"). Supprimez ou rééditez les pages sur-optimisées. Élaguez votre contenu en fusionnant les pages de faible qualité.</p>
@@ -331,18 +382,17 @@ Le rapport Discover dans Search Console permet aussi de tester des variantes de 
 <p>Ajoutez une ligne Discover dans vos rapports SEO avec impressions, clics et CTR issus de Search Console - cela positionne Discover non pas comme un effort supplémentaire, mais comme un retour additionnel sur vos actions SEO existantes.</p>
 <p>Sur les projets que je pilote, je recommande une lecture mensuelle croisée Search Console et Google Analytics : les mots-clés organiques corrélés aux données comportementales révèlent des angles de contenu inexploités.</p>
 <hr />
-<h2 id="questions-frequentes">Questions fréquentes</h2>
-
-<h3>Quelle est la différence entre le SEO classique et Google Discover ?</h3>
+<h2 id="questions-frequentes" class="speakable">Questions fréquentes</h2>
+<h3 id="quelle-est-la-difference-entre-le-seo-classique-et-google">Quelle est la différence entre le SEO classique et Google Discover ?</h3>
 <p>Le SEO classique répond à des requêtes formulées par l'utilisateur dans la barre de recherche. 
 Google Discover ne repose pas sur une requête tapée : le contenu doit correspondre au comportement de navigation et aux centres d'intérêt de l'utilisateur.
  Les signaux de classement diffèrent : fraîcheur, autorité thématique, qualité des images et E-E-A-T sont prépondérants dans Discover, tandis que le SEO Search privilégie la pertinence mot-clé et les backlinks.</p>
-<h3>Quelles images utiliser pour optimiser Google Discover ?</h3>
+<h3 id="quelles-images-utiliser-pour-optimiser-google-discover">Quelles images utiliser pour optimiser Google Discover ?</h3>
 <p>Google Discover exige des images d'au moins 1200 pixels de large avec un ratio 16:9 et une résolution supérieure à 300 000 pixels. La balise meta <code>max-image-preview: large</code> doit être activée dans l'en-tête de la page.
  Privilégiez des photos originales plutôt que des visuels stock génériques : les images authentiques surclassent systématiquement les visuels génériques dans le feed, comme le confirment les données de terrain 2026.</p>
-<h3>Comment détecter une pénalité Google sur mon site ?</h3>
+<h3 id="comment-detecter-une-penalite-google-sur-mon-site">Comment détecter une pénalité Google sur mon site ?</h3>
 <p>Connectez-vous à Google Search Console et consultez l'onglet "Actions manuelles". Une chute brutale du trafic organique visible dans Google Analytics sans action manuelle identifiée signale une pénalité algorithmique. Comparez les dates de baisse avec le calendrier des core updates Google (Panda, Penguin, spam updates) pour corréler l'origine précise de la sanction.</p>
-<h3>Le contenu généré par IA est-il pénalisé par Google en 2026 ?</h3>
+<h3 id="le-contenu-genere-par-ia-est-il-penalise-par-google-en-2026">Le contenu généré par IA est-il pénalisé par Google en 2026 ?</h3>
 <p>Google ne pénalise pas le contenu IA en tant que tel, mais sanctionne le contenu sans valeur ajoutée réelle, sans supervision humaine et sans expertise démontrable. En 2026, les spam updates ciblent explicitement la production de masse automatisée. Un contenu IA révisé, enrichi de données terrain et signé par un auteur identifiable reste conforme aux exigences E-E-A-T.</p>
 <hr />
 <p><em>Sources : Digital Applied, février 2026 - Fuelonline, février 2026 - SEO-Kreativ, février 2026 - RichAds, mars 2026 - Straction, avril 2026 - Google Search Central Documentation, mars 2026 - Newsifier, mars 2026</em></p>
@@ -357,7 +407,7 @@ Google Discover ne repose pas sur une requête tapée : le contenu doit correspo
           <a href="/ia/auteur-antoine-blot.html" style="font-weight:700;color:#1a1a1a;font-size:0.95rem;text-decoration:none">Antoine Blot</a>
           <span style="font-size:0.78rem;color:#888">Consultant SEO &amp; GEO</span>
         </div>
-        <p style="font-size:0.85rem;color:#555;margin:0 0 10px;line-height:1.6;font-style:italic">Responsable marketing et consultant SEO et GEO à Montréal et au Québec. Une décennie de pratique au service de la visibilité des marques sur Google et les moteurs IA.</p>
+        <p style="font-size:0.85rem;color:#555;margin:0 0 10px;line-height:1.6;font-style:italic">Expert en stratégies d'acquisition organique (SEO et GEO) basé au Québec. 12 ans de pratique et de veille technologique au service de la visibilité des marques sur Google et les moteurs IA.</p>
         <div style="display:flex;gap:8px;flex-wrap:wrap">
           <a href="/ia/auteur-antoine-blot.html" style="font-size:0.75rem;color:#0066cc;border:1px solid #dde8ff;padding:2px 10px;border-radius:20px;background:#fff;text-decoration:none">Voir le profil</a>
           <a href="https://antoine-blot.com" target="_blank" rel="noopener" style="font-size:0.75rem;color:#0066cc;border:1px solid #dde8ff;padding:2px 10px;border-radius:20px;background:#fff;text-decoration:none">antoine-blot.com</a>
@@ -371,9 +421,7 @@ Google Discover ne repose pas sur une requête tapée : le contenu doit correspo
     <div class="footer-inner">
       <div class="footer-left">
         <strong>BLOT Antoine</strong><br>
-        48 rue de la Concorde<br>
-        Repentigny, Québec<br>
-        Canada
+        48 rue de la Concorde, Repentigny, QC J6A 3W2, Canada
       </div>
       <div class="footer-right">
         <a href="/ia/">Articles</a>

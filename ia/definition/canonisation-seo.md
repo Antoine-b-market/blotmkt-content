@@ -27,7 +27,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # Canonisation SEO : guide complet pour maîtriser le contenu dupliqué
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce que la canonisation SEO et pourquoi est-elle essentielle ?](#quest-ce-que-la-canonisation-seo-et-pourquoi-est-elle-essentielle)
 - [Comment implémenter correctement les balises canoniques ? Guide pas à pas](#comment-implementer-correctement-les-balises-canoniques-guide-pas-a-pas)
 - [Problèmes courants de canonisation et comment les résoudre](#problemes-courants-de-canonisation-et-comment-les-resoudre)
@@ -126,19 +126,19 @@ En tant que consultant SEO, je recommande un audit de canonisation tous les trim
 
 ## Questions fréquentes sur la canonisation SEO {#questions-frequentes}
 
-### Une balise canonique est-elle obligatoire pour chaque page ?
+### Une balise canonique est-elle obligatoire pour chaque page ? {#une-balise-canonique-est-elle-obligatoire-pour-chaque-page}
 
 Non, elle n'est pas obligatoire au sens technique. Mais toute page, même sans doublon identifié, devrait porter une canonical auto-référencée. Cette pratique protège contre les duplications involontaires générées par des crawlers tiers, des outils de monitoring ou des paramètres UTM ajoutés automatiquement par des plateformes d'analyse. Sur WordPress, Yoast SEO ajoute cette self-canonical automatiquement.
 
-### Que se passe-t-il si je canonise une page vers une URL non existante ?
+### Que se passe-t-il si je canonise une page vers une URL non existante ? {#que-se-passe-t-il-si-je-canonise-une-page-vers-une-url-non}
 
 Google ignore la directive et peut désindexer la page source par absence de signal clair. Une canonical pointant vers une URL 404 est un signal désastreux : après plusieurs crawls sans résolution, Googlebot finit par ne plus tenir compte de vos directives canoniques sur le domaine concerné. Vérifiez systématiquement que l'URL cible retourne un code HTTP 200 et n'est pas bloquée par robots.txt.
 
-### La balise canonique transmet-elle du jus de lien (link equity) ?
+### La balise canonique transmet-elle du jus de lien (link equity) ? {#la-balise-canonique-transmet-elle-du-jus-de-lien-link-equity}
 
 Oui, mais partiellement. Google consolide les signaux de classement - dont les backlinks - vers l'URL canonique désignée. Le transfert est estimé à environ 95 % selon les données disponibles, contre 100 % pour une redirection 301 bien configurée. La canonical reste préférable quand la page source doit rester accessible aux utilisateurs, malgré ce léger différentiel de transfert d'autorité.
 
-### La balise canonique est-elle seulement une suggestion pour Google ?
+### La balise canonique est-elle seulement une suggestion pour Google ? {#la-balise-canonique-est-elle-seulement-une-suggestion-pour}
 
 Oui. Google lui-même qualifie la canonical de signal, non de directive absolue. Lorsque la canonical est incohérente avec le contenu réel, lorsque la page cible est inaccessible, ou lorsque d'autres signaux dominants existent comme une redirection 301 ou une meta noindex, Google peut choisir d'ignorer la canonical. C'est pourquoi la cohérence de l'ensemble des signaux techniques est plus importante que la balise seule.
 

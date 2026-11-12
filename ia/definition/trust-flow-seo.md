@@ -23,7 +23,7 @@ publisher: "BlotMKT - Antoine Blot"
 ---
 # Trust flow SEO : comprendre et booster l'autorité de votre site
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce que le Trust Flow et pourquoi est-ce important pour le SEO ?](#quest-ce-que-le-trust-flow-et-pourquoi-est-ce-important-pour-le-seo)
 - [Trust Flow vs Citation Flow : quelles différences et comment les utiliser ?](#trust-flow-vs-citation-flow-quelles-differences-et-comment-les-utiliser)
 - [Stratégies concrètes pour augmenter le Trust Flow de votre site web](#strategies-concretes-pour-augmenter-le-trust-flow-de-votre-site-web)
@@ -167,26 +167,26 @@ les scores TF peuvent être manipulés. Acheter des liens sur des réseaux de si
 
 ## Questions fréquentes {#questions-frequentes}
 
-### Comment vérifier mon Trust Flow ?
+### Comment vérifier mon Trust Flow ? {#comment-verifier-mon-trust-flow}
 
 Avec Majestic, il suffit d'entrer l'URL du site à tester pour obtenir le score de Trust Flow immédiatement.
  
 Google Search Console complète cette analyse : le rapport Liens affiche les domaines référents directement depuis l'index Google.
  La combinaison des deux outils donne une vision fiable du profil. Pour la majorité des sites, un audit mensuel suffit.
 
-### Qu'est-ce qu'un bon Trust Flow ?
+### Qu'est-ce qu'un bon Trust Flow ? {#qu-est-ce-qu-un-bon-trust-flow}
 
 Un TF supérieur à 20 est déjà bon pour un site vitrine. Un score supérieur à 40 indique une autorité forte, utile dans une stratégie de netlinking.
  La majorité des sites avec un bon profil organique affichent un Trust Flow compris entre 30 et 50. 
 Si vos concurrents affichent un TF moyen de 35 et que vous êtes à 12, vous connaissez précisément le trust gap à combler.
 
-### Comment augmenter mon Trust Flow gratuitement ?
+### Comment augmenter mon Trust Flow gratuitement ? {#comment-augmenter-mon-trust-flow-gratuitement}
 
 Obtenir des citations dans des médias en ligne de référence via la Digital PR constitue la voie la plus efficace sans budget direct en achat de liens. 
 La création d'actifs à fort potentiel de liens (outils, calculateurs, recherches originales, visualisations de données) reste considérée comme l'approche la plus efficace par 12 % des experts, car ces ressources attirent des liens de façon passive.
  Les guides approfondis et études de cas sont les formats qui génèrent le plus de liens de qualité.
 
-### Le Trust Flow est-il un facteur de ranking Google ?
+### Le Trust Flow est-il un facteur de ranking Google ? {#le-trust-flow-est-il-un-facteur-de-ranking-google}
 
 Le Trust Flow n'est pas officiellement un facteur de ranking Google : c'est un indicateur tiers utile pour évaluer la qualité des backlinks. 
 Des liens de qualité provenant de sites pertinents sont considérés comme un facteur de classement significatif dans les moteurs de recherche en texte intégral.

@@ -51,7 +51,7 @@ La majorité des pages web ne seront jamais citées par ChatGPT, Perplexity ou l
 
 ---
 
-## Ce que signifie réellement "être cité par une IA" {#ce-que-signifie-reellement-etre-cite-par-une-ia}
+## Ce que signifie réellement "être cité par une IA"
 
 Une citation par IA, c'est le fait qu'un LLM - ChatGPT, Gemini, Perplexity, ou les AI Overviews de Google - utilise votre contenu comme source dans une réponse générée. Ce n'est pas un backlink. Ce n'est pas un classement. C'est une sélection éditoriale automatisée, fondée sur des critères de crédibilité, de structure et de pertinence sémantique.
 
@@ -62,7 +62,7 @@ les corrélations les plus frappantes montrent que les citations éditoriales at
 
 ---
 
-## Comment les LLMs sélectionnent leurs sources {#comment-les-llms-selectionnent-leurs-sources}
+## Comment les LLMs sélectionnent leurs sources
 
 Les modèles génératifs ne crawlent pas le web comme Google. 
 Ils s'appuient sur des données d'entraînement massives, des plugins de navigation en temps réel et des index vectoriels. Pour qu'un contenu soit retenu comme source fiable, il doit répondre à plusieurs critères : autorité thématique mesurable (E-E-A-T), densité sémantique élevée, structure claire avec des balises HTML explicites, et cohérence entre les entités nommées.
@@ -74,7 +74,7 @@ J'observe que chez mes clients, les pages qui combinent une entité nommée (aut
 
 ---
 
-## La preuve : chiffres sourcés et entités nommées {#la-preuve-chiffres-sources-et-entites-nommees}
+## La preuve : chiffres sourcés et entités nommées
 
 En 2026, les pages intégrant des données chiffrées attribuées à une entité nommée étaient citées par les IA génératives 4 fois plus souvent que les pages présentant les mêmes informations sans source explicite. Ce constat, issu de ma pratique de stratège marketing, change fondamentalement l'approche éditoriale : la preuve chiffrée attribuée n'est plus un plus, c'est un prérequis de citabilité.
 
@@ -84,7 +84,7 @@ Selon Stacker (décembre 2025), la distribution d'un même contenu sur un large 
 
 ---
 
-## Structurer un contenu "citogénique" {#structurer-un-contenu-citogenique}
+## Structurer un contenu "citogénique"
 
 La citabilité se conçoit dès l'architecture éditoriale. 
 44,2 % des citations LLM proviennent du premier tiers du texte. La règle est claire : la réponse à la question posée doit apparaître dans les 40 à 60 premiers mots. C'est ce qu'on appelle l'"answer capsule". 72,4 % des contenus cités par ChatGPT en intègrent une.
@@ -99,7 +99,7 @@ Les pages non mises à jour trimestriellement sont 3 fois plus susceptibles de p
 
 ---
 
-## Les limites réelles de la citabilité IA {#les-limites-reelles-de-la-citabilite-ia}
+## Les limites réelles de la citabilité IA
 
 L'optimisation pour les LLMs n'est pas une garantie, ni une formule magique. Plusieurs cas limites s'imposent dans toute stratégie GEO sérieuse.
 
@@ -120,7 +120,7 @@ Les marques sont 6,5 fois plus susceptibles d'être citées via des sources tier
 
 ---
 
-## Questions fréquentes {#questions-frequentes}
+## Questions fréquentes
 
 ### Le SEO traditionnel est-il devenu inutile face aux citations IA ?
 
@@ -147,6 +147,6 @@ tester manuellement sa citation rate en interrogeant directement ChatGPT (naviga
 
 - [AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
+- [Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix](https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
 - [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
-- [Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité](https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo.html)

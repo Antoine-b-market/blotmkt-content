@@ -27,7 +27,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # Rayon de visibilité : guide complet pour une signalétique impactante
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Définition du rayon de visibilité en signalétique : l'importance cruciale](#definition-rayon-visibilite)
 - [L'impact du rayon de visibilité sur l'attraction client et l'image de marque](#impact-attraction-client)
 - [Facteurs clés pour maximiser le rayon de visibilité : le guide pratique](#facteurs-cles-maximiser)
@@ -139,19 +139,19 @@ En travaillant avec des entreprises sur leurs audits signalétiques en 2026, je 
 
 ## Questions fréquentes {#questions-frequentes}
 
-### Comment améliorer la visibilité d'une enseigne sans la remplacer ?
+### Comment améliorer la visibilité d'une enseigne sans la remplacer ? {#comment-ameliorer-la-visibilite-d-une-enseigne-sans-la}
 
 Quatre actions produisent des résultats rapides : ajouter un éclairage LED périmétrique, augmenter le contraste fond/texte avec un film adhésif, repositionner l'angle d'exposition vers le flux principal de passants, et appliquer un film rétroréfléchissant. 
 Un entretien régulier et le remplacement ciblé des sections usées prolongent la lisibilité globale sans intervention complète.
  Un audit terrain à 5, 15 et 30 mètres prend moins d'une heure.
 
-### Quelles sont les réglementations concernant les enseignes commerciales ?
+### Quelles sont les réglementations concernant les enseignes commerciales ? {#quelles-sont-les-reglementations-concernant-les-enseignes}
 
 L'installation d'enseignes est soumise à des règles d'emplacement, de dimensions et d'éclairage nocturne. Depuis le 1er janvier 2024, la police de la publicité a été décentralisée : les maires et présidents d'EPCI détiennent désormais la compétence réglementaire sur les enseignes de leur territoire. 
 La norme ISO 7010 concerne toutes les entreprises, tous les ERP et tous les chantiers.
  Vérifiez le règlement local de publicité (RLP) avant tout projet.
 
-### Quel est le rôle de l'éclairage dans la visibilité nocturne ?
+### Quel est le rôle de l'éclairage dans la visibilité nocturne ? {#quel-est-le-role-de-l-eclairage-dans-la-visibilite-nocturne}
 
 L'éclairage transforme radicalement le rayon de visibilité après la tombée du jour. Un éclairage LED rétroéclairé multiplie la portée visuelle par 3 à 5 selon l'environnement lumineux. 
 Dans les zones à faible éclairage, une version photoluminescente garantit la visibilité même en cas de coupure de courant.

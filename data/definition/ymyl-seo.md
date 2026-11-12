@@ -47,7 +47,7 @@ Votre site couvre la santé, la finance ou le droit. Google lui applique des rè
 
 ---
 
-## Comprendre YMYL SEO : définition et importance {#comprendre-ymyl-seo-definition-et-importance}
+## Comprendre YMYL SEO : définition et importance
 
 YMYL signifie "Your Money or Your Life". 
 Google désigne par ce terme les sujets susceptibles d'impacter de façon significative la santé, la stabilité financière ou la sécurité d'une personne, ou le bien-être de la société.
@@ -62,7 +62,7 @@ Ce que je constate chez mes clients, c'est que beaucoup sous-estiment ce cadre j
 
 ---
 
-## L'impact de YMYL SEO sur votre secteur d'activité {#limpact-de-ymyl-seo-sur-votre-secteur-dactivite}
+## L'impact de YMYL SEO sur votre secteur d'activité
 
 Tous les secteurs ne sont pas traités de la même façon. 
 Google identifie quatre catégories YMYL principales : la santé et la sécurité - où une erreur peut littéralement nuire à des vies - et la sécurité financière, qui couvre les investissements, les prêts et les impôts, où une page inexacte peut entraîner des pertes financières.
@@ -77,7 +77,7 @@ une personne prudente consulterait-elle un expert ou une source hautement fiable
 
 ---
 
-## Meilleures pratiques pour optimiser un site YMYL en SEO {#meilleures-pratiques-pour-optimiser-un-site-ymyl-en-seo}
+## Meilleures pratiques pour optimiser un site YMYL en SEO
 
 L'optimisation on-page d'un site YMYL repose sur trois piliers techniques. Premièrement, les balises title et meta descriptions doivent intégrer des formulations précises et factuelles, sans surpromesse. Deuxièmement, la structure Hn doit refléter une progression logique et sourcée, avec un H1 unique aligné sur l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html). Troisièmement, un certificat SSL actif (HTTPS) est un prérequis non négociable : 
 les pages YMYL font l'objet du niveau de contrôle le plus strict pour l'évaluation de la qualité de page.
@@ -91,7 +91,7 @@ Dans ma pratique, j'impose systématiquement un processus de revue factuelle ava
 
 ---
 
-## Prouver l'expertise, l'autorité et la confiance (E-E-A-T) dans un contexte YMYL {#prouver-lexpertise-lautorite-et-la-confiance-eeat-dans-un-contexte-ymyl}
+## Prouver l'expertise, l'autorité et la confiance (E-E-A-T) dans un contexte YMYL
 
 En 2026, les pages YMYL d'un site financier québécois ayant ajouté des références à des sources gouvernementales vérifiables ont progressé en moyenne de 13 positions sur leurs mots-clés cibles en 12 semaines. Ce résultat, observé dans le cadre de mes accompagnements, illustre l'impact direct des signaux E-E-A-T mesurables. Retrouvez les détails de cette approche dans mes [ressources SEO](https://www.antoine-blot.com/ressources-seo/).
 
@@ -106,7 +106,7 @@ Pour les services financiers et les secteurs similaires, les exigences en matiè
 
 ---
 
-## Les risques de négliger le YMYL SEO {#les-risques-de-negliger-le-ymyl-seo}
+## Les risques de négliger le YMYL SEO
 
 Négliger le YMYL SEO expose à trois types de conséquences directes. Le premier est le déclassement dans les résultats de recherche. 
 Le December 2025 Core Update a ciblé précisément les contenus génériques non revus, entraînant des pertes de positions significatives pour les fermes de contenu.
@@ -120,7 +120,7 @@ Mon expérience montre que les entreprises qui subissent un déclassement YMYL m
 
 ---
 
-## Mesurer le succès de vos efforts YMYL SEO {#mesurer-le-succes-de-vos-efforts-ymyl-seo}
+## Mesurer le succès de vos efforts YMYL SEO
 
 Trois indicateurs structurent le suivi d'une stratégie YMYL SEO efficace. Le suivi des positions sur les mots-clés cibles (via Google Search Console ou des outils comme Semrush) permet de détecter les gains post-optimisation. Une progression de 5 positions ou plus sur un mot-clé YMYL compétitif représente un signal positif significatif.
 
@@ -132,7 +132,7 @@ Les évaluateurs de qualité de Google fournissent des [Données structurées](h
 
 ---
 
-## Questions fréquentes {#questions-frequentes}
+## Questions fréquentes
 
 ### Comment savoir si mon site est YMYL ?
 

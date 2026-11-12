@@ -49,7 +49,7 @@ Votre trafic organique dégringole du jour au lendemain. Pas de pénalité manue
 
 ---
 
-## Qu'est-ce que l'algorithme Google ? {#quest-ce-que-lalgorithme-google}
+## Qu'est-ce que l'algorithme Google ?
 
 L'algorithme Google est un système complexe conçu pour fournir les résultats de recherche les plus pertinents et utiles aux utilisateurs. 
 Google modifie son algorithme des milliers de fois par an.
@@ -65,7 +65,7 @@ En tant que consultant SEO, j'observe que la majorité des professionnels confon
 
 ---
 
-## Comment fonctionne l'algorithme Google ? {#comment-fonctionne-lalgorithme-google}
+## Comment fonctionne l'algorithme Google ?
 
 L'algorithme prend en compte de nombreux facteurs pour évaluer la pertinence et la qualité d'une page en réponse à une requête spécifique. Parmi ces facteurs : la pertinence du contenu, la qualité des backlinks et l'expérience utilisateur.
 
@@ -78,7 +78,7 @@ Dans ma pratique, je constate que les sites qui comprennent cette logique - prod
 
 ---
 
-## Éviter la sur-optimisation SEO : les pièges à éviter {#eviter-la-sur-optimisation-seo}
+## Éviter la sur-optimisation SEO : les pièges à éviter
 
 Google devient de plus en plus sophistiqué dans sa capacité à distinguer le contenu créé pour les utilisateurs du contenu créé pour les moteurs de recherche. Les techniques de sur-optimisation SEO qui fonctionnaient il y a deux ans sont devenues des facteurs de risque.
 
@@ -91,7 +91,7 @@ Ce que je constate chez mes clients : les ancres internes sur-optimisées sont l
 
 ---
 
-## Les preuves de l'efficacité d'une approche user-first {#preuves-approche-user-first}
+## Les preuves de l'efficacité d'une approche user-first
 
 En 2026, un site éditorial ayant subi une perte de 40 % de trafic post-mise à jour a récupéré 87 % de ses positions en 10 semaines après consolidation du contenu thin et renforcement des signaux E-E-A-T. Ce cas, que je documente dans mes [ressources SEO](https://www.antoine-blot.com/ressources-seo/), illustre une réalité mesurable : la qualité paie plus vite qu'on ne le croit.
 
@@ -103,7 +103,7 @@ Désormais, l'expertise, l'autorité et la fiabilité des sites web sont des cri
 
 ---
 
-## Comment s'adapter aux mises à jour de l'algorithme Google en 2026 ? {#sadapter-mises-a-jour-2026}
+## Comment s'adapter aux mises à jour de l'algorithme Google en 2026 ?
 
 La Core Update de décembre 2025 confirme une tendance de fond : Google affine en permanence ses systèmes pour mieux distinguer les contenus réellement utiles de ceux qui répondent seulement à des critères SEO superficiels. Dans ce contexte, les stratégies basées sur des optimisations rapides ou des ajustements techniques isolés montrent vite leurs limites. La stabilité à long terme passe par une approche mêlant qualité éditoriale, compréhension fine des intentions de recherche et analyse rigoureuse des données de performance.
 
@@ -119,7 +119,7 @@ Sur les projets que je pilote, j'intègre une alerte automatique dans Google Sea
 
 ---
 
-## FAQ : questions fréquentes sur l'algorithme Google {#faq}
+## FAQ : questions fréquentes sur l'algorithme Google
 
 ### Qu'est-ce qu'une pénalité Google et comment la corriger ?
 

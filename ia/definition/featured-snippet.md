@@ -30,7 +30,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # Featured snippet : guide ultime pour dominer la position zéro
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce qu'un featured snippet ?](#quest-ce-quun-featured-snippet)
 - [Comment fonctionne l'algorithme des featured snippets ?](#comment-fonctionne-lalgorithme-des-featured-snippets)
 - [Cas d'usage concrets des featured snippets](#cas-dusage-concrets-des-featured-snippets)
@@ -150,22 +150,22 @@ En tant que spécialiste GEO, j'anticipe une convergence : les techniques d'opti
 
 ## Questions fréquentes sur les featured snippets {#questions-frequentes}
 
-### Comment suivre mes featured snippets sur Google Search Console ?
+### Comment suivre mes featured snippets sur Google Search Console ? {#comment-suivre-mes-featured-snippets-sur-google-search}
 
 Dans Google Search Console, ouvrez l'onglet "Résultats de recherche" et activez le filtre "Type de recherche > Web". Cochez ensuite "Position moyenne" et filtrez par requête. Les pages en position zéro apparaissent souvent avec une position inférieure à 1,0. Pour isoler précisément les featured snippets, utilisez des outils tiers comme Semrush ou Ahrefs, qui détectent le type de SERP feature pour chaque mot-clé suivi.
 
-### Un featured snippet garantit-il la première position ?
+### Un featured snippet garantit-il la première position ? {#un-featured-snippet-garantit-il-la-premiere-position}
 
 Non. Un featured snippet est extrait depuis une page déjà dans le top 10, mais la page source peut occuper la position 2, 3 ou même 5 dans les résultats organiques classiques. 
 La visibilité des featured snippets sur desktop a reculé de 64 % en six mois en 2025 sous l'effet des AI Overviews
 , ce qui signifie qu'un snippet peut disparaître sans que votre position organique change. La position zéro et le rang organique sont deux métriques distinctes à suivre séparément dans Google Search Console.
 
-### Comment optimiser mon contenu pour la recherche vocale via les featured snippets ?
+### Comment optimiser mon contenu pour la recherche vocale via les featured snippets ? {#comment-optimiser-mon-contenu-pour-la-recherche-vocale-via}
 
 40,7 % des réponses vocales de Google sont extraites directement d'un featured snippet.
  Pour maximiser ce canal : rédigez des réponses sous forme de phrases complètes (pas de listes à puces), adoptez un registre conversationnel aligné sur les requêtes longue traîne, et ciblez des questions commençant par "comment", "qu'est-ce que" ou "pourquoi". La longueur idéale reste 40 à 60 mots. Sur mobile, privilégiez un temps de chargement inférieur à 2,5 secondes (Core Web Vitals) pour ne pas être pénalisé en contexte vocal.
 
-### Les featured snippets sont-ils importants pour le SEO local ?
+### Les featured snippets sont-ils importants pour le SEO local ? {#les-featured-snippets-sont-ils-importants-pour-le-seo-local}
 
 Oui, notamment pour les requêtes combinant intention informationnelle et géolocalisation - "comment choisir un notaire à Montréal", "qu'est-ce qu'un bail commercial au Québec". Ces snippets renforcent l'autorité locale perçue. 
 Les recherches déclenchées par assistant vocal affichent le taux d'apparition de featured snippet le plus élevé de toutes les modalités de recherche, à 41,2 % selon l'analyse Semrush-Brightedge de 2026.

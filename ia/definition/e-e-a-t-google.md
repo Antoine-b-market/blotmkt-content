@@ -30,7 +30,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # E-e-a-t Google : le guide ultime pour booster votre SEO
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Comprendre l'E-E-A-T : l'essence de la qualité Google](#comprendre-leeat-lessence-de-la-qualite-google)
 - [Comment Google mesure et utilise l'E-E-A-T dans ses algorithmes](#comment-google-mesure-et-utilise-leeat-dans-ses-algorithmes)
 - [Démontrer l'expérience : partager votre vécu et vos insights uniques](#demontrer-lexperience-partager-votre-vecu-et-vos-insights-uniques)
@@ -137,23 +137,23 @@ Le contenu IA qui échoue à ces tests - générique, non relu, bourré de mots-
 
 ## Questions fréquentes sur l'E-E-A-T de Google {#questions-frequentes-sur-leeat-de-google}
 
-### L'E-E-A-T est-il un facteur de classement direct ?
+### L'E-E-A-T est-il un facteur de classement direct ? {#l-e-e-a-t-est-il-un-facteur-de-classement-direct}
 
 Non. 
 Les Quality Raters n'ont aucun contrôle sur le classement des pages et leurs données ne sont pas utilisées directement dans les algorithmes de classement.
  L'E-E-A-T agit indirectement : il guide l'entraînement des systèmes automatisés de Google. Les sites qui démontrent un E-E-A-T fort s'alignent sur ce que ces systèmes cherchent à récompenser, ce qui se traduit par une meilleure visibilité organique lors des core updates.
 
-### Quelle est la différence entre l'E-E-A-T et l'E-A-T ?
+### Quelle est la différence entre l'E-E-A-T et l'E-A-T ? {#quelle-est-la-difference-entre-l-e-e-a-t-et-l-e-a-t}
 
 L'E-A-T (Expertise, Autorité, Fiabilité) était le cadre d'origine, introduit dans les Search Quality Rater Guidelines en 2014. En décembre 2022, Google a ajouté un premier E pour Expérience, reconnaissant que la connaissance vécue de première main représente une dimension qualitative distincte de l'expertise théorique. Un médecin a l'expertise ; un patient atteint d'une maladie chronique a l'expérience. Les deux ont une valeur différente selon la requête.
 
-### Comment améliorer la fiabilité de mon site web ?
+### Comment améliorer la fiabilité de mon site web ? {#comment-ameliorer-la-fiabilite-de-mon-site-web}
 
 Activez un certificat HTTPS, publiez des mentions légales et une politique de confidentialité à jour, et sourcez chaque affirmation avec des liens vers des données primaires. 
 Révisez les pages clés au minimum annuellement, ajoutez des dates de dernière révision et mettez à jour les statistiques au fil de l'évolution du secteur.
  Déclarez tout lien commercial ou conflit d'intérêt dans vos contenus. Sur les sujets YMYL, faites relire vos contenus par un expert qualifié dont les références sont affichées en page.
 
-### Comment l'E-E-A-T s'adapte-t-il aux requêtes YMYL ?
+### Comment l'E-E-A-T s'adapte-t-il aux requêtes YMYL ? {#comment-l-e-e-a-t-s-adapte-t-il-aux-requetes-ymyl}
 
 Google applique des standards de Page Quality très élevés pour les contenus YMYL, car un contenu de faible qualité peut impacter négativement la santé, la stabilité financière ou la sécurité des utilisateurs.
  

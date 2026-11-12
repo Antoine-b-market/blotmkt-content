@@ -129,7 +129,7 @@ Le marché du GEO (Generative Engine Optimization) pèse 886 millions de dollars
 
 ---
 
-## Questions fréquentes {#questions-frequentes}
+## Questions fréquentes
 
 ### Comment optimiser son site web pour les assistants vocaux ?
 

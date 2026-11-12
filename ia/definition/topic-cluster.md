@@ -23,7 +23,7 @@ publisher: "BlotMKT - Antoine Blot"
 ---
 # Topic cluster : le guide essentiel pour un SEO 2026 optimisé IA
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Topic cluster vs. clustering de mots-clés : comprendre la nuance essentielle](#definition)
 - [L'anatomie d'un topic cluster : pilier, clusters et maillage interne stratégique](#anatomie)
 - [Pourquoi les topic clusters sont indispensables : citations IA et autorité thématique](#preuves)
@@ -144,22 +144,22 @@ comme l'explique Antoine Blot, "un satellite sans performance après 6 mois n'es
 
 ## FAQ : vos questions fréquentes sur les topic clusters {#questions-frequentes}
 
-### Quelle est la différence entre clustering de mots-clés et topic clusters ?
+### Quelle est la différence entre clustering de mots-clés et topic clusters ? {#quelle-est-la-difference-entre-clustering-de-mots-cles-et}
 
 Le clustering de mots-clés est l'étape analytique préparatoire : on regroupe des termes par intention de recherche pour définir quelle URL les couvrira. Le topic cluster est l'architecture finale qui en résulte, avec une page pilier et des pages satellites reliées par un maillage interne. Le clustering alimente le topic cluster ; le topic cluster donne une forme concrète au clustering. 
 Les topic clusters accordent davantage d'importance à l'intention de recherche, au maillage interne et à l'autorité thématique, ce qui les rend mieux adaptés au SEO moderne et à la recherche pilotée par l'IA.
 
-### Quand est-il recommandé d'implémenter une stratégie de topic clusters ?
+### Quand est-il recommandé d'implémenter une stratégie de topic clusters ? {#quand-est-il-recommande-d-implementer-une-strategie-de-topic}
 
 Dès que vous identifiez une thématique complexe à couvrir avec plusieurs angles distincts, et avant de produire le contenu. Le clustering est prioritaire sur la production : construire d'abord sans architecture génère de la cannibalisation immédiate. 
 Les premières améliorations de classement apparaissent généralement dans les 60 à 90 jours suivant la publication d'un cluster complet, et l'impact total, y compris les citations IA, se matérialise habituellement en 6 à 12 mois.
 
-### Comment les topic clusters impactent-ils les citations IA et la visibilité sur les moteurs génératifs ?
+### Comment les topic clusters impactent-ils les citations IA et la visibilité sur les moteurs génératifs ? {#comment-les-topic-clusters-impactent-ils-les-citations-ia-et}
 
 L'analyse de 6,8 millions de citations IA sur ChatGPT, Gemini et Perplexity révèle que les sites avec topic clusters reçoivent 3,2 fois plus de citations que leurs concurrents à page unique, et que 86 % des citations IA proviennent de sites ayant 5 pages ou plus interconnectées sur le sujet.
  La raison : les LLM évaluent l'empreinte thématique globale d'un site, pas uniquement la pertinence d'une page isolée. Un cluster couvre les fan-out queries naturellement générées par le modèle.
 
-### Comment détecter la cannibalisation dans un cluster existant ?
+### Comment détecter la cannibalisation dans un cluster existant ? {#comment-detecter-la-cannibalisation-dans-un-cluster-existant}
 
 Utilisez Google Search Console, rapport "Performances", filtrez par URL pour identifier les pages partageant les mêmes requêtes principales. Si deux URL du cluster apparaissent pour les mêmes mots-clés de tête, c'est un signal de cannibalisation active. 
 Les sites sans structure de liens correcte enregistrent jusqu'à 40 % moins de trafic que les clusters correctement structurés.

@@ -30,7 +30,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # Strategie eeat : l'approche systémique pour une autorité numérique durable
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Au-delà de la définition, une philosophie opérationnelle](#philosophie)
 - [L'erreur fatale : ignorer l'EEAT, c'est risquer la chute brutale](#erreur-fatale)
 - [EEAT et schema markup : structurer la confiance pour les machines et l'IA](#schema-markup)
@@ -161,22 +161,22 @@ La clarification la plus importante pour 2026 est que Google évalue la qualité
 
 ## Questions fréquentes {#questions-frequentes}
 
-### Comment l'EEAT influence-t-il la visibilité des sites web sur Google ?
+### Comment l'EEAT influence-t-il la visibilité des sites web sur Google ? {#comment-l-eeat-influence-t-il-la-visibilite-des-sites-web}
 
 L'EEAT influence la visibilité via des signaux indirects : qualité des backlinks, clarté de l'auteur, précision des informations et réputation du domaine. 
 Google n'assigne pas de score EEAT aux pages, mais utilise des signaux indirects pour comprendre la crédibilité d'une page.
  Les sites avec des signaux EEAT solides résistent mieux aux Core Updates et bénéficient d'une stabilité de positionnement sur le long terme.
 
-### Quels sont les éléments concrets à mettre en place pour améliorer l'EEAT de son contenu ?
+### Quels sont les éléments concrets à mettre en place pour améliorer l'EEAT de son contenu ? {#quels-sont-les-elements-concrets-a-mettre-en-place-pour}
 
 Les actions prioritaires : créer des bios d'auteurs détaillées avec accréditations vérifiables, implémenter le schema `Person` et `Article`, citer des sources officielles, maintenir un certificat SSL actif, afficher clairement les coordonnées de l'entreprise et mettre à jour le contenu au moins une fois par an. 
 Il faut ajouter des dates "dernière révision" et mettre à jour les statistiques et recommandations au fil de l'évolution du domaine.
 
-### Le schema markup est-il essentiel pour la strategie EEAT ?
+### Le schema markup est-il essentiel pour la strategie EEAT ? {#le-schema-markup-est-il-essentiel-pour-la-strategie-eeat}
 
 Le schema markup n'est pas obligatoire, mais il accélère significativement la lecture des signaux EEAT par les algorithmes et les LLMs. Les types les plus impactants sont `Article`, `Person`, `Organization` et `Review`. Ils rendent explicite ce que le contenu exprime en langage naturel. Validez toujours l'implémentation via le Rich Results Test de Google avant mise en ligne.
 
-### Comment les sites YMYL sont-ils spécifiquement affectés par l'EEAT ?
+### Comment les sites YMYL sont-ils spécifiquement affectés par l'EEAT ? {#comment-les-sites-ymyl-sont-ils-specifiquement-affectes-par}
 
 Pour le contenu YMYL, les exigences de signaux de confiance de Google sont substantiellement plus élevées. Les évaluateurs appliquent les standards EEAT les plus rigoureux : le contenu médical doit impliquer des praticiens licenciés, les conseils financiers doivent venir de professionnels certifiés, et les informations légales doivent être rédigées ou vérifiées par des avocats qualifiés.
  Depuis septembre 2025, le périmètre YMYL inclut aussi les élections et les institutions gouvernementales.
@@ -194,5 +194,5 @@ Pour le contenu YMYL, les exigences de signaux de confiance de Google sont subst
 - [AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix](https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
-- [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)

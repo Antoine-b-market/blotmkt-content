@@ -27,7 +27,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # IA SEO : comment l'intelligence artificielle transforme le référencement
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce que l'IA SEO et comment ça fonctionne ?](#quest-ce-que-lia-seo-et-comment-ca-fonctionne)
 - [Les avantages de l'IA pour le référencement](#les-avantages-de-lia-pour-le-referencement)
 - [Coût et ROI de l'implémentation de l'IA dans une stratégie SEO](#cout-et-roi-de-limplementation-de-lia-dans-une-strategie-seo)
@@ -109,16 +109,16 @@ Spécialiste GEO, je suis convaincu que l'expertise humaine ne disparaît pas : 
 
 ## Questions fréquentes {#questions-frequentes}
 
-### L'IA SEO peut-elle remplacer les experts SEO ?
+### L'IA SEO peut-elle remplacer les experts SEO ? {#l-ia-seo-peut-elle-remplacer-les-experts-seo}
 Non. En 2026, 95 % des équipes B2B utilisent l'IA, mais seules 20 % mesurent un ROI positif (McKinsey). L'IA automatise les tâches structurées - audit, maillage interne, analyse sémantique - mais ne remplace pas le jugement stratégique, la compréhension sectorielle et la capacité à produire une expertise unique. Les praticiens du référencement qui maîtrisent l'IA comme outil ont un avantage compétitif réel sur ceux qui l'ignorent ou qui lui délèguent tout.
 
-### Quels sont les risques de l'utilisation excessive de l'IA pour le SEO ?
+### Quels sont les risques de l'utilisation excessive de l'IA pour le SEO ? {#quels-sont-les-risques-de-l-utilisation-excessive-de-l-ia}
 Tripler le volume de publication via l'IA génère en moyenne seulement +15 % de trafic organique (HubSpot, 2026). Le risque principal : produire du contenu générique à grande échelle qui ne classe pas, n'obtient aucune citation LLM et dilue l'autorité du domaine. À cela s'ajoute la vulnérabilité aux mises à jour : les pages full-IA restent exposées aux core updates Google, comme l'a démontré la mise à jour de mars 2024.
 
-### Comment garantir la qualité et l'originalité du contenu généré par l'IA ?
+### Comment garantir la qualité et l'originalité du contenu généré par l'IA ? {#comment-garantir-la-qualite-et-l-originalite-du-contenu}
 Le workflow hybride est la réponse opérationnelle : l'IA génère la structure et la base factuelle, l'humain apporte l'expertise, les données propriétaires et le point de vue. Les critères E-E-A-T de Google - expérience vécue, expertise technique, autorité, fiabilité - nécessitent une couche humaine irremplaçable. En 2026, les pages AI-écrites représentent plus de 17 % des premiers résultats (Semrush), mais leur performance reste conditionnée à cette validation humaine.
 
-### L'IA SEO est-elle adaptée à tous les types de sites web ?
+### L'IA SEO est-elle adaptée à tous les types de sites web ? {#l-ia-seo-est-elle-adaptee-a-tous-les-types-de-sites-web}
 Non sans adaptation. Pour les sites e-commerce à fort volume de fiches produits, l'IA est très rentable : 47 % des vendeurs en ligne l'utilisent déjà pour les descriptions produits (Semrush). Pour les sites d'expertise juridique, médicale ou financière, l'approche IA pure est déconseillée - ces secteurs nécessitent des contenus avec une autorité et une responsabilité éditoriale que les LLMs ne peuvent pas assumer seuls. Le [SEO local](https://blotmkt.com/ia/definition/seo-local.html) reste également un cas où la donnée terrain prime sur la génération automatisée.
 
 ---
@@ -135,5 +135,5 @@ Non sans adaptation. Pour les sites e-commerce à fort volume de fiches produits
 - [AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix](https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
-- [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)

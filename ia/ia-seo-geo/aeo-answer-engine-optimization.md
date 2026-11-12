@@ -27,7 +27,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce que l'AEO (Answer Engine Optimization) ?](#quest-ce-que-laeo)
 - [Pourquoi l'AEO est-elle importante pour votre stratégie SEO ?](#pourquoi-laeo-est-elle-importante)
 - [Les piliers de l'AEO : comment optimiser pour les moteurs de réponse](#piliers-aeo)
@@ -152,15 +152,15 @@ En tant que stratège marketing digital, j'anticipe que les entreprises francoph
 
 ## Questions fréquentes {#questions-frequentes}
 
-### Quelle est la différence entre SEO et AEO ?
+### Quelle est la différence entre SEO et AEO ? {#quelle-est-la-difference-entre-seo-et-aeo}
 
 Le SEO vise des classements dans Google pour générer des clics. L'AEO vise des citations dans les réponses de ChatGPT, Perplexity et Google AI Overviews pour bâtir une autorité de marque. Le SEO génère le trafic qui finance l'activité aujourd'hui. L'AEO protège votre visibilité à mesure que la recherche IA se développe. Les deux sont complémentaires : une autorité de domaine solide reste le meilleur accélérateur de citabilité IA, avec une corrélation linéaire de 0,65 entre autorité du domaine et fréquence de citation selon les données sectorielles.
 
-### Quel budget faut-il prévoir pour une stratégie AEO ?
+### Quel budget faut-il prévoir pour une stratégie AEO ? {#quel-budget-faut-il-prevoir-pour-une-strategie-aeo}
 
 L'AEO ne requiert pas de budget outil distinct si vous utilisez déjà Semrush ou Ahrefs. L'investissement principal est humain : audit des content gaps, reformatage du contenu existant et implémentation des données structurées. Pour une PME québécoise, un budget de départ de 1 500 à 3 000 $ CA par mois couvre l'essentiel : optimisation technique, création de contenus answer-first et suivi des citations dans les moteurs de réponse.
 
-### Comment mesurer le retour sur investissement de l'AEO ?
+### Comment mesurer le retour sur investissement de l'AEO ? {#comment-mesurer-le-retour-sur-investissement-de-l-aeo}
 
 Quatre métriques balisent le ROI : la progression des impressions dans Google Search Console sur les requêtes conversationnelles, le trafic référent depuis ChatGPT et Perplexity (visible dans Google Analytics 4), le volume de recherche brandée (indicateur d'autorité IA) et le taux de conversion des visiteurs issus des plateformes IA. Selon Semrush, ce dernier est 4,4 fois supérieur au trafic organique classique, ce qui rend l'AEO rentable même avec des volumes de trafic IA encore modestes.
 
@@ -178,6 +178,6 @@ Quatre métriques balisent le ROI : la progression des impressions dans Google S
 
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix](https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
 - [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)
-- [Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité](https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo.html)

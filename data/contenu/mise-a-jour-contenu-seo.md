@@ -45,7 +45,7 @@ Votre contenu a bien fonctionné en 2018. Puis un Core Update a tout effacé. Vo
 
 ---
 
-## Mise à jour contenu SEO : une nécessité stratégique pour 2026 {#necessite-strategique}
+## Mise à jour contenu SEO : une nécessité stratégique pour 2026
 
 La mise à jour de contenu SEO dépasse largement la correction d'une date ou l'ajout d'un paragraphe. C'est une révision structurée : [Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html), couverture sémantique, signaux E-E-A-T, et alignement avec les attentes actuelles des algorithmes de Google.
 
@@ -61,7 +61,7 @@ Les sites qui ont appliqué mécaniquement des recommandations datant de 2015-20
 
 ---
 
-## Identifier la sur-optimisation : le signal d'alarme pour vos contenus {#identifier-sur-optimisation}
+## Identifier la sur-optimisation : le signal d'alarme pour vos contenus
 
 Détecter une sur-optimisation exige un audit structuré en trois niveaux : contenu, liens, et signaux de trafic via Google Search Console.
 
@@ -77,7 +77,7 @@ Une chute soudaine de trafic ou de visibilité autour des dates clés comme le 5
 
 ---
 
-## Les sanctions algorithmiques : quand Google pénalise l'immobilisme ou l'abus {#sanctions-algorithmiques}
+## Les sanctions algorithmiques : quand Google pénalise l'immobilisme ou l'abus
 
 Les conséquences d'une sur-optimisation sont graduelles : d'abord une suppression temporaire de ranking, puis une démotion durable, et dans les cas extrêmes une déindexation. La progressivité de ce mécanisme est précisément ce qui le rend dangereux.
 
@@ -97,7 +97,7 @@ J'observe que les entreprises qui traitent le SEO comme une action one-shot sont
 
 ---
 
-## L'accompagnement SEO annuel : votre solution de mise à jour continue {#accompagnement-seo-annuel}
+## L'accompagnement SEO annuel : votre solution de mise à jour continue
 
 Un accompagnement SEO annuel est un contrat de services récurrents par lequel un [consultant SEO](https://www.antoine-blot.com/consultant-seo/) optimise en continu la visibilité d'un site sur 12 mois. Ce modèle s'oppose directement à l'audit ponctuel, qui fournit un diagnostic sans assurer le suivi des corrections.
 
@@ -111,7 +111,7 @@ Un audit SEO sémantique réalisé sans mise à jour du contenu existant dans le
 
 ---
 
-## Les 4 piliers d'une mise à jour de contenu SEO efficace et pérenne {#quatre-piliers}
+## Les 4 piliers d'une mise à jour de contenu SEO efficace et pérenne
 
 Un accompagnement efficace repose sur quatre axes qui forment un cycle permanent d'amélioration.
 
@@ -131,7 +131,7 @@ En 2024, les canaux générant le meilleur ROI pour les marques B2B étaient le 
 
 ---
 
-## Mise à jour contenu et GEO : anticiper l'avenir avec l'IA {#geo-ia}
+## Mise à jour contenu et GEO : anticiper l'avenir avec l'IA
 
 Le GEO (Generative Engine Optimization) désigne l'ensemble des pratiques visant à optimiser un contenu pour qu'il soit cité dans les réponses générées par les IA : Google AI Overviews, ChatGPT, Perplexity, Gemini.
 
@@ -151,7 +151,7 @@ Concernant le ROI, les données SeoProfy 2026 indiquent un ROI moyen de 702 % po
 
 ---
 
-## Questions fréquentes {#questions-frequentes}
+## Questions fréquentes
 
 ### Comment savoir si mon contenu est sur-optimisé ?
 

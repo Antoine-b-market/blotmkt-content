@@ -48,7 +48,7 @@ Le personal branding SEO garantit que votre expertise n'est pas seulement connue
 
 ---
 
-## Qu'est-ce que le personal branding SEO et pourquoi est-il essentiel à l'ère numérique ? {#definition}
+## Qu'est-ce que le personal branding SEO et pourquoi est-il essentiel à l'ère numérique ?
 
 Le personal branding SEO consiste à optimiser votre identité numérique individuelle pour que les moteurs de recherche, mais aussi les LLM, vous trouvent, vous comprennent et vous recommandent. Ce n'est pas du SEO de contenu générique mais plutôt l'alignement de votre expertise professionnelle avec les signaux que Google utilise pour qualifier une entité humaine.
 
@@ -60,7 +60,7 @@ En 2026, 44 % des employeurs ont embauché quelqu'un en raison de sa marque pers
 
 ---
 
-## Les lacunes du personal branding SEO au Québec : ce que révèle mon audit {#audit-quebec}
+## Les lacunes du personal branding SEO au Québec : ce que révèle mon audit
 
 Selon [Antoine Blot](https://antoine-blot.com), consultant SEO et GEO basé à Montréal, l'audit de 22 professionnels québécois révèle un constat alarmant : 73 % d'entre eux n'apparaissent pas dans les 3 premiers résultats Google pour leur propre nom. Avocats, comptables, ingénieurs, coachs d'affaires : le phénomène traverse tous les secteurs.
 
@@ -79,7 +79,7 @@ Vrai vs Faux sur le personal branding SEO au Québec :
 
 ---
 
-## Mettre en place une stratégie de personal branding SEO : les étapes fondamentales {#etapes}
+## Mettre en place une stratégie de personal branding SEO : les étapes fondamentales
 
 Dans ma pratique, j'observe que la majorité des experts sautent l'étape zéro. Commencez par taper votre nom complet sur Google. Analysez les 10 premiers résultats : qui contrôle ces positions ? Un ancien employeur, un homonyme, un réseau social que vous n'utilisez plus ? Cette analyse est votre audit de départ, gratuit et immédiat.
 
@@ -110,7 +110,7 @@ Les directives de Google pour les évaluateurs de qualité mettent l'accent sur 
 
 ---
 
-## Les erreurs fatales à éviter pour un personal branding SEO durable {#erreurs}
+## Les erreurs fatales à éviter pour un personal branding SEO durable
 
 > Erreur commune no 1 : croire que le personal branding SEO se configure une seule fois.
 
@@ -126,7 +126,7 @@ En 2026, le link building a évolué. L'objectif est d'influencer la façon dont
 
 ---
 
-## Personal branding SEO vs. SEO de marque : comprendre les synergies et les spécificités {#vs-seo-marque}
+## Personal branding SEO vs. SEO de marque : comprendre les synergies et les spécificités
 
 | Dimension | Personal branding SEO | SEO de marque |
 |---|---|---|
@@ -145,7 +145,7 @@ En 2026, les professionnels du SEO doivent recentrer leurs efforts sur la clart�
 
 ---
 
-## L'ère du zero-click et des LLM : adapter votre personal branding SEO {#zero-click-llm}
+## L'ère du zero-click et des LLM : adapter votre personal branding SEO
 
 Une récente enquête de Bain révèle qu'environ 80 % des consommateurs s'appuient sur des résultats "zero-click" dans au moins 40 % de leurs recherches, réduisant le trafic web organique d'un estimé 15 % à 25 %.
  Pour un expert individuel, cette tendance transforme la question centrale : il ne s'agit plus seulement de "ranker" mais d'être cité.
@@ -167,7 +167,7 @@ Les marques doivent distinguer gain de trafic et contrôle du récit. Dans les e
 
 ---
 
-## Mesurer l'impact de votre marque personnelle SEO et maximiser le retour sur investissement {#mesure-roi}
+## Mesurer l'impact de votre marque personnelle SEO et maximiser le retour sur investissement
 
 Quatre indicateurs suffisent pour démarrer, sans sur-investir en outils.
 
@@ -185,7 +185,7 @@ J'observe dans ma pratique que les professionnels qui suivent ces quatre indicat
 
 ---
 
-## Questions fréquentes sur le personal branding SEO {#questions-frequentes}
+## Questions fréquentes sur le personal branding SEO
 
 ### Comment développer son personal branding en tant qu'expert sur Google ?
 

@@ -44,7 +44,7 @@ Votre site publie régulièrement, mais vos pages se cannibalisent, vos rankings
 
 ---
 
-## Topic cluster vs. clustering de mots-clés : comprendre la nuance essentielle {#definition}
+## Topic cluster vs. clustering de mots-clés : comprendre la nuance essentielle
 
 Ces deux termes circulent souvent ensemble, parfois interchangeables à tort. La confusion génère des architectures bancales dès le départ.
 
@@ -62,7 +62,7 @@ J'observe que la confusion entre les deux concepts pousse de nombreuses équipes
 
 ---
 
-## L'anatomie d'un topic cluster : pilier, clusters et maillage interne stratégique {#anatomie}
+## L'anatomie d'un topic cluster : pilier, clusters et maillage interne stratégique
 
 Un topic cluster repose sur trois composantes indissociables. En manquer une revient à construire un treillis sans un côté.
 
@@ -83,7 +83,7 @@ Implémentation technique minimale avec Google Search Console : créez un filtre
 
 ---
 
-## Pourquoi les topic clusters sont indispensables : citations IA et autorité thématique {#preuves}
+## Pourquoi les topic clusters sont indispensables : citations IA et autorité thématique
 
 Voici le chiffre qui change tout.
 
@@ -100,7 +100,7 @@ selon Antoine Blot, "l'autorité thématique n'est pas un concept abstrait : c'e
 
 ---
 
-## L'ère de l'IA : les topic clusters, un impératif pour le SEO 2026 {#ia-2026}
+## L'ère de l'IA : les topic clusters, un impératif pour le SEO 2026
 
 Les marques citées dans les AI Overviews gagnent 35 % de clics organiques supplémentaires et 91 % de clics payants supplémentaires.
  La citation est devenue le nouvel objectif de compétition SEO.
@@ -119,7 +119,7 @@ Pour toute thématique où vous souhaitez une visibilité IA constante, le minim
 
 ---
 
-## Éviter la cannibalisation et optimiser la performance de vos clusters {#cannibalisation}
+## Éviter la cannibalisation et optimiser la performance de vos clusters
 
 La cannibalisation SEO arrive quand deux pages ciblent la même intention principale. Google ne sait plus laquelle prioriser, les deux sous-performent, et l'autorité se fragmente.
 
@@ -142,7 +142,7 @@ comme l'explique Antoine Blot, "un satellite sans performance après 6 mois n'es
 
 ---
 
-## FAQ : vos questions fréquentes sur les topic clusters {#questions-frequentes}
+## FAQ : vos questions fréquentes sur les topic clusters
 
 ### Quelle est la différence entre clustering de mots-clés et topic clusters ?
 

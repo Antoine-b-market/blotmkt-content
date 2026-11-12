@@ -48,7 +48,7 @@ Votre site accumule du contenu dupliqué sans que vous le sachiez. Paramètres U
 
 ---
 
-## Qu'est-ce que la canonisation SEO et pourquoi est-elle essentielle ? {#quest-ce-que-la-canonisation-seo-et-pourquoi-est-elle-essentielle}
+## Qu'est-ce que la canonisation SEO et pourquoi est-elle essentielle ?
 
 La canonisation SEO est le processus par lequel on désigne, parmi plusieurs URLs au contenu similaire, une URL de référence que les moteurs de recherche doivent indexer et valoriser. L'outil central est la balise `<link rel="canonical" href="URL">`, placée dans le `<head>` du code HTML.
 
@@ -60,7 +60,7 @@ Mon expérience montre que les sites qui progressent le plus vite après un audi
 
 ---
 
-## Comment implémenter correctement les balises canoniques ? Guide pas à pas {#comment-implementer-correctement-les-balises-canoniques-guide-pas-a-pas}
+## Comment implémenter correctement les balises canoniques ? Guide pas à pas
 
 Trois méthodes d'implémentation existent. La balise HTML `<link rel="canonical">` dans le `<head>` reste la plus utilisée et la plus fiable. L'en-tête HTTP `Link: <URL>; rel="canonical"` s'applique aux fichiers non-HTML comme les PDFs. Le sitemap XML, enfin, doit contenir exclusivement les URLs canoniques - toute URL non canonique dans le sitemap envoie un signal contradictoire aux robots.
 
@@ -72,7 +72,7 @@ Ce que je constate chez mes clients e-commerce : l'erreur la plus répandue n'es
 
 ---
 
-## Problèmes courants de canonisation et comment les résoudre {#problemes-courants-de-canonisation-et-comment-les-resoudre}
+## Problèmes courants de canonisation et comment les résoudre
 
 Les erreurs de canonisation se regroupent en quatre catégories. Les chaînes de canoniques : la page A pointe vers B, qui redirige vers A - une boucle que Google finit par ignorer. Les balises contradictoires : une canonical combinée à une directive noindex crée un paradoxe technique, Google ne sachant plus quelle instruction exécuter. L'auto-référencement incorrect : sur les pages paginées, pointer toutes les pages (page 2, page 3…) vers la page 1 envoie le signal qu'elles sont des doublons - en 2026, chaque page de pagination doit se canoniser vers elle-même. Enfin, la canonical vers une URL inexistante : pointer vers une page 404 est un signal désastreux, Google finissant par ignorer l'ensemble de vos directives.
 
@@ -82,7 +82,7 @@ Dans ma pratique sur des projets québécois, les erreurs de pagination et les p
 
 ---
 
-## Canonisation vs. redirection 301 : quelle différence et quand utiliser l'une ou l'autre ? {#canonisation-vs-redirection-301}
+## Canonisation vs. redirection 301 : quelle différence et quand utiliser l'une ou l'autre ?
 
 La distinction fondamentale : la balise canonique est un signal, la redirection 301 est une action. Google peut ignorer une canonical s'il juge d'autres signaux plus pertinents. Une redirection 301 est une directive technique que les navigateurs et robots exécutent sans interprétation.
 
@@ -100,7 +100,7 @@ J'observe que la confusion entre ces deux outils génère des erreurs coûteuses
 
 ---
 
-## Comment la canonisation affecte le crawl budget et le ranking SEO {#comment-la-canonisation-affecte-le-crawl-budget-et-le-ranking-seo}
+## Comment la canonisation affecte le crawl budget et le ranking SEO
 
 Sur les sites de grande taille, la canonisation est directement liée à l'efficacité du crawl budget. Googlebot alloue un quota de crawl par domaine. Chaque URL dupliquée non canonisée consomme une part de ce quota sans générer de valeur indexable. Sur un site de 10 000 pages dont 30 % sont des doublons non canonisés, c'est 3 000 crawls gaspillés à chaque passage des robots.
 
@@ -110,7 +110,7 @@ Sur les projets que je pilote, la correction des canoniques produit des effets m
 
 ---
 
-## Outils pour vérifier et optimiser la canonisation de son site {#outils-pour-verifier-et-optimiser-la-canonisation-de-son-site}
+## Outils pour vérifier et optimiser la canonisation de son site
 
 Trois outils couvrent 95 % des besoins d'audit de canonisation.
 
@@ -124,7 +124,7 @@ En tant que consultant SEO, je recommande un audit de canonisation tous les trim
 
 ---
 
-## Questions fréquentes sur la canonisation SEO {#questions-frequentes}
+## Questions fréquentes sur la canonisation SEO
 
 ### Une balise canonique est-elle obligatoire pour chaque page ?
 

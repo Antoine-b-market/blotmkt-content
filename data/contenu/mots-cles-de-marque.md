@@ -50,7 +50,7 @@ Les mêmes signaux qui construisent un Knowledge Panel Google alimentent aussi l
 
 ---
 
-## Comprendre les mots-clés de marque : définition et typologies {#comprendre-les-mots-cles-de-marque-definition-et-typologies}
+## Comprendre les mots-clés de marque : définition et typologies
 
 Un mot-clé de marque est toute requête de recherche qui inclut le nom d'une entreprise, d'un produit ou d'une personnalité associée à cette entreprise. Il se distingue d'un mot-clé générique par un signal fondamental : l'utilisateur sait déjà qui il cherche.
 
@@ -65,7 +65,7 @@ Selon Antoine Blot, [consultant SEO à Montréal](https://www.antoine-blot.com/c
 
 ---
 
-## Pourquoi les mots-clés de marque sont un pilier de votre SEO {#pourquoi-les-mots-cles-de-marque-sont-un-pilier-de-votre-seo}
+## Pourquoi les mots-clés de marque sont un pilier de votre SEO
 
 **Vrai ou faux : les mots-clés de marque n'ont pas besoin d'optimisation, car vous rankerez automatiquement sur votre propre nom.**
 Faux. Systématiquement.
@@ -86,7 +86,7 @@ Les trois premières positions concentrent plus de 75 % de la totalité des clic
 
 ---
 
-## Recherche et identification de vos mots-clés de marque pertinents {#recherche-et-identification-de-vos-mots-cles-de-marque-pertinents}
+## Recherche et identification de vos mots-clés de marque pertinents
 
 Avant toute stratégie, l'audit. Tapez votre nom sur Google. Regardez ce que les 10 premiers résultats disent de vous. Ce sont vos concurrents directs sur votre SERP de marque, et vous devez en évaluer chacun.
 
@@ -102,7 +102,7 @@ Identifiez aussi les fautes d'orthographe courantes de votre nom, les variantes 
 
 ---
 
-## Optimisation on-page et éditoriale : capitaliser sur l'intention de marque {#optimisation-on-page-et-editoriale-capitaliser-sur-lintention-de-marque}
+## Optimisation on-page et éditoriale : capitaliser sur l'intention de marque
 
 L'optimisation on-page des mots-clés de marque suit une logique différente des mots-clés génériques. L'objectif n'est pas de convaincre Google que vous existez sur ce sujet. L'objectif est de lui fournir des signaux clairs sur ce que vous êtes, pour qu'il vous place correctement dans son index.
 
@@ -122,7 +122,7 @@ Google Business Profile : optimisez la fiche avec la description exacte de votre
 
 ---
 
-## Les erreurs courantes et les menaces pour votre SERP de marque {#les-erreurs-courantes-et-les-menaces-pour-votre-serp-de-marque}
+## Les erreurs courantes et les menaces pour votre SERP de marque
 
 > Erreur commune : "On n'a pas besoin de travailler le SEO de marque, on est déjà connus."
 
@@ -142,7 +142,7 @@ si le nom ou les informations clés de la marque varient entre plateformes, les 
 
 ---
 
-## Mots-clés de marque et entités : l'avenir du SEO en 2026 {#mots-cles-de-marque-et-entites-lavenir-du-seo-en-2026}
+## Mots-clés de marque et entités : l'avenir du SEO en 2026
 
 
 Le [Knowledge Graph](https://blotmkt.com/ia/definition/knowledge-graph.html) de Google est une base de données d'entités et des relations entre elles.
@@ -185,7 +185,7 @@ Ce bloc dit à Google qui vous êtes, où vous opérez, et comment relier vos me
 
 ---
 
-## Mesurer le ROI et suivre la performance de vos mots-clés de marque {#mesurer-le-roi-et-suivre-la-performance-de-vos-mots-cles-de-marque}
+## Mesurer le ROI et suivre la performance de vos mots-clés de marque
 
 Dans Google Analytics 4, créez un segment de trafic organique filtré sur les requêtes brandées. La configuration se fait via un explorateur de segments avec la condition : `Session source / medium` contient `organic` ET `Requête` contient `[votre nom de marque]`. Mesurez les conversions, le revenu et la valeur par session sur ce segment. Comparez avec le segment non-brandé.
 
@@ -206,7 +206,7 @@ Selon Incremys (mars 2026), le taux de closing des leads issus du SEO organique 
 
 ---
 
-## Questions fréquentes sur les mots-clés de marque {#questions-frequentes-sur-les-mots-cles-de-marque}
+## Questions fréquentes sur les mots-clés de marque
 
 ### Comment savoir si mes mots-clés de marque sont performants ?
 

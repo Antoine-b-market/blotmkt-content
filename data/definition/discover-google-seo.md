@@ -49,7 +49,7 @@ Vous publiez régulièrement, vous optimisez vos balises, mais votre trafic orga
 
 ---
 
-## Qu'est-ce que le SEO Google et Google Discover ? {#definition}
+## Qu'est-ce que le SEO Google et Google Discover ?
 
 Le SEO Google (Search Engine Optimization) désigne l'ensemble des pratiques visant à améliorer la position d'un site dans les résultats organiques de Google. Son objectif : générer du trafic qualifié sans budget publicitaire récurrent.
 
@@ -65,7 +65,7 @@ Dans ma pratique, j'observe que les entreprises qui confondent les deux canaux -
 
 ---
 
-## Les piliers d'une optimisation Google saine {#piliers}
+## Les piliers d'une optimisation Google saine
 
 Une stratégie de référencement Google repose sur trois piliers complémentaires. L'on-page d'abord : balise title unique, meta description incitative, structure Hn cohérente, URLs descriptives. La balise title est l'élément HTML qui définit le titre cliquable dans les résultats - Google la réécrit dans 57 % des cas lorsqu'elle est trop longue ou hors sujet.
 
@@ -78,7 +78,7 @@ Ce que je constate chez mes clients québécois et français : beaucoup investis
 
 ---
 
-## Google Discover : un canal distinct à maîtriser {#discover}
+## Google Discover : un canal distinct à maîtriser
 
 Google classe désormais les contenus Discover de manière indépendante des résultats Search, via un algorithme séparé optimisé pour la consommation de contenus selon les centres d'intérêt.
 
@@ -93,7 +93,7 @@ Les photos originales et les visuels créés spécifiquement pour l'article surc
 
 ---
 
-## Les erreurs qui déclenchent des pénalités en 2026 {#erreurs}
+## Les erreurs qui déclenchent des pénalités en 2026
 
 Certaines pratiques restent des déclencheurs de pénalités documentés : keyword stuffing, cloaking, et acquisition de backlinks via des réseaux de liens spammy. En 2026, générer du contenu IA en masse sans supervision humaine ni expertise réelle s'y ajoute directement.
 
@@ -107,7 +107,7 @@ Mon expérience montre que la sur-optimisation - répétition excessive du mot-c
 
 ---
 
-## Mesurer et corriger : outils et méthodes {#mesure}
+## Mesurer et corriger : outils et méthodes
 
 Google Search Console et Google Analytics sont les deux outils gratuits incontournables pour piloter une Stratégie SEO. Search Console révèle les impressions, les clics, les positions moyennes et les erreurs d'indexation. 
 Le rapport Discover dans Search Console permet aussi de tester des variantes de titres et de surveiller les variations de CTR pour identifier les formats qui performent.
@@ -122,7 +122,7 @@ Sur les projets que je pilote, je recommande une lecture mensuelle croisée Sear
 
 ---
 
-## Questions fréquentes {#questions-frequentes}
+## Questions fréquentes
 
 ### Quelle est la différence entre le SEO classique et Google Discover ?
 

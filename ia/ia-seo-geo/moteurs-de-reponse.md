@@ -30,7 +30,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # Moteurs de réponse : guide complet pour comprendre et les utiliser
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Définition et fonctionnement](#definition)
 - [Cas d'usage et exemples concrets](#cas-usage)
 - [Comment optimiser son contenu](#optimiser)
@@ -154,15 +154,15 @@ La France est actuellement exclue des AI Overviews pour des raisons réglementai
 
 ## FAQ : réponses aux questions fréquentes sur les moteurs de réponse {#questions-frequentes}
 
-### Qu'est-ce qu'un moteur de réponse et comment fonctionne-t-il ?
+### Qu'est-ce qu'un moteur de réponse et comment fonctionne-t-il ? {#qu-est-ce-qu-un-moteur-de-reponse-et-comment-fonctionne-t-il}
 
 Un moteur de réponse est un système - comme ChatGPT, Perplexity ou Google AI Overviews - qui génère une réponse directe à une question, sans renvoyer l'utilisateur vers une liste de liens. Il fonctionne grâce au RAG (Retrieval-Augmented Generation) : l'IA récupère des passages pertinents dans des sources tierces, les synthétise, puis les présente à l'utilisateur. La source citée gagne en autorité et potentiellement en trafic qualifié.
 
-### Comment optimiser mon contenu pour les moteurs de réponse ?
+### Comment optimiser mon contenu pour les moteurs de réponse ? {#comment-optimiser-mon-contenu-pour-les-moteurs-de-reponse}
 
 Trois actions prioritaires : structurer chaque section avec une réponse directe dans les 40 à 60 premiers mots, intégrer le balisage Schema.org (`FAQPage`, `HowTo`, `Article`) pour faciliter l'extraction par les IA, et enrichir le contenu de données sourcées et vérifiables. Les méthodes GEO - statistiques, citations, données factuelles - améliorent la visibilité IA de 30 à 40 %. Le suivi se fait via Google Search Console pour les impressions, et via Semrush ou Ahrefs pour les citations LLM.
 
-### Les moteurs de réponse sont-ils importants pour le SEO ?
+### Les moteurs de réponse sont-ils importants pour le SEO ? {#les-moteurs-de-reponse-sont-ils-importants-pour-le-seo}
 
 Oui, et leur importance est croissante. En 2026, plus de 50 % des recherches Google affichent des réponses générées par IA dans les pays où elles sont déployées (Advanced Web Ranking). Les contenus non optimisés pour les moteurs de réponse perdent du trafic même s'ils maintiennent leur position Google classique. L'AEO et le GEO ne remplacent pas le SEO technique : ils le complètent en ajoutant une couche de citabilité.
 
@@ -181,5 +181,5 @@ Oui, et leur importance est croissante. En 2026, plus de 50 % des recherches Goo
 - [AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix](https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
-- [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)

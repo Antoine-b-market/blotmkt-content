@@ -27,7 +27,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # Knowledge Graph : guide complet pour le SEO sémantique
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce qu'un Knowledge Graph et pourquoi est-il important pour le SEO ?](#quest-ce-quun-knowledge-graph)
 - [Comment les Knowledge Graphs améliorent votre contenu et votre SEO](#comment-les-knowledge-graphs-ameliorent)
 - [Exploiter les APIs Knowledge Graph pour un SEO sémantique puissant](#exploiter-les-apis)
@@ -164,21 +164,21 @@ Sur les projets que je pilote en 2026, je constate une corrélation directe entr
 
 ## Questions fréquentes sur les Knowledge Graphs et le SEO {#questions-frequentes}
 
-### Comment démarrer avec un Knowledge Graph pour son site ?
+### Comment démarrer avec un Knowledge Graph pour son site ? {#comment-demarrer-avec-un-knowledge-graph-pour-son-site}
 
 Pour être reconnu dans le Knowledge Graph de Google, créez une page sameAs en JSON-LD reliant Wikidata, LinkedIn et Google Business Profile. Validez ensuite avec l'outil Rich Results Test. Un site institutionnel ayant suivi ce processus a obtenu la reconnaissance de son entité en moins de 6 semaines en 2026. Ce travail est progressif : ajoutez les propriétés Schema.org par ordre de priorité - Organization, Person, Product.
 
-### Quels sont les avantages concrets d'un Knowledge Graph pour le SEO ?
+### Quels sont les avantages concrets d'un Knowledge Graph pour le SEO ? {#quels-sont-les-avantages-concrets-d-un-knowledge-graph-pour}
 
 Un Knowledge Graph améliore la recherche sémantique en désambiguïsant les entités et en fournissant des réponses plus précises. Pour un site, cela se traduit par des Knowledge Panels dans les SERPs, des Featured Snippets, une meilleure visibilité dans les AI Overviews et une couverture accrue des requêtes conversationnelles. 
 En 2026, 60 % des recherches se terminent sans clic
  : les entités bien structurées capturent ce trafic directement.
 
-### Comment utiliser GraphQL pour optimiser un Knowledge Graph SEO ?
+### Comment utiliser GraphQL pour optimiser un Knowledge Graph SEO ? {#comment-utiliser-graphql-pour-optimiser-un-knowledge-graph}
 
 GraphQL permet d'automatiser trois tâches SEO critiques : la génération de sitemaps dynamiques (indexation accélérée de 48 h à moins de 4 h), l'optimisation contextuelle du contenu selon l'appareil et la localisation, et la création de tableaux de bord SEO en temps réel agrégeant Google Search Console, SEMrush et Ahrefs. Contrairement aux APIs REST, GraphQL élimine la surcharge de données et rend chaque requête précise et programmable.
 
-### Comment mesurer le succès d'un Knowledge Graph en SEO ?
+### Comment mesurer le succès d'un Knowledge Graph en SEO ? {#comment-mesurer-le-succes-d-un-knowledge-graph-en-seo}
 
 Plusieurs indicateurs révèlent le succès sémantique : classement sur des termes sémantiquement proches, Featured Snippets, apparition dans les "People Also Ask" et Knowledge Panel pour l'entreprise.
  Dans Google Search Console, suivez les impressions par requête d'entité nommée. Un Knowledge Graph efficace se manifeste par une croissance des impressions sur des variantes de requêtes jamais ciblées explicitement - signe que Google a compris votre univers sémantique.

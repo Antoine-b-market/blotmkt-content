@@ -27,7 +27,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # YMYL SEO : guide complet pour protéger votre réputation en ligne
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Comprendre YMYL SEO : définition et importance](#comprendre-ymyl-seo-definition-et-importance)
 - [L'impact de YMYL SEO sur votre secteur d'activité](#limpact-de-ymyl-seo-sur-votre-secteur-dactivite)
 - [Meilleures pratiques pour optimiser un site YMYL en SEO](#meilleures-pratiques-pour-optimiser-un-site-ymyl-en-seo)
@@ -134,23 +134,23 @@ Les évaluateurs de qualité de Google fournissent des [Données structurées](h
 
 ## Questions fréquentes {#questions-frequentes}
 
-### Comment savoir si mon site est YMYL ?
+### Comment savoir si mon site est YMYL ? {#comment-savoir-si-mon-site-est-ymyl}
 
 Votre site est YMYL si son contenu couvre la santé ou la sécurité, la stabilité financière, les informations gouvernementales et civiques, ou d'autres sujets pouvant nuire au bien-être des personnes. Le YMYL est un spectre : certains sujets sont clairement YMYL, d'autres clairement hors champ, et de nombreux sujets se situent entre les deux.
  Un blog de cuisine est rarement YMYL ; un site de conseils en investissement l'est systématiquement.
 
-### Qu'est-ce que l'E-E-A-T en SEO ?
+### Qu'est-ce que l'E-E-A-T en SEO ? {#qu-est-ce-que-l-e-e-a-t-en-seo}
 
 L'E-E-A-T désigne l'Expérience, l'Expertise, l'Autorité et la Confiance. 
 Les Search Quality Rater Guidelines de Google articulent deux cadres d'évaluation principaux : l'E-E-A-T, qui définit les standards rendant un contenu autoritaire et crédible, et le YMYL, qui identifie les domaines sensibles où une information incorrecte peut avoir un impact concret sur la vie des gens.
  Pour un site YMYL, l'E-E-A-T n'est pas optionnel.
 
-### Comment améliorer l'E-E-A-T de mon site ?
+### Comment améliorer l'E-E-A-T de mon site ? {#comment-ameliorer-l-e-e-a-t-de-mon-site}
 
 Commencez par un audit complet du contenu : identifiez les pages avec un auteur anonyme, des statistiques obsolètes, une couverture superficielle ou des signaux de confiance manquants. Pour les pages YMYL, signalez tout contenu non rédigé ou non relu par un expert accrédité. Cet audit constitue votre feuille de route de remédiation E-E-A-T.
  Ajoutez ensuite des biographies d'auteurs vérifiables, des sources gouvernementales ou académiques, et un certificat SSL à jour.
 
-### Quelles sont les erreurs courantes à éviter en YMYL SEO ?
+### Quelles sont les erreurs courantes à éviter en YMYL SEO ? {#quelles-sont-les-erreurs-courantes-a-eviter-en-ymyl-seo}
 
 Les erreurs les plus pénalisantes incluent le contenu copié ou paraphrasé d'autres sites, le contenu généré par IA de façon peu soignée, le manque d'originalité par rapport aux pages existantes, et le contenu de remplissage produit à l'échelle sans valeur ajoutée réelle.
  L'absence de date de mise à jour visible et l'anonymat des auteurs figurent également parmi les signaux négatifs les plus fréquents.

@@ -49,7 +49,7 @@ Le web bascule d'un modèle de "recherche" vers un modèle de "réponses" : les 
 
 ---
 
-## Qu'est-ce que la contextualisation SEO ? {#quest-ce-que-la-contextualisation-seo}
+## Qu'est-ce que la contextualisation SEO ?
 
 La contextualisation SEO est une approche du référencement centrée sur le sens, l'intention et les relations entre entités - pas uniquement sur le mot-clé tapé. Là où le SEO traditionnel plaçait des termes exacts dans des balises, la contextualisation SEO travaille les champs sémantiques gravitant autour d'un concept central.
 
@@ -62,7 +62,7 @@ Dans ma pratique, je vois encore trop de sites construire des pages autour d'un 
 
 ---
 
-## Comment fonctionne la contextualisation SEO ? {#comment-fonctionne-la-contextualisation-seo}
+## Comment fonctionne la contextualisation SEO ?
 
 La mise en œuvre repose sur quatre piliers séquentiels, chacun conditionnant l'efficacité du suivant.
 
@@ -81,7 +81,7 @@ J'observe que chez mes clients, les quatre étapes doivent être menées ensembl
 
 ---
 
-## Pourquoi la contextualisation SEO est-elle importante ? {#pourquoi-la-contextualisation-seo-est-elle-importante}
+## Pourquoi la contextualisation SEO est-elle importante ?
 
 En 2026, enrichir 15 pages de service avec des champs sémantiques contextuels liés à l'entité principale a fait progresser leur visibilité dans les AI Overviews de 44 % en 8 semaines. Ce résultat, obtenu sur un [projet SEO mené à Montréal](https://www.antoine-blot.com/consultant-seo/), illustre un phénomène désormais documenté à grande échelle.
 
@@ -99,7 +99,7 @@ Ce que je constate chez mes clients : les gains de Taux de conversion surviennen
 
 ---
 
-## Comment utiliser la contextualisation SEO ? {#comment-utiliser-la-contextualisation-seo}
+## Comment utiliser la contextualisation SEO ?
 
 Identifier l'intention de recherche est le point d'entrée obligatoire. Analysez les SERPs pour votre requête cible : le format dominant (liste, guide, FAQ, page produit) révèle ce que Google considère comme la réponse correcte. Ignorez cette étape et tout le reste est construit sur du sable.
 
@@ -116,7 +116,7 @@ En travaillant avec des entreprises québécoises, je commence systématiquement
 
 ---
 
-## Quelles sont les erreurs à éviter en contextualisation SEO ? {#quelles-sont-les-erreurs-a-eviter}
+## Quelles sont les erreurs à éviter en contextualisation SEO ?
 
 Se concentrer uniquement sur les mots-clés est l'erreur la plus répandue. Un mot-clé sans contexte ne dit rien de l'intention réelle. Deux requêtes identiques peuvent traduire des besoins opposés selon le profil de l'utilisateur.
 
@@ -134,7 +134,7 @@ Mon expérience montre que ces cinq erreurs se cumulent rarement seules - corrig
 
 ---
 
-## Quelles sont les évolutions de la contextualisation SEO en 2026 ? {#quelles-sont-les-evolutions-en-2026}
+## Quelles sont les évolutions de la contextualisation SEO en 2026 ?
 
 L'IA transforme chaque dimension du processus éditorial. 
 L'IA permet l'analyse prédictive pour anticiper les tendances de recherche, l'optimisation automatisée pour améliorer l'efficacité technique, et la personnalisation pour adapter les contenus aux différentes audiences.
@@ -153,7 +153,7 @@ Sur les projets que je pilote, la recherche vocale pousse à structurer des rép
 
 ---
 
-## Questions fréquentes {#questions-frequentes}
+## Questions fréquentes
 
 ### La contextualisation SEO est-elle complexe à mettre en œuvre ?
 
@@ -191,5 +191,5 @@ Près de 90 % des requêtes déclenchant des AI Overviews ont une intention info
 - [AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix](https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
-- [Entité Nommée SEO : Guide Complet pour Optimiser Votre Visibilité](https://blotmkt.com/ia/ia-seo-geo/entite-nommee-seo.html)

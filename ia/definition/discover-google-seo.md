@@ -30,7 +30,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # Discover Google SEO : les clés d'une stratégie performante et les erreurs à éviter en 2026
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce que le SEO Google et Google Discover ?](#definition)
 - [Les piliers d'une optimisation Google saine](#piliers)
 - [Google Discover : un canal distinct à maîtriser](#discover)
@@ -124,22 +124,22 @@ Sur les projets que je pilote, je recommande une lecture mensuelle croisée Sear
 
 ## Questions fréquentes {#questions-frequentes}
 
-### Quelle est la différence entre le SEO classique et Google Discover ?
+### Quelle est la différence entre le SEO classique et Google Discover ? {#quelle-est-la-difference-entre-le-seo-classique-et-google}
 
 Le SEO classique répond à des requêtes formulées par l'utilisateur dans la barre de recherche. 
 Google Discover ne repose pas sur une requête tapée : le contenu doit correspondre au comportement de navigation et aux centres d'intérêt de l'utilisateur.
  Les signaux de classement diffèrent : fraîcheur, autorité thématique, qualité des images et E-E-A-T sont prépondérants dans Discover, tandis que le SEO Search privilégie la pertinence mot-clé et les backlinks.
 
-### Quelles images utiliser pour optimiser Google Discover ?
+### Quelles images utiliser pour optimiser Google Discover ? {#quelles-images-utiliser-pour-optimiser-google-discover}
 
 Google Discover exige des images d'au moins 1200 pixels de large avec un ratio 16:9 et une résolution supérieure à 300 000 pixels. La balise meta `max-image-preview: large` doit être activée dans l'en-tête de la page.
  Privilégiez des photos originales plutôt que des visuels stock génériques : les images authentiques surclassent systématiquement les visuels génériques dans le feed, comme le confirment les données de terrain 2026.
 
-### Comment détecter une pénalité Google sur mon site ?
+### Comment détecter une pénalité Google sur mon site ? {#comment-detecter-une-penalite-google-sur-mon-site}
 
 Connectez-vous à Google Search Console et consultez l'onglet "Actions manuelles". Une chute brutale du trafic organique visible dans Google Analytics sans action manuelle identifiée signale une pénalité algorithmique. Comparez les dates de baisse avec le calendrier des core updates Google (Panda, Penguin, spam updates) pour corréler l'origine précise de la sanction.
 
-### Le contenu généré par IA est-il pénalisé par Google en 2026 ?
+### Le contenu généré par IA est-il pénalisé par Google en 2026 ? {#le-contenu-genere-par-ia-est-il-penalise-par-google-en-2026}
 
 Google ne pénalise pas le contenu IA en tant que tel, mais sanctionne le contenu sans valeur ajoutée réelle, sans supervision humaine et sans expertise démontrable. En 2026, les spam updates ciblent explicitement la production de masse automatisée. Un contenu IA révisé, enrichi de données terrain et signé par un auteur identifiable reste conforme aux exigences E-E-A-T.
 

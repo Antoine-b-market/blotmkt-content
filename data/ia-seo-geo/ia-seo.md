@@ -47,7 +47,7 @@ Le référencement est en mutation accélérée. Selon Semrush, le taux de clics
 
 ---
 
-## Qu'est-ce que l'IA SEO et comment ça fonctionne ? {#quest-ce-que-lia-seo-et-comment-ca-fonctionne}
+## Qu'est-ce que l'IA SEO et comment ça fonctionne ?
 
 L'IA SEO désigne l'ensemble des techniques qui appliquent l'intelligence artificielle à l'optimisation pour les moteurs de recherche. Concrètement, trois composantes structurent ce champ : les LLMs (Large Language Models) pour la génération et l'analyse de contenu, l'analyse sémantique pour cartographier les intentions de recherche, et l'automatisation des tâches répétitives comme l'audit technique.
 
@@ -57,7 +57,7 @@ En tant que consultant SEO, j'observe que beaucoup de clients confondent "utilis
 
 ---
 
-## Les avantages de l'IA pour le référencement {#les-avantages-de-lia-pour-le-referencement}
+## Les avantages de l'IA pour le référencement
 
 L'IA transforme quatre dimensions du SEO de façon mesurable. Premièrement, l'automatisation des tâches répétitives : un agent IA peut auditer 100 pages en 45 minutes, contre 4 heures en mode manuel (SEOQuantum, 2026). Deuxièmement, l'[Optimisation de contenu](https://blotmkt.com/ia/contenu/optimisation-de-contenu.html) : génération de brouillons, détection des lacunes sémantiques, suggestions de structure.
 
@@ -67,7 +67,7 @@ Ce que je constate chez mes clients, c'est que le gain de temps n'est pas unifor
 
 ---
 
-## Coût et ROI de l'implémentation de l'IA dans une stratégie SEO {#cout-et-roi-de-limplementation-de-lia-dans-une-strategie-seo}
+## Coût et ROI de l'implémentation de l'IA dans une stratégie SEO
 
 Sur 20 sites audités en 2026, ceux ayant adapté leur structure de contenu aux patterns de lecture des LLMs obtenaient en moyenne 38 % plus d'apparitions dans les réponses générées par IA sur leurs mots-clés cibles. Ce chiffre est issu de mes propres observations de terrain - et il conditionne désormais toutes mes recommandations structurelles. Retrouvez la méthodologie complète sur [antoine-blot.com/consultant-seo/](https://www.antoine-blot.com/consultant-seo/).
 
@@ -77,7 +77,7 @@ Les métriques à suivre sont précises : trafic organique par page générée, 
 
 ---
 
-## Comment utiliser concrètement l'IA pour optimiser son SEO ? {#comment-utiliser-concretement-lia-pour-optimiser-son-seo}
+## Comment utiliser concrètement l'IA pour optimiser son SEO ?
 
 Quatre étapes structurent une intégration efficace. Premièrement, choisir les bons outils selon ses besoins : Semrush ou Similarweb pour l'analyse de données, ChatGPT ou Claude pour la génération de contenu, SEOQuantum ou Surfer SEO pour l'optimisation sémantique. Deuxièmement, construire des prompts efficaces : un [Prompt SEO](https://blotmkt.com/ia/ia-seo-geo/prompt-seo.html) performant inclut l'Intention de recherche cible, le persona, la longueur, les entités à mentionner et les sources à citer.
 
@@ -87,7 +87,7 @@ En travaillant avec des entreprises québécoises et françaises, j'identifie un
 
 ---
 
-## Alternatives à l'IA pour le SEO {#alternatives-a-lia-pour-le-seo}
+## Alternatives à l'IA pour le SEO
 
 Trois alternatives coexistent avec l'IA SEO. La rédaction manuelle par des experts SEO reste la plus coûteuse, mais produit des contenus avec une voix distincte, une expertise sectorielle réelle et une créativité non simulable. Pour les secteurs à forte expertise - juridique, médical, finance - les contenus doivent proposer des retours d'expérience et des insights exclusifs que l'IA ne peut pas fournir seule.
 
@@ -97,7 +97,7 @@ Dans ma pratique, la méthode hybride produit les meilleurs résultats : ni "tou
 
 ---
 
-## L'avenir de l'IA SEO : vers un SEO augmenté ? {#lavenir-de-lia-seo-vers-un-seo-augmente}
+## L'avenir de l'IA SEO : vers un SEO augmenté ?
 
 Le SEO augmenté n'est pas un horizon lointain : il est déjà opérationnel pour les équipes qui ont intégré la double logique Google + LLMs. En 2026, 60 % des recherches se terminent sans clic selon Incremys, principalement à cause des AI Overviews et des snippets enrichis. Cette désintermédiation force une redéfinition de la valeur du SEO : l'objectif n'est plus seulement d'attirer des visites, mais d'être la source citée.
 
@@ -107,7 +107,7 @@ Spécialiste GEO, je suis convaincu que l'expertise humaine ne disparaît pas : 
 
 ---
 
-## Questions fréquentes {#questions-frequentes}
+## Questions fréquentes
 
 ### L'IA SEO peut-elle remplacer les experts SEO ?
 Non. En 2026, 95 % des équipes B2B utilisent l'IA, mais seules 20 % mesurent un ROI positif (McKinsey). L'IA automatise les tâches structurées - audit, maillage interne, analyse sémantique - mais ne remplace pas le jugement stratégique, la compréhension sectorielle et la capacité à produire une expertise unique. Les praticiens du référencement qui maîtrisent l'IA comme outil ont un avantage compétitif réel sur ceux qui l'ignorent ou qui lui délèguent tout.
@@ -135,5 +135,5 @@ Non sans adaptation. Pour les sites e-commerce à fort volume de fiches produits
 - [AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix](https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
-- [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)

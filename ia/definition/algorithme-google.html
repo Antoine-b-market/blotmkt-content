@@ -127,14 +127,14 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "TechArticle",
+      "@type": "Article",
       "@id": "https://blotmkt.com/ia/definition/algorithme-google.html#article",
       "headline": "Algorithme Google",
       "description": "Décryptez l'algorithme Google et ses mises à jour. Évitez la sur-optimisation et adoptez une stratégie SEO durable pour un meilleur positionnement.",
       "url": "https://blotmkt.com/ia/definition/algorithme-google.html",
       "inLanguage": "fr-CA",
-      "datePublished": "2026-05-05",
-      "dateModified": "2026-05-05",
+      "datePublished": "2026-05-05T02:14:00-04:00",
+      "dateModified": "2026-05-05T02:14:00-04:00",
       "author": {
         "@id": "https://antoine-blot.com/#person"
       },
@@ -151,7 +151,12 @@
         "@type": "CreativeWorkSeries",
         "@id": "https://blotmkt.com/ia/definition/#serie",
         "name": "Série Définitions SEO & GEO — BlotMKT"
-      }
+      },
+      "about": [
+        {
+          "@id": "https://blotmkt.com/ia/definition/algorithme-google.html#terme"
+        }
+      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -185,9 +190,6 @@
       "familyName": "Blot",
       "jobTitle": "Consultant SEO et GEO",
       "url": "https://www.antoine-blot.com",
-      "worksFor": {
-        "@id": "https://blotmkt.com/#organization"
-      },
       "sameAs": [
         "https://www.antoine-blot.com",
         "https://www.linkedin.com/in/blotantoine/",
@@ -215,7 +217,7 @@
       "founder": {
         "@id": "https://antoine-blot.com/#person"
       },
-      "description": "Pipeline automatisé de génération de contenu SEO/GEO en français.",
+      "description": "Laboratoire de recherche appliquée sur le contenu SEO et GEO, fondé par Antoine Blot : pipeline de génération et de diagnostic de contenus conçus pour être cités par les moteurs de réponse IA.",
       "sameAs": [
         "https://github.com/Antoine-b-market/blotmkt-content",
         "https://huggingface.co/datasets/Antoine-marketing/blotmkt",
@@ -229,8 +231,8 @@
       "name": "Algorithme Google",
       "description": "Décryptez l'algorithme Google et ses mises à jour. Évitez la sur-optimisation et adoptez une stratégie SEO durable pour un meilleur positionnement.",
       "inLanguage": "fr-CA",
-      "datePublished": "2026-05-05",
-      "dateModified": "2026-05-05",
+      "datePublished": "2026-05-05T02:14:00-04:00",
+      "dateModified": "2026-05-05T02:14:00-04:00",
       "author": {
         "@id": "https://antoine-blot.com/#person"
       },
@@ -248,6 +250,52 @@
         "blockquote",
         ".speakable-intro",
         "h2"
+      ]
+    },
+    {
+      "@type": "DefinedTermSet",
+      "@id": "https://blotmkt.com/ia/definition/#termes",
+      "name": "Termes du SEO et du GEO — BlotMKT",
+      "url": "https://blotmkt.com/ia/definition/",
+      "inLanguage": "fr-CA"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://blotmkt.com/ia/definition/algorithme-google.html#terme",
+      "name": "Algorithme Google",
+      "inDefinedTermSet": {
+        "@id": "https://blotmkt.com/ia/definition/#termes"
+      },
+      "url": "https://blotmkt.com/ia/definition/algorithme-google.html"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://blotmkt.com/ia/definition/algorithme-google.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Qu'est-ce qu'une pénalité Google et comment la corriger ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il existe deux types de pénalités Google : les pénalités algorithmiques - déclenchées automatiquement par des mises à jour comme Panda ou Penguin - et les pénalités manuelles, visibles dans l'onglet \"Actions manuelles\" de Google Search Console. Pour corriger une pénalité manuelle, supprimez ou rééditez les pages problématiques, élaguez les backlinks toxiques via l'outil Disavow, puis soumettez une demande de réexamen. La récupération peut prendre plusieurs mois."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment suivre les mises à jour de l'algorithme Google ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Consultez le Google Search Status Dashboard pour les annonces officielles. Les sources spécialisées comme Search Engine Land et Search Engine Roundtable publient des analyses en temps réel. Utilisez Google Search Console pour comparer vos données avant et après la mise à jour sur des périodes équivalentes. En 2025, Google a déployé pas moins de quatre Core Updates. En 2026, la March Core Update et la Spam Update de mars ont été déployées à seulement deux jours d'intervalle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quel est l'impact de l'IA sur l'algorithme Google ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Les mises à jour de 2025 ont progressivement intégré les signaux liés à l'IA, pénalisant le contenu généré sans valeur ajoutée humaine et récompensant les contenus qui démontrent une expertise réelle. En 2026, générer du contenu IA en masse sans supervision humaine ni expertise vérifiable constitue un facteur de risque direct. Les sites combinant contenus IA non supervisés et absence de signaux auteur ont subi les baisses les plus sévères. À l'inverse, les plateformes UGC et les contenus portés par des experts identifiables ont progressé."
+          }
+        }
       ]
     }
   ]
@@ -267,7 +315,7 @@
         <nav class="breadcrumb" aria-label="Fil d'ariane"><a class="bc-link" href="https://blotmkt.com/ia/">BlotMKT</a><span class="bc-sep">›</span><a class="bc-link" href="/ia/definition/">Définitions SEO & GEO</a><span class="bc-sep">›</span><span class="bc-current">Algorithme Google</span></nav>
         <div class="article-meta"><div class="meta-tags"><span class="meta-kw">Algorithme Google</span></div><div class="meta-byline"><div class="meta-author-block"><img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:48px;height:48px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0"><div class="meta-author-info"><a class="meta-author" href="/ia/auteur-antoine-blot.html">Antoine Blot</a><span class="meta-jobtitle">Consultant SEO &amp; GEO</span></div></div><div class="meta-right"><span class="meta-date"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>5 mai 2026</span><span class="meta-read"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>7 min</span><a class="meta-md-btn" href="https://blotmkt.com/data/definition/algorithme-google.md">.md</a></div></div></div>
         <h1>Algorithme Google : comprendre son fonctionnement et éviter les pièges SEO</h1>
-<h2 class="speakable">Sommaire</h2>
+<h2 id="sommaire" class="speakable">Sommaire</h2>
 <ul>
 <li><a href="#quest-ce-que-lalgorithme-google">Qu'est-ce que l'algorithme Google ?</a></li>
 <li><a href="#comment-fonctionne-lalgorithme-google">Comment fonctionne l'algorithme Google ?</a></li>
@@ -278,7 +326,7 @@
 </ul>
 <p class="speakable-intro">Votre trafic organique dégringole du jour au lendemain. Pas de pénalité manuelle visible dans Google Search Console, pas d'erreur technique flagrante. Juste l'algorithme Google qui a recalibré ses critères. Ce scénario touche des centaines de sites à chaque core update. La cause est souvent la même : une Stratégie SEO trop centrée sur les signaux techniques, trop peu orientée utilisateur. Cet article décortique le fonctionnement réel de l'algorithme, identifie les pièges de sur-optimisation et propose une méthode concrète pour résister aux prochaines mises à jour.</p>
 <blockquote class="speakable">
-<h2 class="speakable">L'essentiel à retenir</h2>
+<h2 id="essentiel" class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>Depuis 1998, l'algorithme Google a évolué d'un système basé sur les liens vers une approche IA intégrant expérience et fiabilité.</li>
 <li>Les principaux facteurs de classement incluent la pertinence du contenu, les backlinks, les Core Web Vitals et les signaux E-E-A-T.</li>
@@ -287,8 +335,7 @@
 </ul>
 </blockquote>
 <hr />
-<h2 id="quest-ce-que-lalgorithme-google">Qu'est-ce que l'algorithme Google ?</h2>
-
+<h2 id="quest-ce-que-lalgorithme-google" class="speakable">Qu'est-ce que l'algorithme Google ?</h2>
 <p>L'algorithme Google est un système complexe conçu pour fournir les résultats de recherche les plus pertinents et utiles aux utilisateurs. 
 Google modifie son algorithme des milliers de fois par an.</p>
 <p>Cependant, 3 à 4 fois par an, il déploie une Core Update - une modification profonde de ses critères centraux.</p>
@@ -297,32 +344,28 @@ Google modifie son algorithme des milliers de fois par an.</p>
  Depuis 1998, l'objectif de fond n'a pas changé : connecter chaque requête avec la meilleure réponse disponible sur le web.</p>
 <p>En tant que consultant SEO, j'observe que la majorité des professionnels confondent encore "mise à jour" et "pénalité". Ce sont deux mécanismes distincts avec des implications très différentes pour votre stratégie de récupération.</p>
 <hr />
-<h2 id="comment-fonctionne-lalgorithme-google">Comment fonctionne l'algorithme Google ?</h2>
-
+<h2 id="comment-fonctionne-lalgorithme-google" class="speakable">Comment fonctionne l'algorithme Google ?</h2>
 <p>L'algorithme prend en compte de nombreux facteurs pour évaluer la pertinence et la qualité d'une page en réponse à une requête spécifique. Parmi ces facteurs : la pertinence du contenu, la qualité des backlinks et l'expérience utilisateur.</p>
 <p>Le processus se déroule en trois phases : l'exploration par les robots Googlebot, l'indexation dans la Search Console, puis le classement. 
 D'abord, le contenu est analysé pour sa pertinence et sa qualité. Ensuite, la structure du site est évaluée, notamment sa vitesse de chargement et son adaptabilité aux mobiles. Enfin, l'expérience utilisateur est prise en compte, favorisant les sites offrant une navigation fluide.</p>
 <p>Depuis mars 2024, le système "Helpful Content" est intégré au cœur de l'algorithme. Google évalue désormais en permanence si un contenu est utile ou créé uniquement pour le ranking.</p>
 <p>Dans ma pratique, je constate que les sites qui comprennent cette logique - produire pour l'utilisateur, pas pour le robot - résistent structurellement mieux à chaque nouveau déploiement.</p>
 <hr />
-<h2 id="eviter-la-sur-optimisation-seo">Éviter la sur-optimisation SEO : les pièges à éviter</h2>
-
+<h2 id="eviter-la-sur-optimisation-seo" class="speakable">Éviter la sur-optimisation SEO : les pièges à éviter</h2>
 <p>Google devient de plus en plus sophistiqué dans sa capacité à distinguer le contenu créé pour les utilisateurs du contenu créé pour les moteurs de recherche. Les techniques de sur-optimisation SEO qui fonctionnaient il y a deux ans sont devenues des facteurs de risque.</p>
 <p>Les pratiques les plus sanctionnées en 2026 : le keyword stuffing (densité au-delà de 2-3 % sur un terme cible), les ancres internes toutes identiques, le cloaking, le contenu dupliqué et les schémas de backlinks artificiels. 
 La Spam Update d'août 2025 a ciblé les sites pratiquant le SEO programmatique sans valeur ajoutée, les contenus IA générés en masse et non relus, ainsi que le duplicate content.</p>
 <p>La Core Update de décembre 2025 a ciblé agressivement les contenus "AI-generated" non édités et le SEO programmatique abusif.</p>
 <p>Ce que je constate chez mes clients : les ancres internes sur-optimisées sont le signal le plus souvent négligé. Un audit Screaming Frog révèle régulièrement que 80 % des liens internes pointent vers la même page avec le même texte d'ancre exact.</p>
 <hr />
-<h2 id="preuves-approche-user-first">Les preuves de l'efficacité d'une approche user-first</h2>
-
+<h2 id="preuves-approche-user-first" class="speakable">Les preuves de l'efficacité d'une approche user-first</h2>
 <p>En 2026, un site éditorial ayant subi une perte de 40 % de trafic post-mise à jour a récupéré 87 % de ses positions en 10 semaines après consolidation du contenu thin et renforcement des signaux E-E-A-T. Ce cas, que je documente dans mes <a href="https://www.antoine-blot.com/ressources-seo/">ressources SEO</a>, illustre une réalité mesurable : la qualité paie plus vite qu'on ne le croit.</p>
 <p>Les métriques qui prouvent l'efficacité d'une approche user-first sont directement traçables dans Google Analytics : augmentation du temps passé sur la page, diminution du taux de rebond, amélioration du taux de conversion. 
 Une stratégie de récupération radicale - suppression de 70 % des articles, réécriture complète des 30 % restants avec l'expertise réelle des consultants - a permis, six mois plus tard, d'atteindre un trafic supérieur de 15 % au pic pré-update.</p>
 <p>Désormais, l'expertise, l'autorité et la fiabilité des sites web sont des critères déterminants selon les principes E-E-A-T (Expertise, Expérience, Autorité, Fiabilité).
  Ce n'est plus un critère de pondération en 2026 : c'est un filtre d'entrée.</p>
 <hr />
-<h2 id="sadapter-mises-a-jour-2026">Comment s'adapter aux mises à jour de l'algorithme Google en 2026 ?</h2>
-
+<h2 id="sadapter-mises-a-jour-2026" class="speakable">Comment s'adapter aux mises à jour de l'algorithme Google en 2026 ?</h2>
 <p>La Core Update de décembre 2025 confirme une tendance de fond : Google affine en permanence ses systèmes pour mieux distinguer les contenus réellement utiles de ceux qui répondent seulement à des critères SEO superficiels. Dans ce contexte, les stratégies basées sur des optimisations rapides ou des ajustements techniques isolés montrent vite leurs limites. La stabilité à long terme passe par une approche mêlant qualité éditoriale, compréhension fine des intentions de recherche et analyse rigoureuse des données de performance.</p>
 <p>Quatre actions concrètes pour 2026 :
 - Surveiller le Google Search Status Dashboard pour corréler toute baisse de trafic à une date connue
@@ -332,16 +375,15 @@ Une stratégie de récupération radicale - suppression de 70 % des articles, r�
 <p>Les Core Updates 2025-2026 ont aligné Google avec les moteurs conversationnels comme ChatGPT, Gemini et Perplexity. Un contenu sourcé, structuré en questions-réponses, porté par une expertise identifiable est optimisé pour les deux surfaces simultanément.</p>
 <p>Sur les projets que je pilote, j'intègre une alerte automatique dans Google Search Console dès qu'une page stratégique perd plus de 15 % d'impressions sur 28 jours. Agir tôt coûte 10 fois moins cher que de récupérer après une chute sévère.</p>
 <hr />
-<h2 id="faq">FAQ : questions fréquentes sur l'algorithme Google</h2>
-
-<h3>Qu'est-ce qu'une pénalité Google et comment la corriger ?</h3>
+<h2 id="faq" class="speakable">FAQ : questions fréquentes sur l'algorithme Google</h2>
+<h3 id="qu-est-ce-qu-une-penalite-google-et-comment-la-corriger">Qu'est-ce qu'une pénalité Google et comment la corriger ?</h3>
 <p>Il existe deux types de pénalités Google : les pénalités algorithmiques - déclenchées automatiquement par des mises à jour comme Panda ou Penguin - et les pénalités manuelles, visibles dans l'onglet "Actions manuelles" de Google Search Console. Pour corriger une pénalité manuelle, supprimez ou rééditez les pages problématiques, élaguez les backlinks toxiques via l'outil Disavow, puis soumettez une demande de réexamen. La récupération peut prendre plusieurs mois.</p>
-<h3>Comment suivre les mises à jour de l'algorithme Google ?</h3>
+<h3 id="comment-suivre-les-mises-a-jour-de-l-algorithme-google">Comment suivre les mises à jour de l'algorithme Google ?</h3>
 <p>Consultez le Google Search Status Dashboard pour les annonces officielles. Les sources spécialisées comme Search Engine Land et Search Engine Roundtable publient des analyses en temps réel. 
 Utilisez Google Search Console pour comparer vos données avant et après la mise à jour sur des périodes équivalentes.</p>
 <p>En 2025, Google a déployé pas moins de quatre Core Updates.
  En 2026, la March Core Update et la Spam Update de mars ont été déployées à seulement deux jours d'intervalle.</p>
-<h3>Quel est l'impact de l'IA sur l'algorithme Google ?</h3>
+<h3 id="quel-est-l-impact-de-l-ia-sur-l-algorithme-google">Quel est l'impact de l'IA sur l'algorithme Google ?</h3>
 <p>Les mises à jour de 2025 ont progressivement intégré les signaux liés à l'IA, pénalisant le contenu généré sans valeur ajoutée humaine et récompensant les contenus qui démontrent une expertise réelle.
  En 2026, générer du contenu IA en masse sans supervision humaine ni expertise vérifiable constitue un facteur de risque direct. 
 Les sites combinant contenus IA non supervisés et absence de signaux auteur ont subi les baisses les plus sévères. À l'inverse, les plateformes UGC et les contenus portés par des experts identifiables ont progressé.</p>
@@ -358,7 +400,7 @@ Les sites combinant contenus IA non supervisés et absence de signaux auteur ont
           <a href="/ia/auteur-antoine-blot.html" style="font-weight:700;color:#1a1a1a;font-size:0.95rem;text-decoration:none">Antoine Blot</a>
           <span style="font-size:0.78rem;color:#888">Consultant SEO &amp; GEO</span>
         </div>
-        <p style="font-size:0.85rem;color:#555;margin:0 0 10px;line-height:1.6;font-style:italic">Responsable marketing et consultant SEO et GEO à Montréal et au Québec. Une décennie de pratique au service de la visibilité des marques sur Google et les moteurs IA.</p>
+        <p style="font-size:0.85rem;color:#555;margin:0 0 10px;line-height:1.6;font-style:italic">Expert en stratégies d'acquisition organique (SEO et GEO) basé au Québec. 12 ans de pratique et de veille technologique au service de la visibilité des marques sur Google et les moteurs IA.</p>
         <div style="display:flex;gap:8px;flex-wrap:wrap">
           <a href="/ia/auteur-antoine-blot.html" style="font-size:0.75rem;color:#0066cc;border:1px solid #dde8ff;padding:2px 10px;border-radius:20px;background:#fff;text-decoration:none">Voir le profil</a>
           <a href="https://antoine-blot.com" target="_blank" rel="noopener" style="font-size:0.75rem;color:#0066cc;border:1px solid #dde8ff;padding:2px 10px;border-radius:20px;background:#fff;text-decoration:none">antoine-blot.com</a>
@@ -372,9 +414,7 @@ Les sites combinant contenus IA non supervisés et absence de signaux auteur ont
     <div class="footer-inner">
       <div class="footer-left">
         <strong>BLOT Antoine</strong><br>
-        48 rue de la Concorde<br>
-        Repentigny, Québec<br>
-        Canada
+        48 rue de la Concorde, Repentigny, QC J6A 3W2, Canada
       </div>
       <div class="footer-right">
         <a href="/ia/">Articles</a>

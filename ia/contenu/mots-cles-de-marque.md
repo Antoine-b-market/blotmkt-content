@@ -23,7 +23,7 @@ publisher: "BlotMKT - Antoine Blot"
 ---
 # Mots-clés de marque : maîtrisez votre visibilité et protégez votre réputation
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Comprendre les mots-clés de marque : définition et typologies](#comprendre-les-mots-cles-de-marque-definition-et-typologies)
 - [Pourquoi les mots-clés de marque sont un pilier de votre SEO](#pourquoi-les-mots-cles-de-marque-sont-un-pilier-de-votre-seo)
 - [Recherche et identification de vos mots-clés de marque pertinents](#recherche-et-identification-de-vos-mots-cles-de-marque-pertinents)
@@ -208,23 +208,23 @@ Selon Incremys (mars 2026), le taux de closing des leads issus du SEO organique 
 
 ## Questions fréquentes sur les mots-clés de marque {#questions-frequentes-sur-les-mots-cles-de-marque}
 
-### Comment savoir si mes mots-clés de marque sont performants ?
+### Comment savoir si mes mots-clés de marque sont performants ? {#comment-savoir-si-mes-mots-cles-de-marque-sont-performants}
 
 Ouvrez Google Search Console, filtrez les requêtes contenant votre nom et comparez impressions vs clics. 
 Selon les données SEMrush et Ahrefs 2024-2025, un CTR de 27 à 39 % en position 1 est le benchmark attendu.
  Une hausse des impressions sans hausse des clics est le signal d'alarme classique : méta-description peu incitative ou concurrent actif en Google Ads sur votre nom.
 
-### Faut-il dépenser en publicité sur ses propres mots-clés de marque ?
+### Faut-il dépenser en publicité sur ses propres mots-clés de marque ? {#faut-il-depenser-en-publicite-sur-ses-propres-mots-cles-de}
 
 Pas systématiquement. Si vous contrôlez les 3 premières positions organiques sur votre nom et qu'aucun concurrent n'achète votre requête, le SEO suffit. Dès qu'un concurrent enchérit sur votre nom en Google Ads, une campagne défensive de marque avec un CPC très bas (votre Quality Score est naturellement élevé sur votre propre nom) devient rentable. Le coût reste négligeable comparé à la valeur des conversions capturées.
 
-### Quelle est la différence entre un mot-clé de marque et une entité nommée ?
+### Quelle est la différence entre un mot-clé de marque et une entité nommée ? {#quelle-est-la-difference-entre-un-mot-cle-de-marque-et-une}
 
 Un mot-clé de marque est une requête que tape un utilisateur. Une entité nommée est la façon dont Google représente votre marque dans son Knowledge Graph. 
 Les entités sont des choses identifiables de manière unique : personnes, lieux, entreprises, produits. Contrairement aux mots-clés (chaînes de caractères ambiguës), elles ont une identité unique dans le Knowledge Graph.
  Optimiser vos mots-clés de marque sans construire votre entité, c'est travailler la façade sans les fondations.
 
-### Combien de temps faut-il pour voir les résultats d'une optimisation de mots-clés de marque ?
+### Combien de temps faut-il pour voir les résultats d'une optimisation de mots-clés de marque ? {#combien-de-temps-faut-il-pour-voir-les-resultats-d-une}
 
 Pour les pages existantes bien indexées, les améliorations de CTR (méta-descriptions, données structurées) se voient en 2 à 6 semaines. Pour reprendre le contrôle de la SERP de marque sur des résultats tiers négatifs ou mal positionnés, comptez 3 à 6 mois de travail éditorial et de netlinking ciblé. 
 Être intégré dans le Knowledge Graph signale que l'identité de votre marque est suffisamment documentée pour que Google la comprenne

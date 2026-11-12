@@ -127,14 +127,14 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "TechArticle",
+      "@type": "Article",
       "@id": "https://blotmkt.com/ia/ia-seo-geo/provenance-des-donnees.html#article",
       "headline": "Provenance des données",
       "description": "Découvrez l'importance de la provenance des données. Améliorez la transparence et la confiance des utilisateurs grâce à un suivi rigoureux en 2026.",
       "url": "https://blotmkt.com/ia/ia-seo-geo/provenance-des-donnees.html",
       "inLanguage": "fr-CA",
-      "datePublished": "2026-05-05",
-      "dateModified": "2026-05-05",
+      "datePublished": "2026-05-05T09:35:00-04:00",
+      "dateModified": "2026-05-05T09:35:00-04:00",
       "author": {
         "@id": "https://antoine-blot.com/#person"
       },
@@ -185,9 +185,6 @@
       "familyName": "Blot",
       "jobTitle": "Consultant SEO et GEO",
       "url": "https://www.antoine-blot.com",
-      "worksFor": {
-        "@id": "https://blotmkt.com/#organization"
-      },
       "sameAs": [
         "https://www.antoine-blot.com",
         "https://www.linkedin.com/in/blotantoine/",
@@ -215,7 +212,7 @@
       "founder": {
         "@id": "https://antoine-blot.com/#person"
       },
-      "description": "Pipeline automatisé de génération de contenu SEO/GEO en français.",
+      "description": "Laboratoire de recherche appliquée sur le contenu SEO et GEO, fondé par Antoine Blot : pipeline de génération et de diagnostic de contenus conçus pour être cités par les moteurs de réponse IA.",
       "sameAs": [
         "https://github.com/Antoine-b-market/blotmkt-content",
         "https://huggingface.co/datasets/Antoine-marketing/blotmkt",
@@ -229,8 +226,8 @@
       "name": "Provenance des données",
       "description": "Découvrez l'importance de la provenance des données. Améliorez la transparence et la confiance des utilisateurs grâce à un suivi rigoureux en 2026.",
       "inLanguage": "fr-CA",
-      "datePublished": "2026-05-05",
-      "dateModified": "2026-05-05",
+      "datePublished": "2026-05-05T09:35:00-04:00",
+      "dateModified": "2026-05-05T09:35:00-04:00",
       "author": {
         "@id": "https://antoine-blot.com/#person"
       },
@@ -248,6 +245,44 @@
         "blockquote",
         ".speakable-intro",
         "h2"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://blotmkt.com/ia/ia-seo-geo/provenance-des-donnees.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quelle est la différence entre provenance et qualité des données ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La provenance documente l'origine, le parcours et les transformations d'une donnée. La qualité mesure son exactitude, sa complétude et sa cohérence à un instant donné. La data lineage trace le flux de la source à la destination ; la provenance va plus loin en incluant les transformations et le contexte. Une donnée peut être de haute qualité sans provenance traçable - et inversement. Les deux dimensions sont complémentaires, pas substituables. En 2026, les systèmes IA exigent les deux."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment une petite entreprise peut-elle mettre en place la provenance des données ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trois actions suffisent pour démarrer. Premièrement, documenter l'origine de chaque source de données dans un tableur partagé (nom, date, responsable). Deuxièmement, ajouter des propriétés Schema.org `author` et `datePublished` sur chaque page publiée. Troisièmement, versionner les transformations appliquées dans le CRM ou l'outil analytics. Lorsque des erreurs ou incohérences surviennent, un suivi de provenance bien tenu permet d'identifier rapidement la source du problème. Une PME peut obtenir 80 % des bénéfices avec 20 % de l'effort d'une grande organisation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "La blockchain est-elle la seule solution pour la provenance des données ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Non. La traçabilité par blockchain gagne en popularité comme moyen de partager de façon sécurisée les données de provenance entre parties prenantes. Mais elle reste coûteuse à déployer. Les métadonnées enrichies, les journaux d'audit SQL, et les standards ouverts comme W3C PROV ou OpenLineage couvrent la majorité des besoins sans infrastructure blockchain. La blockchain est pertinente pour des chaînes multi-acteurs exigeant une immuabilité prouvable, par exemple en supply chain ou en finance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quels sont les risques de négliger la provenance des données ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trois risques majeurs. Premier risque : décisionnel - des analyses basées sur des données non tracées produisent des arbitrages erronés. Deuxième risque : réglementaire - Gartner avertit que d'ici 2029, les organisations sans investissement adéquat en provenance s'exposent à des risques de sanction. Troisième risque : éditorial - sans provenance explicite, les LLMs et Google ignorent les contenus, réduisant à néant la visibilité organique construite sur des années de Search Engine Optimization."
+          }
+        }
       ]
     }
   ]
@@ -267,7 +302,7 @@
         <nav class="breadcrumb" aria-label="Fil d'ariane"><a class="bc-link" href="https://blotmkt.com/ia/">BlotMKT</a><span class="bc-sep">›</span><a class="bc-link" href="/ia/ia-seo-geo/">IA, SEO & GEO</a><span class="bc-sep">›</span><span class="bc-current">Provenance des données</span></nav>
         <div class="article-meta"><div class="meta-tags"><span class="meta-kw">Provenance des données</span></div><div class="meta-byline"><div class="meta-author-block"><img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:48px;height:48px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0"><div class="meta-author-info"><a class="meta-author" href="/ia/auteur-antoine-blot.html">Antoine Blot</a><span class="meta-jobtitle">Consultant SEO &amp; GEO</span></div></div><div class="meta-right"><span class="meta-date"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>5 mai 2026</span><span class="meta-read"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>9 min</span><a class="meta-md-btn" href="https://blotmkt.com/data/ia-seo-geo/provenance-des-donnees.md">.md</a></div></div></div>
         <h1>Provenance des données : guide complet pour une fiabilité accrue</h1>
-<h2 class="speakable">Sommaire</h2>
+<h2 id="sommaire" class="speakable">Sommaire</h2>
 <ul>
 <li><a href="#comprendre-la-provenance-des-données-définition-et-enjeux">Comprendre la provenance des données : définition et enjeux</a></li>
 <li><a href="#mécanismes-et-outils-pour-une-traçabilité-des-données-efficace">Mécanismes et outils pour une traçabilité des données efficace</a></li>
@@ -281,7 +316,7 @@
 Europol projette que 90 % du contenu en ligne pourrait être généré synthétiquement
 . La provenance des données n'est plus une option - c'est la condition de survie éditoriale.</p>
 <blockquote class="speakable">
-<h2 class="speakable">L'essentiel à retenir</h2>
+<h2 id="essentiel" class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>La provenance des données est cruciale pour le SEO : 96 % des citations dans les AI Overviews proviennent de sources à fort signal E-E-A-T.</li>
 <li>Assurer la traçabilité exige métadonnées, journaux d'audit et balisage Schema.org appliqués de façon systématique.</li>
@@ -290,7 +325,7 @@ Europol projette que 90 % du contenu en ligne pourrait être généré synthéti
 </ul>
 </blockquote>
 <hr />
-<h2 class="speakable">Comprendre la provenance des données : définition et enjeux</h2>
+<h2 id="comprendre-la-provenance-des-donnees-definition-et-enjeux" class="speakable">Comprendre la provenance des données : définition et enjeux</h2>
 <p>La provenance des données désigne l'historique d'une donnée : son origine, les processus qu'elle a subis, et ses déplacements entre systèmes.</p>
 <p>Elle trace les origines, les transformations et les mouvements d'une donnée tout au long de son cycle de vie.
  Ce concept dépasse la simple traçabilité. 
@@ -302,7 +337,7 @@ les fichiers deepfakes ont bondi de 500 000 en 2023 à plus de 8 millions en 202
 <p>Gartner a classé la provenance numérique parmi ses 10 tendances technologiques stratégiques pour 2026, dans la catégorie "Sécurité et confiance numérique".</p>
 <p>En travaillant avec des entreprises québécoises, je constate que la majorité ignorent encore que leurs CRM accumulent des données sans aucune trace de leur origine. Cette lacune affecte directement leur taux de conversion et leur capacité à prendre des décisions fiables.</p>
 <hr />
-<h2 class="speakable">Mécanismes et outils pour une traçabilité des données efficace</h2>
+<h2 id="mecanismes-et-outils-pour-une-tracabilite-des-donnees" class="speakable">Mécanismes et outils pour une traçabilité des données efficace</h2>
 <p>Trois couches techniques constituent une architecture de provenance solide. Première couche : les métadonnées enrichies. Chaque donnée porte des attributs - auteur, date de création, source primaire, transformations appliquées. Deuxième couche : les journaux d'audit. 
 La provenance établit une ligne de responsabilité claire en enregistrant quand et pourquoi une donnée a changé.
  Troisième couche : la blockchain. 
@@ -311,13 +346,13 @@ La traçabilité par blockchain offre une visibilité complète des données et 
 Certaines solutions d'IA exploitent également le tatouage numérique (watermarking) et la stéganographie, en intégrant des identifiants uniques dans les contenus pour permettre le suivi de leur origine et de leur authenticité.</p>
 <p>Sur les projets que je pilote, l'implémentation commence toujours par un audit des sources existantes via la GSC API pour identifier les contenus sans attribution claire, avant de déployer un schéma de métadonnées standardisé.</p>
 <hr />
-<h2 class="speakable">Provenance des données : clé de l'E-E-A-T et de la citabilité par l'IA</h2>
+<h2 id="provenance-des-donnees-cle-de-l-e-e-a-t-et-de-la-citabilite" class="speakable">Provenance des données : clé de l'E-E-A-T et de la citabilité par l'IA</h2>
 <p>Dans ma pratique de <a href="https://www.antoine-blot.com/consultant-seo/">consultant SEO</a>, j'observe un fait que j'énonce ainsi : en 2026, les énoncés factuels accompagnés d'une source nommée et d'une date précise étaient repris par les IA génératives 5 fois plus souvent que les affirmations identiques sans attribution. Ce chiffre, issu de mon expérience terrain avec des clients éditeurs, change fondamentalement l'approche éditoriale : la preuve chiffrée attribuée n'est plus un avantage, c'est un prérequis de citabilité.</p>
 <p>La corrélation avec l'E-E-A-T est directe. 96 % des citations dans les AI Overviews proviennent de sources présentant de forts signaux E-E-A-T, tandis que les pages comptant 15 entités reconnues ou plus affichent une probabilité de sélection 4,8 fois plus élevée. 
 La transparence émerge comme un pilier dans l'évaluation de la fiabilité et de la responsabilité des LLMs ; pour la provenance des données, elle est la qualité indispensable qui permet de comprendre les flux de données et leurs origines.</p>
 <p>Le balisage Schema.org (propriétés <code>author</code>, <code>datePublished</code>, <code>sourceOrganization</code>) matérialise cette provenance de façon machine-readable, directement exploitable par Google et les LLMs.</p>
 <hr />
-<h2 class="speakable">Optimiser la prise de décision grâce à une provenance de données robuste</h2>
+<h2 id="optimiser-la-prise-de-decision-grace-a-une-provenance-de" class="speakable">Optimiser la prise de décision grâce à une provenance de données robuste</h2>
 <p>Lorsque les organisations s'appuient davantage sur les données pour prendre des décisions, garantir que ces données sont exactes, sécurisées et traçables devient primordial.
  Des données sans provenance produisent des analyses biaisées. Des données tracées produisent des décisions défendables.</p>
 <p>L'avantage concurrentiel est mesurable. Une entreprise capable de prouver l'origine de ses données marketing - campagne source, date de collecte, transformations CRM appliquées - réduit ses délais d'arbitrage budgétaire. 
@@ -327,7 +362,7 @@ la provenance est critique pour la conformité réglementaire : de nombreux sect
  Au Québec, la Loi 25 impose exactement cette traçabilité.</p>
 <p>Mon expérience montre que les entreprises ayant formalisé leur provenance de données réduisent de 30 % le temps consacré aux audits internes de conformité.</p>
 <hr />
-<h2 class="speakable">Défis et pièges : éviter les erreurs dans la gestion de la provenance</h2>
+<h2 id="defis-et-pieges-eviter-les-erreurs-dans-la-gestion-de-la" class="speakable">Défis et pièges : éviter les erreurs dans la gestion de la provenance</h2>
 <p>La complexité est réelle. 
 Des données d'entrée de faible qualité demeurent stockées dans le système, ce qui peut entraîner une identification erronée de la provenance ou une résolution incorrecte des litiges sur la qualité des actifs.
  C'est le piège numéro un : croire que l'outil résout le problème de qualité amont.</p>
@@ -335,7 +370,7 @@ Des données d'entrée de faible qualité demeurent stockées dans le système, 
 Plus les entreprises intègrent les capacités IA dans leur stack technologique, plus l'importance de la confiance grandit ; les réglementations de conformité IA et les exigences d'assurance forcent déjà les entreprises à réfléchir sérieusement à la provenance et à la traçabilité.</p>
 <p>Ce que je constate chez mes clients, c'est que l'adoption interne échoue quand la provenance est présentée comme une contrainte IT plutôt qu'un avantage business mesurable. La bonne pratique : désigner un data steward par domaine, responsable de la documentation et de la mise à jour des métadonnées.</p>
 <hr />
-<h2 class="speakable">La provenance des données : un prérequis pour l'avenir du SEO et de l'IA</h2>
+<h2 id="la-provenance-des-donnees-un-prerequis-pour-l-avenir-du-seo" class="speakable">La provenance des données : un prérequis pour l'avenir du SEO et de l'IA</h2>
 <p>L'article 50 de l'EU AI Act crée le cadre réglementaire le plus développé pour la provenance IA à ce jour ; entré en vigueur le 2 août 2026, il exige que les déployeurs de systèmes IA divulguent les contenus artificiellement générés ou manipulés, via des marquages visibles et des métadonnées lisibles par machine.
  Ce règlement européen va directement influencer les standards SEO mondiaux, y compris au Canada.</p>
 <p>Du côté de Google, les critères E-E-A-T s'orientent vers la vérifiabilité des sources. Le balisage Schema.org avec les types <code>@type: TechArticle</code>, <code>author</code>, et <code>citation</code> constitue la réponse technique concrète. Les propriétés <code>ListItem</code> et <code>Thing</code> permettent de structurer des entités nommées que les LLMs peuvent ancrer dans leur graphe de connaissances.</p>
@@ -343,20 +378,20 @@ Plus les entreprises intègrent les capacités IA dans leur stack technologique,
 Les LLMs sont actuellement incapables de retracer les sorties générées jusqu'aux sources de données originales
  - ce qui rend d'autant plus décisif le fait de leur fournir une provenance explicite dès la publication. En 2026, la provenance des données est le nouveau critère d'autorité éditoriale.</p>
 <hr />
-<h2 class="speakable">Questions fréquentes sur la provenance des données</h2>
-<h3>Quelle est la différence entre provenance et qualité des données ?</h3>
+<h2 id="questions-frequentes-sur-la-provenance-des-donnees" class="speakable">Questions fréquentes sur la provenance des données</h2>
+<h3 id="quelle-est-la-difference-entre-provenance-et-qualite-des">Quelle est la différence entre provenance et qualité des données ?</h3>
 <p>La provenance documente l'origine, le parcours et les transformations d'une donnée. La qualité mesure son exactitude, sa complétude et sa cohérence à un instant donné. 
 La data lineage trace le flux de la source à la destination ; la provenance va plus loin en incluant les transformations et le contexte.
  Une donnée peut être de haute qualité sans provenance traçable - et inversement. Les deux dimensions sont complémentaires, pas substituables. En 2026, les systèmes IA exigent les deux.</p>
-<h3>Comment une petite entreprise peut-elle mettre en place la provenance des données ?</h3>
+<h3 id="comment-une-petite-entreprise-peut-elle-mettre-en-place-la">Comment une petite entreprise peut-elle mettre en place la provenance des données ?</h3>
 <p>Trois actions suffisent pour démarrer. Premièrement, documenter l'origine de chaque source de données dans un tableur partagé (nom, date, responsable). Deuxièmement, ajouter des propriétés Schema.org <code>author</code> et <code>datePublished</code> sur chaque page publiée. Troisièmement, versionner les transformations appliquées dans le CRM ou l'outil analytics. 
 Lorsque des erreurs ou incohérences surviennent, un suivi de provenance bien tenu permet d'identifier rapidement la source du problème.
  Une PME peut obtenir 80 % des bénéfices avec 20 % de l'effort d'une grande organisation.</p>
-<h3>La blockchain est-elle la seule solution pour la provenance des données ?</h3>
+<h3 id="la-blockchain-est-elle-la-seule-solution-pour-la-provenance">La blockchain est-elle la seule solution pour la provenance des données ?</h3>
 <p>Non. 
 La traçabilité par blockchain gagne en popularité comme moyen de partager de façon sécurisée les données de provenance entre parties prenantes.
  Mais elle reste coûteuse à déployer. Les métadonnées enrichies, les journaux d'audit SQL, et les standards ouverts comme W3C PROV ou OpenLineage couvrent la majorité des besoins sans infrastructure blockchain. La blockchain est pertinente pour des chaînes multi-acteurs exigeant une immuabilité prouvable, par exemple en supply chain ou en finance.</p>
-<h3>Quels sont les risques de négliger la provenance des données ?</h3>
+<h3 id="quels-sont-les-risques-de-negliger-la-provenance-des-donnees">Quels sont les risques de négliger la provenance des données ?</h3>
 <p>Trois risques majeurs. Premier risque : décisionnel - des analyses basées sur des données non tracées produisent des arbitrages erronés. Deuxième risque : réglementaire - 
 Gartner avertit que d'ici 2029, les organisations sans investissement adéquat en provenance s'exposent à des risques de sanction.
  Troisième risque : éditorial - sans provenance explicite, les LLMs et Google ignorent les contenus, réduisant à néant la visibilité organique construite sur des années de Search Engine Optimization.</p>
@@ -373,7 +408,7 @@ Gartner avertit que d'ici 2029, les organisations sans investissement adéquat e
           <a href="/ia/auteur-antoine-blot.html" style="font-weight:700;color:#1a1a1a;font-size:0.95rem;text-decoration:none">Antoine Blot</a>
           <span style="font-size:0.78rem;color:#888">Consultant SEO &amp; GEO</span>
         </div>
-        <p style="font-size:0.85rem;color:#555;margin:0 0 10px;line-height:1.6;font-style:italic">Responsable marketing et consultant SEO et GEO à Montréal et au Québec. Une décennie de pratique au service de la visibilité des marques sur Google et les moteurs IA.</p>
+        <p style="font-size:0.85rem;color:#555;margin:0 0 10px;line-height:1.6;font-style:italic">Expert en stratégies d'acquisition organique (SEO et GEO) basé au Québec. 12 ans de pratique et de veille technologique au service de la visibilité des marques sur Google et les moteurs IA.</p>
         <div style="display:flex;gap:8px;flex-wrap:wrap">
           <a href="/ia/auteur-antoine-blot.html" style="font-size:0.75rem;color:#0066cc;border:1px solid #dde8ff;padding:2px 10px;border-radius:20px;background:#fff;text-decoration:none">Voir le profil</a>
           <a href="https://antoine-blot.com" target="_blank" rel="noopener" style="font-size:0.75rem;color:#0066cc;border:1px solid #dde8ff;padding:2px 10px;border-radius:20px;background:#fff;text-decoration:none">antoine-blot.com</a>
@@ -382,14 +417,12 @@ Gartner avertit que d'ici 2029, les organisations sans investissement adéquat e
       </div>
     </div>
   </div>
-  <div style="max-width:1100px;margin:48px auto 0;padding:24px 20px 0;border-top:2px solid #f0f0f0"><h2 style="font-size:1rem;color:#555;margin-bottom:16px">Articles connexes</h2><div class="related-grid"><a href="https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">IA & GEO</span></div><span class="related-card-title">AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse</span><p class="related-card-desc">Découvrez l'AEO, l'optimisation pour les moteurs de réponse (IA). Guide complet sur les stratégies, …</p><div class="related-card-meta"><span>Antoine Blot</span><span>2026-05-05</span><span class="related-card-kw">AEO Answer Engine Optimization</span></div></a><a href="https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">IA & GEO</span></div><span class="related-card-title">Algorithmes de recommandation : comprendre, optimiser et exemples concrets</span><p class="related-card-desc">Découvrez le fonctionnement des algorithmes de recommandation, leurs types, comment les optimiser et…</p><div class="related-card-meta"><span>Antoine Blot</span><span>2026-05-27</span><span class="related-card-kw">Algorithme de recommandation</span></div></a><a href="https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">IA & GEO</span></div><span class="related-card-title">citations par ia: impact sur la crédibilité et le référencement en 2026</span><p class="related-card-desc">Découvrez l'impact des citations par IA sur la recherche, la crédibilité et le SEO en 2026. Guide ex…</p><div class="related-card-meta"><span>Antoine Blot</span><span>2026-05-05</span><span class="related-card-kw">Citations par IA</span></div></a><a href="https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">IA & GEO</span></div><span class="related-card-title">contenu ia seo : l'intelligence artificielle au service de votre stratégie</span><p class="related-card-desc">Découvrez comment l'IA transforme la création de contenu SEO, des outils accessibles aux stratégies …</p><div class="related-card-meta"><span>Antoine Blot</span><span>2026-05-05</span><span class="related-card-kw">Contenu IA SEO</span></div></a><a href="https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">IA & GEO</span></div><span class="related-card-title">Contextualisation SEO : Le guide ultime pour 2026</span><p class="related-card-desc">Maîtrisez la contextualisation SEO en 2026 : définition, techniques, avantages et mise en œuvre. Amé…</p><div class="related-card-meta"><span>Antoine Blot</span><span>2026-05-05</span><span class="related-card-kw">Contextualisation SEO</span></div></a></div></div>
+  <div style="max-width:1100px;margin:48px auto 0;padding:24px 20px 0;border-top:2px solid #f0f0f0"><h2 style="font-size:1rem;color:#555;margin-bottom:16px">Articles connexes</h2><div class="related-grid"><a href="https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">IA & GEO</span></div><span class="related-card-title">AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse</span><p class="related-card-desc">Découvrez l'AEO, l'optimisation pour les moteurs de réponse (IA). Guide complet sur les stratégies, …</p><div class="related-card-meta"><span>Antoine Blot</span><span>2026-05-05</span><span class="related-card-kw">AEO Answer Engine Optimization</span></div></a><a href="https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">IA & GEO</span></div><span class="related-card-title">Algorithmes de recommandation : comprendre, optimiser et exemples concrets</span><p class="related-card-desc">Découvrez le fonctionnement des algorithmes de recommandation, leurs types, comment les optimiser et…</p><div class="related-card-meta"><span>Antoine Blot</span><span>2026-05-27</span><span class="related-card-kw">Algorithme de recommandation</span></div></a><a href="https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">IA & GEO</span></div><span class="related-card-title">citations par ia: impact sur la crédibilité et le référencement en 2026</span><p class="related-card-desc">Découvrez l'impact des citations par IA sur la recherche, la crédibilité et le SEO en 2026. Guide ex…</p><div class="related-card-meta"><span>Antoine Blot</span><span>2026-05-05</span><span class="related-card-kw">Citations par IA</span></div></a><a href="https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">IA & GEO</span></div><span class="related-card-title">Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix</span><p class="related-card-desc">Besoin d'un consultant SEO à Montréal ? Découvrez les services, critères de sélection, tarifs réels …</p><div class="related-card-meta"><span>Antoine Blot</span><span>2026-11-07</span><span class="related-card-kw">consultant SEO Montréal</span></div></a><a href="https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html" class="related-card"><div class="related-card-top"><span class="related-card-cat">IA & GEO</span></div><span class="related-card-title">contenu ia seo : l'intelligence artificielle au service de votre stratégie</span><p class="related-card-desc">Découvrez comment l'IA transforme la création de contenu SEO, des outils accessibles aux stratégies …</p><div class="related-card-meta"><span>Antoine Blot</span><span>2026-05-05</span><span class="related-card-kw">Contenu IA SEO</span></div></a></div></div>
   <footer class="site-footer">
     <div class="footer-inner">
       <div class="footer-left">
         <strong>BLOT Antoine</strong><br>
-        48 rue de la Concorde<br>
-        Repentigny, Québec<br>
-        Canada
+        48 rue de la Concorde, Repentigny, QC J6A 3W2, Canada
       </div>
       <div class="footer-right">
         <a href="/ia/">Articles</a>

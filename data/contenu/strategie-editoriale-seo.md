@@ -46,7 +46,7 @@ Vous publiez régulièrement. Vous ciblez des mots-clés. Vos positions s'améli
 
 ---
 
-## Qu'est-ce qu'une stratégie éditoriale SEO et pourquoi est-elle cruciale ? {#definition}
+## Qu'est-ce qu'une stratégie éditoriale SEO et pourquoi est-elle cruciale ?
 
 Une stratégie éditoriale SEO est un système de production et de diffusion de contenu optimisé, conçu pour aligner les besoins de votre public cible, les intentions de recherche cartographiées par des outils comme Google Keyword Planner, et les exigences techniques des moteurs de recherche. Elle ne se limite pas à créer du contenu : elle gouverne quoi produire, pour qui, quand, et comment le rendre visible et citable.
 
@@ -58,7 +58,7 @@ La distinction est cruciale.
 
 ---
 
-## Pourquoi la plupart des stratégies éditoriales SEO échouent-elles ? {#echec}
+## Pourquoi la plupart des stratégies éditoriales SEO échouent-elles ?
 
 Vrai ou faux : publier plus d'articles améliore mécaniquement le référencement naturel.
 
@@ -73,7 +73,7 @@ L'absence d'alignement entre intention de recherche, autorité thématique et te
 
 ---
 
-## Les 6 piliers incontournables d'une stratégie éditoriale SEO performante {#piliers}
+## Les 6 piliers incontournables d'une stratégie éditoriale SEO performante
 
 Toute stratégie SEO solide repose sur six piliers interdépendants. Isoler l'un d'entre eux fragilise l'ensemble.
 
@@ -93,7 +93,7 @@ Dans ma pratique, sur 18 mandats stratégiques SEO suivis en 2026, les projets i
 
 ---
 
-## Stratégie éditoriale SEO à l'ère de l'IA : zero-click et AI Overviews {#ia}
+## Stratégie éditoriale SEO à l'ère de l'IA : zero-click et AI Overviews
 
 C'est le défi structurant de 2026. Pas une tendance passagère.
 
@@ -129,7 +129,7 @@ Ce type de balisage est encore sous-implémenté sur les sites québécois franc
 
 ---
 
-## Rédaction SEO vs. SEO copywriting : des approches complémentaires pour la performance {#comparaison}
+## Rédaction SEO vs. SEO copywriting : des approches complémentaires pour la performance
 
 | Dimension | Rédaction SEO | SEO copywriting |
 |---|---|---|
@@ -145,7 +145,7 @@ Le marketing de contenu orienté [Mots-clés transactionnels](https://blotmkt.co
 
 ---
 
-## Mesurer l'efficacité de votre stratégie éditoriale SEO : KPIs et impact {#mesure}
+## Mesurer l'efficacité de votre stratégie éditoriale SEO : KPIs et impact
 
 J'observe que la majorité des équipes marketing mesurent encore leur SEO en trafic organique brut. En 2026, c'est une mesure incomplète.
 
@@ -165,7 +165,7 @@ Les marques citées dans les AI Overviews génèrent 35 % de clics organiques su
 
 ---
 
-## La fondation technique : pilier indispensable d'une stratégie éditoriale pérenne {#technique}
+## La fondation technique : pilier indispensable d'une stratégie éditoriale pérenne
 
 Sur les projets que je pilote dans le secteur B2B tech, le SEO programmatique combiné à une expertise technique solide permet à des entreprises de posséder des catégories de recherche entières et de transformer des opportunités latentes en flux réguliers de leads qualifiés. La technique est le fondement qui rend cette automatisation possible et pérenne.
 
@@ -184,7 +184,7 @@ Comme l'explique Antoine Blot : les entreprises qui traitent le SEO comme une ta
 
 ---
 
-## Questions fréquentes sur la stratégie éditoriale SEO {#questions-frequentes}
+## Questions fréquentes sur la stratégie éditoriale SEO
 
 ### Qu'est-ce qu'un audit SEO technique et est-ce vraiment nécessaire ?
 

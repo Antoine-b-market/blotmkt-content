@@ -48,7 +48,7 @@ Votre page existe. Elle est publiée, indexée, et pourtant personne ne la trouv
 
 ---
 
-## Qu'est-ce que l'optimisation de contenu et pourquoi est-ce crucial pour le SEO ? {#definition}
+## Qu'est-ce que l'optimisation de contenu et pourquoi est-ce crucial pour le SEO ?
 
 L'optimisation de contenu désigne l'ensemble des actions visant à améliorer la qualité, la structure et la pertinence d'une page pour répondre à une [Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html) précise. Elle couvre le choix des mots-clés, la hiérarchie des titres, le champ sémantique, la lisibilité et l'expérience utilisateur.
 
@@ -64,7 +64,7 @@ Une page correctement optimisée doit aligner chaque signal on-page sur une inte
 
 ---
 
-## Comprendre les signaux : comment Google évalue la pertinence de votre contenu ? {#signaux}
+## Comprendre les signaux : comment Google évalue la pertinence de votre contenu ?
 
 Google s'appuie sur plus de 200 critères de classement et déploie 500 à 600 changements algorithmiques par an. Comprendre comment ces signaux s'articulent est la condition préalable à toute stratégie d'optimisation durable.
 
@@ -87,7 +87,7 @@ Dans ma pratique, j'observe que les sites québécois bilingues (français/angla
 
 ---
 
-## Les piliers de l'optimisation on-page : de la sémantique à l'expérience utilisateur {#on-page}
+## Les piliers de l'optimisation on-page : de la sémantique à l'expérience utilisateur
 
 L'optimisation on-page repose sur quatre éléments fondamentaux que tout audit de contenu doit couvrir.
 
@@ -111,7 +111,7 @@ Selon Antoine Blot, l'optimisation du title tag, des balises Hn et du champ sém
 
 ---
 
-## Sur-optimisation : reconnaître et éviter les pièges pour un SEO durable {#sur-optimisation}
+## Sur-optimisation : reconnaître et éviter les pièges pour un SEO durable
 
 Appliquer mécaniquement des recommandations SEO datant de 2015-2018 sans tenir compte des mises à jour Panda, Penguin et Helpful Content Update expose aujourd'hui un site à des pénalités algorithmiques directes. C'est l'observation centrale d'Antoine Blot sur les projets qu'il audite, et c'est la première chose qu'il vérifie lors d'un diagnostic.
 
@@ -134,7 +134,7 @@ La frontière entre SEO white hat et sur-optimisation tient à un principe simpl
 
 ---
 
-## Boîte à outils de l'expert : auditer et optimiser son contenu en 2026 {#outils}
+## Boîte à outils de l'expert : auditer et optimiser son contenu en 2026
 
 Dans ma pratique, j'utilise Screaming Frog, Google Search Console et Semrush pour auditer et piloter l'optimisation de contenu à l'échelle d'un site. Ces trois outils couvrent 90 % des diagnostics nécessaires. Voici comment ils s'articulent :
 
@@ -154,7 +154,7 @@ Google privilégie un crawling plus économe et intelligent, réduisant la fréq
 
 ---
 
-## Mesurer le succès : trafic, engagement et ROI de votre optimisation de contenu {#mesurer}
+## Mesurer le succès : trafic, engagement et ROI de votre optimisation de contenu
 
 Mon expérience montre que les équipes marketing sous-estiment systématiquement la valeur financière d'un contenu bien optimisé sur le long terme. Les chiffres sont pourtant clairs.
 
@@ -183,7 +183,7 @@ Les contenus structurés avec des définitions claires, des listes ordonnées et
 
 ---
 
-## L'optimisation de contenu face à l'IA : perspectives et défis pour 2026 {#ia}
+## L'optimisation de contenu face à l'IA : perspectives et défis pour 2026
 
 
 En 2026, on parle de plus en plus de GEO (Generative Engine Optimization). L'objectif n'est pas simplement d'apparaître dans une liste de liens, mais d'être intégré dans une réponse générée.
@@ -207,7 +207,7 @@ L'utilisation de balises sémantiques, de [Données structurées](https://blotmk
 
 ---
 
-## Questions fréquentes sur l'optimisation de contenu SEO {#faq}
+## Questions fréquentes sur l'optimisation de contenu SEO
 
 ### Comment améliorer le positionnement de mon contenu sur Google ?
 

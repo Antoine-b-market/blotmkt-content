@@ -23,7 +23,7 @@ publisher: "BlotMKT - Antoine Blot"
 ---
 # Transcription vidéo SEO : le guide complet pour booster votre référencement
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce que la transcription vidéo SEO ?](#quest-ce-que)
 - [Les leviers SEO activés par la transcription vidéo](#leviers-seo)
 - [ROI mesurable : quand chaque minute transcrite compte](#roi-mesurable)
@@ -228,29 +228,29 @@ La vidéo transcrite devient la fondation d'une stratégie de contenu omnicanal 
 
 ## Vos questions fréquentes sur la transcription vidéo SEO {#faq}
 
-### Comment choisir entre transcription automatique et humaine ?
+### Comment choisir entre transcription automatique et humaine ? {#comment-choisir-entre-transcription-automatique-et-humaine}
 
 La réponse dépend de l'enjeu du contenu. Pour un contenu stratégique, ciblant des mots-clés compétitifs ou traitant de sujets techniques, investissez dans une transcription humaine ou hybride. 
 Des services comme 3Play Media intègrent une précision de sous-titrage de 99 %+ directement dans votre plateforme vidéo.
  Pour un contenu secondaire ou en test, l'ASR gratuit (Whisper, YouTube) suffit comme point de départ, à condition de relire et de corriger manuellement.
 
-### La transcription vidéo est-elle rentable pour toutes les vidéos ?
+### La transcription vidéo est-elle rentable pour toutes les vidéos ? {#la-transcription-video-est-elle-rentable-pour-toutes-les}
 
 Non. J'observe que le ROI est maximal sur les vidéos longues (plus de 10 minutes), riches en vocabulaire sémantique, et ciblant des requêtes à intention informationnelle ou commerciale. Une vidéo institutionnelle de 90 secondes avec peu de contenu verbal n'a pas besoin de transcription élaborée. Priorisez les interviews, tutoriels, formations et webinaires : ce sont eux qui génèrent le plus de positions longue traîne.
 
-### Comment intégrer efficacement les mots-clés dans ma transcription ?
+### Comment intégrer efficacement les mots-clés dans ma transcription ? {#comment-integrer-efficacement-les-mots-cles-dans-ma}
 
 Ne forcez pas les mots-clés : enrichissez le texte là où ils apparaissent naturellement dans l'audio, ou ajoutez-les dans les intertitres et les reformulations. L'objectif est d'augmenter la densité sémantique sans créer de texte artificiel. 
 Google compare les pages indexées non seulement sur les mots-clés, mais surtout sur le contexte sémantique et l'[Intention de recherche](https://blotmkt.com/ia/contenu/intention-de-recherche.html),
  ce qui signifie que les synonymes et les cooccurrences comptent autant que le mot-clé exact.
 
-### Qu'est-ce que le fichier SRT et à quoi sert-il pour le SEO ?
+### Qu'est-ce que le fichier SRT et à quoi sert-il pour le SEO ? {#qu-est-ce-que-le-fichier-srt-et-a-quoi-sert-il-pour-le-seo}
 
 Un fichier SRT (SubRip Subtitle) contient la transcription d'une vidéo découpée en séquences horodatées. Il est lisible par YouTube, les lecteurs HTML5 et Google. 
 Google lit le contenu de la vidéo via les sous-titres, notamment les fichiers SRT, pour en décrypter la pertinence sémantique.
  Téléverser un fichier SRT sur YouTube ou votre CMS rend chaque mot prononcé indexable. Le format VTT (WebVTT) est la variante préférable pour les vidéos hébergées sur votre propre domaine.
 
-### Quel outil utiliser pour transcrire une vidéo pour le SEO en 2026 ?
+### Quel outil utiliser pour transcrire une vidéo pour le SEO en 2026 ? {#quel-outil-utiliser-pour-transcrire-une-video-pour-le-seo-en}
 
 Trois options couvrent 95 % des besoins : Whisper (OpenAI, open source, gratuit, précision élevée même sur le français québécois), Otter.ai (collaboration et intégrations CMS), et les services hybrides comme 3Play Media pour les productions à fort enjeu. 
 Les services 3Play Media combinent IA et révision humaine par défaut, garantissant vitesse, précision et accessibilité.

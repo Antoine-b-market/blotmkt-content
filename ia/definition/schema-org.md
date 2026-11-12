@@ -27,7 +27,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # Schema.org : guide complet pour structurer vos données et booster votre seo
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Schema.org : définition et principes fondamentaux](#schemaorg-définition-et-principes-fondamentaux)
 - [Les types de Schema.org les plus courants et comment les utiliser efficacement](#les-types-de-schemaorg-les-plus-courants-et-comment-les-utiliser-efficacement)
 - [Propriétés Schema.org : le détail pour optimiser vos rich results](#propriétés-schemaorg-le-détail-pour-optimiser-vos-rich-results)
@@ -133,15 +133,15 @@ Comme spécialiste GEO, je suis convaincu que le structured data est devenu la l
 
 ## Questions fréquentes sur Schema.org {#questions-fréquentes-sur-schemaorg}
 
-### Comment Schema.org améliore-t-il le CTR d'un site web ?
+### Comment Schema.org améliore-t-il le CTR d'un site web ? {#comment-schema-org-ameliore-t-il-le-ctr-d-un-site-web}
 
 Schema.org améliore le CTR en générant des rich results visuellement différenciants dans la SERP : étoiles, prix, FAQ, images, temps de préparation. Les études documentent des hausses de CTR de 20 à 40 % pour les pages avec rich results par rapport aux résultats standards. Un résultat en position 4 avec rich snippets surpasse souvent un résultat en position 2 sans enrichissement, parce que la surface visuelle et l'information immédiate captent l'attention de l'utilisateur avant même le clic.
 
-### Schema.org est-il important pour le SEO local ?
+### Schema.org est-il important pour le SEO local ? {#schema-org-est-il-important-pour-le-seo-local}
 
 Oui. Le type `LocalBusiness` renforce la cohérence NAP (nom, adresse, téléphone), les horaires d'ouverture et les signaux du Knowledge Panel. Des données structurées bien organisées permettent à Google Assistant et Siri de fournir des réponses précises aux requêtes vocales. Avec 46 % des recherches Google à intention locale, un balisage `LocalBusiness` complet est l'un des investissements SEO les plus rapides à rentabiliser pour une entreprise physique.
 
-### Comment éviter les erreurs courantes lors de l'implémentation de Schema.org ?
+### Comment éviter les erreurs courantes lors de l'implémentation de Schema.org ? {#comment-eviter-les-erreurs-courantes-lors-de-l}
 
 Les trois erreurs les plus fréquentes sont : choisir un type incohérent avec le contenu réel, omettre les propriétés recommandées (pas seulement les obligatoires), et ne pas monitorer les régressions après les mises à jour CMS. La méthode fiable consiste à valider chaque nouveau template via le Rich Results Test, à surveiller les rapports de données structurées dans Google Search Console, et à tester toute modification sur un sous-ensemble d'URLs avant déploiement global.
 

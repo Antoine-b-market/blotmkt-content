@@ -48,7 +48,7 @@ Vous publiez régulièrement du contenu, mais votre trafic organique stagne. Vos
 
 ---
 
-## Qu'est-ce qu'une page pilier SEO et pourquoi est-ce important ? {#definition}
+## Qu'est-ce qu'une page pilier SEO et pourquoi est-ce important ?
 
 Une page pilier SEO est une ressource longue forme qui traite un sujet principal en profondeur et se connecte à un ensemble d'articles satellites via des liens internes bidirectionnels. Elle constitue le cœur d'un [Topic cluster](https://blotmkt.com/ia/definition/topic-cluster.html). La page pilier offre une vue d'ensemble complète, pendant que les articles satellites approfondissent chaque sous-thème précis (Ahrefs, "Content Pillars: What They Are & How to Build Them for SEO", 2026).
 
@@ -60,7 +60,7 @@ J'observe, sur les projets que je pilote à Montréal, que les entreprises qui i
 
 ---
 
-## Les avantages d'une page pilier SEO pour votre site web {#avantages}
+## Les avantages d'une page pilier SEO pour votre site web
 
 Sur un site B2B en 2026, la création de 4 pages piliers de 2 500 mots reliées à 18 articles satellites a fait progresser l'ensemble du cluster en positionnement, avec un gain moyen de 8 positions sur les mots-clés secondaires. Ce résultat est documenté et reproductible - retrouvez la méthodologie complète sur [mes ressources SEO](https://www.antoine-blot.com/ressources-seo/).
 
@@ -70,7 +70,7 @@ Ce que je constate chez mes clients : la page pilier devient rapidement la page 
 
 ---
 
-## Comment concevoir une structure de page pilier efficace : les étapes clés {#conception}
+## Comment concevoir une structure de page pilier efficace : les étapes clés
 
 La construction d'une page pilier suit une logique séquentielle stricte. Sauter une étape compromet les suivantes.
 
@@ -80,7 +80,7 @@ Mon expérience montre qu'une page pilier publiée sans ses satellites associés
 
 ---
 
-## Exemples concrets de pages piliers SEO performantes {#exemples}
+## Exemples concrets de pages piliers SEO performantes
 
 Dans le secteur B2B SaaS, HubSpot a popularisé la méthode avec des pages piliers sur des thèmes comme "inbound marketing" ou "marketing automation", chacune reliée à des dizaines d'articles satellites. Résultat documenté : une hausse significative du trafic organique et une domination des SERP sur les requêtes de leur thématique (HubSpot Knowledge Base, "Topics, pillar pages, and subtopic keywords", 2026).
 
@@ -92,7 +92,7 @@ En travaillant avec des entreprises québécoises, j'identifie systématiquement
 
 ---
 
-## Erreurs courantes à éviter lors de la création d'une page pilier {#erreurs}
+## Erreurs courantes à éviter lors de la création d'une page pilier
 
 La première erreur est de créer une page pilier sans cluster. Un pilier sans satellites est une île sans ponts. Le maillage interne est le cœur de la stratégie : chaque article cluster doit renvoyer vers la page pilier, et la page pilier doit renvoyer vers tous les articles clusters (Eidos Agency, 2025).
 
@@ -104,7 +104,7 @@ La quatrième erreur est l'absence de mise à jour. Un pilier non actualisé per
 
 ---
 
-## Les outils indispensables pour créer et suivre les performances de votre page pilier SEO {#outils}
+## Les outils indispensables pour créer et suivre les performances de votre page pilier SEO
 
 Quatre catégories d'outils couvrent l'intégralité du cycle de vie d'une page pilier.
 
@@ -118,7 +118,7 @@ Dans ma pratique, je croise ces données toutes les quatre semaines pour ajuster
 
 ---
 
-## L'évolution de la stratégie de page pilier SEO en 2026 : les tendances à suivre {#evolution}
+## L'évolution de la stratégie de page pilier SEO en 2026 : les tendances à suivre
 
 La page pilier devient un actif GEO autant que SEO. Les moteurs IA - ChatGPT, Perplexity, Gemini - sélectionnent les contenus qui couvrent un sujet de manière complète, structurée et faisant autorité. Une page pilier bien construite répond exactement à ces critères (Digitalgagnant.fr, 2026).
 
@@ -130,7 +130,7 @@ En tant que stratège marketing, j'anticipe que les pages piliers qui intègrent
 
 ---
 
-## Questions fréquentes {#questions-frequentes}
+## Questions fréquentes
 
 ### Quelle est la longueur idéale d'une page pilier SEO ?
 

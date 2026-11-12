@@ -23,7 +23,7 @@ publisher: "BlotMKT - Antoine Blot"
 ---
 # Profil de liens : le guide ultime pour un SEO performant
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Comprendre le profil de liens : définition et rôle essentiel en SEO](#comprendre-le-profil-de-liens)
 - [Le mécanisme des backlinks : comment Google évalue votre autorité](#mecanisme-backlinks)
 - [Audit de profil de liens : les étapes clés pour une analyse approfondie](#audit-profil-de-liens)
@@ -171,24 +171,24 @@ Les sites avec un fort profil de backlinks et une bonne autorité de domaine son
 
 ## Questions fréquentes sur l'optimisation des profils de liens {#questions-frequentes}
 
-### Qu'est-ce qu'un lien toxique et comment l'identifier ?
+### Qu'est-ce qu'un lien toxique et comment l'identifier ? {#qu-est-ce-qu-un-lien-toxique-et-comment-l-identifier}
 
 Un lien est toxique s'il provient d'une ferme de liens, d'un domaine pénalisé, d'un site sans rapport thématique, ou s'il s'inscrit dans un pattern d'ancres sur-optimisées répétées. 
 Penguin identifie les signaux courants : pics soudains de backlinks, liens depuis des sites de faible qualité ou non pertinents, ancres agressives répétées.
  Dans Ahrefs ou Semrush, un Domain Rating inférieur à 10 combiné à un trafic organique nul est un premier indicateur d'alerte.
 
-### Comment désavouer des liens efficacement via Google Disavow Tool ?
+### Comment désavouer des liens efficacement via Google Disavow Tool ? {#comment-desavouer-des-liens-efficacement-via-google-disavow}
 
 Exportez la liste complète de vos domaines référents suspects, documentez la tentative de suppression manuelle (email au webmaster), puis compilez un fichier .txt formaté avec une ligne par domaine (`domain:exemple.com`). Soumettez-le via la Google Search Console, section "Liens". 
 Penguin fonctionne en temps réel avec le core algorithm, ce qui vous permet d'observer l'impact de vos efforts de nettoyage presque immédiatement.
 
-### Quels outils utiliser pour analyser son profil de liens ?
+### Quels outils utiliser pour analyser son profil de liens ? {#quels-outils-utiliser-pour-analyser-son-profil-de-liens}
 
 Les trois références du secteur sont Ahrefs (le plus complet pour les backlinks), Semrush (fort pour le suivi des ancres et les comparaisons concurrentielles) et la Google Search Console (gratuit, données first-party de Google). 
 52,3 % des spécialistes SEO considèrent la création de backlinks comme la partie la plus difficile du SEO (SEO.IA).
  Croiser au moins deux outils reste la meilleure pratique pour combler les angles morts de chaque crawleur.
 
-### Comment la diversification des liens impacte-t-elle le SEO ?
+### Comment la diversification des liens impacte-t-elle le SEO ? {#comment-la-diversification-des-liens-impacte-t-elle-le-seo}
 
 Un profil homogène, même constitué de liens individuellement corrects, envoie un signal artificiel à Google. 
 Un profil de liens sain se construit avec des liens variés, provenant de domaines différents, avec des ancres diversifiées et une croissance progressive.

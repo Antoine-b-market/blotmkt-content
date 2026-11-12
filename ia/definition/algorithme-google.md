@@ -30,7 +30,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # Algorithme Google : comprendre son fonctionnement et éviter les pièges SEO
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce que l'algorithme Google ?](#quest-ce-que-lalgorithme-google)
 - [Comment fonctionne l'algorithme Google ?](#comment-fonctionne-lalgorithme-google)
 - [Éviter la sur-optimisation SEO : les pièges à éviter](#eviter-la-sur-optimisation-seo)
@@ -121,11 +121,11 @@ Sur les projets que je pilote, j'intègre une alerte automatique dans Google Sea
 
 ## FAQ : questions fréquentes sur l'algorithme Google {#faq}
 
-### Qu'est-ce qu'une pénalité Google et comment la corriger ?
+### Qu'est-ce qu'une pénalité Google et comment la corriger ? {#qu-est-ce-qu-une-penalite-google-et-comment-la-corriger}
 
 Il existe deux types de pénalités Google : les pénalités algorithmiques - déclenchées automatiquement par des mises à jour comme Panda ou Penguin - et les pénalités manuelles, visibles dans l'onglet "Actions manuelles" de Google Search Console. Pour corriger une pénalité manuelle, supprimez ou rééditez les pages problématiques, élaguez les backlinks toxiques via l'outil Disavow, puis soumettez une demande de réexamen. La récupération peut prendre plusieurs mois.
 
-### Comment suivre les mises à jour de l'algorithme Google ?
+### Comment suivre les mises à jour de l'algorithme Google ? {#comment-suivre-les-mises-a-jour-de-l-algorithme-google}
 
 Consultez le Google Search Status Dashboard pour les annonces officielles. Les sources spécialisées comme Search Engine Land et Search Engine Roundtable publient des analyses en temps réel. 
 Utilisez Google Search Console pour comparer vos données avant et après la mise à jour sur des périodes équivalentes.
@@ -133,7 +133,7 @@ Utilisez Google Search Console pour comparer vos données avant et après la mis
 En 2025, Google a déployé pas moins de quatre Core Updates.
  En 2026, la March Core Update et la Spam Update de mars ont été déployées à seulement deux jours d'intervalle.
 
-### Quel est l'impact de l'IA sur l'algorithme Google ?
+### Quel est l'impact de l'IA sur l'algorithme Google ? {#quel-est-l-impact-de-l-ia-sur-l-algorithme-google}
 
 Les mises à jour de 2025 ont progressivement intégré les signaux liés à l'IA, pénalisant le contenu généré sans valeur ajoutée humaine et récompensant les contenus qui démontrent une expertise réelle.
  En 2026, générer du contenu IA en masse sans supervision humaine ni expertise vérifiable constitue un facteur de risque direct. 

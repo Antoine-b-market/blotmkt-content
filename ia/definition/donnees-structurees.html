@@ -133,8 +133,8 @@
       "description": "Découvrez les données structurées : types, avantages SEO, implémentation technique et erreurs à éviter. Boostez votre visibilité dans les résultats de recherche et l'efficacité pour les IA.",
       "url": "https://blotmkt.com/ia/definition/donnees-structurees.html",
       "inLanguage": "fr-CA",
-      "datePublished": "2026-05-05",
-      "dateModified": "2026-05-05",
+      "datePublished": "2026-05-05T02:59:00-04:00",
+      "dateModified": "2026-05-05T02:59:00-04:00",
       "author": {
         "@id": "https://antoine-blot.com/#person"
       },
@@ -151,7 +151,12 @@
         "@type": "CreativeWorkSeries",
         "@id": "https://blotmkt.com/ia/definition/#serie",
         "name": "Série Définitions SEO & GEO — BlotMKT"
-      }
+      },
+      "about": [
+        {
+          "@id": "https://blotmkt.com/ia/definition/donnees-structurees.html#terme"
+        }
+      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -185,9 +190,6 @@
       "familyName": "Blot",
       "jobTitle": "Consultant SEO et GEO",
       "url": "https://www.antoine-blot.com",
-      "worksFor": {
-        "@id": "https://blotmkt.com/#organization"
-      },
       "sameAs": [
         "https://www.antoine-blot.com",
         "https://www.linkedin.com/in/blotantoine/",
@@ -215,7 +217,7 @@
       "founder": {
         "@id": "https://antoine-blot.com/#person"
       },
-      "description": "Pipeline automatisé de génération de contenu SEO/GEO en français.",
+      "description": "Laboratoire de recherche appliquée sur le contenu SEO et GEO, fondé par Antoine Blot : pipeline de génération et de diagnostic de contenus conçus pour être cités par les moteurs de réponse IA.",
       "sameAs": [
         "https://github.com/Antoine-b-market/blotmkt-content",
         "https://huggingface.co/datasets/Antoine-marketing/blotmkt",
@@ -229,8 +231,8 @@
       "name": "Données structurées",
       "description": "Découvrez les données structurées : types, avantages SEO, implémentation technique et erreurs à éviter. Boostez votre visibilité dans les résultats de recherche et l'efficacité pour les IA.",
       "inLanguage": "fr-CA",
-      "datePublished": "2026-05-05",
-      "dateModified": "2026-05-05",
+      "datePublished": "2026-05-05T02:59:00-04:00",
+      "dateModified": "2026-05-05T02:59:00-04:00",
       "author": {
         "@id": "https://antoine-blot.com/#person"
       },
@@ -248,6 +250,60 @@
         "blockquote",
         ".speakable-intro",
         "h2"
+      ]
+    },
+    {
+      "@type": "DefinedTermSet",
+      "@id": "https://blotmkt.com/ia/definition/#termes",
+      "name": "Termes du SEO et du GEO — BlotMKT",
+      "url": "https://blotmkt.com/ia/definition/",
+      "inLanguage": "fr-CA"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://blotmkt.com/ia/definition/donnees-structurees.html#terme",
+      "name": "Données structurées",
+      "inDefinedTermSet": {
+        "@id": "https://blotmkt.com/ia/definition/#termes"
+      },
+      "url": "https://blotmkt.com/ia/definition/donnees-structurees.html"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://blotmkt.com/ia/definition/donnees-structurees.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Comment vérifier l'implémentation des données structurées ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le Rich Results Test est l'outil de référence de Google pour vérifier la validité de votre code. Saisissez l'URL de votre page ou collez directement votre code. Le Schema Markup Validator permet une vérification plus large de la conformité aux standards Schema.org. En production, Google Search Console affiche les erreurs et avertissements dans la section \"Améliorations\", avec le nombre de pages concernées."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Les données structurées influencent-elles directement le classement ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Les rich snippets n'ont pas d'impact direct sur le classement, mais ils encouragent davantage de clics, ce qui peut augmenter le CTR organique. Un CTR élevé indique souvent à Google que les utilisateurs trouvent le résultat pertinent, ce qui peut améliorer le classement au fil du temps. L'influence est donc indirecte mais mesurable sur la durée."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quels sont les types de données structurées les plus importants ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "FAQPage est le schéma le plus utilisé et le plus fiable. Pour l'e-commerce : Product avec Offer et AggregateRating. Pour les services : LocalBusiness et Service. Pour les blogs : Article et BlogPosting avec les données auteur. Organization identifie l'entité qui édite le site et est le prérequis du Knowledge Panel Google. Priorisez selon votre secteur et vos objectifs de rich snippets."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Faut-il ajouter des données structurées à toutes les pages ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tous les types de contenu ne nécessitent pas forcément des données structurées. Concentrez-vous sur les éléments qui peuvent bénéficier des rich snippets : articles de blog, produits, recettes, événements et avis clients. Les pages d'erreur 404, les pages de politique de confidentialité ou les pages de connexion n'en ont aucun besoin. Priorisez les pages à fort trafic potentiel et à fort ROI."
+          }
+        }
       ]
     }
   ]
@@ -267,7 +323,7 @@
         <nav class="breadcrumb" aria-label="Fil d'ariane"><a class="bc-link" href="https://blotmkt.com/ia/">BlotMKT</a><span class="bc-sep">›</span><a class="bc-link" href="/ia/definition/">Définitions SEO & GEO</a><span class="bc-sep">›</span><span class="bc-current">Données structurées</span></nav>
         <div class="article-meta"><div class="meta-tags"><span class="meta-kw">Données structurées</span></div><div class="meta-byline"><div class="meta-author-block"><img src="https://blotmkt.com/ia/author-image.jpg" alt="Antoine Blot" style="width:48px;height:48px;border-radius:50%;object-fit:cover;border:2px solid #dde8ff;flex-shrink:0"><div class="meta-author-info"><a class="meta-author" href="/ia/auteur-antoine-blot.html">Antoine Blot</a><span class="meta-jobtitle">Consultant SEO &amp; GEO</span></div></div><div class="meta-right"><span class="meta-date"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>5 mai 2026</span><span class="meta-read"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>10 min</span><a class="meta-md-btn" href="https://blotmkt.com/data/definition/donnees-structurees.md">.md</a></div></div></div>
         <h1>Données structurées : guide complet pour un SEO boosté et une visibilité accrue</h1>
-<h2 class="speakable">Sommaire</h2>
+<h2 id="sommaire" class="speakable">Sommaire</h2>
 <ul>
 <li><a href="#comprendre">Comprendre les données structurées : la fondation de la sémantique web</a></li>
 <li><a href="#mecanisme">Mécanisme d'interprétation : comment Google et les IA lisent vos données</a></li>
@@ -280,7 +336,7 @@
 </ul>
 <p class="speakable-intro">Votre site publie du bon contenu. Pourtant, dans les résultats Google, il apparaît comme un simple lien bleu. Vos concurrents, eux, affichent des étoiles, des prix, des FAQ dépliables. Ils captent l'œil et les clics. La différence tient souvent à trois lettres : les données structurées. Ce guide vous explique ce qu'elles sont, comment les implémenter correctement en JSON-LD, et pourquoi elles sont devenues cruciales en SEO - autant pour les moteurs traditionnels que pour les agents IA qui reconfigurent la recherche en 2026.</p>
 <blockquote class="speakable">
-<h2 class="speakable">L'essentiel à retenir</h2>
+<h2 id="essentiel" class="speakable">L'essentiel à retenir</h2>
 <ul>
 <li>Les données structurées sont des balises de code standardisées qui expliquent le contenu de vos pages aux moteurs de recherche et aux IA.</li>
 <li>JSON-LD est le format recommandé par Google depuis 2016 : placez-le dans le <code>&lt;head&gt;</code> ou via Google Tag Manager.</li>
@@ -289,8 +345,7 @@
 </ul>
 </blockquote>
 <hr />
-<h2 id="comprendre">Comprendre les données structurées : la fondation de la sémantique web</h2>
-
+<h2 id="comprendre" class="speakable">Comprendre les données structurées : la fondation de la sémantique web</h2>
 <p>Les données structurées représentent un format standardisé permettant d'organiser et d'étiqueter le contenu de vos pages web pour que les moteurs de recherche le comprennent sans ambiguïté.
  Sans ce balisage, Google lit vos mots mais n'en saisit pas nécessairement le sens. Il voit "45" sans savoir si c'est un prix, un délai ou une note.</p>
 <p>Schema.org est un vocabulaire partagé, créé en 2011 par Google, Microsoft, Yahoo et Yandex. Il définit un ensemble standardisé de types - Article, Product, Person, Event - et de propriétés - name, description, price, author - que les moteurs de recherche comprennent universellement.</p>
@@ -300,16 +355,14 @@
 Contrairement à l'ancien balisage qui se mêlait au code HTML, le JSON-LD est un bloc de données structuré, invisible pour l'utilisateur mais parfaitement lisible par Google.</p>
 <p>Dans ma pratique, je constate que beaucoup d'équipes SEO confondent encore données structurées, données enrichies et rich snippets. Ce sont trois étapes d'une même chaîne, pas des synonymes. Clarifier cette distinction est le point de départ indispensable pour toute stratégie sémantique solide - consultant SEO, Antoine Blot.</p>
 <hr />
-<h2 id="mecanisme">Mécanisme d'interprétation : comment Google et les IA lisent vos données</h2>
-
+<h2 id="mecanisme" class="speakable">Mécanisme d'interprétation : comment Google et les IA lisent vos données</h2>
 <p>Lorsque Googlebot explore une page, il lit le bloc JSON-LD inséré dans le <code>&lt;head&gt;</code>. 
 Les rich snippets sont le résultat visible dans les SERPs quand Google détecte, valide et décide d'afficher vos données structurées : les étoiles, les FAQ dépliables, les prix, les dates d'événement.</p>
 <p>Au-delà de l'affichage, les données structurées alimentent le <a href="https://blotmkt.com/ia/definition/knowledge-graph.html">Knowledge Graph</a> de Google. Chaque entité déclarée - <code>@type: Person</code>, <code>@type: Organization</code>, <code>@type: Thing</code> - contribue à renforcer la présence de votre marque dans la base de connaissances de Google.</p>
 <p>Pour les Large Language Models (LLM), la mécanique est différente mais complémentaire. Les agents IA comme ChatGPT ou Gemini traitent votre contenu en cherchant des entités nommées, des relations claires et des faits vérifiables. Un balisage structuré avec des types comme <code>ListItem</code> ou <code>DefinedTerm</code> facilite l'extraction et la reformulation de vos contenus - c'est ce qu'on appelle la citabilité IA.</p>
 <p>J'observe que les pages auteur détaillées combinant un schéma <code>Person</code> valide et des signaux E-E-A-T explicites sont systématiquement mieux reprises par les LLM dans leurs réponses - spécialiste GEO, Antoine Blot.</p>
 <hr />
-<h2 id="implementation">L'implémentation technique : guide pas à pas avec JSON-LD</h2>
-
+<h2 id="implementation" class="speakable">L'implémentation technique : guide pas à pas avec JSON-LD</h2>
 <p>JSON-LD est le format recommandé par Google, car il est le plus récent et le plus facile à implémenter. Il permet de séparer les données structurées du reste du code HTML, ce qui simplifie leur gestion.</p>
 <p>Voici les étapes dans l'ordre :</p>
 <ol>
@@ -324,8 +377,7 @@ Les rich snippets sont le résultat visible dans les SERPs quand Google détecte
 La validation systématique via validator.schema.org et l'outil Google prévient les erreurs de syntaxe.</p>
 <p>Sur les projets que je pilote, je priorise toujours les types qui déclenchent des rich results vérifiables : FAQPage, Product et Article. Le retour sur investissement est mesurable dès les 8 premières semaines - praticien du référencement, Antoine Blot.</p>
 <hr />
-<h2 id="avantages">Avantages concrets : rich snippets, CTR et expérience utilisateur</h2>
-
+<h2 id="avantages" class="speakable">Avantages concrets : rich snippets, CTR et expérience utilisateur</h2>
 <p>L'avantage le plus direct des données structurées est la visibilité et le taux de clics accrus. Les résultats enrichis sont plus grands, plus visuels et se démarquent de la concurrence.</p>
 <p>Les chiffres sont parlants. 
 Les sites maîtrisant les structured data enregistrent un CTR supérieur de 30 % aux résultats standards, une visibilité accrue de 40 % dans les fonctionnalités SERP avancées - featured snippets, carrousels, People Also Ask - et un taux de rebond réduit de 20 %.</p>
@@ -334,16 +386,14 @@ Les pages e-commerce bénéficient du schéma Product avec un CTR en hausse de 2
 <p>En 2026, les rich snippets sont devenus un langage qui permet à Google et à ses moteurs d'IA de comprendre rapidement ce qu'est votre contenu, à qui il s'adresse, et pourquoi il mérite d'être mis en avant. Ils n'ont pas d'impact direct sur le classement, mais ils améliorent le référencement de manière indirecte.</p>
 <p>Ce que je constate chez mes clients : un résultat enrichi en position 4 génère souvent plus de clics qu'un résultat standard en position 2. La visibilité vaut parfois plus que le rang - stratège marketing, Antoine Blot.</p>
 <hr />
-<h2 id="preuve">Preuve d'efficacité : l'impact sur l'E-E-A-T et la crédibilité</h2>
-
+<h2 id="preuve" class="speakable">Preuve d'efficacité : l'impact sur l'E-E-A-T et la crédibilité</h2>
 <p>En 2026, l'ajout de données structurées Schema.org valides sur 45 pages de service a permis à un site québécois d'obtenir des rich results sur 28 d'entre elles, augmentant le CTR moyen de 42 %. Ce cas est documenté dans mes <a href="https://www.antoine-blot.com/ressources-seo/">ressources SEO</a>.</p>
 <p>Ce résultat n'est pas un accident. Les données structurées renforcent les quatre piliers de l'E-E-A-T - Expérience, Expertise, Autorité, Fiabilité - en fournissant des informations vérifiables et précises aux moteurs. Un schéma <code>Person</code> bien renseigné avec <code>jobTitle</code>, <code>knowsAbout</code> et <code>affiliation</code> envoie des signaux d'expertise clairs. Un schéma <code>Review</code> avec <code>AggregateRating</code> établit la preuve sociale.</p>
 <p>Un résultat enrichi est perçu comme plus professionnel, ce qui renforce la confiance et l'autorité perçues.
  Pour les IA génératives, cette crédibilité se traduit en citabilité : une source bien structurée est plus souvent reformulée dans les réponses des LLM.</p>
 <p>Mon expérience montre que les pages qui combinent contenu de qualité, balisage Schema.org valide et signaux E-E-A-T explicites sont celles que les IA reprennent le plus - consultant SEO, Antoine Blot.</p>
 <hr />
-<h2 id="erreurs">Erreurs fréquentes et pièges à éviter dans l'optimisation</h2>
-
+<h2 id="erreurs" class="speakable">Erreurs fréquentes et pièges à éviter dans l'optimisation</h2>
 <p>Avoir des données structurées valides ne garantit pas l'obtention de rich snippets. Google se réserve le droit de les afficher ou non selon la qualité globale de la page, sa popularité et le contexte de la requête. En revanche, sans données structurées valides, vous n'aurez jamais de rich snippets.</p>
 <p>Les erreurs les plus coûteuses sont :</p>
 <p>Le balisage non affiché : déclarer une <code>AggregateRating</code> dans le JSON-LD sans afficher d'étoiles visibles aux utilisateurs. Google sanctionne ce cas depuis 2019 via des pénalités manuelles qui peuvent rester actives plusieurs mois.</p>
@@ -351,8 +401,7 @@ Les pages e-commerce bénéficient du schéma Product avec un CTR en hausse de 2
 <p>Les erreurs de syntaxe JSON - virgule manquante, guillemets mal fermés, accolades non appariées - sont aussi les plus fréquentes et les plus faciles à éviter avec une validation systématique.</p>
 <p>En travaillant avec des entreprises québécoises, je vois régulièrement des sites avec un balisage présent mais jamais vérifié depuis un an. Les schémas obsolètes sont pire que l'absence de schémas - praticien du référencement, Antoine Blot.</p>
 <hr />
-<h2 id="perspectives">Perspectives 2026 : données structurées, IA et l'avenir de la recherche</h2>
-
+<h2 id="perspectives" class="speakable">Perspectives 2026 : données structurées, IA et l'avenir de la recherche</h2>
 <p>Les contenus bien structurés sont mieux compris, mieux résumés et potentiellement mieux cités dans les Google AI Overviews.
  C'est le changement le plus structurant pour le SEO en 2026.</p>
 <p>Les données structurées augmentent vos chances d'être bien positionné pour des requêtes très pertinentes et vous rendent éligible aux nouvelles fonctionnalités de recherche : SGE, recherche vocale, etc.
@@ -362,22 +411,21 @@ L'attribut <code>speakable</code> de Schema.org est un balisage qui permet d'ide
  De nouveaux types comme <code>Claim</code> et <code>DefinedTerm</code> gagnent en importance pour la citabilité dans les LLM.</p>
 <p>J'observe que les sites qui investissent dans le balisage sémantique aujourd'hui construisent une infrastructure de contenu lisible par les machines de demain. Le Search Engine Optimization devient progressivement un travail d'ontologie - spécialiste GEO, Antoine Blot.</p>
 <hr />
-<h2 id="questions-frequentes">FAQ : vos questions fréquentes sur les données structurées</h2>
-
-<h3>Comment vérifier l'implémentation des données structurées ?</h3>
+<h2 id="questions-frequentes" class="speakable">FAQ : vos questions fréquentes sur les données structurées</h2>
+<h3 id="comment-verifier-l-implementation-des-donnees-structurees">Comment vérifier l'implémentation des données structurées ?</h3>
 <p>Le Rich Results Test est l'outil de référence de Google pour vérifier la validité de votre code.
  Saisissez l'URL de votre page ou collez directement votre code. 
 Le Schema Markup Validator permet une vérification plus large de la conformité aux standards Schema.org.
  En production, Google Search Console affiche les erreurs et avertissements dans la section "Améliorations", avec le nombre de pages concernées.</p>
-<h3>Les données structurées influencent-elles directement le classement ?</h3>
+<h3 id="les-donnees-structurees-influencent-elles-directement-le">Les données structurées influencent-elles directement le classement ?</h3>
 <p>Les rich snippets n'ont pas d'impact direct sur le classement, mais ils encouragent davantage de clics, ce qui peut augmenter le CTR organique. Un CTR élevé indique souvent à Google que les utilisateurs trouvent le résultat pertinent, ce qui peut améliorer le classement au fil du temps.
  L'influence est donc indirecte mais mesurable sur la durée.</p>
-<h3>Quels sont les types de données structurées les plus importants ?</h3>
+<h3 id="quels-sont-les-types-de-donnees-structurees-les-plus">Quels sont les types de données structurées les plus importants ?</h3>
 <p>FAQPage est le schéma le plus utilisé et le plus fiable.
  Pour l'e-commerce : Product avec Offer et AggregateRating. Pour les services : LocalBusiness et Service. Pour les blogs : Article et BlogPosting avec les données auteur. 
 Organization identifie l'entité qui édite le site et est le prérequis du Knowledge Panel Google.
  Priorisez selon votre secteur et vos objectifs de rich snippets.</p>
-<h3>Faut-il ajouter des données structurées à toutes les pages ?</h3>
+<h3 id="faut-il-ajouter-des-donnees-structurees-a-toutes-les-pages">Faut-il ajouter des données structurées à toutes les pages ?</h3>
 <p>Tous les types de contenu ne nécessitent pas forcément des données structurées. Concentrez-vous sur les éléments qui peuvent bénéficier des rich snippets : articles de blog, produits, recettes, événements et avis clients.
  Les pages d'erreur 404, les pages de politique de confidentialité ou les pages de connexion n'en ont aucun besoin. Priorisez les pages à fort trafic potentiel et à fort ROI.</p>
 <hr />
@@ -393,7 +441,7 @@ Organization identifie l'entité qui édite le site et est le prérequis du Know
           <a href="/ia/auteur-antoine-blot.html" style="font-weight:700;color:#1a1a1a;font-size:0.95rem;text-decoration:none">Antoine Blot</a>
           <span style="font-size:0.78rem;color:#888">Consultant SEO &amp; GEO</span>
         </div>
-        <p style="font-size:0.85rem;color:#555;margin:0 0 10px;line-height:1.6;font-style:italic">Responsable marketing et consultant SEO et GEO à Montréal et au Québec. Une décennie de pratique au service de la visibilité des marques sur Google et les moteurs IA.</p>
+        <p style="font-size:0.85rem;color:#555;margin:0 0 10px;line-height:1.6;font-style:italic">Expert en stratégies d'acquisition organique (SEO et GEO) basé au Québec. 12 ans de pratique et de veille technologique au service de la visibilité des marques sur Google et les moteurs IA.</p>
         <div style="display:flex;gap:8px;flex-wrap:wrap">
           <a href="/ia/auteur-antoine-blot.html" style="font-size:0.75rem;color:#0066cc;border:1px solid #dde8ff;padding:2px 10px;border-radius:20px;background:#fff;text-decoration:none">Voir le profil</a>
           <a href="https://antoine-blot.com" target="_blank" rel="noopener" style="font-size:0.75rem;color:#0066cc;border:1px solid #dde8ff;padding:2px 10px;border-radius:20px;background:#fff;text-decoration:none">antoine-blot.com</a>
@@ -407,9 +455,7 @@ Organization identifie l'entité qui édite le site et est le prérequis du Know
     <div class="footer-inner">
       <div class="footer-left">
         <strong>BLOT Antoine</strong><br>
-        48 rue de la Concorde<br>
-        Repentigny, Québec<br>
-        Canada
+        48 rue de la Concorde, Repentigny, QC J6A 3W2, Canada
       </div>
       <div class="footer-right">
         <a href="/ia/">Articles</a>

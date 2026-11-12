@@ -27,7 +27,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # Prompt SEO : le guide ultime pour un contenu IA performant en 2026
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Qu'est-ce qu'un prompt SEO et comment ça marche ?](#quest-ce-quun-prompt-seo)
 - [Pourquoi le prompt SEO est devenu indispensable en 2026 ?](#pourquoi-indispensable)
 - [Les avantages incontestables du prompt SEO](#avantages)
@@ -128,13 +128,13 @@ Dans ma pratique, je suis trois signaux d'alerte précoces : une hausse des impr
 
 ## Réponses aux questions fréquentes sur le prompt SEO {#questions-frequentes}
 
-### Quel est le coût d'un abonnement IA pour le prompt SEO ?
+### Quel est le coût d'un abonnement IA pour le prompt SEO ? {#quel-est-le-cout-d-un-abonnement-ia-pour-le-prompt-seo}
 Un abonnement à un outil IA comme ChatGPT Plus ou Claude Pro démarre à environ 20 € par mois. Ce coût fixe contraste avec le tarif d'un article rédigé par un expert SEO sectoriel, qui varie entre 200 et 800 € selon la complexité. Le ROI réel dépend de la qualité des prompts utilisés et de la stratégie de mots-clés associée. Un prompt mal calibré génère du contenu invisible - l'économie apparente devient un coût réel en trafic manqué.
 
-### Le contenu généré par IA est-il pénalisé par Google ?
+### Le contenu généré par IA est-il pénalisé par Google ? {#le-contenu-genere-par-ia-est-il-penalise-par-google}
 Google ne pénalise pas le contenu IA en tant que tel, mais ses algorithmes - notamment la Helpful Content Update - filtrent agressivement les contenus à faible valeur ajoutée, générique ou sans expertise réelle. Des sites ont perdu entre 30 et 90 % de leur trafic organique après 2024 pour ce motif. La règle est simple : contenu utile, original, factuellement vérifié. L'origine humaine ou IA importe moins que la profondeur et la pertinence pour l'utilisateur.
 
-### Faut-il absolument réviser le contenu produit par un prompt SEO ?
+### Faut-il absolument réviser le contenu produit par un prompt SEO ? {#faut-il-absolument-reviser-le-contenu-produit-par-un-prompt}
 Oui, la révision humaine est non négociable pour tout contenu destiné à ranker. L'IA hallucine, généralise et produit un "texte statistiquement probable" - visible par les algorithmes Google comme par les lecteurs. La révision ajoute l'expertise sectorielle, les données terrain, les exemples exclusifs et la voix de marque. En 2026, c'est la combinaison prompt SEO + révision experte qui garantit à la fois la scalabilité et la qualité E-E-A-T exigée par Google.
 
 ---
@@ -152,5 +152,5 @@ Oui, la révision humaine est non négociable pour tout contenu destiné à rank
 - [AEO Answer Engine Optimization : guide complet pour dominer les moteurs de réponse](https://blotmkt.com/ia/ia-seo-geo/aeo-answer-engine-optimization.html)
 - [Algorithmes de recommandation : comprendre, optimiser et exemples concrets](https://blotmkt.com/ia/ia-seo-geo/algorithme-de-recommandation.html)
 - [citations par ia: impact sur la crédibilité et le référencement en 2026](https://blotmkt.com/ia/ia-seo-geo/citations-par-ia.html)
+- [Consultant SEO à Montréal : services, tarifs et méthode pour faire le bon choix](https://blotmkt.com/ia/ia-seo-geo/consultant-seo-montreal.html)
 - [contenu ia seo : l'intelligence artificielle au service de votre stratégie](https://blotmkt.com/ia/ia-seo-geo/contenu-ia-seo.html)
-- [Contextualisation SEO : Le guide ultime pour 2026](https://blotmkt.com/ia/ia-seo-geo/contextualisation-seo.html)

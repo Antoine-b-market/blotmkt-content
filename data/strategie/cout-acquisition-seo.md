@@ -199,7 +199,7 @@ Pour les outils : Google Search Console (gratuit, indispensable), Semrush ou Ahr
 
 ---
 
-## Questions fréquentes sur le coût d'acquisition SEO {#questions-frequentes-sur-le-cout-dacquisition-seo}
+## Questions fréquentes sur le coût d'acquisition SEO
 
 ### Le SEO est-il rentable pour toutes les tailles d'entreprise ?
 

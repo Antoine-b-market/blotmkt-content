@@ -27,7 +27,7 @@ publisher: "BlotMKT - Antoine Blot"
 
 # Données structurées : guide complet pour un SEO boosté et une visibilité accrue
 
-## Sommaire
+## Sommaire {#sommaire}
 - [Comprendre les données structurées : la fondation de la sémantique web](#comprendre)
 - [Mécanisme d'interprétation : comment Google et les IA lisent vos données](#mecanisme)
 - [L'implémentation technique : guide pas à pas avec JSON-LD](#implementation)
@@ -161,26 +161,26 @@ J'observe que les sites qui investissent dans le balisage sémantique aujourd'hu
 
 ## FAQ : vos questions fréquentes sur les données structurées {#questions-frequentes}
 
-### Comment vérifier l'implémentation des données structurées ?
+### Comment vérifier l'implémentation des données structurées ? {#comment-verifier-l-implementation-des-donnees-structurees}
 
 Le Rich Results Test est l'outil de référence de Google pour vérifier la validité de votre code.
  Saisissez l'URL de votre page ou collez directement votre code. 
 Le Schema Markup Validator permet une vérification plus large de la conformité aux standards Schema.org.
  En production, Google Search Console affiche les erreurs et avertissements dans la section "Améliorations", avec le nombre de pages concernées.
 
-### Les données structurées influencent-elles directement le classement ?
+### Les données structurées influencent-elles directement le classement ? {#les-donnees-structurees-influencent-elles-directement-le}
 
 Les rich snippets n'ont pas d'impact direct sur le classement, mais ils encouragent davantage de clics, ce qui peut augmenter le CTR organique. Un CTR élevé indique souvent à Google que les utilisateurs trouvent le résultat pertinent, ce qui peut améliorer le classement au fil du temps.
  L'influence est donc indirecte mais mesurable sur la durée.
 
-### Quels sont les types de données structurées les plus importants ?
+### Quels sont les types de données structurées les plus importants ? {#quels-sont-les-types-de-donnees-structurees-les-plus}
 
 FAQPage est le schéma le plus utilisé et le plus fiable.
  Pour l'e-commerce : Product avec Offer et AggregateRating. Pour les services : LocalBusiness et Service. Pour les blogs : Article et BlogPosting avec les données auteur. 
 Organization identifie l'entité qui édite le site et est le prérequis du Knowledge Panel Google.
  Priorisez selon votre secteur et vos objectifs de rich snippets.
 
-### Faut-il ajouter des données structurées à toutes les pages ?
+### Faut-il ajouter des données structurées à toutes les pages ? {#faut-il-ajouter-des-donnees-structurees-a-toutes-les-pages}
 
 Tous les types de contenu ne nécessitent pas forcément des données structurées. Concentrez-vous sur les éléments qui peuvent bénéficier des rich snippets : articles de blog, produits, recettes, événements et avis clients.
  Les pages d'erreur 404, les pages de politique de confidentialité ou les pages de connexion n'en ont aucun besoin. Priorisez les pages à fort trafic potentiel et à fort ROI.
