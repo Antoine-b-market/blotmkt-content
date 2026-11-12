@@ -399,6 +399,15 @@ pages:
   keyword: YMYL SEO
   title: 'ymyl seo : guide complet pour protéger votre réputation en ligne'
   url: https://blotmkt.com/data/definition/ymyl-seo.md
+- category: ia
+  date: 2026-11-12 23:38
+  description: Plutôt qu'un faux classement, découvrez les critères essentiels, tarifs
+    et méthodes pour choisir le bon partenaire SEO à Montréal sans risquer votre visibilité.
+  hreflang: fr-CA
+  html_url: https://blotmkt.com/ia/ia/meilleure-agence-seo-montreal.html
+  keyword: meilleure agence SEO Montréal
+  title: Comment choisir la meilleure agence SEO à Montréal pour votre entreprise
+  url: https://blotmkt.com/data/ia/meilleure-agence-seo-montreal.md
 - category: ia-seo-geo
   date: 2026-05-05 08:17
   description: Découvrez l'AEO, l'optimisation pour les moteurs de réponse (IA). Guide
@@ -691,6 +700,6 @@ site:
   name: BlotMKT
   sameAs: https://www.antoine-blot.com
   title: BlotMKT - Laboratoire de recherche appliquée sur le contenu SEO et GEO
-  total_pages: 68
+  total_pages: 69
   updated: '2026-11-12'
   url: https://blotmkt.com

@@ -2,7 +2,7 @@
   "openapi": "3.1.0",
   "info": {
     "title": "BlotMKT - Laboratoire de recherche appliquée sur le contenu SEO et GEO",
-    "description": "Laboratoire de recherche appliquée sur le contenu SEO et GEO, fondé par Antoine Blot : pipeline de génération et de diagnostic de contenus conçus pour être cités par les moteurs de réponse IA. Corpus de 68 articles sur le SEO, le GEO (Generative Engine Optimization) et le référencement naturel, rédigés par Antoine Blot, consultant SEO et GEO au Québec. ORCID : https://orcid.org/0009-0005-6450-4528",
+    "description": "Laboratoire de recherche appliquée sur le contenu SEO et GEO, fondé par Antoine Blot : pipeline de génération et de diagnostic de contenus conçus pour être cités par les moteurs de réponse IA. Corpus de 69 articles sur le SEO, le GEO (Generative Engine Optimization) et le référencement naturel, rédigés par Antoine Blot, consultant SEO et GEO au Québec. ORCID : https://orcid.org/0009-0005-6450-4528",
     "version": "2026-11-12",
     "contact": {
       "name": "Antoine Blot",
@@ -1752,6 +1752,50 @@
         "operationId": "ymyl-seo-md",
         "tags": [
           "definition"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article Markdown brut — format LLM-ready",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ia/ia/meilleure-agence-seo-montreal.html": {
+      "get": {
+        "summary": "Comment choisir la meilleure agence SEO à Montréal pour votre entreprise",
+        "description": "Plutôt qu'un faux classement, découvrez les critères essentiels, tarifs et méthodes pour choisir le bon partenaire SEO à Montréal sans risquer votre visibilité.",
+        "operationId": "meilleure-agence-seo-montreal",
+        "tags": [
+          "ia"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article HTML avec schema.org",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/ia/meilleure-agence-seo-montreal.md": {
+      "get": {
+        "summary": "Comment choisir la meilleure agence SEO à Montréal pour votre entreprise",
+        "description": "Plutôt qu'un faux classement, découvrez les critères essentiels, tarifs et méthodes pour choisir le bon partenaire SEO à Montréal sans risquer votre visibilité.",
+        "operationId": "meilleure-agence-seo-montreal-md",
+        "tags": [
+          "ia"
         ],
         "responses": {
           "200": {

@@ -2,7 +2,7 @@
 # Auteur : Antoine Blot, consultant SEO et GEO au Québec (https://antoine-blot.com)
 # ORCID : https://orcid.org/0009-0005-6450-4528
 # Mis à jour : 2026-11-12
-# Total articles publiés : 68
+# Total articles publiés : 69
 
 ## À propos
 BlotMKT est un laboratoire de recherche appliquée sur le contenu SEO et GEO en français, fondé par Antoine Blot, consultant SEO et GEO au Québec.
@@ -135,6 +135,11 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [ymyl seo : guide complet pour protéger votre réputation en ligne](https://blotmkt.com/ia/definition/ymyl-seo.html)
   Découvrez les stratégies ymyl seo cruciales pour sécuriser votre site web, renforcer la confiance des utilisateurs et améliorer votre positionnement sur google.
+
+### IA & SEO
+
+- [Comment choisir la meilleure agence SEO à Montréal pour votre entreprise](https://blotmkt.com/ia/ia/meilleure-agence-seo-montreal.html)
+  Plutôt qu'un faux classement, découvrez les critères essentiels, tarifs et méthodes pour choisir le bon partenaire SEO à Montréal sans risquer votre visibilité.
 
 ### IA, SEO & GEO
 
@@ -316,6 +321,10 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 - [Trust flow seo : comprendre et booster l'autorité de votre site](https://blotmkt.com/data/definition/trust-flow-seo.md)
 
 - [ymyl seo : guide complet pour protéger votre réputation en ligne](https://blotmkt.com/data/definition/ymyl-seo.md)
+
+### IA & SEO
+
+- [Comment choisir la meilleure agence SEO à Montréal pour votre entreprise](https://blotmkt.com/data/ia/meilleure-agence-seo-montreal.md)
 
 ### IA, SEO & GEO
 
