@@ -87,13 +87,14 @@ pages:
   title: 'Méta description : guide ultime pour optimiser votre seo'
   url: https://blotmkt.com/data/contenu/meta-description.md
 - category: contenu
-  date: 2026-05-14 03:52
-  description: Découvrez comment la mise à jour de contenu SEO s'impose pour éviter
-    les pénalités Google et performer. Audit, stratégie continue et GEO au programme.
+  date: '2026-05-14'
+  description: Découvrez comment détecter l'érosion de trafic (content decay) et réussir
+    la mise à jour de vos contenus SEO pour regagner vos positions sur Google.
   hreflang: fr-CA
   html_url: https://blotmkt.com/ia/contenu/mise-a-jour-contenu-seo.html
   keyword: Mise à jour contenu SEO
-  title: 'Mise à jour contenu seo : adaptez-vous aux algos et évitez la sur-optimisation'
+  title: 'Mise à jour de contenu SEO : comment rafraîchir vos pages avant de perdre
+    vos positions'
   url: https://blotmkt.com/data/contenu/mise-a-jour-contenu-seo.md
 - category: contenu
   date: 2026-05-14 04:06
@@ -632,16 +633,6 @@ pages:
   title: 'guest blogging seo : guide complet pour un référencement durable en 2026'
   url: https://blotmkt.com/data/popularite/guest-blogging-seo.md
 - category: strategie
-  date: '2026-06-08'
-  description: 'Guide complet pour choisir votre agence SEO à Montréal : tarifs, conformité
-    Loi 96, impact du GEO et tableau comparatif de 8 prestataires québécois.'
-  hreflang: fr-CA
-  html_url: https://blotmkt.com/ia/strategie/agence-seo-montreal.html
-  keyword: agence SEO montréal
-  title: 'Comment choisir une agence SEO à Montréal en 2026 : critères, tarifs et
-    comparatif'
-  url: https://blotmkt.com/data/strategie/agence-seo-montreal.md
-- category: strategie
   date: 2026-05-27 06:20
   description: 'Découvrez l''audit sémantique SEO: définition, méthodes, outils et
     avantages pour booster votre visibilité en ligne. Essentiel face aux moteurs de
@@ -699,6 +690,6 @@ site:
   name: BlotMKT
   sameAs: https://www.antoine-blot.com
   title: BlotMKT - Laboratoire de recherche appliquée sur le contenu SEO et GEO
-  total_pages: 69
+  total_pages: 68
   updated: '2026-11-12'
   url: https://blotmkt.com

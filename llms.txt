@@ -2,7 +2,7 @@
 # Auteur : Antoine Blot, consultant SEO et GEO au Québec (https://antoine-blot.com)
 # ORCID : https://orcid.org/0009-0005-6450-4528
 # Mis à jour : 2026-11-12
-# Total articles publiés : 69
+# Total articles publiés : 68
 
 ## À propos
 BlotMKT est un laboratoire de recherche appliquée sur le contenu SEO et GEO en français, fondé par Antoine Blot, consultant SEO et GEO au Québec.
@@ -38,8 +38,8 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 - [Méta description : guide ultime pour optimiser votre seo](https://blotmkt.com/ia/contenu/meta-description.html)
   Maîtrisez la méta description ! Définition, optimisation, exemples et impact SEO. Attirez plus de clics et boostez votre positionnement. Guide complet.
 
-- [Mise à jour contenu seo : adaptez-vous aux algos et évitez la sur-optimisation](https://blotmkt.com/ia/contenu/mise-a-jour-contenu-seo.html)
-  Découvrez comment la mise à jour de contenu SEO s'impose pour éviter les pénalités Google et performer. Audit, stratégie continue et GEO au programme.
+- [Mise à jour de contenu SEO : comment rafraîchir vos pages avant de perdre vos positions](https://blotmkt.com/ia/contenu/mise-a-jour-contenu-seo.html)
+  Découvrez comment détecter l'érosion de trafic (content decay) et réussir la mise à jour de vos contenus SEO pour regagner vos positions sur Google.
 
 - [Mots-clés de marque : maîtrisez votre visibilité et protégez votre réputation](https://blotmkt.com/ia/contenu/mots-cles-de-marque.html)
   Découvrez comment les mots-clés de marque optimisent votre SEO. Identifiez-les, utilisez-les stratégiquement et protégez votre marque en ligne.
@@ -218,9 +218,6 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 
 ### Stratégie SEO
 
-- [Comment choisir une agence SEO à Montréal en 2026 : critères, tarifs et comparatif](https://blotmkt.com/ia/strategie/agence-seo-montreal.html)
-  Guide complet pour choisir votre agence SEO à Montréal : tarifs, conformité Loi 96, impact du GEO et tableau comparatif de 8 prestataires québécois.
-
 - [Audit sémantique seo : la clé d'une stratégie performante à l'ère des ia et du geo](https://blotmkt.com/ia/strategie/audit-semantique-seo.html)
   Découvrez l'audit sémantique SEO: définition, méthodes, outils et avantages pour booster votre visibilité en ligne. Essentiel face aux moteurs de recherche génératifs et au GEO.
 
@@ -256,7 +253,7 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 
 - [Méta description : guide ultime pour optimiser votre seo](https://blotmkt.com/data/contenu/meta-description.md)
 
-- [Mise à jour contenu seo : adaptez-vous aux algos et évitez la sur-optimisation](https://blotmkt.com/data/contenu/mise-a-jour-contenu-seo.md)
+- [Mise à jour de contenu SEO : comment rafraîchir vos pages avant de perdre vos positions](https://blotmkt.com/data/contenu/mise-a-jour-contenu-seo.md)
 
 - [Mots-clés de marque : maîtrisez votre visibilité et protégez votre réputation](https://blotmkt.com/data/contenu/mots-cles-de-marque.md)
 
@@ -379,8 +376,6 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 - [guest blogging seo : guide complet pour un référencement durable en 2026](https://blotmkt.com/data/popularite/guest-blogging-seo.md)
 
 ### Stratégie SEO
-
-- [Comment choisir une agence SEO à Montréal en 2026 : critères, tarifs et comparatif](https://blotmkt.com/data/strategie/agence-seo-montreal.md)
 
 - [Audit sémantique seo : la clé d'une stratégie performante à l'ère des ia et du geo](https://blotmkt.com/data/strategie/audit-semantique-seo.md)
 

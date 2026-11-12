@@ -2,7 +2,7 @@
   "openapi": "3.1.0",
   "info": {
     "title": "BlotMKT - Laboratoire de recherche appliquée sur le contenu SEO et GEO",
-    "description": "Laboratoire de recherche appliquée sur le contenu SEO et GEO, fondé par Antoine Blot : pipeline de génération et de diagnostic de contenus conçus pour être cités par les moteurs de réponse IA. Corpus de 69 articles sur le SEO, le GEO (Generative Engine Optimization) et le référencement naturel, rédigés par Antoine Blot, consultant SEO et GEO au Québec. ORCID : https://orcid.org/0009-0005-6450-4528",
+    "description": "Laboratoire de recherche appliquée sur le contenu SEO et GEO, fondé par Antoine Blot : pipeline de génération et de diagnostic de contenus conçus pour être cités par les moteurs de réponse IA. Corpus de 68 articles sur le SEO, le GEO (Generative Engine Optimization) et le référencement naturel, rédigés par Antoine Blot, consultant SEO et GEO au Québec. ORCID : https://orcid.org/0009-0005-6450-4528",
     "version": "2026-11-12",
     "contact": {
       "name": "Antoine Blot",
@@ -361,8 +361,8 @@
     },
     "/ia/contenu/mise-a-jour-contenu-seo.html": {
       "get": {
-        "summary": "Mise à jour contenu seo : adaptez-vous aux algos et évitez la sur-optimisation",
-        "description": "Découvrez comment la mise à jour de contenu SEO s'impose pour éviter les pénalités Google et performer. Audit, stratégie continue et GEO au programme.",
+        "summary": "Mise à jour de contenu SEO : comment rafraîchir vos pages avant de perdre vos positions",
+        "description": "Découvrez comment détecter l'érosion de trafic (content decay) et réussir la mise à jour de vos contenus SEO pour regagner vos positions sur Google.",
         "operationId": "mise-a-jour-contenu-seo",
         "tags": [
           "contenu"
@@ -383,8 +383,8 @@
     },
     "/data/contenu/mise-a-jour-contenu-seo.md": {
       "get": {
-        "summary": "Mise à jour contenu seo : adaptez-vous aux algos et évitez la sur-optimisation",
-        "description": "Découvrez comment la mise à jour de contenu SEO s'impose pour éviter les pénalités Google et performer. Audit, stratégie continue et GEO au programme.",
+        "summary": "Mise à jour de contenu SEO : comment rafraîchir vos pages avant de perdre vos positions",
+        "description": "Découvrez comment détecter l'érosion de trafic (content decay) et réussir la mise à jour de vos contenus SEO pour regagner vos positions sur Google.",
         "operationId": "mise-a-jour-contenu-seo-md",
         "tags": [
           "contenu"
@@ -2808,50 +2808,6 @@
         "operationId": "guest-blogging-seo-md",
         "tags": [
           "popularite"
-        ],
-        "responses": {
-          "200": {
-            "description": "Article Markdown brut — format LLM-ready",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/ia/strategie/agence-seo-montreal.html": {
-      "get": {
-        "summary": "Comment choisir une agence SEO à Montréal en 2026 : critères, tarifs et comparatif",
-        "description": "Guide complet pour choisir votre agence SEO à Montréal : tarifs, conformité Loi 96, impact du GEO et tableau comparatif de 8 prestataires québécois.",
-        "operationId": "agence-seo-montreal",
-        "tags": [
-          "strategie"
-        ],
-        "responses": {
-          "200": {
-            "description": "Article HTML avec schema.org",
-            "content": {
-              "text/html": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/data/strategie/agence-seo-montreal.md": {
-      "get": {
-        "summary": "Comment choisir une agence SEO à Montréal en 2026 : critères, tarifs et comparatif",
-        "description": "Guide complet pour choisir votre agence SEO à Montréal : tarifs, conformité Loi 96, impact du GEO et tableau comparatif de 8 prestataires québécois.",
-        "operationId": "agence-seo-montreal-md",
-        "tags": [
-          "strategie"
         ],
         "responses": {
           "200": {
