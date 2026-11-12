@@ -493,8 +493,8 @@
     },
     "/ia/contenu/optimisation-de-contenu.html": {
       "get": {
-        "summary": "Optimisation de contenu : le guide complet 2026 pour un seo durable",
-        "description": "Maîtrisez l'optimisation de contenu SEO: techniques avancées, outils clés et stratégies 2026 pour propulser votre visibilité organique et engager. Guide complet.",
+        "summary": "Optimisation de contenu : comment concevoir un texte performant dès la rédaction",
+        "description": "Maîtrisez l'optimisation de contenu SEO dès la phase d'écriture : structure sémantique, critères E-E-A-T et visibilité sur Google et les moteurs IA.",
         "operationId": "optimisation-de-contenu",
         "tags": [
           "contenu"
@@ -515,8 +515,8 @@
     },
     "/data/contenu/optimisation-de-contenu.md": {
       "get": {
-        "summary": "Optimisation de contenu : le guide complet 2026 pour un seo durable",
-        "description": "Maîtrisez l'optimisation de contenu SEO: techniques avancées, outils clés et stratégies 2026 pour propulser votre visibilité organique et engager. Guide complet.",
+        "summary": "Optimisation de contenu : comment concevoir un texte performant dès la rédaction",
+        "description": "Maîtrisez l'optimisation de contenu SEO dès la phase d'écriture : structure sémantique, critères E-E-A-T et visibilité sur Google et les moteurs IA.",
         "operationId": "optimisation-de-contenu-md",
         "tags": [
           "contenu"

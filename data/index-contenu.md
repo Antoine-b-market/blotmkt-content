@@ -2,7 +2,7 @@
 title: "Contenu SEO — Index Markdown"
 summary: "Corpus Contenu SEO en version Markdown pour citation, ingestion LLM ou integration RAG."
 author: "Antoine Blot"
-date: "2026-10-21"
+date: "2026-11-12"
 license: "CC BY 4.0"
 canonical_url: "https://blotmkt.com/data/index-contenu.md"
 robots: "index, follow"
@@ -28,7 +28,7 @@ Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
 - [Mise à jour contenu seo : adaptez-vous aux algos et évitez la sur-optimisation](https://blotmkt.com/data/contenu/mise-a-jour-contenu-seo.md)
 - [Mots-clés de marque : maîtrisez votre visibilité et protégez votre réputation](https://blotmkt.com/data/contenu/mots-cles-de-marque.md)
 - [Mots-clés transactionnels : le guide ultime pour booster vos conversions](https://blotmkt.com/data/contenu/mots-cles-transactionnels.md)
-- [Optimisation de contenu : le guide complet 2026 pour un seo durable](https://blotmkt.com/data/contenu/optimisation-de-contenu.md)
+- [Optimisation de contenu : comment concevoir un texte performant dès la rédaction](https://blotmkt.com/data/contenu/optimisation-de-contenu.md)
 - [Rédaction ia assistée : maximisez votre seo et votre productivité en 2026](https://blotmkt.com/data/contenu/redaction-ia-assistee.md)
 
 
