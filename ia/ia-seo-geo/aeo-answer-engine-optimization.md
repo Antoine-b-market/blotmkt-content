@@ -96,7 +96,7 @@ L'AEO ne remplace pas le SEO : elle l'amplifie. Le SEO construit l'infrastructur
 
 Le processus d'intégration suit cinq étapes séquentielles :
 
-1. Audit SEO complet : analyse technique, sémantique, autorité de domaine et visibilité IA actuelle - les quatre axes d'un diagnostic à 360°.
+1. [Audit SEO](https://blotmkt.com/ia/audit/audit-seo.html) complet : analyse technique, sémantique, autorité de domaine et visibilité IA actuelle - les quatre axes d'un diagnostic à 360°.
 2. Identification des content gaps : quelles questions posées à ChatGPT ou Perplexity ne trouvent pas de réponse sur votre site ?
 3. Optimisation du contenu existant : ajout de données structurées, reformatage answer-first, actualisation des statistiques.
 4. Création de contenu ciblant les requêtes conversationnelles longues et les opportunités de featured snippets.

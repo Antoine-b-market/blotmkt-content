@@ -1,8 +1,8 @@
 # BlotMKT - Laboratoire de recherche appliquée sur le contenu SEO et GEO
 # Auteur : Antoine Blot, consultant SEO et GEO au Québec (https://antoine-blot.com)
 # ORCID : https://orcid.org/0009-0005-6450-4528
-# Mis à jour : 2026-11-12
-# Total articles publiés : 68
+# Mis à jour : 2026-11-13
+# Total articles publiés : 69
 
 ## À propos
 BlotMKT est un laboratoire de recherche appliquée sur le contenu SEO et GEO en français, fondé par Antoine Blot, consultant SEO et GEO au Québec.
@@ -14,6 +14,9 @@ ORCID : https://orcid.org/0009-0005-6450-4528
   Présentation d'Antoine Blot, consultant expert en SEO et GEO basé au Québec.
 
 ### Audit SEO
+
+- [Audit SEO : guide complet pour diagnostiquer et propulser son référencement](https://blotmkt.com/ia/audit/audit-seo.html)
+  Découvrez la méthode, les outils et les critères d'un audit SEO complet pour optimiser votre visibilité sur Google et les moteurs de réponse IA.
 
 - [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/ia/audit/indexation-api-google.html)
   Maîtrisez l'Indexation API Google pour accélérer l'exploration et l'indexation de vos contenus. Découvrez les bonnes pratiques et les outils pour un SEO optimal.
@@ -236,6 +239,8 @@ ORCID : https://orcid.org/0009-0005-6450-4528
 ## Pages Markdown (texte brut, LLMs)
 
 ### Audit SEO
+
+- [Audit SEO : guide complet pour diagnostiquer et propulser son référencement](https://blotmkt.com/data/audit/audit-seo.md)
 
 - [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/data/audit/indexation-api-google.md)
 

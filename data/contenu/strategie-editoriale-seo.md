@@ -69,7 +69,7 @@ La cause racine est presque toujours la même : l'optimisation pour le classemen
 Résultat : des dizaines d'articles qui peuplent l'index, aucun qui domine réellement un cluster de sujets. Le site n'est pas perçu comme une référence par l'algorithme de Google, ni par ses AI Overviews. 
 Le contenu informatif générique, les définitions basiques et les guides standards ont été largement absorbés par les AI Overviews et ne se remettront pas.
 
-L'absence d'alignement entre intention de recherche, autorité thématique et technique produit ce résultat systématiquement. L'audit SEO du contenu existant, souvent négligé, révèle presque toujours ce même diagnostic : beaucoup de pages, peu de profondeur, aucune architecture.
+L'absence d'alignement entre intention de recherche, autorité thématique et technique produit ce résultat systématiquement. L'[Audit SEO](https://blotmkt.com/ia/audit/audit-seo.html) du contenu existant, souvent négligé, révèle presque toujours ce même diagnostic : beaucoup de pages, peu de profondeur, aucune architecture.
 
 ---
 

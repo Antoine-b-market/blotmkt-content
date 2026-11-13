@@ -18,6 +18,15 @@ content_policy:
   indexing: allowed
 pages:
 - category: audit
+  date: 2026-11-13 00:12
+  description: Découvrez la méthode, les outils et les critères d'un audit SEO complet
+    pour optimiser votre visibilité sur Google et les moteurs de réponse IA.
+  hreflang: fr-CA
+  html_url: https://blotmkt.com/ia/audit/audit-seo.html
+  keyword: Audit SEO
+  title: 'Audit SEO : guide complet pour diagnostiquer et propulser son référencement'
+  url: https://blotmkt.com/data/audit/audit-seo.md
+- category: audit
   date: 2026-05-05 11:23
   description: Maîtrisez l'Indexation API Google pour accélérer l'exploration et l'indexation
     de vos contenus. Découvrez les bonnes pratiques et les outils pour un SEO optimal.
@@ -690,6 +699,6 @@ site:
   name: BlotMKT
   sameAs: https://www.antoine-blot.com
   title: BlotMKT - Laboratoire de recherche appliquée sur le contenu SEO et GEO
-  total_pages: 68
-  updated: '2026-11-12'
+  total_pages: 69
+  updated: '2026-11-13'
   url: https://blotmkt.com

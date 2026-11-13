@@ -108,7 +108,7 @@ L'idée actionnable n'est pas d'atteindre 11 ancres à tout prix, mais d'éviter
 
 **Les pratiques qui fonctionnent vraiment**
 
-Utiliser des ancres descriptives et variées. Une ancre comme "audit SEO", "analyse du référencement naturel" ou "diagnostic de visibilité" transmet plus de signal sémantique à Google que "cliquez ici".
+Utiliser des ancres descriptives et variées. Une ancre comme "[Audit SEO](https://blotmkt.com/ia/audit/audit-seo.html)", "analyse du référencement naturel" ou "diagnostic de visibilité" transmet plus de signal sémantique à Google que "cliquez ici".
 
 Privilégier les liens contextuels dans le corps du texte. 
 Les liens de navigation et de footer ont leur utilité, mais les liens contextuels dans le contenu principal transmettent plus d'autorité.

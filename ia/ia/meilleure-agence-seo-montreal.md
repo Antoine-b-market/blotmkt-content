@@ -131,8 +131,8 @@ FAQ_JSON-->
 
 ## Articles connexes
 
+- [Audit SEO : guide complet pour diagnostiquer et propulser son référencement](https://blotmkt.com/ia/audit/audit-seo.html)
 - [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/ia/audit/indexation-api-google.html)
 - [L'alt text image : votre passeport pour l'accessibilité et la performance seo ia](https://blotmkt.com/ia/contenu/alt-text-image.html)
 - [Clustering de mots-clés : guide complet pour booster votre seo](https://blotmkt.com/ia/contenu/clustering-de-mots-cles.html)
 - [Content gap SEO : comment identifier et combler les manques de contenu](https://blotmkt.com/ia/contenu/content-gap-seo.html)
-- [L'intention de recherche : la boussole seo à l'ère des llm et du geo](https://blotmkt.com/ia/contenu/intention-de-recherche.html)

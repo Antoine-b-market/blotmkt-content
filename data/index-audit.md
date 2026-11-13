@@ -2,7 +2,7 @@
 title: "Audit SEO — Index Markdown"
 summary: "Corpus Audit SEO en version Markdown pour citation, ingestion LLM ou integration RAG."
 author: "Antoine Blot"
-date: "2026-10-21"
+date: "2026-11-13"
 license: "CC BY 4.0"
 canonical_url: "https://blotmkt.com/data/index-audit.md"
 robots: "index, follow"
@@ -16,6 +16,7 @@ Ressources Audit SEO par Antoine Blot, consultant SEO & GEO a Montreal.
 
 Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
 
+- [Audit SEO : guide complet pour diagnostiquer et propulser son référencement](https://blotmkt.com/data/audit/audit-seo.md)
 - [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/data/audit/indexation-api-google.md)
 
 

@@ -73,7 +73,7 @@ La désorganisation du maillage interne est un autre écueil fréquent : si les 
 ## Pourquoi la préparation est la clé : données et retours d'expérience
 
 > Vrai vs Faux : "Une bonne équipe de développement suffit pour sécuriser une migration SEO."
-> Faux. Le développement et le SEO sont deux disciplines complémentaires mais distinctes. Aucune migration ne se pilote sans audit SEO dédié en amont.
+> Faux. Le développement et le SEO sont deux disciplines complémentaires mais distinctes. Aucune migration ne se pilote sans [Audit SEO](https://blotmkt.com/ia/audit/audit-seo.html) dédié en amont.
 
 Réussir une migration sans perte de trafic SEO ne repose pas sur la chance ni sur une bonne préparation théorique : cela nécessite un cadre rigoureux, quantifiable et scientifique.
  Ce cadre repose sur quatre piliers : prévision statistique du trafic attendu post-migration, modélisation du risque par type d'URL, QA technique approfondi avant le basculement, et monitoring en temps réel.
@@ -218,4 +218,4 @@ FAQ_JSON-->
 - [Consultant SEO montréal : l'expert qui surclasse l'agence sur le marché québécois](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)
 - [Coût d'acquisition seo : guide complet pour optimiser votre investissement](https://blotmkt.com/ia/strategie/cout-acquisition-seo.html)
 - [Développez votre personal branding grâce au SEO : le guide complet de l'expert](https://blotmkt.com/ia/strategie/personal-branding-seo.html)
-- [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/ia/audit/indexation-api-google.html)
+- [Audit SEO : guide complet pour diagnostiquer et propulser son référencement](https://blotmkt.com/ia/audit/audit-seo.html)

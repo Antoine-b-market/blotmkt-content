@@ -123,7 +123,7 @@ Adapter la méta description au type de page change radicalement son efficacité
 |---|---|---|
 | Produit e-commerce | Bénéfice + caractéristique différenciante + CTA | "Découvrez [produit] certifié ⭐. Livraison express au Québec. Économisez jusqu'à 20 % dès aujourd'hui." |
 | Article de blog | Question résolue + ce que l'utilisateur apprend + mot-clé | "Comment optimiser vos méta descriptions en 2026 ? Longueur, structure, exemples et outils. Guide complet." |
-| Page service | Résultat concret + délai + preuve sociale | "Audit SEO complet en 5 jours. 150+ sites analysés. Identifiez vos 10 priorités dès cette semaine." |
+| Page service | Résultat concret + délai + preuve sociale | "[Audit SEO](https://blotmkt.com/ia/audit/audit-seo.html) complet en 5 jours. 150+ sites analysés. Identifiez vos 10 priorités dès cette semaine." |
 | Page catégorie | Étendue de l'offre + filtre principal + urgence si applicable | "Comparez 80+ agences SEO à Montréal. Avis vérifiés, tarifs et spécialités. Trouvez la bonne en 3 min." |
 
 

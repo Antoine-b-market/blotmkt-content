@@ -203,7 +203,7 @@ Ajouter des statistiques à votre contenu peut augmenter votre visibilité IA de
 
 Oui, sans exception. Votre site personnel est la seule propriété numérique que vous contrôlez entièrement. 
 Les articles LinkedIn sont indexés par Google, ce qui signifie que votre contenu peut attirer du trafic externe depuis les résultats de recherche.
- Mais LinkedIn peut modifier ses règles ou fermer des fonctionnalités du jour au lendemain. Même le meilleur contenu structuré ne sera pas cité par un LLM si la page présente des problèmes techniques : temps de chargement lent, canoniques brisées ou Schema mal configuré. Avant d'investir dans une stratégie de citation IA, un audit SEO technique de base est indispensable.
+ Mais LinkedIn peut modifier ses règles ou fermer des fonctionnalités du jour au lendemain. Même le meilleur contenu structuré ne sera pas cité par un LLM si la page présente des problèmes techniques : temps de chargement lent, canoniques brisées ou Schema mal configuré. Avant d'investir dans une stratégie de citation IA, un [Audit SEO](https://blotmkt.com/ia/audit/audit-seo.html) technique de base est indispensable.
 
 ### Combien de temps faut-il pour voir des résultats avec le personal branding SEO ?
 
@@ -230,4 +230,4 @@ FAQ_JSON-->
 - [Consultant SEO montréal : l'expert qui surclasse l'agence sur le marché québécois](https://blotmkt.com/ia/strategie/consultant-seo-montreal.html)
 - [Coût d'acquisition seo : guide complet pour optimiser votre investissement](https://blotmkt.com/ia/strategie/cout-acquisition-seo.html)
 - [Migration seo: guide complet pour une transition réussie](https://blotmkt.com/ia/strategie/migration-seo.html)
-- [Indexation API Google : Guide complet pour booster votre SEO](https://blotmkt.com/ia/audit/indexation-api-google.html)
+- [Audit SEO : guide complet pour diagnostiquer et propulser son référencement](https://blotmkt.com/ia/audit/audit-seo.html)

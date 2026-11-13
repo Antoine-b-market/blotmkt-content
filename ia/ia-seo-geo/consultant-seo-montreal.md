@@ -37,7 +37,7 @@ Choisir un consultant SEO à Montréal sans repère objectif, c'est risquer d'in
 > ## L'essentiel à retenir
 > - Un consultant SEO à Montréal structure votre visibilité organique autour d'objectifs d'affaires mesurables, pas de positions abstraites.
 > - Les classements d'agences SEO en ligne ne constituent pas un critère de sélection fiable : interrogez des références clients réelles.
-> - Un audit SEO complet à Montréal coûte entre 2 000 $ et 8 000 $ CA selon la taille et la complexité du site[^1].
+> - Un [Audit SEO](https://blotmkt.com/ia/audit/audit-seo.html) complet à Montréal coûte entre 2 000 $ et 8 000 $ CA selon la taille et la complexité du site[^1].
 > - Le SEO produit des gains stables après plusieurs mois d'effort continu : toute garantie de résultats rapides est un signal d'alarme.
 <!-- speakable:end -->
 
